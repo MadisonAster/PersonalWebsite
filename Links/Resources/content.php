@@ -1,6 +1,5 @@
 <div id='ResourcesDiv' style='padding:0;margin:0;display:none;'>
-<!--
-<div id="container">
+<div id="jstree-proton-3">
   <ul>
     <li>Root node
       <ul>
@@ -8,11 +7,11 @@
       </ul>
     </li>
   </ul>
-</div>-->
+</div>
 <script>
 $(function() {
   $('#jstree-proton-3').jstree({
-        'plugins': ["wholerow", "checkbox"],
+        'plugins': ["wholerow"],
         'core': {
             'data': [{
                     "text": "Wholerow with checkboxes",
@@ -23,7 +22,7 @@ $(function() {
                         }
                     }, {
                         "text": "custom icon URL",
-                        "icon": "./assets/images/tree_icon.png"
+                        "icon": "./_js/jstree/demo/assets/images/tree_icon.png"
                     }, {
                         "text": "initially open",
                         "state": {
