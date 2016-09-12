@@ -1,0 +1,52 @@
+<div class='ContentDiv'>
+    <h2 style='text-align:left;'>Contact Info:</h2>
+    <br/><br/>
+    contact@thomas-mcvay.info
+    <br/><br/>
+</div>  
+
+<br/><br/>
+  
+<div class='ContentDiv'>
+    <h2 style='text-align:left;'>Contact Form:</h2>
+    <br/><br/>
+    
+    <div id='ThankYou' style='color:#FF0000;display:none;'>
+    Thanks for your email! I'll be in touch with you soon.
+    </div>
+    <form name="contactform" method="post" action="/Contact/SendEmail.php" >
+    Name
+    <br/>
+	<input id='Name' name='Name' type='text' class='InputForm' style='width:70%'>
+	<br/>
+    Email
+    <br/>
+	<input id='Email' name='Email' type='text' class='InputForm' style='width:70%'>
+    <br/><br/>
+    Subject
+    <br/>
+	<input id='Subject' name='Subject' type='text' class='InputForm' style='width:100%'>
+	<br/>
+    Message
+    <br/>
+	<textarea id='Message' name='Message' type='text' class='InputForm' style='width:100%;height:400px;'></textarea>
+    <br/>
+	<input id='Submit' name='Submit' value='Submit' type='Submit' class='InputForm'>
+    </form>
+</div>
+
+<script type='text/javascript'>
+function readCookie(name){
+	var nameEQ = name + '=';
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+};
+if(readCookie('EmailSent') == 'True'){
+	document.getElementById('ThankYou').style['display'] = '';
+};
+</script>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+window.onload = function() {
+PageName = window.location.href.split('/')[3];
+Domain = window.location.href.split('/')[2];
+window.location.href = "http://"+Domain+"/?"+PageName;
+};
+</script>
+</head>
+<body>
+</body>
+</html>

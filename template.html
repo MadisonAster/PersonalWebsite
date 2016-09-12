@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Thomas McVay</title>
+    <meta property='og:site_name' content='Thomas McVay' />
+    <meta property='og:title' content='Thomas McVay' />
+    <meta property='og:description' content='Thomas McVay is an artist/engineer' />
+    <meta property='og:url' content='http://www.thomas-mcvay.info' />
+    <META HTTP-EQUIV='CACHE-CONTROL' CONTENT='NO-CACHE'>
+    <META HTTP-EQUIV='PRAGMA' CONTENT='NO-CACHE'>
+    <META HTTP-EQUIV='EXPIRES' CONTENT='0'>
+
+    <script src='./_js/MultiUse.js'></script>
+    <script src='./_js/jquery-1.11.3.min.js'></script>
+    <script src='./_js/jquery.shuffle.modernizr.js'></script>
+    <script src='./_js/Background.js'></script>
+    <script src='./_js/native.history.js'></script>
+    <script src='./_js/iframeFunctions.js'></script>
+    <script src='./_js/statechange.js'></script>
+    <script src='./_js/sorttable.js'></script>
+    <script src='./_js/onload.js'></script>
+    <!--<script>
+    window.onload = function(){
+        backgroundOnload();
+        //sorttable.init();
+        menuArray = document.getElementById('Menu').childNodes;
+        for(var i=0;i<menuArray.length;i++){
+            if(menuArray[i].id != null){
+                page = menuArray[i].id.split('_')[1];
+                if(window[page+'_onload'] != null){
+                    onloadPtr = window[page+'_onload'];
+                    onloadPtr();
+                };
+            };
+        };
+    };
+    </script>-->
+    
+    <link rel='stylesheet' type='text/css' href='./_css/MainStyle.css' />    
+</head>
+<body>
+    <div id='BackgroundContainer'>
+    {background}
+    </div>
+    
+    <div id='ContentContainer'>
+    {content}
+    <div id='FooterContainer'>
+    {footer}
+    </div>
+    </div>
+    
+    <div id='MenuContainer'>
+    {menu}
+    </div>
+</body>
+<script src='./_js/redirects.js'></script>
+</html>
