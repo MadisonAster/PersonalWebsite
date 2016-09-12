@@ -1,4 +1,5 @@
 <div id='ResourcesDiv' style='padding:0;margin:0;display:none;'>
+<!--
 <div id="container">
   <ul>
     <li>Root node
@@ -7,7 +8,7 @@
       </ul>
     </li>
   </ul>
-</div>
+</div>-->
 <script>
 $(function() {
   $('#jstree-proton-3').jstree({
@@ -66,7 +67,7 @@ foreach ($dirs as &$dir){
 				//$tags = get_meta_tags($Link);
 				//echo "<pre>";
 				//print_r($tags);
-				echo "<a href='".$Link."'>".$Title."</a>";
+				//echo "<a href='".$Link."'>".$Title."</a>";
 			};
         };
     };
