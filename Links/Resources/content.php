@@ -27,7 +27,6 @@ foreach ($dirs as &$dir){
                 echo '                            {';
 				//$tags = get_meta_tags($Link);
 				//echo "<pre>";
-				//print_r($tags);
 				//echo "<a href='".$Link."'>".$Title."</a>";
                 echo '                            "text": "'.$Title.'",';
                 echo '                            "state": {';
