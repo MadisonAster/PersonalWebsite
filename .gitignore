@@ -2,3 +2,7 @@
 .git-ftp.log
 /stats
 /_Assets/pngSequences
+*.pyc
+Thumbs.db
+.DS_Store
+Desktop.ini
