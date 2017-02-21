@@ -1,16 +1,25 @@
 <div class='ContentDiv'>
     <h2 style='text-align:left;'>Contact Info:</h2>
-    <br/><br/>
-    contact@thomas-mcvay.info
-    <br/><br/>
+    
     <script>
     function doSomething() {
         alert(1);
+        var ContactInfoCaptcha = document.getElementByID("ContactInfoCaptcha");
+        var ContactInfo = document.getElementByID("ContactInfo");
+        
+        ContactInfoCaptcha.style.display = none;
+        ContactInfo.style.display = block;
     }
     </script>
-    <div class="g-recaptcha" data-theme="dark" data-callback='doSomething' data-sitekey="6LfXSBYUAAAAAIzIcvIs4FLd598WSUBbonaiXr0a"></div>
-    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <div id="ContactInfo" style="display: none;">
+    <br/><br/>
+    contact@thomas-mcvay.info
+    <br/><br/>
+    </div>
     
+    <div id="ContactInfoCaptcha" class="g-recaptcha" data-theme="dark" data-callback='doSomething' data-sitekey="6LfXSBYUAAAAAIzIcvIs4FLd598WSUBbonaiXr0a">
+    </div>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
 </div>  
 
 <br/><br/>
