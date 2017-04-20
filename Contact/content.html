@@ -6,11 +6,9 @@
         var ContactInfoCaptcha = document.getElementById("ContactInfoCaptcha");
         var ContactInfo = document.getElementById("ContactInfo");
         ContactInfo.style.display = "block";
-        ContactInfo.innerHTML = '<p><br/><br/>contact@thomas-mcvay.info<br/><br/>newline<br/><br/></p>';
+        var encodedData = window.atob('PHA+PGJyLz48YnIvPmNvbnRhY3RAdGhvbWFzLW1jdmF5LmluZm88YnIvPjxici8+MS04MTgtMjcwLTY1MTc8YnIvPjxici8+NTg3MCBGcmFua2xpbiBBdmUgQXB0IDMwOTxici8+TG9zIEFuZ2VsZXMgQ0EsIDkwMDI4PC9wPg==');
+        ContactInfo.innerHTML = encodedData;
         ContactInfoCaptcha.style.display = "none";
-        
-        var encodedData = window.btoa('Hello, world');
-        alert(encodedData);
     }
     </script>
     
