@@ -6,9 +6,11 @@
         var ContactInfoCaptcha = document.getElementById("ContactInfoCaptcha");
         var ContactInfo = document.getElementById("ContactInfo");
         ContactInfo.style.display = "block";
-        ContactInfo.innerHTML = '<br/><br/>contact@thomas-mcvay.info<br/><br/><p>newline</p>';
+        ContactInfo.innerHTML = '<p><br/><br/>contact@thomas-mcvay.info<br/><br/>newline<br/><br/></p>';
         ContactInfoCaptcha.style.display = "none";
         
+        var encodedData = window.btoa('Hello, world');
+        alert(encodedData);
     }
     </script>
     
