@@ -8,7 +8,7 @@ $(function() {
         'plugins': ["wholerow"],
         'core': {
             'data': [
-<?php
+<!--<?php
 $blacklist = array('.', '..');
 $dirs = array_filter(glob('./_Assets/Bookmarks/*'), 'is_dir');
 foreach ($dirs as &$dir){
@@ -39,7 +39,7 @@ foreach ($dirs as &$dir){
         };
     };
 };
-?>
+?>-->
             ],
             'themes': {
                 'name': 'proton',
