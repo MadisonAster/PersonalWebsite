@@ -25,8 +25,8 @@
     <script>
     function demoFromHTML() {
     var pdf = new jsPDF('p', 'pt', 'letter');
-    //source = $('#ResumeTemplate');
-    source = document.getElementById('#ResumeTemplate').innerHTML;
+    source = $('#ResumeTemplate').innerHTML;
+    //source = document.getElementById('#ResumeTemplate').innerHTML;
     specialElementHandlers = {
         // element with id of "bypass" - jQuery style selector
         '#bypassme': function (element, renderer) {
