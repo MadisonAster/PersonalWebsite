@@ -23,11 +23,20 @@
     <script src='./_js/jstree/dist/jstree.min.js'></script>
     <script src='./_js/jspdf.min.js'></script>
     <script>
+    function loadPage(href)
+    {
+        var xmlhttp = new XMLHttpRequest();
+        xmlhttp.open("GET", href, false);
+        xmlhttp.send();
+        return xmlhttp.responseText;
+    }
     function demoFromHTML() {
     var pdf = new jsPDF('p', 'pt', 'letter');
     //source = $('#ResumeTemplate').innerHTML;
     //source = $('#ResumeTemplate')[0];
-    source = document.getElementById('ResumeTemplate');
+    //source = document.getElementById('ResumeTemplate');
+    href = '/ResumeTemplate.html';
+    source = loadPage(href);
     alert(source);
     specialElementHandlers = {
         // element with id of "bypass" - jQuery style selector
