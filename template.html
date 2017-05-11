@@ -22,6 +22,7 @@
     <link rel='stylesheet' href='./_js/jstree/dist/themes/proton/style.min.css' />   
     <script src='./_js/jstree/dist/jstree.min.js'></script>
     <script src='./_js/jspdf.min.js'></script>
+    <script src='./_js/html2canvas.js'></script>
     <script>
     function loadPage(href)
     {
@@ -39,6 +40,11 @@
     alert(href);
     source = loadPage(href);
     alert(source);
+    html2canvas(source, {
+        onrendered: function(canvas) {
+        alert(canvas);
+        }
+    });
     specialElementHandlers = {
         // element with id of "bypass" - jQuery style selector
         '#bypassme': function (element, renderer) {
