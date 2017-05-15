@@ -113,7 +113,10 @@
         columnWidth: 'wrap',
         },
         drawRow: function (row, data) {
+            doc.setFontSize(12);
             doc.setFontStyle('bold');
+            doc.setTextColor(89, 92, 98);
+            doc.setFont('helvetica');
             if (row.index === 0) {
                 doc.autoTableText("Profile", 44, row.y-12, {
                     valign: 'middle',
