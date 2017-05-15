@@ -92,7 +92,9 @@
             doc.setFontStyle('bold');
             if (row.index === 0) {
                 doc.rect(data.settings.margin.left, row.y, data.table.width, 20, 'S');
-                doc.autoTableText("Profile");
+                doc.autoTableText("Profile", 0, row.y + row.height / 2, {
+                    valign: 'middle'
+                });
                 data.cursor.y += 20;
             }
         },
