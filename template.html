@@ -202,6 +202,106 @@
         }
     });
     
+    var columns6 = [
+    {title: "", dataKey: "id"},
+    ];
+    var rows6 = [
+    {"id": "Collins College (Action College of Film & Media Arts) — Tempe, AZ\nBA in Digital Video Effects, 2007 to 2010\n\nCCNA Semesters 1-4, 2006-2007"},
+    ];
+    doc.autoTable(columns3, rows3, {
+        theme: 'grid',
+        startY: doc.autoTable.previous.finalY + 15,
+        
+        tableLineColor: [174, 186, 213],
+        tableLineWidth: 1,
+        drawRow: function (row, data) {
+            doc.setFontSize(12);
+            doc.setFontStyle('bold');
+            doc.setTextColor(89, 92, 98);
+            doc.setFont('helvetica');
+            if (row.index === 0) {
+                doc.autoTableText("Education", 44, row.y-10, {
+                    valign: 'middle',
+                });
+            }
+        }
+    });
+    
+    var columns7 = [
+    {title: "", dataKey: "id"},
+    {title: "", dataKey: "desc"},
+    ];
+    var rows7 = [
+    {"id": "Cognition, 900 Cahuenga blvd ste b, Hollywood CA 90038 (323) 874-4487"},
+    {"id": "Senior Software Developer - Apr 2015 to Current"},
+    {"id": "VR Software Development and Game Design. Primarily Unreal Engine."},
+    {"id": "Lit Post LLC, 2255 N Ontario st ste 100A, Burbank CA 91504"},
+    {"id": "Technical Director/Pipeline Developer - Nov 2011 to Mar 2015"},
+    {"id": "Nuke / Maya Pipeline Development"},
+    {"id": "Alpha Designs, 316 E 4th St #B, Hanford CA 93230 (559) 583-6476"},
+    {"id": "Design Digitizer - Jan 2006 to Aug 2006"},
+    {"id": "Graphic Design"},
+    ];
+    doc.autoTable(columns7, rows7, {
+        theme: 'grid',
+        startY: doc.autoTable.previous.finalY + 15,
+        
+        tableLineColor: [174, 186, 213],
+        tableLineWidth: 1,
+        styles: {
+        overflow: 'hidden',
+        },
+        drawRow: function (row, data) {
+            doc.setFontSize(12);
+            doc.setFontStyle('bold');
+            doc.setTextColor(89, 92, 98);
+            doc.setFont('helvetica');
+            if (row.index === 0) {
+                doc.autoTableText("Professional Experience", 44, row.y-10, {
+                    valign: 'middle',
+                });
+            }
+        }
+    });
+    
+    var columns8 = [
+    {title: "", dataKey: "id"},
+    {title: "", dataKey: "firstuse"},
+    {title: "", dataKey: "skill"},
+    ];
+    var rows8 = [
+    {"id": "Name", "firstuse": "First Use", "skill": "Current Skill Level"},
+    {"id": "Windows", "firstuse": "1995", "skill": "80.00%"},
+    ];
+    doc.autoTable(columns8, rows8, {
+        theme: 'grid',
+        startY: doc.autoTable.previous.finalY + 15,
+        
+        tableLineColor: [174, 186, 213],
+        tableLineWidth: 1,
+        styles: {
+        overflow: 'linebreak',
+        },
+        columnStyles: {id: {columnWidth: 100}},
+        drawRow: function (row, data) {
+            doc.setFontSize(12);
+            doc.setFontStyle('bold');
+            doc.setTextColor(89, 92, 98);
+            doc.setFont('helvetica');
+            if (row.index === 0) {
+                doc.autoTableText("Experience Table", 44, row.y-10, {
+                    valign: 'middle',
+                });
+                doc.rect(data.settings.margin.left, row.y, data.table.width, 80, 'S');
+                doc.autoTableText("This table is an attempt to list as many major skills and software applications I have practiced over my career. For each item I've listed the year I first encountered it, and my current level of mastery. Many of these items are at best only vaguely relevant to my current career path, however I've listed them here both to help catalog my history, and to give a brief overview of the totallity of the knowledge that I currently posess.", 44, row.y+10, {
+                    valign: 'middle',
+                });
+            }
+        }
+    });
+    
+    
+    
     doc.save('Test.pdf');
     }
     </script>
