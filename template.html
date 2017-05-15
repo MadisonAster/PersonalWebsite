@@ -77,22 +77,22 @@
     });
     
     var columns4 = [
-    {title: "Profile", dataKey: "id"},
+    {title: "", dataKey: "id"},
+    {title: "", dataKey: "desc"},
     ];
     var rows4 = [
-    {"id": "(Address))"},
+    {"id": "Objective:", "desc": "Looking for work on highly modular software projects with long evolution curves. I would like to continue to focus on developing modular VR applications with hardware abstraction layers that allow for adaptation across the full spectrum of VR Devices."},
+    {"id": "Availability:", "desc": "2 weeks notice."},
     ];
     doc.autoTable(columns4, rows4, {
         theme: 'grid',
         startY: 160,
         drawRow: function (row, data) {
-            // Colspan
             doc.setFontStyle('bold');
-            doc.setFontSize(10);
             if (row.index === -1) {
                 doc.setTextColor(200, 0, 0);
                 doc.rect(data.settings.margin.left, row.y, data.table.width, 20, 'S');
-                doc.autoTableText("Priority Group", data.settings.margin.left + data.table.width / 2, row.y + row.height / 2, {
+                doc.autoTableText("Profile", data.settings.margin.left + data.table.width / 2, row.y + row.height / 2, {
                     valign: 'middle'
                 });
                 data.cursor.y += 20;
