@@ -37,6 +37,21 @@
     var doc = new jsPDF('p', 'pt', 'letter');
     doc.setFontSize(12);
     doc.setTextColor(89, 92, 98);
+    
+    doc.autoTableSetDefaults({
+        headerStyles: {
+        font: "helvetica",
+        fillColor: [234, 237, 244],
+        fontStyle: 'bold',
+        lineWidth: 1,
+        lineColor: [174, 186, 213],
+        },
+        columnStyles: {
+        font: "helvetica",
+        lineWidth: 1,
+        lineColor: [174, 186, 213],
+        id: {fontStyle: 'bold'}},
+    });
 
     var columns1 = [
     {title: "Thomas McVay", dataKey: "id"},
