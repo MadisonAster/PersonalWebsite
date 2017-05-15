@@ -43,7 +43,11 @@
     var rows1 = [
     {"id": "Software Developer / VR Game Designer"},
     ];
-    doc.autoTable(columns1, rows1, {startY: 30});
+    doc.autoTable(columns1, rows1, {
+        startY: 30,
+        showHeader: 'firstPage',
+        margin: {right: 107}
+    });
 
     var columns2 = [
     {title: "Contact", dataKey: "id"},
@@ -54,7 +58,7 @@
     doc.autoTable(columns2, rows2, {
         startY: 30,
         showHeader: 'firstPage',
-        margin: {right: 107}
+        margin: {left: 107}
     });
     
     
