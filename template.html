@@ -35,8 +35,6 @@
     
     function demoFromHTML() {
     var doc = new jsPDF('p', 'pt', 'letter');
-    doc.setFontSize(22);
-    doc.text("Multiple tables", 14, 20);
     doc.setFontSize(12);
 
     var columns1 = [
@@ -54,7 +52,7 @@
     {"id": "((PhoneNumber))\n((Email))"},
     ];
     doc.autoTable(columns2, rows2, {
-        startY: 240,
+        startY: 30,
         showHeader: 'firstPage',
         margin: {right: 107}
     });
