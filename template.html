@@ -58,7 +58,6 @@
     ];
     var rows2 = [
     {"id": "((PhoneNumber))\n((Email))"},
-    {"id": "((PhoneNumber))\n((Email))"},
     ];
     doc.autoTable(columns2, rows2, {
         theme: 'grid',
@@ -74,9 +73,31 @@
     ];
     doc.autoTable(columns3, rows3, {
         theme: 'grid',
-        startY: 150,
+        startY: 120,
     });
     
+    var columns4 = [
+    {title: "Profile", dataKey: "id"},
+    ];
+    var rows4 = [
+    {"id": "(Address))"},
+    ];
+    doc.autoTable(columns4, rows4, {
+        theme: 'grid',
+        startY: 160,
+        drawRow: function (row, data) {
+            // Colspan
+            doc.setFontStyle('bold');
+            doc.setFontSize(10);
+            if (row.index === 0) {
+                doc.setTextColor(200, 0, 0);
+                doc.rect(data.settings.margin.left, row.y, data.table.width, 20, 'S');
+                doc.autoTableText("Priority Group", data.settings.margin.left + data.table.width / 2, row.y + row.height / 2, {
+                    valign: 'middle'
+                });
+                data.cursor.y += 20;
+            }
+    });
     
     /*
     var columns = [
