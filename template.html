@@ -52,8 +52,6 @@
         textColor: [89, 92, 98],
         lineWidth: 1,
         lineColor: [174, 186, 213],
-        overflow: 'linebreak', 
-        columnWidth: 'wrap',
         id: {fontStyle: 'bold'}
         },
     });
@@ -108,16 +106,22 @@
     doc.autoTable(columns4, rows4, {
         theme: 'grid',
         startY: 160,
+        styles: {
+        overflow: 'linebreak', 
+        columnWidth: 'wrap',
         tableLineColor: [174, 186, 213],
         tableLineWidth: 1,
+        }
         drawRow: function (row, data) {
             doc.setFontStyle('bold');
             if (row.index === 0) {
                 doc.autoTableText("Profile", 44, row.y-12, {
                     valign: 'middle',
+                    styles: {
                     font: 'helvetica',
                     fontSize: 12,
                     textColor: [89, 92, 98],
+                    }
                 });
             }
         }
