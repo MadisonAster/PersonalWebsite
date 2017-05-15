@@ -46,7 +46,6 @@
     doc.autoTable(columns1, rows1, {
         theme: 'grid',
         startY: 30,
-        showHeader: 'firstPage',
         margin: {right: doc.internal.pageSize.width/2+5}
     });
     
@@ -64,8 +63,18 @@
     doc.autoTable(columns2, rows2, {
         theme: 'grid',
         startY: 30,
-        showHeader: 'firstPage',
         margin: {left: doc.internal.pageSize.width/2+5}
+    });
+    
+    var columns3 = [
+    {title: "Address", dataKey: "id"},
+    ];
+    var rows3 = [
+    {"id": "(Address))"},
+    ];
+    doc.autoTable(columns3, rows3, {
+        theme: 'grid',
+        startY: 150,
     });
     
     
