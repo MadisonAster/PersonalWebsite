@@ -52,7 +52,10 @@
         textColor: [89, 92, 98],
         lineWidth: 1,
         lineColor: [174, 186, 213],
-        id: {fontStyle: 'bold'}},
+        overflow: 'linebreak', 
+        columnWidth: 'wrap',
+        id: {fontStyle: 'bold'}
+        },
     });
 
     var columns1 = [
@@ -120,60 +123,9 @@
         }
     });
     
-    /*
-    var columns = [
-    {title: "ID", dataKey: "id"},
-    {title: "Name", dataKey: "name"}, 
-    {title: "Country", dataKey: "country"}, 
-    ];
-    var rows = [
-    {"id": 1, "name": "Shaw", "country": "Tanzania"},
-    {"id": 2, "name": "Nelson", "country": "Kazakhstan"},
-    {"id": 3, "name": "Garcia", "country": "Madagascar"},
-    {"id": 3, "name": "Garcia", "country": "Madagascar"},
-    {"id": 3, "name": "Garcia", "country": "Madagascar"},
-    {"id": 3, "name": "Garcia", "country": "Madagascar"},
-    ];
-    
-    
-    doc.autoTable(columns, rows, {
-    styles: {
-    font: "helvetica",
-    fillColor: [234, 237, 244],
-    lineWidth: 1,
-    lineColor: [174, 186, 213],
-    },
-    columnStyles: {
-    	id: {fillColor: 255}
-    },
-    margin: {top: 60},
-    addPageContent: function(data) {
-    	doc.text("Header", 40, 30);
-    }
-    });
-    */
-    
     doc.save('Test.pdf');
-
-    
     }
     </script>
-    <!--<script>
-    window.onload = function(){
-        backgroundOnload();
-        //sorttable.init();
-        menuArray = document.getElementById('Menu').childNodes;
-        for(var i=0;i<menuArray.length;i++){
-            if(menuArray[i].id != null){
-                page = menuArray[i].id.split('_')[1];
-                if(window[page+'_onload'] != null){
-                    onloadPtr = window[page+'_onload'];
-                    onloadPtr();
-                };
-            };
-        };
-    };
-    </script>-->
     
     <link rel='stylesheet' type='text/css' href='./_css/MainStyle.css' />     
 </head>
