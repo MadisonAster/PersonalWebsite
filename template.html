@@ -106,7 +106,12 @@
     doc.autoTable(columns4, rows4, {
         theme: 'grid',
         startY: 160,
-
+        tableLineColor: [174, 186, 213],
+        tableLineWidth: 1,
+        styles: {
+        overflow: 'linebreak', 
+        columnWidth: 'wrap',
+        }
         drawRow: function (row, data) {
             doc.setFontStyle('bold');
             if (row.index === 0) {
