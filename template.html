@@ -46,7 +46,7 @@
     doc.autoTable(columns1, rows1, {
         startY: 30,
         showHeader: 'firstPage',
-        margin: {right: 107}
+        margin: {right: doc.internal.pageSize.width}
     });
 
     var columns2 = [
@@ -56,7 +56,7 @@
     {"id": "((PhoneNumber))\n((Email))"},
     ];
     doc.autoTable(columns2, rows2, {
-        startY: 30,
+        startY: 90,
         showHeader: 'firstPage',
         margin: {left: 107}
     });
