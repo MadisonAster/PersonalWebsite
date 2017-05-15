@@ -40,12 +40,12 @@
     
     doc.autoTableSetDefaults({
         headerStyles: {
+        fontStyle: 'bold',
         font: "helvetica",
         textColor: [89, 92, 98],
-        fillColor: [234, 237, 244],
-        fontStyle: 'bold',
         lineWidth: 1,
         lineColor: [174, 186, 213],
+        fillColor: [234, 237, 244],
         },
         columnStyles: {
         font: "helvetica",
@@ -112,13 +112,6 @@
                 doc.autoTableText("Profile", 0, row.y, {
                     valign: 'middle'
                 });
-            }
-        },
-        drawCell: function (cell, data) {
-            if (data.column.dataKey === 'id') {
-                doc.setFontStyle('bold');
-            } else {
-                doc.setFontStyle('normal');
             }
         }
     });
