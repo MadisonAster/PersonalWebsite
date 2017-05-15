@@ -22,6 +22,7 @@
     <link rel='stylesheet' href='./_js/jstree/dist/themes/proton/style.min.css' />   
     <script src='./_js/jstree/dist/jstree.min.js'></script>
     <script src='./_js/jspdf.min.js'></script>
+    <script src='./_js/jspdf.plugin.autotable.js'></script>
     <script src='./_js/html2canvas.js'></script>
     <script>
     function loadPage(href)
@@ -36,15 +37,18 @@
     //source = $('#ResumeTemplate').innerHTML;
     //source = $('#ResumeTemplate')[0];
     //source = document.getElementById('ResumeTemplate');
+    
     href = window.location.href+'/ResumeTemplate.html';
     alert(href);
     source = loadPage(href);
     alert(source);
+    /*
     html2canvas(source, {
         onrendered: function(canvas) {
         alert(canvas);
         }
     });
+    */
     specialElementHandlers = {
         // element with id of "bypass" - jQuery style selector
         '#bypassme': function (element, renderer) {
@@ -58,6 +62,7 @@
         left: 40,
         width: 522
     };
+    /*
     // all coords and widths are in jsPDF instance's declared units
     // 'inches' in this case
     pdf.fromHTML(
@@ -66,7 +71,29 @@
     margins.top, { // y coord
         'width': margins.width, // max width of content on PDF
         'elementHandlers': specialElementHandlers
+    },*/
+    var columns = [
+    {title: "ID", dataKey: "id"},
+    {title: "Name", dataKey: "name"}, 
+    {title: "Country", dataKey: "country"}, 
+    ...
+    ];
+    var rows = [
+    {"id": 1, "name": "Shaw", "country": "Tanzania", ...},
+    {"id": 2, "name": "Nelson", "country": "Kazakhstan", ...},
+    {"id": 3, "name": "Garcia", "country": "Madagascar", ...},
+    ...
+    ];
+    pdf.autoTable(columns, rows, {
+    styles: {fillColor: [100, 255, 255]},
+    columnStyles: {
+    	id: {fillColor: 255}
     },
+    margin: {top: 60},
+    addPageContent: function(data) {
+    	pdf.text("Header", 40, 30);
+    }
+    });
 
     function (dispose) {
         // dispose: object with X, Y of the last line add to the PDF 
