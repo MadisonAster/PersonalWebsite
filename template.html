@@ -32,37 +32,7 @@
         xmlhttp.send();
         return xmlhttp.responseText;
     }
-    // Returns a new array each time to avoid pointer issues
-var getColumns = function () {
-    return [
-        {title: "ID", dataKey: "id"},
-        {title: "Name", dataKey: "name"},
-        {title: "Email", dataKey: "email"},
-        {title: "City", dataKey: "city"},
-        {title: "Expenses", dataKey: "expenses"}
-    ];
-};
-
-// Uses the faker.js library to get random data.
-function getData(rowCount) {
-    rowCount = rowCount || 4;
-    //var sentence = "Minima quis totam nobis nihil et molestiae architecto accusantium qui necessitatibus sit ducimus cupiditate qui ullam et aspernatur esse et dolores ut voluptatem odit quasi ea sit ad sint voluptatem est dignissimos voluptatem vel adipisci facere consequuntur et reprehenderit cum unde debitis ab cumque sint quo ut officiis rerum aut quia quia expedita ut consectetur animiqui voluptas suscipit Monsequatur";
-    var sentence = faker.lorem.words(20);
-    var data = [];
-    for (var j = 1; j <= rowCount; j++) {
-        data.push({
-            id: j,
-            name: faker.name.findName(),
-            email: faker.internet.email(),
-            country: faker.address.country(),
-            city: faker.address.city(),
-            expenses: faker.finance.amount(),
-            text: shuffleSentence(sentence),
-            text2: faker.lorem.words(1)
-        });
-    }
-    return data;
-}
+    
     function demoFromHTML() {
     var doc = new jsPDF('p', 'pt', 'letter');
     doc.setFontSize(22);
@@ -80,17 +50,17 @@ function getData(rowCount) {
     var columns2 = [
     {title: "Contact", dataKey: "id"},
     ];
-    var rows1 = [
+    var rows2 = [
     {"id": "((PhoneNumber))\n((Email))"},
     ];
-    doc.autoTable(columns2, rows1, {
+    doc.autoTable(columns2, rows2, {
         startY: 240,
         showHeader: 'firstPage',
         margin: {right: 107}
     });
     
     
-    
+    /*
     var columns = [
     {title: "ID", dataKey: "id"},
     {title: "Name", dataKey: "name"}, 
@@ -121,6 +91,7 @@ function getData(rowCount) {
     	doc.text("Header", 40, 30);
     }
     });
+    */
     
     doc.save('Test.pdf');
 
