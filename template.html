@@ -57,7 +57,7 @@
     });
 
     var columns1 = [
-    {title: "Thomas McVay", dataKey: "id"},
+    {title: "", dataKey: "id"},
     ];
     var rows1 = [
     {"id": "Software Developer / VR Game Designer"},
@@ -66,6 +66,23 @@
         theme: 'grid',
         startY: 30,
         margin: {right: doc.internal.pageSize.width/2+5}
+        
+        tableLineColor: [174, 186, 213],
+        tableLineWidth: 1,
+        styles: {
+        overflow: 'linebreak',
+        },
+        drawRow: function (row, data) {
+            doc.setFontSize(12);
+            doc.setFontStyle('bold');
+            doc.setTextColor(89, 92, 98);
+            doc.setFont('helvetica');
+            if (row.index === 0) {
+                doc.autoTableText("Thomas McVay", 44, row.y-10, {
+                    valign: 'middle',
+                });
+            }
+        }
     });
     
     doc.setFontSize(8);
@@ -82,6 +99,23 @@
         theme: 'grid',
         startY: 30,
         margin: {left: doc.internal.pageSize.width/2+5}
+        
+        tableLineColor: [174, 186, 213],
+        tableLineWidth: 1,
+        styles: {
+        overflow: 'linebreak',
+        },
+        drawRow: function (row, data) {
+            doc.setFontSize(12);
+            doc.setFontStyle('bold');
+            doc.setTextColor(89, 92, 98);
+            doc.setFont('helvetica');
+            if (row.index === 0) {
+                doc.autoTableText("Thomas McVay", doc.internal.pageSize.width/2+5+44, row.y-10, {
+                    valign: 'middle',
+                });
+            }
+        }
     });
     
     var columns3 = [
@@ -99,7 +133,6 @@
         styles: {
         overflow: 'linebreak',
         },
-        columnStyles: {id: {columnWidth: 100}},
         drawRow: function (row, data) {
             doc.setFontSize(12);
             doc.setFontStyle('bold');
