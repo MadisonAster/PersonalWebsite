@@ -85,7 +85,7 @@
     });
     
     var columns3 = [
-    {title: "Address", dataKey: "id"},
+    {title: "", dataKey: "id"},
     ];
     var rows3 = [
     {"id": "(Address))"},
@@ -93,6 +93,25 @@
     doc.autoTable(columns3, rows3, {
         theme: 'grid',
         startY: 100,
+        
+        tableLineColor: [174, 186, 213],
+        tableLineWidth: 1,
+        styles: {
+        overflow: 'linebreak',
+        columnWidth: 'auto',
+        },
+        columnStyles: {id: {columnWidth: 100}},
+        drawRow: function (row, data) {
+            doc.setFontSize(12);
+            doc.setFontStyle('bold');
+            doc.setTextColor(89, 92, 98);
+            doc.setFont('helvetica');
+            if (row.index === 0) {
+                doc.autoTableText("Address", 44, row.y-10, {
+                    valign: 'middle',
+                });
+            }
+        }
     });
     
     var columns4 = [
@@ -106,9 +125,9 @@
     doc.autoTable(columns4, rows4, {
         theme: 'grid',
         startY: 160,
+        
         tableLineColor: [174, 186, 213],
         tableLineWidth: 1,
-        
         styles: {
         overflow: 'linebreak',
         columnWidth: 'auto',
