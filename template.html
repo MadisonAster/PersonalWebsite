@@ -36,6 +36,7 @@
     function demoFromHTML() {
     var doc = new jsPDF('p', 'pt', 'letter');
     doc.setFontSize(12);
+    doc.setTextColor(89, 92, 98);
 
     var columns1 = [
     {title: "Thomas McVay", dataKey: "id"},
@@ -90,11 +91,8 @@
         drawRow: function (row, data) {
             doc.setFontStyle('bold');
             if (row.index === 0) {
-                doc.setTextColor(200, 0, 0);
                 doc.rect(data.settings.margin.left, row.y, data.table.width, 20, 'S');
-                doc.autoTableText("Profile", data.settings.margin.left + data.table.width / 2, row.y + row.height / 2, {
-                    valign: 'middle'
-                });
+                doc.autoTableText("Profile");
                 data.cursor.y += 20;
             }
         },
