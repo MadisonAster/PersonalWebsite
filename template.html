@@ -89,13 +89,20 @@
         startY: 160,
         drawRow: function (row, data) {
             doc.setFontStyle('bold');
-            if (row.index === -1) {
+            if (row.index === 0) {
                 doc.setTextColor(200, 0, 0);
                 doc.rect(data.settings.margin.left, row.y, data.table.width, 20, 'S');
                 doc.autoTableText("Profile", data.settings.margin.left + data.table.width / 2, row.y + row.height / 2, {
                     valign: 'middle'
                 });
                 data.cursor.y += 20;
+            }
+        },
+        drawCell: function (cell, data) {
+            if (data.column.dataKey === 'id') {
+                doc.setFontStyle('bold');
+            } else {
+                doc.setFontStyle('normal');
             }
         }
     });
