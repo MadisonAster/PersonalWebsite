@@ -283,7 +283,11 @@
         halign: 'center',
         overflow: 'linebreak',
         },
-        columnStyles: {columnWidth: doc.internal.pageSize.width/3},
+        columnStyles: {
+        id: {columnWidth: doc.internal.pageSize.width/3},
+        firstuse: {columnWidth: doc.internal.pageSize.width/3},
+        skill: {columnWidth: doc.internal.pageSize.width/3},
+        },
         drawRow: function (row, data) {
             doc.setFontSize(12);
             doc.setFontStyle('bold');
