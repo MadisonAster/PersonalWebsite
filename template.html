@@ -89,11 +89,19 @@
     {"id": 1, "name": "Shaw", "country": "Tanzania"},
     {"id": 2, "name": "Nelson", "country": "Kazakhstan"},
     {"id": 3, "name": "Garcia", "country": "Madagascar"},
+    {"id": 3, "name": "Garcia", "country": "Madagascar"},
+    {"id": 3, "name": "Garcia", "country": "Madagascar"},
+    {"id": 3, "name": "Garcia", "country": "Madagascar"},
     ];
     
     
     pdf.autoTable(columns, rows, {
-    styles: {fillColor: [234, 237, 244]},
+    styles: {
+    font: "helvetica",
+    fillColor: [234, 237, 244],
+    lineWidth: 1,
+    lineColor: [174, 186, 213],
+    },
     columnStyles: {
     	id: {fillColor: 255}
     },
