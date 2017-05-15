@@ -109,9 +109,11 @@
         drawRow: function (row, data) {
             doc.setFontStyle('bold');
             if (row.index === 0) {
-                //doc.rect(data.settings.margin.left, row.y, data.table.width, 20, 'S');
                 doc.autoTableText("Profile", 44, row.y-12, {
-                    valign: 'middle'
+                    valign: 'middle',
+                    font: 'helvetica',
+                    fontSize: 12,
+                    textColor: [89, 92, 98],
                 });
             }
         }
