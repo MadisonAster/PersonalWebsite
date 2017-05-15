@@ -47,8 +47,10 @@
         theme: 'grid',
         startY: 30,
         showHeader: 'firstPage',
-        margin: {right: doc.internal.pageSize.width/2+35}
+        margin: {right: doc.internal.pageSize.width/2+5}
     });
+    
+    doc.text('Resume generated ((GenerationDate))', 10, doc.autoTable.previous.finalY + 10);
 
     var columns2 = [
     {title: "Contact", dataKey: "id"},
@@ -56,14 +58,12 @@
     var rows2 = [
     {"id": "((PhoneNumber))\n((Email))"},
     {"id": "((PhoneNumber))\n((Email))"},
-    {"id": "((PhoneNumber))\n((Email))"},
-    {"id": "((PhoneNumber))\n((Email))"},
     ];
     doc.autoTable(columns2, rows2, {
         theme: 'grid',
         startY: 30,
         showHeader: 'firstPage',
-        margin: {left: doc.internal.pageSize.width/2+35}
+        margin: {left: doc.internal.pageSize.width/2+5}
     });
     
     
