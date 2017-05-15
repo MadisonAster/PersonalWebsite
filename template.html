@@ -44,9 +44,10 @@
     {"id": "Software Developer / VR Game Designer"},
     ];
     doc.autoTable(columns1, rows1, {
+        theme: 'grid',
         startY: 30,
         showHeader: 'firstPage',
-        margin: {right: doc.internal.pageSize.width/2}
+        margin: {right: doc.internal.pageSize.width/2+35}
     });
 
     var columns2 = [
@@ -56,9 +57,10 @@
     {"id": "((PhoneNumber))\n((Email))"},
     ];
     doc.autoTable(columns2, rows2, {
-        startY: 90,
+        theme: 'grid',
+        startY: 30,
         showHeader: 'firstPage',
-        margin: {left: doc.internal.pageSize.width/2}
+        margin: {left: doc.internal.pageSize.width/2-35}
     });
     
     
