@@ -50,8 +50,10 @@
         margin: {right: doc.internal.pageSize.width/2+5}
     });
     
+    doc.setFontSize(8);
     doc.text('Resume generated ((GenerationDate))', 38, doc.autoTable.previous.finalY + 14);
-
+    doc.setFontSize(12);
+    
     var columns2 = [
     {title: "Contact", dataKey: "id"},
     ];
