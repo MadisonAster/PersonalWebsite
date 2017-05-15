@@ -120,7 +120,7 @@
     ];
     doc.autoTable(columns3, rows3, {
         theme: 'grid',
-        startY: 100,
+        startY: doc.autoTable.previous.finalY + 15,
         
         tableLineColor: [174, 186, 213],
         tableLineWidth: 1,
@@ -147,7 +147,7 @@
     ];
     doc.autoTable(columns4, rows4, {
         theme: 'grid',
-        startY: 160,
+        startY: doc.autoTable.previous.finalY + 15,
         
         tableLineColor: [174, 186, 213],
         tableLineWidth: 1,
@@ -162,6 +162,40 @@
             doc.setFont('helvetica');
             if (row.index === 0) {
                 doc.autoTableText("Profile", 44, row.y-10, {
+                    valign: 'middle',
+                });
+            }
+        }
+    });
+    
+    var columns5 = [
+    {title: "", dataKey: "id"},
+    {title: "", dataKey: "desc"},
+    ];
+    var rows5 = [
+    {"id": "Python:", "desc": "5 Years experience"},
+    {"id": "C++/Blueprint:", "desc": "2 Years experience / Oculus / Vive"},
+    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
+    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modeling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
+    {"id": "Ultra Fast Adaptibility:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
+    ];
+    doc.autoTable(columns5, rows5, {
+        theme: 'grid',
+        startY: doc.autoTable.previous.finalY + 15,
+        
+        tableLineColor: [174, 186, 213],
+        tableLineWidth: 1,
+        styles: {
+        overflow: 'linebreak',
+        },
+        columnStyles: {id: {columnWidth: 100}},
+        drawRow: function (row, data) {
+            doc.setFontSize(12);
+            doc.setFontStyle('bold');
+            doc.setTextColor(89, 92, 98);
+            doc.setFont('helvetica');
+            if (row.index === 0) {
+                doc.autoTableText("Key Skills", 44, row.y-10, {
                     valign: 'middle',
                 });
             }
