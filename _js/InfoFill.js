@@ -13,6 +13,10 @@ function GetAddress() {
     return DecodeData(EncodedString);
 }
 
+function GetGenerationDate() {
+    return new Date().toLocaleString();
+}
+
 function DecodeData(InputData) {
     var result = window.atob(InputData);
     return result;

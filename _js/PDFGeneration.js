@@ -56,7 +56,7 @@ function demoFromHTML() {
     });
     
     doc.setFontSize(8);
-    doc.text('Resume generated ((GenerationDate))', 44, doc.autoTable.previous.finalY + 14);
+    doc.text('Resume generated '+GetGenerationDate(), 44, doc.autoTable.previous.finalY + 14);
     doc.setFontSize(12);
     
     var columns2 = [
