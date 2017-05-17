@@ -242,13 +242,24 @@ function demoFromHTML() {
     {title: "", dataKey: "firstuse"},
     {title: "", dataKey: "skill"},
     ];
-    csvurl = window.location.href+'/xpTable.csv';
-    alert(csvurl);
-    alert(loadPage(csvurl));
+    
     var rows8 = [
     {"id": "Name", "firstuse": "First Use", "skill": "Current Skill Level"},
     {"id": "Windows", "firstuse": "1995", "skill": "80.00%"},
     ];
+    
+    var csvurl = window.location.href+'/xpTable.csv';
+    alert(csvurl);
+    var cvsdata = loadPage(csvurl);
+    var cvslines = cvsdata.split('\n');
+    for (var i = 0; i < cvslines.length; i++) {
+        var line = cvslines[i];
+        var linedata = {};
+        linedata['id'] = line.split(',')[0];
+        linedata['firstuse'] = line.split(',')[1];
+        linedata['skill'] = line.split(',')[2];
+        row8.append(linedata);
+    };
     doc.autoTable(columns8, rows8, {
         theme: 'grid',
         startY: doc.autoTable.previous.finalY + 15,
