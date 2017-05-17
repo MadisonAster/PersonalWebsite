@@ -258,7 +258,7 @@ function demoFromHTML() {
         linedata['id'] = line.split(',')[0];
         linedata['firstuse'] = line.split(',')[1];
         linedata['skill'] = line.split(',')[2];
-        row8.append(linedata);
+        rows8.append(linedata);
     };
     doc.autoTable(columns8, rows8, {
         theme: 'grid',
