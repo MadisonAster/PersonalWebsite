@@ -260,6 +260,7 @@ function demoFromHTML() {
         linedata['skill'] = line.split(',')[2];
         rows8.push(linedata);
     };
+    var links = [];
     doc.autoTable(columns8, rows8, {
         theme: 'grid',
         startY: doc.autoTable.previous.finalY + 15,
@@ -292,7 +293,23 @@ function demoFromHTML() {
                 data.cursor.y += 84;
             }
         },
-        
+        drawCell: function(cell, data) {
+            if (data.column.dataKey === 'id') {
+                if (data.row.index > 1) {
+                    links.push({
+                    x: cell.textPos.x,
+                    y: cell.textPos.y
+                    });
+                };
+            };
+        },
+        addPageContent: function() {
+        for (var i = 0; i < links.length; i++) {
+            doc.textWithLink('google.com', links[i].x, links[i].y + 10, {
+                url: 'http://www.google.com'
+            });
+        }
+    }
     });
     
     
