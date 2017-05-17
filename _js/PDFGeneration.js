@@ -244,7 +244,6 @@ function demoFromHTML() {
     ];
     csvurl = window.location.href+'/xpTable.csv'';
     alert(csvurl);
-    alert(loadPage(csvurl));
     var rows8 = [
     {"id": "Name", "firstuse": "First Use", "skill": "Current Skill Level"},
     {"id": "Windows", "firstuse": "1995", "skill": "80.00%"},
