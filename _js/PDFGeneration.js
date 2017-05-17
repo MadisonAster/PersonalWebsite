@@ -292,16 +292,7 @@ function demoFromHTML() {
                 data.cursor.y += 84;
             }
         },
-        drawCell: function(cell, data) {
-            if (data.column.dataKey === 'id') {
-                if (data.row.index > 1) {
-                    //doc.rect(cell.x, cell.y, data.table.width, cell.height * 5, 'S');
-                    doc.textWithLink('Hyperlink', cell.x, cell.y, {
-                        url: 'http://www.google.com'
-                    });
-                };
-            };
-        }
+        
     });
     
     
