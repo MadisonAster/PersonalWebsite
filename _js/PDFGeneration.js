@@ -291,6 +291,17 @@ function demoFromHTML() {
                 });
                 data.cursor.y += 84;
             }
+        },
+        drawCell: function(cell, data) {
+            if (data.column.dataKey === 'id') {
+                if (data.row.index > 2) {
+                    doc.textWithLink('Hyperlink', cell.x + cell.width / 2, cell.y + cell.height / 2, {
+                        halign: 'center',
+                        valign: 'middle',
+                        url: 'http://www.google.com'
+                    });
+                };
+            };
         }
     });
     
