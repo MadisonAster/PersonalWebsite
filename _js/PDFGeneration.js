@@ -63,7 +63,7 @@ function demoFromHTML() {
     {title: "", dataKey: "id"},
     ];
     var rows2 = [
-    {"id": "((PhoneNumber))\n((Email))"},
+    {"id": GetPhone()+"\n"+GetEmail()},
     ];
     doc.autoTable(columns2, rows2, {
         theme: 'grid',
@@ -89,7 +89,7 @@ function demoFromHTML() {
     {title: "", dataKey: "id"},
     ];
     var rows3 = [
-    {"id": "(Address))"},
+    {"id": GetAddress()},
     ];
     doc.autoTable(columns3, rows3, {
         theme: 'grid',
