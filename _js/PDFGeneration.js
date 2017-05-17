@@ -269,7 +269,7 @@ function demoFromHTML() {
         tableLineWidth: 1,
         styles: {
         halign: 'center',
-        overflow: 'linebreak',
+        overflow: 'hidden',
         },
         columnStyles: {
         id: {columnWidth: doc.internal.pageSize.width/3-27},
