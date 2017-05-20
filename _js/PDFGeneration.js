@@ -35,7 +35,7 @@ function demoFromHTML() {
     var ypos = 20;
     for (var i = 0; i < wordlistlines.length; i++) {
         doc.text(wordlistlines[i].replace(',',''), 44, ypos);
-        ypos = -20;
+        //ypos = 0;
     };
     
     var columns1 = [
