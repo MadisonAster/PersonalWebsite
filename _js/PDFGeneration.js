@@ -29,7 +29,7 @@ function demoFromHTML() {
         },
     });
     
-    doc.text('METAWORD', 0, 0);
+    doc.text('METAWORD', 44, 44);
     
     var columns1 = [
         {title: "", dataKey: "id"},
