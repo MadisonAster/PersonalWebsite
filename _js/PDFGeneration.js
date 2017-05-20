@@ -29,7 +29,12 @@ function demoFromHTML() {
         },
     });
     
-    doc.text('METAWORD', 44, 20);
+    var wordlisturl = window.location.href+'/WordList.csv';
+    var wordlistdata = loadPage(wordlisturl);
+    var wordlistlines = wordlistdata.split(',\n');
+    for (var i = 0; i < wordlistlines.length; i++) {
+        doc.text(wordlistlines[i], 44, 20);
+    }
     
     var columns1 = [
         {title: "", dataKey: "id"},
