@@ -35,6 +35,7 @@ function demoFromHTML() {
     var ypos = 20;
     for (var i = 0; i < wordlistlines.length; i++) {
         doc.text(wordlistlines[i], 44, ypos);
+        break;
         ypos = -20;
     };
     
