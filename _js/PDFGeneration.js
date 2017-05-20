@@ -34,6 +34,7 @@ function demoFromHTML() {
     var wordlistlines = wordlistdata.split(',\n');
     for (var i = 0; i < wordlistlines.length; i++) {
         doc.text(wordlistlines[i], 44, 20);
+        data.cursor.y -= 20;
     };
     
     var columns1 = [
