@@ -32,10 +32,8 @@ function demoFromHTML() {
     var wordlisturl = window.location.href+'/WordList.csv';
     var wordlistdata = loadPage(wordlisturl);
     var wordlistlines = wordlistdata.split('\n');
-    var ypos = 20;
     for (var i = 0; i < wordlistlines.length; i++) {
-        doc.text(wordlistlines[i].replace(',',''), 44, ypos);
-        //ypos = 0;
+        doc.text(wordlistlines[i].replace(',',''), 44, 20);
     };
     
     var columns1 = [
