@@ -31,7 +31,7 @@ function demoFromHTML() {
     
     var wordlisturl = window.location.href+'/WordList.csv';
     var wordlistdata = loadPage(wordlisturl);
-    var wordlistlines = wordlistdata.split(',\n');
+    var wordlistlines = wordlistdata.split('\n');
     var ypos = 20;
     for (var i = 0; i < 1; i++) {
         doc.text(wordlistlines[i], 44, ypos);
