@@ -28,7 +28,9 @@ function demoFromHTML() {
             id: {fontStyle: 'bold'}
         },
     });
-
+    
+    doc.text('METAWORD', 0, 0);
+    
     var columns1 = [
         {title: "", dataKey: "id"},
     ];
@@ -312,7 +314,6 @@ function demoFromHTML() {
     });
     
     
-    doc.text('METAWORD', 0, 0);
     
     doc.save('Test.pdf');
 }
