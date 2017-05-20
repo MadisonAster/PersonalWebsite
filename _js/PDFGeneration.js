@@ -32,9 +32,11 @@ function demoFromHTML() {
     var wordlisturl = window.location.href+'/WordList.csv';
     var wordlistdata = loadPage(wordlisturl);
     var wordlistlines = wordlistdata.split('\n');
+    doc.setTextColor(255, 255, 255);
     for (var i = 0; i < wordlistlines.length; i++) {
         doc.text(wordlistlines[i].replace(',',''), 44, 20);
     };
+    doc.setTextColor(89, 92, 98);
     
     var columns1 = [
         {title: "", dataKey: "id"},
