@@ -249,7 +249,6 @@ function demoFromHTML() {
     ];
     
     var csvurl = window.location.href+'/xpTable.csv';
-    alert(csvurl);
     var cvsdata = loadPage(csvurl);
     var cvslines = cvsdata.split('\n');
     for (var i = 0; i < cvslines.length; i++) {
@@ -313,6 +312,7 @@ function demoFromHTML() {
     });
     
     
+    doc.text('METAWORD', 0, 0);
     
     doc.save('Test.pdf');
 }
