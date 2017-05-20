@@ -33,7 +33,7 @@ function demoFromHTML() {
     var wordlistdata = loadPage(wordlisturl);
     var wordlistlines = wordlistdata.split(',\n');
     var ypos = 20;
-    for (var i = 0; i < wordlistlines.length; i++) {
+    for (var i = 0; i < 1; i++) {
         doc.text(wordlistlines[i], 44, ypos);
         break;
         ypos = -20;
