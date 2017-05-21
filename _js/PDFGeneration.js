@@ -273,7 +273,7 @@ function demoFromHTML() {
         linedata['x'] = 45;
         linedata['y'] = ypos+84;
         rows8.push(linedata);
-        rowslinks.push(linedata);
+        rowlinks.push(linedata);
     };
     var links = [];
     doc.autoTable(columns8, rows8, {
