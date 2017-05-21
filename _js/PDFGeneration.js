@@ -344,7 +344,11 @@ function demoFromHTML() {
                 i = data.row.index;
                 rowlinks[i]['x'] = cell.textPos.x;
                 rowlinks[i]['y'] = cell.textPos.y;
-                    
+                //doc.rect(cell.x, cell.y, cell.width, cell.height, 'S');
+                doc.link(cell.x, cell.y, cell.width, cell.height, {
+                    url: rowlinks[i]['href']
+                });
+                
                     /*
                     doc.autoTableText(rowlinks[i]['link'], cell.textPos.x, cell.textPos.y + 10, {
                     url: rowlinks[i]['href'],
