@@ -296,7 +296,7 @@ function demoFromHTML() {
             doc.setFontStyle('bold');
             doc.setTextColor(89, 92, 98);
             doc.setFont('helvetica');
-            row.height = 44;
+            row.height = 20;
             if (row.index === 0) {
                 doc.autoTableText("Experience Table", 44, row.y-10, {
                     valign: 'middle',
