@@ -323,19 +323,7 @@ function demoFromHTML() {
             doc.setFontStyle('bold');
             doc.setTextColor(89, 92, 98);
             doc.setFont('helvetica');
-            row.height = 19;
-            if (row.index > 1) {
-                /*
-                doc.textWithLink(rowlinks[i]['link'], 45, row.y + 10, {
-                    url: rowlinks[i]['href'],
-                });
-                doc.autoTableText(rowlinks[i]['link'], 45, row.y + 10, {
-                    url: rowlinks[i]['href'],
-                    font: "helvetica",
-                    textColor: [0, 0, 238],
-                });
-                */
-            }
+            row.height = 18;
         },
         
         drawCell: function(cell, data) {
@@ -348,41 +336,9 @@ function demoFromHTML() {
                 doc.link(cell.x, cell.y, cell.width, cell.height, {
                     url: rowlinks[i]['href']
                 });
-                
-                    /*
-                    doc.autoTableText(rowlinks[i]['link'], cell.textPos.x, cell.textPos.y + 10, {
-                    url: rowlinks[i]['href'],
-                    font: "helvetica",
-                    textColor: [0, 0, 238],
-                    });
-                    
-                    i = data.row.index - 2;
-                    doc.textWithLink(rowlinks[i]['link'], cell.textPos.x, cell.textPos.y + 10, {
-                        url: rowlinks[i]['href'],
-                        font: "helvetica",
-                    });
-                    
-                    links.push({
-                    x: cell.textPos.x,
-                    y: cell.textPos.y
-                    });
-                    */
             };
         },
-        //addPageContent: function() {
-        
     });
-    
-    /*
-    doc.setTextColor(0, 0, 238);
-    for (var i = 0; i < rowlinks.length; i++) {
-        doc.textWithLink(rowlinks[i]['link'], rowlinks[i]['x'], rowlinks[i]['y'] + 10, {
-            url: rowlinks[i]['href'],
-            font: "helvetica",
-        });
-    };
-    */
-    
     
     doc.save('Test.pdf');
 }
