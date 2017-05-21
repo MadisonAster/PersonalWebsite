@@ -244,7 +244,8 @@ function demoFromHTML() {
     });
     
     var nexty = 30;
-    if(doc.autoTable.previous.finalY > 700) {
+    alert(doc.autoTable.previous.finalY);
+    if(doc.autoTable.previous.finalY > 680) {
         doc.addPage();
     } else {
         nexty = doc.autoTable.previous.finalY + 15;
