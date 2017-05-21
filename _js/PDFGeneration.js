@@ -309,8 +309,6 @@ function demoFromHTML() {
                 data.cursor.y += 84;
             } else if (row.index > 1) {
                 doc.setTextColor(0, 0, 238);
-                i = row.index - 2;
-                    
                 /*
                 doc.textWithLink(rowlinks[i]['link'], 45, row.y + 10, {
                     url: rowlinks[i]['href'],
@@ -326,7 +324,8 @@ function demoFromHTML() {
         
         drawCell: function(cell, data) {
             if (data.column.dataKey === 'id') {
-                if (data.row.index > 1) { 
+                if (data.row.index > 1) {
+                    i = data.row.index;
                     rowlinks[i]['x'] = cell.textPos.x;
                     rowlinks[i]['y'] = cell.textPos.y;
                     
