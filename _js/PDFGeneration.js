@@ -251,12 +251,14 @@ function demoFromHTML() {
     {title: "", dataKey: "id"},
     ];
     var rows8 = [
-    {"id": "This table is an attempt to list as many major skills and software applications I have \npracticed over my career. For each item I've listed the year I first encountered it, and my \ncurrent level of mastery. Many of these items are at best only vaguely relevant to my current \ncareer path, however I've listed them here both to help catalog my history, and to give a \nbrief overview of the totallity of the knowledge that I currently posess."},
+    {"id": "This table is an attempt to list as many major skills and software applications I have practiced over my career. For each item I've listed the year I first encountered it, and my current level of mastery. Many of these items are at best only vaguely relevant to my current career path, however I've listed them here both to help catalog my history, and to give a brief overview of the totallity of the knowledge that I currently posess."},
     ];
     doc.autoTable(columns8, rows8, {
         theme: 'grid',
         startY: doc.autoTable.previous.finalY + 15,
-        
+        styles: {
+        overflow: 'linebreak',
+        },
         tableLineColor: [174, 186, 213],
         tableLineWidth: 1,
         drawRow: function (row, data) {
