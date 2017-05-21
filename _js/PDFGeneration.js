@@ -323,9 +323,8 @@ function demoFromHTML() {
             doc.setFontStyle('bold');
             doc.setTextColor(89, 92, 98);
             doc.setFont('helvetica');
-            row.height = 20;
+            row.height = 19;
             if (row.index > 1) {
-                doc.setTextColor(0, 0, 238);
                 /*
                 doc.textWithLink(rowlinks[i]['link'], 45, row.y + 10, {
                     url: rowlinks[i]['href'],
@@ -342,6 +341,7 @@ function demoFromHTML() {
         drawCell: function(cell, data) {
             if (data.column.dataKey === 'Name') {
                 if (data.row.index > 1) {
+                    doc.setTextColor(0, 0, 238);
                     i = data.row.index-1;
                     rowlinks[i]['x'] = cell.textPos.x;
                     rowlinks[i]['y'] = cell.textPos.y;
