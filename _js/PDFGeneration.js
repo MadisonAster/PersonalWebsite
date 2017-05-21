@@ -308,6 +308,7 @@ function demoFromHTML() {
                 data.cursor.y += 84;
             }
         },
+        /*
         drawCell: function(cell, data) {
             if (data.column.dataKey === 'id') {
                 if (data.row.index > 1) {
@@ -317,7 +318,7 @@ function demoFromHTML() {
                     });
                 };
             };
-        },
+        },*/
         //addPageContent: function() {
         
     });
