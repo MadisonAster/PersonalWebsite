@@ -243,6 +243,8 @@ function demoFromHTML() {
         }
     });
     
+    doc.addPage();
+    
     var columns8 = [
     {title: "", dataKey: "id"},
     ];
