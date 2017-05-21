@@ -341,7 +341,7 @@ function demoFromHTML() {
         drawCell: function(cell, data) {
             if (data.column.dataKey === 'Name') {
                 doc.setTextColor(0, 0, 238);
-                i = data.row.index-1;
+                i = data.row.index;
                 rowlinks[i]['x'] = cell.textPos.x;
                 rowlinks[i]['y'] = cell.textPos.y;
                     
