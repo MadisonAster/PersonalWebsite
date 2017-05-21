@@ -234,10 +234,7 @@ function demoFromHTML() {
         id: {columnWidth: doc.internal.pageSize.width-80},
         },
         drawRow: function (row, data) {
-            doc.setFontSize(12);
-            doc.setFontStyle('bold');
             doc.setTextColor(89, 92, 98);
-            doc.setFont('helvetica');
             if (row.index % 2 == 1) {
                 doc.setTextColor(0, 0, 0);
             };
