@@ -313,6 +313,8 @@ function demoFromHTML() {
                 i = row.index - 2;
                     doc.textWithLink(rowlinks[i]['link'], 45, row.y + 10, {
                         url: rowlinks[i]['href'],
+                        font: "helvetica",
+                        textColor: [0, 0, 238],
                     });
                     
             }
