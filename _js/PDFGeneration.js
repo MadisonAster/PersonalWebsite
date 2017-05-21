@@ -340,11 +340,10 @@ function demoFromHTML() {
         
         drawCell: function(cell, data) {
             if (data.column.dataKey === 'Name') {
-                if (data.row.index > 1) {
-                    doc.setTextColor(0, 0, 238);
-                    i = data.row.index-1;
-                    rowlinks[i]['x'] = cell.textPos.x;
-                    rowlinks[i]['y'] = cell.textPos.y;
+                doc.setTextColor(0, 0, 238);
+                i = data.row.index-1;
+                rowlinks[i]['x'] = cell.textPos.x;
+                rowlinks[i]['y'] = cell.textPos.y;
                     
                     /*
                     doc.autoTableText(rowlinks[i]['link'], cell.textPos.x, cell.textPos.y + 10, {
@@ -364,7 +363,6 @@ function demoFromHTML() {
                     y: cell.textPos.y
                     });
                     */
-                };
             };
         },
         //addPageContent: function() {
