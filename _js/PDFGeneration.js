@@ -289,13 +289,14 @@ function demoFromHTML() {
         columnStyles: {
         id: {columnWidth: doc.internal.pageSize.width/3-27},
         firstuse: {columnWidth: doc.internal.pageSize.width/3-27},
-        skill: {columnWidth: doc.internal.pageSize.width/3-28},
+        skill: {columnWidth: doc.internal.pageSize.width/3-27},
         },
         drawRow: function (row, data) {
             doc.setFontSize(12);
             doc.setFontStyle('bold');
             doc.setTextColor(89, 92, 98);
             doc.setFont('helvetica');
+            row.height = 44;
             if (row.index === 0) {
                 doc.autoTableText("Experience Table", 44, row.y-10, {
                     valign: 'middle',
