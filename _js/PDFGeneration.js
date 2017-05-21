@@ -310,10 +310,6 @@ function demoFromHTML() {
         CurrentSkillLevel: {columnWidth: doc.internal.pageSize.width/3-27},
         },
         drawRow: function (row, data) {
-            doc.setFontSize(12);
-            doc.setFontStyle('bold');
-            doc.setTextColor(89, 92, 98);
-            doc.setFont('helvetica');
             row.height = 18;
         },
         drawCell: function(cell, data) {
