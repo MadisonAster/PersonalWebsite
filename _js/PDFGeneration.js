@@ -318,7 +318,6 @@ function demoFromHTML() {
         },
         //addPageContent: function() {
         
-    }
     });
     
     for (var i = 0; i < rows8.length; i++) {
