@@ -309,10 +309,10 @@ function demoFromHTML() {
                 });
                 data.cursor.y += 84;
             } else if (row.index > 1) {
+                doc.setTextColor(0, 0, 238);
                 i = row.index - 2;
                     doc.textWithLink(rowlinks[i]['link'], 45, row.y + 10, {
                         url: rowlinks[i]['href'],
-                        font: "helvetica",
                     });
                     
             }
