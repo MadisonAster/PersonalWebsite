@@ -325,7 +325,7 @@ function demoFromHTML() {
         drawCell: function(cell, data) {
             if (data.column.dataKey === 'id') {
                 if (data.row.index > 1) {
-                    i = data.row.index;
+                    i = data.row.index-1;
                     rowlinks[i]['x'] = cell.textPos.x;
                     rowlinks[i]['y'] = cell.textPos.y;
                     
