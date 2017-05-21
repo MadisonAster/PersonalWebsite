@@ -290,17 +290,14 @@ function demoFromHTML() {
         var line = cvslines[i];
         var linedata = {};
         linedata['Name'] = line.split(">")[1].split("<")[0];
-        linedata['link'] = line.split(">")[1].split("<")[0];
         linedata['href'] = line.split("href='")[1].split("'")[0];
         linedata['FirstUse'] = line.split(',')[1];
         linedata['CurrentSkillLevel'] = line.split(',')[2];
-        linedata['x'] = 45;
         rows9.push(linedata);
     };
     doc.autoTable(columns9, rows9, {
         theme: 'grid',
-        startY: doc.autoTable.previous.finalY,
-        
+        startY: doc.autoTable.previous.finalY,        
         tableLineColor: [174, 186, 213],
         tableLineWidth: 1,
         styles: {
@@ -319,14 +316,11 @@ function demoFromHTML() {
             doc.setFont('helvetica');
             row.height = 18;
         },
-        
         drawCell: function(cell, data) {
             if (data.column.dataKey === 'Name') {
                 doc.setTextColor(0, 0, 238);
-                i = data.row.index;
-                //doc.rect(cell.x, cell.y, cell.width, cell.height, 'S');
                 doc.link(cell.x, cell.y, cell.width, cell.height, {
-                    url: rows9[i]['href']
+                    url: rows9[data.row.index]['href']
                 });
             };
         },
