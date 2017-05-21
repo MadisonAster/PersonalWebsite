@@ -308,19 +308,26 @@ function demoFromHTML() {
                     halign: 'left',
                 });
                 data.cursor.y += 84;
+            } else if (row.index > 1) {
+                i = row.index - 2;
+                    doc.textWithLink(rowlinks[i]['link'], 45, row.y + 10, {
+                        url: rowlinks[i]['href'],
+                        font: "helvetica",
+                    });
+                    
             }
         },
         
         drawCell: function(cell, data) {
             if (data.column.dataKey === 'id') {
-                if (data.row.index > 1) {
+                if (data.row.index > 1) {                    
+                    /*
                     i = data.row.index - 2;
                     doc.textWithLink(rowlinks[i]['link'], cell.textPos.x, cell.textPos.y + 10, {
                         url: rowlinks[i]['href'],
                         font: "helvetica",
                     });
                     
-                    /*
                     links.push({
                     x: cell.textPos.x,
                     y: cell.textPos.y
