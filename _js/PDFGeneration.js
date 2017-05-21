@@ -325,11 +325,11 @@ function demoFromHTML() {
         
     });
     
+    doc.setTextColor(0, 0, 238);
     for (var i = 0; i < rowlinks.length; i++) {
         doc.textWithLink(rowlinks[i]['link'], rowlinks[i]['x'], rowlinks[i]['y'] + 10, {
             url: rowlinks[i]['href'],
             font: "helvetica",
-            textColor: [0, 0, 238],
         });
     };
     
