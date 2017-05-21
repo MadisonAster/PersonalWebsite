@@ -289,7 +289,7 @@ function demoFromHTML() {
         columnStyles: {
         id: {columnWidth: doc.internal.pageSize.width/3-27},
         firstuse: {columnWidth: doc.internal.pageSize.width/3-27},
-        skill: {columnWidth: doc.internal.pageSize.width/3-27},
+        skill: {columnWidth: doc.internal.pageSize.width/3-28},
         },
         drawRow: function (row, data) {
             doc.setFontSize(12);
