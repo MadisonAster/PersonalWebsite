@@ -275,13 +275,12 @@ function demoFromHTML() {
     });
     
     var columns9 = [
-    {title: "", dataKey: "id"},
-    {title: "", dataKey: "firstuse"},
-    {title: "", dataKey: "skill"},
+    {title: "Name", dataKey: "Name"},
+    {title: "FirstUse", dataKey: "FirstUse"},
+    {title: "CurrentSkillLevel", dataKey: "CurrentSkillLevel"},
     ];
     
     var rows9 = [
-    {"id": "Name", "firstuse": "First Use", "skill": "Current Skill Level"},
     ];
     
     var csvurl = window.location.href+'/xpTable.csv';
@@ -292,11 +291,11 @@ function demoFromHTML() {
     for (var i = 0; i < cvslines.length-2; i++) {
         var line = cvslines[i];
         var linedata = {};
-        linedata['id'] = '';
+        linedata['Name'] = line.split(">")[1].split("<")[0];
         linedata['link'] = line.split(">")[1].split("<")[0];
         linedata['href'] = line.split("href='")[1].split("'")[0];
-        linedata['firstuse'] = line.split(',')[1];
-        linedata['skill'] = line.split(',')[2];
+        linedata['FirstUse'] = line.split(',')[1];
+        linedata['CurrentSkillLevel'] = line.split(',')[2];
         linedata['x'] = 45;
         ypos += 20;
         linedata['y'] = ypos+20;
@@ -315,9 +314,9 @@ function demoFromHTML() {
         overflow: 'hidden',
         },
         columnStyles: {
-        id: {columnWidth: doc.internal.pageSize.width/3-27},
-        firstuse: {columnWidth: doc.internal.pageSize.width/3-27},
-        skill: {columnWidth: doc.internal.pageSize.width/3-27},
+        Name: {columnWidth: doc.internal.pageSize.width/3-27},
+        FirstUse: {columnWidth: doc.internal.pageSize.width/3-27},
+        CurrentSkillLevel: {columnWidth: doc.internal.pageSize.width/3-27},
         },
         drawRow: function (row, data) {
             doc.setFontSize(12);
@@ -325,17 +324,7 @@ function demoFromHTML() {
             doc.setTextColor(89, 92, 98);
             doc.setFont('helvetica');
             row.height = 20;
-            if (row.index === 0) {
-                doc.autoTableText("Experience Table", 44, row.y-10, {
-                    valign: 'middle',
-                    halign: 'left',
-                });
-                doc.rect(data.settings.margin.left, row.y, data.table.width, 84, 'S');
-                doc.autoTableText("This table is an attempt to list as many major skills and software applications I have \npracticed over my career. For each item I've listed the year I first encountered it, and my \ncurrent level of mastery. Many of these items are at best only vaguely relevant to my current \ncareer path, however I've listed them here both to help catalog my history, and to give a \nbrief overview of the totallity of the knowledge that I currently posess.", 44, row.y+10, {
-                    halign: 'left',
-                });
-                data.cursor.y += 84;
-            } else if (row.index > 1) {
+            if (row.index > 1) {
                 doc.setTextColor(0, 0, 238);
                 /*
                 doc.textWithLink(rowlinks[i]['link'], 45, row.y + 10, {
@@ -351,7 +340,7 @@ function demoFromHTML() {
         },
         
         drawCell: function(cell, data) {
-            if (data.column.dataKey === 'id') {
+            if (data.column.dataKey === 'Name') {
                 if (data.row.index > 1) {
                     i = data.row.index-1;
                     rowlinks[i]['x'] = cell.textPos.x;
@@ -382,7 +371,7 @@ function demoFromHTML() {
         
     });
     
-    
+    /*
     doc.setTextColor(0, 0, 238);
     for (var i = 0; i < rowlinks.length; i++) {
         doc.textWithLink(rowlinks[i]['link'], rowlinks[i]['x'], rowlinks[i]['y'] + 10, {
@@ -390,6 +379,7 @@ function demoFromHTML() {
             font: "helvetica",
         });
     };
+    */
     
     
     doc.save('Test.pdf');
