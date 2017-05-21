@@ -190,7 +190,7 @@ function demoFromHTML() {
     var rows6 = [
     {"id": "Collins College (Action College of Film & Media Arts) — Tempe, AZ\nBA in Digital Video Effects, 2007 to 2010\n\nCCNA Semesters 1-4, 2006-2007"},
     ];
-    doc.autoTable(columns3, rows3, {
+    doc.autoTable(columns6, rows6, {
         theme: 'grid',
         startY: doc.autoTable.previous.finalY + 15,
         
@@ -246,13 +246,39 @@ function demoFromHTML() {
         }
     });
     
+    
     var columns8 = [
+    {title: "", dataKey: "id"},
+    ];
+    var rows8 = [
+    {"id": "This table is an attempt to list as many major skills and software applications I have \npracticed over my career. For each item I've listed the year I first encountered it, and my \ncurrent level of mastery. Many of these items are at best only vaguely relevant to my current \ncareer path, however I've listed them here both to help catalog my history, and to give a \nbrief overview of the totallity of the knowledge that I currently posess."},
+    ];
+    doc.autoTable(columns8, rows8, {
+        theme: 'grid',
+        startY: doc.autoTable.previous.finalY + 15,
+        
+        tableLineColor: [174, 186, 213],
+        tableLineWidth: 1,
+        drawRow: function (row, data) {
+            doc.setFontSize(12);
+            doc.setFontStyle('bold');
+            doc.setTextColor(89, 92, 98);
+            doc.setFont('helvetica');
+            if (row.index === 0) {
+                doc.autoTableText("Experience Table", 44, row.y-10, {
+                    valign: 'middle',
+                });
+            }
+        }
+    });
+    
+    var columns9 = [
     {title: "", dataKey: "id"},
     {title: "", dataKey: "firstuse"},
     {title: "", dataKey: "skill"},
     ];
     
-    var rows8 = [
+    var rows9 = [
     {"id": "Name", "firstuse": "First Use", "skill": "Current Skill Level"},
     ];
     
@@ -272,11 +298,11 @@ function demoFromHTML() {
         linedata['x'] = 45;
         ypos += 20;
         linedata['y'] = ypos+20;
-        rows8.push(linedata);
+        rows9.push(linedata);
         rowlinks.push(linedata);
     };
     var links = [];
-    doc.autoTable(columns8, rows8, {
+    doc.autoTable(columns9, rows9, {
         theme: 'grid',
         startY: doc.autoTable.previous.finalY + 15,
         
