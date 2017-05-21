@@ -271,7 +271,8 @@ function demoFromHTML() {
         linedata['firstuse'] = line.split(',')[1];
         linedata['skill'] = line.split(',')[2];
         linedata['x'] = 45;
-        linedata['y'] = ypos+84;
+        ypos += 20;
+        linedata['y'] = ypos+20;
         rows8.push(linedata);
         rowlinks.push(linedata);
     };
