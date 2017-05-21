@@ -312,11 +312,10 @@ function demoFromHTML() {
                 doc.setTextColor(0, 0, 238);
                 i = row.index - 2;
                     
-                
+                /*
                 doc.textWithLink(rowlinks[i]['link'], 45, row.y + 10, {
                     url: rowlinks[i]['href'],
                 });
-                /*
                 doc.autoTableText(rowlinks[i]['link'], 45, row.y + 10, {
                     url: rowlinks[i]['href'],
                     font: "helvetica",
@@ -328,13 +327,17 @@ function demoFromHTML() {
         
         drawCell: function(cell, data) {
             if (data.column.dataKey === 'id') {
-                if (data.row.index > 1) {                    
+                if (data.row.index > 1) { 
+                    rowlinks[i]['x'] = cell.textPos.x;
+                    rowlinks[i]['y'] = cell.textPos.y;
+                    
+                    /*
                     doc.autoTableText(rowlinks[i]['link'], cell.textPos.x, cell.textPos.y + 10, {
                     url: rowlinks[i]['href'],
                     font: "helvetica",
                     textColor: [0, 0, 238],
                     });
-                    /*
+                    
                     i = data.row.index - 2;
                     doc.textWithLink(rowlinks[i]['link'], cell.textPos.x, cell.textPos.y + 10, {
                         url: rowlinks[i]['href'],
@@ -353,7 +356,7 @@ function demoFromHTML() {
         
     });
     
-    /*
+    
     doc.setTextColor(0, 0, 238);
     for (var i = 0; i < rowlinks.length; i++) {
         doc.textWithLink(rowlinks[i]['link'], rowlinks[i]['x'], rowlinks[i]['y'] + 10, {
@@ -361,7 +364,7 @@ function demoFromHTML() {
             font: "helvetica",
         });
     };
-    */
+    
     
     doc.save('Test.pdf');
 }
