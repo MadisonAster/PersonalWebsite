@@ -260,12 +260,17 @@ function demoFromHTML() {
     var csvurl = window.location.href+'/xpTable.csv';
     var cvsdata = loadPage(csvurl);
     var cvslines = cvsdata.split('\n');
+    var ypos = 0;
     for (var i = 0; i < cvslines.length; i++) {
         var line = cvslines[i];
         var linedata = {};
-        linedata['id'] = line.split(',')[0];
+        linedata['id'] = '';
+        linedata['link'] = line.split(">")[1].split("<")[0];
+        linedata['href'] = line.split("href='")[1].split("'")[0];
         linedata['firstuse'] = line.split(',')[1];
         linedata['skill'] = line.split(',')[2];
+        linedata['x'] = 45;
+        linedata['y'] = ypos+84;
         rows8.push(linedata);
     };
     var links = [];
@@ -312,9 +317,9 @@ function demoFromHTML() {
             };
         },
         addPageContent: function() {
-        for (var i = 0; i < links.length; i++) {
-            doc.textWithLink('google.com', links[i].x, links[i].y + 10, {
-                url: 'http://www.google.com',
+        for (var i = 0; i < rows8.length; i++) {
+            doc.textWithLink(rows8[i]['link'], rows8[i]['x'], rows8[i]['y'] + 10, {
+                url: rows8[i]['href'],
                 font: "helvetica",
                 textColor: [0, 0, 238],
             });
