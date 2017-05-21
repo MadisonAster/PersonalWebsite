@@ -320,6 +320,6 @@ function demoFromHTML() {
             };
         },
     });
-    
-    doc.save('Test.pdf');
+    var date = new Date();
+    doc.save('ThomasMcVay-Resume'+date.yyyymmdd()+'.pdf');
 }
