@@ -243,8 +243,12 @@ function demoFromHTML() {
         }
     });
     
-    doc.addPage();
-    alert(doc.autoTable.previous.finalY);
+    var nexty = 0;
+    if(doc.autoTable.previous.finalY > 680) {
+        doc.addPage();
+    } else {
+        nexty = doc.autoTable.previous.finalY + 15;
+    }
     
     var columns8 = [
     {title: "", dataKey: "id"},
@@ -254,7 +258,7 @@ function demoFromHTML() {
     ];
     doc.autoTable(columns8, rows8, {
         theme: 'grid',
-        startY: doc.autoTable.previous.finalY + 15,
+        startY: nexty,
         styles: {
         overflow: 'linebreak',
         },
