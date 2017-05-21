@@ -230,6 +230,9 @@ function demoFromHTML() {
         styles: {
         overflow: 'hidden',
         },
+        columnStyles: {
+        id: {columnWidth: doc.internal.pageSize.width-80},
+        },
         drawRow: function (row, data) {
             doc.setFontSize(12);
             doc.setFontStyle('bold');
@@ -261,9 +264,6 @@ function demoFromHTML() {
         startY: nexty,
         styles: {
         overflow: 'linebreak',
-        },
-        columnStyles: {
-        id: {columnWidth: doc.internal.pageSize.width-27},
         },
         tableLineColor: [174, 186, 213],
         tableLineWidth: 1,
