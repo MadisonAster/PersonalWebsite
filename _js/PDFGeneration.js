@@ -310,21 +310,30 @@ function demoFromHTML() {
                 data.cursor.y += 84;
             }
         },
-        /*
+        
         drawCell: function(cell, data) {
             if (data.column.dataKey === 'id') {
                 if (data.row.index > 1) {
+                    i = data.row.index - 2;
+                    doc.textWithLink(rowlinks[i]['link'], cell.textPos.x, cell.textPos.y + 10, {
+                        url: rowlinks[i]['href'],
+                        font: "helvetica",
+                    });
+                    
+                    /*
                     links.push({
                     x: cell.textPos.x,
                     y: cell.textPos.y
                     });
+                    */
                 };
             };
-        },*/
+        },
         //addPageContent: function() {
         
     });
     
+    /*
     doc.setTextColor(0, 0, 238);
     for (var i = 0; i < rowlinks.length; i++) {
         doc.textWithLink(rowlinks[i]['link'], rowlinks[i]['x'], rowlinks[i]['y'] + 10, {
@@ -332,6 +341,7 @@ function demoFromHTML() {
             font: "helvetica",
         });
     };
+    */
     
     doc.save('Test.pdf');
 }
