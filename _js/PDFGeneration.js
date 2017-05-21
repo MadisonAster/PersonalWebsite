@@ -261,7 +261,7 @@ function demoFromHTML() {
     var cvsdata = loadPage(csvurl);
     var cvslines = cvsdata.split('\n');
     var ypos = 0;
-    for (var i = 0; i < cvslines.length-1; i++) {
+    for (var i = 0; i < cvslines.length-2; i++) {
         var line = cvslines[i];
         var linedata = {};
         linedata['id'] = 'nnnn';
@@ -316,18 +316,18 @@ function demoFromHTML() {
                 };
             };
         },
-        addPageContent: function() {
-        for (var i = 0; i < rows8.length; i++) {
-            doc.textWithLink(rows8[i]['link'], rows8[i]['x'], rows8[i]['y'] + 10, {
-                url: rows8[i]['href'],
-                font: "helvetica",
-                textColor: [0, 0, 238],
-            });
-        }
+        //addPageContent: function() {
+        
     }
     });
     
-    
+    for (var i = 0; i < rows8.length; i++) {
+        doc.textWithLink(rows8[i]['link'], rows8[i]['x'], rows8[i]['y'] + 10, {
+            url: rows8[i]['href'],
+            font: "helvetica",
+            textColor: [0, 0, 238],
+        });
+    };
     
     doc.save('Test.pdf');
 }
