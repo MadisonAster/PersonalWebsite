@@ -244,6 +244,7 @@ function demoFromHTML() {
     });
     
     doc.addPage();
+    alert(doc.autoTable.previous.finalY);
     
     var columns8 = [
     {title: "", dataKey: "id"},
