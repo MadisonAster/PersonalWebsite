@@ -219,7 +219,7 @@ function demoFromHTML() {
     {"id": "Lit Post LLC, 2255 N Ontario st ste 100A, Burbank CA 91504"},
     {"id": "Technical Director/Pipeline Developer - Nov 2011 to Mar 2015    - Nuke / Maya Pipeline Development"},
     {"id": "Alpha Designs, 316 E 4th St #B, Hanford CA 93230 (559) 583-6476"},
-    {"id": "Design Digitizer - Jan 2006 to Aug 2006         - Graphic Design"},
+    //{"id": "Design Digitizer - Jan 2006 to Aug 2006         - Graphic Design"},
     ];
     doc.autoTable(columns7, rows7, {
         theme: 'grid',
@@ -306,7 +306,7 @@ function demoFromHTML() {
         CurrentSkillLevel: {columnWidth: doc.internal.pageSize.width/3-27},
         },
         drawRow: function (row, data) {
-            row.height = 189;
+            row.height = 19;
         },
         drawCell: function(cell, data) {
             if (data.column.dataKey === 'Name') {
