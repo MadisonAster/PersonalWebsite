@@ -261,6 +261,7 @@ function demoFromHTML() {
     var cvsdata = loadPage(csvurl);
     var cvslines = cvsdata.split('\n');
     var ypos = 0;
+    var rowlinks = [];
     for (var i = 0; i < cvslines.length-2; i++) {
         var line = cvslines[i];
         var linedata = {};
@@ -272,6 +273,7 @@ function demoFromHTML() {
         linedata['x'] = 45;
         linedata['y'] = ypos+84;
         rows8.push(linedata);
+        rowslinks.push(linedata);
     };
     var links = [];
     doc.autoTable(columns8, rows8, {
@@ -320,9 +322,9 @@ function demoFromHTML() {
         
     });
     
-    for (var i = 0; i < rows8.length; i++) {
-        doc.textWithLink(rows8[i]['link'], rows8[i]['x'], rows8[i]['y'] + 10, {
-            url: rows8[i]['href'],
+    for (var i = 0; i < rowlinks.length; i++) {
+        doc.textWithLink(rowlinks[i]['link'], rowlinks[i]['x'], rowlinks[i]['y'] + 10, {
+            url: rowlinks[i]['href'],
             font: "helvetica",
             textColor: [0, 0, 238],
         });
