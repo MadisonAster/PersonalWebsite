@@ -238,7 +238,7 @@ function demoFromHTML() {
             doc.setFontStyle('bold');
             doc.setTextColor(89, 92, 98);
             doc.setFont('helvetica');
-            if (row.index % 2 === 0) {
+            if (row.index % 2 == 0) {
                 doc.setTextColor(0, 0, 0);
             };
             if (row.index === 0) {
