@@ -305,7 +305,7 @@ function demoFromHTML() {
     var links = [];
     doc.autoTable(columns9, rows9, {
         theme: 'grid',
-        startY: doc.autoTable.previous.finalY + 15,
+        startY: doc.autoTable.previous.finalY,
         
         tableLineColor: [174, 186, 213],
         tableLineWidth: 1,
