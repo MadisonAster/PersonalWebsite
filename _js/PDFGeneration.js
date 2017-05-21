@@ -263,6 +263,7 @@ function demoFromHTML() {
     var ypos = 0;
     for (var i = 0; i < cvslines.length; i++) {
         var line = cvslines[i];
+        if(line.length > 5) {
         var linedata = {};
         linedata['id'] = '';
         linedata['link'] = line.split(">")[1].split("<")[0];
@@ -272,6 +273,7 @@ function demoFromHTML() {
         linedata['x'] = 45;
         linedata['y'] = ypos+84;
         rows8.push(linedata);
+        }
     };
     var links = [];
     doc.autoTable(columns8, rows8, {
