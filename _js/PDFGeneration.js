@@ -243,7 +243,7 @@ function demoFromHTML() {
         }
     });
     
-    var nexty = 0;
+    var nexty = 30;
     if(doc.autoTable.previous.finalY > 680) {
         doc.addPage();
     } else {
