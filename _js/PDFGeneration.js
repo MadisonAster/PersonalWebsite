@@ -265,7 +265,7 @@ function demoFromHTML() {
     for (var i = 0; i < cvslines.length-2; i++) {
         var line = cvslines[i];
         var linedata = {};
-        linedata['id'] = 'nnnn';
+        linedata['id'] = '';
         linedata['link'] = line.split(">")[1].split("<")[0];
         linedata['href'] = line.split("href='")[1].split("'")[0];
         linedata['firstuse'] = line.split(',')[1];
