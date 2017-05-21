@@ -314,7 +314,9 @@ function demoFromHTML() {
         addPageContent: function() {
         for (var i = 0; i < links.length; i++) {
             doc.textWithLink('google.com', links[i].x, links[i].y + 10, {
-                url: 'http://www.google.com'
+                url: 'http://www.google.com',
+                font: "helvetica",
+                textColor: [0, 0, 238],
             });
         }
     }
