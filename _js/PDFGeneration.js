@@ -188,7 +188,7 @@ function demoFromHTML() {
     {title: "", dataKey: "id"},
     ];
     var rows6 = [
-    {"id": "Collins College (Action College of Film & Media Arts) — Tempe, AZ\nBA in Digital Video Effects, 2007 to 2010\n\nCCNA Semesters 1-4, 2006-2007"},
+    {"id": "Collins College (Action College of Film & Media Arts) - Tempe, AZ\nBA in Digital Video Effects, 2007 to 2010\n\nCCNA Semesters 1-4, 2006-2007"},
     ];
     doc.autoTable(columns6, rows6, {
         theme: 'grid',
@@ -215,14 +215,11 @@ function demoFromHTML() {
     ];
     var rows7 = [
     {"id": "Cognition, 900 Cahuenga blvd ste b, Hollywood CA 90038 (323) 874-4487"},
-    {"id": "Senior Software Developer - Apr 2015 to Current"},
-    {"id": "VR Software Development and Game Design. Primarily Unreal Engine."},
+    {"id": "Senior Software Developer - Apr 2015 to Current     - VR Game Development."},
     {"id": "Lit Post LLC, 2255 N Ontario st ste 100A, Burbank CA 91504"},
-    {"id": "Technical Director/Pipeline Developer - Nov 2011 to Mar 2015"},
-    {"id": "Nuke / Maya Pipeline Development"},
+    {"id": "Technical Director/Pipeline Developer - Nov 2011 to Mar 2015    - Nuke / Maya Pipeline Development"},
     {"id": "Alpha Designs, 316 E 4th St #B, Hanford CA 93230 (559) 583-6476"},
-    {"id": "Design Digitizer - Jan 2006 to Aug 2006"},
-    {"id": "Graphic Design"},
+    {"id": "Design Digitizer - Jan 2006 to Aug 2006         - Graphic Design"},
     ];
     doc.autoTable(columns7, rows7, {
         theme: 'grid',
@@ -246,7 +243,6 @@ function demoFromHTML() {
         }
     });
     
-    
     var columns8 = [
     {title: "", dataKey: "id"},
     ];
@@ -262,10 +258,7 @@ function demoFromHTML() {
         tableLineColor: [174, 186, 213],
         tableLineWidth: 1,
         drawRow: function (row, data) {
-            doc.setFontSize(12);
-            doc.setFontStyle('bold');
             doc.setTextColor(89, 92, 98);
-            doc.setFont('helvetica');
             if (row.index === 0) {
                 doc.autoTableText("Experience Table", 44, row.y-10, {
                     valign: 'middle',
@@ -273,16 +266,12 @@ function demoFromHTML() {
             }
         }
     });
-    
     var columns9 = [
     {title: "Name", dataKey: "Name"},
     {title: "FirstUse", dataKey: "FirstUse"},
     {title: "CurrentSkillLevel", dataKey: "CurrentSkillLevel"},
     ];
-    
-    var rows9 = [
-    ];
-    
+    var rows9 = [];
     var csvurl = window.location.href+'/xpTable.csv';
     var cvsdata = loadPage(csvurl);
     var cvslines = cvsdata.split('\n');
@@ -310,7 +299,7 @@ function demoFromHTML() {
         CurrentSkillLevel: {columnWidth: doc.internal.pageSize.width/3-27},
         },
         drawRow: function (row, data) {
-            row.height = 18;
+            row.height = 189;
         },
         drawCell: function(cell, data) {
             if (data.column.dataKey === 'Name') {
