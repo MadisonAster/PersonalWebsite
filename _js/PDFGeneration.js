@@ -5,8 +5,8 @@ function loadPage(href) {
     return xmlhttp.responseText;
 }
 
-function ResumeDialog(message) {
-    $('.title').html(message);
+function ResumeDialog() {
+    $('.title').html("HelloWorld");
     var dialog = $('#modal_dialog').dialog();
 
     $('#btnYes').click(function() {
