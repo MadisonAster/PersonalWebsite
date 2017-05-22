@@ -5,6 +5,23 @@ function loadPage(href) {
     return xmlhttp.responseText;
 }
 
+function ResumeDialog(message) {
+    $('.title').html(message);
+    var dialog = $('#modal_dialog').dialog();
+
+    $('#btnYes').click(function() {
+        dialog.dialog('close');
+        demoFromHTML();
+    });
+    $('#btnNo').click(function() {
+        dialog.dialog('close');
+        nothanks();
+    });
+}
+function nothanks() {
+    alert('cancel');
+};
+    
 function demoFromHTML() {
     var doc = new jsPDF('p', 'pt', 'letter');
     doc.setFontSize(12);
