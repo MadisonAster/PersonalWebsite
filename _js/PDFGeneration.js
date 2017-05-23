@@ -6,20 +6,22 @@ function loadPage(href) {
 }
 
 function ResumeDialog() {
-    $('.title').html("HelloWorld");
-    alert('running');
-    var dialog = $('#modal_dialog').dialog("open");
-    dialog.css('z-index',157);
-    alert(dialog);
-
-    $('#btnYes').click(function() {
-        dialog.dialog('close');
-        demoFromHTML();
+    $( "#add-btn-dlg-panel" ).dialog({
+            modal: true,
+            autoOpen: false,
+            height: 255,
+            width: 300,
+            buttons: {
+                "Retrieve": function() {
+                    document.forms["forgotform"].submit();
+                },
+                Cancel: function() {
+                    $( this ).dialog( "close" );
+                }
+            },
     });
-    $('#btnNo').click(function() {
-        dialog.dialog('close');
-        nothanks();
-    });
+    
+    $( "#add-btn-dlg-panel" ).dialog( "open" );
 }
 function nothanks() {
     alert('cancel');
