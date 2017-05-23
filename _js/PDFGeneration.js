@@ -8,7 +8,7 @@ function loadPage(href) {
 function ResumeDialog() {
     $('.title').html("HelloWorld");
     alert('running');
-    var dialog = $('#modal_dialog').dialog();
+    var dialog = $('#modal_dialog').dialog("open");
     dialog.css('z-index',157);
     alert(dialog);
 
