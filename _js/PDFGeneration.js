@@ -9,6 +9,7 @@ function ResumeDialog() {
     $('.title').html("HelloWorld");
     alert('running');
     var dialog = $('#modal_dialog').dialog();
+    alert(dialog);
 
     $('#btnYes').click(function() {
         dialog.dialog('close');
