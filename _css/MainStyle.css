@@ -50,13 +50,14 @@ th:active,
     width:100%;
 }
 #DialogBox{
-	z-index:0;
+	z-index:150;
     position:absolute;
     top:100%;
-    left:10%;
-    width:80%;
-    padding:0px;
+    left:30%;
+    width:10%;
     margin:0px;
+    padding:40px;
+    background-color:rgba(0,0,0,0.7);
 }
 #ContentContainer{
 	z-index:0;
