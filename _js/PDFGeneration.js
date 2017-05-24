@@ -8,7 +8,7 @@ function loadPage(href) {
 function ResumeDialog() {
     $( "#myDialog" ).dialog({
             modal: true,
-            autoOpen: true,
+            autoOpen: false,
             height: 255,
             width: 300,
             buttons: {

@@ -43,7 +43,7 @@ th:active,
 }
 
 .BackgroundImg{
-	z-index:-100;
+    z-index:-100;
     position:fixed;
     top:0px;
     left:0px;
@@ -51,7 +51,7 @@ th:active,
 }
 #DialogBox{
     display:none;
-	z-index:150;
+    z-index:150;
     position:absolute;
     top:100%;
     left:30%;
