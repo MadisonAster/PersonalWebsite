@@ -6,9 +6,9 @@ function loadPage(href) {
 }
 
 function ResumeDialog() {
-    $( "#add-btn-dlg-panel" ).dialog({
+    $( "#myDialog" ).dialog({
             modal: true,
-            autoOpen: false,
+            autoOpen: true,
             height: 255,
             width: 300,
             buttons: {
@@ -21,7 +21,7 @@ function ResumeDialog() {
             },
     });
     
-    $( "#add-btn-dlg-panel" ).dialog( "open" );
+    $( "#myDialog" ).dialog( "open" );
 }
 function nothanks() {
     alert('cancel');
