@@ -50,6 +50,7 @@ th:active,
     width:100%;
 }
 #DialogBox{
+    display:none;
 	z-index:150;
     position:absolute;
     top:100%;
