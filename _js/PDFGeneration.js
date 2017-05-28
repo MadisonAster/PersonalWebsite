@@ -6,7 +6,7 @@ function loadPage(href) {
 }
 
 function ResumeDialog() {
-    $( "#myDialog" ).dialog({
+    $( "#ResumeDialog" ).dialog({
             modal: true,
             autoOpen: false,
             height: 255,
@@ -14,13 +14,13 @@ function ResumeDialog() {
             
     });
     
-    $( "#myDialog" ).dialog( "open" );
+    $( "#ResumeDialog" ).dialog( "open" );
 }
 function nothanks() {
     alert('cancel');
 };
     
-function demoFromHTML() {
+function VRGameDeveloper() {
     var doc = new jsPDF('p', 'pt', 'letter');
     doc.setFontSize(12);
     doc.setTextColor(89, 92, 98);
@@ -336,4 +336,6 @@ function demoFromHTML() {
     });
     var date = new Date();
     doc.save('ThomasMcVay-Resume'+date.yyyymmdd()+'.pdf');
+    
+    $('#ResumeDialog').dialog('close');
 }
