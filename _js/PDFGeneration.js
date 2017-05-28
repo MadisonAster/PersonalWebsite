@@ -11,14 +11,7 @@ function ResumeDialog() {
             autoOpen: false,
             height: 255,
             width: 300,
-            buttons: {
-                "Retrieve": function() {
-                    document.forms["forgotform"].submit();
-                },
-                Cancel: function() {
-                    $( this ).dialog( "close" );
-                }
-            },
+            
     });
     
     $( "#myDialog" ).dialog( "open" );
