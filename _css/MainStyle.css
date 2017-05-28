@@ -53,10 +53,10 @@ th:active,
     display:none;
     z-index:150;
     position:fixed;
-    top:50%;
+    top:40%;
     left:40%;
     width:20%;
-    height:20%;
+    height:10%;
     margin:0px;
     padding:40px;
     background-color:rgba(0,0,0,0.7);
