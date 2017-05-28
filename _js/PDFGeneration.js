@@ -16,9 +16,6 @@ function ResumeDialog() {
     
     $( "#ResumeDialog" ).dialog( "open" );
 }
-function nothanks() {
-    alert('cancel');
-};
     
 function VRGameDeveloper() {
     var doc = new jsPDF('p', 'pt', 'letter');
