@@ -60,6 +60,9 @@ th:active,
     padding:40px;
     background-color:rgba(0,0,0,0.7);
 }
+.ui-dialog-titlebar-close {
+    visibility: hidden;
+}
 #ContentContainer{
 	z-index:0;
     position:absolute;
