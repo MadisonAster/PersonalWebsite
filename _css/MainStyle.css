@@ -52,10 +52,11 @@ th:active,
 .DialogBox{
     display:none;
     z-index:150;
-    position:absolute;
+    position:fixed;
     top:70%;
     left:20%;
     width:20%;
+    width:10%;
     margin:0px;
     padding:40px;
     background-color:rgba(0,0,0,0.7);
