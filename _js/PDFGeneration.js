@@ -10,7 +10,7 @@ function ResumeDialog() {
             modal: true,
             autoOpen: false,
             height: 400,
-            width: 100%,
+            width: 60%,
             
     });
     
