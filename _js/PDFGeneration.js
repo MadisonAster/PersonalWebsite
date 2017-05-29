@@ -15,7 +15,11 @@ function ResumeDialog() {
     
     $( "#ResumeDialog" ).dialog( "open" );
 }
-    
+
+function CloseDialog() {
+    $('#ResumeDialog').dialog('close');
+}
+
 function VRGameDeveloper() {
     //alert('VRGameDeveloper');
     var doc = new jsPDF('p', 'pt', 'letter');
