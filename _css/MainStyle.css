@@ -60,6 +60,7 @@ th:active,
     margin:0px;
     padding:40px;
     background-color:rgba(0,0,0,0.85);
+    border-style: double;
     border:1px double white;
 }
 .ui-dialog-titlebar-close {
