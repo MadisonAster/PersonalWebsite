@@ -53,8 +53,8 @@ th:active,
     display:none;
     z-index:150;
     position:fixed;
-    top:40%;
-    bottom:40%;
+    top:35%;
+    bottom:35%;
     left:30%;
     right:30%;
     margin:0px;
