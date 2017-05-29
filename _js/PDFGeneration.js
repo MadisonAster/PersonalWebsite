@@ -9,7 +9,7 @@ function ResumeDialog() {
     $( "#ResumeDialog" ).dialog({
             modal: true,
             autoOpen: false,
-            height: 400,
+            height: 300,
             width: 300,
     });
     
