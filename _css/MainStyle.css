@@ -66,7 +66,7 @@ th:active,
     background-color:rgba(0,0,0,0.85);
     border-style: double;
     border-width: 3px;
-    border-color: darkgrey;
+    border-color: #222222;
 }
 .ui-dialog-titlebar-close {
     visibility: hidden;
