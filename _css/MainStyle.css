@@ -54,7 +54,7 @@ th:active,
     z-index:150;
     position:fixed;
     top:30%;
-    bottom:30%;
+    bottom:15%;
     height:400px;
     left:30%;
     right:30%;
@@ -65,8 +65,8 @@ th:active,
     padding-bottom:40px;
     background-color:rgba(0,0,0,0.85);
     border-style: double;
-    border-width: 2px;
-    border-color: rgba(0.5,0.5,0.5,1.0);
+    border-width: 3px;
+    border-color: rgba(0.25,0.25,0.25,1.0);
 }
 .ui-dialog-titlebar-close {
     visibility: hidden;
