@@ -27,8 +27,11 @@ function CVDialog() {
     $('#CVDialog').dialog('open');
     $('#DialogFocuser').css('display', 'block');
 }
-function CloseDialog() {
+function CloseResumeDialog() {
     $('#ResumeDialog').dialog('close');
+    $('#DialogFocuser').css('display', 'none');
+}
+function CloseCVDialog() {
     $('#CVDialog').dialog('close');
     $('#DialogFocuser').css('display', 'none');
 }
@@ -349,5 +352,5 @@ function VRGameDeveloper() {
     });
     var date = new Date();
     doc.save('ThomasMcVay-Resume'+date.yyyymmdd()+'.pdf');
-    CloseDialog();
+    CloseResumeDialog();
 }
