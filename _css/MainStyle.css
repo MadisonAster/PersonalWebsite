@@ -70,6 +70,18 @@ th:active,
     border-width: 3px;
     border-color: #333333;
 }
+.DialogButton{
+    background-color:#555555;
+    border:0;
+    color:#cccccc;
+    font-weight:bold;
+    font-size:1.0em;
+    cursor:pointer;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 1.0);
+    margin:1px;
+    width:100%;
+    height:50px;
+}
 .DialogFocus{
     display:none;
     z-index:149;
