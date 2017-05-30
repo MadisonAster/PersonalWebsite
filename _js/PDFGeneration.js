@@ -16,9 +16,20 @@ function ResumeDialog() {
     $('#ResumeDialog').dialog('open');
     $('#DialogFocuser').css('display', 'block');
 }
-
+function CVDialog() {
+    $( "#CVDialog" ).dialog({
+            modal: true,
+            autoOpen: false,
+            height: 300,
+            width: 300,
+    });
+    
+    $('#CVDialog').dialog('open');
+    $('#DialogFocuser').css('display', 'block');
+}
 function CloseDialog() {
     $('#ResumeDialog').dialog('close');
+    $('#CVDialog').dialog('close');
     $('#DialogFocuser').css('display', 'none');
 }
 
