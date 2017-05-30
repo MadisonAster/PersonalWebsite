@@ -370,7 +370,7 @@ function VRGameDeveloper_Resume() {
     var doc = DocumentSetup();
     
     var PositionTitle = "VR Game Developer";
-    var Objective = "Looking to work on VR Games with challenging coding problems and inspiring designs, with a keen interest in expiramental hardware.";
+    var Objective = "Looking to work on VR Games with challenging coding problems and inspiring designs, with a keen interest in experimental hardware.";
     ResumeContactDetails(doc, PositionTitle);    
     ResumeProfile(doc, Objective);
     ResumeKeySkills(doc);
