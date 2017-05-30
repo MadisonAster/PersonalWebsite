@@ -36,7 +36,7 @@ function CloseCVDialog() {
     $('#DialogFocuser').css('display', 'none');
 }
 
-function VRGameDeveloper() {
+function DocumentSetup(){
     var doc = new jsPDF('p', 'pt', 'letter');
     doc.setFontSize(12);
     doc.setTextColor(89, 92, 98);
@@ -58,6 +58,11 @@ function VRGameDeveloper() {
             id: {fontStyle: 'bold'}
         },
     });
+    
+    return doc;
+}
+function VRGameDeveloper() {
+    var doc = DocumentSetup();
     
     var wordlisturl = window.location.href+'/WordList.csv';
     var wordlistdata = loadPage(wordlisturl);
