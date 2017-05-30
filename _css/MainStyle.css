@@ -95,7 +95,6 @@ th:active,
     color:#cccccc;
     font-weight:bold;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 1.0);
-    user-select: none;
 }
 .DialogButton{
     background-color:#555555;
