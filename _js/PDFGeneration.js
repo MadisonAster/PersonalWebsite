@@ -339,6 +339,6 @@ function VRGameDeveloper() {
     });
     var date = new Date();
     doc.save('ThomasMcVay-Resume'+date.yyyymmdd()+'.pdf');
-    
+    alert('test');
     CloseDialog();
 }
