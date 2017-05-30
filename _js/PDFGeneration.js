@@ -70,7 +70,8 @@ function DocumentSetup(){
     
     return doc;
 }
-function ContactDetails(doc, PositionTitle) {
+
+function ResumeContactDetails(doc, PositionTitle) {
     var columns1 = [
         {title: "", dataKey: "id"},
     ];
@@ -359,20 +360,78 @@ function ResumeExperienceTable(doc) {
         },
     });
 }
-function VRGameDeveloper() {
+function ResumeSave(doc, PositionTitle) {
+    var date = new Date();
+    doc.save('ThomasMcVay_'+PositionTitle.replaceAll(' ','')+'_Resume'+date.yyyymmdd()+'.pdf');
+    CloseResumeDialog();
+}
+
+function VRGameDeveloper_Resume() {
     var doc = DocumentSetup();
     
     var PositionTitle = "VR Game Developer";
     var Objective = "Looking for work on highly modular software projects with long evolution curves. I would like to continue to focus on developing modular VR applications with hardware abstraction layers that allow for adaptation across the full spectrum of VR Devices.";
-    ContactDetails(doc, PositionTitle);    
+    ResumeContactDetails(doc, PositionTitle);    
     ResumeProfile(doc, Objective);
     ResumeKeySkills(doc);
     ResumeEducation(doc);
     ResumeProfessionalExperience(doc);
     ResumeExperienceTable(doc);
-
+    ResumeSave(doc, PositionTitle);
+}
+function PythonDeveloper_Resume() {
+    var doc = DocumentSetup();
     
-    var date = new Date();
-    doc.save('ThomasMcVay_'+PositionTitle.replace(' ','')+'_Resume'+date.yyyymmdd()+'.pdf');
-    CloseResumeDialog();
+    var PositionTitle = "Python Developer";
+    var Objective = "Looking for work on highly modular software projects with long evolution curves. I would like to continue to focus on developing modular VR applications with hardware abstraction layers that allow for adaptation across the full spectrum of VR Devices.";
+    ResumeContactDetails(doc, PositionTitle);    
+    ResumeProfile(doc, Objective);
+    ResumeKeySkills(doc);
+    ResumeEducation(doc);
+    ResumeProfessionalExperience(doc);
+    ResumeExperienceTable(doc);
+    ResumeSave(doc, PositionTitle);
+}
+function SoftwareDeveloper_Resume() {
+    var doc = DocumentSetup();
+    
+    var PositionTitle = "Software Developer";
+    var Objective = "Looking for work on highly modular software projects with long evolution curves. I would like to continue to focus on developing modular VR applications with hardware abstraction layers that allow for adaptation across the full spectrum of VR Devices.";
+    ResumeContactDetails(doc, PositionTitle);    
+    ResumeProfile(doc, Objective);
+    ResumeKeySkills(doc);
+    ResumeEducation(doc);
+    ResumeProfessionalExperience(doc);
+    ResumeExperienceTable(doc);
+    ResumeSave(doc, PositionTitle);
+}
+function VFXTechnicalDirector_Resume() {
+    var doc = DocumentSetup();
+    
+    var PositionTitle = "VFX Technical Director";
+    var Objective = "Looking for work on highly modular software projects with long evolution curves. I would like to continue to focus on developing modular VR applications with hardware abstraction layers that allow for adaptation across the full spectrum of VR Devices.";
+    ResumeContactDetails(doc, PositionTitle);    
+    ResumeProfile(doc, Objective);
+    ResumeKeySkills(doc);
+    ResumeEducation(doc);
+    ResumeProfessionalExperience(doc);
+    ResumeExperienceTable(doc);
+    ResumeSave(doc, PositionTitle);
+}
+
+function VRGameDeveloper_CV() {
+    alert("I haven't written this yet, sorry!");
+    CloseCVDialog();
+}
+function PythonDeveloper_CV() {
+    alert("I haven't written this yet, sorry!");
+    CloseCVDialog();
+}
+function SoftwareDeveloper_CV() {
+    alert("I haven't written this yet, sorry!");
+    CloseCVDialog();
+}
+function VFXTechnicalDirector_CV() {
+    alert("I haven't written this yet, sorry!");
+    CloseCVDialog();
 }
