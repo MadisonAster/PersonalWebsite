@@ -13,6 +13,10 @@ function GetAddress() {
     return DecodeData(EncodedString);
 }
 
+function GetAvailability() {
+    return '2 weeks notice.';
+}
+
 Date.prototype.yyyymmdd = function() {
   var mm = this.getMonth() + 1; // getMonth() is zero-based
   var dd = this.getDate();

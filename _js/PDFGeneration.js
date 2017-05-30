@@ -70,12 +70,12 @@ function DocumentSetup(){
     
     return doc;
 }
-function ContactDetails(doc) {
+function ContactDetails(doc, PositionTitle) {
     var columns1 = [
         {title: "", dataKey: "id"},
     ];
     var rows1 = [
-        {"id": "Software Developer / VR Game Designer"},
+        {"id": PositionTitle},
     ];
     doc.autoTable(columns1, rows1, {
         theme: 'grid',
@@ -152,20 +152,14 @@ function ContactDetails(doc) {
         }
     });
 }
-function VRGameDeveloper() {
-    var doc = DocumentSetup();
-    
-    ContactDetails(doc);
-    
-    
-    
+function ResumeProfile(doc, Objective) {
     var columns4 = [
     {title: "", dataKey: "id"},
     {title: "", dataKey: "desc"},
     ];
     var rows4 = [
-    {"id": "Objective:", "desc": "Looking for work on highly modular software projects with long evolution curves. I would like to continue to focus on developing modular VR applications with hardware abstraction layers that allow for adaptation across the full spectrum of VR Devices."},
-    {"id": "Availability:", "desc": "2 weeks notice."},
+    {"id": "Objective:", "desc": Objective},
+    {"id": "Availability:", "desc": GetAvailability()},
     ];
     doc.autoTable(columns4, rows4, {
         theme: 'grid',
@@ -189,7 +183,8 @@ function VRGameDeveloper() {
             }
         }
     });
-    
+}
+function ResumeKeySkills(doc) {
     var columns5 = [
     {title: "", dataKey: "id"},
     {title: "", dataKey: "desc"},
@@ -223,7 +218,8 @@ function VRGameDeveloper() {
             }
         }
     });
-    
+}
+function ResumeEducation(doc) {
     var columns6 = [
     {title: "", dataKey: "id"},
     ];
@@ -248,7 +244,8 @@ function VRGameDeveloper() {
             }
         }
     });
-    
+}
+function ResumeProfessionalExperience(doc) {
     var columns7 = [
     {title: "", dataKey: "id"},
     {title: "", dataKey: "desc"},
@@ -285,7 +282,8 @@ function VRGameDeveloper() {
             }
         }
     });
-    
+}
+function ResumeExperienceTable(doc) {
     var nexty = 30;
     if(doc.autoTable.previous.finalY > 610) {
         doc.addPage();
@@ -360,7 +358,21 @@ function VRGameDeveloper() {
             };
         },
     });
+}
+function VRGameDeveloper() {
+    var doc = DocumentSetup();
+    
+    var PositionTitle = "VR Game Developer";
+    var Objective = "Looking for work on highly modular software projects with long evolution curves. I would like to continue to focus on developing modular VR applications with hardware abstraction layers that allow for adaptation across the full spectrum of VR Devices.";
+    ContactDetails(doc, PositionTitle);    
+    ResumeProfile(doc, Objective);
+    ResumeKeySkills(doc);
+    ResumeEducation(doc);
+    ResumeProfessionalExperience(doc);
+    ResumeExperienceTable(doc);
+
+    
     var date = new Date();
-    doc.save('ThomasMcVay-Resume'+date.yyyymmdd()+'.pdf');
+    doc.save('ThomasMcVay_'+PositionTitle.replace(' ','')+'_Resume'+date.yyyymmdd()+'.pdf');
     CloseResumeDialog();
 }
