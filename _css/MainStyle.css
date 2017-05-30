@@ -41,7 +41,9 @@ th:active,
     background-color:#111111;
     text-shadow: -1px 1px 0px rgba(0, 0, 0, 1.0);
 }
-.button,.DialogButton,.CloseButton:focus {
+.button:focus,
+.DialogButton:focus,
+.CloseButton:focus{
     outline:0;
 }
 
