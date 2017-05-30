@@ -71,7 +71,6 @@ th:active,
     border-color: #333333;
 }
 .DialogFocus{
-    display:none;
     z-index:149;
     position:fixed;
     width:100%;
