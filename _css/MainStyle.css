@@ -71,6 +71,7 @@ th:active,
     border-color: #333333;
 }
 .DialogFocus{
+    display:none;
     z-index:149;
     position:fixed;
     width:100%;
@@ -81,7 +82,7 @@ th:active,
     right:0%;
     margin:0px;
     padding:0px;
-    background-color:rgba(0,0,0,0.85);
+    background-color:rgba(100,100,100,0.85);
 }
 .ui-dialog-titlebar-close {
     visibility: hidden;
