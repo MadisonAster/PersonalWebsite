@@ -370,7 +370,7 @@ function VRGameDeveloper_Resume() {
     var doc = DocumentSetup();
     
     var PositionTitle = "VR Game Developer";
-    var Objective = "Looking for work on highly modular software projects with long evolution curves. I would like to continue to focus on developing modular VR applications with hardware abstraction layers that allow for adaptation across the full spectrum of VR Devices.";
+    var Objective = "Looking to work on VR Games with challenging coding problems and inspiring designs, with a keen interest in expiramental hardware.";
     ResumeContactDetails(doc, PositionTitle);    
     ResumeProfile(doc, Objective);
     ResumeKeySkills(doc);
@@ -383,7 +383,7 @@ function PythonDeveloper_Resume() {
     var doc = DocumentSetup();
     
     var PositionTitle = "Python Developer";
-    var Objective = "Looking for work on highly modular software projects with long evolution curves. I would like to continue to focus on developing modular VR applications with hardware abstraction layers that allow for adaptation across the full spectrum of VR Devices.";
+    var Objective = "Looking for work on highly modular software projects with long evolution curves.";
     ResumeContactDetails(doc, PositionTitle);    
     ResumeProfile(doc, Objective);
     ResumeKeySkills(doc);
@@ -396,7 +396,7 @@ function SoftwareDeveloper_Resume() {
     var doc = DocumentSetup();
     
     var PositionTitle = "Software Developer";
-    var Objective = "Looking for work on highly modular software projects with long evolution curves. I would like to continue to focus on developing modular VR applications with hardware abstraction layers that allow for adaptation across the full spectrum of VR Devices.";
+    var Objective = "Seekings work on highly modular software projects that require succintly written and maintaibable code.";
     ResumeContactDetails(doc, PositionTitle);    
     ResumeProfile(doc, Objective);
     ResumeKeySkills(doc);
@@ -409,7 +409,7 @@ function VFXTechnicalDirector_Resume() {
     var doc = DocumentSetup();
     
     var PositionTitle = "VFX Technical Director";
-    var Objective = "Looking for work on highly modular software projects with long evolution curves. I would like to continue to focus on developing modular VR applications with hardware abstraction layers that allow for adaptation across the full spectrum of VR Devices.";
+    var Objective = "Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.";
     ResumeContactDetails(doc, PositionTitle);    
     ResumeProfile(doc, Objective);
     ResumeKeySkills(doc);
