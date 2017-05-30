@@ -71,6 +71,7 @@ th:active,
     border-color: #333333;
 }
 .DialogFocus{
+    display:none;
     z-index:149;
     position:fixed;
     width:100%;
@@ -101,7 +102,7 @@ th:active,
     width:100%;
 }
 #MenuContainer{
-	z-index:50;
+	z-index:49;
     position:fixed;
     top:0px;
     left:-35px;

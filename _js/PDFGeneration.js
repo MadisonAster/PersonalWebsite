@@ -14,7 +14,7 @@ function ResumeDialog() {
     });
     
     $('#ResumeDialog').dialog('open');
-    $('#DialogFocuser').css('display', 'contents');
+    $('#DialogFocuser').css('display', 'block');
 }
 
 function CloseDialog() {
