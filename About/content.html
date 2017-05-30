@@ -26,7 +26,7 @@ As if it wasn't apparent enough from the obnoxious url, my name is Thomas McVay.
     <div class='DialogTitle'>
     Resume Generator
     </div>
-    <input value='x' class='CloseButton' onclick='javascript:CloseResumeDialog();'>
+    <input type='Submit' value='x' class='CloseButton' onclick='javascript:CloseResumeDialog();'>
     Tailor resume to:
     <br/><br/>
     <input value='VR Game Developer' class='DialogButton' onclick='javascript:VRGameDeveloper();'>
@@ -37,11 +37,8 @@ As if it wasn't apparent enough from the obnoxious url, my name is Thomas McVay.
 <div class='DialogBox' id='CVDialog'>
     <div style='width:100%;height:50px;margin:0;padding:0;font-size:1.5em;vertical-align:middle;text-align:center;'>
     CV Generator
-    
     </div>
-    <form method='post' action='javascript:CloseCVDialog();' >
-    <input type='Submit' value='x' class='button' style='width:40px;height:40px;position:absolute;right:2.0%;top:2.0%;background-color:rgba(0,0,0,0);margin:0px;font-size:2.0em;'>
-    </form>
+    <input type='Submit' value='x' class='CloseButton' onclick='javascript:CloseCVDialog();'>
     Tailor CV to:
     <br/><br/>
     <form method='post' action='javascript:VRGameDeveloper();' >
