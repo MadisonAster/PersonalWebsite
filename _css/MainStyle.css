@@ -88,7 +88,7 @@ th:active,
     visibility: hidden;
 }
 #ContentContainer{
-	z-index:0;
+    z-index:0;
     position:absolute;
     top:100%;
     left:10%;
@@ -97,12 +97,12 @@ th:active,
     margin:0px;
 }
 #FooterContainer{
-	z-index:0;
+    z-index:0;
     position:inline;
     width:100%;
 }
 #MenuContainer{
-	z-index:49;
+    z-index:10;
     position:fixed;
     top:0px;
     left:-35px;
