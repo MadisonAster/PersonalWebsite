@@ -23,7 +23,6 @@ function CloseDialog() {
 }
 
 function VRGameDeveloper() {
-    //alert('VRGameDeveloper');
     var doc = new jsPDF('p', 'pt', 'letter');
     doc.setFontSize(12);
     doc.setTextColor(89, 92, 98);
@@ -339,6 +338,5 @@ function VRGameDeveloper() {
     });
     var date = new Date();
     doc.save('ThomasMcVay-Resume'+date.yyyymmdd()+'.pdf');
-    alert('test');
     CloseDialog();
 }
