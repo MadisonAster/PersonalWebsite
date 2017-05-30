@@ -59,11 +59,6 @@ function DocumentSetup(){
         },
     });
     
-    return doc;
-}
-function VRGameDeveloper() {
-    var doc = DocumentSetup();
-    
     var wordlisturl = window.location.href+'/WordList.csv';
     var wordlistdata = loadPage(wordlisturl);
     var wordlistlines = wordlistdata.split('\n');
@@ -73,6 +68,9 @@ function VRGameDeveloper() {
     };
     doc.setTextColor(89, 92, 98);
     
+    return doc;
+}
+function ContactDetails(doc) {
     var columns1 = [
         {title: "", dataKey: "id"},
     ];
@@ -153,6 +151,13 @@ function VRGameDeveloper() {
             }
         }
     });
+}
+function VRGameDeveloper() {
+    var doc = DocumentSetup();
+    
+    ContactDetails(doc);
+    
+    
     
     var columns4 = [
     {title: "", dataKey: "id"},
