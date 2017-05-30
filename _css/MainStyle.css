@@ -101,7 +101,7 @@ th:active,
     width:100%;
 }
 #MenuContainer{
-	z-index:100;
+	z-index:99;
     position:fixed;
     top:0px;
     left:-35px;
