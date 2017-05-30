@@ -73,6 +73,7 @@ th:active,
 .DialogButton{
     background-color:#555555;
     border:0;
+    text-align:center;
     color:#cccccc;
     font-weight:bold;
     font-size:1.0em;
