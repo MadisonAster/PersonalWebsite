@@ -70,6 +70,18 @@ th:active,
     border-width: 3px;
     border-color: #333333;
 }
+.DialogFocus{
+    display:none;
+    z-index:149;
+    position:fixed;
+    top:0%;
+    bottom:0%;
+    left:0%;
+    right:0%;
+    margin:0px;
+    padding:0px;
+    background-color:rgba(0.2,0.2,0.2,0.85);
+}
 .ui-dialog-titlebar-close {
     visibility: hidden;
 }

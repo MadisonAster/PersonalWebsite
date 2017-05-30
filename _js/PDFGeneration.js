@@ -13,11 +13,13 @@ function ResumeDialog() {
             width: 300,
     });
     
-    $( "#ResumeDialog" ).dialog( "open" );
+    $('#ResumeDialog').dialog('open');
+    $('#DialogFocuser').css('display', 'contents');
 }
 
 function CloseDialog() {
     $('#ResumeDialog').dialog('close');
+    $('#DialogFocuser').css('display', 'none');
 }
 
 function VRGameDeveloper() {
