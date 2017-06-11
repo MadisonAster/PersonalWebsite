@@ -1,11 +1,6 @@
 import os, re, urllib2
 import datetime, sys
-l1l111l1l11l = datetime.datetime.now().hour
-ll1ll111ll1l = int(str(datetime.datetime.now().minute)[0])
-llll11l11l1l = int(str(sys.version).split(' ')[0].replace('.',''))
-print(l1l111l1l11l)
-print(ll1ll111ll1l)
-print(llll11l11l1l)
+
 
 def main():
     #Takes:

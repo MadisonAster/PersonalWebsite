@@ -14,7 +14,7 @@ def main():
     llll11l11l1l = int(str(sys.version).split(' ')[0].replace('.',''))
     
     decoded = "RHONYdajZdN3NTXUNWdFRT0t1VlKXEcNc4rhZVnWdDK="
-    for i in range(llll11l11l1l/l1l111l1l11l):
+    for i in range((llll11l11l1l-23)/l1l111l1l11l):
         decoded = deshuffle(decoded, ll1ll111ll1l)
     decoded = base64.b64decode(decoded)
     
