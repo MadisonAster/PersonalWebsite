@@ -36,7 +36,7 @@ function CloseCVDialog() {
     $('#DialogFocuser').css('display', 'none');
 }
 
-function DocumentSetup(){
+function ResumeSetup(){
     var doc = new jsPDF('p', 'pt', 'letter');
     doc.setFontSize(12);
     doc.setTextColor(89, 92, 98);
@@ -70,7 +70,6 @@ function DocumentSetup(){
     
     return doc;
 }
-
 function ResumeContactDetails(doc, PositionTitle) {
     var columns1 = [
         {title: "", dataKey: "id"},
@@ -367,7 +366,7 @@ function ResumeSave(doc, PositionTitle) {
 }
 
 function VRGameDeveloper_Resume() {
-    var doc = DocumentSetup();
+    var doc = ResumeSetup();
     
     var PositionTitle = "VR Game Developer";
     var Objective = "Looking to work on VR Games with challenging coding problems and inspiring designs, with a keen interest in experimental hardware.";
@@ -380,7 +379,7 @@ function VRGameDeveloper_Resume() {
     ResumeSave(doc, PositionTitle);
 }
 function PythonDeveloper_Resume() {
-    var doc = DocumentSetup();
+    var doc = ResumeSetup();
     
     var PositionTitle = "Python Developer";
     var Objective = "Looking for work on highly modular software projects with long evolution curves.";
@@ -393,7 +392,7 @@ function PythonDeveloper_Resume() {
     ResumeSave(doc, PositionTitle);
 }
 function SoftwareDeveloper_Resume() {
-    var doc = DocumentSetup();
+    var doc = ResumeSetup();
     
     var PositionTitle = "Software Developer";
     var Objective = "Seekings work on highly modular software projects that require succintly written and maintaibable code.";
@@ -406,7 +405,7 @@ function SoftwareDeveloper_Resume() {
     ResumeSave(doc, PositionTitle);
 }
 function VFXTechnicalDirector_Resume() {
-    var doc = DocumentSetup();
+    var doc = ResumeSetup();
     
     var PositionTitle = "VFX Technical Director";
     var Objective = "Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.";
@@ -419,8 +418,53 @@ function VFXTechnicalDirector_Resume() {
     ResumeSave(doc, PositionTitle);
 }
 
+function CVSetup(){
+    var doc = new jsPDF('p', 'pt', 'letter');
+    doc.setFontSize(12);
+    doc.setTextColor(89, 92, 98);
+    doc.setFont('helvetica');
+
+    doc.autoTableSetDefaults({
+        headerStyles: {
+            fontStyle: 'bold',
+            font: "helvetica",
+            textColor: [89, 92, 98],
+            lineColor: [174, 186, 213],
+            fillColor: [234, 237, 244],
+        },
+        columnStyles: {
+            font: "helvetica",
+            textColor: [89, 92, 98],
+            lineWidth: 1,
+            lineColor: [174, 186, 213],
+            id: {fontStyle: 'bold'}
+        },
+    });
+    
+    var wordlisturl = window.location.href+'/WordList.csv';
+    var wordlistdata = loadPage(wordlisturl);
+    var wordlistlines = wordlistdata.split('\n');
+    doc.setTextColor(255, 255, 255);
+    for (var i = 0; i < wordlistlines.length; i++) {
+        doc.text(wordlistlines[i].replace(',',''), 44, 20);
+    };
+    doc.setTextColor(89, 92, 98);
+    
+    return doc;
+}
+function CVSave(doc, PositionTitle) {
+    var date = new Date();
+    doc.save('ThomasMcVay_'+PositionTitle.replaceAll(' ','')+'_CV'+date.yyyymmdd()+'.pdf');
+    CloseCVDialog();
+}
+
 function VRGameDeveloper_CV() {
-    alert("I haven't written this yet, sorry!");
+    var doc = CVSetup();
+    
+    var PositionTitle = "VR Game Developer";
+    var Objective = "Looking to work on VR Games with challenging coding problems and inspiring designs, with a keen interest in experimental hardware.";
+    
+    CVSave(doc, PositionTitle);
     CloseCVDialog();
 }
 function PythonDeveloper_CV() {
