@@ -450,6 +450,8 @@ function CVSetup(){
     };
     doc.setTextColor(89, 92, 98);
     doc.setDrawColor(0);
+    alert(doc.internal.pageSize.width);
+    alert(doc.internal.pageSize.height);
     doc.rect(0, 0, doc.internal.pageSize.width, doc.internal.pageSize.height, 'F');
     
     return doc;
