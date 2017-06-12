@@ -456,6 +456,13 @@ function CVSetup(){
     return doc;
 }
 function CVContactDetails(doc, PositionTitle) {
+    
+    doc.setFont('candara');
+    doc.text(200, 30, '.thomas mcvay');
+    doc.text(200, 60, PositionTitle);
+    
+    
+    /*
     var columns1 = [
         {title: "", dataKey: "id"},
     ];
@@ -481,7 +488,7 @@ function CVContactDetails(doc, PositionTitle) {
                 });
             }
         }
-    });   
+    });   */
 }
 function CVSave(doc, PositionTitle) {
     var date = new Date();
