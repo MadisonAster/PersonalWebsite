@@ -452,13 +452,19 @@ function CVSetup(){
     doc.setFillColor(0);
     doc.rect(0, 0, 152, doc.internal.pageSize.height, 'F');
     
-    doc.addPage();
+    //doc.addPage();
     return doc;
 }
 function CVContactDetails(doc, PositionTitle) {
     
     doc.setFont('candara');
+
+    doc.setFontSize(20);
+    doc.setFontStyle('bold');
     doc.text(200, 30, '.thomas mcvay');
+
+    doc.setFontSize(18);
+    doc.setFontStyle('italic');
     doc.text(200, 60, PositionTitle);
     
     
