@@ -422,18 +422,18 @@ function CVSetup(){
     var doc = new jsPDF('p', 'pt', 'letter');
     doc.setFontSize(12);
     doc.setTextColor(89, 92, 98);
-    doc.setFont('helvetica');
+    doc.setFont('candara');
 
     doc.autoTableSetDefaults({
         headerStyles: {
             fontStyle: 'bold',
-            font: "helvetica",
+            font: "candara",
             textColor: [89, 92, 98],
             lineColor: [174, 186, 213],
             fillColor: [234, 237, 244],
         },
         columnStyles: {
-            font: "helvetica",
+            font: "candara",
             textColor: [89, 92, 98],
             lineWidth: 1,
             lineColor: [174, 186, 213],
@@ -450,10 +450,38 @@ function CVSetup(){
     };
     doc.setTextColor(89, 92, 98);
     doc.setFillColor(0);
-    doc.rect(0, 0, 155, doc.internal.pageSize.height, 'F');
+    doc.rect(0, 0, 152, doc.internal.pageSize.height, 'F');
     
     doc.addPage();
     return doc;
+}
+function CVContactDetails(doc, PositionTitle) {
+    var columns1 = [
+        {title: "", dataKey: "id"},
+    ];
+    var rows1 = [
+        {"id": PositionTitle},
+        {"id": PositionTitle},
+    ];
+    doc.autoTable(columns1, rows1, {
+        theme: 'grid',
+        startY: 30,
+        margin: {right: doc.internal.pageSize.width/2+5},
+        
+        tableLineColor: [174, 186, 213],
+        tableLineWidth: 1,
+        drawRow: function (row, data) {
+            doc.setFontSize(12);
+            doc.setFontStyle('bold');
+            doc.setTextColor(89, 92, 98);
+            doc.setFont('candara');
+            if (row.index === 0) {
+                doc.autoTableText(".thomas mcvay", 44, row.y-10, {
+                    valign: 'middle',
+                });
+            }
+        }
+    });   
 }
 function CVSave(doc, PositionTitle) {
     var date = new Date();
@@ -464,9 +492,9 @@ function CVSave(doc, PositionTitle) {
 function VRGameDeveloper_CV() {
     var doc = CVSetup();
     
-    var PositionTitle = "VR Game Developer";
+    var PositionTitle = ".vr game developer";
     var Objective = "Looking to work on VR Games with challenging coding problems and inspiring designs, with a keen interest in experimental hardware.";
-    
+    CVContactDetails(doc, PositionTitle);
     CVSave(doc, PositionTitle);
     CloseCVDialog();
 }
