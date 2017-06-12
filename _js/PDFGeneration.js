@@ -456,7 +456,9 @@ function CVSetup(){
     return doc;
 }
 function CVContactDetails(doc, PositionTitle) {
-    
+    doc.addFont('Candara', 'Candara', 'normal');
+    doc.addFont('Candara', 'Candara', 'bold');
+    doc.addFont('Candara', 'Candara', 'italic');
     doc.setFont('Candara');
 
     doc.setFontSize(20);
