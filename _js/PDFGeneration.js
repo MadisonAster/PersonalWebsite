@@ -456,9 +456,9 @@ function CVSetup(){
     return doc;
 }
 function CVContactDetails(doc, PositionTitle) {
-    doc.addFont('Candara.ttf', 'Candara', 'normal', 'Identity-H');
-    doc.addFont('Candarab.ttf', 'Candara', 'bold', 'Identity-H');
-    doc.addFont('Candarai.ttf', 'Candara', 'italic', 'Identity-H');
+    doc.addFont('./_js/Candara.ttf', 'Candara', 'normal', 'Identity-H');
+    doc.addFont('./_js/Candarab.ttf', 'Candara', 'bold', 'Identity-H');
+    doc.addFont('./_js/Candarai.ttf', 'Candara', 'italic', 'Identity-H');
     doc.setFont('Candara');
 
     doc.setFontSize(20);
