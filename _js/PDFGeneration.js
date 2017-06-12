@@ -449,11 +449,8 @@ function CVSetup(){
         doc.text(wordlistlines[i].replace(',',''), 44, 20);
     };
     doc.setTextColor(89, 92, 98);
-    doc.setDrawColor(0);
     doc.setFillColor(0);
-    alert(doc.internal.pageSize.width);
-    alert(doc.internal.pageSize.height);
-    doc.rect(0, 0, 200, doc.internal.pageSize.height, 'F');
+    doc.rect(0, 0, 150, doc.internal.pageSize.height, 'F');
     
     return doc;
 }
