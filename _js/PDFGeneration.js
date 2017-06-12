@@ -452,7 +452,7 @@ function CVSetup(){
     doc.setDrawColor(0);
     alert(doc.internal.pageSize.width);
     alert(doc.internal.pageSize.height);
-    doc.rect(0, 0, doc.internal.pageSize.width, doc.internal.pageSize.height, 'F');
+    doc.rect(0, 0, 200, doc.internal.pageSize.height, 'S');
     
     return doc;
 }
