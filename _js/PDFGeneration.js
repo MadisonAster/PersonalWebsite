@@ -508,7 +508,12 @@ function CVSave(doc, PositionTitle) {
 }
 
 function VRGameDeveloper_CV() {
-    alert("I haven't written this yet, sorry!");
+    var doc = CVSetup();
+    
+    var PositionTitle = ".vr game developer";
+    var Objective = "Looking to work on VR Games with challenging coding problems and inspiring designs, with a keen interest in experimental hardware.";
+    CVContactDetails(doc, PositionTitle);
+    CVSave(doc, PositionTitle);
     CloseCVDialog();
 }
 function PythonDeveloper_CV() {
