@@ -456,12 +456,17 @@ function CVSetup(){
     return doc;
 }
 function CVContactDetails(doc, PositionTitle) {
+    /*
     alert(doc.addFont);
     doc.addFont('./_js/Candara.ttf', 'Candara', 'normal', 'Identity-H');
     doc.addFont('./_js/Candarab.ttf', 'Candara', 'bold', 'Identity-H');
     doc.addFont('./_js/Candarai.ttf', 'Candara', 'italic', 'Identity-H');
     doc.addFont('./_js/comic.ttf', 'Comic Sans', 'normal');
-    doc.setFont('Comic Sans');
+    */
+    
+    doc.addFont('msgothic.ttf', 'MsGothic', 'normal', 'Identity-H');    
+    //doc.addFont('gothic.ttf', 'LiLing', 'normal', 'Identity-H');
+    doc.setFont('MsGothic');
     //doc.text(50,50,'Hello World');
     //doc.setFont('Candara');
 
