@@ -466,8 +466,8 @@ function CVContactDetails(doc, PositionTitle) {
     
     doc.addFont('msgothic.ttf', 'MsGothic', 'normal', 'Identity-H');
     doc.addFont('Candara.ttf', 'CandaraLL', 'normal', 'WinAnsiEncoding');
-    doc.addFont('Candara.ttf', 'CandaraLL', 'italic', 'WinAnsiEncoding');
-    doc.addFont('Candara.ttf', 'CandaraLL', 'bold', 'WinAnsiEncoding');
+    doc.addFont('Candarai.ttf', 'CandaraLL', 'italic', 'WinAnsiEncoding');
+    doc.addFont('Candarab.ttf', 'CandaraLL', 'bold', 'WinAnsiEncoding');
     //doc.addFont('gothic.ttf', 'LiLing', 'normal', 'Identity-H');
     //doc.setFont('MsGothic');
     //doc.text(50,50,'Hello World');
@@ -490,6 +490,9 @@ function CVContactDetails(doc, PositionTitle) {
     doc.setFontSize(20);
     //doc.setFontStyle('bold');
     doc.drawText(200, 30, '.thomas mcvay');
+    
+    doc.setFontStyle('bold');
+    doc.drawText(200, 120, '.thomas mcvay');
 
     doc.setFontSize(18);
     doc.setFontStyle('italic');
