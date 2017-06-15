@@ -474,13 +474,13 @@ function CVContactDetails(doc, PositionTitle) {
 
     doc.setDefaultFonts(0, 'CandaraLL');    //English default
     //doc.setDefaultFonts(1, 'MagicR');    //Korean default
-    doc.setDefaultFonts(3, 'MsGothic');         //Chinese default
+    doc.setDefaultFonts(3, 'CandaraLL');         //Chinese default
     doc.setDefaultFonts(2, 'MsGothic');        //Japanese default
     
 
     doc.setFontSize(20);
     doc.setTextColor(0, 0, 0);
-    doc.setCharSpace(0);
+    doc.setCharSpace(3);
     //doc.setFontStyle('bold');
     //doc.text(200, 30, '.thomas mcvay');
     doc.drawText(200, 30, ['nanana', {text: '.thomas mcvay', fontSize: 20, TextColor: [255, 0, 0], charSpace: 0, font: 'Candara'},'hahaha']);
