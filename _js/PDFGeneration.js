@@ -483,7 +483,7 @@ function CVContactDetails(doc, PositionTitle) {
     doc.setCharSpace(3);
     //doc.setFontStyle('bold');
     //doc.text(200, 30, '.thomas mcvay');
-    doc.drawText(200, 30, ['nanana', {text: '.thomas mcvay', fontSize: 20, TextColor: [255, 0, 0], charSpace: 0, font: 'Candara'},'hahaha']);
+    doc.drawText(200, 30, ['nanana', {text: '.thomas mcvay', fontSize: 20, TextColor: [255, 0, 0], charSpace: 0, font: 'CandaraLL'},'hahaha']);
 
     doc.setFontSize(18);
     doc.setFontStyle('italic');
