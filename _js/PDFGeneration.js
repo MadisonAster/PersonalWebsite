@@ -472,7 +472,7 @@ function CVContactDetails(doc, PositionTitle) {
     doc.setFont('MsGothic');
     
 
-    doc.setDefaultFonts(0, 'Candara');    //English default
+    doc.setDefaultFonts(0, 'MsGothic');    //English default
     //doc.setDefaultFonts(1, 'MagicR');    //Korean default
     doc.setDefaultFonts(3, 'MsGothic');         //Chinese default
     doc.setDefaultFonts(2, 'MsGothic');        //Japanese default
@@ -480,7 +480,7 @@ function CVContactDetails(doc, PositionTitle) {
 
     doc.setFontSize(20);
     doc.setTextColor(0, 0, 0);
-    doc.setCharSpace(3);
+    doc.setCharSpace(0);
     //doc.setFontStyle('bold');
     //doc.text(200, 30, '.thomas mcvay');
     doc.drawText(200, 30, ['nanana', {text: '.thomas mcvay', fontSize: 20, TextColor: [255, 0, 0], charSpace: 3, font: 'Candara'},'hahaha']);
