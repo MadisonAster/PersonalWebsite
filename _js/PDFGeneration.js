@@ -465,14 +465,14 @@ function CVContactDetails(doc, PositionTitle) {
     */
     
     doc.addFont('msgothic.ttf', 'MsGothic', 'normal', 'Identity-H');
-    doc.addFont('Candara.ttf', 'Candara', 'normal', 'Identity-H');
+    doc.addFont('Candara.ttf', 'CandaraLL', 'normal', 'WinAnsiEncoding');
     //doc.addFont('gothic.ttf', 'LiLing', 'normal', 'Identity-H');
     //doc.setFont('MsGothic');
     //doc.text(50,50,'Hello World');
-    doc.setFont('MsGothic');
+    doc.setFont('CandaraLL');
     
 
-    doc.setDefaultFonts(0, 'MsGothic');    //English default
+    doc.setDefaultFonts(0, 'CandaraLL');    //English default
     //doc.setDefaultFonts(1, 'MagicR');    //Korean default
     doc.setDefaultFonts(3, 'MsGothic');         //Chinese default
     doc.setDefaultFonts(2, 'MsGothic');        //Japanese default
