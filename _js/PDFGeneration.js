@@ -464,11 +464,12 @@ function CVContactDetails(doc, PositionTitle) {
     doc.addFont('./_js/comic.ttf', 'Comic Sans', 'normal');
     */
     
-    doc.addFont('msgothic.ttf', 'MsGothic', 'normal', 'Identity-H');    
+    doc.addFont('msgothic.ttf', 'MsGothic', 'normal', 'Identity-H');
+    doc.addFont('Candara.ttf', 'Candara', 'normal', 'Identity-H');
     //doc.addFont('gothic.ttf', 'LiLing', 'normal', 'Identity-H');
-    doc.setFont('MsGothic');
+    //doc.setFont('MsGothic');
     //doc.text(50,50,'Hello World');
-    //doc.setFont('Candara');
+    doc.setFont('Candara');
 
     doc.setFontSize(20);
     //doc.setFontStyle('bold');
