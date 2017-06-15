@@ -465,7 +465,7 @@ function CVContactDetails(doc, PositionTitle) {
     */
     
     doc.addFont('msgothic.ttf', 'MsGothic', 'normal', 'Identity-H');
-    doc.addFont('Candara.ttf', 'CandaraLL', 'normal', 'Identity-H');
+    doc.addFont('Candara.ttf', 'CandaraLL', 'normal', 'WinAnsiEncoding');
     //doc.addFont('gothic.ttf', 'LiLing', 'normal', 'Identity-H');
     //doc.setFont('MsGothic');
     //doc.text(50,50,'Hello World');
@@ -478,17 +478,20 @@ function CVContactDetails(doc, PositionTitle) {
     doc.setDefaultFonts(2, 'MsGothic');        //Japanese default
     
 
-    doc.setFontSize(20);
+    
     doc.setTextColor(0, 0, 0);
     doc.setCharSpace(0);
-    //doc.setFontStyle('bold');
+    
     //doc.text(200, 120, '.thomas mcvay');
-    doc.drawText(200, 30, ['nanana', {text: '.thomas mcvay', fontSize: 20, TextColor: [255, 0, 0], charSpace: 0, font: 'CandaraLL'},'hahaha']);
-    doc.drawText(200, 120, 'nanana');
+    //doc.drawText(200, 30, ['nanana', {text: '.thomas mcvay', fontSize: 20, TextColor: [255, 0, 0], charSpace: 0, font: 'CandaraLL'},'hahaha']);
+    
+    doc.setFontSize(20);
+    //doc.setFontStyle('bold');
+    doc.drawText(200, 30, '.thomas mcvay');
 
     doc.setFontSize(18);
     doc.setFontStyle('italic');
-    doc.text(200, 60, PositionTitle);
+    doc.drawText(200, 60, PositionTitle);
     
     
     /*
