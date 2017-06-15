@@ -465,7 +465,7 @@ function CVContactDetails(doc, PositionTitle) {
     */
     
     doc.addFont('msgothic.ttf', 'MsGothic', 'normal', 'Identity-H');
-    doc.addFont('Candara.ttf', 'CandaraLL', 'normal', 'WinAnsiEncoding');
+    doc.addFont('Candara.ttf', 'CandaraLL', 'normal', 'Identity-H');
     //doc.addFont('gothic.ttf', 'LiLing', 'normal', 'Identity-H');
     //doc.setFont('MsGothic');
     //doc.text(50,50,'Hello World');
