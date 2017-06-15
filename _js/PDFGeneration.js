@@ -460,7 +460,7 @@ function CVContactDetails(doc, PositionTitle) {
     doc.addFont('./_js/Candara.ttf', 'Candara', 'normal', 'Identity-H');
     doc.addFont('./_js/Candarab.ttf', 'Candara', 'bold', 'Identity-H');
     doc.addFont('./_js/Candarai.ttf', 'Candara', 'italic', 'Identity-H');
-    doc.addFont('./comic.ttf', 'Comic Sans', 'normal');
+    doc.addFont('./_js/comic.ttf', 'Comic Sans', 'normal');
     doc.setFont('Comic Sans');
     //doc.text(50,50,'Hello World');
     //doc.setFont('Candara');
