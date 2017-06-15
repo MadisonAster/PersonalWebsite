@@ -469,7 +469,7 @@ function CVContactDetails(doc, PositionTitle) {
     //doc.addFont('gothic.ttf', 'LiLing', 'normal', 'Identity-H');
     //doc.setFont('MsGothic');
     //doc.text(50,50,'Hello World');
-    doc.setFont('Candara');
+    doc.setFont('MsGothic');
     
 
     doc.setDefaultFonts(0, 'Candara');    //English default
