@@ -466,16 +466,16 @@ function CVContactDetails(doc, PositionTitle) {
     
     doc.setFontSize(20);
     doc.setFontStyle('bold');
-    doc.drawText(185, 42, '.thomas mcvay');
+    doc.drawText(188, 40, '.thomas mcvay');
     
     doc.setFontSize(18);
     doc.setFontStyle('italic');
-    doc.drawText(185, 60, PositionTitle);
+    doc.drawText(188, 60, PositionTitle);
     
-    doc.drawText(200, 100, '.'+GetAddress());
-    doc.drawText(200, 115, '.'+GetPhone());
-    doc.drawText(200, 130, GetEmail());
-    doc.drawText(200, 145, 'www.thomas-mcvay.info');
+    doc.drawText(200, 102, '.'+GetAddress());
+    doc.drawText(200, 122, '.'+GetPhone());
+    doc.drawText(200, 142, GetEmail());
+    doc.drawText(200, 162, 'www.thomas-mcvay.info');
     
     /*
     var columns1 = [
