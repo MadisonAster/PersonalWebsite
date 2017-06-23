@@ -472,6 +472,7 @@ function CVContactDetails(doc, PositionTitle) {
     doc.setFontStyle('italic');
     doc.drawText(194, 61, PositionTitle);
     
+    doc.setFontStyle('normal');
     doc.drawText(201, 100, '.'+GetAddress());
     doc.drawText(201, 120, '.'+GetPhone());
     doc.drawText(201, 140, GetEmail());
