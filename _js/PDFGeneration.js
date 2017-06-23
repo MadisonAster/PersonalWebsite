@@ -456,39 +456,25 @@ function CVSetup(){
     return doc;
 }
 function CVContactDetails(doc, PositionTitle) {
-    /*
-    alert(doc.addFont);
-    doc.addFont('./_js/Candara.ttf', 'Candara', 'normal', 'Identity-H');
-    doc.addFont('./_js/Candarab.ttf', 'Candara', 'bold', 'Identity-H');
-    doc.addFont('./_js/Candarai.ttf', 'Candara', 'italic', 'Identity-H');
-    doc.addFont('./_js/comic.ttf', 'Comic Sans', 'normal');
-    */
-    
-    //doc.addFont('msgothic.ttf', 'MsGothic', 'normal', 'Identity-H');
     doc.addFont('Candara.ttf', 'Candara', 'normal', 'WinAnsiEncoding');
     doc.addFont('Candarai.ttf', 'Candara', 'italic', 'WinAnsiEncoding');
     doc.addFont('Candarab.ttf', 'Candara', 'bold', 'WinAnsiEncoding');
-    //doc.addFont('gothic.ttf', 'LiLing', 'normal', 'Identity-H');
-    //doc.setFont('MsGothic');
-    //doc.text(50,50,'Hello World');
     doc.setFont('Candara');
     doc.setDefaultFonts(0, 'Candara');    //English default
     doc.setCharSpace(0);
     doc.setTextColor(0, 0, 0);
     
-    //doc.text(200, 120, '.thomas mcvay');
-    //doc.drawText(200, 30, ['nanana', {text: '.thomas mcvay', fontSize: 20, TextColor: [255, 0, 0], charSpace: 0, font: 'CandaraLL'},'hahaha']);
-    
-    doc.drawText(200, 120, 'normaltest');
-    
     doc.setFontSize(20);
     doc.setFontStyle('bold');
-    doc.drawText(200, 30, '.thomas mcvay');
+    doc.drawText(190, 40, '.thomas mcvay');
     
     doc.setFontSize(18);
     doc.setFontStyle('italic');
-    doc.drawText(200, 60, PositionTitle);
+    doc.drawText(190, 60, PositionTitle);
     
+    doc.drawText(190, 90, GetAddress());
+    doc.drawText(190, 110, GetEmail());
+    doc.drawText(190, 130, 'www.thomas-mcvay.info');
     
     /*
     var columns1 = [
