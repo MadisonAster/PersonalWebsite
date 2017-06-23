@@ -464,36 +464,27 @@ function CVContactDetails(doc, PositionTitle) {
     doc.addFont('./_js/comic.ttf', 'Comic Sans', 'normal');
     */
     
-    doc.addFont('msgothic.ttf', 'MsGothic', 'normal', 'Identity-H');
-    doc.addFont('Candara.ttf', 'CandaraLL', 'normal', 'StandardEncoding');
-    doc.addFont('Candarai.ttf', 'CandaraLL', 'italic', 'Unicode');
-    doc.addFont('Candarab.ttf', 'CandaraLL', 'bold', 'WinAnsiEncoding');
+    //doc.addFont('msgothic.ttf', 'MsGothic', 'normal', 'Identity-H');
+    doc.addFont('Candara.ttf', 'Candara', 'normal', 'WinAnsiEncoding');
+    doc.addFont('Candarai.ttf', 'Candara', 'italic', 'WinAnsiEncoding');
+    doc.addFont('Candarab.ttf', 'Candara', 'bold', 'WinAnsiEncoding');
     //doc.addFont('gothic.ttf', 'LiLing', 'normal', 'Identity-H');
     //doc.setFont('MsGothic');
     //doc.text(50,50,'Hello World');
-    doc.setFont('CandaraLL');
-    
-
-    doc.setDefaultFonts(0, 'CandaraLL');    //English default
-    //doc.setDefaultFonts(1, 'MagicR');    //Korean default
-    doc.setDefaultFonts(3, 'CandaraLL');         //Chinese default
-    doc.setDefaultFonts(2, 'MsGothic');        //Japanese default
-    
-
-    
-    doc.setTextColor(0, 0, 0);
+    doc.setFont('Candara');
+    doc.setDefaultFonts(0, 'Candara');    //English default
     doc.setCharSpace(0);
+    doc.setTextColor(0, 0, 0);
     
     //doc.text(200, 120, '.thomas mcvay');
     //doc.drawText(200, 30, ['nanana', {text: '.thomas mcvay', fontSize: 20, TextColor: [255, 0, 0], charSpace: 0, font: 'CandaraLL'},'hahaha']);
     
+    doc.drawText(200, 120, 'normaltest');
+    
     doc.setFontSize(20);
-    //doc.setFontStyle('bold');
+    doc.setFontStyle('bold');
     doc.drawText(200, 30, '.thomas mcvay');
     
-    doc.setFontStyle('bold');
-    doc.drawText(200, 120, '.thomas mcvay');
-
     doc.setFontSize(18);
     doc.setFontStyle('italic');
     doc.drawText(200, 60, PositionTitle);
