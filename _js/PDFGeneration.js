@@ -468,10 +468,11 @@ function CVContactDetails(doc, PositionTitle) {
     doc.setFontStyle('bold');
     doc.drawText(194, 38, '.thomas mcvay');
     
-    doc.setFontSize(17);
+    doc.setFontSize(18);
     doc.setFontStyle('italic');
     doc.drawText(194, 61, PositionTitle);
     
+    doc.setFontSize(16);
     doc.setFontStyle('normal');
     doc.drawText(201, 100, '.'+GetAddress());
     doc.drawText(201, 120, '.'+GetPhone());
