@@ -470,12 +470,12 @@ function CVContactDetails(doc, PositionTitle) {
     
     doc.setFontSize(17);
     doc.setFontStyle('italic');
-    doc.drawText(194, 60, PositionTitle);
+    doc.drawText(194, 61, PositionTitle);
     
-    doc.drawText(202, 102, '.'+GetAddress());
-    doc.drawText(202, 122, '.'+GetPhone());
-    doc.drawText(202, 142, GetEmail());
-    doc.drawText(202, 162, 'www.thomas-mcvay.info');
+    doc.drawText(201, 100, '.'+GetAddress());
+    doc.drawText(201, 120, '.'+GetPhone());
+    doc.drawText(201, 140, GetEmail());
+    doc.drawText(201, 160, 'www.thomas-mcvay.info');
     
     /*
     var columns1 = [
