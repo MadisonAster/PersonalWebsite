@@ -479,33 +479,12 @@ function CVContactDetails(doc, PositionTitle) {
     doc.drawText(201, 140, GetEmail());
     doc.drawText(201, 160, 'www.thomas-mcvay.info');
     
-    /*
-    var columns1 = [
-        {title: "", dataKey: "id"},
-    ];
-    var rows1 = [
-        {"id": PositionTitle},
-        {"id": PositionTitle},
-    ];
-    doc.autoTable(columns1, rows1, {
-        theme: 'grid',
-        startY: 30,
-        margin: {right: doc.internal.pageSize.width/2+5},
-        
-        tableLineColor: [174, 186, 213],
-        tableLineWidth: 1,
-        drawRow: function (row, data) {
-            doc.setFontSize(12);
-            doc.setFontStyle('bold');
-            doc.setTextColor(89, 92, 98);
-            doc.setFont('candara');
-            if (row.index === 0) {
-                doc.autoTableText(".thomas mcvay", 44, row.y-10, {
-                    valign: 'middle',
-                });
-            }
-        }
-    });   */
+    var imgData2 = getBase64FromImageUrl("./CVImage02.jpg");
+    doc.addImage(imgData2, 'JPEG', 1, 78, 178, 100);
+    doc.addImage(imgData2, 'JPEG', 1, 220, 178, 100);
+    doc.addImage(imgData2, 'JPEG', 1, 362, 178, 100);
+    doc.addImage(imgData2, 'JPEG', 1, 504, 178, 100);
+    doc.addImage(imgData2, 'JPEG', 1, 646, 178, 100);
 }
 function CVSave(doc, PositionTitle) {
     var date = new Date();

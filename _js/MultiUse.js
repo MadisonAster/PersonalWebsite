@@ -28,6 +28,21 @@ Array.prototype.remove = function() {
     return this;
 };
 
+function getBase64FromImageUrl(url) {
+    var img = new Image();
+    img.onload = function () {
+        var canvas = document.createElement("canvas");
+        canvas.width =this.width;
+        canvas.height =this.height;
+        var ctx = canvas.getContext("2d");
+        ctx.drawImage(this, 0, 0);
+        var dataURL = canvas.toDataURL("image/png");
+        alert(dataURL.replace(/^data:image\/(png|jpg);base64,/, ""));
+    };
+
+    img.src = url;
+};
+
 
 function stepTo(element, property, targetValue, metric, time, steps, retFunction, valInterval, timeInterval, curValue, inputCheck) {
     if (typeof inputCheck == undefined || inputCheck != false) {
