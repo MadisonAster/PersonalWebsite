@@ -30,16 +30,13 @@ Array.prototype.remove = function() {
 
 function getBase64FromImageUrl(url) {
     var img = new Image();
-    var dataURL = "";
-    img.onload = function () {
-        var canvas = document.createElement("canvas");
-        canvas.width =this.width;
-        canvas.height =this.height;
-        var ctx = canvas.getContext("2d");
-        ctx.drawImage(this, 0, 0);
-        dataURL = canvas.toDataURL("image/png");
-    };
     img.src = url;
+    var canvas = document.createElement("canvas");
+    canvas.width =this.width;
+    canvas.height =this.height;
+    var ctx = canvas.getContext("2d");
+    ctx.drawImage(this, 0, 0);
+    var dataURL = canvas.toDataURL("image/png");    
     return dataURL;
 };
 
