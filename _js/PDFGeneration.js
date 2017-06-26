@@ -480,6 +480,7 @@ function CVContactDetails(doc, PositionTitle) {
     doc.drawText(201, 160, 'www.thomas-mcvay.info');
     
     var imgData2 = getBase64FromImageUrl("./_js/CVImage02.jpg");
+    alert(imgData2);
     doc.addImage(imgData2, 'JPEG', 1, 78, 178, 100);
     doc.addImage(imgData2, 'JPEG', 1, 220, 178, 100);
     doc.addImage(imgData2, 'JPEG', 1, 362, 178, 100);
