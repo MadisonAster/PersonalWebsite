@@ -21,10 +21,11 @@ foreach ($dirs as &$dir){
     if(!in_array($dir, $blacklist)){
         
         $dirArray = explode("/", $dir);
+        /*
         $folderName = current(array_slice($dirArray, -1));
         $movieName = str_replace("-", " ", $folderName);
         $varName = str_replace("-", "", $folderName);
-        /*
+        
         if(file_exists($dir.'/info.php')){
             try {
                 //include $dir.'/info.php';
