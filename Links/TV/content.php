@@ -40,7 +40,7 @@ foreach ($dirs as &$dir){
         $infoArray['Description'] = str_replace('\x93', '"', $infoArray['Description']);
         $infoArray['Description'] = str_replace('\x94', '"', $infoArray['Description']);
         $infoArray['Description'] = str_replace('\x97', "", $infoArray['Description']);
-        
+        /*
         echo "<figure id='fig_movInfo_$varName' class='picture-item' style='margin-left:0;' data-groups=\"['none']\" data-added='".$infoArray['Added']."' data-released='".$infoArray['Released']."' data-title='".$infoArray['Title']."' data-rating='".$infoArray['Ratings']['Votes']."' data-imdbscore='".$infoArray['Ratings']['IMDB']."'>\n";
         echo "    <div id='movInfo_$varName' style='width:100%;height:305px;background-color:#111111;padding:1%;display:none;overflow-y:scroll;'>\n";
         
@@ -125,6 +125,7 @@ foreach ($dirs as &$dir){
         echo "    </div>\n";
         echo "    </a>\n";
         echo "</figure>\n";
+        */
         } catch (Exception $e) {
         };
     };
