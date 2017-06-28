@@ -24,7 +24,7 @@ foreach ($dirs as &$dir){
         $folderName = current(array_slice($dirArray, -1));
         $movieName = str_replace("-", " ", $folderName);
         $varName = str_replace("-", "", $folderName);
-        
+        /*
         if(file_exists($dir.'/info.php')){
             try {
                 //include $dir.'/info.php';
@@ -35,7 +35,7 @@ foreach ($dirs as &$dir){
         } else {
             //include './_Assets/WatchList/TV/emptyinfo.php';
         };
-        /*
+        
         if($infoArray['IMDB'] == 'NA'){
             $infoArray['IMDB'] = 'http://www.imdb.com/find?ref_=nv_sr_fn&q='.str_replace("-", "+", $folderName).'&s=all';
         };
