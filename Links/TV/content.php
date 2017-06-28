@@ -27,7 +27,8 @@ foreach ($dirs as &$dir){
         
         if(file_exists($dir.'/info.php')){
             try {
-                include $dir.'/info.php';
+                //include $dir.'/info.php';
+                include './_Assets/WatchList/TV/emptyinfo.php';
             } catch (Exception $e) {
                 include './_Assets/WatchList/TV/emptyinfo.php';
             }
