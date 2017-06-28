@@ -19,14 +19,18 @@ $dirs = array_filter(glob('./_Assets/WatchList/TV/*'), 'is_dir');
 
 foreach ($dirs as &$dir){
     if(!in_array($dir, $blacklist)){
-        try {
+        
         $dirArray = explode("/", $dir);
         $folderName = current(array_slice($dirArray, -1));
         $movieName = str_replace("-", " ", $folderName);
         $varName = str_replace("-", "", $folderName);
         
         if(file_exists($dir.'/info.php')){
-            include $dir.'/info.php';
+            try {
+                include $dir.'/info.php';
+            } catch (Exception $e) {
+                include './_Assets/WatchList/TV/emptyinfo.php';
+            }
         } else {
             include './_Assets/WatchList/TV/emptyinfo.php';
         };
@@ -127,8 +131,7 @@ foreach ($dirs as &$dir){
         echo "    </a>\n";
         echo "</figure>\n";
         */
-        } catch (Exception $e) {
-        };
+        
     };
 };
 ?>
