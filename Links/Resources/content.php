@@ -2,6 +2,9 @@
 <div id='ResourcesGrid' class='row-fluid' style='width:100%;margins:0;padding:0;'>
 <div id="jstree-proton-3">
 </div>
+<?php
+
+?>
 <!--
 <script>
 $(function() {
@@ -52,7 +55,5 @@ foreach ($dirs as &$dir){
 });
 </script>
 -->
-</div>
-</div>
 </div>
 </div>
