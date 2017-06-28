@@ -2,13 +2,14 @@
 <div id='ResourcesGrid' class='row-fluid' style='width:100%;margins:0;padding:0;'>
 <div id="jstree-proton-3">
 </div>
+<!--
 <script>
 $(function() {
   $('#jstree-proton-3').jstree({
         'plugins': ["wholerow"],
         'core': {
             'data': [
-<!--<?php
+?  <php
 $blacklist = array('.', '..');
 $dirs = array_filter(glob('./_Assets/Bookmarks/*'), 'is_dir');
 foreach ($dirs as &$dir){
@@ -39,7 +40,7 @@ foreach ($dirs as &$dir){
         };
     };
 };
-?>-->
+?>
             ],
             'themes': {
                 'name': 'proton',
@@ -49,6 +50,7 @@ foreach ($dirs as &$dir){
     });
     
 });
+-->
 </script>
 </div>
 </div>

@@ -1,5 +1,5 @@
 <?php
-$blacklist = array('.', '..', 'stats');
+$blacklist = array('.', '..', 'stats', 'test', 'testing');
 $dirs = array_filter(glob('*'), 'is_dir');
 
 foreach ($dirs as &$dir){
