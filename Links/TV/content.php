@@ -18,7 +18,7 @@ $blacklist = array('.', '..');
 try {
 $dirs = array_filter(glob('./_Assets/WatchList/TV/*'), 'is_dir');
 } catch (Exception $e) {
-    echo $e
+    echo $e->getMessage();
 }
 /*
 foreach ($dirs as &$dir){
