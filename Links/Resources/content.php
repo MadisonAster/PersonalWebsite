@@ -50,7 +50,7 @@ foreach ($dirs as &$dir){
     });
     
 });
--->
 </script>
+-->
 </div>
 </div>
