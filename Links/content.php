@@ -5,6 +5,7 @@
 $blacklist = array('.', '..', 'stats');
 $Linkdirs = array_filter(glob('./Links/*'), 'is_dir');
 
+$content = file("./Links/content.html");
 foreach ($content as &$value) {
     if(strpos($value,"{contentArea}") !== false){
         foreach($Linkdirs as &$Linkdir){
