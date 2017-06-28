@@ -16,6 +16,9 @@ Sort:
 <?php
 $blacklist = array('.', '..');
 $dirs = array_filter(glob('./_Assets/WatchList/TV/*'), 'is_dir');
+foreach ($dirs as &$dir){
+    echo $dir;
+};
 ?>
 
 <!-- ?  <php
