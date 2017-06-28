@@ -12,27 +12,13 @@ Sort:
     <option value='imdbscore'>IMDBscore</option>
 </select>
 
+<div id='TVGrid' class='row-fluid' style='width:100%;margins:0;padding:0;'>
 <?php
 $blacklist = array('.', '..');
-
-try {
+//$TVdirs = array_filter(glob('../../_Assets/WatchList/TV/*'), 'is_dir');
 $TVdirs = array_filter(glob('./_Assets/WatchList/TV/*'), 'is_dir');
-} catch (Exception $e) {
-    echo $e->getMessage();
-}
-/*
-foreach ($dirs as &$dir){
-    echo $dir;
-};*/
-?>
 
-<div id='TVGrid' class='row-fluid' style='width:100%;margins:0;padding:0;'>
-<!-- ?  <php
-$blacklist = array('.', '..');
-//$dirs = array_filter(glob('../../_Assets/WatchList/TV/*'), 'is_dir');
-$dirs = array_filter(glob('./_Assets/WatchList/TV/*'), 'is_dir');
-/*
-foreach ($dirs as &$dir){
+foreach ($TVdirs as &$dir){
     if(!in_array($dir, $blacklist)){
         
         $dirArray = explode("/", $dir);
@@ -40,6 +26,7 @@ foreach ($dirs as &$dir){
         $movieName = str_replace("-", " ", $folderName);
         $varName = str_replace("-", "", $folderName);
         
+        /*
         if(file_exists($dir.'/info.php')){
             try {
                 //include $dir.'/info.php';
@@ -146,11 +133,11 @@ foreach ($dirs as &$dir){
         echo "    </div>\n";
         echo "    </a>\n";
         echo "</figure>\n";
-        
+        */
         
     };
 };
-*/
-?>-->
+
+?>
 </div>
 </div>
