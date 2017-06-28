@@ -13,7 +13,7 @@ foreach ($content as &$value) {
     if(strpos($value,"{contentArea}") !== false){
         foreach($Linkdirs as &$Linkdir){
             if(!in_array($Linkdir, $blacklist)){
-                if(substr($Linkdir, 8, 9) !== '_'){
+                if(strpos($Linkdir, '_') == false){
                     include $Linkdir."/content.php";
                 };
             };
