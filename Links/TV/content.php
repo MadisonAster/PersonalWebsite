@@ -25,7 +25,7 @@ foreach ($dirs as &$dir){
         $varName = str_replace("-", "", $folderName);
         
         if(file_exists($dir.'/info.php')){
-            include $dir.'/info.php';
+            //include $dir.'/info.php';
         } else {
             include './_Assets/WatchList/TV/emptyinfo.php';
         };
