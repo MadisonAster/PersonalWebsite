@@ -12,12 +12,12 @@ Sort:
     <option value='imdbscore'>IMDBscore</option>
 </select>
 <div id='MoviesGrid' class='row-fluid' style='width:100%;margins:0;padding:0;'>
-<!-- ?  <php
+<?php
 $blacklist = array('.', '..');
-//$dirs = array_filter(glob('../../_Assets/WatchList/Movies/*'), 'is_dir');
-$dirs = array_filter(glob('./_Assets/WatchList/Movies/*'), 'is_dir');
+//$Moviedirs = array_filter(glob('../../_Assets/WatchList/Movies/*'), 'is_dir');
+$Moviedirs = array_filter(glob('./_Assets/WatchList/Movies/*'), 'is_dir');
 
-foreach ($dirs as &$dir){
+foreach ($Moviedirs as &$dir){
     if(!in_array($dir, $blacklist)){
         $dirArray = explode("/", $dir);
         $folderName = current(array_slice($dirArray, -1));
@@ -126,6 +126,6 @@ foreach ($dirs as &$dir){
         echo "</figure>\n";
     };
 };
-?> -->
+?>
 </div>
 </div>
