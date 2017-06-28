@@ -16,12 +16,11 @@ Sort:
 $blacklist = array('.', '..');
 //$dirs = array_filter(glob('../../_Assets/WatchList/TV/*'), 'is_dir');
 $dirs = array_filter(glob('./_Assets/WatchList/TV/*'), 'is_dir');
-
+/*
 foreach ($dirs as &$dir){
     if(!in_array($dir, $blacklist)){
         
         $dirArray = explode("/", $dir);
-        /*
         $folderName = current(array_slice($dirArray, -1));
         $movieName = str_replace("-", " ", $folderName);
         $varName = str_replace("-", "", $folderName);
@@ -132,10 +131,11 @@ foreach ($dirs as &$dir){
         echo "    </div>\n";
         echo "    </a>\n";
         echo "</figure>\n";
-        */
+        
         
     };
 };
+*/
 ?>
 </div>
 </div>
