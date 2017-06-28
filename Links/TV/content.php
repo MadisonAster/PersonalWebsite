@@ -16,7 +16,7 @@ Sort:
 $blacklist = array('.', '..');
 
 try {
-$dirs = array_filter(glob('./_Assets/WatchList/TV/*'), 'is_dir');
+$TVdirs = array_filter(glob('./_Assets/WatchList/TV/*'), 'is_dir');
 } catch (Exception $e) {
     echo $e->getMessage();
 }
