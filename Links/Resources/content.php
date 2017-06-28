@@ -1,12 +1,10 @@
 <div id='ResourcesDiv' style='padding:0;margin:0;display:none;'>
+<!--
 <div id='ResourcesGrid' class='row-fluid' style='width:100%;margins:0;padding:0;'>
 <div id="jstree-proton-3">
 </div>
-<?php
-
-?>
 PlaceHolder
-<!--
+
 <script>
 $(function() {
   $('#jstree-proton-3').jstree({
@@ -55,6 +53,7 @@ foreach ($dirs as &$dir){
     
 });
 </script>
--->
 </div>
+-->
+Placeholder
 </div>
