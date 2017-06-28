@@ -12,9 +12,12 @@ Sort:
     <option value='imdbscore'>IMDBscore</option>
 </select>
 <div id='TVGrid' class='row-fluid' style='width:100%;margins:0;padding:0;'>
+
 <?php
 $blacklist = array('.', '..');
+$dirs = array_filter(glob('./_Assets/WatchList/TV/*'), 'is_dir');
 ?>
+
 <!-- ?  <php
 $blacklist = array('.', '..');
 //$dirs = array_filter(glob('../../_Assets/WatchList/TV/*'), 'is_dir');
