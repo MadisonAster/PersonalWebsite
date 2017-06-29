@@ -38,9 +38,6 @@ function getBase64FromImageUrl(url) {
     img.src = url;
     ctx.drawImage(img,0,0,178,100);
 
-    //imgdata = ctx.getImageData(0,0,178,100);
-    //var rgba = imgdata.data;
-    
     var dataURL = canvas.toDataURL("image/jpeg");    
     return dataURL;
 };
