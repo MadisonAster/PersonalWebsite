@@ -32,18 +32,16 @@ function getBase64FromImageUrl(url) {
     var canvas = document.createElement("canvas");
     var ctx = canvas.getContext("2d");
     
-    //var img = $('img[src="'+url+'"]').get(0);
     var img = new Image();
     img.src = url;
     ctx.drawImage(img,0,0,178,100);
-    
     
     //canvas.width = img.width;
     //anvas.height = img.height;
     //imgdata = ctx.getImageData(0,0,178,100);
     //var rgba = imgdata.data;
     
-    var dataURL = canvas.toDataURL("image/jpg");    
+    var dataURL = canvas.toDataURL("image/jpeg");    
     return dataURL;
 };
 
