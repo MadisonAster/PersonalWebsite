@@ -13,11 +13,11 @@ $blacklist = array('.', '..');
 $Projectdirs = array_filter(glob('./_Assets/Projects/*'), 'is_dir');
 
 foreach($Projectdirs as &$Projectdir){
-    if(!in_array($Linkdir, $blacklist)){
-        if(strpos($Linkdir, '_') == false){
+    if(!in_array($Projectdir, $blacklist)){
+        if(strpos($Projectdir, '_') == false){
             echo "<div class='ContentDiv'>\n";
-            echo $Linkdir;
-            include $Linkdir."/info.php";
+            echo $Projectdir;
+            include $Projectdir."/info.php";
             echo "</div>\n";
             echo "<br/><br/>";
         };
