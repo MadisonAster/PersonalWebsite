@@ -14,14 +14,15 @@ $Projectdirs = array_filter(glob('./_Assets/Projects/*'), 'is_dir');
 
 foreach($Projectdirs as &$Projectdir){
     if(!in_array($Projectdir, $blacklist)){
+        $dirArray = explode("/", $Projectdir);
+        $folderName = current(array_slice($dirArray, -1));
+        if(strpos($folderName, '_') == false){
             echo "<div class='ContentDiv'>\n";
-            echo $Projectdir;
+            echo $folderName;
             include $Projectdir."/info.php";
             echo "</div>\n";
             echo "<br/><br/>";
     
-        if(strpos($Projectdir, '_') == false){
-            
         };
     };
 };
