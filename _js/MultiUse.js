@@ -31,14 +31,19 @@ Array.prototype.remove = function() {
 function getBase64FromImageUrl(url) {
     //var img = new Image();
     //img.src = url;
-    var img = $('img[src="'+url+'"]').get(0);
-    alert(img);
+    
     var canvas = document.createElement("canvas");
-    canvas.width =this.width;
-    canvas.height =this.height;
     var ctx = canvas.getContext("2d");
-
-    ctx.drawImage(img, 0, 0);
+    
+    var img = $('img[src="'+url+'"]').get(0);
+    ctx.drawImage(img,0,0,178,100);
+    
+    
+    //canvas.width = img.width;
+    //anvas.height = img.height;
+    //imgdata = ctx.getImageData(0,0,178,100);
+    //var rgba = imgdata.data;
+    
     var dataURL = canvas.toDataURL("image/jpg");    
     return dataURL;
 };
