@@ -31,7 +31,7 @@ Array.prototype.remove = function() {
 function getBase64FromImageUrl(url) {
     //var img = new Image();
     //img.src = url;
-    var img = $('img[src="'+url+'"]');
+    var img = $('img[src="'+url+'"]').html();
     alert(img);
     var canvas = document.createElement("canvas");
     canvas.width =this.width;
