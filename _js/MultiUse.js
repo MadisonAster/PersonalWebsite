@@ -29,13 +29,12 @@ Array.prototype.remove = function() {
 };
 
 function getBase64FromImageUrl(url) {
-    //var img = new Image();
-    //img.src = url;
-    
     var canvas = document.createElement("canvas");
     var ctx = canvas.getContext("2d");
     
-    var img = $('img[src="'+url+'"]').get(0);
+    //var img = $('img[src="'+url+'"]').get(0);
+    var img = new Image();
+    img.src = url;
     ctx.drawImage(img,0,0,178,100);
     
     
