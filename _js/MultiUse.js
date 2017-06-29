@@ -30,14 +30,14 @@ Array.prototype.remove = function() {
 
 function getBase64FromImageUrl(url) {
     var canvas = document.createElement("canvas");
+    canvas.width = 178;
+    canvas.height = 100;
     var ctx = canvas.getContext("2d");
     
     var img = new Image();
     img.src = url;
     ctx.drawImage(img,0,0,178,100);
-    
-    //canvas.width = img.width;
-    //anvas.height = img.height;
+
     //imgdata = ctx.getImageData(0,0,178,100);
     //var rgba = imgdata.data;
     
