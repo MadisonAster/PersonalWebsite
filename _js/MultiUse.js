@@ -29,8 +29,10 @@ Array.prototype.remove = function() {
 };
 
 function getBase64FromImageUrl(url) {
-    var img = new Image();
-    img.src = url;
+    //var img = new Image();
+    //img.src = url;
+    var img = $(url).attr('src');
+    alert(img);
     var canvas = document.createElement("canvas");
     canvas.width =this.width;
     canvas.height =this.height;
