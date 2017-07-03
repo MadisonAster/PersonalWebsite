@@ -1,6 +1,6 @@
 <?php
-$content = file("./_Assets/Projects/FanControl/content.html");
-foreach ($content as &$value) {
-    echo $value;
+$ProjectContent = file("./_Assets/Projects/FanControl/content.html");
+foreach ($ProjectContent as &$ProjectValue) {
+    echo $ProjectValue;
 };
 ?>
