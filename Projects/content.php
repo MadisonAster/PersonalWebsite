@@ -18,7 +18,8 @@ foreach($Projectdirs as &$Projectdir){
         $folderName = current(array_slice($dirArray, -1));
         if(strpos($folderName, '_') == false){
             echo "<div class='ContentDiv'>\n";
-            echo $folderName;
+            echo "<h2 style='text-align:left;'>".$folderName."</h2>\n";
+            echo "<br/>\n";
             include $Projectdir."/info.php";
             echo "</div>\n";
             echo "<br/><br/>";
