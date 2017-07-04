@@ -1,9 +1,11 @@
 <?php
 $ProjectContent = file("./_Assets/Projects/FanControl/content.html");
-$ProjectDescription = file("./_Assets/Projects/FanControl/Description.txt");
+$ShortDescription = file("./_Assets/Projects/FanControl/Description.txt");
 foreach ($ProjectContent as &$ProjectValue) {
     if(strpos($ProjectValue,"{ShortDescription}") !== false){
-        echo $ProjectDescription;
+        foreach ($ShortDescription as &$ShortDescriptionLine) {
+            echo $ShortDescriptionLine;
+        };
     }else{
         echo $ProjectValue;
     };
