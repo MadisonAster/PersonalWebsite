@@ -5,6 +5,7 @@ foreach ($ProjectContent as &$ProjectValue) {
     if(strpos($ProjectValue,"{ShortDescription}") !== false){
         foreach ($ShortDescription as &$ShortDescriptionLine) {
             echo $ShortDescriptionLine.'\n';
+            echo '<br/>\n';
         };
     }else{
         echo $ProjectValue.'\n';
