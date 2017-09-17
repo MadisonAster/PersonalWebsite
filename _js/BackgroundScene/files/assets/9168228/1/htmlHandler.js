@@ -20,8 +20,8 @@ HtmlHandler.prototype.update = function(dt) {
 var runOnScroll = function(evt) {     
     
     var cam = pc.app.root.findByName('camera');
-    console.log(cam.getPosition().y);
-    var newy = cam.getPosition().y+(evt.wheelDelta/1200*4);
+    //console.log(cam.getPosition().y);
+    var newy = cam.getPosition().y+(evt.wheelDelta/1200/2);
     newy = Math.max(-1.0, Math.min(newy, 0.454));
     cam.setPosition(cam.getPosition().x, newy, cam.getPosition().z);  
     //console.log(cam.script.dof.far);
@@ -30,7 +30,7 @@ var runOnScroll = function(evt) {
     cam.script.dof.onAttributeChanged('far', newfar);
     cam.script.dof.far = newfar;
     
-    console.log(evt.wheelDelta);
+    //console.log(evt.wheelDelta);
 };
 window.addEventListener("mousewheel", runOnScroll);
 //window.addEventListener("scroll", runOnScroll);
