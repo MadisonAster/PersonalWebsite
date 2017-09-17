@@ -21,7 +21,7 @@ var runOnScroll = function(evt) {
     
     var cam = pc.app.root.findByName('camera');
     var newy = cam.getPosition().y+(evt.wheelDelta/1200/0.6);
-    newy = Math.max(-0.75, Math.min(newy, 0.454));
+    newy = Math.max(-0.65, Math.min(newy, 0.454));
     cam.setPosition(cam.getPosition().x, newy, cam.getPosition().z);  
     var newfar = cam.script.dof.far+evt.wheelDelta/120*8;
     newfar = Math.max(1, Math.min(newfar, 100));
