@@ -20,6 +20,7 @@ HtmlHandler.prototype.update = function(dt) {
 var runOnScroll = function(evt) {     
     
     var cam = pc.app.root.findByName('camera');
+    console.log(cam.getPosition().y);
     var newy = cam.getPosition().y+(evt.wheelDelta/1200);
     newy = Math.max(-0.75, Math.min(newy, 1.1));
     cam.setPosition(cam.getPosition().x, newy, cam.getPosition().z);  
