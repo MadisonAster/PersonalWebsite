@@ -20,10 +20,12 @@ HtmlHandler.prototype.update = function(dt) {
 var runOnScroll = function(evt) {     
     
     var cam = pc.app.root.findByName('camera');
-    cam.setPosition(cam.getPosition().x, cam.getPosition().y+(evt.wheelDelta/1200), cam.getPosition().z);  
+    newy = cam.getPosition().y+(evt.wheelDelta/1200);
+    newy = Math.max(-0.75, Math.min(newfar, 1.1));
+    cam.setPosition(cam.getPosition().x, newy, cam.getPosition().z);  
     //console.log(cam.script.dof.far);
     var newfar = cam.script.dof.far+evt.wheelDelta/120*2;
-    newfar = Math.max(-0.75, Math.min(newfar, 1.1));
+    newfar = Math.max(1, Math.min(newfar, 100));
     cam.script.dof.onAttributeChanged('far', newfar);
     cam.script.dof.far = newfar;
     
