@@ -10,4 +10,4 @@ var runOnScroll = function(evt) {
     //console.log(evt.wheelDelta);
 };
 window.addEventListener("mousewheel", runOnScroll);
-window.addEventListener("scroll", runOnScroll);
+//window.addEventListener("scroll", runOnScroll);
