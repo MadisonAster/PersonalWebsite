@@ -1,5 +1,5 @@
 window.onload = function(){
-    backgroundOnload();
+    //backgroundOnload();
     //sorttable.init();
     menuArray = document.getElementById('Menu').childNodes;
     for(var i=0;i<menuArray.length;i++){
