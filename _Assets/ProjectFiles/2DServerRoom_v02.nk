@@ -10,9 +10,11 @@ define_window_layout_xml {<?xml version="1.0" encoding="UTF-8"?>
             </dock>
             <split size="1241" stretch="1"/>
             <splitter orientation="2">
-                <split size="475"/>
-                <dock id=""/>
-                <split size="499"/>
+                <split size="572"/>
+                <dock id="" activePageId="Viewer.1">
+                    <page id="Viewer.1"/>
+                </dock>
+                <split size="402"/>
                 <dock id="" activePageId="DAG.1">
                     <page id="DAG.1"/>
                     <page id="Curve Editor.1"/>
@@ -25,19 +27,11 @@ define_window_layout_xml {<?xml version="1.0" encoding="UTF-8"?>
             </dock>
         </splitter>
     </window>
-    <window x="754" y="221" w="1189" h="514" screen="1">
-        <splitter orientation="2">
-            <split size="475"/>
-            <dock id="" activePageId="Viewer.1">
-                <page id="Viewer.1"/>
-            </dock>
-        </splitter>
-    </window>
 </layout>
 }
 Root {
  inputs 0
- name W:/PersonalWebsite/_Assets/Projects/2DServerRoom_v02.nk
+ name W:/PersonalWebsite/_Assets/ProjectFiles/2DServerRoom_v02.nk
  frame 1001
  first_frame 1001
  last_frame 2000
@@ -58,7 +52,7 @@ Root {
  onScriptClose "#TomsEventScript#\nimport nuke, os, traceback\nimport imp, tempfile, binascii, runpy\nscript = str('/onScriptClose.py').replace('\\\\','/')\nknobName = script.rsplit('/',1)\[-1].rsplit('.',1)\[0]+'_py'\n\ntry:\n    if os.path.isfile(os.environ\['NUKE_PATH'].split(';',1)\[0]+'/Cognition'):\n        with open(os.environ\['NUKE_PATH'].split(';',1)\[0]+script, 'r') as file:\n            newEventSrcipt = file.read()\n        exec newEventSrcipt\n    else:\n        if nuke.root().knob(knobName) != None:\n            tempPath = tempfile.gettempdir()+'/'+knobName.rstrip('_py')+'.pyc'\n            with open(tempPath, 'wb') as file:\n                file.write(binascii.a2b_hex(nuke.root()\[knobName].value()))\n            moduleObject = imp.load_compiled(knobName.rstrip('_py'), tempPath)\n            for var in dir(moduleObject):\n                if len(var) > 2:\n                    if var\[0] == '_' and var\[1] != '_':\n                        exec var+' = moduleObject.'+var\n            #runpy.run_path(tempPath, init_globals=globals())\n            #runpy.run_module(moduleObject, globals())\nexcept:\n    print(traceback.format_exc())"
  addUserKnob {20 ShotData}
  addUserKnob {1 LastRootPath}
- LastRootPath W:/PersonalWebsite/_Assets/Projects/2DServerRoom_v02.nk
+ LastRootPath W:/PersonalWebsite/_Assets/ProjectFiles/2DServerRoom_v02.nk
  addUserKnob {1 CurShotName}
  addUserKnob {1 CurFirstFrame}
  addUserKnob {1 LastScriptRun}
@@ -589,7 +583,6 @@ Root {
  addUserKnob {43 _magic}
  _magic "\['convertGizmosToGroups_py',\n 'EventScript_py',\n 'folderStructure_py',\n 'init_py',\n 'KnobDefaults_py',\n 'menu_py',\n 'New Text Document_py',\n 'onScriptClose_py',\n 'onScriptLoad_py',\n 'onScriptSave_py',\n 'test_py']"
  addUserKnob {43 _NodeScripts}
- _NodeScripts "\['Bezier_py', 'cameraP2PNode_py', 'VIEWER_INPUT_py']"
  addUserKnob {43 _Libraries}
  _Libraries "\['appendClip_py',\n 'appendRotoClip_py',\n 'cam_presets_py',\n 'dataTypeFolderArray_py',\n 'dataType_folderArray_py',\n 'DeadlineNukeClient_py',\n 'disabilityList_py',\n 'dumpProperties_py',\n 'editChange_py',\n 'edlcomparator_py',\n 'edl_conform_v01_py',\n 'ExecuteWriteM_py',\n 'fileMaker_py',\n 'fileOps_py',\n 'flags_py',\n 'folderArrayM_py',\n 'getCustomNodes_py',\n 'getFiles_py',\n 'HalveNextKey_py',\n 'loaderWidget_py',\n 'PhotoScan_py',\n 'PlyReader_py',\n 'printFrame_py',\n 'projectData_py',\n 'projectSetups_py',\n 'pxEDLReader_py',\n 'PySideWeb_py',\n 'ReadNodeSetups_py',\n 'reformat_presets_py',\n 'renderScript_py',\n 'replaceReads_py',\n 'replaceWrites_py',\n 'safeODBC_py',\n 'safeRun_py',\n 'sanitizeWrites_py',\n 'selectionManagement_py',\n 'SmedgeRender_py',\n 'swapOutNode_py',\n 'timeTools_py',\n 'WriteNodeSetups_py',\n 'addOnCreate_classRead_py',\n 'Deadline_DeadlineDialogSetup_py',\n 'gizmos_ReadM_py',\n 'gizmos_WriteM_py']"
  addUserKnob {43 _ArtistScripts}
@@ -597,27 +590,6 @@ Root {
  addUserKnob {43 _magic}
  addUserKnob {43 _NodeScripts}
  _NodeScripts "\['Bezier_py', 'cameraP2PNode_py', 'VIEWER_INPUT_py']"
- addUserKnob {43 _Libraries}
- addUserKnob {43 _ArtistScripts}
- _ArtistScripts "\['Bake_Roto_py',\n 'Deadline_py',\n 'renderScripts_py',\n 'DeltaDave_bakeExpressions_py',\n 'DeltaDave_breakdown_py',\n 'DeltaDave_FromMaya2NukeImporter_py',\n 'DeltaDave_kiss_py',\n 'DeltaDave_missingFrames_py',\n 'DeltaDave_MultiChannelCombine_py',\n 'DeltaDave_MultiChannelSplit_py',\n 'DeltaDave_nukePyDummy_py',\n 'DeltaDave_RandomTile_py',\n 'DeltaDave_teleport_py',\n 'DeltaDave_toDoList_py']"
- addUserKnob {43 _gizmos}
- addUserKnob {43 _magic}
- _magic "\['convertGizmosToGroups_py',\n 'EventScript_py',\n 'folderStructure_py',\n 'init_py',\n 'KnobDefaults_py',\n 'menu_py',\n 'New Text Document_py',\n 'onScriptClose_py',\n 'onScriptLoad_py',\n 'onScriptSave_py',\n 'test_py']"
- addUserKnob {43 _NodeScripts}
- _NodeScripts "\['Bezier_py', 'cameraP2PNode_py', 'VIEWER_INPUT_py']"
- addUserKnob {43 _Libraries}
- addUserKnob {43 _ArtistScripts}
- addUserKnob {43 _gizmos}
- _gizmos "\['alEarth_gizmo',\n 'AspectGuide_gizmo',\n 'blacksMatch_gizmo',\n 'ColorAnalyses_gizmo',\n 'ColorSampler_gizmo',\n 'FilmLook_gizmo',\n 'FlareFactoryPlus_gizmo',\n 'FlipBookGenerator_gizmo',\n 'FMuadvnoise_gizmo',\n 'Fringe_gizmo',\n 'LCameraBlurv01_gizmo',\n 'moggaLens_gizmo',\n 'PerspectiveAssistant_gizmo',\n 'pxStruBlur_gizmo',\n 'quickPlanet_gizmo',\n 'ReadM_gizmo',\n 'RemoveGrain_gizmo',\n 'TCGen_gizmo',\n 'TrackerTools_gizmo',\n 'TrigOps_gizmo',\n 'WriteM_gizmo',\n 'DeltaDave_3Dmattes_gizmo',\n 'DeltaDave_AspectCrop_gizmo',\n 'DeltaDave_CGDiffuse_gizmo',\n 'DeltaDave_DepthGrade_gizmo',\n 'DeltaDave_DepthKeyerCB_gizmo',\n 'DeltaDave_DespillMadness_gizmo',\n 'DeltaDave_dGuides_gizmo',\n 'DeltaDave_dVolumic_gizmo',\n 'DeltaDave_EdgeExtend2_gizmo',\n 'DeltaDave_FMP_gizmo',\n 'DeltaDave_LensKernelFFTv01_gizmo',\n 'DeltaDave_Lightwrap_gizmo',\n 'DeltaDave_MagicMerge_gizmo',\n 'DeltaDave_MatteMask_gizmo',\n 'DeltaDave_NoiseV2_gizmo',\n 'DeltaDave_OccMaker_gizmo',\n 'DeltaDave_Opacity_gizmo',\n 'DeltaDave_QuickGrade_gizmo',\n 'DeltaDave_RackDefocus_gizmo',\n 'DeltaDave_Relight_gizmo',\n 'DeltaDave_SCrop_gizmo',\n 'DeltaDave_ShotSlate_gizmo',\n 'DeltaDave_SMerge_gizmo',\n 'DeltaDave_StereoAction_gizmo',\n 'DeltaDave_StereoCamV2_gizmo',\n 'DeltaDave_TargetCam_gizmo',\n 'DeltaDave_TargetDirect_gizmo',\n 'DeltaDave_TargetSpot_gizmo',\n 'DeltaDave_Twitch_gizmo',\n 'DeltaDave_Twitch3D_gizmo',\n 'DeltaDave_VectorExtendEdge_gizmo',\n 'LookupCurves_Cell_Experimental_gizmo',\n 'LookupCurves_Cell_Lin2Rec709_gizmo',\n 'LookupCurves_Cell_Log_gizmo',\n 'LookupCurves_Cell_SRGB_gizmo',\n 'LookupCurves_DeadMen_REDLog2Rec709_gizmo',\n 'LookupCurves_Lin2AlexaLogCGenericCube_gizmo',\n 'VP_gl_BoundingBox_gizmo',\n 'VP_gl_CenterXY_gizmo',\n 'VP_gl_Frame_gizmo',\n 'VP_gl_FrameRange_gizmo',\n 'VP_gl_PixelAspect_gizmo',\n 'VP_gl_Resolution_gizmo',\n 'VP_gl_RGB_gizmo',\n 'VP_gl_SetupVP_gizmo',\n 'VP_gl_XY_gizmo',\n 'VP_ma_Absolute_gizmo',\n 'VP_ma_Add_gizmo',\n 'VP_ma_AddChannel_gizmo',\n 'VP_ma_AddConstant_gizmo',\n 'VP_ma_And_gizmo',\n 'VP_ma_ArcTangent_gizmo',\n 'VP_ma_Atop_gizmo',\n 'VP_ma_Average_gizmo',\n 'VP_ma_Bytes_gizmo',\n 'VP_ma_Ceiling_gizmo',\n 'VP_ma_CheckChannel_gizmo',\n 'VP_ma_Clamp_gizmo',\n 'VP_ma_Clamp2_gizmo',\n 'VP_ma_Compress_gizmo',\n 'VP_ma_Compress2_gizmo',\n 'VP_ma_Condition_gizmo',\n 'VP_ma_CopyAspectRatio_gizmo',\n 'VP_ma_CopyBBOX_gizmo',\n 'VP_ma_CopyFrameRange_gizmo',\n 'VP_ma_CopyResolution_gizmo',\n 'VP_ma_CrossProduct_gizmo',\n 'VP_ma_DegreeToRadian_gizmo',\n 'VP_ma_Distance_gizmo',\n 'VP_ma_Divide_gizmo',\n 'VP_ma_DivideConstant_gizmo',\n 'VP_ma_DotProduct_gizmo',\n 'VP_ma_EdgeReplicate_gizmo',\n 'VP_ma_Expand_gizmo',\n 'VP_ma_Expand2_gizmo',\n 'VP_ma_Exponent_gizmo',\n 'VP_ma_Falloff_gizmo',\n 'VP_ma_fBm_gizmo',\n 'VP_ma_FitRange_gizmo',\n 'VP_ma_FloatToVector_gizmo',\n 'VP_ma_Floor_gizmo',\n 'VP_ma_Fraction_gizmo',\n 'VP_ma_Function_gizmo',\n 'VP_ma_Grad_gizmo',\n 'VP_ma_HSVtoRGB_gizmo',\n 'VP_ma_Hypot_gizmo',\n 'VP_ma_Inside_gizmo',\n 'VP_ma_Int_gizmo',\n 'VP_ma_Length_gizmo',\n 'VP_ma_Lerp_gizmo',\n 'VP_ma_Luminance_gizmo',\n 'VP_ma_Maximum_gizmo',\n 'VP_ma_Minimum_gizmo',\n 'VP_ma_Mix_gizmo',\n 'VP_ma_Modulo_gizmo',\n 'VP_ma_Multiply_gizmo',\n 'VP_ma_MultiplyConstant_gizmo',\n 'VP_ma_Negate_gizmo',\n 'VP_ma_NoiseVP_gizmo',\n 'VP_ma_Normalize_gizmo',\n 'VP_ma_Not_gizmo',\n 'VP_ma_Null_gizmo',\n 'VP_ma_Operation_gizmo',\n 'VP_ma_Operator_gizmo',\n 'VP_ma_Or_gizmo',\n 'VP_ma_Oscillation_gizmo',\n 'VP_ma_Outside_gizmo',\n 'VP_ma_Over_gizmo',\n 'VP_ma_pi_gizmo',\n 'VP_ma_Point_gizmo',\n 'VP_ma_Power_gizmo',\n 'VP_ma_RadialGrad_gizmo',\n 'VP_ma_RadianToDegree_gizmo',\n 'VP_ma_Rainbow_gizmo',\n 'VP_ma_Random_gizmo',\n 'VP_ma_RGBtoHSV_gizmo',\n 'VP_ma_Rotate_gizmo',\n 'VP_ma_Sample_gizmo',\n 'VP_ma_Scale_gizmo',\n 'VP_ma_ScaleUV_gizmo',\n 'VP_ma_ScanLine_gizmo',\n 'VP_ma_ScanSlice_gizmo',\n 'VP_ma_Screen_gizmo',\n 'VP_ma_SetBBOXColor_gizmo',\n 'VP_ma_Shape_gizmo',\n 'VP_ma_Sign_gizmo',\n 'VP_ma_Slice_gizmo',\n 'VP_ma_Smoothstep_gizmo',\n 'VP_ma_Spike_gizmo',\n 'VP_ma_SquareRoot_gizmo',\n 'VP_ma_Step_gizmo',\n 'VP_ma_Subtract_gizmo',\n 'VP_ma_SubtractAbs_gizmo',\n 'VP_ma_SubtractConstant_gizmo',\n 'VP_ma_TileUV_gizmo',\n 'VP_ma_toInt_gizmo',\n 'VP_ma_Translate_gizmo',\n 'VP_ma_TranslateUV_gizmo',\n 'VP_ma_turbulence_gizmo',\n 'VP_ma_TwoWaySwitch_gizmo',\n 'VP_ma_UV_gizmo',\n 'VP_ma_Vector_gizmo',\n 'VP_ma_VectorToFloat_gizmo',\n 'VP_ma_Zoneplate_gizmo',\n 'VP_td_FacingRatio_gizmo',\n 'VP_to_Pixel2_gizmo']"
- addUserKnob {43 _magic}
- addUserKnob {43 _NodeScripts}
- addUserKnob {43 _Libraries}
- addUserKnob {43 _ArtistScripts}
- _ArtistScripts "\['Bake_Roto_py',\n 'Deadline_py',\n 'renderScripts_py',\n 'DeltaDave_bakeExpressions_py',\n 'DeltaDave_breakdown_py',\n 'DeltaDave_FromMaya2NukeImporter_py',\n 'DeltaDave_kiss_py',\n 'DeltaDave_missingFrames_py',\n 'DeltaDave_MultiChannelCombine_py',\n 'DeltaDave_MultiChannelSplit_py',\n 'DeltaDave_nukePyDummy_py',\n 'DeltaDave_RandomTile_py',\n 'DeltaDave_teleport_py',\n 'DeltaDave_toDoList_py']"
- addUserKnob {43 _gizmos}
- _gizmos "\['alEarth_gizmo',\n 'AspectGuide_gizmo',\n 'blacksMatch_gizmo',\n 'ColorAnalyses_gizmo',\n 'ColorSampler_gizmo',\n 'FilmLook_gizmo',\n 'FlareFactoryPlus_gizmo',\n 'FlipBookGenerator_gizmo',\n 'FMuadvnoise_gizmo',\n 'Fringe_gizmo',\n 'LCameraBlurv01_gizmo',\n 'moggaLens_gizmo',\n 'PerspectiveAssistant_gizmo',\n 'pxStruBlur_gizmo',\n 'quickPlanet_gizmo',\n 'ReadM_gizmo',\n 'RemoveGrain_gizmo',\n 'TCGen_gizmo',\n 'TrackerTools_gizmo',\n 'TrigOps_gizmo',\n 'WriteM_gizmo',\n 'DeltaDave_3Dmattes_gizmo',\n 'DeltaDave_AspectCrop_gizmo',\n 'DeltaDave_CGDiffuse_gizmo',\n 'DeltaDave_DepthGrade_gizmo',\n 'DeltaDave_DepthKeyerCB_gizmo',\n 'DeltaDave_DespillMadness_gizmo',\n 'DeltaDave_dGuides_gizmo',\n 'DeltaDave_dVolumic_gizmo',\n 'DeltaDave_EdgeExtend2_gizmo',\n 'DeltaDave_FMP_gizmo',\n 'DeltaDave_LensKernelFFTv01_gizmo',\n 'DeltaDave_Lightwrap_gizmo',\n 'DeltaDave_MagicMerge_gizmo',\n 'DeltaDave_MatteMask_gizmo',\n 'DeltaDave_NoiseV2_gizmo',\n 'DeltaDave_OccMaker_gizmo',\n 'DeltaDave_Opacity_gizmo',\n 'DeltaDave_QuickGrade_gizmo',\n 'DeltaDave_RackDefocus_gizmo',\n 'DeltaDave_Relight_gizmo',\n 'DeltaDave_SCrop_gizmo',\n 'DeltaDave_ShotSlate_gizmo',\n 'DeltaDave_SMerge_gizmo',\n 'DeltaDave_StereoAction_gizmo',\n 'DeltaDave_StereoCamV2_gizmo',\n 'DeltaDave_TargetCam_gizmo',\n 'DeltaDave_TargetDirect_gizmo',\n 'DeltaDave_TargetSpot_gizmo',\n 'DeltaDave_Twitch_gizmo',\n 'DeltaDave_Twitch3D_gizmo',\n 'DeltaDave_VectorExtendEdge_gizmo',\n 'LookupCurves_Cell_Experimental_gizmo',\n 'LookupCurves_Cell_Lin2Rec709_gizmo',\n 'LookupCurves_Cell_Log_gizmo',\n 'LookupCurves_Cell_SRGB_gizmo',\n 'LookupCurves_DeadMen_REDLog2Rec709_gizmo',\n 'LookupCurves_Lin2AlexaLogCGenericCube_gizmo',\n 'VP_gl_BoundingBox_gizmo',\n 'VP_gl_CenterXY_gizmo',\n 'VP_gl_Frame_gizmo',\n 'VP_gl_FrameRange_gizmo',\n 'VP_gl_PixelAspect_gizmo',\n 'VP_gl_Resolution_gizmo',\n 'VP_gl_RGB_gizmo',\n 'VP_gl_SetupVP_gizmo',\n 'VP_gl_XY_gizmo',\n 'VP_ma_Absolute_gizmo',\n 'VP_ma_Add_gizmo',\n 'VP_ma_AddChannel_gizmo',\n 'VP_ma_AddConstant_gizmo',\n 'VP_ma_And_gizmo',\n 'VP_ma_ArcTangent_gizmo',\n 'VP_ma_Atop_gizmo',\n 'VP_ma_Average_gizmo',\n 'VP_ma_Bytes_gizmo',\n 'VP_ma_Ceiling_gizmo',\n 'VP_ma_CheckChannel_gizmo',\n 'VP_ma_Clamp_gizmo',\n 'VP_ma_Clamp2_gizmo',\n 'VP_ma_Compress_gizmo',\n 'VP_ma_Compress2_gizmo',\n 'VP_ma_Condition_gizmo',\n 'VP_ma_CopyAspectRatio_gizmo',\n 'VP_ma_CopyBBOX_gizmo',\n 'VP_ma_CopyFrameRange_gizmo',\n 'VP_ma_CopyResolution_gizmo',\n 'VP_ma_CrossProduct_gizmo',\n 'VP_ma_DegreeToRadian_gizmo',\n 'VP_ma_Distance_gizmo',\n 'VP_ma_Divide_gizmo',\n 'VP_ma_DivideConstant_gizmo',\n 'VP_ma_DotProduct_gizmo',\n 'VP_ma_EdgeReplicate_gizmo',\n 'VP_ma_Expand_gizmo',\n 'VP_ma_Expand2_gizmo',\n 'VP_ma_Exponent_gizmo',\n 'VP_ma_Falloff_gizmo',\n 'VP_ma_fBm_gizmo',\n 'VP_ma_FitRange_gizmo',\n 'VP_ma_FloatToVector_gizmo',\n 'VP_ma_Floor_gizmo',\n 'VP_ma_Fraction_gizmo',\n 'VP_ma_Function_gizmo',\n 'VP_ma_Grad_gizmo',\n 'VP_ma_HSVtoRGB_gizmo',\n 'VP_ma_Hypot_gizmo',\n 'VP_ma_Inside_gizmo',\n 'VP_ma_Int_gizmo',\n 'VP_ma_Length_gizmo',\n 'VP_ma_Lerp_gizmo',\n 'VP_ma_Luminance_gizmo',\n 'VP_ma_Maximum_gizmo',\n 'VP_ma_Minimum_gizmo',\n 'VP_ma_Mix_gizmo',\n 'VP_ma_Modulo_gizmo',\n 'VP_ma_Multiply_gizmo',\n 'VP_ma_MultiplyConstant_gizmo',\n 'VP_ma_Negate_gizmo',\n 'VP_ma_NoiseVP_gizmo',\n 'VP_ma_Normalize_gizmo',\n 'VP_ma_Not_gizmo',\n 'VP_ma_Null_gizmo',\n 'VP_ma_Operation_gizmo',\n 'VP_ma_Operator_gizmo',\n 'VP_ma_Or_gizmo',\n 'VP_ma_Oscillation_gizmo',\n 'VP_ma_Outside_gizmo',\n 'VP_ma_Over_gizmo',\n 'VP_ma_pi_gizmo',\n 'VP_ma_Point_gizmo',\n 'VP_ma_Power_gizmo',\n 'VP_ma_RadialGrad_gizmo',\n 'VP_ma_RadianToDegree_gizmo',\n 'VP_ma_Rainbow_gizmo',\n 'VP_ma_Random_gizmo',\n 'VP_ma_RGBtoHSV_gizmo',\n 'VP_ma_Rotate_gizmo',\n 'VP_ma_Sample_gizmo',\n 'VP_ma_Scale_gizmo',\n 'VP_ma_ScaleUV_gizmo',\n 'VP_ma_ScanLine_gizmo',\n 'VP_ma_ScanSlice_gizmo',\n 'VP_ma_Screen_gizmo',\n 'VP_ma_SetBBOXColor_gizmo',\n 'VP_ma_Shape_gizmo',\n 'VP_ma_Sign_gizmo',\n 'VP_ma_Slice_gizmo',\n 'VP_ma_Smoothstep_gizmo',\n 'VP_ma_Spike_gizmo',\n 'VP_ma_SquareRoot_gizmo',\n 'VP_ma_Step_gizmo',\n 'VP_ma_Subtract_gizmo',\n 'VP_ma_SubtractAbs_gizmo',\n 'VP_ma_SubtractConstant_gizmo',\n 'VP_ma_TileUV_gizmo',\n 'VP_ma_toInt_gizmo',\n 'VP_ma_Translate_gizmo',\n 'VP_ma_TranslateUV_gizmo',\n 'VP_ma_turbulence_gizmo',\n 'VP_ma_TwoWaySwitch_gizmo',\n 'VP_ma_UV_gizmo',\n 'VP_ma_Vector_gizmo',\n 'VP_ma_VectorToFloat_gizmo',\n 'VP_ma_Zoneplate_gizmo',\n 'VP_td_FacingRatio_gizmo',\n 'VP_to_Pixel2_gizmo']"
- addUserKnob {43 _magic}
- addUserKnob {43 _NodeScripts}
  addUserKnob {43 _Libraries}
 }
 Constant {
@@ -711,598 +683,6 @@ Constant {
  xpos -286
  ypos -1245
 }
-Constant {
- inputs 0
- format "1920 1080 0 0 1920 1080 1 HD"
- name Constant1
- xpos 54
- ypos -345
-}
-Text {
- message THOMAS
- font C:/Portfolio/Website/_Assets/Fonts/HelveticaNeueLTPro-Th.otf
- size 250
- xjustify center
- yjustify center
- Transform 1
- box {0 0 1920 1080}
- translate {7 -4}
- center {320 240}
- color {0 0 0 1}
- name Text1
- xpos 54
- ypos -273
-}
-Text {
- message THOMAS
- font C:/Portfolio/Website/_Assets/Fonts/HelveticaNeueLTPro-Th.otf
- size 250
- xjustify center
- yjustify center
- Transform 1
- box {0 0 1920 1080}
- center {320 240}
- name Text2
- xpos 54
- ypos -249
-}
-Transform {
- translate {4 -35}
- center {960 540}
- name Transform6
- xpos 54
- ypos -225
-}
-Transform {
- translate {0 {curve x1001 0 x2001 1000}}
- center {810.5 540}
- name Transform2
- xpos 54
- ypos -93
-}
-Camera2 {
- inputs 0
- translate {-1.03767469 {curve x1001 1.988 x2000 1.424} 98.5}
- rotate {-0.79 -10.2 0}
- near 0.01
- name Camera3
- xpos 692
- ypos -654
-}
-set N7068800 [stack 0]
-Constant {
- inputs 0
- color {0 0 0 1}
- name Constant22
- xpos -390
- ypos -969
-}
-set N7068400 [stack 0]
-Card2 {
- translate {1.19997978 3.49999056 -89.5}
- scaling {5.3 10.61 1}
- control_points {3 3 3 6 
-
-1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
-1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
-1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
-1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
-1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
-1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
-1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
-1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
-1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
- name BackWall1
- xpos -471
- ypos -887
-}
-push $N7068400
-Card2 {
- translate {-0.92999817 1.42999982 -25.30001087}
- scaling {1.16 3.84 1}
- control_points {3 3 3 6 
-
-1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
-1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
-1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
-1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
-1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
-1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
-1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
-1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
-1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
- name ExtraRack1
- xpos -557
- ypos -859
-}
-push $N7068400
-Card2 {
- translate {1.4 1.55 0}
- rotate {0 90 0}
- scaling {200 4.7 1}
- control_points {3 3 3 6 
-
-1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
-1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
-1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
-1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
-1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
-1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
-1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
-1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
-1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
- name Cages1
- xpos -448
- ypos -855
-}
-push $N7068400
-Card2 {
- translate {-1.40999949 1.159999967 -2.084321417e-014}
- rotate {0 90 0}
- scaling {200 3.8 1}
- control_points {3 3 3 6 
-
-1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
-1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
-1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
-1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
-1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
-1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
-1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
-1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
-1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
- name LeftWall1
- xpos -364
- ypos -862
-}
-Constant {
- inputs 0
- color {1 1 1 1}
- name Constant21
- xpos -216
- ypos -936
-}
-Card2 {
- translate {-0.09 0 0}
- rotate {90 90 0}
- scaling {200 4.4 1}
- control_points {3 3 3 6 
-
-1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
-1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
-1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
-1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
-1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
-1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
-1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
-1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
-1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
- name Floor1
- xpos -216
- ypos -853
-}
-Scene {
- inputs 5
- name Scene4
- xpos -262
- ypos -818
-}
-Constant {
- inputs 0
- format "1920 1080 0 0 1920 1080 1 HD"
- name Constant2
- xpos 400
- ypos -503
-}
-ScanlineRender {
- inputs 3
- motion_vectors_type distance
- name ScanlineRender5
- xpos 400
- ypos -400
-}
-Shuffle {
- alpha red
- name Shuffle1
- xpos 400
- ypos -376
-}
-Erode {
- size 12
- blur 0.315
- name Erode1
- xpos 418
- ypos -243
-}
-Blur {
- size 15.5
- name Blur2
- xpos 429
- ypos -186
-}
-set N66617800 [stack 0]
-push 0
-push $N66617800
-Invert {
- name Invert2
- xpos 320
- ypos -183
-}
-push 0
-push $N7068800
-Camera2 {
- inputs 0
- translate {-1.03767469 1.68 {curve x1732 100}}
- rotate {-0.79 -10.2 0}
- name Camera2
- xpos 1026
- ypos -846
-}
-Read {
- inputs 0
- file W:/Portfolio/Website/_Assets/Stills/cables-from-side.jpg
- format "1600 1066 0 0 1600 1066 1 "
- frame_mode "start at"
- frame 1001
- origset true
- raw true
- name Read3
- xpos 660
- ypos -807
-}
-Project3D {
- inputs 2
- name Project3D3
- xpos 826
- ypos -826
-}
-set N66616800 [stack 0]
-Card2 {
- translate {-0.92999817 1.42999982 -25.30001087}
- scaling {1.16 3.84 1}
- control_points {3 3 3 6 
-
-1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
-1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
-1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
-1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
-1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
-1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
-1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
-1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
-1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
- name ExtraRack
- xpos 1410
- ypos -1137
-}
-push $N66616800
-Card2 {
- translate {1.19997978 3.49999056 -89.5}
- scaling {5.3 10.61 1}
- control_points {3 3 3 6 
-
-1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
-1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
-1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
-1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
-1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
-1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
-1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
-1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
-1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
- name BackWall
- xpos 1223
- ypos -1146
-}
-push $N66616800
-Card2 {
- translate {3.426973194e-007 7.840000153 -1.497977428e-014}
- rotate {90 90 0}
- scaling {250 22.8 1}
- control_points {3 3 3 6 
-
-1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
-1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
-1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
-1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
-1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
-1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
-1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
-1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
-1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
- name Ceiling
- xpos 1059
- ypos -1149
-}
-push $N66616800
-Card2 {
- translate {0.1000000015 5.280000687 -1.254538251e-008}
- rotate {90 90 0}
- scaling {200 0.32 1}
- control_points {3 3 3 6 
-
-1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
-1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
-1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
-1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
-1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
-1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
-1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
-1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
-1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
- name OverheadLight
- xpos 931
- ypos -1161
-}
-push $N66616800
-Card2 {
- translate {1.18000005 5.15000315 -7.374103461e-008}
- rotate {0 90 0}
- scaling {200 1.5 1}
- control_points {3 3 3 6 
-
-1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
-1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
-1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
-1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
-1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
-1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
-1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
-1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
-1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
- name TransSide
- xpos 761
- ypos -1168
-}
-push $N66616800
-Card2 {
- translate {1.2899999 4.60999304 -6.45619167e-008}
- rotate {90 90 0}
- scaling {200 0.43 1}
- control_points {3 3 3 6 
-
-1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
-1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
-1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
-1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
-1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
-1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
-1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
-1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
-1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
- name TransBottom
- xpos 620
- ypos -1156
-}
-push $N66616800
-Card2 {
- translate {2.37999814 3.03 -1.283795825e-007}
- rotate {0 90 0}
- scaling {200 1.39 1}
- control_points {3 3 3 6 
-
-1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
-1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
-1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
-1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
-1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
-1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
-1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
-1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
-1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
- name CageWall
- xpos 457
- ypos -1161
- disable true
-}
-push $N66616800
-Card2 {
- translate {1.4 4.03699299 -8.248330374e-008}
- rotate {0 90 0}
- scaling {200 1.9 1}
- control_points {3 3 3 6 
-
-1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
-1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
-1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
-1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
-1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
-1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
-1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
-1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
-1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
- name RRunSide
- xpos 325
- ypos -1174
-}
-push $N66616800
-Card2 {
- translate {1.900000095 3.449997902 -8.816606112e-008}
- rotate {90 90 0}
- scaling {200 1.32 1}
- control_points {3 3 3 6 
-
-1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
-1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
-1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
-1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
-1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
-1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
-1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
-1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
-1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
- name RRunBottom
- xpos 193
- ypos -1168
-}
-push $N66616800
-Card2 {
- translate {-1.17999871 2.41099982 4.808282839e-008}
- rotate {90 90 0}
- scaling {200 0.88 1}
- control_points {3 3 3 6 
-
-1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
-1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
-1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
-1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
-1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
-1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
-1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
-1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
-1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
- name LeftRun
- xpos 59
- ypos -1161
-}
-push $N66616800
-Card2 {
- translate {-1.40999949 1.159999967 -2.084321417e-014}
- rotate {0 90 0}
- scaling {200 3.8 1}
- control_points {3 3 3 6 
-
-1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
-1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
-1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
-1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
-1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
-1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
-1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
-1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
-1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
- name LeftWall
- xpos -58
- ypos -1161
-}
-push $N66616800
-Card2 {
- translate {1.4 1.54 0}
- rotate {0 90 0}
- scaling {200 4.7 1}
- control_points {3 3 3 6 
-
-1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
-1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
-1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
-1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
-1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
-1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
-1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
-1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
-1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
- name Cages
- xpos -163
- ypos -1157
-}
-set N7685d800 [stack 0]
-push $N66616800
-Card2 {
- translate {-0.09 0 0}
- rotate {90 90 0}
- scaling {200 4.4 1}
- control_points {3 3 3 6 
-
-1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
-1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
-1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
-1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
-1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
-1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
-1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
-1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
-1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
- name Floor
- xpos -280
- ypos -1145
-}
-Scene {
- inputs 13
- name Scene2
- xpos 358
- ypos -894
-}
-Constant {
- inputs 0
- format "1920 1080 0 0 1920 1080 1 HD"
- name Constant20
- xpos 272
- ypos -753
-}
-ScanlineRender {
- inputs 3
- motion_vectors_type distance
- name ScanlineRender3
- xpos 348
- ypos -639
-}
-Grade {
- channels depth
- white {{curve x1001 1 x1600 0.085 s-0}}
- name Grade2
- xpos 206
- ypos -471
-}
-ZDefocus2 {
- inputs 2+1
- useGPUIfAvailable false
- center 0.12575
- focal_point {1474 607}
- dof 0.8100000024
- blur_dof false
- size 40
- max_size 40
- layers 4
- layerCurve 0
- filter_bounds format
- bloom true
- bloom_threshold 0.645
- bloom_gain 1.37
- name ZDefocus1
- xpos 196
- ypos -188
-}
-ZDefocus2 {
- inputs 2+1
- useGPUIfAvailable false
- center 0.12575
- focal_point {1474 607}
- dof 0.8100000024
- blur_dof false
- size 40
- max_size 40
- layers 4
- layerCurve 0
- filter_bounds format
- bloom_threshold 0.645
- bloom_gain 1.37
- name ZDefocus2
- xpos 196
- ypos -101
-}
-Merge2 {
- inputs 2
- operation matte
- name Merge1
- xpos 200
- ypos -57
-}
-Write {
- channels rgba
- file W:/___ArtistsFolders/Thomas.McVay/WebAnimation/2DServerRoom_v01/2DServerRoom_v01.%04d.png
- raw true
- file_type png
- first 1001
- last 2000
- use_limit true
- checkHashOnRead false
- version 14
- in_colorspace linear
- out_colorspace linear
- name Write2
- xpos 200
- ypos -21
-}
 Read {
  inputs 0
  file C:/Portfolio/Website/_Assets/pngSequences/2DServerRoom_v01/2DServerRoom_v01.%04d.png
@@ -1330,6 +710,8 @@ Write {
  use_limit true
  checkHashOnRead false
  version 25
+ in_colorspace linear
+ out_colorspace linear
  name Write1
  xpos 1179
  ypos -69
@@ -1366,7 +748,53 @@ Camera2 {
  xpos 198
  ypos -851
 }
-push $N7685d800
+Camera2 {
+ inputs 0
+ translate {-1.03767469 1.68 {curve x1732 100}}
+ rotate {-0.79 -10.2 0}
+ name Camera2
+ xpos 1026
+ ypos -846
+}
+Read {
+ inputs 0
+ file W:/Portfolio/Website/_Assets/Stills/cables-from-side.jpg
+ format "1600 1066 0 0 1600 1066 1 "
+ frame_mode "start at"
+ frame 1001
+ origset true
+ raw true
+ name Read3
+ xpos 660
+ ypos -807
+}
+Project3D {
+ inputs 2
+ name Project3D3
+ xpos 826
+ ypos -826
+}
+set N683c2800 [stack 0]
+Card2 {
+ translate {1.4 1.54 0}
+ rotate {0 90 0}
+ scaling {200 4.7 1}
+ control_points {3 3 3 6 
+
+1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
+1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
+1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
+1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
+1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
+1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
+1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
+1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
+1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
+ name Cages
+ xpos -163
+ ypos -1157
+}
+set N68589800 [stack 0]
 Scene {
  name Scene1
  xpos -22
@@ -3041,7 +2469,7 @@ RotoPaint {
      {tx x447a4000 x44ada2e9 x428ae8ba}
      {a ro 0 go 0 bo 0 ao 0 bs x42c60000 bu 1 src 1 stx xbf800000 sty xc3590000 str 1 spx x44700000 spy x44070000 sb 1 ltn x447a4000 ltm x447a4000 ltt x40000000 tt x41980000}}}}}}
  toolbox {clone {
-  { selectAll str 1 ssx 1 ssy 1 sf 1 }
+  { selectAll bs 99 src 1 str 1 ssx 1 ssy 1 sf 1 }
   { createBezier str 1 ssx 1 ssy 1 sf 1 sb 1 }
   { createBezierCusped str 1 ssx 1 ssy 1 sf 1 sb 1 }
   { createBSpline str 1 ssx 1 ssy 1 sf 1 sb 1 }
@@ -3115,9 +2543,570 @@ Write {
  checkHashOnRead false
  version 8
  name Write3
- selected true
  xpos 9
  ypos -532
+}
+Constant {
+ inputs 0
+ format "1920 1080 0 0 1920 1080 1 HD"
+ name Constant1
+ xpos 54
+ ypos -345
+}
+Text {
+ message THOMAS
+ font W:/PersonalWebsite/_Assets/Fonts/HelveticaNeueLTPro-Th.otf
+ size 250
+ xjustify center
+ yjustify center
+ Transform 1
+ box {0 0 1920 1080}
+ translate {7 -4}
+ center {320 240}
+ color {0 0 0 1}
+ name Text1
+ xpos 54
+ ypos -273
+}
+Text {
+ message THOMAS
+ font W:/PersonalWebsite/_Assets/Fonts/HelveticaNeueLTPro-Th.otf
+ size 250
+ xjustify center
+ yjustify center
+ Transform 1
+ box {0 0 1920 1080}
+ center {320 240}
+ name Text2
+ xpos 54
+ ypos -249
+}
+Transform {
+ translate {4 -35}
+ center {960 540}
+ name Transform6
+ xpos 54
+ ypos -225
+}
+Transform {
+ translate {0 {curve x1001 0 x2001 1000}}
+ center {810.5 540}
+ name Transform2
+ xpos 54
+ ypos -93
+}
+set N6904c00 [stack 0]
+Camera2 {
+ inputs 0
+ translate {-1.03767469 {curve x1001 1.988 x2000 1.424} 98.5}
+ rotate {-0.79 -10.2 0}
+ near 0.01
+ name Camera3
+ xpos 692
+ ypos -654
+}
+set N6904800 [stack 0]
+Constant {
+ inputs 0
+ color {0 0 0 1}
+ name Constant22
+ xpos -390
+ ypos -969
+}
+set N6904400 [stack 0]
+Card2 {
+ translate {1.19997978 3.49999056 -89.5}
+ scaling {5.3 10.61 1}
+ control_points {3 3 3 6 
+
+1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
+1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
+1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
+1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
+1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
+1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
+1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
+1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
+1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
+ name BackWall1
+ xpos -471
+ ypos -887
+}
+push $N6904400
+Card2 {
+ translate {-0.92999817 1.42999982 -25.30001087}
+ scaling {1.16 3.84 1}
+ control_points {3 3 3 6 
+
+1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
+1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
+1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
+1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
+1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
+1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
+1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
+1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
+1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
+ name ExtraRack1
+ xpos -557
+ ypos -859
+}
+push $N6904400
+Card2 {
+ translate {1.4 1.55 0}
+ rotate {0 90 0}
+ scaling {200 4.7 1}
+ control_points {3 3 3 6 
+
+1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
+1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
+1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
+1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
+1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
+1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
+1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
+1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
+1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
+ name Cages1
+ xpos -448
+ ypos -855
+}
+push $N6904400
+Card2 {
+ translate {-1.40999949 1.159999967 -2.084321417e-014}
+ rotate {0 90 0}
+ scaling {200 3.8 1}
+ control_points {3 3 3 6 
+
+1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
+1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
+1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
+1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
+1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
+1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
+1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
+1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
+1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
+ name LeftWall1
+ xpos -364
+ ypos -862
+}
+Constant {
+ inputs 0
+ color {1 1 1 1}
+ name Constant21
+ xpos -216
+ ypos -936
+}
+Card2 {
+ translate {-0.09 0 0}
+ rotate {90 90 0}
+ scaling {200 4.4 1}
+ control_points {3 3 3 6 
+
+1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
+1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
+1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
+1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
+1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
+1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
+1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
+1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
+1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
+ name Floor1
+ xpos -216
+ ypos -853
+}
+Scene {
+ inputs 5
+ name Scene4
+ xpos -262
+ ypos -818
+}
+Constant {
+ inputs 0
+ format "1920 1080 0 0 1920 1080 1 HD"
+ name Constant2
+ xpos 400
+ ypos -503
+}
+ScanlineRender {
+ inputs 3
+ motion_vectors_type distance
+ name ScanlineRender5
+ xpos 400
+ ypos -400
+}
+Shuffle {
+ alpha red
+ name Shuffle1
+ xpos 400
+ ypos -376
+}
+Erode {
+ size 12
+ blur 0.315
+ name Erode1
+ xpos 418
+ ypos -243
+}
+Blur {
+ size 15.5
+ name Blur2
+ xpos 429
+ ypos -186
+}
+set N683c3800 [stack 0]
+push 0
+push $N683c3800
+Invert {
+ name Invert2
+ xpos 320
+ ypos -183
+}
+push 0
+push $N6904800
+push $N683c2800
+Card2 {
+ translate {-0.92999817 1.42999982 -25.30001087}
+ scaling {1.16 3.84 1}
+ control_points {3 3 3 6 
+
+1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
+1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
+1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
+1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
+1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
+1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
+1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
+1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
+1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
+ name ExtraRack
+ xpos 1410
+ ypos -1137
+}
+push $N683c2800
+Card2 {
+ translate {1.19997978 3.49999056 -89.5}
+ scaling {5.3 10.61 1}
+ control_points {3 3 3 6 
+
+1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
+1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
+1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
+1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
+1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
+1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
+1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
+1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
+1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
+ name BackWall
+ xpos 1223
+ ypos -1146
+}
+push $N683c2800
+Card2 {
+ translate {3.426973194e-007 7.840000153 -1.497977428e-014}
+ rotate {90 90 0}
+ scaling {250 22.8 1}
+ control_points {3 3 3 6 
+
+1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
+1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
+1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
+1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
+1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
+1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
+1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
+1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
+1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
+ name Ceiling
+ xpos 1059
+ ypos -1149
+}
+push $N683c2800
+Card2 {
+ translate {0.1000000015 5.280000687 -1.254538251e-008}
+ rotate {90 90 0}
+ scaling {200 0.32 1}
+ control_points {3 3 3 6 
+
+1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
+1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
+1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
+1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
+1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
+1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
+1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
+1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
+1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
+ name OverheadLight
+ xpos 931
+ ypos -1161
+}
+push $N683c2800
+Card2 {
+ translate {1.18000005 5.15000315 -7.374103461e-008}
+ rotate {0 90 0}
+ scaling {200 1.5 1}
+ control_points {3 3 3 6 
+
+1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
+1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
+1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
+1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
+1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
+1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
+1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
+1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
+1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
+ name TransSide
+ xpos 761
+ ypos -1168
+}
+push $N683c2800
+Card2 {
+ translate {1.2899999 4.60999304 -6.45619167e-008}
+ rotate {90 90 0}
+ scaling {200 0.43 1}
+ control_points {3 3 3 6 
+
+1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
+1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
+1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
+1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
+1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
+1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
+1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
+1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
+1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
+ name TransBottom
+ xpos 620
+ ypos -1156
+}
+push $N683c2800
+Card2 {
+ translate {2.37999814 3.03 -1.283795825e-007}
+ rotate {0 90 0}
+ scaling {200 1.39 1}
+ control_points {3 3 3 6 
+
+1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
+1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
+1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
+1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
+1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
+1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
+1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
+1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
+1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
+ name CageWall
+ xpos 457
+ ypos -1161
+ disable true
+}
+push $N683c2800
+Card2 {
+ translate {1.4 4.03699299 -8.248330374e-008}
+ rotate {0 90 0}
+ scaling {200 1.9 1}
+ control_points {3 3 3 6 
+
+1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
+1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
+1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
+1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
+1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
+1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
+1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
+1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
+1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
+ name RRunSide
+ xpos 325
+ ypos -1174
+}
+push $N683c2800
+Card2 {
+ translate {1.900000095 3.449997902 -8.816606112e-008}
+ rotate {90 90 0}
+ scaling {200 1.32 1}
+ control_points {3 3 3 6 
+
+1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
+1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
+1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
+1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
+1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
+1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
+1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
+1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
+1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
+ name RRunBottom
+ xpos 193
+ ypos -1168
+}
+push $N683c2800
+Card2 {
+ translate {-1.17999871 2.41099982 4.808282839e-008}
+ rotate {90 90 0}
+ scaling {200 0.88 1}
+ control_points {3 3 3 6 
+
+1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
+1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
+1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
+1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
+1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
+1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
+1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
+1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
+1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
+ name LeftRun
+ xpos 59
+ ypos -1161
+}
+push $N683c2800
+Card2 {
+ translate {-1.40999949 1.159999967 -2.084321417e-014}
+ rotate {0 90 0}
+ scaling {200 3.8 1}
+ control_points {3 3 3 6 
+
+1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
+1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
+1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
+1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
+1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
+1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
+1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
+1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
+1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
+ name LeftWall
+ xpos -58
+ ypos -1161
+}
+push $N68589800
+push $N683c2800
+Card2 {
+ translate {-0.09 0 0}
+ rotate {90 90 0}
+ scaling {200 4.4 1}
+ control_points {3 3 3 6 
+
+1 {-0.5 -0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0 0 0} 
+1 {0 -0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {0.5 0 0} 
+1 {0.5 -0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666865 0} 0 {0 0 0} 0 {1 0 0} 
+1 {-0.5 0 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0 0.5 0} 
+1 {0 0 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {0.5 0.5 0} 
+1 {0.5 0 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0.1666666716 0} 0 {0 -0.1666666716 0} 0 {1 0.5 0} 
+1 {-0.5 0.5 0} 0 {0.1666666865 0 0} 0 {0 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0 1 0} 
+1 {0 0.5 0} 0 {0.1666666716 0 0} 0 {-0.1666666716 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {0.5 1 0} 
+1 {0.5 0.5 0} 0 {0 0 0} 0 {-0.1666666865 0 0} 0 {0 0 0} 0 {0 -0.1666666865 0} 0 {1 1 0} }
+ name Floor
+ xpos -280
+ ypos -1145
+}
+Scene {
+ inputs 13
+ name Scene2
+ xpos 358
+ ypos -894
+}
+Constant {
+ inputs 0
+ format "1920 1080 0 0 1920 1080 1 HD"
+ name Constant20
+ xpos 272
+ ypos -753
+}
+ScanlineRender {
+ inputs 3
+ motion_vectors_type distance
+ name ScanlineRender3
+ xpos 348
+ ypos -639
+}
+Grade {
+ channels depth
+ white {{curve x1001 1 x1600 0.085 s-0}}
+ name Grade2
+ xpos 206
+ ypos -471
+}
+ZDefocus2 {
+ inputs 2+1
+ useGPUIfAvailable false
+ center 0.12575
+ focal_point {1474 607}
+ dof 0.8100000024
+ blur_dof false
+ size 40
+ max_size 40
+ layers 4
+ layerCurve 0
+ filter_bounds format
+ bloom true
+ bloom_threshold 0.645
+ bloom_gain 1.37
+ name ZDefocus1
+ xpos 196
+ ypos -188
+}
+ZDefocus2 {
+ inputs 2+1
+ useGPUIfAvailable false
+ center 0.12575
+ focal_point {1474 607}
+ dof 0.8100000024
+ blur_dof false
+ size 40
+ max_size 40
+ layers 4
+ layerCurve 0
+ filter_bounds format
+ bloom_threshold 0.645
+ bloom_gain 1.37
+ name ZDefocus2
+ xpos 196
+ ypos -101
+}
+Merge2 {
+ inputs 2
+ operation matte
+ name Merge1
+ xpos 200
+ ypos -57
+}
+Write {
+ channels rgba
+ file W:/___ArtistsFolders/Thomas.McVay/WebAnimation/2DServerRoom_v01/2DServerRoom_v01.%04d.png
+ raw true
+ file_type png
+ first 1001
+ last 2000
+ use_limit true
+ checkHashOnRead false
+ version 14
+ in_colorspace linear
+ out_colorspace linear
+ name Write2
+ xpos 200
+ ypos -21
+}
+push $N6904c00
+Write {
+ channels rgba
+ file W:/PersonalWebsite/_Assets/Stills/NameTitle.png
+ raw true
+ file_type png
+ first 1001
+ last 1001
+ use_limit true
+ checkHashOnRead false
+ version 16
+ name Write4
+ xpos -106
+ ypos -6
 }
 Viewer {
  frame_range 1001-2000
@@ -3127,6 +3116,7 @@ Viewer {
  viewerProcess None
  input_process false
  name Viewer1
+ selected true
  xpos -160
  ypos -464
 }
