@@ -24,9 +24,9 @@ var runOnScroll = function(evt) {
     var ypos = Math.min(getYPosition(), 1540);
     var camypos = ypos/-1400+0.454;
     cam.setPosition(cam.getPosition().x, camypos, cam.getPosition().z); 
-    console.log(ypos+' '+camypos);
     
     var farval = ypos/-15.4+100;
+    console.log(ypos+' '+farval);
     cam.script.dof.onAttributeChanged('far', farval);
     cam.script.dof.far = farval;
     
