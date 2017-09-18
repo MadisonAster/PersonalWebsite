@@ -20,11 +20,16 @@ HtmlHandler.prototype.update = function(dt) {
 var runOnScroll = function(evt) {     
     
     var cam = pc.app.root.findByName('camera');
-    console.log(getYPosition());
+    
+    var ypos = -getYPostion()/1400+0.454;
+    ypos = Math.max(-0.65, Math.min(ypos, 0.454));
+    cam.setPosition(cam.getPosition().x, ypos, cam.getPosition().z); 
+    console.log(ypos);
     //console.log(evt.wheelDelta/1200/0.6);
-    var newy = cam.getPosition().y+(evt.wheelDelta/1200/0.6);
-    newy = Math.max(-0.65, Math.min(newy, 0.454));
-    cam.setPosition(cam.getPosition().x, newy, cam.getPosition().z);  
+    
+    //var newy = cam.getPosition().y+(evt.wheelDelta/1200/0.6);
+    //newy = Math.max(-0.65, Math.min(newy, 0.454));
+    //cam.setPosition(cam.getPosition().x, newy, cam.getPosition().z);  
     var newfar = cam.script.dof.far+evt.wheelDelta/120*8;
     newfar = Math.max(1, Math.min(newfar, 100));
     cam.script.dof.onAttributeChanged('far', newfar);
@@ -40,11 +45,22 @@ function animationLoop(){
     };
     findFrame(targetFrame);
 };
+window.requestAnimFrame = (function(){
+    return  window.requestAnimationFrame || 
+    window.webkitRequestAnimationFrame || 
+    window.mozRequestAnimationFrame || 
+    window.oRequestAnimationFrame ||  
+    window.msRequestAnimationFrame || 
+    function(callback){
+		window.setTimeout(callback, 1000.0/window.frameRate);
+    };
+})();
+
 function getYPosition(){
 	return (window.pageYOffset || document.documentElement.scrollTop)  - (document.documentElement.clientTop || 0);
 };
-//window.addEventListener("mousewheel", runOnScroll);
-window.addEventListener("scroll", runOnScroll);
+window.addEventListener("mousewheel", runOnScroll);
+//window.addEventListener("scroll", runOnScroll);
 
 
 
