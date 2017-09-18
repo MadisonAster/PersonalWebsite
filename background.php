@@ -19,4 +19,6 @@ echo $array[count($array) - 2];
 echo "'>";
 
 echo "\n    </img>\n";
+echo "    <div id='TouchCatcher'>";
+echo "    </div>";
 ?>
