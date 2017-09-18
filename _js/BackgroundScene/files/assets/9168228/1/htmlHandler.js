@@ -26,7 +26,7 @@ var runOnScroll = function(evt) {
     
     var farval = 2*(Math.min(ypos, 385))/-3.85+200+1;
     console.log(ypos+' '+farval);
-    //cam.script.dof.onAttributeChanged('far', farval);
+    cam.script.dof.onAttributeChanged('far', farval); //why?
     cam.script.dof.far = farval;
 };
 function animationLoop(){
