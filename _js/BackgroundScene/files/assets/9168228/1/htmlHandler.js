@@ -18,19 +18,16 @@ HtmlHandler.prototype.update = function(dt) {
 // http://developer.playcanvas.com/en/user-manual/scripting/
 // 
 var runOnScroll = function(evt) {     
-    
     var cam = pc.app.root.findByName('camera');
-    
     var ypos = Math.min(getYPosition(), 1540);
+    
     var camypos = ypos/-1400+0.454;
     cam.setPosition(cam.getPosition().x, camypos, cam.getPosition().z); 
     
     var farval = 2*(Math.min(ypos, 385))/-3.85+200+1;
     console.log(ypos+' '+farval);
-    cam.script.dof.onAttributeChanged('far', farval);
+    //cam.script.dof.onAttributeChanged('far', farval);
     cam.script.dof.far = farval;
-    
-    
 };
 function animationLoop(){
     requestAnimFrame(animationLoop);
