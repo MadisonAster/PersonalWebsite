@@ -49,8 +49,9 @@ th:active,
 
 .BackgroundImg{
     z-index:-50;
-    position:absolute;
-    top:0px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
     left:0px;
     width:100%;
 }
