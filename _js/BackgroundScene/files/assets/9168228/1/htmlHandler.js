@@ -4,7 +4,6 @@ var HtmlHandler = pc.createScript('htmlHandler');
 HtmlHandler.prototype.initialize = function() {
     animationLoop();
     
-    document.getElementById("application-canvas").allowTouchScrolling = true;
     var bg = $("#application-canvas");
     function resizeBackground() {
         bg.height(screen.height);
