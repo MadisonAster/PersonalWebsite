@@ -3,6 +3,13 @@ var HtmlHandler = pc.createScript('htmlHandler');
 // initialize code called once per entity
 HtmlHandler.prototype.initialize = function() {
     animationLoop();
+    
+    var bg = $("#application-canvas");
+    function resizeBackground() {
+        bg.height($(window).height());
+    }
+    $(window).resize(resizeBackground);
+    resizeBackground();
 };
 
 // update code called every frame
