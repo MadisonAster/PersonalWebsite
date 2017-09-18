@@ -1,15 +1,6 @@
 window.onload = function(){
     //backgroundOnload();
     //sorttable.init();
-    
-    //document.getElementById('application-canvas')
-    var bg = $("#application-canvas");
-    function resizeBackground() {
-        bg.height($(window).height());
-    }
-    $(window).resize(resizeBackground);
-    resizeBackground();
-    
     menuArray = document.getElementById('Menu').childNodes;
     for(var i=0;i<menuArray.length;i++){
         if(menuArray[i].id != null){
