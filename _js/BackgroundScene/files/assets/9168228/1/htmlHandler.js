@@ -27,8 +27,6 @@ var runOnScroll = function(evt) {
     console.log(ypos+' '+camypos);
     
     var farval = ypos/-15.4+100;
-    //var newfar = cam.script.dof.far+evt.wheelDelta/120*8;
-    //newfar = Math.max(1, Math.min(newfar, 100));
     cam.script.dof.onAttributeChanged('far', farval);
     cam.script.dof.far = farval;
     

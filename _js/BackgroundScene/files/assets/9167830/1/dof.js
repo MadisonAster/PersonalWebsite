@@ -191,7 +191,7 @@ pc.extend(pc,function(){
         this.far = 0.5;
         this.clampFar = 1;
         this.viewportSize = 997;
-        this.blurAmount = 1/512;
+        this.blurAmount = 1/256;
         this.pixelSize = [1/graphicsDevice.width, 1/graphicsDevice.height];
         this.pixelSizeLow = [1/graphicsDevice.width, 1/graphicsDevice.height];
     };
