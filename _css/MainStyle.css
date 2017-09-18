@@ -59,7 +59,8 @@ th:active,
     position: relative;
     top: 50%;
     transform: translateY(-50%);
-    left:0px;
+    left:50%;
+    transform: translateX(-50%);
     width:100%;
     min-width: 1000px;
 }
