@@ -2,7 +2,7 @@ var HtmlHandler = pc.createScript('htmlHandler');
 
 // initialize code called once per entity
 HtmlHandler.prototype.initialize = function() {
-    
+    animationLoop();
 };
 
 // update code called every frame
@@ -51,9 +51,7 @@ window.requestAnimFrame = (function(){
 function getYPosition(){
 	return (window.pageYOffset || document.documentElement.scrollTop)  - (document.documentElement.clientTop || 0);
 };
-window.addEventListener("mousewheel", runOnScroll);
+
+//window.addEventListener("mousewheel", runOnScroll);
 //window.addEventListener("scroll", runOnScroll);
-
-
-
 
