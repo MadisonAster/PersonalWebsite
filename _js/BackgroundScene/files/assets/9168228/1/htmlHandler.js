@@ -21,7 +21,7 @@ var runOnScroll = function(evt) {
     
     var cam = pc.app.root.findByName('camera');
     
-    var ypos = -getYPostion()/1400+0.454;
+    var ypos = -getYPosition()/1400+0.454;
     ypos = Math.max(-0.65, Math.min(ypos, 0.454));
     cam.setPosition(cam.getPosition().x, ypos, cam.getPosition().z); 
     console.log(ypos);
