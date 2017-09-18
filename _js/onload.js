@@ -1,6 +1,7 @@
 window.onload = function(){
     //backgroundOnload();
     //sorttable.init();
+    window.scrollTo(0,1);
     menuArray = document.getElementById('Menu').childNodes;
     for(var i=0;i<menuArray.length;i++){
         if(menuArray[i].id != null){
