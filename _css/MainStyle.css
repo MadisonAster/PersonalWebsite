@@ -61,6 +61,7 @@ th:active,
     transform: translateY(-50%);
     left:0px;
     width:100%;
+    min-width: 1000px;
 }
 .DialogBox{
     display:none;
