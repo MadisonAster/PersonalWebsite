@@ -10,13 +10,6 @@ HtmlHandler.prototype.update = function(dt) {
     
 };
 
-// swap method called for script hot-reloading
-// inherit your script state here
-// HtmlHandler.prototype.swap = function(old) { };
-
-// to learn more about script anatomy, please read:
-// http://developer.playcanvas.com/en/user-manual/scripting/
-// 
 var runOnScroll = function(evt) {     
     var cam = pc.app.root.findByName('camera');
     var ypos = Math.min(getYPosition(), 1540);
@@ -31,11 +24,6 @@ var runOnScroll = function(evt) {
 function animationLoop(){
     requestAnimFrame(animationLoop);
     runOnScroll();
-    //targetFrame = parseInt(getYPosition()/window.heightRatio+window.startFrame);
-    //if(targetFrame > window.endFrame){
-    //    targetFrame = window.endFrame;
-    //};
-    //findFrame(targetFrame);
 };
 window.requestAnimFrame = (function(){
     return  window.requestAnimationFrame || 
@@ -51,7 +39,4 @@ window.requestAnimFrame = (function(){
 function getYPosition(){
 	return (window.pageYOffset || document.documentElement.scrollTop)  - (document.documentElement.clientTop || 0);
 };
-
-//window.addEventListener("mousewheel", runOnScroll);
-//window.addEventListener("scroll", runOnScroll);
 
