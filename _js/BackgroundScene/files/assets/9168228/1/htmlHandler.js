@@ -31,11 +31,12 @@ var runOnScroll = function(evt) {
 };
 function animationLoop(){
     requestAnimFrame(animationLoop);
-    targetFrame = parseInt(getYPosition()/window.heightRatio+window.startFrame);
-    if(targetFrame > window.endFrame){
-        targetFrame = window.endFrame;
-    };
-    findFrame(targetFrame);
+    runOnScroll();
+    //targetFrame = parseInt(getYPosition()/window.heightRatio+window.startFrame);
+    //if(targetFrame > window.endFrame){
+    //    targetFrame = window.endFrame;
+    //};
+    //findFrame(targetFrame);
 };
 window.requestAnimFrame = (function(){
     return  window.requestAnimationFrame || 
