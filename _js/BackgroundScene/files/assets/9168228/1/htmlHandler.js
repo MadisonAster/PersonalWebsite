@@ -24,8 +24,7 @@ var runOnScroll = function(evt) {
     var ypos = getYPosition()/-1400+0.454;
     ypos = Math.max(-0.65, Math.min(ypos, 0.454));
     cam.setPosition(cam.getPosition().x, ypos, cam.getPosition().z); 
-    console.log(ypos);
-    //console.log(evt.wheelDelta/1200/0.6);
+    console.log(getYPosition()+' '+ypos);
     
     //var newy = cam.getPosition().y+(evt.wheelDelta/1200/0.6);
     //newy = Math.max(-0.65, Math.min(newy, 0.454));
