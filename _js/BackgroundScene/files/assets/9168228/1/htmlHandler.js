@@ -23,17 +23,14 @@ var runOnScroll = function(evt) {
     
     var ypos = Math.min(getYPosition(), 1540);
     var camypos = ypos/-1400+0.454;
-    //ypos = Math.max(-0.65, Math.min(ypos, 0.454));
     cam.setPosition(cam.getPosition().x, camypos, cam.getPosition().z); 
     console.log(ypos+' '+camypos);
     
-    //var newy = cam.getPosition().y+(evt.wheelDelta/1200/0.6);
-    //newy = Math.max(-0.65, Math.min(newy, 0.454));
-    //cam.setPosition(cam.getPosition().x, newy, cam.getPosition().z);  
-    var newfar = cam.script.dof.far+evt.wheelDelta/120*8;
-    newfar = Math.max(1, Math.min(newfar, 100));
-    cam.script.dof.onAttributeChanged('far', newfar);
-    cam.script.dof.far = newfar;
+    var farval = ypos/-15.4+100;
+    //var newfar = cam.script.dof.far+evt.wheelDelta/120*8;
+    //newfar = Math.max(1, Math.min(newfar, 100));
+    cam.script.dof.onAttributeChanged('far', farval);
+    cam.script.dof.far = farval;
     
     
 };
