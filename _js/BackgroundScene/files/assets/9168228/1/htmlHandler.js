@@ -20,6 +20,8 @@ HtmlHandler.prototype.update = function(dt) {
 var runOnScroll = function(evt) {     
     
     var cam = pc.app.root.findByName('camera');
+    console.log(getYPosition());
+    //console.log(evt.wheelDelta/1200/0.6);
     var newy = cam.getPosition().y+(evt.wheelDelta/1200/0.6);
     newy = Math.max(-0.65, Math.min(newy, 0.454));
     cam.setPosition(cam.getPosition().x, newy, cam.getPosition().z);  
@@ -27,6 +29,23 @@ var runOnScroll = function(evt) {
     newfar = Math.max(1, Math.min(newfar, 100));
     cam.script.dof.onAttributeChanged('far', newfar);
     cam.script.dof.far = newfar;
+    
+    
 };
-window.addEventListener("mousewheel", runOnScroll);
-//window.addEventListener("scroll", runOnScroll);
+function animationLoop(){
+    requestAnimFrame(animationLoop);
+    targetFrame = parseInt(getYPosition()/window.heightRatio+window.startFrame);
+    if(targetFrame > window.endFrame){
+        targetFrame = window.endFrame;
+    };
+    findFrame(targetFrame);
+};
+function getYPosition(){
+	return (window.pageYOffset || document.documentElement.scrollTop)  - (document.documentElement.clientTop || 0);
+};
+//window.addEventListener("mousewheel", runOnScroll);
+window.addEventListener("scroll", runOnScroll);
+
+
+
+
