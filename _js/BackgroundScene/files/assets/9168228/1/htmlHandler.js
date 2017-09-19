@@ -2,9 +2,6 @@ var HtmlHandler = pc.createScript('htmlHandler');
 
 // initialize code called once per entity
 HtmlHandler.prototype.initialize = function() {
-    animationLoop();
-    
-    
     function resizeBackground() {
         //bg.height(window.outerHeight);
         //bg.height(screen.availHeight);
@@ -22,6 +19,7 @@ HtmlHandler.prototype.initialize = function() {
     $(window).resize(resizeBackground);
     resizeBackground();
     
+    animationLoop();
 };
 
 // update code called every frame
