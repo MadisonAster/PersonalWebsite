@@ -142,7 +142,7 @@ th:active,
     visibility: hidden;
 }
 .slide{
-    position:absolute;
+    position:relative;
     left:0;
     top:0;
 }
