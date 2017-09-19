@@ -66,10 +66,9 @@ function ResumeSetup(){
     for (var i = 0; i < wordlistlines.length; i++) {
         doc.text(wordlistlines[i].replace(',',''), 44, 20);
     };
-    doc.setTextColor(89, 92, 98);
-    
-    doc.setFillColor(255, 0, 0);
+    doc.setFillColor(255, 255, 255);
     doc.rect(0, 0, doc.internal.pageSize.width, 25, 'F');
+    doc.setTextColor(89, 92, 98);
     
     return doc;
 }
@@ -451,7 +450,10 @@ function CVSetup(){
     for (var i = 0; i < wordlistlines.length; i++) {
         doc.text(wordlistlines[i].replace(',',''), 44, 20);
     };
+    doc.setFillColor(255, 255, 255);
+    doc.rect(0, 0, doc.internal.pageSize.width, 25, 'F');
     doc.setTextColor(89, 92, 98);
+    
     doc.setFillColor(0);
     doc.rect(0, 0, 152, doc.internal.pageSize.height, 'F');
     
