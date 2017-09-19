@@ -3,7 +3,8 @@ var HtmlHandler = pc.createScript('htmlHandler');
 // initialize code called once per entity
 HtmlHandler.prototype.initialize = function() {
     function GetAspectRatio() {
-        return screen.height / screen.width;
+        return 1.777777777;
+        //return screen.height / screen.width;
     };
     function GetWidth() {
         if (window.orientation == 0 || window.orientation == 180) { //Portrait Mode
@@ -26,9 +27,7 @@ HtmlHandler.prototype.initialize = function() {
         //alert($(window).width());         //ff 980       cr 980       wi 941  1903
         //alert(screen.width);        //ff 408       cr 412       wi 1920
         
-        bg.width(GetWidth());
-        alert(GetWidth());
-        //bg.css('width', '100%');
+        bg.css('width', '100%');
         //alert(bg.width());
         return bg.width()*GetAspectRatio();
     };
