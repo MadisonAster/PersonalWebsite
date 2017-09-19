@@ -3,6 +3,7 @@ var HtmlHandler = pc.createScript('htmlHandler');
 // initialize code called once per entity
 HtmlHandler.prototype.initialize = function() {
     function GetHeight() {
+        //alert(window.height);              ff 20        cr 3417
         //alert(window.outerHeight);         ff 606  654  cr 604  660
         //alert(screen.availHeight);         ff 678       cr 732
         //alert(screen.height);              ff 678       cr 732
@@ -10,8 +11,7 @@ HtmlHandler.prototype.initialize = function() {
         //alert($(window).outerHeight());    ff 1456 1571 cr 1436
         //alert($(window).height());         ff 1456 1571 cr 1436
         //alert($(document).height());       ff 6942 7056 cr 6393
-        alert('i '+window.height);
-        return 2121;
+        return 1920;
     };
     var viewportHeight = GetHeight();
     var bg = $("#application-canvas");
