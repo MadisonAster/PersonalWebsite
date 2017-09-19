@@ -2,19 +2,24 @@ var HtmlHandler = pc.createScript('htmlHandler');
 
 // initialize code called once per entity
 HtmlHandler.prototype.initialize = function() {
+    var viewportHeight = $(window).height();
+    var HEIGHT_CHANGE_TOLERANCE = 100;
     function resizeBackground() {
         var bg = $("#application-canvas");
-        
-        bg.height(window.outerHeight);
+        if (Math.abs(viewportHeight - $(window).height()) > HEIGHT_CHANGE_TOLERANCE) {
+            viewportHeight = $(window).height();
+            bg.height(window.outerHeight);
+            bg.width(100%);
+        }
+        //bg.height(window.outerHeight);
         //bg.height(screen.availHeight);
-        bg.width(100%);
+        //bg.width(100%);
         //bg.height(475);
         //bg.width(475);
         
         //alert('heyo!');
         //var bg = document.getElementById('application-canvas');
         //bg.setAttribute("style","width:500px;height:500px");
-        
     }
     $(window).resize(resizeBackground);
     resizeBackground();
