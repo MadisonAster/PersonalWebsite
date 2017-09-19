@@ -30,8 +30,7 @@ HtmlHandler.prototype.initialize = function() {
         bg.css('width', '100%');
         bg.css('height', '110%');
         var cam = pc.app.root.findByName('camera');
-        cam.width = bg.width();
-        cam.height = bg.height();
+        cam.rect = pc.Vec4(0, 0, GetAspectRatio(), 1);
         //alert(bg.width());
         //return bg.width()*GetAspectRatio();
     };
