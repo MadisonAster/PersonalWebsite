@@ -13,7 +13,7 @@ HtmlHandler.prototype.initialize = function() {
         };
     };
     function updateSize() {
-        alert(viewportHeight);
+        alert(window.outerHeight);
         bg.height(window.outerHeight);
         bg.width(window.width);
         //bg.height(window.outerHeight);
