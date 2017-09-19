@@ -11,7 +11,7 @@ HtmlHandler.prototype.initialize = function() {
         //alert($(window).outerHeight());    ff 1456 1571 cr 1436
         //alert($(window).height());         ff 1456 1571 cr 1436
         //alert($(document).height());       ff 6942 7056 cr 6393
-        return 1600;
+        return 1200;
     };
     var viewportHeight = GetHeight();
     var bg = $("#application-canvas");
