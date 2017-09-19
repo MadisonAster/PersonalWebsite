@@ -5,7 +5,7 @@ function GetAspectRatio() {
     return screen.height / screen.width;
 };
 HtmlHandler.prototype.initialize = function() {
-    $("#NameImg").css('z-index', '0');
+    $("#NameImg").css('display', 'initial');
     function GetHeight() {
         return screen.height
     };
