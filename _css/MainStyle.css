@@ -141,6 +141,10 @@ th:active,
 .ui-dialog-titlebar-close {
     visibility: hidden;
 }
+.slide{
+    left:0;
+    top:0;
+}
 #ContentContainer{
     z-index:0;
     position:absolute;
