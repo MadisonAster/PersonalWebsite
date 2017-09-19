@@ -22,8 +22,8 @@ HtmlHandler.prototype.initialize = function() {
         alert(bg.width());
         return $(window).width()*GetAspectRatio();
     };
-    var viewportHeight = GetHeight();
     var bg = $("#application-canvas");
+    var viewportHeight = GetHeight();
     function resizeBackground() {
         if (viewportHeight != GetHeight()) {
             viewportHeight = GetHeight();
