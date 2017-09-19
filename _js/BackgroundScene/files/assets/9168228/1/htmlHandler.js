@@ -3,17 +3,17 @@ var HtmlHandler = pc.createScript('htmlHandler');
 // initialize code called once per entity
 HtmlHandler.prototype.initialize = function() {
     function resizeBackground() {
-        //bg.height(window.outerHeight);
-        //bg.height(screen.availHeight);
-        //bg.width(screen.width);
+        var bg = $("#application-canvas");
         
-        //var bg = $("#application-canvas");
+        bg.height(window.outerHeight);
+        //bg.height(screen.availHeight);
+        bg.width(screen.width);
         //bg.height(475);
         //bg.width(475);
         
-        alert('heyo!');
-        var bg = document.getElementById('application-canvas');
-        bg.setAttribute("style","width:500px;height:500px");
+        //alert('heyo!');
+        //var bg = document.getElementById('application-canvas');
+        //bg.setAttribute("style","width:500px;height:500px");
         
     }
     $(window).resize(resizeBackground);
