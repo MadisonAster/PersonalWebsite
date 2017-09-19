@@ -21,8 +21,8 @@ HtmlHandler.prototype.initialize = function() {
         //alert($(document).height());      //ff 6942 7056 cr 6393      wi
         //alert($(window).width());         //ff 980       cr 980       wi 941  1903
         //alert(screen.width);        //ff 408       cr 412       wi 1920
-        alert(GetAspectRatio());
-        return 1571;
+        alert(window.width);
+        return $(window).width()*GetAspectRatio();
     };
     var viewportHeight = GetHeight();
     var bg = $("#application-canvas");
@@ -35,7 +35,7 @@ HtmlHandler.prototype.initialize = function() {
     
     function updateSize() {
         bg.height(viewportHeight);
-        bg.width(window.width);
+        bg.width($(window).width());
     };
     updateSize();
     $(window).resize(resizeBackground);
