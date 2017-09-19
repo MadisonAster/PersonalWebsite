@@ -147,7 +147,18 @@ th:active,
     top:0;
     width:28.44vw;
     height:16vw;
+    padding: 10px;
     min-width:150px;
+    
+    margin: 80px auto;
+    box-shadow: 0 0 20px rgba(0,0,0,0.4);
+}
+.slideshow > div {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
 }
 .slide{
     position:relative;
