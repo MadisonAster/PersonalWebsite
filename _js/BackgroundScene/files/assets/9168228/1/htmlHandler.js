@@ -20,7 +20,7 @@ HtmlHandler.prototype.initialize = function() {
         
         bg.css('width', '100%');
         alert(bg.width());
-        return $(window).width()*GetAspectRatio();
+        return bg.width()*GetAspectRatio();
     };
     var bg = $("#application-canvas");
     var viewportHeight = GetHeight();
@@ -33,7 +33,6 @@ HtmlHandler.prototype.initialize = function() {
     
     function updateSize() {
         bg.height(viewportHeight);
-        bg.width($(window).width());
     };
     updateSize();
     $(window).resize(resizeBackground);
