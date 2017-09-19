@@ -2,14 +2,14 @@ var HtmlHandler = pc.createScript('htmlHandler');
 
 // initialize code called once per entity
 HtmlHandler.prototype.initialize = function() {
-    var viewportHeight = screen.height;
+    var viewportHeight = screen.height*window.devicePixelRatio;
     var HEIGHT_CHANGE_TOLERANCE = 100;
     var bg = $("#application-canvas");
     function resizeBackground() {
         //updateSize();
-        if (viewportHeight != screen.height) {
+        if (viewportHeight != screen.height*window.devicePixelRatio) {
         //if (Math.abs(viewportHeight - $(window).height()) > HEIGHT_CHANGE_TOLERANCE) {
-            viewportHeight = screen.height;
+            viewportHeight = screen.height*window.devicePixelRatio;
             updateSize();
         };
     };
@@ -21,8 +21,8 @@ HtmlHandler.prototype.initialize = function() {
         //alert($(window).outerHeight());    ff 1456 1571 cr 1436
         //alert($(window).height());         ff 1456 1571 cr 1436
         //alert($(document).height());       ff 6942 7056 cr 6393
-        alert('h '+screen.height);
-        bg.height(screen.height);
+        alert('h '+screen.height*window.devicePixelRatio);
+        bg.height(viewportHeight);
         bg.width(window.width);
         //bg.height(window.outerHeight);
         //bg.height(screen.availHeight);
