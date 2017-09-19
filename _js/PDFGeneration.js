@@ -451,6 +451,8 @@ function CVSetup(){
     doc.setTextColor(89, 92, 98);
     doc.setFillColor(0);
     doc.rect(0, 0, 152, doc.internal.pageSize.height, 'F');
+    doc.setFillColor(255, 0, 0);
+    doc.rect(0, 0, 500, 200, 'F');
     
     //doc.addPage();
     return doc;
