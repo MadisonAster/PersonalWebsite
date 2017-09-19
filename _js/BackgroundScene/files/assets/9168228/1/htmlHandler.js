@@ -6,7 +6,7 @@ HtmlHandler.prototype.initialize = function() {
     var HEIGHT_CHANGE_TOLERANCE = 100;
     var bg = $("#application-canvas");
     function resizeBackground() {
-        updateSize();
+        //updateSize();
         if (viewportHeight != screen.height) {
         //if (Math.abs(viewportHeight - $(window).height()) > HEIGHT_CHANGE_TOLERANCE) {
             viewportHeight = screen.height;
