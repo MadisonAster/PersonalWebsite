@@ -7,7 +7,7 @@ HtmlHandler.prototype.initialize = function() {
         
         bg.height(window.outerHeight);
         //bg.height(screen.availHeight);
-        bg.width(screen.width);
+        bg.width(100%);
         //bg.height(475);
         //bg.width(475);
         
