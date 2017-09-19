@@ -29,6 +29,9 @@ HtmlHandler.prototype.initialize = function() {
         //GetWidth()
         bg.css('width', '100%');
         bg.css('height', '110%');
+        var cam = pc.app.root.findByName('camera');
+        cam.width = bg.width();
+        cam.height = bg.height();
         //alert(bg.width());
         //return bg.width()*GetAspectRatio();
     };
@@ -64,7 +67,6 @@ var runOnScroll = function(evt) {
     var farval = 2*(Math.min(ypos, 385))/-3.85+200+1;
     cam.script.dof.onAttributeChanged('far', farval); //why?
     cam.script.dof.far = farval;
-    cam.aspectRatio = GetAspectRatio();
 };
 function animationLoop(){
     requestAnimFrame(animationLoop);
