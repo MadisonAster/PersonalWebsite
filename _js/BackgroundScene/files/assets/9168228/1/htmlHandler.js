@@ -8,12 +8,14 @@ HtmlHandler.prototype.initialize = function() {
         //alert(screen.availHeight);        //ff 678       cr 732       wi
         //alert(screen.height);             //ff 678       cr 732       wi 1080
         //alert(window.screen.height);      //ff 678       cr 732       wi 1080
-        alert(screen.width);        //ff 678       cr 732       wi 1080
         //alert(document.body.clientHeight);//ff 1456 1571 cr 1436      wi
         //alert($(window).outerHeight());   //ff 1456 1571 cr 1436      wi
         //alert($(window).height());        //ff 1456 1571 cr 1436      wi
         //alert($(document).height());      //ff 6942 7056 cr 6393      wi
         //alert(screen.height+' '+window.devicePixelRatio+' '+window.screenTop);
+        alert(getWindowManager().getDefaultDisplay().getHeight());
+        alert(getWindowManager().getDefaultDisplay().getWidth());
+        //alert(screen.width);        //ff 408       cr 412       wi 1920
         return 1456;
     };
     var viewportHeight = GetHeight();
