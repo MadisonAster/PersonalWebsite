@@ -4,11 +4,12 @@ var HtmlHandler = pc.createScript('htmlHandler');
 HtmlHandler.prototype.initialize = function() {
     var viewportHeight = $(window).height();
     var HEIGHT_CHANGE_TOLERANCE = 100;
+    var bg = $("#application-canvas");
     function resizeBackground() {
-        var bg = $("#application-canvas");
+        updateSize();
         if (Math.abs(viewportHeight - $(window).height()) > HEIGHT_CHANGE_TOLERANCE) {
             viewportHeight = $(window).height();
-            updateSize()
+            updateSize();
         };
     };
     function updateSize() {
