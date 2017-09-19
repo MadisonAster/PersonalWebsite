@@ -8,13 +8,13 @@ HtmlHandler.prototype.initialize = function() {
         var bg = $("#application-canvas");
         if (Math.abs(viewportHeight - $(window).height()) > HEIGHT_CHANGE_TOLERANCE) {
             viewportHeight = $(window).height();
-            update()
-        }
-    }
-    function update() {
+            updateSize()
+        };
+    };
+    function updateSize() {
         alert(viewportHeight);
         bg.height(window.outerHeight);
-        bg.width(100%);
+        bg.width(window.width);
         //bg.height(window.outerHeight);
         //bg.height(screen.availHeight);
         //bg.width(100%);
@@ -23,9 +23,9 @@ HtmlHandler.prototype.initialize = function() {
         
         //var bg = document.getElementById('application-canvas');
         //bg.setAttribute("style","width:500px;height:500px");
-    }
+    };
+    updateSize();
     $(window).resize(resizeBackground);
-    update();
     
     animationLoop();
 };
