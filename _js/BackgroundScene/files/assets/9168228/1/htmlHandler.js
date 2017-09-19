@@ -12,10 +12,10 @@ HtmlHandler.prototype.initialize = function() {
         //alert($(window).outerHeight());   //ff 1456 1571 cr 1436      wi
         //alert($(window).height());        //ff 1456 1571 cr 1436      wi
         //alert($(document).height());      //ff 6942 7056 cr 6393      wi
-        //alert(screen.height+' '+window.devicePixelRatio+' '+window.screenTop);
-        alert($(window).width());
+        //alert($(window).width());         //ff 980       cr 980       wi 941  1903
         //alert(screen.width);        //ff 408       cr 412       wi 1920
-        return 1456;
+        alert(window.devicePixelRatio);
+        return 1571;
     };
     var viewportHeight = GetHeight();
     var bg = $("#application-canvas");
