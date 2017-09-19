@@ -8,7 +8,7 @@ HtmlHandler.prototype.initialize = function() {
     };
     function GetWidth() {
         if (window.orientation == 0 || window.orientation == 180) { //Portrait Mode
-            return $(window).width();
+            alert('portrait');
         }
         else if (window.orientation == 90 || window.orientation == -90) { //Landscape Mode
             return $(window).width();
@@ -26,7 +26,7 @@ HtmlHandler.prototype.initialize = function() {
         //alert($(document).height());      //ff 6942 7056 cr 6393      wi
         //alert($(window).width());         //ff 980       cr 980       wi 941  1903
         //alert(screen.width);        //ff 408       cr 412       wi 1920
-        
+        GetWidth()
         bg.css('width', '100%');
         //alert(bg.width());
         return bg.width()*GetAspectRatio();
