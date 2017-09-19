@@ -6,11 +6,11 @@ HtmlHandler.prototype.initialize = function() {
         return screen.height / screen.width;
     };
     function GetWidth() {
-        if (window.orientation == 0 || window.orientation == 180) { //Landscape Mode
-            return $(window).height();
-        }
-        else if (window.orientation == 90 || window.orientation == -90) { //Portrait Mode
+        if (window.orientation == 0 || window.orientation == 180) { //Portrait Mode
             return $(window).width();
+        }
+        else if (window.orientation == 90 || window.orientation == -90) { //Landscape Mode
+            return $(window).height();
         }
     }
     function GetHeight() {
