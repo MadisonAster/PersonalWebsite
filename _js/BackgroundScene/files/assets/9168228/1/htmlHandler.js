@@ -18,6 +18,8 @@ HtmlHandler.prototype.initialize = function() {
         //alert($(window).width());         //ff 980       cr 980       wi 941  1903
         //alert(screen.width);        //ff 408       cr 412       wi 1920
         
+        bg.width($(window).width());
+        alert($(window).width());
         bg.css('width', '100%');
         alert(bg.width());
         return bg.width()*GetAspectRatio();
