@@ -20,16 +20,12 @@ function Links_onload(){
 };
 
 function cache_delayed(){
-    //if(window.cacheCounter >= 50){
-        console.log('Replacing Buffer Images.');
-        $('.load-delay').each(function (){
-            var imagex = $(this);
-            var imgOriginal = imagex.data('original');
-            $(imagex).attr('src', imgOriginal);
-        });
-    //}else{
-    //    setTimeout(cache_delayed, 50);
-    //};
+    console.log('Replacing Buffer Images.');
+    $('.load-delay').each(function (){
+        var imagex = $(this);
+        var imgOriginal = imagex.data('original');
+        $(imagex).attr('src', imgOriginal);
+    });
 };
 
 function resortGrid(GridObject){
