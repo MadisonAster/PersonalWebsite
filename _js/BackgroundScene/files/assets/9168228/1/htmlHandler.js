@@ -7,7 +7,8 @@ HtmlHandler.prototype.initialize = function() {
         //alert(window.outerHeight);        //ff 606  654  cr 604  660  wi
         //alert(screen.availHeight);        //ff 678       cr 732       wi
         //alert(screen.height);             //ff 678       cr 732       wi 1080
-        alert(window.screen.height);        //ff 678       cr 732       wi 1080
+        //alert(window.screen.height);      //ff 678       cr 732       wi 1080
+        alert(screen.width);        //ff 678       cr 732       wi 1080
         //alert(document.body.clientHeight);//ff 1456 1571 cr 1436      wi
         //alert($(window).outerHeight());   //ff 1456 1571 cr 1436      wi
         //alert($(window).height());        //ff 1456 1571 cr 1436      wi
