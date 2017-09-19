@@ -13,8 +13,7 @@ HtmlHandler.prototype.initialize = function() {
         //alert($(window).height());        //ff 1456 1571 cr 1436      wi
         //alert($(document).height());      //ff 6942 7056 cr 6393      wi
         //alert(screen.height+' '+window.devicePixelRatio+' '+window.screenTop);
-        alert(getWindowManager().getDefaultDisplay().getHeight());
-        alert(getWindowManager().getDefaultDisplay().getWidth());
+        alert($(window).width());
         //alert(screen.width);        //ff 408       cr 412       wi 1920
         return 1456;
     };
