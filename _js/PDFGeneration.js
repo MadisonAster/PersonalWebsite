@@ -69,7 +69,7 @@ function ResumeSetup(){
     doc.setTextColor(89, 92, 98);
     
     doc.setFillColor(255, 0, 0);
-    doc.rect(500, 20, 500, 200, 'F');
+    doc.rect(0, 0, 500, 100, 'F');
     
     return doc;
 }
