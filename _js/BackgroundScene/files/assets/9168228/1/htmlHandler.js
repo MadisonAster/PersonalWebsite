@@ -10,7 +10,7 @@ HtmlHandler.prototype.initialize = function() {
             return $(window).width();
         }
         else if (window.orientation == 90 || window.orientation == -90) { //Landscape Mode
-            return $(window).height();
+            return $(window).width();
         }
     }
     function GetHeight() {
