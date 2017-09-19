@@ -16,8 +16,9 @@ HtmlHandler.prototype.initialize = function() {
         //alert(window.outerHeight); ff 606 654 cr 604 660
         //alert(screen.availHeight); ff 678 cr 732
         //alert($(window).outerHeight()); ff 1456 1571 cr 1436
-        //alert(document.body.clientHeight); ff 1456 1571
-        alert('d '+document.body.clientHeight);
+        //alert(document.body.clientHeight); ff 1456 1571 cr 1436
+        //alert($(document).height());
+        alert('e '+$(document).height());
         bg.height(window.outerHeight);
         bg.width(window.width);
         //bg.height(window.outerHeight);
