@@ -9,8 +9,8 @@ HtmlHandler.prototype.initialize = function() {
         //bg.height(window.outerHeight);
         //bg.height(screen.availHeight);
         //bg.width(screen.width);
-        bg.height(500);
-        bg.width(500);
+        bg.height(400);
+        bg.width(400);
     }
     $(window).resize(resizeBackground);
     resizeBackground();
