@@ -6,7 +6,7 @@ $files = glob($SeqPath . "*.webp");
 $firstFrame = $files[0];
 $lastFrame = $files[count($files) - 1];
 
-echo "    <img id='BackgroundImg1' class='BackgroundImg' src='./_Assets/Stills/NameTitle.png'";
+echo "    <img id='NameImg' class='BackgroundImg' src='./_Assets/Stills/NameTitle.png'";
 
 echo " about='";
 $array = explode('.' , $firstFrame);
