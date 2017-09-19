@@ -48,6 +48,7 @@ pc.script.createLoadingScreen(function (app) {
             '}',
 
             '#application-splash-wrapper {',
+            '    z-index: 2;',
             '    position: absolute;',
             '    top: 0;',
             '    left: 0;',
