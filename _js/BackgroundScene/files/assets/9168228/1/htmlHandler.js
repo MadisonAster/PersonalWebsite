@@ -14,8 +14,10 @@ HtmlHandler.prototype.initialize = function() {
         //bg.height(475);
         //bg.width(475);
         
+        alert('heyo!');
         var bg = document.getElementById('application-canvas');
         bg.setAttribute("style","width:500px;height:500px");
+        
     }
     $(window).resize(resizeBackground);
     resizeBackground();
