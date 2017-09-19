@@ -2,6 +2,13 @@ var HtmlHandler = pc.createScript('htmlHandler');
 
 // initialize code called once per entity
 HtmlHandler.prototype.initialize = function() {
+    function GetAspectRatio() {
+        if(screen.width > screen.height) {
+            return screen.width / screen.height;
+        } else {
+            return screen.height / screen.width;
+        };
+    };
     function GetHeight() {
         //alert(window.height);             //ff 20        cr 3417      wi
         //alert(window.outerHeight);        //ff 606  654  cr 604  660  wi
@@ -14,9 +21,7 @@ HtmlHandler.prototype.initialize = function() {
         //alert($(document).height());      //ff 6942 7056 cr 6393      wi
         //alert($(window).width());         //ff 980       cr 980       wi 941  1903
         //alert(screen.width);        //ff 408       cr 412       wi 1920
-        alert(screen.width+' '+screen.height);
-        alert(screen.width/screen.height);
-        alert(screen.height/screen.width);
+        alert(GetAspectRatio());
         return 1571;
     };
     var viewportHeight = GetHeight();
