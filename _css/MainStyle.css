@@ -152,6 +152,7 @@ th:active,
     
     margin: 5px;
     box-shadow: 0 0 20px rgba(0,0,0,0.4);
+    float:left;
 }
 .slideshow > div {
     position: absolute;
@@ -160,15 +161,7 @@ th:active,
     right: 10px;
     bottom: 10px;
 }
-.slide{
-    position:relative;
-    left:0;
-    top:0;
-    width:28.44vw;
-    height:16vw;
-    min-width:150px;
-    float:left;
-}
+
 
 .slideimg{
     position:absolute;
