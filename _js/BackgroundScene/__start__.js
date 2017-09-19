@@ -47,12 +47,13 @@
             css += "}";
 
         // append css to style
-        if (document.head.querySelector) {
-            document.head.querySelector('style').innerHTML += css;
-        }
+        //if (document.head.querySelector) {
+        //    document.head.querySelector('style').innerHTML += css;
+        //}
     };
 
     var reflow = function () {
+        /*
         var size = app.resizeCanvas(canvas.width, canvas.height);
         canvas.style.width = '';
         canvas.style.height = '';
@@ -66,6 +67,7 @@
                 canvas.style.marginTop = '';
             }
         }
+        */
     };
 
     var displayError = function (html) {
@@ -123,8 +125,8 @@
         configureCss(app._fillMode, app._width, app._height);
         reflow();
 
-        window.addEventListener('resize', reflow, false);
-        window.addEventListener('orientationchange', reflow, false);
+        //window.addEventListener('resize', reflow, false);
+        //window.addEventListener('orientationchange', reflow, false);
 
         app.preload(function (err) {
             if (err) {
