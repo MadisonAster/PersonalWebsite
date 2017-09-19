@@ -5,6 +5,14 @@ HtmlHandler.prototype.initialize = function() {
     function GetAspectRatio() {
         return screen.height / screen.width;
     };
+    function GetWidth() {
+        if (window.orientation == 0 || window.orientation == 180) { //Landscape Mode
+            return $(window).height();
+        }
+        else if (window.orientation == 90 || window.orientation == -90) { //Portrait Mode
+            return $(window).width();
+        }
+    }
     function GetHeight() {
         //alert(window.height);             //ff 20        cr 3417      wi
         //alert(window.outerHeight);        //ff 606  654  cr 604  660  wi
@@ -18,10 +26,10 @@ HtmlHandler.prototype.initialize = function() {
         //alert($(window).width());         //ff 980       cr 980       wi 941  1903
         //alert(screen.width);        //ff 408       cr 412       wi 1920
         
-        bg.width($(window).width());
-        alert($(window).width());
-        bg.css('width', '100%');
-        alert(bg.width());
+        bg.width(GetWidth());
+        alert(GetWidth());
+        //bg.css('width', '100%');
+        //alert(bg.width());
         return bg.width()*GetAspectRatio();
     };
     var bg = $("#application-canvas");
