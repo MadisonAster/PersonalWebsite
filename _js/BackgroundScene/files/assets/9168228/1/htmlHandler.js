@@ -7,8 +7,10 @@ HtmlHandler.prototype.initialize = function() {
     var bg = $("#application-canvas");
     function resizeBackground() {
         //bg.height(window.outerHeight);
-        bg.height(screen.availHeight);
-        bg.width(screen.width);
+        //bg.height(screen.availHeight);
+        //bg.width(screen.width);
+        bg.height(500);
+        bg.width(500);
     }
     $(window).resize(resizeBackground);
     resizeBackground();
