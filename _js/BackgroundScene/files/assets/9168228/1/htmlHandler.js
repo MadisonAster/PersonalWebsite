@@ -3,15 +3,16 @@ var HtmlHandler = pc.createScript('htmlHandler');
 // initialize code called once per entity
 HtmlHandler.prototype.initialize = function() {
     function GetHeight() {
-        //alert(window.height);             //ff 20        cr 3417
-        //alert(window.outerHeight);        //ff 606  654  cr 604  660
-        //alert(screen.availHeight);        //ff 678       cr 732
-        //alert(screen.height);               //ff 678       cr 732
-        //alert(document.body.clientHeight);//ff 1456 1571 cr 1436
-        //alert($(window).outerHeight());   //ff 1456 1571 cr 1436
-        //alert($(window).height());        //ff 1456 1571 cr 1436
-        //alert($(document).height());      //ff 6942 7056 cr 6393
-        alert(screen.height+' '+window.devicePixelRatio+' '+window.screenTop);
+        //alert(window.height);             //ff 20        cr 3417      wi
+        //alert(window.outerHeight);        //ff 606  654  cr 604  660  wi
+        //alert(screen.availHeight);        //ff 678       cr 732       wi
+        //alert(screen.height);             //ff 678       cr 732       wi 1080
+        alert(window.screen.height);        //ff 678       cr 732       wi 1080
+        //alert(document.body.clientHeight);//ff 1456 1571 cr 1436      wi
+        //alert($(window).outerHeight());   //ff 1456 1571 cr 1436      wi
+        //alert($(window).height());        //ff 1456 1571 cr 1436      wi
+        //alert($(document).height());      //ff 6942 7056 cr 6393      wi
+        //alert(screen.height+' '+window.devicePixelRatio+' '+window.screenTop);
         return 1456;
     };
     var viewportHeight = GetHeight();
