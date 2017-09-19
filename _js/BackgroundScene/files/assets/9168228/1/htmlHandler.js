@@ -7,23 +7,25 @@ HtmlHandler.prototype.initialize = function() {
     function resizeBackground() {
         var bg = $("#application-canvas");
         if (Math.abs(viewportHeight - $(window).height()) > HEIGHT_CHANGE_TOLERANCE) {
-            alert(viewportHeight);
             viewportHeight = $(window).height();
-            bg.height(window.outerHeight);
-            bg.width(100%);
+            update()
         }
+    }
+    function update() {
+        alert(viewportHeight);
+        bg.height(window.outerHeight);
+        bg.width(100%);
         //bg.height(window.outerHeight);
         //bg.height(screen.availHeight);
         //bg.width(100%);
         //bg.height(475);
         //bg.width(475);
         
-        //alert('heyo!');
         //var bg = document.getElementById('application-canvas');
         //bg.setAttribute("style","width:500px;height:500px");
     }
     $(window).resize(resizeBackground);
-    resizeBackground();
+    update();
     
     animationLoop();
 };
