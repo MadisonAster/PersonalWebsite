@@ -4,13 +4,18 @@ var HtmlHandler = pc.createScript('htmlHandler');
 HtmlHandler.prototype.initialize = function() {
     animationLoop();
     
-    var bg = $("#application-canvas");
+    
     function resizeBackground() {
         //bg.height(window.outerHeight);
         //bg.height(screen.availHeight);
         //bg.width(screen.width);
-        bg.height(475);
-        bg.width(475);
+        
+        //var bg = $("#application-canvas");
+        //bg.height(475);
+        //bg.width(475);
+        
+        var bg = document.getElementById('application-canvas');
+        bg.setAttribute("style","width:500px;height:500px");
     }
     $(window).resize(resizeBackground);
     resizeBackground();
