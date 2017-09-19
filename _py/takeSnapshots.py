@@ -68,6 +68,7 @@ def getAndSanitizeHTML(url):
     
     html = html.replace('href="/', 'href="'+domain)
     html = html.replace("href='/", "href='"+domain)
+    html = html.replace("<a", "<a target='_blank'")
     
     expression = re.compile('action=[\'"]/.*?[\'"]')
     html = re.sub(expression, 'action="'+url+'"', html)
