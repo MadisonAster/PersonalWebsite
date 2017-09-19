@@ -6,7 +6,7 @@ HtmlHandler.prototype.initialize = function() {
         //alert(window.height);              ff 20        cr 3417
         //alert(window.outerHeight);         ff 606  654  cr 604  660
         //alert(screen.availHeight);         ff 678       cr 732
-        //alert(screen.height);              ff 678       cr 732
+        alert(screen.height);              ff 678       cr 732
         //alert(document.body.clientHeight); ff 1456 1571 cr 1436
         //alert($(window).outerHeight());    ff 1456 1571 cr 1436
         //alert($(window).height());         ff 1456 1571 cr 1436
