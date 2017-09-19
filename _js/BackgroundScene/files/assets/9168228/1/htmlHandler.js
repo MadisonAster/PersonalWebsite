@@ -14,7 +14,7 @@ HtmlHandler.prototype.initialize = function() {
     };
     function updateSize() {
         //alert(window.outerHeight); ff 606 654 cr 604 660
-        alert(window.availHeight);
+        alert(screen.availHeight);
         bg.height(window.outerHeight);
         bg.width(window.width);
         //bg.height(window.outerHeight);
