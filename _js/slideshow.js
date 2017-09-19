@@ -6,5 +6,6 @@ setInterval(function() {
     .next()
     .fadeIn(1000)
     .end()
-    //.appendTo('#slideshow');
+    .appendTo(parent);
+    //.appendTo('.slideshow');
 }, 3000);
