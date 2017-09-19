@@ -28,8 +28,9 @@ HtmlHandler.prototype.initialize = function() {
         //alert(screen.width);        //ff 408       cr 412       wi 1920
         //GetWidth()
         bg.css('width', '100%');
+        bg.css('height', '100%');
         //alert(bg.width());
-        return bg.width()*GetAspectRatio();
+        //return bg.width()*GetAspectRatio();
     };
     var bg = $("#application-canvas");
     var viewportHeight = GetHeight();
