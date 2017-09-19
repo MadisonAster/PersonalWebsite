@@ -1,11 +1,11 @@
 var HtmlHandler = pc.createScript('htmlHandler');
 
 // initialize code called once per entity
+function GetAspectRatio() {
+    return screen.height / screen.width;
+};
 HtmlHandler.prototype.initialize = function() {
-    function GetAspectRatio() {
-        //return 1.777777777;
-        return screen.height / screen.width;
-    };
+    
     function GetWidth() {
         if (window.orientation == 0 || window.orientation == 180) { //Portrait Mode
             alert('portrait');
@@ -64,6 +64,7 @@ var runOnScroll = function(evt) {
     var farval = 2*(Math.min(ypos, 385))/-3.85+200+1;
     cam.script.dof.onAttributeChanged('far', farval); //why?
     cam.script.dof.far = farval;
+    cam.aspectRatio = GetAspectRatio();
 };
 function animationLoop(){
     requestAnimFrame(animationLoop);
