@@ -23,9 +23,10 @@ $(document).keyup(function(){
     cntrlIsPressed = false;
 });
 var cntrlIsPressed = false;
-
+alert('test');
+console.log('hello iframe');
 // check if page is loaded inside an Iframe?
-if(inIframe()){
+//if(inIframe()){
     // is the CTRL key pressed?
     if(cntrlIsPressed){
         // CTRL key is pressed, so link will open in a new tab/window so no need to append the URL of the link
@@ -52,7 +53,7 @@ if(inIframe()){
             }
         });
     }
-}
+//}
 </script>
 
     <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-26a5c0144c2d85d7acf923bdd189f2a77e9261997e8a7e3ce506ac91d8a92cf0.css" media="all" rel="stylesheet" />
