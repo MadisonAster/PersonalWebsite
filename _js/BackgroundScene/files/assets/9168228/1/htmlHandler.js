@@ -21,7 +21,7 @@ HtmlHandler.prototype.initialize = function() {
         //alert($(window).outerHeight());    ff 1456 1571 cr 1436
         //alert($(window).height());         ff 1456 1571 cr 1436
         //alert($(document).height());       ff 6942 7056 cr 6393
-        alert('h '+screen.height*window.devicePixelRatio);
+        alert('h '+window.devicePixelRatio);
         bg.height(viewportHeight);
         bg.width(window.width);
         //bg.height(window.outerHeight);
