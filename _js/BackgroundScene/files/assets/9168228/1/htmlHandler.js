@@ -5,17 +5,18 @@ function GetAspectRatio() {
     return screen.height / screen.width;
 };
 HtmlHandler.prototype.initialize = function() {
-    
-    function GetWidth() {
-        if (window.orientation == 0 || window.orientation == 180) { //Portrait Mode
-            alert('portrait');
-        }
-        else if (window.orientation == 90 || window.orientation == -90) { //Landscape Mode
-            return $(window).width();
-        }
-    }
     function GetHeight() {
-        //alert(window.height);             //ff 20        cr 3417      wi
+        return screen.height
+    };
+    var bg = $("#application-canvas");
+    var viewportHeight = GetHeight();
+    function resizeBackground() {
+        if (viewportHeight != GetHeight()) {
+            viewportHeight = GetHeight();
+            updateSize();
+        };
+    };
+    function updateSize() {//alert(window.height);             //ff 20        cr 3417      wi
         //alert(window.outerHeight);        //ff 606  654  cr 604  660  wi
         //alert(screen.availHeight);        //ff 678       cr 732       wi
         //alert(screen.height);             //ff 678       cr 732       wi 1080
@@ -26,25 +27,9 @@ HtmlHandler.prototype.initialize = function() {
         //alert($(document).height());      //ff 6942 7056 cr 6393      wi
         //alert($(window).width());         //ff 980       cr 980       wi 941  1903
         //alert(screen.width);        //ff 408       cr 412       wi 1920
-        //GetWidth()
         bg.css('width', '100%');
         bg.css('height', '110%');
-        var cam = pc.app.root.findByName('camera');
-        cam.rect = pc.Vec4(0, 0, GetAspectRatio(), 1);
-        //alert(bg.width());
-        //return bg.width()*GetAspectRatio();
-    };
-    var bg = $("#application-canvas");
-    var viewportHeight = GetHeight();
-    function resizeBackground() {
-        if (viewportHeight != GetHeight()) {
-            viewportHeight = GetHeight();
-            updateSize();
-        };
-    };
-    
-    function updateSize() {
-        bg.height(viewportHeight);
+        //bg.height(viewportHeight);
     };
     updateSize();
     $(window).resize(resizeBackground);
