@@ -7,5 +7,6 @@ setInterval(function() {
     .fadeIn(1000)
     .end()
     //.appendTo(parent);
-    .appendTo('#slideshow');
+    .appendTo($(this).parent());
+    //.appendTo('#slideshow');
 }, 3000);
