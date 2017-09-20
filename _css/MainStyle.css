@@ -163,7 +163,7 @@ th:active,
 }
 
 
-.slideshow > img {
+.slideshow > div > img {
     position:absolute;
     left:0;
     top:0;
