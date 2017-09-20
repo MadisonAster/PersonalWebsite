@@ -1,6 +1,6 @@
 <?php
-$ProjectContent = file("./_Assets/Projects/EmulatorTouchController/content.html");
-$ShortDescription = file("./_Assets/Projects/EmulatorTouchController/Description.txt");
+$ProjectContent = file("./_Assets/Projects/Media App Pyside Library/content.html");
+$ShortDescription = file("./_Assets/Projects/Media App Pyside Library/Description.txt");
 foreach ($ProjectContent as &$ProjectValue) {
     if(strpos($ProjectValue,"{ShortDescription}") !== false){
         foreach ($ShortDescription as &$ShortDescriptionLine) {

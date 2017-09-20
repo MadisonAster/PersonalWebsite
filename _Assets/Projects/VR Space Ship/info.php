@@ -1,6 +1,6 @@
 <?php
-$ProjectContent = file("./_Assets/Projects/FanControl/content.html");
-$ShortDescription = file("./_Assets/Projects/FanControl/Description.txt");
+$ProjectContent = file("./_Assets/Projects/VR Space Ship/content.html");
+$ShortDescription = file("./_Assets/Projects/VR Space Ship/Description.txt");
 foreach ($ProjectContent as &$ProjectValue) {
     if(strpos($ProjectValue,"{ShortDescription}") !== false){
         foreach ($ShortDescription as &$ShortDescriptionLine) {

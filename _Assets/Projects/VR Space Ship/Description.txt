@@ -1,0 +1,6 @@
+I use a microsoft surface as my primary laptop/tablet device, and for some time I wanted to play emulated games using touchscreen controls. Because I couldn't find anything I built this touchscreen controller for Nestopia.
+
+I modified the nestopia source code to accept input from outside programs, and then used the PySide Qt library for the controller window. The difficult part was actually splitting the controller into two parts. Windows has this convention of only having 1 active window at a time, and so my first attempt at this failed when I split the controller into two windows. What would happen is that while holding one of the dpad buttons, pressing the a or b button would deactivate the window with the dpad and activate the other one.
+
+Simultaneous button presses are pretty necessary to get my nostalgia fix, so I finally solved the problem by making it one large window with a transparent section in the middle.
+
