@@ -5,9 +5,9 @@ setInterval(function() {
     .fadeOut(1000)
     .next()
     .fadeIn(1000)
-    .end();
-    //.appendTo('#slideshow');
-    $('.slideshow > div:first').each(function(){
-        $(this).appendTo($(this).parent());
-    });
+    .end()
+    .appendTo('#slideshow');
+    //$('.slideshow > div:first').each(function(){
+    //    $(this).appendTo($(this).parent());
+    //});
 }, 3000);
