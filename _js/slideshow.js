@@ -5,12 +5,9 @@ setInterval(function() {
     .fadeOut(1000)
     .next()
     .fadeIn(1000)
-    .end()
-    
+    .end();
+    //.appendTo('#slideshow');
     $('.slideshow > div:first').each(function(){
         $(this).appendTo($(this).parent());
     });
-    //.appendTo(parent);
-    //.appendTo($(this).parent());
-    //.appendTo('#slideshow');
 }, 3000);
