@@ -17,6 +17,6 @@ setInterval(function() {
     .next()
     .fadeIn(1000)
     .end()
-    .appendTo('#slideshow');
-    //adiv.appendTo($(this).parent());
+    .appendTo($(this).parent());
+    //.appendTo('#slideshow');
 }, 3000);
