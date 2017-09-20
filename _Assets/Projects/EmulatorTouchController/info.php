@@ -1,6 +1,6 @@
 <?php
-$ProjectContent = file("./_Assets/Projects/NintendoEmulationTouchController/content.html");
-$ShortDescription = file("./_Assets/Projects/NintendoEmulationTouchController/Description.txt");
+$ProjectContent = file("./_Assets/Projects/EmulatorTouchController/content.html");
+$ShortDescription = file("./_Assets/Projects/EmulatorTouchController/Description.txt");
 foreach ($ProjectContent as &$ProjectValue) {
     if(strpos($ProjectValue,"{ShortDescription}") !== false){
         foreach ($ShortDescription as &$ShortDescriptionLine) {
