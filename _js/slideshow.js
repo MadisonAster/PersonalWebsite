@@ -12,7 +12,7 @@ setInterval(function() {
     //$('.slideshow > div:first').each(function(){
     //    $(this).appendTo($(this).parent());
     //});
-    var adiv = $('.slideshow > div:first')
+    var adiv = $('.slideshow > div:first');
     adiv.fadeOut(1000)
     .next()
     .fadeIn(1000)
