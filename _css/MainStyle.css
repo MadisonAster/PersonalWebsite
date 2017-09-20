@@ -161,8 +161,6 @@ th:active,
     right: 10px;
     bottom: 10px;
 }
-
-
 .slideshow > div > img {
     position:absolute;
     left:0;
