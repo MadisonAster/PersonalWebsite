@@ -1,16 +1,9 @@
 Nov 17, 2016
-
 I've had all of my computers in this equipment rack for a while, but heat dissipation has continued to be an issue. The rack itself has an array of fan holes built into the top, so I filled them with 12 inch pwm fans. The idea is to suck air in the front of the rack, blow it through the machines, then out the top in the rear of the rack to be piped out the window through a 4 inch hose. The only issue? Controlling so many fans not connected to a mounted machine.
-
 I ended up deciding to use a raspberry pi with one of their 7 inch touch screens. I wired all the fans up through an array of optocouplers so that the pi could be electrically isolated from the fans. For the actual pwm part I'm using pi blaster, which allows you to configure each gpio pin to act as an individual pwm device without hitting the cpu. You can find that here:
-
 <a target='_blank' href='https://github.com/sarfata/pi-blaster'>https://github.com/sarfata/pi-blaster</a>
-
 The fans themselves are on a 12v power supply, and every time the software pulses the gpio pin on one of the optocouplers it connects the 5v signal pwm pin from one of the fans to the 12v ground changing the speed of the fan.
-
 The last part of the puzzle was constructing the gui for the pi itself. I used pyside again for its ease of use, and simply hooked everything up to a bunch of virtual sliders, and voila!
-
 You can fork a copy of the gui here if you like:
-
 <a target='_blank'  href='https://github.com/ThomasMcVay/FanControl'>https://github.com/ThomasMcVay/FanControl</a>
  
