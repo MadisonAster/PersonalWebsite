@@ -1,4 +1,10 @@
-This is a sample playlist of 60fps stereo 8k 360 test renders I recently created from unreal engine. The content is all sample content available on the Unreal marketplace.
+This is a sample playlist of 60fps stereo 8k 360 test renders I created on request while working at Cognition. The content is all sample content available on the Unreal marketplace.
 The intent here is to test stitching quality of the sampling size, artifacts with post process effects, convergence issues, compression issues, bandwidth limitations, and Ambisonic audio issues.
 You likely will not even be offered the option to play back the 8k version of the files, and only the a gtx 1080 or better will have the throughput to play them back, but they are available for download from the youtube servers. Simply follow the instructions on the video descriptions.
 You'll also notice the compression artifacts are horrible. These uploads were from completely uncompressed files, and this is youtube's standard h264 compression. You may see better results on other 360 videos, but don't be fooled, almost every body is using 100% static cameras in every shot to hide this issue.
+I didn't write the code to do this from scratch, simply improved and refined the built in Stereo Panorama Plugin for it, as well as wrote a deadline integration for Unreal Engine so that the insane amount of data could be rendered across a farm of computers.
+I've made a pull request for the unreal team to accept my changes that you can check out here if you have access to their source:
+<a target='_blank'  href='https://github.com/EpicGames/UnrealEngine/pull/2846
+'>https://github.com/EpicGames/UnrealEngine/pull/2846
+</a>
+ 
