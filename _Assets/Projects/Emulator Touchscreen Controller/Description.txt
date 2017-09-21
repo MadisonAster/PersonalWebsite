@@ -1,6 +1,13 @@
-I use a microsoft surface as my primary laptop/tablet device, and for some time I wanted to play emulated games using touchscreen controls. Because I couldn't find anything I built this touchscreen controller for Nestopia.
+Feb 13, 2015
 
-I modified the nestopia source code to accept input from outside programs, and then used the PySide Qt library for the controller window. The difficult part was actually splitting the controller into two parts. Windows has this convention of only having 1 active window at a time, and so my first attempt at this failed when I split the controller into two windows. What would happen is that while holding one of the dpad buttons, pressing the a or b button would deactivate the window with the dpad and activate the other one.
+I recently switched to a microsoft surface as my primary laptop/tablet device, and I've had some nostalgia cravings. I decided I really wanted an emulator to play using the windows touchscreen. Because I couldn't find any software suited to this I used my pyside skills to build this touchscreen controller for Nestopia, an open source NES emulator.
 
-Simultaneous button presses are pretty necessary to get my nostalgia fix, so I finally solved the problem by making it one large window with a transparent section in the middle.
+I modified the nestopia source code to accept input from outside programs, and then used the PySide Qt library for the controller window. The initial window design wasn't too complex, basically just a straight controller device. However I don't use the tablet in portrait mode that often, so I really wanted something that I could use from both edges of the screen.
 
+Splitting the controller into two parts was actually a bit harder then I thought it would be. Windows has this convention of only having 1 active window at a time, and so my first attempt at this failed when I split the controller into two windows. What would happen is that while holding one of the dpad buttons, pressing the a or b button would deactivate the window with the dpad and activate the other one.
+
+Simultaneous button presses are pretty necessary to get the controls working smoothly, so I finally solved the problem by making it one large window with a transparent section in the middle. I had concerns that this would cause some screen tearing issues or affect the rendering in some other way, but windows 8.1 handled it like a champ.
+
+I'd love to distribute this somewhere, but there's some pretty obvious copyright issues with the nintendo logo and the image of the controller, and while I could redesign it, that kind of destroys the nostalgia.
+
+Now if I could just figure out a way to do the L and R buttons for Super Nintendo...
