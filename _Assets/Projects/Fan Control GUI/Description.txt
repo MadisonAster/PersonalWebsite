@@ -4,7 +4,7 @@ I've had all of my computers in this equipment rack for a while, but heat dissip
 
 I ended up deciding to use a raspberry pi with one of their 7 inch touch screens. I wired all the fans up through an array of optocouplers so that the pi could be electrically isolated from the fans. For the actual pwm part I'm using pi blaster, which allows you to configure each gpio pin to act as an individual pwm device without hitting the cpu. You can find that here:
 
-<a href='https://github.com/sarfata/pi-blaster'>https://github.com/sarfata/pi-blaster</a>
+<a target='_blank' href='https://github.com/sarfata/pi-blaster'>https://github.com/sarfata/pi-blaster</a>
 
 The fans themselves are on a 12v power supply, and every time the software pulses the gpio pin on one of the optocouplers it connects the 5v signal pwm pin from one of the fans to the 12v ground changing the speed of the fan.
 
@@ -12,5 +12,5 @@ The last part of the puzzle was constructing the gui for the pi itself. I used p
 
 You can fork a copy of the gui here if you like:
 
-<a href='https://github.com/ThomasMcVay/FanControl'>https://github.com/ThomasMcVay/FanControl</a>
+<a target='_blank'  href='https://github.com/ThomasMcVay/FanControl'>https://github.com/ThomasMcVay/FanControl</a>
  
