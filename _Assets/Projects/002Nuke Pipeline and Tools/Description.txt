@@ -1,6 +1,6 @@
-I use a microsoft surface as my primary laptop/tablet device, and for some time I wanted to play emulated games using touchscreen controls. Because I couldn't find anything I built this touchscreen controller for Nestopia.
-
-I modified the nestopia source code to accept input from outside programs, and then used the PySide Qt library for the controller window. The difficult part was actually splitting the controller into two parts. Windows has this convention of only having 1 active window at a time, and so my first attempt at this failed when I split the controller into two windows. What would happen is that while holding one of the dpad buttons, pressing the a or b button would deactivate the window with the dpad and activate the other one.
-
-Simultaneous button presses are pretty necessary to get my nostalgia fix, so I finally solved the problem by making it one large window with a transparent section in the middle.
+In my work at Lit Post I quickly transitioned from operating as the sole vfx artist on staff, to debugging, troubleshooting, and managing all of our software solutions. For the first year of my work there, the rener farm, IT operations, cabling, and scripting were all covered by myself and my dear friend Gustavo.
+As we grew, and moved to Burbank, the number of Nuke compositing tools that we needed also grew. At our height I wrote and maintained scripts for around 10 artists.
+One of the best refinements I made to our pipeline was what I called a binary bundling system. This takes the entire set of nuke scripts as they currently exists, compiles them into binary code using pythons runtime compiler, and stuffs them into the metadata of the nuke project file. The binary files are then loaded on the fly. 
+This has a number of distinct advantages, outsourced houses can use binary versions of our proprietary tools, clients can be given a working nuke script for archiving on delivery requiring only the appropriate version of nuke to run, and the artists could continue to work even while our network was down.
+It was while working with Nuke on such a consistent basis that I started working with PySide so regularly, and learned a lot about the Qt Library in the process. This knowledge has proved quite valuable.
 
