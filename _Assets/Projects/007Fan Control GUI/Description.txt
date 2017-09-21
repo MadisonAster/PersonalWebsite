@@ -1,4 +1,3 @@
-Nov 17, 2016
 I've had all of my computers in this equipment rack for a while, but heat dissipation has continued to be an issue. The rack itself has an array of fan holes built into the top, so I filled them with 12 inch pwm fans. The idea is to suck air in the front of the rack, blow it through the machines, then out the top in the rear of the rack to be piped out the window through a 4 inch hose. The only issue? Controlling so many fans not connected to a mounted machine.
 I ended up deciding to use a raspberry pi with one of their 7 inch touch screens. I wired all the fans up through an array of optocouplers so that the pi could be electrically isolated from the fans. For the actual pwm part I'm using pi blaster, which allows you to configure each gpio pin to act as an individual pwm device without hitting the cpu. You can find that here:
 <a target='_blank' href='https://github.com/sarfata/pi-blaster'>https://github.com/sarfata/pi-blaster</a>
