@@ -11,6 +11,7 @@ foreach ($content as &$value) {
 
 $blacklist = array('.', '..');
 $Projectdirs = array_filter(glob('./_Assets/Projects/*'), 'is_dir');
+$Projectdirs = array_reverse($Projectdirs, true);
 
 foreach($Projectdirs as &$Projectdir){
     if(!in_array($Projectdir, $blacklist)){
