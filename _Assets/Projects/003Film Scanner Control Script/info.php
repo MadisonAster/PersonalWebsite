@@ -1,6 +1,8 @@
 <?php
-$ProjectContent = file("./_Assets/Projects/VR Virtual Travel Platform/content.html");
-$ShortDescription = file("./_Assets/Projects/VR Virtual Travel Platform/Description.txt");
+echo "<h3 style='text-align:left;'>Dec 04, 2014</h3>\n";
+echo "<br/>\n";
+$ProjectContent = file("./_Assets/Projects/003Film Scanner Control Script/content.html");
+$ShortDescription = file("./_Assets/Projects/003Film Scanner Control Script/Description.txt");
 foreach ($ProjectContent as &$ProjectValue) {
     if(strpos($ProjectValue,"{ShortDescription}") !== false){
         foreach ($ShortDescription as &$ShortDescriptionLine) {

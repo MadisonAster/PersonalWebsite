@@ -1,6 +1,8 @@
 <?php
-$ProjectContent = file("./_Assets/Projects/Nuke Pipeline and Tools/content.html");
-$ShortDescription = file("./_Assets/Projects/Nuke Pipeline and Tools/Description.txt");
+echo "<h3 style='text-align:left;'>Jun 10, 2017</h3>\n";
+echo "<br/>\n";
+$ProjectContent = file("./_Assets/Projects/009This Portfolio Website/content.html");
+$ShortDescription = file("./_Assets/Projects/009This Portfolio Website/Description.txt");
 foreach ($ProjectContent as &$ProjectValue) {
     if(strpos($ProjectValue,"{ShortDescription}") !== false){
         foreach ($ShortDescription as &$ShortDescriptionLine) {
