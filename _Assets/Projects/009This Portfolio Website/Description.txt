@@ -1,6 +1,20 @@
-I use a microsoft surface as my primary laptop/tablet device, and for some time I wanted to play emulated games using touchscreen controls. Because I couldn't find anything I built this touchscreen controller for Nestopia.
+I've put quite a bit of work into refining this website over time. Years ago this thing was entirely built in Flash. When I replaced the code I started constructing it with the idea that everything should have a modular structure. I didn't want to use Django because I felt it would add more complexity than was necessary, so I opted to write the skeleton of it in php.
+I also wanted it to become something that would update on its own, and help chronologe my life with as little work from me as possible. To this end I've added a number of features and python scripts that handle background processes automatically.
+Finally there's the background, I wanted something unique, and I wanted the entire site to be stateless. Because I was working one the Cognition.la website at the time I found this website that I liked:
+<a target='_blank' href='http://www.emergeinteractive.com/demos/javascript-video-scrubber/
+'>http://www.emergeinteractive.com/demos/javascript-video-scrubber/
+</a>
+So I rebuilt the javascript myself, and rendered a background in nuke for it that looks almost exactly like the one you see now. It worked in most desktop browsers, but even with hyper compressed webp images, and stochastic on the fly loading, the final size still wound up being ~100MB. Bad for slow connections, and bringing all mobile devices to their knees.
+A bit wiser these days, I've replaced it with the playcanvas game engine. Which loads in under 5MB, and performs respectably on all platforms.
 
-I modified the nestopia source code to accept input from outside programs, and then used the PySide Qt library for the controller window. The difficult part was actually splitting the controller into two parts. Windows has this convention of only having 1 active window at a time, and so my first attempt at this failed when I split the controller into two windows. What would happen is that while holding one of the dpad buttons, pressing the a or b button would deactivate the window with the dpad and activate the other one.
+Current Cool Features:
+* Fully Stateless pages
+* Automatically adds a new page for any new folder that I add
+* Automatically Grabs IMDB and GitHub snapshots for embedded pages
+* Automatically Generates customized resume and cv pdf files with embedded data from site
+* Automatically adds new projects for each new projects subfolder
+* Automatically catalogs my favorite TV shows and movies.
 
-Simultaneous button presses are pretty necessary to get my nostalgia fix, so I finally solved the problem by making it one large window with a transparent section in the middle.
-
+Planned Cool Features:
+* Automatically catalog and organize my bookmark collection.
+* Automatically generate randomized DemoReels from a folder of assorted video clips
