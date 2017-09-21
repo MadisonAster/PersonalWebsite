@@ -1,6 +1,5 @@
-I use a microsoft surface as my primary laptop/tablet device, and for some time I wanted to play emulated games using touchscreen controls. Because I couldn't find anything I built this touchscreen controller for Nestopia.
-
-I modified the nestopia source code to accept input from outside programs, and then used the PySide Qt library for the controller window. The difficult part was actually splitting the controller into two parts. Windows has this convention of only having 1 active window at a time, and so my first attempt at this failed when I split the controller into two windows. What would happen is that while holding one of the dpad buttons, pressing the a or b button would deactivate the window with the dpad and activate the other one.
-
-Simultaneous button presses are pretty necessary to get my nostalgia fix, so I finally solved the problem by making it one large window with a transparent section in the middle.
-
+In an effort to turn the Cognition VR Travel application into something marketable I constructed a spaceship from a variety of Licensed assets. The idea being to make a large explorable map in VR that would be cost effective to create.
+In service to this I made heavy use of the SpawnLevelInstance that Rama added to UE4 in 4.16. I constructed classes for ring buffers, and double ended buffers that would spawn sections of the ship in realtime as you walked about. 
+The physics of the ship is that of simulated centrifugal force (Like Babylon 5), so that on the outermost rings you experience 1g outward from the center axis of the ship.
+As you approach the interior of the ship, through stairs, elevators, or ladders, the force is reduced. Then finally you are completely weightless in the core of the ship.
+I only got to add 5 rooms to the ship before running out of time, but it's quite an experience using the virtuix omni and vrexpansion climbing behavior to traverse over such a huge environment.
