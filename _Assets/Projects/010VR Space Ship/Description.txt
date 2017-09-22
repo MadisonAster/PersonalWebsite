@@ -1,4 +1,4 @@
-In an effort to turn the Cognition VR Travel application into something marketable I constructed a spaceship from a variety of Licensed assets. The idea being to make a large explorable map in VR that would be cost effective to create.
+In an effort to add to the Cognition VR Travel application I constructed a spaceship from a variety of Licensed assets. The idea being to make a large explorable map in VR that would be cost effective to create.
 In service to this I made heavy use of the SpawnLevelInstance that Rama added to UE4 in 4.16. I constructed classes for ring buffers, and double ended buffers that would spawn sections of the ship in realtime as you walked about. 
 The physics of the ship is that of simulated centrifugal force (Like Babylon 5), so that on the outermost rings you experience 1g outward from the center axis of the ship.
 As you approach the interior of the ship, through stairs, elevators, or ladders, the force is reduced. Then finally you are completely weightless in the core of the ship.
