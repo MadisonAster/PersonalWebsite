@@ -57,21 +57,21 @@
     padding-top: 212px;
     height: 188px;
     background: #ccc;
-    color: #fff;
+    color: #000;
     text-decoration: none;
     text-shadow: 0 0 1px #000;
-    font: 24px/27px Arial, sans-serif;
+    font: 50px/50px Arial, sans-serif;
     -webkit-box-shadow: 0 0 2px #999;
        -moz-box-shadow: 0 0 2px #999;
             box-shadow: 0 0 2px #999;
 }
 a.jcarousel-control-prev,
 a.jcarousel-control-next {
-    color: #fff;
+    color: #000;
 }
 a.jcarousel-control-prev:visited,
 a.jcarousel-control-next:visited {
-    color: #fff;
+    color: #000;
 }
 .jcarousel-control-prev {
     left: -60px;
