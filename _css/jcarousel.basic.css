@@ -65,8 +65,10 @@
        -moz-box-shadow: 0 0 2px #999;
             box-shadow: 0 0 2px #999;
 }
-.jcarousel-control-prev:a,
-.jcarousel-control-next:a {
+.jcarousel-control-prev a,
+.jcarousel-control-prev a:visited,
+.jcarousel-control-next a,
+.jcarousel-control-next a:visited {
     color: #fff;
 }
 .jcarousel-control-prev {
