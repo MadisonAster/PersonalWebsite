@@ -28,9 +28,9 @@
 }(function($) {
     'use strict';
     var Slick = window.Slick || {};
-
+    alert('Slick Loaded');
     Slick = (function() {
-
+        alert('Slick Instance');
         var instanceUid = 0;
 
         function Slick(element, settings) {
