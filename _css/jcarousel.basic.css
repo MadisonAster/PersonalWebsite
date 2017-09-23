@@ -55,6 +55,7 @@
     width: 45px;
     height: 100%;
     text-align: center;
+    vertical-align: middle; 
     background: #4E443C;
     color: #fff;
     text-decoration: none;
@@ -66,11 +67,11 @@
 }
 
 .jcarousel-control-prev {
-    left: -50px;
+    left: -60px;
 }
 
 .jcarousel-control-next {
-    right: -50px;
+    right: -60px;
 }
 
 .jcarousel-control-prev:hover span,
@@ -90,6 +91,7 @@
     position: absolute;
     bottom: 0;
     left: 15px;
+    background-color:rgba(0,0,0,0.0);
 }
 
 .jcarousel-pagination a {
