@@ -69,6 +69,10 @@ a.jcarousel-control-prev,
 a.jcarousel-control-next {
     color: #fff;
 }
+a.jcarousel-control-prev:visited,
+a.jcarousel-control-next:visited {
+    color: #fff;
+}
 .jcarousel-control-prev {
     left: -60px;
 }
