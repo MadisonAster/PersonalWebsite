@@ -51,7 +51,7 @@
 .jcarousel-control-prev,
 .jcarousel-control-next {
     position: absolute;
-    top: 200px;
+    top: 0;
     width: 45px;
     height: 100%;
     text-align: center;
