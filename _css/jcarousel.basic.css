@@ -54,7 +54,7 @@
     top: 0;
     width: 45px;
     text-align: center;
-    padding-top: 200px;
+    padding-top: 212px;
     height: 188px;
     background: #4E443C;
     color: #fff;
@@ -65,7 +65,10 @@
        -moz-box-shadow: 0 0 2px #999;
             box-shadow: 0 0 2px #999;
 }
-
+.jcarousel-control-prev:a,
+.jcarousel-control-next:a {
+    color: #fff;
+}
 .jcarousel-control-prev {
     left: -60px;
 }
