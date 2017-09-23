@@ -54,12 +54,13 @@
     top: 0;
     width: 45px;
     text-align: center;
-    padding-top: 212px;
-    height: 188px;
-    background: #ccc;
+    padding-top:175px;
+    height: 225px;
+    background: #aaa;
     color: #000;
     text-decoration: none;
     text-shadow: 0 0 1px #000;
+    line-height: 50px;
     font: 50px/50px Arial, sans-serif;
     -webkit-box-shadow: 0 0 2px #999;
        -moz-box-shadow: 0 0 2px #999;
