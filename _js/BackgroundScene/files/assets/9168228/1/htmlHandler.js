@@ -40,10 +40,6 @@ HtmlHandler.prototype.initialize = function() {
 
 // update code called every frame
 HtmlHandler.prototype.update = function(dt) {
-    
-};
-
-var runOnScroll = function(evt) {     
     var cam = pc.app.root.findByName('camera');
     var ypos = Math.min(getYPosition(), 1540);
     
@@ -53,6 +49,20 @@ var runOnScroll = function(evt) {
     var farval = 2*(Math.min(ypos, 385))/-3.85+200+1;
     cam.script.dof.onAttributeChanged('far', farval); //why?
     cam.script.dof.far = farval;
+};
+
+var runOnScroll = function(evt) {     
+    /*
+    var cam = pc.app.root.findByName('camera');
+    var ypos = Math.min(getYPosition(), 1540);
+    
+    var camypos = ypos/-1400+0.454;
+    cam.setPosition(cam.getPosition().x, camypos, cam.getPosition().z); 
+    
+    var farval = 2*(Math.min(ypos, 385))/-3.85+200+1;
+    cam.script.dof.onAttributeChanged('far', farval); //why?
+    cam.script.dof.far = farval;
+    */
 };
 function animationLoop(){
     requestAnimFrame(animationLoop);
