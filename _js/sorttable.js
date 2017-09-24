@@ -20,7 +20,7 @@ var stIsIE = /*@cc_on!@*/false;
 
 sorttable = {
   init: function() {
-    console.log('sorttable init');
+    //console.log('sorttable init');
     // quit if this function has already been called
     if (arguments.callee.done) return;
     // flag this function so we don't do the same thing twice

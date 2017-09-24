@@ -1,5 +1,5 @@
 function Links_onload(){
-    console.log('Links onload');
+    //console.log('Links onload');
     $('#MoviesGrid').shuffle({
         itemSelector: '.picture-item',
         sizer: $('#MoviesGrid').find('.shuffle__sizer'),
@@ -20,7 +20,7 @@ function Links_onload(){
 };
 
 function cache_delayed(){
-    console.log('Replacing Buffer Images.');
+    //console.log('Replacing Buffer Images.');
     $('.load-delay').each(function (){
         var imagex = $(this);
         var imgOriginal = imagex.data('original');
@@ -30,7 +30,7 @@ function cache_delayed(){
 
 function resortGrid(GridObject){
     var sort = $('#'+GridObject.attr('id')+'_sort-options').val();
-    console.log(sort);
+    //console.log(sort);
     opts = {};
       
     lTags = ['title']
