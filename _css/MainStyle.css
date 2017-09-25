@@ -289,7 +289,6 @@ canvas:focus {
 }
 
 .jcarousel img {
-    z-index: 150;
 }
 
 .jcarousel img.zoomed {            
