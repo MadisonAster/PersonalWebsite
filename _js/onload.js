@@ -16,6 +16,8 @@ window.onload = function(){
 $(function() {
     $(document).on('click', '.jcarousel img', function() {
         $(this).toggleClass('zoomed');
+        $(this).css('origwidth', $(this).css('width'));
+        $(this).css('origheight', $(this).css('height'));
         if ($(this).width() > $(this).height()) {
             $(this).css('width', '100%');
             $(this).css('height', 'auto');
@@ -30,8 +32,8 @@ $(function() {
         if (e.keyCode == 27) {
             $('img.zoomed').each(function(idx) {
                 $(this).toggleClass('zoomed');
-                $(this).css('height', 'auto');
-                $(this).css('width', 'auto');
+                $(this).css('height', $(this).css('origheight'));
+                $(this).css('width', $(this).css('origwidth'));
             });
         }
     });
