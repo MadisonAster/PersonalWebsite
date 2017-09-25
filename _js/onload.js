@@ -16,6 +16,13 @@ window.onload = function(){
 $(function() {
     $(document).on('click', '.jcarousel img', function() {
         $(this).toggleClass('zoomed');
+        if ($(this).width() > $(this).height()) {
+            $(this).css('width', '100%');
+            $(this).css('height', 'auto');
+        } else {
+            $(this).css('height', '100%');
+            $(this).css('width', 'auto');
+        }
     });
 });
 $(function() {
