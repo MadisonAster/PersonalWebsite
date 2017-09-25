@@ -290,7 +290,8 @@ canvas:focus {
 
 .jcarousel img {
     display:block;
-    margin:auto;
+    margin-right:auto;
+    margin-left:auto;
     max-width: 100%;
     max-height: 100%;
     top:200px;
