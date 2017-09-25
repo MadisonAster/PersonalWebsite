@@ -302,6 +302,6 @@ canvas:focus {
     max-width: 90vw;
     max-height: 90vh;
     margin: auto;
-    border: 4px solid #000
+    border: 4px solid #000;
     z-index: 150;
 }
