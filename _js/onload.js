@@ -30,6 +30,8 @@ $(function() {
         if (e.keyCode == 27) {
             $('img.zoomed').each(function(idx) {
                 $(this).toggleClass('zoomed');
+                $(this).css('height', 'auto');
+                $(this).css('width', 'auto');
             });
         }
     });
