@@ -225,7 +225,7 @@ th:active,
     height:100%;
 }
 #ContentContainer{
-    z-index:0;
+    z-index:auto;
     position:absolute;
     top:100%;
     left:10%;
@@ -289,9 +289,11 @@ canvas:focus {
 }
 
 .jcarousel img {
+    z-index: 150;
 }
 
-.jcarousel img.zoomed {
+.jcarousel img.zoomed {            
+    z-index: 150;
     position: fixed;
     top: 5vh;
     bottom: 5vh;
@@ -310,6 +312,4 @@ canvas:focus {
     -webkit-box-shadow: 0 0 2px #999;
        -moz-box-shadow: 0 0 2px #999;
             box-shadow: 0 0 2px #999;
-            
-    z-index: 150;
 }
