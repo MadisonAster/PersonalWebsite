@@ -14,7 +14,7 @@ window.onload = function(){
     };
 };
 $(function() {
-    $(document).on('click', 'jcarousel img', function() {
+    $(document).on('click', '.jcarousel img', function() {
         $(this).toggleClass('zoomed');
     });
 });
