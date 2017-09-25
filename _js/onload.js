@@ -17,7 +17,7 @@ $(function() {
     $(document).on('click', 'jcarousel img', function() {
         $(this).toggleClass('zoomed');
     });
-}
+});
 $(function() {
     $(document).keyup(function(e) {
         if (e.keyCode == 27) {
@@ -26,5 +26,5 @@ $(function() {
             });
         }
     }
-}
+});
 
