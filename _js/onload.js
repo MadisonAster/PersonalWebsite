@@ -25,6 +25,6 @@ $(function() {
                 $(this).toggleClass('zoomed');
             });
         }
-    }
+    });
 });
 
