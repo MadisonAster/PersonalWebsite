@@ -291,6 +291,9 @@ canvas:focus {
 .jcarousel img {
     max-width: 100%;
     max-height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .jcarousel img.zoomed {            
