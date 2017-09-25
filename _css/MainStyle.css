@@ -296,8 +296,6 @@ canvas:focus {
 
 .jcarousel img {
     display:inline-block;
-    left:50%;
-    transform: translate(-50%, 0);
     margin-right:auto;
     margin-left:auto;
     max-width: 100%;
