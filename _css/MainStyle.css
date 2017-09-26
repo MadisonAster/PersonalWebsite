@@ -324,3 +324,8 @@ canvas:focus {
        -moz-box-shadow: 0 0 2px #999;
             box-shadow: 0 0 2px #999;
 }
+
+.stop-scrolling {
+  height: 100%;
+  overflow: hidden;
+}
