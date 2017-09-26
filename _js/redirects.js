@@ -1,6 +1,6 @@
 window.PageName = window.location.href.split('/').slice(-1)[0];
 if(window.PageName == ''){
-    History.replaceState(null, 'About - Thomas McVay', 'Projects');
+    History.replaceState(null, 'Projects - Thomas McVay', 'Projects');
     document.getElementById('Content_Projects').style['display'] = '';
     window.LastDisplayed = 'Content_Projects';
 }else if(window.PageName.indexOf('?') > -1){
