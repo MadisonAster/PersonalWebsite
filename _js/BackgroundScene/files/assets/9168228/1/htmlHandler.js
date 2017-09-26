@@ -35,6 +35,7 @@ HtmlHandler.prototype.initialize = function() {
     };
     updateSize();
     $(window).resize(resizeBackground);
+    enableScroll();
 };
 
 // update code called every frame
