@@ -248,7 +248,7 @@ th:active,
 }
 #Menu{
     line-height:1.5;
-    font-size:24px;
+    font-size:0.8cm;
     list-style-type: none;
     padding:0px;
 }
@@ -261,7 +261,6 @@ th:active,
     text-shadow: 1px 2px 0px rgba(0, 0, 0, 1.0);
 }
 .MenuItem{
-    min-height:1cm;
 }
 
 .PageContainer{
