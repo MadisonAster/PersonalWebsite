@@ -8,6 +8,7 @@ HtmlHandler.prototype.initialize = function() {
     $("#NameImg").css('display', 'initial');
     var bg = $("#application-canvas");
     function resizeBackground() {
+        var cam = pc.app.root.findByName('camera');
         if(bg.width() > $(window).width() || GetAspectRatio() > 1.0 / cam.camera.aspectRatio){
             if (bg.css('width') != 'auto'){
                 bg.css('height', '100%');
