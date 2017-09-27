@@ -7,7 +7,6 @@ function GetAspectRatio() {
 HtmlHandler.prototype.initialize = function() {
     $("#NameImg").css('display', 'initial');
     var bg = $("#application-canvas");
-    var viewportHeight = GetHeight();
     function resizeBackground() {
         if(bg.width() > $(window).width() || GetAspectRatio() > 1.0 / cam.camera.aspectRatio){
             if (bg.css('width') != 'auto'){
