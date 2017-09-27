@@ -289,8 +289,8 @@ th:active,
     bottom: 0;
 }
 #application-canvas.fill-mode-FILL_WINDOW {
-    height: 100%;
-    min-width: 1300px;
+    width: 1920px;
+    height: 1080px;
     margin: 0;
 }
 
