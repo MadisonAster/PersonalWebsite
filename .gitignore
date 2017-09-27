@@ -1,5 +1,6 @@
 /_testing
 .git-ftp.log
+.git-ftp-tmp
 /stats
 /_Assets/pngSequences
 *.pyc
