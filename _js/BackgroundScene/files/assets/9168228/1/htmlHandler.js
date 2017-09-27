@@ -37,7 +37,7 @@ HtmlHandler.prototype.initialize = function() {
         //bg.css('height', '110%');
         //bg.height(viewportHeight);
     };
-    //$(window).resize(resizeBackground);
+    $(window).resize(resizeBackground);
     $('body').removeClass('stop-scrolling');
 };
 
