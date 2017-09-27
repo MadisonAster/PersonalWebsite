@@ -366,11 +366,11 @@ function VRGameDeveloper_Resume() {
     var PositionTitle = "VR Game Developer";
     var Objective = "Looking to work on VR Games with challenging coding problems and inspiring designs, with a keen interest in experimental hardware.";
     var SkillsArray = [
-    {"id": "Python:", "desc": "5 Years experience"},
-    {"id": "C++/Blueprint:", "desc": "2 Years experience / Oculus / Vive"},
+    {"id": "Python:", "desc": "5 Years professional experience"},
+    {"id": "C++/Blueprint:", "desc": "2 Years development experience. Oculus, Vive, Daydream, Leap Motion, Virtuix Omni"},
     {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modeling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-    {"id": "Ultra Fast Adaptibility:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
+    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
+    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
     ];
     
     ResumeContactDetails(doc, PositionTitle);    
@@ -387,11 +387,12 @@ function PythonDeveloper_Resume() {
     var PositionTitle = "Python Developer";
     var Objective = "Looking for work on highly modular software projects with long evolution curves.";
     var SkillsArray = [
-    {"id": "Python:", "desc": "5 Years experience"},
-    {"id": "C++/Blueprint:", "desc": "2 Years experience / Oculus / Vive"},
+    {"id": "Python:", "desc": "5 years professional experience"},
+    {"id": "PySide/PyQt:", "desc": "2 years professional experience"},
+    {"id": "C++:", "desc": "2 years professional experience"},
     {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modeling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-    {"id": "Ultra Fast Adaptibility:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
+    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
+    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
     ];
     
     ResumeContactDetails(doc, PositionTitle);    
@@ -406,13 +407,14 @@ function SoftwareDeveloper_Resume() {
     var doc = ResumeSetup();
     
     var PositionTitle = "Software Developer";
-    var Objective = "Seekings work on highly modular software projects that require succintly written and maintaibable code.";
+    var Objective = "Seeking work on highly modular software projects that require succinctly written and maintainable code.";
     var SkillsArray = [
     {"id": "Python:", "desc": "5 Years experience"},
-    {"id": "C++/Blueprint:", "desc": "2 Years experience / Oculus / Vive"},
+    {"id": "PySide/PyQt:", "desc": "2 years professional experience"},
+    {"id": "C++:", "desc": "2 years professional experience"},
     {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modeling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-    {"id": "Ultra Fast Adaptibility:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
+    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
+    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
     ];
     
     ResumeContactDetails(doc, PositionTitle);    
@@ -432,8 +434,8 @@ function VFXTechnicalDirector_Resume() {
     {"id": "Python:", "desc": "5 Years experience"},
     {"id": "C++/Blueprint:", "desc": "2 Years experience / Oculus / Vive"},
     {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modeling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-    {"id": "Ultra Fast Adaptibility:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
+    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
+    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
     ];
     
     ResumeContactDetails(doc, PositionTitle);    
