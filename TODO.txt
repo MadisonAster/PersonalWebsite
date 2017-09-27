@@ -1,0 +1,17 @@
+double check ios resume generation
+
+Finish CV Script ~2 days
+
+Refine Website Language ~ 2 days
+Refine Resume Script Language ~ 1 day
+
+Fix align left for slideshow on large screens - 1 day
+
+Finish Xmarks tree - 4 days
+
+Improve loading behavior, delay loading of images - 2 days
+
+
+####Add alpha channel to wire cable rack - 1 day
+####Fix aspect ratio centering of camera on resize ~ 1 days
+####slideshow numbers don't show up when loaded on a different page
