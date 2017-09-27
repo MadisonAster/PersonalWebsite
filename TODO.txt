@@ -1,9 +1,7 @@
 double check ios resume generation
 
-Finish CV Script ~2 days
-
-Refine Website Language ~ 2 days
 Refine Resume Script Language ~ 1 day
+Finish CV Script ~2 days
 
 Fix align left for slideshow on large screens - 1 day
 
