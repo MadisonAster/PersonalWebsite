@@ -2,19 +2,23 @@ var HtmlHandler = pc.createScript('htmlHandler');
 
 // initialize code called once per entity
 function GetAspectRatio() {
-    return screen.height / screen.width;
+    return $(window).height() / $(window).width();
 };
 HtmlHandler.prototype.initialize = function() {
     $("#NameImg").css('display', 'initial');
-    function GetHeight() {
-        return screen.height;
-    };
     var bg = $("#application-canvas");
     var viewportHeight = GetHeight();
     function resizeBackground() {
-        if (viewportHeight != GetHeight()) {
-            viewportHeight = GetHeight();
-            updateSize();
+        if(bg.width() > $(window).width() || GetAspectRatio() > 1.0 / cam.camera.aspectRatio){
+            if (bg.css('width') != 'auto'){
+                bg.css('height', '100%');
+                bg.css('width', 'auto');
+            };
+        } else {
+            if (bg.css('height') != 'auto'){
+                bg.css('width', '100%');
+                bg.css('height', 'auto');
+            };
         };
     };
     function updateSize() {
@@ -29,12 +33,11 @@ HtmlHandler.prototype.initialize = function() {
         //alert($(document).height());      //ff 6942 7056 cr 6393      wi
         //alert($(window).width());         //ff 980       cr 980       wi 941  1903
         //alert(screen.width);        //ff 408       cr 412       wi 1920
-        bg.css('width', '100%');
-        bg.css('height', '110%');
+        //bg.css('width', '100%');
+        //bg.css('height', '110%');
         //bg.height(viewportHeight);
     };
-    updateSize();
-    $(window).resize(resizeBackground);
+    //$(window).resize(resizeBackground);
     $('body').removeClass('stop-scrolling');
 };
 
