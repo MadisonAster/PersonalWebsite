@@ -290,8 +290,6 @@ th:active,
 }
 #application-canvas.fill-mode-FILL_WINDOW {
     height: 100%;
-    min-width: 1920px;
-    min-height: 1080px;
     margin: 0;
 }
 
