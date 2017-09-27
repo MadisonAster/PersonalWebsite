@@ -1,5 +1,5 @@
 <div id='TVDiv' style='padding:0;margin:0;display:none;'>
-This is a collection of my favorite TV shows. The standards for this list are far less strict than the Movies list. This list is also updated automatically, and as usual I'm always open to suggestions.
+Mostly for my own use, this is the front end of a script that collects my favorite Films and TV Shows from various streaming websites. The market is too fragmented to keep track of it all on any one service, so I built my own here. Feel free to send me your suggestions.
 <br/><br/>
 <br/><br/>
 

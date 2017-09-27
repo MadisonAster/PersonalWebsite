@@ -1,5 +1,5 @@
 <div id='MoviesDiv' style='padding:0;margin:0;display:none;'>
-This is a collection of my favorite films, in order to make this list a film must stand up to time, and have achieved some artistic end. I would recommend anything on this list. This list is updated automatically with films as I tag them, so check back periodically, and let me know if you have any suggestions.
+Mostly for my own use, this is the front end of a script that collects my favorite Films and TV Shows from various streaming websites. The market is too fragmented to keep track of it all on any one service, so I built my own here. Feel free to send me your suggestions.
 <br/><br/>
 <br/><br/>
 
