@@ -93,7 +93,7 @@ In the table below I've listed the various technologies I've encountered during 
     <br/><br/>
     In film school I was exposed to a vast variety of new design software. Node based compositors, 3d trackers, particle effects. With the stages they had available I spent several nights a week as a grip/electrician becoming ever more familiar with the production process.
     <br/><br/>
-    After graduating college, and moving back to California, I got my first job as a vfx compositor with a company called Lit Post that was starting a low budget project called scavengers. Lit Post was a DI facility looking to expand by creating a vfx department, and when I got hired, for some time I was that department. Working primarily in Nuke, I was the only full time compositor on a show with a total of around 600 vfx shots. I got my first exposure here to all of the problems inherent in the vfx pipeline, learned a lot about colorspaces from the Owner/Lead Colorist at the company, set up the render farm for the 3d artists, and worked with them to reduce render times on the spaceships and solve the technical problems that arose.
+    My first work as a vfx compositor  was with a company called Lit Post on a low budget project called scavengers. Lit Post was a DI facility looking to expand by creating a vfx department, and when I got hired, for some time I was that department. Working primarily in Nuke, I was the only full time compositor on a show with a total of around 600 vfx shots. I got my first exposure here to all of the problems inherent in the vfx pipeline, learned a lot about colorspaces from the Owner/Lead Colorist at the company, set up the render farm for the 3d artists, and worked with them to reduce render times on the spaceships and solve the technical problems that arose.
     <br/><br/>
     It was on Scavengers that I learned how much value automation has to the production process. Even with a low budget show like that, we quickly exceeded 15TB of data. Moving that much data around can become messy in a hurry, and god help you if you leave things up to each individual artist to name their files.
     <br/><br/>
@@ -101,6 +101,29 @@ In the table below I've listed the various technologies I've encountered during 
     <br/><br/>
     I have a lot of work to do still, and way too many ideas that I want to get out of my head, so I hope you'll find the resources I've added to Links section this site as I do, and I hope that we can work together in the future to continue to accelerate the pace of our development.
 <div class="clear">&nbsp;</div>
+</div>
+
+<br/><br/>
+
+<div class='ContentDiv'>
+<h2 style='text-align:left;'>About my coding style:</h2>
+<br/><br/>
+I focus heavily on modularity in my designs. I'm a firm believer in the adage that if the purpose of a function needs more than one sentence to describe, then it should be split into parts. 
+<br/><br/>
+Now this is nearly impossible to follow as a hard rule, because a description can as wide or as granular as you choose to make it. In general, if it starts to exceed the length of my screen though, I re-evaluate it.
+<br/><br/>
+In keeping with this format I usually write most of my comments like this:
+<br/><br/>
+<img src='_Assets/Stills/CodeCommentsExample.png' style='width:100%;'></img>
+<br/><br/>
+I always follow the Takes/Performs/Returns structure, and when I return to the function to use it later I can quickly assess exactly what the function does. I immediately know what kind of data to give it, what kinds of calls it will make, and what kind of data it will return to me.
+<br/><br/>
+Also, though it may be a little picky, I find it much more convenient to place the comment inside the function so that folding editors will minimize the functions properly. When I open a module in my favorite editor (<a target='_blank' href='https://notepad-plus-plus.org/'>Notepad++</a>), I hit Alt-0, and can immediately assess structures from a top level view.
+<br/><br/>
+<img src='_Assets/Stills/CodeFoldingExample.png' style='width:60%;'></img>
+<br/><br/>
+Object Recycling is the greatest optimization of all in my opinion. It may have cost me 10% more to write functions when I was still a beginner, but by sticking with it, I've built a vast library of powerful functions to draw from when building new applications. Often the simplest answer to a problem is so beautiful that I don't even have to look it up, I can re-write the function from memory.
+<br/><br/>
 </div>
 
 <br/><br/>
@@ -132,102 +155,3 @@ Process Improvements:
 1. This equation is <a target='_blank' href='https://xkcd.com/1205/'>much simpler</a>.
 </div>
 </div>
-
-<br/><br/>
-
-<div class='ContentDiv'>
-<h2 style='text-align:left;'>About my coding style:</h2>
-<br/><br/>
-I focus heavily on modularity in my designs. I'm a firm believer in the adage that if the purpose of a function needs more than one sentence to describe, then it should be split into parts. 
-<br/><br/>
-Now this is nearly impossible to follow as a hard rule, because a description can as wide or as granular as you choose to make it. In general, if it starts to exceed the length of my screen though, I re-evaluate it.
-<br/><br/>
-In keeping with this format I usually write most of my comments like this:
-<br/><br/>
-<img src='_Assets/Stills/CodeCommentsExample.png' style='width:100%;'></img>
-<br/><br/>
-I always follow the Takes/Performs/Returns structure, and when I return to the function to use it later I can quickly assess exactly what the function does. I immediately know what kind of data to give it, what kinds of calls it will make, and what kind of data it will return to me.
-<br/><br/>
-Also, though it may be a little picky, I find it much more convenient to place the comment inside the function so that folding editors will minimize the functions properly. When I open a module in my favorite editor (<a target='_blank' href='https://notepad-plus-plus.org/'>Notepad++</a>), I hit Alt-0, and can immediately assess structures from a top level view.
-<br/><br/>
-<img src='_Assets/Stills/CodeFoldingExample.png' style='width:60%;'></img>
-<br/><br/>
-Object Recycling is the greatest optimization of all in my opinion. It may have cost me 10% more to write functions when I was still a beginner, but by sticking with it, I've built a vast library of powerful functions to draw from when building new applications. Often the simplest answer to a problem is so beautiful that I don't even have to look it up, I can re-write the function from memory.
-<br/><br/>
-</div>
-
-<br/><br/>
-
-<!--<div class='ContentDiv'>
-<h2 style='text-align:left;'>My Predictions for the future:</h2>
-<br/><br/>
-The world's changing pretty fast, and everyone has predictions about the time frames in which new technologies will arrive on the scene. I'm not taking any wagers, but here's mine:
-<br/><br/>
-<table style='border:solid 1px white;border-collapse: collapse;'>
-
-<tr style='border:solid 1px white;'>
-<td style='border:solid 1px white;width:100px;'>Late 2015</td>
-<td style='border:solid 1px white;'>
-Consumer VR headsets will either be a christmas success, or it will not achieve the adoption rate necessary for game developers to consider more serious development efforts
-</td>
-</tr>
-
-<tr style='border:solid 1px white;'>
-<td style='border:solid 1px white;'>2016</td>
-<td style='border:solid 1px white;'>
-VR game releases will occur slowly but surely, people will start calling it a fad, but a small but growing and devoted community of gamers will continue to drive the fledgling market.
-</td>
-</tr>
-
-<tr style='border:solid 1px white;'>
-<td style='border:solid 1px white;'>2016</td>
-<td style='border:solid 1px white;'>
-VR films will perhaps be even cooler than the games :-)
-</td>
-</tr>
-
-<tr style='border:solid 1px white;'>
-<td style='border:solid 1px white;'>2016</td>
-<td style='border:solid 1px white;'>
-Developer AR headsets will start to become publicly available. Many will bemoan how much power real-time tracking/compositing will take, developers will just have to wear battery packs on their belts until the battery technology catches up.
-</td>
-</tr>
-
-<tr style='border:solid 1px white;'>
-<td style='border:solid 1px white;'>2017-2023</td>
-<td style='border:solid 1px white;'>
-Films will shift to being rendered entirely in CG
-</td>
-</tr>
-
-<tr style='border:solid 1px white;'>
-<td style='border:solid 1px white;'>2021</td>
-<td style='border:solid 1px white;'>
-Robotics revolution will start to really take off in the consumer market. Proliferation of 3D priting technologies with support for robust materials will create a large group of startups. Robotic pets will be really popular.
-</td>
-</tr>
-
-<tr style='border:solid 1px white;'>
-<td style='border:solid 1px white;'>2021-2025</td>
-<td style='border:solid 1px white;'>
-Spawning AIs will begin to take on moral implications. Is it right to create beings with the same level of consciousness as ourselves?
-</td>
-</tr>
-
-<tr style='border:solid 1px white;'>
-<td style='border:solid 1px white;'>2025-2035</td>
-<td style='border:solid 1px white;'>
-We'll finally figure out how to build carbon nanotubes strong enough to survive winds in the upper atmosphere.
-</td>
-</tr>
-
-<tr style='border:solid 1px white;'>
-<td style='border:solid 1px white;'>2030-????</td>
-<td style='border:solid 1px white;'>
-Brain controller interfaces that let you access data in real time?
-</td>
-</tr>
-</table>
-</div>
--->
-
