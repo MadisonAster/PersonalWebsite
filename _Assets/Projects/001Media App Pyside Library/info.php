@@ -5,7 +5,7 @@ $ProjectContent = file("./_Assets/Projects/001Media App Pyside Library/content.h
 $ShortDescription = file("./_Assets/Projects/001Media App Pyside Library/Description.txt");
 foreach ($ProjectContent as &$ProjectValue) {
     if(strpos($ProjectValue,"{ShortDescription}") !== false){
-        foreach ($ShortDescription as &$ShortDescriptionLine) {
+        foreach ($ProjectDescription as &$ShortDescriptionLine) {
             echo $ShortDescriptionLine;
             echo '<br/><br/>';
         };

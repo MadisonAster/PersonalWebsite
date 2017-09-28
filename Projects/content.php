@@ -18,6 +18,7 @@ foreach($Projectdirs as &$Projectdir){
         $dirArray = explode("/", $Projectdir);
         $folderName = current(array_slice($dirArray, -1));
         $ProjectTitle = substr($folderName, 3);
+        $ProjectDescription = file_get_contents($Projectdir."Description.txt");
         if(substr($folderName, 0, 1) !== '_'){
             echo "<div class='ContentDiv'>\n";
             echo "<h2 style='text-align:left;'>".$ProjectTitle."</h2>\n";
