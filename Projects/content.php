@@ -13,6 +13,7 @@ $blacklist = array('.', '..');
 $Projectdirs = array_filter(glob('./_Assets/Projects/*'), 'is_dir');
 $Projectdirs = array_reverse($Projectdirs, true);
 
+$ProjectObjects = array();
 foreach($Projectdirs as &$Projectdir){
     if(!in_array($Projectdir, $blacklist)){
         $dirArray = explode("/", $Projectdir);
@@ -42,9 +43,22 @@ foreach($Projectdirs as &$Projectdir){
             };
             echo "</div>\n";
             echo "<br/><br/>";
+            
+            
+            $ProjectObject = array(
+                "title" => $ProjectTitle,
+                "description" => $ProjectDescription,
+                "date" => $ProjectDate,
+                "tags" => $ProjectTags,
+            );
+            array_push($ProjectObjects, $ProjectObject);
         };
     };
 };
-
-
+echo "<script type='text/javascript'>";
+echo "var ProjectsDictString = ".json_encode($php_variable).";";
+echo "var ProjectsDict = JSON.parse(ProjectsDictString);";
+echo "console.log('ProjectsDict')";
+echo "console.log(ProjectsDict)";
+echo "</script>";
 ?>
