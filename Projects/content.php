@@ -26,7 +26,17 @@ foreach($Projectdirs as &$Projectdir){
             echo "<h2 style='text-align:left;'>".$ProjectTitle."</h2>\n";
             echo "<h3 style='text-align:left;'>".$ProjectDate."</h3>\n";
             echo "<br/>\n";
-            include $Projectdir."/info.php";
+            foreach ($ProjectContent as &$ProjectValue) {
+                if(strpos($ProjectValue,"{ShortDescription}") !== false){
+                foreach ($ProjectDescription as &$ShortDescriptionLine) {
+                    echo $ShortDescriptionLine;
+                    echo '<br/><br/>';
+                };
+                }else{
+                    echo $ProjectValue;
+                };
+            };
+            //include $Projectdir."/info.php";
             echo "</div>\n";
             echo "<br/><br/>";
     
