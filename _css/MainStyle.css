@@ -336,3 +336,13 @@ canvas:focus {
   height: 100%;
   overflow: hidden;
 }
+
+.ProjectTag {
+    background-color: #EEEEEE;
+    border-bottom: 1px solid #CCCCCC;
+    border-right: 1px solid #CCCCCC;
+    font-size: 11px;
+    padding: 1px 8px;
+    white-space: nowrap;
+    display: inline-block;
+}
