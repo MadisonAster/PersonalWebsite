@@ -345,4 +345,5 @@ canvas:focus {
     padding: 1px 8px;
     white-space: nowrap;
     display: inline-block;
+    color: #333333;
 }
