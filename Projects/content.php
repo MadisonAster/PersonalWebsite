@@ -38,7 +38,7 @@ foreach($Projectdirs as &$Projectdir){
                 };
             };
             foreach ($ProjectTags as &$Tag) {
-                echo '<div class="ProjectTag">'.str_replace(",","",$Tag).'</div>';
+                echo '<span class="ProjectTag">'.str_replace(",","",$Tag).'</span>';
             };
             echo "</div>\n";
             echo "<br/><br/>";
