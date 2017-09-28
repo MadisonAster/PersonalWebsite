@@ -346,4 +346,5 @@ canvas:focus {
     white-space: nowrap;
     display: inline-block;
     color: #333333;
+    margin: 2px;
 }
