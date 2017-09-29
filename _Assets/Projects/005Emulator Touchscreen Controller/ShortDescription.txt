@@ -1,2 +1,3 @@
 A Pyside based modification to an existing game emulator 
-that provides multitouch touchscreen controller support.
+that provides multi-touch touch screen controller support
+and application hooks for additional low level controls.

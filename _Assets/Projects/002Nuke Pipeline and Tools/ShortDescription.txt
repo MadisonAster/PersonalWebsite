@@ -1,3 +1,4 @@
 Python based wrapper that modularized an entire library 
 of code to allow for legacy access, offline access, and 
-binary distribution.
+binary distribution. Newer features include tools for UE4
+and support for directly importing agisoft projects.

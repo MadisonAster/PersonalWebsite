@@ -1,2 +1,5 @@
-Python based scanner support created for a specific 
-project to telecine services for a film project.
+Python based scanner support created for Valley of Viol-
+ence, a film based project that required  telecine 
+services that we wouldn't have been able to provide with-
+out software scripting to sort through and handle the
+footage.
