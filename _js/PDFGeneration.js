@@ -680,14 +680,11 @@ function VFXTechnicalDirector_CV() {
     CVContactDetails(doc, PositionTitle);
     var SelectedTags = [
         '3D Modeling',
-        'C++',
         'Nuke',
         'Pipeline',
         'PySide/PyQt',
         'Python',
-        'UE4',
         'VFX',
-        'VR',
     ];
     CVProjects(doc, SelectedTags);
     CVSave(doc, PositionTitle);
