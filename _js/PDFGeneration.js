@@ -568,6 +568,7 @@ function CVProjects(doc, SelectedTags) {
         };
         ImageYPosition += 142;
         ProjectCounter += 1;
+        console.log(Projects.length+' '+i);
         if (ProjectCounter >= 5 && Projects.length > i+1) {
             ProjectCounter = 0;
             ImageYPosition = 78;
