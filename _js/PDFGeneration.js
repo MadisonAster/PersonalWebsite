@@ -517,18 +517,25 @@ function CVContactDetails(doc, PositionTitle) {
 }
 function CVPage(doc, PositionTitle) {
     //console.log(Projects);
+    var ImageYPosition = 78;
     for (var i = 0; i < Projects.length; i++) {
         console.log(Projects[i]["title"]);
         console.log(Projects[i]["date"]);
         console.log(Projects[i]["tags"]);
-    }
-    var imgData1 = getBase64FromImageUrl("./_Assets/Projects/360RenderTests/thumb.jpg");
-    var imgData2 = getBase64FromImageUrl("./_Assets/Projects/FanControl/thumb.jpg");
-    doc.addImage(imgData1, 'JPEG', 1, 78, 178, 100);
-    doc.addImage(imgData2, 'JPEG', 1, 220, 178, 100);
-    doc.addImage(imgData2, 'JPEG', 1, 362, 178, 100);
-    doc.addImage(imgData2, 'JPEG', 1, 504, 178, 100);
-    doc.addImage(imgData2, 'JPEG', 1, 646, 178, 100);
+        
+        if(Projects[i]['images'].length > 0){
+            var imgData = getBase64FromImageUrl(Projects[i]['images'][0]);
+            doc.addImage(imgData, 'JPEG', 1, ImageYPosition, 178, 100);
+            ImageYPosition += 142;
+        };
+    };
+    //var imgData1 = getBase64FromImageUrl("./_Assets/Projects/360RenderTests/thumb.jpg");
+    //var imgData2 = getBase64FromImageUrl("./_Assets/Projects/FanControl/thumb.jpg");
+    //doc.addImage(imgData1, 'JPEG', 1, 78, 178, 100);
+    //doc.addImage(imgData2, 'JPEG', 1, 220, 178, 100);
+    //doc.addImage(imgData2, 'JPEG', 1, 362, 178, 100);
+    //doc.addImage(imgData2, 'JPEG', 1, 504, 178, 100);
+    //doc.addImage(imgData2, 'JPEG', 1, 646, 178, 100);
 }
 function CVSave(doc, PositionTitle) {
     var date = new Date();
