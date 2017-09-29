@@ -533,7 +533,7 @@ function CVProjects(doc) {
         doc.drawText(201, ImageYPosition+10, '.'+Projects[i]["title"]);
         doc.setFontStyle('normal');
         doc.setFontSize(10);
-        doc.drawText(211, ImageYPosition+20, Projects[i]["date"]);
+        doc.drawText(206, ImageYPosition+20, Projects[i]["date"]);
         doc.setFontSize(16);
         for (var j = 0; j < Projects[i]["shortdescription"].length; j++) {
             console.log(Projects[i]["shortdescription"][j]);
