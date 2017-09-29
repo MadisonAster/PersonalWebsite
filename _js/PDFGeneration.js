@@ -515,7 +515,7 @@ function CVContactDetails(doc, PositionTitle) {
     doc.drawText(201, 140, GetEmail());
     doc.drawText(201, 160, 'www.thomas-mcvay.info');
 }
-function CVPage(doc, PositionTitle) {
+function CVPage(doc) {
     //console.log(Projects);
     var ImageYPosition = 78;
     for (var i = 0; i < Projects.length; i++) {
@@ -549,6 +549,7 @@ function VRGameDeveloper_CV() {
     var PositionTitle = ".vr game developer";
     var Objective = "Looking to work on VR Games with challenging coding problems and inspiring designs, with a keen interest in experimental hardware.";
     CVContactDetails(doc, PositionTitle);
+    CVPage(doc);
     CVSave(doc, PositionTitle);
     CloseCVDialog();
 }
