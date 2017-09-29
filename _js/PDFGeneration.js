@@ -531,8 +531,9 @@ function CVProjects(doc, SelectedTags) {
         var TagCount = 0;
         for (var j = 0; j < Projects[i]["tags"].length; j++) {
             //console.log(Projects[i]["tags"][j]);
-            console.log(SelectedTags.includes(Projects[i]["tags"][j]));
-            if (SelectedTags.includes(Projects[i]["tags"][j])){
+            //console.log(SelectedTags.includes(Projects[i]["tags"][j]));
+            console.log(SelectedTags.indexOf(Projects[i]["tags"][j]) > -1);
+            if (SelectedTags.indexOf(Projects[i]["tags"][j]) > -1){
                 console.log('+1');
                 TagCount += 1;
             };
