@@ -28,6 +28,17 @@ Array.prototype.remove = function() {
     return this;
 };
 
+Array.prototype.sortOn = function(key){
+    this.sort(function(a, b){
+        if(a[key] < b[key]){
+            return -1;
+        }else if(a[key] > b[key]){
+            return 1;
+        };
+        return 0;
+    });
+};
+
 function getBase64FromImageUrl(url) {
     var canvas = document.createElement("canvas");
     canvas.width = 178;

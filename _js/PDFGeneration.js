@@ -526,8 +526,21 @@ function CVProjects(doc, SelectedTags) {
     //console.log(Projects);
     var ImageYPosition = 220;
     var ProjectCounter = 1;
+    
+    for (var i = 0; i < Projects.length; i++) {
+        var TagCount = 0;
+        for (var j = 0; j < Projects[i]["tags"].length; j++) {
+            if (SelectedTags.includes(Projects[i]["tags"][j])){
+                TagCount += 1;
+            };
+        };
+        Projects[i]["TagCount"] = TagCount;
+        console.log('TagCount '+TagCount);
+    };
+    Projects = Projects.sortOn("TagCount");
 
     for (var i = 0; i < Projects.length; i++) {
+        console.log('TagCount2 '+TagCount);
         doc.setFontStyle('bold');
         doc.setFontSize(16);
         doc.drawText(201, ImageYPosition+10, '.'+Projects[i]["title"]);
@@ -578,21 +591,21 @@ function CVSave(doc, PositionTitle) {
 };
 
 AllTags = [
-'3D Modeling',
-'C++',
-'Experimental Hardware',
-'Game Development',
-'GUI',
-'Javascript',
-'Nuke',
-'PHP',
-'Pipeline',
-'PySide/PyQt',
-'Python',
-'Software Development',
-'UE4',
-'VFX',
-'VR',
+    '3D Modeling',
+    'C++',
+    'Experimental Hardware',
+    'Game Development',
+    'GUI',
+    'Javascript',
+    'Nuke',
+    'PHP',
+    'Pipeline',
+    'PySide/PyQt',
+    'Python',
+    'Software Development',
+    'UE4',
+    'VFX',
+    'VR',
 ];
 function VRGameDeveloper_CV() {
     var doc = CVSetup();
