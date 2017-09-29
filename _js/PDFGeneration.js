@@ -545,7 +545,7 @@ function CVProjects(doc, SelectedTags) {
 
     
     for (var i = 0; i < Projects.length; i++) {
-        console.log('TagCount2 '+TagCount);
+        console.log('TagCount2 '+Projects[i]["TagCount"]);
         doc.setFontStyle('bold');
         doc.setFontSize(16);
         doc.drawText(201, ImageYPosition+10, '.'+Projects[i]["title"]);
