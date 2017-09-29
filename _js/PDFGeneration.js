@@ -540,7 +540,7 @@ function CVPage(doc) {
             var imgData = getBase64FromImageUrl(Projects[i]['images'][0]);
             if (Projects[i]['images'][0].rsplit('.',1)[-1] == 'jpg'){
                 doc.addImage(imgData, 'JPEG', 1, ImageYPosition, 178, 100);
-            } else if(Projects[i]['images'][0].rsplit('.',1)[-1] == 'png')
+            } else if(Projects[i]['images'][0].rsplit('.',1)[-1] == 'png'){
                 doc.addImage(imgData, 'PNG', 1, ImageYPosition, 178, 100);
             } else {
                 doc.addImage(imgData, 'GIF', 1, ImageYPosition, 178, 100);
@@ -555,12 +555,12 @@ function CVPage(doc) {
     //doc.addImage(imgData2, 'JPEG', 1, 362, 178, 100);
     //doc.addImage(imgData2, 'JPEG', 1, 504, 178, 100);
     //doc.addImage(imgData2, 'JPEG', 1, 646, 178, 100);
-}
+};
 function CVSave(doc, PositionTitle) {
     var date = new Date();
     doc.save('ThomasMcVay_'+PositionTitle.replaceAll(' ','')+'_CV'+date.yyyymmdd()+'.pdf');
     CloseCVDialog();
-}
+};
 
 function VRGameDeveloper_CV() {
     var doc = CVSetup();
