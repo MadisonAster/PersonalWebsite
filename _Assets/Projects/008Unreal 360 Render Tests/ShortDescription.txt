@@ -1,2 +1,3 @@
-Created a 360 Video rendering pipeline for by customizing 
-Unreal Engine and deadline renderer.
+A 360 Video rendering pipeline with a modified version of Unreal Engine,
+custom deadline plugin. Featuring Ambisonic audio production, and 8k
+deadline farm renders. 

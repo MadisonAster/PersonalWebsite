@@ -1,16 +1,12 @@
-#double check ios resume generation
-
 Improve short descriptions
-CV/Resume Menu Size
 
+Gather Demo Reel Shots
+Make Demo Reel Page
+Improve loading behavior, delay loading of images - 2 days
+CV/Resume Menu Size
 Fix align left for slideshow on large screens - 1 day
 
 Finish Xmarks tree - 4 days
-
-Improve loading behavior, delay loading of images - 2 days
-
-
-Refine Resume Script Language ~ 1 day
 
 ####Add alpha channel to wire cable rack - 1 day
 ####Fix aspect ratio centering of camera on resize ~ 1 days
