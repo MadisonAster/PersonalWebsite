@@ -529,22 +529,16 @@ function CVProjects(doc, SelectedTags) {
         var TagCount = 0;
         for (var j = 0; j < Projects[i]["tags"].length; j++) {
             var thistag = Projects[i]["tags"][j].rstrip();
-            //console.log(thistag);
-            //console.log(SelectedTags.indexOf(thistag));
-            //console.log(SelectedTags.indexOf(thistag) > -1);
             if (SelectedTags.indexOf(thistag) > -1){
                 TagCount += 1;
             };
         };
         Projects[i]["TagCount"] = TagCount;
-        //console.log(Projects[i]["title"]+' TagCount '+TagCount);
     };
     Projects.sortOn("TagCount");
     Projects = Projects.reverse();
-    //console.log(Projects);
     
     for (var i = 0; i < Projects.length; i++) {
-        //console.log('TagCount2 '+Projects[i]["TagCount"]);
         if (Projects[i]["TagCount"] < 3) {
             continue;
         };
@@ -556,7 +550,6 @@ function CVProjects(doc, SelectedTags) {
         doc.drawText(206, ImageYPosition+20, Projects[i]["date"]);
         doc.setFontSize(16);
         for (var j = 0; j < Projects[i]["shortdescription"].length; j++) {
-            //console.log(Projects[i]["shortdescription"][j]);
             var descriptiontext = Projects[i]["shortdescription"][j];
             descriptiontext = descriptiontext.replaceAll('\n', '');
             descriptiontext = descriptiontext.replaceAll('\r', '');
@@ -564,7 +557,6 @@ function CVProjects(doc, SelectedTags) {
         };
 
         if(Projects[i]['images'].length > 0){
-            //console.log(Projects[i]['images'][0]);
             var imgData = getBase64FromImageUrl(Projects[i]['images'][0]);
             if (Projects[i]['images'][0].rsplit('.',1)[-1] == 'jpg'){
                 doc.addImage(imgData, 'JPEG', 1, ImageYPosition, 178, 100);
@@ -576,7 +568,7 @@ function CVProjects(doc, SelectedTags) {
         };
         ImageYPosition += 142;
         ProjectCounter += 1;
-        if (ProjectCounter >= 5) {
+        if (ProjectCounter >= 5 && Projects.length > i+1) {
             ProjectCounter = 0;
             ImageYPosition = 78;
             CVAddPage(doc);
