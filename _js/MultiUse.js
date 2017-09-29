@@ -37,6 +37,7 @@ Array.prototype.sortOn = function(key){
         };
         return 0;
     });
+    return this;
 };
 
 function getBase64FromImageUrl(url) {
