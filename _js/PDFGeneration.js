@@ -523,23 +523,16 @@ function CVContactDetails(doc, PositionTitle) {
     doc.addImage(imgData1, 'JPEG', 1, 78, 178, 100);
 }
 function CVProjects(doc, SelectedTags) {
-    //console.log(Projects);
     var ImageYPosition = 220;
     var ProjectCounter = 1;
-    
-    console.log(SelectedTags);
-    console.log(SelectedTags.indexOf('VR') > -1);
     for (var i = 0; i < Projects.length; i++) {
         var TagCount = 0;
         for (var j = 0; j < Projects[i]["tags"].length; j++) {
-            
-            //console.log(SelectedTags.includes(Projects[i]["tags"][j]));
             var thistag = Projects[i]["tags"][j].rstrip();
-            console.log(thistag);
-            console.log(SelectedTags.indexOf(thistag));
-            console.log(SelectedTags.indexOf(thistag) > -1);
+            //console.log(thistag);
+            //console.log(SelectedTags.indexOf(thistag));
+            //console.log(SelectedTags.indexOf(thistag) > -1);
             if (SelectedTags.indexOf(thistag) > -1){
-                console.log('+1');
                 TagCount += 1;
             };
         };
