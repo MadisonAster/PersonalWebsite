@@ -526,13 +526,14 @@ function CVPage(doc) {
         for (var j = 0; j < Projects[i]["description"].length; j++) {
             descriptiontext += Projects[i]["description"][j];
         };
-        console.log(Projects[i]["description"]);
+        //console.log(Projects[i]["description"]);
+        console.log(descriptiontext);
         
         doc.setFontStyle('bold');
         doc.drawText(201, TextYPosition, Projects[i]["title"]);
         TextYPosition += 20;
         doc.setFontStyle('normal');
-        doc.drawText(201, TextYPosition, descriptiontext);
+        //doc.drawText(201, TextYPosition, descriptiontext);
         TextYPosition += 80;
         
         if(Projects[i]['images'].length > 0){
