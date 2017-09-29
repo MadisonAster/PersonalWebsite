@@ -528,7 +528,7 @@ function CVPage(doc) {
         //    descriptiontext += Projects[i]["description"][j];
         //};
         //console.log(Projects[i]["description"]);
-        descriptiontext += Projects[i]["shortdescription"]
+        descriptiontext = descriptiontext+Projects[i]["shortdescription"];
         console.log(descriptiontext);
         
         doc.setFontStyle('bold');
