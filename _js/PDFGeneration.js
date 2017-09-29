@@ -539,9 +539,8 @@ function CVProjects(doc, SelectedTags) {
     Projects = Projects.reverse();
     
     for (var i = 0; i < Projects.length; i++) {
-        
         console.log(Projects.length+' '+(i+1));
-        if (Projects[i]["TagCount"] < 3) {
+        if (Projects[i]["TagCount"] < 2) {
             continue;
         };
         if (ProjectCounter >= 5 && Projects.length > i+1) {
@@ -575,16 +574,7 @@ function CVProjects(doc, SelectedTags) {
         };
         ImageYPosition += 142;
         ProjectCounter += 1;
-        //console.log('e '+Projects.length+' '+(i+1));
     };
-    
-    //var imgData1 = getBase64FromImageUrl("./_Assets/Projects/360RenderTests/thumb.jpg");
-    //var imgData2 = getBase64FromImageUrl("./_Assets/Projects/FanControl/thumb.jpg");
-    //doc.addImage(imgData1, 'JPEG', 1, 78, 178, 100);
-    //doc.addImage(imgData2, 'JPEG', 1, 220, 178, 100);
-    //doc.addImage(imgData2, 'JPEG', 1, 362, 178, 100);
-    //doc.addImage(imgData2, 'JPEG', 1, 504, 178, 100);
-    //doc.addImage(imgData2, 'JPEG', 1, 646, 178, 100);
 };
 function CVSave(doc, PositionTitle) {
     var date = new Date();
