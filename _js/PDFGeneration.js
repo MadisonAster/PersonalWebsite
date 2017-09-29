@@ -540,7 +540,7 @@ function CVProjects(doc, SelectedTags) {
     
     for (var i = 0; i < Projects.length; i++) {
         
-        console.log(Projects.length+' '+(i+1));
+        //console.log(Projects.length+' '+(i+1));
         if (Projects[i]["TagCount"] < 3) {
             continue;
         };
