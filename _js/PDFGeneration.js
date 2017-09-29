@@ -514,8 +514,14 @@ function CVContactDetails(doc, PositionTitle) {
     doc.drawText(201, 120, '.'+GetPhone());
     doc.drawText(201, 140, GetEmail());
     doc.drawText(201, 160, 'www.thomas-mcvay.info');
-
-    console.log(ProjectsDictString);
+}
+function CVPage(doc, PositionTitle) {
+    //console.log(Projects);
+    for (var i = 0; i < Projects.length; i++) {
+        console.log(Projects[i]["title"]);
+        console.log(Projects[i]["date"]);
+        console.log(Projects[i]["tags"]);
+    }
     var imgData1 = getBase64FromImageUrl("./_Assets/Projects/360RenderTests/thumb.jpg");
     var imgData2 = getBase64FromImageUrl("./_Assets/Projects/FanControl/thumb.jpg");
     doc.addImage(imgData1, 'JPEG', 1, 78, 178, 100);

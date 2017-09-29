@@ -57,6 +57,6 @@ foreach($Projectdirs as &$Projectdir){
     };
 };
 echo "<script type='text/javascript'>";
-echo "var ProjectsDictString = ".json_encode($ProjectObjects).";";
+echo "var Projects = ".json_encode($ProjectObjects).";";
 echo "</script>";
 ?>
