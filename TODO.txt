@@ -1,6 +1,6 @@
 #double check ios resume generation
 
-CV Pagination 
+#CV Pagination 
 CV Priority
 CV tag selection
 CV/Resume Menu Size
