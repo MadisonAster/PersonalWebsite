@@ -1,6 +1,9 @@
 #double check ios resume generation
 
-Finish CV Script ~2 days
+CV Pagination 
+CV Priority
+CV tag selection
+CV/Resume Menu Size
 
 Fix align left for slideshow on large screens - 1 day
 
