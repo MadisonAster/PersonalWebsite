@@ -523,22 +523,13 @@ function CVPage(doc) {
     var TextYPosition = 200;
 
     for (var i = 0; i < Projects.length; i++) {
-        var descriptiontext = '';
-        for (var j = 0; j < Projects[i]["shortdescription"].length; j++) {
-            descriptiontext += Projects[i]["shortdescription"][j];
-        };
-        //console.log(Projects[i]["description"]);
-        descriptiontext = Projects[i]["shortdescription"];
-        //descriptiontext = descriptiontext.replaceAll('\n', '');
-        //descriptiontext = descriptiontext.replaceAll('\r', '');
-        console.log(Projects[i]["title"]);
-        console.log(descriptiontext);
-        
         doc.setFontStyle('bold');
         doc.drawText(201, ImageYPosition+10, '.'+Projects[i]["title"]);
         doc.setFontStyle('normal');
-        doc.drawText(201, ImageYPosition+30, descriptiontext);
-        
+        for (var j = 0; j < Projects[i]["shortdescription"].length; j++) {
+            doc.drawText(201, ImageYPosition+10+20*(j+1), Projects[i]["shortdescription"][j]);
+        };
+
         if(Projects[i]['images'].length > 0){
             console.log(Projects[i]['images'][0]);
             var imgData = getBase64FromImageUrl(Projects[i]['images'][0]);
