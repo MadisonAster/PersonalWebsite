@@ -541,7 +541,7 @@ function CVProjects(doc, SelectedTags) {
     };
     console.log(Projects);
     Projects.sortOn("TagCount");
-    console.log(Projects);
+    console.log(Projects.sortOn("TagCount"));
 
     
     for (var i = 0; i < Projects.length; i++) {
@@ -554,7 +554,7 @@ function CVProjects(doc, SelectedTags) {
         doc.drawText(206, ImageYPosition+20, Projects[i]["date"]);
         doc.setFontSize(16);
         for (var j = 0; j < Projects[i]["shortdescription"].length; j++) {
-            console.log(Projects[i]["shortdescription"][j]);
+            //console.log(Projects[i]["shortdescription"][j]);
             var descriptiontext = Projects[i]["shortdescription"][j];
             descriptiontext = descriptiontext.replaceAll('\n', '');
             descriptiontext = descriptiontext.replaceAll('\r', '');
@@ -562,7 +562,7 @@ function CVProjects(doc, SelectedTags) {
         };
 
         if(Projects[i]['images'].length > 0){
-            console.log(Projects[i]['images'][0]);
+            //console.log(Projects[i]['images'][0]);
             var imgData = getBase64FromImageUrl(Projects[i]['images'][0]);
             if (Projects[i]['images'][0].rsplit('.',1)[-1] == 'jpg'){
                 doc.addImage(imgData, 'JPEG', 1, ImageYPosition, 178, 100);
