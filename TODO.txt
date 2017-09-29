@@ -1,8 +1,6 @@
 #double check ios resume generation
 
-#CV Pagination 
-CV Priority
-CV tag selection
+Improve short descriptions
 CV/Resume Menu Size
 
 Fix align left for slideshow on large screens - 1 day
