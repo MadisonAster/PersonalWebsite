@@ -524,6 +524,7 @@ function CVPage(doc) {
         console.log(Projects[i]["tags"]);
         
         if(Projects[i]['images'].length > 0){
+            console.log(Projects[i]['images'][0]);
             var imgData = getBase64FromImageUrl(Projects[i]['images'][0]);
             doc.addImage(imgData, 'JPEG', 1, ImageYPosition, 178, 100);
             ImageYPosition += 142;
