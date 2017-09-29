@@ -537,14 +537,17 @@ function CVProjects(doc, SelectedTags) {
             };
         };
         Projects[i]["TagCount"] = TagCount;
-        console.log(Projects[i]["title"]+' TagCount '+TagCount);
+        //console.log(Projects[i]["title"]+' TagCount '+TagCount);
     };
     Projects.sortOn("TagCount");
     Projects = Projects.reverse();
-    console.log(Projects);
+    //console.log(Projects);
     
     for (var i = 0; i < Projects.length; i++) {
-        console.log('TagCount2 '+Projects[i]["TagCount"]);
+        //console.log('TagCount2 '+Projects[i]["TagCount"]);
+        if (Projects[i]["TagCount"] < 3) {
+            continue;
+        };
         doc.setFontStyle('bold');
         doc.setFontSize(16);
         doc.drawText(201, ImageYPosition+10, '.'+Projects[i]["title"]);
