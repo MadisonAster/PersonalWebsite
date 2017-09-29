@@ -514,13 +514,13 @@ function CVContactDetails(doc, PositionTitle) {
     doc.drawText(201, 120, '.'+GetPhone());
     doc.drawText(201, 140, GetEmail());
     doc.drawText(201, 160, 'www.thomas-mcvay.info');
+    doc.addImage(getBase64FromImageUrl("./_Assets/CVThumb.jpg"), 'JPEG', 1, 78, 178, 100);
 }
 function CVPage(doc) {
     //console.log(Projects);
-    var ImageYPosition = 78;
+    var ImageYPosition = 220;
     var TextYPosition = 200;
-    
-    
+
     for (var i = 0; i < Projects.length; i++) {
         var descriptiontext = '';
         for (var j = 0; j < Projects[i]["description"].length; j++) {
@@ -530,11 +530,9 @@ function CVPage(doc) {
         console.log(descriptiontext);
         
         doc.setFontStyle('bold');
-        doc.drawText(201, TextYPosition, Projects[i]["title"]);
-        TextYPosition += 20;
+        doc.drawText(201, ImageYPosition, '.'+Projects[i]["title"]);
         doc.setFontStyle('normal');
-        //doc.drawText(201, TextYPosition, descriptiontext);
-        TextYPosition += 80;
+        doc.drawText(201, ImageYPosition+20, descriptiontext);
         
         if(Projects[i]['images'].length > 0){
             console.log(Projects[i]['images'][0]);

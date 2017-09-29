@@ -21,6 +21,7 @@ foreach($Projectdirs as &$Projectdir){
         $ProjectTitle = substr($folderName, 3);
         $ProjectContent = file($Projectdir."/content.html");
         $ProjectDescription = file($Projectdir."/Description.txt");
+        $ProjectShortDescription = file_get_contents($Projectdir."/ShortDescription.txt");
         $ProjectDate = file_get_contents($Projectdir."/ProjectDate.txt");
         $ProjectTags = file($Projectdir."/ProjectTags.csv");
         if(substr($folderName, 0, 1) !== '_'){
@@ -48,11 +49,14 @@ foreach($Projectdirs as &$Projectdir){
             $ProjectObject = array(
                 "title" => $ProjectTitle,
                 "description" => $ProjectDescription,
+                "shortdescription" => $ProjectShortDescription,
                 "date" => $ProjectDate,
                 "tags" => $ProjectTags,
                 "images" =>$Images,
             );
-            array_push($ProjectObjects, $ProjectObject);
+            if($ProjectTitle != 'This Portfolio Website'){
+                array_push($ProjectObjects, $ProjectObject);
+            };
         };
     };
 };
