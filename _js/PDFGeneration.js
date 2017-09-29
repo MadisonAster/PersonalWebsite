@@ -533,14 +533,14 @@ function CVProjects(doc) {
         doc.drawText(201, ImageYPosition+10, '.'+Projects[i]["title"]);
         doc.setFontStyle('normal');
         doc.setFontSize(10);
-        doc.drawText(201, ImageYPosition+15, Projects[i]["date"]);
+        doc.drawText(221, ImageYPosition+20, Projects[i]["date"]);
         doc.setFontSize(16);
         for (var j = 0; j < Projects[i]["shortdescription"].length; j++) {
             console.log(Projects[i]["shortdescription"][j]);
             var descriptiontext = Projects[i]["shortdescription"][j];
             descriptiontext = descriptiontext.replaceAll('\n', '');
             descriptiontext = descriptiontext.replaceAll('\r', '');
-            doc.drawText(201, ImageYPosition+15+20*(j+1), descriptiontext);
+            doc.drawText(201, ImageYPosition+20+20*(j+1), descriptiontext);
         };
 
         if(Projects[i]['images'].length > 0){
