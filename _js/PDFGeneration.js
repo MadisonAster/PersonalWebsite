@@ -518,10 +518,23 @@ function CVContactDetails(doc, PositionTitle) {
 function CVPage(doc) {
     //console.log(Projects);
     var ImageYPosition = 78;
+    var TextYPosition = 200;
+    
+    
     for (var i = 0; i < Projects.length; i++) {
-        console.log(Projects[i]["title"]);
+        var descriptiontext = '';
+        for (var j = 0; j < Projects[i]["description"].length; j++) {
+            descriptiontext += Projects[i]["description"][j];
+        };
         console.log(Projects[i]["date"]);
         console.log(Projects[i]["tags"]);
+        
+        doc.setFontStyle('bold');
+        doc.drawText(201, TextYPosition, Projects[i]["title"]);
+        TextYPosition += 20;
+        doc.setFontStyle('normal');
+        doc.drawText(201, TextYPosition, descriptiontext);
+        TextYPosition += 80;
         
         if(Projects[i]['images'].length > 0){
             console.log(Projects[i]['images'][0]);
