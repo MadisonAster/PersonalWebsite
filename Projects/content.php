@@ -21,7 +21,7 @@ foreach($Projectdirs as &$Projectdir){
         $ProjectTitle = substr($folderName, 3);
         $ProjectContent = file($Projectdir."/content.html");
         $ProjectDescription = file($Projectdir."/Description.txt");
-        $ProjectShortDescription = file_get_contents($Projectdir."/ShortDescription.txt");
+        $ProjectShortDescription = file($Projectdir."/ShortDescription.txt");
         $ProjectDate = file_get_contents($Projectdir."/ProjectDate.txt");
         $ProjectTags = file($Projectdir."/ProjectTags.csv");
         if(substr($folderName, 0, 1) !== '_'){
