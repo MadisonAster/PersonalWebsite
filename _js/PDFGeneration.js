@@ -545,8 +545,8 @@ function CVPage(doc) {
             } else {
                 doc.addImage(imgData, 'GIF', 1, ImageYPosition, 178, 100);
             };
-            ImageYPosition += 142;
         };
+        ImageYPosition += 142;
     };
     //var imgData1 = getBase64FromImageUrl("./_Assets/Projects/360RenderTests/thumb.jpg");
     //var imgData2 = getBase64FromImageUrl("./_Assets/Projects/FanControl/thumb.jpg");
