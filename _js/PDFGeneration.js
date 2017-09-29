@@ -539,6 +539,8 @@ function CVProjects(doc, SelectedTags) {
     Projects = Projects.reverse();
     
     for (var i = 0; i < Projects.length; i++) {
+        
+        console.log(Projects.length+' '+i);
         if (Projects[i]["TagCount"] < 3) {
             continue;
         };
@@ -568,7 +570,6 @@ function CVProjects(doc, SelectedTags) {
         };
         ImageYPosition += 142;
         ProjectCounter += 1;
-        console.log(Projects.length+' '+i);
         if (ProjectCounter >= 5 && Projects.length > i+1) {
             ProjectCounter = 0;
             ImageYPosition = 78;
