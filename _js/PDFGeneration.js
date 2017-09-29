@@ -539,8 +539,11 @@ function CVProjects(doc, SelectedTags) {
         Projects[i]["TagCount"] = TagCount;
         console.log('TagCount '+TagCount);
     };
-    console.log(Projects.sortOn("TagCount"));
+    console.log(Projects);
+    Projects.sortOn("TagCount");
+    console.log(Projects);
 
+    
     for (var i = 0; i < Projects.length; i++) {
         console.log('TagCount2 '+TagCount);
         doc.setFontStyle('bold');
