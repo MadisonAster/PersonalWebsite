@@ -522,7 +522,7 @@ function CVContactDetails(doc, PositionTitle) {
     imgData1 = getBase64FromImageUrl("./_Assets/CVThumb.jpg");
     doc.addImage(imgData1, 'JPEG', 1, 78, 178, 100);
 }
-function CVProjects(doc) {
+function CVProjects(doc, SelectedTags) {
     //console.log(Projects);
     var ImageYPosition = 220;
     var ProjectCounter = 1;
@@ -577,25 +577,102 @@ function CVSave(doc, PositionTitle) {
     CloseCVDialog();
 };
 
+AllTags = [
+'3D Modeling',
+'C++',
+'Experimental Hardware',
+'Game Development',
+'GUI',
+'Javascript',
+'Nuke',
+'PHP',
+'Pipeline',
+'PySide/PyQt',
+'Python',
+'Software Development',
+'UE4',
+'VFX',
+'VR',
+];
 function VRGameDeveloper_CV() {
     var doc = CVSetup();
     
     var PositionTitle = ".vr game developer";
     var Objective = "Looking to work on VR Games with challenging coding problems and inspiring designs, with a keen interest in experimental hardware.";
     CVContactDetails(doc, PositionTitle);
-    CVProjects(doc);
+    var SelectedTags = [
+        '3D Modeling',
+        'C++',
+        'Experimental Hardware',
+        'Game Development',
+        'GUI',
+        'Software Development',
+        'UE4',
+        'VFX',
+        'VR',
+    ];
+    
+    CVProjects(doc, SelectedTags);
     CVSave(doc, PositionTitle);
     CloseCVDialog();
 }
 function PythonDeveloper_CV() {
-    alert("I haven't written this yet, sorry!");
+    var doc = CVSetup();
+    var PositionTitle = ".python developer";
+    var Objective = "Looking for work on highly modular software projects with long evolution curves.";
+    CVContactDetails(doc, PositionTitle);
+    var SelectedTags = [
+        'C++',
+        'Experimental Hardware',
+        'GUI',
+        'Javascript',
+        'PHP',
+        'Pipeline',
+        'PySide/PyQt',
+        'Python',
+        'Software Development',
+    ];
+    CVProjects(doc, SelectedTags);
+    CVSave(doc, PositionTitle);
     CloseCVDialog();
 }
 function SoftwareDeveloper_CV() {
-    alert("I haven't written this yet, sorry!");
+    var doc = CVSetup();
+    var PositionTitle = ".software developer";
+    var Objective = "Seeking work on highly modular software projects that require succinctly written and maintainable code.";
+    CVContactDetails(doc, PositionTitle);
+    var SelectedTags = [
+        'C++',
+        'GUI',
+        'Javascript',
+        'PHP',
+        'Pipeline',
+        'PySide/PyQt',
+        'Python',
+        'Software Development',
+        'UE4',
+    ];
+    CVProjects(doc, SelectedTags);
+    CVSave(doc, PositionTitle);
     CloseCVDialog();
 }
 function VFXTechnicalDirector_CV() {
-    alert("I haven't written this yet, sorry!");
+    var doc = CVSetup();
+    var PositionTitle = ".vfx technical director";
+    var Objective = "Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.";
+    CVContactDetails(doc, PositionTitle);
+    var SelectedTags = [
+        '3D Modeling',
+        'C++',
+        'Nuke',
+        'Pipeline',
+        'PySide/PyQt',
+        'Python',
+        'UE4',
+        'VFX',
+        'VR',
+    ];
+    CVProjects(doc, SelectedTags);
+    CVSave(doc, PositionTitle);
     CloseCVDialog();
 }

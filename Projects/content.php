@@ -39,8 +39,11 @@ foreach($Projectdirs as &$Projectdir){
                     echo $ProjectValue;
                 };
             };
+            $TagIndex = 0;
             foreach ($ProjectTags as &$Tag) {
+                $ProjectTags[$TagIndex] = str_replace(",","",$Tag);
                 echo '<span class="ProjectTag">'.str_replace(",","",$Tag).'</span>';
+                $TagIndex++;
             };
             echo "</div>\n";
             echo "<br/><br/>";
