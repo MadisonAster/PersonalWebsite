@@ -1,5 +1,3 @@
-Improve short descriptions
-
 Gather Demo Reel Shots
 Make Demo Reel Page
 Improve loading behavior, delay loading of images - 2 days
