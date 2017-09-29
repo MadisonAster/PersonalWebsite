@@ -528,6 +528,7 @@ function CVProjects(doc, SelectedTags) {
     var ProjectCounter = 1;
     
     console.log(SelectedTags);
+    console.log(SelectedTags.indexOf('VR'));
     for (var i = 0; i < Projects.length; i++) {
         var TagCount = 0;
         for (var j = 0; j < Projects[i]["tags"].length; j++) {
