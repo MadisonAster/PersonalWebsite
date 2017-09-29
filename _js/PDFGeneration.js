@@ -527,6 +527,7 @@ function CVPage(doc) {
         doc.drawText(201, ImageYPosition+10, '.'+Projects[i]["title"]);
         doc.setFontStyle('normal');
         for (var j = 0; j < Projects[i]["shortdescription"].length; j++) {
+            console.log(Projects[i]["shortdescription"][j]);
             doc.drawText(201, ImageYPosition+10+20*(j+1), Projects[i]["shortdescription"][j]);
         };
 
