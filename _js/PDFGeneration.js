@@ -524,13 +524,9 @@ function CVPage(doc) {
 
     for (var i = 0; i < Projects.length; i++) {
         var descriptiontext = '';
-        //for (var j = 0; j < Projects[i]["description"].length; j++) {
-        //    descriptiontext += Projects[i]["description"][j];
-        //};
-        //console.log(Projects[i]["description"]);
         descriptiontext = Projects[i]["shortdescription"];
-        descriptiontext = descriptiontext.replaceAll('\n', '');
-        descriptiontext = descriptiontext.replaceAll('\r', '');
+        //descriptiontext = descriptiontext.replaceAll('\n', '');
+        //descriptiontext = descriptiontext.replaceAll('\r', '');
         console.log(Projects[i]["title"]);
         console.log(descriptiontext);
         
