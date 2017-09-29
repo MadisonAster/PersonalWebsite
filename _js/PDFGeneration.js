@@ -544,6 +544,11 @@ function CVProjects(doc, SelectedTags) {
         if (Projects[i]["TagCount"] < 3) {
             continue;
         };
+        if (ProjectCounter >= 5 && Projects.length > i+1) {
+            ProjectCounter = 0;
+            ImageYPosition = 78;
+            CVAddPage(doc);
+        };
         doc.setFontStyle('bold');
         doc.setFontSize(16);
         doc.drawText(201, ImageYPosition+10, '.'+Projects[i]["title"]);
@@ -570,12 +575,7 @@ function CVProjects(doc, SelectedTags) {
         };
         ImageYPosition += 142;
         ProjectCounter += 1;
-        console.log('e '+Projects.length+' '+(i+1));
-        if (ProjectCounter >= 5 && Projects.length > i+1) {
-            ProjectCounter = 0;
-            ImageYPosition = 78;
-            CVAddPage(doc);
-        };
+        //console.log('e '+Projects.length+' '+(i+1));
     };
     
     //var imgData1 = getBase64FromImageUrl("./_Assets/Projects/360RenderTests/thumb.jpg");
