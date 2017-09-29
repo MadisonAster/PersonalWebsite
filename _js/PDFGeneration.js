@@ -491,6 +491,11 @@ function CVSetup(){
     //doc.addPage();
     return doc;
 }
+function CVAddPage(doc) {
+    doc.addPage();
+    doc.setFillColor(0);
+    doc.rect(0, 0, 152, doc.internal.pageSize.height, 'F');
+};
 function CVContactDetails(doc, PositionTitle) {
     doc.addFont('Candara.ttf', 'Candara', 'normal', 'WinAnsiEncoding');
     doc.addFont('Candarai.ttf', 'Candara', 'italic', 'WinAnsiEncoding');
@@ -517,10 +522,10 @@ function CVContactDetails(doc, PositionTitle) {
     imgData1 = getBase64FromImageUrl("./_Assets/CVThumb.jpg");
     doc.addImage(imgData1, 'JPEG', 1, 78, 178, 100);
 }
-function CVPage(doc) {
+function CVProjects(doc) {
     //console.log(Projects);
     var ImageYPosition = 220;
-    var TextYPosition = 200;
+    var ProjectCounter = 1;
 
     for (var i = 0; i < Projects.length; i++) {
         doc.setFontStyle('bold');
@@ -546,7 +551,14 @@ function CVPage(doc) {
             };
         };
         ImageYPosition += 142;
+        ProjectCounter += 1;
+        if (ProjectCounter >= 5) {
+            ProjectCounter = 0;
+            ImageYPosition = 78;
+            CVAddPage(doc);
+        };
     };
+    
     //var imgData1 = getBase64FromImageUrl("./_Assets/Projects/360RenderTests/thumb.jpg");
     //var imgData2 = getBase64FromImageUrl("./_Assets/Projects/FanControl/thumb.jpg");
     //doc.addImage(imgData1, 'JPEG', 1, 78, 178, 100);
@@ -567,7 +579,7 @@ function VRGameDeveloper_CV() {
     var PositionTitle = ".vr game developer";
     var Objective = "Looking to work on VR Games with challenging coding problems and inspiring designs, with a keen interest in experimental hardware.";
     CVContactDetails(doc, PositionTitle);
-    CVPage(doc);
+    CVProjects(doc);
     CVSave(doc, PositionTitle);
     CloseCVDialog();
 }
