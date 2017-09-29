@@ -540,8 +540,8 @@ function CVProjects(doc, SelectedTags) {
         console.log(Projects[i]["title"]+' TagCount '+TagCount);
     };
     Projects.sortOn("TagCount");
-    Projects.reverse();
-    console.log(Projects.sortOn("TagCount"));
+    Projects = Projects.reverse();
+    console.log(Projects);
     
     for (var i = 0; i < Projects.length; i++) {
         console.log('TagCount2 '+Projects[i]["TagCount"]);
