@@ -537,12 +537,11 @@ function CVProjects(doc, SelectedTags) {
             };
         };
         Projects[i]["TagCount"] = TagCount;
-        console.log('TagCount '+TagCount);
+        console.log(Projects[i]["title"]+' TagCount '+TagCount);
     };
-    console.log(Projects);
     Projects.sortOn("TagCount");
+    Projects.reverse();
     console.log(Projects.sortOn("TagCount"));
-
     
     for (var i = 0; i < Projects.length; i++) {
         console.log('TagCount2 '+Projects[i]["TagCount"]);
