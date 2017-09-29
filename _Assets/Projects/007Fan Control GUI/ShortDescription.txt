@@ -1,1 +1,1 @@
-Created a custom cooling system using the raspberry pi, custom circuitry, and a bit of Qt via PySide.
+A custom cooling system using the raspberry pi, custom circuitry, and a bit of Qt via PySide.
