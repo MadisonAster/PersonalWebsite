@@ -528,7 +528,10 @@ function CVPage(doc) {
         //    descriptiontext += Projects[i]["description"][j];
         //};
         //console.log(Projects[i]["description"]);
-        descriptiontext = descriptiontext+Projects[i]["shortdescription"];
+        descriptiontext = Projects[i]["shortdescription"];
+        descriptiontext = descriptiontext.replaceAll('\n', '');
+        descriptiontext = descriptiontext.replaceAll('\r', '');
+        descriptiontext = descriptiontext.replaceAll('\t', '');
         console.log(Projects[i]["title"]);
         console.log(descriptiontext);
         

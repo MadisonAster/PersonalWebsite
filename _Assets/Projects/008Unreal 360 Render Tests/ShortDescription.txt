@@ -1,2 +1,1 @@
 Created a 360 Video rendering pipeline for by customising Unreal Engine and deadline renderer.
-
