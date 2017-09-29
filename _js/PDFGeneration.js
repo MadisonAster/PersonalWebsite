@@ -536,6 +536,7 @@ function CVProjects(doc, SelectedTags) {
             //console.log(SelectedTags.includes(Projects[i]["tags"][j]));
             var thistag = Projects[i]["tags"][j];
             console.log(thistag);
+            console.log(SelectedTags.indexOf(thistag));
             console.log(SelectedTags.indexOf(thistag) > -1);
             if (SelectedTags.indexOf(thistag) > -1){
                 console.log('+1');
