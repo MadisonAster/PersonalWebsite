@@ -514,7 +514,7 @@ function CVContactDetails(doc, PositionTitle) {
     doc.drawText(201, 120, '.'+GetPhone());
     doc.drawText(201, 140, GetEmail());
     doc.drawText(201, 160, 'www.thomas-mcvay.info');
-    doc.addImage(getBase64FromImageUrl("./_Assets/CVThumb.png"), 'JPEG', 1, 78, 178, 100);
+    doc.addImage(getBase64FromImageUrl("./_Assets/CVThumb.png"), 'PNG', 1, 78, 178, 100);
 }
 function CVPage(doc) {
     //console.log(Projects);
@@ -538,7 +538,13 @@ function CVPage(doc) {
         if(Projects[i]['images'].length > 0){
             console.log(Projects[i]['images'][0]);
             var imgData = getBase64FromImageUrl(Projects[i]['images'][0]);
-            doc.addImage(imgData, 'JPEG', 1, ImageYPosition, 178, 100);
+            if (Projects[i]['images'][0].rsplit('.',1)[-1] == 'jpg'){
+                doc.addImage(imgData, 'JPEG', 1, ImageYPosition, 178, 100);
+            } else if(Projects[i]['images'][0].rsplit('.',1)[-1] == 'png')
+                doc.addImage(imgData, 'PNG', 1, ImageYPosition, 178, 100);
+            } else {
+                doc.addImage(imgData, 'GIF', 1, ImageYPosition, 178, 100);
+            };
             ImageYPosition += 142;
         };
     };
