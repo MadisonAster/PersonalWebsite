@@ -531,9 +531,9 @@ function CVPage(doc) {
         console.log(descriptiontext);
         
         doc.setFontStyle('bold');
-        doc.drawText(201, ImageYPosition, '.'+Projects[i]["title"]);
+        doc.drawText(201, ImageYPosition+10, '.'+Projects[i]["title"]);
         doc.setFontStyle('normal');
-        doc.drawText(201, ImageYPosition+20, 'HelloWorld HelloWorld HelloWorld HelloWorld');
+        doc.drawText(201, ImageYPosition+30, 'HelloWorld HelloWorld HelloWorld HelloWorld');
         
         if(Projects[i]['images'].length > 0){
             console.log(Projects[i]['images'][0]);
