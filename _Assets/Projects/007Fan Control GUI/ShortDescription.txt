@@ -1,2 +1,4 @@
-A custom cooling system using the raspberry pi, custom 
-circuitry, and a bit of Qt via PySide.
+A custom server rack cooling system built using the 
+Raspberry Pi, a custom circuit design featuring pulse
+width modulation and electrical isolation, and touch 
+screen controls via PySide.

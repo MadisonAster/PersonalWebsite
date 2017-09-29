@@ -1,2 +1,6 @@
 An Unreal Engine 4 based VR Virtual Travel game with 
-cross platform support from a single executable. 
+cross platform support from a single executable.
+Debuted at VRLA in fall 2016, features include support
+for oculus, vive, psvr, daydream, Leap Motion, and 
+Virtuix Omni. Maps constructed from historically 
+important sites.
