@@ -540,7 +540,7 @@ function CVProjects(doc) {
             var descriptiontext = Projects[i]["shortdescription"][j];
             descriptiontext = descriptiontext.replaceAll('\n', '');
             descriptiontext = descriptiontext.replaceAll('\r', '');
-            doc.drawText(201, ImageYPosition+20+20*(j+1), descriptiontext);
+            doc.drawText(201, ImageYPosition+18+20*(j+1), descriptiontext);
         };
 
         if(Projects[i]['images'].length > 0){
