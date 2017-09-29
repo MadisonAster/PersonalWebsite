@@ -528,14 +528,16 @@ function CVProjects(doc, SelectedTags) {
     var ProjectCounter = 1;
     
     console.log(SelectedTags);
-    console.log(SelectedTags.indexOf('VR'));
+    console.log(SelectedTags.indexOf('VR') > -1);
     for (var i = 0; i < Projects.length; i++) {
         var TagCount = 0;
         for (var j = 0; j < Projects[i]["tags"].length; j++) {
-            console.log(Projects[i]["tags"][j]);
+            
             //console.log(SelectedTags.includes(Projects[i]["tags"][j]));
-            console.log(SelectedTags.indexOf(Projects[i]["tags"][j]) > -1);
-            if (SelectedTags.indexOf(Projects[i]["tags"][j]) > -1){
+            var thistag = Projects[i]["tags"][j];
+            console.log(thistag);
+            console.log(SelectedTags.indexOf(thistag) > -1);
+            if (SelectedTags.indexOf(thistag) > -1){
                 console.log('+1');
                 TagCount += 1;
             };
