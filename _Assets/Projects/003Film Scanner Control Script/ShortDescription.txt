@@ -1,1 +1,2 @@
-Python based scanner support created for a specific project to telecine services for a film project.
+Python based scanner support created for a specific 
+project to telecine services for a film project.

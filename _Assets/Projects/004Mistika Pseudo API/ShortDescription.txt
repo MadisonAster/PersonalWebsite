@@ -1,1 +1,2 @@
-A python based "pseudo API" that provides near instant access to Mistaka nodes, clips, and timeline effects.
+A python based "pseudo API" that provides near instant 
+access to Mistaka nodes, clips, and timeline effects.

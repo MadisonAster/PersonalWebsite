@@ -1,1 +1,2 @@
-Python based framework for node based, timeline based, and other advanced media applications requiring advanded GUIs.
+Python based framework for node based, timeline based, 
+and other advanced media applications requiring advanded GUIs.

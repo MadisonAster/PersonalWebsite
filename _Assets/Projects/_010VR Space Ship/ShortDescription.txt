@@ -1,1 +1,2 @@
-A modular spaceship framework designed in UE4 blueprint that enabled the creation of an enourmous VR ready spaceship.
+A modular spaceship framework designed in UE4 blueprint 
+that enabled the creation of an enourmous VR ready spaceship.
