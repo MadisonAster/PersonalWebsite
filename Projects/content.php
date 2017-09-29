@@ -44,22 +44,19 @@ foreach($Projectdirs as &$Projectdir){
             echo "</div>\n";
             echo "<br/><br/>";
             
-            
+            $Images = array_merge(glob($Projectdir.'/*.png'), glob($Projectdir.'/*.jpg'), glob($Projectdir.'/*.gif'));
             $ProjectObject = array(
                 "title" => $ProjectTitle,
                 "description" => $ProjectDescription,
                 "date" => $ProjectDate,
                 "tags" => $ProjectTags,
+                "images" =>$Images,
             );
             array_push($ProjectObjects, $ProjectObject);
         };
     };
 };
 echo "<script type='text/javascript'>";
-echo "console.log('ProjectsDict');";
 echo "var ProjectsDictString = ".json_encode($ProjectObjects).";";
-echo "console.log(ProjectsDictString);";
-//echo "var ProjectsDict = JSON.parse(ProjectsDictString);";
-//echo "console.log(ProjectsDict);";
 echo "</script>";
 ?>

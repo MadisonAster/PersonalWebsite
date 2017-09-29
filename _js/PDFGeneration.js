@@ -514,8 +514,7 @@ function CVContactDetails(doc, PositionTitle) {
     doc.drawText(201, 120, '.'+GetPhone());
     doc.drawText(201, 140, GetEmail());
     doc.drawText(201, 160, 'www.thomas-mcvay.info');
-    
-    console.log('pass through');
+
     console.log(ProjectsDictString);
     var imgData1 = getBase64FromImageUrl("./_Assets/Projects/360RenderTests/thumb.jpg");
     var imgData2 = getBase64FromImageUrl("./_Assets/Projects/FanControl/thumb.jpg");
