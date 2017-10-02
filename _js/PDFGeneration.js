@@ -564,20 +564,20 @@ function CVProjects(doc, SelectedTags) {
 
         if(Projects[i]['images'].length > 0){
             var imgPath = Projects[i]['images'][0];
-            imageCache[i] = new Image();
-            var imgLoaded = false;
-            imageCache[i].onload = function() {console.log('loaded '+imgPath);imgLoaded = true};
-            imageCache[i].src = imgPath;
+            //imageCache[i] = new Image();
+            //var imgLoaded = false;
+            //imageCache[i].onload = function() {console.log('loaded '+imgPath);imgLoaded = true};
+            //imageCache[i].src = imgPath;
             
-            waitforload = function() {
-                if (imgLoaded == false){
-                    console.log('waiting for image');
-                    setTimeout(waitforload, 100);
-                };
-            };
-            waitforload();
+            //waitforload = function() {
+            //    if (imgLoaded == false){
+            //        console.log('waiting for image');
+            //        setTimeout(waitforload, 100);
+            //    };
+            //};
+            //waitforload();
             
-            var imgData = getBase64FromImageUrl(Projects[i]['images'][0]);
+            var imgData = getBase64FromImageUrl(imgPath);
             if (Projects[i]['images'][0].rsplit('.',1)[-1] == 'jpg'){
                 doc.addImage(imgData, 'JPEG', 1, ImageYPosition, 178, 100);
             } else if(Projects[i]['images'][0].rsplit('.',1)[-1] == 'png'){
