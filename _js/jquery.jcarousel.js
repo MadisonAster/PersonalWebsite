@@ -1349,14 +1349,14 @@
                 }
 
                 dim = carousel.dimension(curr);
-                console.log(dim);
+                //console.log(dim);
                 if ((wh + dim) > clip) {
                     page++;
                     wh = 0;
                 }
 
                 wh += dim;
-
+                console.log(page);
                 if (!pages[page]) {
                     pages[page] = curr;
                 } else {
