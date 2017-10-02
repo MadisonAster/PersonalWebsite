@@ -11,6 +11,8 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
         document.getElementById(window.LastDisplayed).style['display'] = 'none';
     };
     document.getElementById('Content_'+window.PageName).style['display'] = '';
+    console.log($('#Content_'+window.PageName).find('img'));
+    alert($('#Content_'+window.PageName).find('img'));
     window.LastDisplayed = 'Content_'+window.PageName;
     
     if(window.isOldBrowser){
