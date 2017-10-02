@@ -569,12 +569,13 @@ function CVProjects(doc, SelectedTags) {
             imgObject.onload = function() {console.log('loaded '+imgPath);imgLoaded = true};
             imgObject.src = imgPath;
             
-            /*
-            while (true) {
-                if(imgLoaded == true){
-                    break;
+            waitforload = function() {
+                if (imgLoaded == false){
+                    console.log('waiting for image');
+                    setTimeout(waitforload, 100);
                 };
-            };*/
+            };
+            waitforload();
             
             var imgData = getBase64FromImageUrl(Projects[i]['images'][0]);
             if (Projects[i]['images'][0].rsplit('.',1)[-1] == 'jpg'){
