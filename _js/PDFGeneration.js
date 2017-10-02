@@ -525,6 +525,7 @@ function CVContactDetails(doc, PositionTitle) {
 function CVProjects(doc, SelectedTags) {
     var ImageYPosition = 220;
     var ProjectCounter = 1;
+    var imageCache = new Array; 
     for (var i = 0; i < Projects.length; i++) {
         var TagCount = 0;
         for (var j = 0; j < Projects[i]["tags"].length; j++) {
@@ -539,7 +540,6 @@ function CVProjects(doc, SelectedTags) {
     Projects = Projects.reverse();
     
     for (var i = 0; i < Projects.length; i++) {
-        console.log(Projects.length+' '+(i+1));
         if (Projects[i]["TagCount"] < 3) {
             continue;
         };
@@ -564,10 +564,10 @@ function CVProjects(doc, SelectedTags) {
 
         if(Projects[i]['images'].length > 0){
             var imgPath = Projects[i]['images'][0];
-            var imgObject = new Image();
+            var imageCache[i] = new Image();
             var imgLoaded = false;
-            imgObject.onload = function() {console.log('loaded '+imgPath);imgLoaded = true};
-            imgObject.src = imgPath;
+            imageCache[i].onload = function() {console.log('loaded '+imgPath);imgLoaded = true};
+            imageCache[i].src = imgPath;
             
             waitforload = function() {
                 if (imgLoaded == false){
