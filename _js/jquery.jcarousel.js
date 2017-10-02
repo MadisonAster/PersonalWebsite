@@ -1294,6 +1294,7 @@
             });
 
             //this._update();
+            this._trigger('active', this._items[1]);
         },
         _update: function() {
             var target = this.carousel().jcarousel('target'),
