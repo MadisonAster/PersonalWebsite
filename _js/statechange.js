@@ -17,6 +17,14 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
                 $(hidingimages[i]).attr('src', $(hidingimages[i]).attr('psrc'));
             };
         };
+        
+        var hidingframes = $('#'+window.LastDisplayed).find('img');
+        for(var i=0;i<hidingframes.length;i++){
+            var rsrc = $(hidingframes[i]).attr('rsrc');
+            if (typeof rsrc !== typeof undefined && rsrc !== false){
+                $(hidingframes[i]).attr('src', $(hidingframes[i]).attr('psrc'));
+            };
+        };
     };
     
     document.getElementById('Content_'+window.PageName).style['display'] = '';
@@ -25,6 +33,13 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
         var rsrc = $(showingimages[i]).attr('rsrc');
         if (typeof rsrc !== typeof undefined && rsrc !== false){
             $(showingimages[i]).attr('src', rsrc);
+        };
+    };
+    var showingframes = $('#Content_'+window.PageName).find('img');
+    for(var i=0;i<showingframes.length;i++){
+        var rsrc = $(showingframes[i]).attr('rsrc');
+        if (typeof rsrc !== typeof undefined && rsrc !== false){
+            $(showingframes[i]).attr('src', rsrc);
         };
     };
     window.LastDisplayed = 'Content_'+window.PageName;
