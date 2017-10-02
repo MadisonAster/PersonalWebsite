@@ -1352,7 +1352,7 @@
                 dim = 600;
                 //console.log(dim);
                 if ((wh + dim) > clip) {
-                    page++;
+                    //page++;
                     wh = 0;
                 }
 
@@ -1360,8 +1360,10 @@
                 //console.log(page);
                 if (!pages[page]) {
                     pages[page] = curr;
+                    page++;
                 } else {
                     pages[page] = pages[page].add(curr);
+                    page++;
                 }
             }
             console.log(pages);
