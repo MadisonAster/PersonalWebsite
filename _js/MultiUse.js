@@ -56,21 +56,18 @@ function getBase64FromImageUrl(url) {
         if (!imgElement.complete || imgElement.naturalWidth == 0 || imgElement.naturalWidth == 'undefined'){
             console.log('Multi waiting for image');
             setTimeout(waitforload, 100);
+            return;
         };
+        return;
         
-        //if (imgLoaded == false){
-        //    console.log('Multi waiting for image');
-        //    setTimeout(waitforload, 100);
-        //};
+        var img = new Image();
+        img.src = url;
+        ctx.drawImage(img,0,0,178,100);
+        var dataURL = canvas.toDataURL("image/jpeg"); 
     };
     waitforload();
-    console.log('loading '+url);
-    
-    var img = new Image();
-    img.src = url;
-    ctx.drawImage(img,0,0,178,100);
+    console.log('loaded '+url);
 
-    var dataURL = canvas.toDataURL("image/jpeg");    
     return dataURL;
 };
 
