@@ -45,11 +45,7 @@ function getBase64FromImageUrl(url) {
     canvas.width = 178;
     canvas.height = 100;
     var ctx = canvas.getContext("2d");
-    
-    var img = new Image();
-    var imgLoaded = false;
-    img.onload = function() {console.log('MultiLoaded '+url);imgLoaded = true};
-    img.src = url;
+
     var imgElement = document.createElement('img');
     imgElement.src = url;
     imgElement.style = 'display:none;';
@@ -69,6 +65,8 @@ function getBase64FromImageUrl(url) {
     };
     waitforload();
     
+    var img = new Image();
+    img.src = url;
     ctx.drawImage(img,0,0,178,100);
 
     var dataURL = canvas.toDataURL("image/jpeg");    
