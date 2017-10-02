@@ -1181,7 +1181,7 @@
         _options: {
             perPage: null,
             item: function(page) {
-                return '<a href="#' + page + '">' + page + '</a>';
+                return '<a href="">' + page + '</a>';
             },
             event:  'click',
             method: 'scroll'
@@ -1293,7 +1293,7 @@
                 element.append(currItem);
             });
 
-            this._update();
+            //this._update();
         },
         _update: function() {
             var target = this.carousel().jcarousel('target'),
