@@ -46,31 +46,12 @@ function getBase64FromImageUrl(url) {
     canvas.height = 100;
     var ctx = canvas.getContext("2d");
 
-    //var imgElement = document.createElement('img');
-    //imgElement.src = url;
-    //imgElement.style = 'display:none;';
-    //document.body.appendChild(imgElement);
-    
-    /*
-    waitforload = function() {
-        console.log(imgElement.naturalWidth);
-        if (!imgElement.complete || imgElement.naturalWidth == 0 || imgElement.naturalWidth == 'undefined'){
-            console.log('Multi waiting for image');
-            setTimeout(waitforload, 100);
-            return;
-        };
-        console.log('loading '+url);
-        
-    };*/
-    //waitforload();
-
     var img = new Image();
     img.src = url;
     ctx.drawImage(img,0,0,178,100);
     var dataURL = canvas.toDataURL("image/jpeg"); 
     return dataURL;
 };
-
 
 function stepTo(element, property, targetValue, metric, time, steps, retFunction, valInterval, timeInterval, curValue, inputCheck) {
     if (typeof inputCheck == undefined || inputCheck != false) {
