@@ -1267,7 +1267,7 @@
             $.each(this._pages, function(page, carouselItems) {
                 //console.log(item);
                 var currItem = self._items[page] = $(item.call(self, page, carouselItems));
-
+                console.log(page);
                 currItem.on(self.options('event') + '.jcarouselpagination', $.proxy(function() {
                     var target = carouselItems.eq(0);
 
