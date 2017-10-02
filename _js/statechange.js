@@ -46,7 +46,7 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
     var showingcarousels = $('#Content_'+window.PageName).find('div.jcarousel-wrapper');
     for(var i=0;i<showingcarousels.length;i++){
         console.log($(showingcarousels[i]));
-        $(showingcarousels[i]).jcarousel();
+        $(showingcarousels[i]).jcarouselPagination();
     };
     
     if(window.isOldBrowser){
