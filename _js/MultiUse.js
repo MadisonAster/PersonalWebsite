@@ -56,10 +56,12 @@ function getBase64FromImageUrl(url) {
     document.body.appendChild(imgElement);
     
     waitforload = function() {
-        if (!imgElement.complete){
+        console.log(imgElement.naturalWidth);
+        if (!imgElement.complete || imgElement.naturalWidth == 0 || imgElement.naturalWidth == 'undefined'){
             console.log('Multi waiting for image');
             setTimeout(waitforload, 100);
         };
+        
         //if (imgLoaded == false){
         //    console.log('Multi waiting for image');
         //    setTimeout(waitforload, 100);
