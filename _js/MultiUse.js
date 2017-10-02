@@ -50,6 +50,10 @@ function getBase64FromImageUrl(url) {
     var imgLoaded = false;
     img.onload = function() {console.log('MultiLoaded '+url);imgLoaded = true};
     img.src = url;
+    var imgElement = document.createElement('img');
+    imgElement.src = url;
+    imgElement.style = 'display:none;';
+    document.getElementById('body').appendChild(imgElement);
     
     waitforload = function() {
         if (imgLoaded == false){
