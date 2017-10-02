@@ -563,6 +563,17 @@ function CVProjects(doc, SelectedTags) {
         };
 
         if(Projects[i]['images'].length > 0){
+            var imgPath = Projects[i]['images'][0];
+            var imgObject = new Image();
+            var imgLoaded = false;
+            imgObject.onload = function() {imgLoaded = true}
+            imgObject.src = imgPath;
+            while (true) {
+                if(imgLoaded == true){
+                    break;
+                };
+            };
+            
             var imgData = getBase64FromImageUrl(Projects[i]['images'][0]);
             if (Projects[i]['images'][0].rsplit('.',1)[-1] == 'jpg'){
                 doc.addImage(imgData, 'JPEG', 1, ImageYPosition, 178, 100);
