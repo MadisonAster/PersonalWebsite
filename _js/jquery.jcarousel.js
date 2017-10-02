@@ -409,8 +409,8 @@
                     return false;
                 }
 
-                var dim = self.dimension(closest);
-
+                //var dim = self.dimension(closest);
+                var dim = 600;
                 pos += dim;
 
                 if (pos >= 0) {
@@ -586,8 +586,8 @@
                                     // Force items reload
                                     this._items = null;
 
-                                    var dim = this.dimension(curr);
-
+                                    //var dim = this.dimension(curr);
+                                    var dim = 600;
                                     props = {};
                                     props[this.lt] = -dim;
                                     this.moveBy(props);
@@ -881,8 +881,8 @@
                         this._items = null;
                     }
 
-                    dim = this.dimension(curr);
-
+                    //dim = this.dimension(curr);
+                    dim = 600;
                     if (dim === 0) {
                         break;
                     }
