@@ -1,4 +1,3 @@
-Fix PDF Gen Loading
 Improve JCarousel youtube loading
 Move Content Container up slightly for immediate visibility
 CV/Resume Menu Size
