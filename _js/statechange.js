@@ -18,7 +18,7 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
             };
         };
         
-        var hidingframes = $('#'+window.LastDisplayed).find('img');
+        var hidingframes = $('#'+window.LastDisplayed).find('iframe');
         for(var i=0;i<hidingframes.length;i++){
             var rsrc = $(hidingframes[i]).attr('rsrc');
             if (typeof rsrc !== typeof undefined && rsrc !== false){
@@ -35,7 +35,7 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
             $(showingimages[i]).attr('src', rsrc);
         };
     };
-    var showingframes = $('#Content_'+window.PageName).find('img');
+    var showingframes = $('#Content_'+window.PageName).find('iframe');
     for(var i=0;i<showingframes.length;i++){
         var rsrc = $(showingframes[i]).attr('rsrc');
         if (typeof rsrc !== typeof undefined && rsrc !== false){
