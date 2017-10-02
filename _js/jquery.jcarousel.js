@@ -1302,7 +1302,7 @@
                 currentPage;
             console.log(this._pages);
             $.each(this._pages, function(page, carouselItems) {
-                console.log(carouselItems);
+                console.log(page);
                 carouselItems.each(function() {
                     if (target.is(this)) {
                         currentPage = page;
