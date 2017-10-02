@@ -12,9 +12,9 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
         
         var hidingimages = $('#'+window.LastDisplayed).find('img');
         for(var i=0;i<hidingimages.length;i++){
-            var rsrc = hidingimages[i].attr('rsrc');
+            var rsrc = $(hidingimages[i]).attr('rsrc');
             if (typeof rsrc !== typeof undefined && rsrc !== false){
-                hidingimages[i].attr('src', '_Assets/ImgPlaceHolder.png');
+                $(hidingimages[i]).attr('src', '_Assets/ImgPlaceHolder.png');
             };
         };
     };
@@ -23,10 +23,10 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
     var showingimages = $('#Content_'+window.PageName).find('img');
     console.log(showingimages);
     for(var i=0;i<showingimages.length;i++){
-        console.log(showingimages[i]);
-        var rsrc = showingimages[i].attr('rsrc');
+        console.log($(showingimages[i]));
+        var rsrc = $(showingimages[i]).attr('rsrc');
         if (typeof rsrc !== typeof undefined && rsrc !== false){
-            showingimages[i].attr('src', rsrc);
+            $(showingimages[i]).attr('src', rsrc);
         };
     };
     window.LastDisplayed = 'Content_'+window.PageName;
