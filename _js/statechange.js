@@ -9,10 +9,25 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
     
     if(window.LastDisplayed != null){
         document.getElementById(window.LastDisplayed).style['display'] = 'none';
+        
+        var hidingimages = $('#'+window.LastDisplayed).find('img');
+        for(var i=0;i<hidingimages.length;i++){
+            var rsrc = hidingimages[i].attr('rsrc');
+            if (typeof rsrc !== typeof undefined && rsrc !== false){
+                hidingimages[i].attr('src', '_Assets/ImgPlaceHolder.png');
+            };
+        };
     };
+    
     document.getElementById('Content_'+window.PageName).style['display'] = '';
-    console.log($('#Content_'+window.PageName).find('img'));
-    alert($('#Content_'+window.PageName).find('img'));
+    var showingimages = $('#Content_'+window.PageName).find('img');
+    //console.log(showingimages);
+    for(var i=0;i<showingimages.length;i++){
+        var rsrc = showingimages[i].attr('rsrc');
+        if (typeof rsrc !== typeof undefined && rsrc !== false){
+            showingimages[i].attr('src', rsrc);
+        };
+    };
     window.LastDisplayed = 'Content_'+window.PageName;
     
     if(window.isOldBrowser){
