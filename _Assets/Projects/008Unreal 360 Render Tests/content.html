@@ -2,11 +2,21 @@
 <script>
 function change360iframeprev() {
     currleft = $('#U360Wrapper').css('left');
-    console.log(currleft);
+    currItem = currleft / -600 + 1;
+    nextItem = currItem + 1;
+    if (nextItem > 8) {
+        nextItem = 8;
+    };
+    console.log(currItem+' > '+nextItem);
 };
 function change360iframenext() {
     currleft = $('#U360Wrapper').css('left');
-    console.log(currleft);
+    currItem = currleft / -600 + 1;
+    prevItem = currItem - 1;
+    if (prevItem < 1) {
+        prevItem = 1;
+    };
+    console.log(currleft+' > '+prevItem);
 };
 </script>
 <div class="jcarousel-wrapper">
