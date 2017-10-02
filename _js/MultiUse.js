@@ -58,8 +58,7 @@ function getBase64FromImageUrl(url) {
             setTimeout(waitforload, 100);
             return;
         };
-        return;
-        
+        console.log('loading '+url);
         var img = new Image();
         img.src = url;
         ctx.drawImage(img,0,0,178,100);
