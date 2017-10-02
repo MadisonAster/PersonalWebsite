@@ -1339,10 +1339,10 @@
                 pages    = {},
                 curr,
                 dim;
-            console.log(items);
+            //console.log(items);
             while (true) {
                 curr = items.eq(idx++);
-
+                console.log(curr);
                 if (curr.length === 0) {
                     break;
                 }
