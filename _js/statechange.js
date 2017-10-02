@@ -21,9 +21,7 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
     
     document.getElementById('Content_'+window.PageName).style['display'] = '';
     var showingimages = $('#Content_'+window.PageName).find('img');
-    console.log(showingimages);
     for(var i=0;i<showingimages.length;i++){
-        console.log($(showingimages[i]));
         var rsrc = $(showingimages[i]).attr('rsrc');
         if (typeof rsrc !== typeof undefined && rsrc !== false){
             $(showingimages[i]).attr('src', rsrc);
