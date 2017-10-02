@@ -1,14 +1,10 @@
 Improve JCarousel youtube loading
-Move Content Container up slightly for immediate visibility
 CV/Resume Menu Size
+Fix align left for slideshow on large screens - 1 day
 
 Gather Demo Reel Shots
 Make Demo Reel Page
 
-
-
-
-Fix align left for slideshow on large screens - 1 day
 
 Finish Xmarks tree - 4 days
 
