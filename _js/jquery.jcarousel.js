@@ -1263,11 +1263,11 @@
                 element  = this._element,
                 item     = this.options('item'),
                 numCarouselItems = this._getCarouselItems().length;
-            console.log(this._pages);
+            //console.log(this._pages);
             $.each(this._pages, function(page, carouselItems) {
                 //console.log(item);
                 var currItem = self._items[page] = $(item.call(self, page, carouselItems));
-                console.log(page);
+                //console.log(page);
                 currItem.on(self.options('event') + '.jcarouselpagination', $.proxy(function() {
                     var target = carouselItems.eq(0);
 
@@ -1275,7 +1275,7 @@
                     if (carousel.circular) {
                         var currentIndex = carousel.index(carousel.target()),
                             newIndex     = carousel.index(target);
-                        console.log(currentIndex);
+
                         if (parseFloat(page) > parseFloat(self._currentPage)) {
                             if (newIndex < currentIndex) {
                                 target = '+=' + (numCarouselItems - currentIndex + newIndex);
@@ -1302,6 +1302,7 @@
                 currentPage;
 
             $.each(this._pages, function(page, carouselItems) {
+                console.log(carouselItems);
                 carouselItems.each(function() {
                     if (target.is(this)) {
                         currentPage = page;
