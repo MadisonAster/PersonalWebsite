@@ -1294,9 +1294,9 @@
                 element.append(currItem);
             });
 
-            //this._update();
-            page = 1;
-            this._trigger('active', this._items[page]);
+            this._update();
+            //page = 1;
+            //this._trigger('active', this._items[page]);
         },
         _update: function() {
             var target = this.carousel().jcarousel('target'),
