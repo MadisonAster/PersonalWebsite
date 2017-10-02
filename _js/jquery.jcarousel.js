@@ -1300,6 +1300,7 @@
         _update: function() {
             var target = this.carousel().jcarousel('target'),
                 currentPage;
+            console.log(target);
             console.log(this._pages);
             $.each(this._pages, function(page, carouselItems) {
                 console.log(page);
