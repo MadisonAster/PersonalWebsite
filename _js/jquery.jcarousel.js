@@ -1263,11 +1263,8 @@
                 element  = this._element,
                 item     = this.options('item'),
                 numCarouselItems = this._getCarouselItems().length;
-            //console.log(this._pages);
             $.each(this._pages, function(page, carouselItems) {
-                //console.log(item);
                 var currItem = self._items[page] = $(item.call(self, page, carouselItems));
-                //console.log(page);
                 currItem.on(self.options('event') + '.jcarouselpagination', $.proxy(function() {
                     var target = carouselItems.eq(0);
                     console.log(carouselItems);
@@ -1295,8 +1292,6 @@
             });
 
             this._update();
-            //page = 1;
-            //this._trigger('active', this._items[page]);
         },
         _update: function() {
             var target = this.carousel().jcarousel('target'),
@@ -1345,40 +1340,34 @@
                 pages    = {},
                 curr,
                 dim;
-            //console.log(items);
             while (true) {
                 curr = items.eq(idx++);
-                //console.log(curr);
                 if (curr.length === 0) {
                     break;
                 }
 
                 dim = carousel.dimension(curr);
                 dim = 600;
-                //console.log(dim);
                 if ((wh + dim) > clip) {
-                    //page++;
+                    page++;
                     wh = 0;
                 }
 
                 wh += dim;
-                //console.log(page);
                 if (!pages[page]) {
                     pages[page] = curr;
-                    page++;
+                    //page++;
                 } else {
                     pages[page] = pages[page].add(curr);
-                    page++;
+                    //page++;
                 }
             }
-            //console.log(pages);
             return pages;
         },
         _getCarouselItems: function() {
             if (!this._carouselItems) {
                 this._carouselItems = this.carousel().jcarousel('items');
             }
-            //console.log(this._carouselItems);
             return this._carouselItems;
         }
     });
