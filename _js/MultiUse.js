@@ -53,7 +53,7 @@ function getBase64FromImageUrl(url) {
     var imgElement = document.createElement('img');
     imgElement.src = url;
     imgElement.style = 'display:none;';
-    document.getElementById('body').appendChild(imgElement);
+    document.body.appendChild(imgElement);
     
     waitforload = function() {
         if (imgLoaded == false){
