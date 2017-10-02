@@ -1,11 +1,17 @@
+Fix PDF Gen Loading
+Improve JCarousel youtube loading
+Move Content Container up slightly for immediate visibility
+CV/Resume Menu Size
+
 Gather Demo Reel Shots
 Make Demo Reel Page
-Improve loading behavior, delay loading of images - 2 days
-CV/Resume Menu Size
+
+
+
+
 Fix align left for slideshow on large screens - 1 day
 
 Finish Xmarks tree - 4 days
 
 ####Add alpha channel to wire cable rack - 1 day
 ####Fix aspect ratio centering of camera on resize ~ 1 days
-####slideshow numbers don't show up when loaded on a different page
