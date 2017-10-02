@@ -1275,7 +1275,7 @@
                     if (carousel.circular) {
                         var currentIndex = carousel.index(carousel.target()),
                             newIndex     = carousel.index(target);
-
+                        console.log(currentIndex);
                         if (parseFloat(page) > parseFloat(self._currentPage)) {
                             if (newIndex < currentIndex) {
                                 target = '+=' + (numCarouselItems - currentIndex + newIndex);
