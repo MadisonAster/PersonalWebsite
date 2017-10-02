@@ -64,6 +64,7 @@ function getBase64FromImageUrl(url) {
         //};
     };
     waitforload();
+    console.log('loading '+url);
     
     var img = new Image();
     img.src = url;
