@@ -1263,7 +1263,7 @@
                 element  = this._element,
                 item     = this.options('item'),
                 numCarouselItems = this._getCarouselItems().length;
-
+            console.log(numCarouselItems);
             $.each(this._pages, function(page, carouselItems) {
                 var currItem = self._items[page] = $(item.call(self, page, carouselItems));
 
@@ -1369,7 +1369,7 @@
             if (!this._carouselItems) {
                 this._carouselItems = this.carousel().jcarousel('items');
             }
-            console.log(this._carouselItems);
+            //console.log(this._carouselItems);
             return this._carouselItems;
         }
     });
