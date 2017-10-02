@@ -1,6 +1,6 @@
 <img src='./_Assets/Projects/008Unreal 360 Render Tests/thumb.jpg' style='display:none;' align='left'></img>
 <script>
-function change360iframeprev() {
+function change360iframenext() {
     currleft = parseInt($('#U360Wrapper').css('left'));
     currItem = (currleft / (-600)) + 1;
     nextItem = currItem + 1;
@@ -9,14 +9,14 @@ function change360iframeprev() {
     };
     console.log(currItem+' > '+nextItem);
 };
-function change360iframenext() {
+function change360iframeprev() {
     currleft = parseInt($('#U360Wrapper').css('left'));
     currItem = currleft / -600 + 1;
     prevItem = currItem - 1;
     if (prevItem < 1) {
         prevItem = 1;
     };
-    console.log(currleft+' > '+prevItem);
+    console.log(currItem+' > '+prevItem);
 };
 </script>
 <div class="jcarousel-wrapper">
