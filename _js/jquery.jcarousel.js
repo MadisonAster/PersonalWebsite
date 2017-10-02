@@ -1364,7 +1364,7 @@
                     pages[page] = pages[page].add(curr);
                 }
             }
-            //console.log(pages);
+            console.log(pages);
             return pages;
         },
         _getCarouselItems: function() {
