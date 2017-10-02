@@ -1339,7 +1339,7 @@
                 pages    = {},
                 curr,
                 dim;
-
+            console.log(items);
             while (true) {
                 curr = items.eq(idx++);
 

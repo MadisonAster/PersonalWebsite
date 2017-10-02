@@ -45,7 +45,7 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
     window.LastDisplayed = 'Content_'+window.PageName;
     var showingcarousels = $('#Content_'+window.PageName).find('div.jcarousel-wrapper');
     for(var i=0;i<showingcarousels.length;i++){
-        console.log($(showingcarousels[i]));
+        //console.log($(showingcarousels[i]));
         //$(showingcarousels[i]).jcarouselPagination();
     };
     
