@@ -6,7 +6,10 @@ function change360iframenext() {
     nextItem = currItem + 1;
     if (nextItem > 8) {
         nextItem = 8;
+        return;
     };
+    clearframe(currItem);
+    loadframe(nextItem);
     console.log(currItem+' > '+nextItem);
 };
 function change360iframeprev() {
@@ -15,8 +18,20 @@ function change360iframeprev() {
     prevItem = currItem - 1;
     if (prevItem < 1) {
         prevItem = 1;
+        return;
     };
+    clearframe(currItem);
+    loadframe(prevItem);
     console.log(currItem+' > '+prevItem);
+};
+
+function clearframe(i) {
+    frame = $('#U360Wrapper').children()[i];
+    frame.attr('src', frame.attr('nsrc'));
+};
+function loadframe(i) {
+    frame = $('#U360Wrapper').children()[i];
+    frame.attr('src', frame.attr('fsrc'));
 };
 </script>
 <div class="jcarousel-wrapper">
