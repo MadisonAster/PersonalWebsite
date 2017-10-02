@@ -564,7 +564,7 @@ function CVProjects(doc, SelectedTags) {
 
         if(Projects[i]['images'].length > 0){
             var imgPath = Projects[i]['images'][0];
-            var imageCache[i] = new Image();
+            imageCache[i] = new Image();
             var imgLoaded = false;
             imageCache[i].onload = function() {console.log('loaded '+imgPath);imgLoaded = true};
             imageCache[i].src = imgPath;
