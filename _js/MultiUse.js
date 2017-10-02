@@ -48,7 +48,7 @@ function getBase64FromImageUrl(url) {
     
     var img = new Image();
     var imgLoaded = false;
-    img.onload = function() {console.log('MultiLoaded '+imgPath);imgLoaded = true};
+    img.onload = function() {console.log('MultiLoaded '+url);imgLoaded = true};
     img.src = url;
     
     waitforload = function() {
