@@ -46,7 +46,7 @@ foreach ($Moviedirs as &$dir){
         echo "    <table style='width:100%;'>\n";
         echo "    <tr>\n";
         echo "    <td style='width:150px;'>\n";
-        echo "    <img src='./_Assets/150x225_loading.gif' rsrc='$dir/thumb.jpg'></img>\n";
+        echo "    <img psrc='./_Assets/150x225_loading.gif' rsrc='$dir/thumb.jpg'></img>\n";
         echo "    <div style='width:150px;height:80px;text-align:center;color:#FFFFFF;text-shadow: 2px 2px 0px rgba(0, 0, 0, 1.0);'>\n";
         echo "    $movieName\n";
         echo "    </div>\n";
@@ -117,7 +117,7 @@ foreach ($Moviedirs as &$dir){
         
         echo "    </div>\n";
         echo "    <a id='a_movInfo_$varName' href='#' onclick=\"showSubSection('movInfo_$varName');return false;\" style='text-decoration: none;'>\n";
-        echo "    <img src='./_Assets/150x225_loading.gif' rsrc='$dir/thumb.jpg' data-original='$dir/thumb.jpg'></img>\n";
+        echo "    <img psrc='./_Assets/150x225_loading.gif' rsrc='$dir/thumb.jpg' data-original='$dir/thumb.jpg'></img>\n";
         echo "    <br/>\n";
         echo "    <div style='width:150px;height:80px;text-align:center;color:#FFFFFF;text-shadow: 2px 2px 0px rgba(0, 0, 0, 1.0);'>\n";
         echo "    $movieName\n";

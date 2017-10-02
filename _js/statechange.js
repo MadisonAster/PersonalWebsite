@@ -14,7 +14,7 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
         for(var i=0;i<hidingimages.length;i++){
             var rsrc = $(hidingimages[i]).attr('rsrc');
             if (typeof rsrc !== typeof undefined && rsrc !== false){
-                $(hidingimages[i]).attr('src', '_Assets/ImgPlaceHolder.png');
+                $(hidingimages[i]).attr('src', $(hidingimages[i]).attr('psrc'));
             };
         };
     };
