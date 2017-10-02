@@ -1294,7 +1294,8 @@
             });
 
             //this._update();
-            this._trigger('active', this._items[1]);
+            page = 1;
+            this._trigger('active', this._items[page]);
         },
         _update: function() {
             var target = this.carousel().jcarousel('target'),
