@@ -1340,16 +1340,16 @@
                 pages    = {},
                 curr,
                 dim;
-            console.log(items);
+            //console.log(items);
             while (true) {
                 curr = items.eq(idx++);
-                console.log(curr);
+                //console.log(curr);
                 if (curr.length === 0) {
                     break;
                 }
 
                 dim = carousel.dimension(curr);
-
+                console.log(dim);
                 if ((wh + dim) > clip) {
                     page++;
                     wh = 0;
