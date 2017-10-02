@@ -1,8 +1,8 @@
 <img src='./_Assets/Projects/008Unreal 360 Render Tests/thumb.jpg' style='display:none;' align='left'></img>
 <script>
 function change360iframeprev() {
-    currleft = $('#U360Wrapper').css('left');
-    currItem = currleft / -600 + 1;
+    currleft = parseInt($('#U360Wrapper').css('left'));
+    currItem = (currleft / (-600)) + 1;
     nextItem = currItem + 1;
     if (nextItem > 8) {
         nextItem = 8;
@@ -10,7 +10,7 @@ function change360iframeprev() {
     console.log(currItem+' > '+nextItem);
 };
 function change360iframenext() {
-    currleft = $('#U360Wrapper').css('left');
+    currleft = parseInt($('#U360Wrapper').css('left'));
     currItem = currleft / -600 + 1;
     prevItem = currItem - 1;
     if (prevItem < 1) {
