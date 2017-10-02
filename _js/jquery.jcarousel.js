@@ -1263,9 +1263,9 @@
                 element  = this._element,
                 item     = this.options('item'),
                 numCarouselItems = this._getCarouselItems().length;
-            //console.log(numCarouselItems);
+            console.log(this._pages);
             $.each(this._pages, function(page, carouselItems) {
-                console.log(item);
+                //console.log(item);
                 var currItem = self._items[page] = $(item.call(self, page, carouselItems));
 
                 currItem.on(self.options('event') + '.jcarouselpagination', $.proxy(function() {
