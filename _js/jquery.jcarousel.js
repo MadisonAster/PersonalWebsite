@@ -1362,14 +1362,14 @@
                     pages[page] = pages[page].add(curr);
                 }
             }
-            console.log(pages);
+            //console.log(pages);
             return pages;
         },
         _getCarouselItems: function() {
             if (!this._carouselItems) {
                 this._carouselItems = this.carousel().jcarousel('items');
             }
-
+            console.log(this._carouselItems);
             return this._carouselItems;
         }
     });
