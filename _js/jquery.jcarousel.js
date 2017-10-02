@@ -1340,10 +1340,10 @@
                 pages    = {},
                 curr,
                 dim;
-            //console.log(items);
+            console.log(items);
             while (true) {
                 curr = items.eq(idx++);
-                //console.log(curr);
+                console.log(curr);
                 if (curr.length === 0) {
                     break;
                 }
@@ -1363,7 +1363,7 @@
                     pages[page] = pages[page].add(curr);
                 }
             }
-            console.log(pages);
+            //console.log(pages);
             return pages;
         },
         _getCarouselItems: function() {
