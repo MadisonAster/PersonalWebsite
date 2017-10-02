@@ -65,6 +65,11 @@ function getBase64FromImageUrl(url) {
         var dataURL = canvas.toDataURL("image/jpeg"); 
     };
     waitforload();
+    while () {
+        if (typeof(dataURL) !== 'undefined') {
+            break;
+        };
+    }
     console.log('loaded '+url);
 
     return dataURL;
