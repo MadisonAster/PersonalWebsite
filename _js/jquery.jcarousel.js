@@ -1270,7 +1270,8 @@
                 //console.log(page);
                 currItem.on(self.options('event') + '.jcarouselpagination', $.proxy(function() {
                     var target = carouselItems.eq(0);
-
+                    console.log(carouselItems);
+                    console.log(target);
                     // If circular wrapping enabled, ensure correct scrolling direction
                     if (carousel.circular) {
                         var currentIndex = carousel.index(carousel.target()),
