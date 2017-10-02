@@ -43,6 +43,10 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
         };
     };
     window.LastDisplayed = 'Content_'+window.PageName;
+    var showingcarousels = $('#Content_'+window.PageName).find('jcarousel-wrapper');
+    for(var i=0;i<showingcarousels.length;i++){
+        console.log($(showingcarousels[i]));
+    };
     
     if(window.isOldBrowser){
         iframes = document.getElementById('Content_'+window.PageName).getElementsByClassName('EmbeddedPage');
