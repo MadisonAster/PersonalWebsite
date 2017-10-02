@@ -451,6 +451,54 @@ function VFXTechnicalDirector_Resume() {
     ResumeSave(doc, PositionTitle);
 }
 
+function CacheImagesAndGenerate(SelectedTags, PositionTitle) {
+    SortProjects(SelectedTags);
+    window.ImageCache = new Array;
+    for (var i = 0; i < Projects.length; i++) {
+        if(Projects[i]['images'].length > 0){
+            var imgPath = Projects[i]['images'][0];
+            //window.ImageCache[i] = new Image();
+            //window.ImageCache[i].src = imgPath;
+            
+            window.ImageCache[i] = document.createElement('img');
+            window.ImageCache[i].src = imgPath;
+            window.ImageCache[i].style = 'display:none;';
+        };
+    };
+    
+    waitforload = function() {
+        for (var i = 0; i < Projects.length; i++) {
+            if (!window.ImageCache[i].complete || window.ImageCache[i].naturalWidth == 0 || window.ImageCache[i].naturalWidth == 'undefined'){
+                console.log('cache waiting for image');
+                setTimeout(waitforload, 100);
+                return;
+            };    
+        };
+        Generate_CV_PDF(PositionTitle);
+    };
+    waitforload();
+};
+function SortProjects(SelectedTags) {
+    for (var i = 0; i < Projects.length; i++) {
+        var TagCount = 0;
+        for (var j = 0; j < Projects[i]["tags"].length; j++) {
+            var thistag = Projects[i]["tags"][j].rstrip();
+            if (SelectedTags.indexOf(thistag) > -1){
+                TagCount += 1;
+            };
+        };
+        Projects[i]["TagCount"] = TagCount;
+    };
+    Projects.sortOn("TagCount");
+    window.Projects = Projects.reverse();
+};
+function Generate_CV_PDF(PositionTitle){
+    var doc = CVSetup();
+    CVContactDetails(doc, PositionTitle);
+    CVProjects(doc);
+    CVSave(doc, PositionTitle);
+    CloseCVDialog();
+};
 function CVSetup(){
     var doc = new jsPDF('p', 'pt', 'letter');
     doc.setFontSize(12);
@@ -521,23 +569,10 @@ function CVContactDetails(doc, PositionTitle) {
     doc.drawText(201, 160, 'www.thomas-mcvay.info');
     imgData1 = getBase64FromImageUrl("./_Assets/CVThumb.jpg");
     doc.addImage(imgData1, 'JPEG', 1, 78, 178, 100);
-}
-function CVProjects(doc, SelectedTags) {
+};
+function CVProjects(doc) {
     var ImageYPosition = 220;
     var ProjectCounter = 1;
-    var imageCache = new Array; 
-    for (var i = 0; i < Projects.length; i++) {
-        var TagCount = 0;
-        for (var j = 0; j < Projects[i]["tags"].length; j++) {
-            var thistag = Projects[i]["tags"][j].rstrip();
-            if (SelectedTags.indexOf(thistag) > -1){
-                TagCount += 1;
-            };
-        };
-        Projects[i]["TagCount"] = TagCount;
-    };
-    Projects.sortOn("TagCount");
-    Projects = Projects.reverse();
     
     for (var i = 0; i < Projects.length; i++) {
         if (Projects[i]["TagCount"] < 3) {
@@ -564,19 +599,6 @@ function CVProjects(doc, SelectedTags) {
 
         if(Projects[i]['images'].length > 0){
             var imgPath = Projects[i]['images'][0];
-            //imageCache[i] = new Image();
-            //var imgLoaded = false;
-            //imageCache[i].onload = function() {console.log('loaded '+imgPath);imgLoaded = true};
-            //imageCache[i].src = imgPath;
-            
-            //waitforload = function() {
-            //    if (imgLoaded == false){
-            //        console.log('waiting for image');
-            //        setTimeout(waitforload, 100);
-            //    };
-            //};
-            //waitforload();
-            
             var imgData = getBase64FromImageUrl(imgPath);
             if (Projects[i]['images'][0].rsplit('.',1)[-1] == 'jpg'){
                 doc.addImage(imgData, 'JPEG', 1, ImageYPosition, 178, 100);
@@ -614,11 +636,8 @@ AllTags = [
     'VR',
 ];
 function VRGameDeveloper_CV() {
-    var doc = CVSetup();
-    
     var PositionTitle = ".vr game developer";
     var Objective = "Looking to work on VR Games with challenging coding problems and inspiring designs, with a keen interest in experimental hardware.";
-    CVContactDetails(doc, PositionTitle);
     var SelectedTags = [
         '3D Modeling',
         'C++',
@@ -630,16 +649,11 @@ function VRGameDeveloper_CV() {
         'VFX',
         'VR',
     ];
-    
-    CVProjects(doc, SelectedTags);
-    CVSave(doc, PositionTitle);
-    CloseCVDialog();
+    CacheImagesAndGenerate(SelectedTags, PositionTitle);
 }
 function PythonDeveloper_CV() {
-    var doc = CVSetup();
     var PositionTitle = ".python developer";
     var Objective = "Looking for work on highly modular software projects with long evolution curves.";
-    CVContactDetails(doc, PositionTitle);
     var SelectedTags = [
         'C++',
         'Experimental Hardware',
@@ -651,15 +665,11 @@ function PythonDeveloper_CV() {
         'Python',
         'Software Development',
     ];
-    CVProjects(doc, SelectedTags);
-    CVSave(doc, PositionTitle);
-    CloseCVDialog();
+    CacheImagesAndGenerate(SelectedTags, PositionTitle);
 }
 function SoftwareDeveloper_CV() {
-    var doc = CVSetup();
     var PositionTitle = ".software developer";
     var Objective = "Seeking work on highly modular software projects that require succinctly written and maintainable code.";
-    CVContactDetails(doc, PositionTitle);
     var SelectedTags = [
         'C++',
         'GUI',
@@ -671,15 +681,11 @@ function SoftwareDeveloper_CV() {
         'Software Development',
         'UE4',
     ];
-    CVProjects(doc, SelectedTags);
-    CVSave(doc, PositionTitle);
-    CloseCVDialog();
+    CacheImagesAndGenerate(SelectedTags, PositionTitle);
 }
 function VFXTechnicalDirector_CV() {
-    var doc = CVSetup();
     var PositionTitle = ".vfx technical director";
     var Objective = "Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.";
-    CVContactDetails(doc, PositionTitle);
     var SelectedTags = [
         '3D Modeling',
         'Nuke',
@@ -688,7 +694,5 @@ function VFXTechnicalDirector_CV() {
         'Python',
         'VFX',
     ];
-    CVProjects(doc, SelectedTags);
-    CVSave(doc, PositionTitle);
-    CloseCVDialog();
+    CacheImagesAndGenerate(SelectedTags, PositionTitle);
 }

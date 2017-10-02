@@ -46,11 +46,12 @@ function getBase64FromImageUrl(url) {
     canvas.height = 100;
     var ctx = canvas.getContext("2d");
 
-    var imgElement = document.createElement('img');
-    imgElement.src = url;
-    imgElement.style = 'display:none;';
-    document.body.appendChild(imgElement);
+    //var imgElement = document.createElement('img');
+    //imgElement.src = url;
+    //imgElement.style = 'display:none;';
+    //document.body.appendChild(imgElement);
     
+    /*
     waitforload = function() {
         console.log(imgElement.naturalWidth);
         if (!imgElement.complete || imgElement.naturalWidth == 0 || imgElement.naturalWidth == 'undefined'){
@@ -59,19 +60,14 @@ function getBase64FromImageUrl(url) {
             return;
         };
         console.log('loading '+url);
-        var img = new Image();
-        img.src = url;
-        ctx.drawImage(img,0,0,178,100);
-        var dataURL = canvas.toDataURL("image/jpeg"); 
-    };
-    waitforload();
-    while(true) {
-        if (typeof(dataURL) !== 'undefined') {
-            break;
-        };
-    };
-    console.log('loaded '+url);
+        
+    };*/
+    //waitforload();
 
+    var img = new Image();
+    img.src = url;
+    ctx.drawImage(img,0,0,178,100);
+    var dataURL = canvas.toDataURL("image/jpeg"); 
     return dataURL;
 };
 
