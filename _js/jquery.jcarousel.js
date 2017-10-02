@@ -1267,8 +1267,6 @@
                 var currItem = self._items[page] = $(item.call(self, page, carouselItems));
                 currItem.on(self.options('event') + '.jcarouselpagination', $.proxy(function() {
                     var target = carouselItems.eq(0);
-                    console.log(carouselItems);
-                    console.log(target);
                     // If circular wrapping enabled, ensure correct scrolling direction
                     if (carousel.circular) {
                         var currentIndex = carousel.index(carousel.target()),
@@ -1296,10 +1294,7 @@
         _update: function() {
             var target = this.carousel().jcarousel('target'),
                 currentPage;
-            console.log(target);
-            console.log(this._pages);
             $.each(this._pages, function(page, carouselItems) {
-                console.log(page);
                 carouselItems.each(function() {
                     if (target.is(this)) {
                         currentPage = page;
@@ -1346,20 +1341,20 @@
                     break;
                 }
 
-                dim = carousel.dimension(curr);
+                //dim = carousel.dimension(curr);
                 dim = 600;
                 if ((wh + dim) > clip) {
-                    page++;
+                    //page++;
                     wh = 0;
                 }
 
                 wh += dim;
                 if (!pages[page]) {
                     pages[page] = curr;
-                    //page++;
+                    page++;
                 } else {
                     pages[page] = pages[page].add(curr);
-                    //page++;
+                    page++;
                 }
             }
             return pages;
