@@ -20,8 +20,8 @@ function CVDialog() {
     $( "#CVDialog" ).dialog({
             modal: true,
             autoOpen: false,
-            min-width: '4cm';
-            min-height: '3cm';
+            min-width: '4cm',
+            min-height: '3cm',
     });
     
     $('#CVDialog').dialog('open');
