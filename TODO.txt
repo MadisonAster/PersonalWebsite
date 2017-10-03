@@ -1,5 +1,5 @@
 CV/Resume Menu Size
-Fix align left for slideshow on large screens - 1 day
+MenuContainer size on mobile
 
 Gather Demo Reel Shots
 Make Demo Reel Page
@@ -9,3 +9,4 @@ Finish Xmarks tree - 4 days
 
 ####Add alpha channel to wire cable rack - 1 day
 ####Fix aspect ratio centering of camera on resize ~ 1 days
+Fix align left for slideshow on large screens - 1 day
