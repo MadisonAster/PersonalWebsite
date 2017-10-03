@@ -30,7 +30,8 @@ function clearframe(i) {
     $(frame).attr('src', $(frame).attr('nsrc'));
 };
 function loadframe(i) {
-    frame = $('#U360Wrapper').children()[i-1].children()[0];
+    frame = $('#U360Wrapper').children()[i-1];
+    frame = $(frame).children()[0];
     console.log($('#U360Wrapper').children());
     console.log($('#U360Wrapper').children()[i-1]);
     console.log($('#U360Wrapper').children()[i-1].children()[0].attr('fsrc'));
