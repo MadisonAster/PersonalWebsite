@@ -20,11 +20,11 @@ function CVDialog() {
     $( "#CVDialog" ).dialog({
             modal: true,
             autoOpen: false,
-            width: 50%,
     });
     
     $('#CVDialog').dialog('open');
     $('#DialogFocuser').css('display', 'block');
+    $('#DialogFocuser').css('width', '50%');
 }
 function CloseResumeDialog() {
     $('#ResumeDialog').dialog('close');
