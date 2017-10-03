@@ -8,8 +8,8 @@ function change360iframenext() {
         nextItem = 8;
         return;
     };
-    clearframe(currItem);
-    loadframe(nextItem);
+    window.clearframe(currItem);
+    window.loadframe(nextItem);
 };
 function change360iframeprev() {
     currleft = parseInt($('#U360Wrapper').css('left'));
@@ -19,16 +19,17 @@ function change360iframeprev() {
         prevItem = 1;
         return;
     };
-    clearframe(currItem);
-    loadframe(prevItem);
+    window.clearframe(currItem);
+    window.loadframe(prevItem);
 };
 
-function clearframe(i) {
+function window.clearframe(i) {
     frame = $('#U360Wrapper').children()[i-1];
     frame = $(frame).children()[0];
     $(frame).attr('src', $(frame).attr('nsrc'));
 };
-function loadframe(i) {
+function window.loadframe(i) {
+    console.log('loadfram '+i);
     frame = $('#U360Wrapper').children()[i-1];
     frame = $(frame).children()[0];
     $(frame).attr('src', $(frame).attr('fsrc'));
