@@ -1181,7 +1181,7 @@
         _options: {
             perPage: null,
             item: function(page) {
-                return '<a href="">' + page + '</a>';
+                return '<span href="">' + page + '</span>';
             },
             event:  'click',
             method: 'scroll'
