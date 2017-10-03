@@ -48,7 +48,7 @@ th,
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 1.0);
     margin:1px;
     width:100%;
-    height:20%;
+    height:100%;
 }
 th:hover,
 .button:hover{
