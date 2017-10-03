@@ -49,8 +49,14 @@ function loadframe(i) {
     </div>
     <a href="" class="jcarousel-control-prev" onclick='change360iframeprev();'>&lsaquo;</a>
     <a href="" class="jcarousel-control-next" onclick='change360iframenext();'>&rsaquo;</a>
-    <p class="jcarousel-pagination">
+    <p id='U360Pages' class="jcarousel-pagination">
     </p>
 </div>
+<script>
+U360PageLinks = $('#U360Wrapper').children()
+for(var i=0;i<U360PageLinks.length;i++){
+    U360PageLinks[i].clicked = 'loadframe('+(i+1)+');'
+};
+</script>
 {ShortDescription}
 <br/>
