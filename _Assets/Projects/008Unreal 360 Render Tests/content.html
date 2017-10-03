@@ -23,12 +23,12 @@ function change360iframeprev() {
     window.loadframe(prevItem);
 };
 
-function window.clearframe(i) {
+window.clearframe = function(i) {
     frame = $('#U360Wrapper').children()[i-1];
     frame = $(frame).children()[0];
     $(frame).attr('src', $(frame).attr('nsrc'));
 };
-function window.loadframe(i) {
+window.loadframe = function(i) {
     console.log('loadfram '+i);
     frame = $('#U360Wrapper').children()[i-1];
     frame = $(frame).children()[0];
