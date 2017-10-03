@@ -3,6 +3,6 @@ function Projects_onload(){
     console.log(U360PageLinks);
     for(var i=0;i<U360PageLinks.length;i++){
         console.log(U360PageLinks[i]);
-        $(U360PageLinks[i]).attr('onclicked', 'window.loadframe('+(i+1)+');');
+        $(U360PageLinks[i]).attr('onclicked', 'function(){window.loadframe('+(i+1)+');}');
     };
 };
