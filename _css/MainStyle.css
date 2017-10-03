@@ -41,6 +41,9 @@ th,
     display:none;
     z-index:150;
     position:fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     margin:0px;
     padding-top:20px;
     padding-left:40px;
