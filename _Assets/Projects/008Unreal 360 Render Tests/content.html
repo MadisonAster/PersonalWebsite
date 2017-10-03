@@ -27,11 +27,11 @@ function change360iframeprev() {
 
 function clearframe(i) {
     frame = $('#U360Wrapper').children()[i];
-    frame.attr('src', frame.attr('nsrc'));
+    $(frame).attr('src', $(frame).attr('nsrc'));
 };
 function loadframe(i) {
     frame = $('#U360Wrapper').children()[i];
-    frame.attr('src', frame.attr('fsrc'));
+    $(frame).attr('src', $(frame).attr('fsrc'));
 };
 </script>
 <div class="jcarousel-wrapper">
