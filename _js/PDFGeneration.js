@@ -20,7 +20,7 @@ function CVDialog() {
     $( "#CVDialog" ).dialog({
             modal: true,
             autoOpen: false,
-            width: '25%',
+            width: 50%,
     });
     
     $('#CVDialog').dialog('open');
