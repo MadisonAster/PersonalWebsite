@@ -1,4 +1,3 @@
-Improve JCarousel youtube loading
 CV/Resume Menu Size
 Fix align left for slideshow on large screens - 1 day
 
