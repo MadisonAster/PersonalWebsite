@@ -103,7 +103,7 @@ a.jcarousel-control-next:visited {
     padding: 2px;
 }
 
-.jcarousel-pagination span {
+.jcarousel-pagination a {
     text-decoration: none;
     display: inline-block;
     
@@ -122,7 +122,7 @@ a.jcarousel-control-next:visited {
     opacity: .75;
 }
 
-.jcarousel-pagination span.active {
+.jcarousel-pagination a.active {
     background: #4E443C;
     color: #fff;
     opacity: 1;
