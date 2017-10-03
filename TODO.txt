@@ -1,9 +1,7 @@
-CV/Resume Menu Size
 MenuContainer size on mobile
 
 Gather Demo Reel Shots
 Make Demo Reel Page
-
 
 Finish Xmarks tree - 4 days
 
