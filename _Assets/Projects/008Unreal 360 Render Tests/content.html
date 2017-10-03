@@ -31,6 +31,7 @@ function clearframe(i) {
 };
 function loadframe(i) {
     frame = $('#U360Wrapper').children()[i];
+    console.log($(frame).attr('fsrc'));
     $(frame).attr('src', $(frame).attr('fsrc'));
 };
 </script>
