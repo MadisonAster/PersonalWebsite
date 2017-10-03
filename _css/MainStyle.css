@@ -55,7 +55,10 @@ th,
     border-color: #333333;
     min-width: 500px;
     max-width: 600px;
+    min-height: 400px;
+    max-height: 500px;
     width: 50%;
+    height: 25%;
 }
 .DialogButton{
     background-color:#555555;

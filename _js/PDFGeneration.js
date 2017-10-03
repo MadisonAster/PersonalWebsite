@@ -25,6 +25,7 @@ function CVDialog() {
     $('#CVDialog').dialog('open');
     $('#DialogFocuser').css('display', 'block');
     $('#CVDialog').css('width', '50%');
+    $('#CVDialog').css('height', '25%');
 }
 function CloseResumeDialog() {
     $('#ResumeDialog').dialog('close');
