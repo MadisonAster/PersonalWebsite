@@ -100,8 +100,8 @@ th:active,
     border-style: double;
     border-width: 3px;
     border-color: #333333;
-    min-width: 600px;
-    min-height: 400px;
+    min-width: 4cm;
+    min-height: 3cm;
 }
 .DialogTitle{
     width:100%;
