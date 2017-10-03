@@ -1,10 +1,10 @@
-MenuContainer size on mobile
+MenuContainer size on mobile - today
 
-Gather Demo Reel Shots
-Make Demo Reel Page
+Gather Demo Reel Shots - 3 days
+Make Demo Reel Page - 5 days
 
 Finish Xmarks tree - 4 days
 
-####Add alpha channel to wire cable rack - 1 day
-####Fix aspect ratio centering of camera on resize ~ 1 days
+##Add alpha channel to wire cable rack - 1 day
+##Fix aspect ratio centering of camera on resize ~ 1 days
 Fix align left for slideshow on large screens - 1 day
