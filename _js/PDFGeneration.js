@@ -15,6 +15,12 @@ function ResumeDialog() {
     
     $('#ResumeDialog').dialog('open');
     $('#DialogFocuser').css('display', 'block');
+    $('#ResumeDialog').css('width', '50%');
+    $('#ResumeDialog').css('height', '25%');
+    $('#ResumeDialog').css('min-height', '12cm');
+    $('#ResumeDialog').css('max-height', '500px');
+    $('#ResumeDialog').css('min-width', '20cm');
+    $('#ResumeDialog').css('max-width', '600px')
 }
 function CVDialog() {
     $( "#CVDialog" ).dialog({
