@@ -28,7 +28,7 @@ function CVDialog() {
     $('#CVDialog').css('height', '25%');
     $('#CVDialog').css('min-height', '12cm');
     $('#CVDialog').css('max-height', '500px');
-    $('#CVDialog').css('min-width', '16cm');
+    $('#CVDialog').css('min-width', '20cm');
     $('#CVDialog').css('max-width', '600px')
 }
 function CloseResumeDialog() {
