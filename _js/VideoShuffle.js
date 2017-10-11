@@ -277,7 +277,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations){
         this.seriously.go(this.draw.bind(null, this));
         this.switchVideo(this, 0);
         this.switchAudio(this, 0);
-        this.play();
+        //this.play();
     };
     this.loadedmeta = function(that) {
         that.start();
