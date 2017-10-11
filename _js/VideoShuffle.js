@@ -521,8 +521,10 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations){
     this.resize = this.debounce(function () {
         //var width = Math.min(this.videoWidth, window.innerWidth);
         //var height = Math.min(this.videoHeight, window.innerHeight);
-        var width = window.innerWidth;
-        var height = window.innerHeight;
+        //var width = window.innerWidth;
+        //var height = window.innerHeight;
+        var width = this.vswrapper.offsetWidth;
+        var height = this.vswrapper.offsetHeight;
         if (width/height <= 16/9) {
             height = width / (16/9);
         } else {
