@@ -1,0 +1,42 @@
+<div class='ContentDiv'>
+    <h2 style='text-align:left;'>Demo Reel:</h2>
+    <br/><br/>
+    To keep my demo reel up to date I built this javascript video player I built specifically to play back individual video clips with random transitions in between.
+    <br/><br/>
+    
+    <div id='VideoShuffleWrapper' style='position:absolute;width:100%;height:auto;max-height:100%;top:50%;transform:translate(0%, -50%);'/>
+    <script>
+        vSources = [
+            './_Assets/VSVideo/tiger.mp4',
+            './_Assets/VSVideo/girl.mp4',
+            './_Assets/VSVideo/vader.mp4',
+            './_Assets/VSVideo/tiger.mp4',
+            './_Assets/VSVideo/girl.mp4',
+            './_Assets/VSVideo/vader.mp4',
+            './_Assets/VSVideo/tiger.mp4',
+            './_Assets/VSVideo/girl.mp4',
+            './_Assets/VSVideo/vader.mp4',
+            './_Assets/VSVideo/tiger.mp4',
+            './_Assets/VSVideo/girl.mp4',
+        ];
+        aSources = [
+            './_Assets/VSAudio/tiger.mp3',
+            './_Assets/VSAudio/girl.mp3',
+            './_Assets/VSAudio/vader.mp3',
+        ];
+        vSourceDurations = {
+            './_Assets/VSVideo/danceforme.mp4': 115620,
+            './_Assets/VSVideo/girl.mp4':20080,
+            './_Assets/VSVideo/koch.mp4':149620,
+            './_Assets/VSVideo/olympia.mp4':98400,
+            './_Assets/VSVideo/tiger.mp4':8040,
+            './_Assets/VSVideo/vader.mp4':20000,
+        };
+        aSourceDurations = {
+            './_Assets/VSAudio/girl.mp3':184710,
+            './_Assets/VSAudio/tiger.mp3':144090,
+            './_Assets/VSAudio/vader.mp3':255290,
+        };
+        ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations);
+    </script>
+</div>  
