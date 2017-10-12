@@ -545,6 +545,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         //var width = window.innerWidth;
         //var height = window.innerHeight;
         var width = this.vswrapper.offsetWidth;
+        this.vswrapper.height = width / (16/9);
         var height = this.vswrapper.offsetHeight;
         if (width/height <= 16/9) {
             height = width / (16/9);
