@@ -3,13 +3,29 @@ String.prototype.rsplit = function(sep, maxsplit) {
     return maxsplit ? [ split.slice(0, -maxsplit).join(sep) ].concat(split.slice(-maxsplit)) : split;
 };
 
-function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations){
+function FisherYatesShuffle(array) {
+  var m = array.length, t, i;
+  // While there remain elements to shuffle…
+  while (m) {
+    // Pick a remaining element…
+    i = Math.floor(Math.random() * m--);
+    // And swap it with the current element.
+    t = array[m];
+    array[m] = array[i];
+    array[i] = t;
+  };
+  return array;
+};
+
+function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, autostart, shufflesources){
     this.videoSources = vSources;
     this.vSourceDurations = vSourceDurations;
     this.audioSources = aSources;
     this.aSourceDurations = aSourceDurations;
     this.videos = [];
     this.audios = [];
+    this.autostart = autostart;
+    this.shufflesources = shufflesources;
 
     this.videoWidth = 1280;
     this.videoHeight = 720;
@@ -277,12 +293,17 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations){
         this.seriously.go(this.draw.bind(null, this));
         this.switchVideo(this, 0);
         this.switchAudio(this, 0);
-        //this.play();
+        if (this.autostart) {
+            this.play();
+        };
     };
     this.loadedmeta = function(that) {
         that.start();
     };
     this.loadVideos = function() {
+        if (this.shufflesources) {
+            this.videoSources = FisherYatesShuffle(this.videoSources);
+        };
         for (i = 0; i < this.videoSources.length; i++) {
             var video = document.createElement('video');
             var button = document.createElement('span');
