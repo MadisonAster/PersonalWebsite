@@ -256,7 +256,7 @@
 #VideoShuffleInfo.open > article {
     display: block;
 }
-#VideoShuffleInfo.open > p {
+#VideoShuffleInfo > p {
     display: block;
     padding: initial;
     background-color: none;
