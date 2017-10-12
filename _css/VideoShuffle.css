@@ -261,5 +261,6 @@ p, #VideoShuffleInfo {
     display: block;
     padding: initial;
     background-color: transparent;
+    text-align: left;
 }
 /*------------------------------------------------*/
