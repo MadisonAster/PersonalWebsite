@@ -35,7 +35,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
     this.vswrapper.innerHTML = "\
         <canvas id='VideoShuffleCanvas'></canvas>\
         <div id='VideoShuffleControls' class='KeepOpen'>\
-            <div id='VideoShufflePlayButton' class='VideoShuffleControlsButton'>\
+            <div id='VideoShufflePlayButton' class='VideoShuffleControlsButton paused'>\
                 <svg viewBox='10 10 20.007 20.007' id='vsplay'>\
                     <path d='M27.204,19.191l-10.473-6.108c-0.954-0.557-1.724-0.112-1.719,0.992l0.054,12.124\
                     c0.005,1.104,0.784,1.553,1.741,1l10.393-6C28.156,20.647,28.158,19.748,27.204,19.191z'/>\
