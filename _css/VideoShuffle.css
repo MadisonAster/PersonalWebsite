@@ -248,8 +248,7 @@
     width: 350px;
     font-size: 14px;
     text-shadow: 0 1px 0 rgba( 255,255,255,.2 ), 0 -1px 0 rgba( 0,0,0,.2 );
-    padding: initial;
-    background-color: none;
+    background-color: transparent;
 }
 #VideoShuffleInfo > article a,
 #VideoShuffleInfo > article a:visited {
@@ -261,6 +260,6 @@
 p, #VideoShuffleInfo {
     display: block;
     padding: initial;
-    background-color: none;
+    background-color: transparent;
 }
 /*------------------------------------------------*/
