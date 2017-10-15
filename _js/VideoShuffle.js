@@ -556,10 +556,10 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         };
         // If it's a big enough screen and we have a retina display, let's take advantage.
         // We assume that the GPU will be able to handle it
-        if (window.screen.width * window.devicePixelRatio > this.videoWidth) {
-            width *= window.devicePixelRatio;
-            height *= window.devicePixelRatio;
-        };
+        //if (window.screen.width * window.devicePixelRatio > this.videoWidth) {
+        //    width *= window.devicePixelRatio;
+        //    height *= window.devicePixelRatio;
+        //};
         
         this.canvas.width = width;
         this.canvas.height = height;
