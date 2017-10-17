@@ -303,7 +303,6 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
     this.loadVideos = function() {
         if (this.shufflesources) {
             this.videoSources = FisherYatesShuffle(this.videoSources);
-            this.audioSources = FisherYatesShuffle(this.audioSources);
         };
         for (i = 0; i < this.videoSources.length; i++) {
             var video = document.createElement('video');
@@ -339,6 +338,9 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         };
     };
     this.loadAudios = function() {
+        if (this.shufflesources) {
+            this.audioSources = FisherYatesShuffle(this.audioSources);
+        };
         this.audioVolume = 1.0;
         for (i = 0; i < this.audioSources.length; i++) {
             var audio = document.createElement('audio');
