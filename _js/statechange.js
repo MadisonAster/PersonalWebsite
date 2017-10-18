@@ -27,8 +27,6 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
         };
     };
     
-    console.log(window.PageName);
-    console.log(window.MyShuffleObject);
     if(window.PageName == 'DemoReel' && window.MyShuffleObject != null){
         window.MyShuffleObject.resize();
     } else if (window.PageName == 'DemoReel') {
