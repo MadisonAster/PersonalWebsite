@@ -29,7 +29,7 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
     
     console.log(window.PageName);
     console.log(window.MyShuffleObject);
-    if(window.MyShuffleObject != null){
+    if(window.PageName == 'DemoReel' && window.MyShuffleObject != null){
         window.MyShuffleObject.resize();
     } else if (window.PageName == 'DemoReel') {
         window.MyShuffleObject = ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, false, true);
