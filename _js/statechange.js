@@ -28,6 +28,7 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
     };
     
     console.log(window.PageName);
+    console.log(window.Shuffle);
     if(window.Shuffle != null){
         window.Shuffle.resize();
     } else if (window.PageName == 'DemoReel') {
