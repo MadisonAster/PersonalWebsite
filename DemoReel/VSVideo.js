@@ -1,6 +1,7 @@
 vSources = [
 './_Assets/VSVideo/CellBodyField.mp4',
  './_Assets/VSVideo/CellCrowdReaction.mp4',
+ './_Assets/VSVideo/DesertStars.mp4',
  './_Assets/VSVideo/FollowCar.mp4',
  './_Assets/VSVideo/GorillaGlue.mp4',
  './_Assets/VSVideo/HellAndBackCarnival.mp4',
@@ -23,6 +24,7 @@ vSources = [
 vSourceDurations = {
 './_Assets/VSVideo/CellBodyField.mp4': 19875.0,
  './_Assets/VSVideo/CellCrowdReaction.mp4': 15958.983999999999,
+ './_Assets/VSVideo/DesertStars.mp4': 20833.984,
  './_Assets/VSVideo/FollowCar.mp4': 6375.0,
  './_Assets/VSVideo/GorillaGlue.mp4': 1958.9840000000002,
  './_Assets/VSVideo/HellAndBackCarnival.mp4': 13458.983999999999,
