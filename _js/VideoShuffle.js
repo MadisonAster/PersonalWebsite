@@ -674,4 +674,6 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
     this.volumeslider.addEventListener('input', this.VolumeChange.bind(null, this), false);
     this.volumebutton.addEventListener('click', this.VolumeClick.bind(null, this), false);
     ///////////////////////////////////////////////////////
+    
+    return this;
 };
