@@ -27,6 +27,10 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
         };
     };
     
+    if(window.Shuffle != null){
+        window.Shuffle.resize();
+    };
+    
     document.getElementById('Content_'+window.PageName).style['display'] = '';
     var showingimages = $('#Content_'+window.PageName).find('img');
     for(var i=0;i<showingimages.length;i++){
