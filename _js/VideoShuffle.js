@@ -543,6 +543,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         };
     };
     this.resize = this.debounce(function () {
+        console.log('resize fired');
         var width = this.vswrapper.offsetWidth;
         var height = width / (16/9);
         
@@ -562,6 +563,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
     }, 30, true);
     window.addEventListener('orientationchange', this.resize);
     window.addEventListener('resize', this.resize);
+    window.addEventListener('statechange', this.resize);
     
     this.fullscreenbutton.addEventListener('click', this.goFullScreen.bind(null, this), false);
     ///////////////////////////////////////////////////////
