@@ -545,6 +545,9 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
     this.resize = this.debounce(function () {
         var width = this.vswrapper.offsetWidth;
         console.log('resize fired '+width);
+        if (width == 0) {
+            return;
+        };
         var height = width / (16/9);
         
         this.vswrapper.style.height = height;

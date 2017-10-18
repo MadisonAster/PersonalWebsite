@@ -27,8 +27,11 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
         };
     };
     
+    console.log(window.PageName);
     if(window.Shuffle != null){
         window.Shuffle.resize();
+    } else if (window.PageName == 'DemoReel') {
+        window.Shuffle = ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, false, true);
     };
     
     document.getElementById('Content_'+window.PageName).style['display'] = '';
