@@ -32,7 +32,7 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
     if(window.Shuffle != null){
         window.Shuffle.resize();
     } else if (window.PageName == 'DemoReel') {
-        window.Shuffle = ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, false, true);
+        //window.Shuffle = ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, false, true);
     };
     
     document.getElementById('Content_'+window.PageName).style['display'] = '';
