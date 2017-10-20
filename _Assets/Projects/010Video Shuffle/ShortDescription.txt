@@ -1,0 +1,2 @@
+A javascript based video player that automates the proc-
+ess of creating edited sequences of clips for web pages.

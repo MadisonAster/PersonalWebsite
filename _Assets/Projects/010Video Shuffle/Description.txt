@@ -1,0 +1,6 @@
+In order to keep my demo reel up to date, I've spent the last few weeks creating this javascript video player that plays clips together in sequence from a given folder. The javascript is relatively straightforward, and relies on Seriously.js to draw from video elements on to a canvas. CSS is always the hard
+You can check it out here:
+<a target='_blank' href='http://www.thomas-mcvay.info/DemoReel'>http://www.thomas-mcvay.info/DemoReel</a>
+And download the code here:
+<a target='_blank'  href='https://github.com/ThomasMcVay/VideoShuffle'>https://github.com/ThomasMcVay/VideoShuffle</a>
+ 
