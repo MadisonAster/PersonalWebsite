@@ -55,5 +55,5 @@ foreach ($dirs as &$dir){
 </script>
 </div>
 -->
-Placeholder
+This section will eventually host a live snapshot of my extensive library of bookmarks, however I haven't finished the front end code for it yet.
 </div>

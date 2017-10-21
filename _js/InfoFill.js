@@ -14,7 +14,7 @@ function GetAddress() {
 }
 
 function GetAvailability() {
-    return '2 weeks notice.';
+    return 'Immediate.';
 }
 
 Date.prototype.yyyymmdd = function() {

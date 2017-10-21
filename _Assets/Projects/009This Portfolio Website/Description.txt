@@ -14,7 +14,8 @@ Current Cool Features:
 * Automatically Generates customized resume and cv pdf files with embedded data from site
 * Automatically adds new projects for each new projects subfolder
 * Automatically catalogs my favorite TV shows and movies.
+* Automatically generates randomized DemoReels from a folder of assorted video clips
 
-Planned Cool Features:
+
+Planned Features:
 * Automatically catalog and organize my bookmark collection.
-* Automatically generate randomized DemoReels from a folder of assorted video clips
