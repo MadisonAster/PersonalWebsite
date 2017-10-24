@@ -485,7 +485,6 @@ function SystemsEngineer_Resume() {
     ResumeExperienceTable(doc);
     ResumeSave(doc, PositionTitle);
 }
-
 function PipelineDeveloper_Resume() {
     var doc = ResumeSetup();
     
@@ -757,3 +756,30 @@ function VFXTechnicalDirector_CV() {
     ];
     CacheImagesAndGenerate(SelectedTags, PositionTitle);
 }
+function SystemsEngineer_CV() {
+    var PositionTitle = ".systems engineer";
+    var Objective = "Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.";
+    var SelectedTags = [
+        '3D Modeling',
+        'Nuke',
+        'Pipeline',
+        'PySide/PyQt',
+        'Python',
+        'VFX',
+    ];
+    CacheImagesAndGenerate(SelectedTags, PositionTitle);
+}
+function PipelineDeveloper_CV() {
+    var PositionTitle = ".pipeline developer";
+    var Objective = "Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.";
+    var SelectedTags = [
+        '3D Modeling',
+        'Nuke',
+        'Pipeline',
+        'PySide/PyQt',
+        'Python',
+        'VFX',
+    ];
+    CacheImagesAndGenerate(SelectedTags, PositionTitle);
+}
+
