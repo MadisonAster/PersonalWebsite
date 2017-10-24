@@ -674,7 +674,7 @@ function CVProjects(doc) {
 };
 function CVSave(doc, PositionTitle) {
     var date = new Date();
-    doc.save('ThomasMcVay_'+PositionTitle.replaceAll(' ','').replaceAll('.','')+'_CV'+date.yyyymmdd()+'.pdf');
+    doc.save('ThomasMcVay_'+PositionTitle.replaceAll(' ','').replace('.','')+'_CV'+date.yyyymmdd()+'.pdf');
     CloseCVDialog();
 };
 
