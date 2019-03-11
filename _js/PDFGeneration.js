@@ -102,7 +102,7 @@ function ResumeContactDetails(doc, PositionTitle) {
             doc.setTextColor(89, 92, 98);
             doc.setFont('helvetica');
             if (row.index === 0) {
-                doc.autoTableText("Thomas McVay", 44, row.y-10, {
+                doc.autoTableText("Madison Aster", 44, row.y-10, {
                     valign: 'middle',
                 });
             }
@@ -366,7 +366,7 @@ function ResumeExperienceTable(doc) {
 }
 function ResumeSave(doc, PositionTitle) {
     var date = new Date();
-    doc.save('ThomasMcVay_'+PositionTitle.replaceAll(' ','')+'_Resume'+date.yyyymmdd()+'.pdf');
+    doc.save('MadisonAster_'+PositionTitle.replaceAll(' ','')+'_Resume'+date.yyyymmdd()+'.pdf');
     CloseResumeDialog();
 }
 
@@ -615,7 +615,7 @@ function CVContactDetails(doc, PositionTitle) {
     
     doc.setFontSize(20);
     doc.setFontStyle('bold');
-    doc.drawText(194, 38, '.thomas mcvay');
+    doc.drawText(194, 38, '.madison aster');
     
     doc.setFontSize(18);
     doc.setFontStyle('italic');
@@ -626,7 +626,7 @@ function CVContactDetails(doc, PositionTitle) {
     doc.drawText(201, 100, '.'+GetAddress());
     doc.drawText(201, 120, '.'+GetPhone());
     doc.drawText(201, 140, GetEmail());
-    doc.drawText(201, 160, 'www.thomas-mcvay.info');
+    doc.drawText(201, 160, 'www.MadisonAster.com');
     imgData1 = getBase64FromImageUrl("./_Assets/CVThumb.jpg");
     doc.addImage(imgData1, 'JPEG', 1, 78, 178, 100);
 };
@@ -674,7 +674,7 @@ function CVProjects(doc) {
 };
 function CVSave(doc, PositionTitle) {
     var date = new Date();
-    doc.save('ThomasMcVay_'+PositionTitle.replaceAll(' ','').replace('.','')+'_CV'+date.yyyymmdd()+'.pdf');
+    doc.save('MadisonAster_'+PositionTitle.replaceAll(' ','').replace('.','')+'_CV'+date.yyyymmdd()+'.pdf');
     CloseCVDialog();
 };
 

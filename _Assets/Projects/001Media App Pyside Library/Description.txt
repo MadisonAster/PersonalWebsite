@@ -1,5 +1,5 @@
 A Large, and overly ambitious effort that I worked on some number of years ago was to write node based applications in PySide. Largely unfinished, I've left it the repository up with the dream that one day I might go back and give it some more love.
-<a target='_blank'  href='https://github.com/ThomasMcVay/MediaApp'>https://github.com/ThomasMcVay/MediaApp</a>
+<a target='_blank'  href='https://github.com/MadisonAster/MediaApp'>https://github.com/MadisonAster/MediaApp</a>
 Its basically just a framework of QtWidgets that provide the more advanced features of a modern media application, such as node graphs, viewing windows, timelines, properties bins, etc.
 I want it to be flexible enough to handle any kind of data, but rigid enough to do most everything within the framework. The idea being the applications written from it would continue to improve without a heavy maintenance requirement.
 A lot of it works quite well, and I didn't have to resort to using too many magic methods. If I were asked to write a gui based application that required these types of features, you can bet I'd be using this as library.

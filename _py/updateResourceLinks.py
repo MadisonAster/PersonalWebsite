@@ -18,7 +18,7 @@ def main():
         decoded = deshuffle(decoded, ll1ll111ll1l)
     decoded = base64.b64decode(decoded)
     
-    bookmarks = xmarks.GetBookmarks('thomas-mcvay.info', decoded)
+    bookmarks = xmarks.GetBookmarks('MadisonAster.com', decoded)
     htmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0]
     BookmarksDir = htmlDir+'_Assets/Bookmarks/'
     TempDir = htmlDir+'_Assets/BookmarksTemp/'

@@ -2,7 +2,7 @@
  
 if(isset($_POST['Submit'])) {
  
-    $email_to = 'contact@thomas-mcvay.info';
+    $email_to = 'info@MadisonAster.com';
 
     function died($error) {
         echo "I'm very sorry, but there were error(s) found with the form you submitted. ";
@@ -62,6 +62,6 @@ function createCookie(name,value,seconds){
 }
 window.onload = function() {
 createCookie('EmailSent','True',3);
-window.location.href = "http://www.thomas-mcvay.info/Contact";
+window.location.href = "http://www.MadisonAster.com/Contact";
 };
 </script>

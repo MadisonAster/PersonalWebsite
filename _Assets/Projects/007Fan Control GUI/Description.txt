@@ -4,5 +4,5 @@ I ended up deciding to use a raspberry pi with one of their 7 inch touch screens
 The fans themselves are on a 12v power supply, and every time the software pulses the gpio pin on one of the optocouplers it connects the 5v signal pwm pin from one of the fans to the 12v ground changing the speed of the fan.
 The last part of the puzzle was constructing the gui for the pi itself. I used pyside again for its ease of use, and simply hooked everything up to a bunch of virtual sliders, and voila!
 You can fork a copy of the gui here if you like:
-<a target='_blank'  href='https://github.com/ThomasMcVay/FanControl'>https://github.com/ThomasMcVay/FanControl</a>
+<a target='_blank'  href='https://github.com/MadisonAster/FanControl'>https://github.com/MadisonAster/FanControl</a>
  

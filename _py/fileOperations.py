@@ -1,5 +1,5 @@
 #===============================================================================
-# @author: Thomas McVay
+# @author: Madison Aster
 # @version: 1.0
 # @lastModified: 140521
 # @description: Generic file operations necessary for copy or creating files/folders
