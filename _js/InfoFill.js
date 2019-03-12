@@ -9,7 +9,7 @@ function GetEmail() {
 }
 
 function GetAddress() {
-    var EncodedString = "NTg3MCBGcmFua2xpbiBBdmUgQXB0IDMwOSwgSG9sbHl3b29kLCBDQSA5MDAyOA==";
+    var EncodedString = "SG9sbHl3b29kIENBLCA5MDAyOA==";
     return DecodeData(EncodedString);
 }
 

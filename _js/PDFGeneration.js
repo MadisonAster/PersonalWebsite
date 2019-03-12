@@ -157,7 +157,7 @@ function ResumeContactDetails(doc, PositionTitle) {
             doc.setTextColor(89, 92, 98);
             doc.setFont('helvetica');
             if (row.index === 0) {
-                doc.autoTableText("Address", 44, row.y-10, {
+                doc.autoTableText("Location", 44, row.y-10, {
                     valign: 'middle',
                 });
             }
