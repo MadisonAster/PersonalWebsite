@@ -256,8 +256,10 @@ function ResumeProfessionalExperience(doc) {
     {title: "", dataKey: "desc"},
     ];
     var rows7 = [
+    {"id": "Saatchi & Saatchi, 3501 Sepulveda blvd, Torrance CA 90505 (310) 214-6000"},
+    {"id": "Senior 3D Pipeline Engineer - Nov 2017 to Current                                                                     - CAD/3D Pipeline Development"},
     {"id": "Cognition, 900 Cahuenga blvd ste b, Hollywood CA 90038 (323) 874-4487"},
-    {"id": "Senior Software Developer - Apr 2015 to Current                                                                     - VR Game Development"},
+    {"id": "Senior Software Developer - Apr 2015 to Oct 2017                                                                     - VR Game Development"},
     {"id": "Lit Post LLC, 2255 N Ontario st ste 100A, Burbank CA 91504"},
     {"id": "Technical Director/Pipeline Developer - Nov 2011 to Mar 2015                               - Nuke / Maya Pipeline Development"},
     {"id": "Alpha Designs, 316 E 4th St #B, Hanford CA 93230 (559) 583-6476"},
