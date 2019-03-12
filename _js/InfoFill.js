@@ -4,7 +4,7 @@ function GetPhone() {
 }
 
 function GetEmail() {
-    var EncodedString = "Y29udGFjdEB0aG9tYXMtbWN2YXkuaW5mbw==";
+    var EncodedString = "aW5mb0BNYWRpc29uQXN0ZXIuY29t";
     return DecodeData(EncodedString);
 }
 
