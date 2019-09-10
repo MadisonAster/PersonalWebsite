@@ -1,6 +1,6 @@
 import os, re, urllib2
 import datetime, sys
-
+from pprint import pprint
 
 def main():
     #Takes:
@@ -12,7 +12,7 @@ def main():
     html = getAndSanitizeHTML('http://www.imdb.com/name/nm4807696')    
     downloadFiles_SaveHTML(html, htmlDir+'IMDB/snapshot')
     
-    html = getAndSanitizeHTML('http://github.com/ThomasMcVay')
+    html = getAndSanitizeHTML('http://github.com/MadisonAster')
     expression = re.compile('<img.*?src=[\'"].*?9937336.*?[\'"]')
     html = linkreplace(expression, '9937336.jpg', html)
     downloadFiles_SaveHTML(html, htmlDir+'GitHub/snapshot')
@@ -24,14 +24,18 @@ def downloadFiles_SaveHTML(html, folder):
     
     outputpath = folder+'/index.html'
     ExistingImages = os.listdir(folder)
-    ExistingImages.remove('index.html')
+    if 'index.html' in ExistingImages:
+        ExistingImages.remove('index.html')
     
     images = html.split('<img')[1:]
     imgURLs = []
     imgNames = []
     for a in images:
-        imgURLs.append(a.split('src="',1)[1].split('"',1)[0])
-        imgNames.append(a.split('src="',1)[1].split('"',1)[0].rsplit('/',1)[-1])
+        imgURL = a.split('src="',1)[1].split('"',1)[0]
+        imgName = a.split('src="',1)[1].split('"',1)[0].rsplit('/',1)[-1]
+        if imgURL != '' and imgName != '' and imgURL != '9937336.jpg': #Do better filename validity check here
+            imgURLs.append(imgURL)
+            imgNames.append(imgName)
     for url, fileName in zip(imgURLs, imgNames):
         if fileName not in ExistingImages:
             imgFile = urllib2.urlopen(url)
@@ -45,7 +49,7 @@ def downloadFiles_SaveHTML(html, folder):
     file.close()
     
     for ExistingImage in ExistingImages:
-        if ExistingImage not in imgNames:
+        if ExistingImage not in imgNames and ExistingImage != '9937336.jpg':
             os.remove(folder+'/'+ExistingImage)
 
 def getAndSanitizeHTML(url):
@@ -69,6 +73,7 @@ def getAndSanitizeHTML(url):
     html = html.replace('href="/', 'href="'+domain)
     html = html.replace("href='/", "href='"+domain)
     html = html.replace("<a", "<a target='_blank'")
+    html = html.replace(" - as Thomas McVay", "")
     
     expression = re.compile('action=[\'"]/.*?[\'"]')
     html = re.sub(expression, 'action="'+url+'"', html)

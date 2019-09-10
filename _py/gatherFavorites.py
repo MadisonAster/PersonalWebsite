@@ -4,6 +4,7 @@ import sys
 from pprint import pprint, pformat
 
 def main():
+    return
     htmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0]
     MoviesDir = htmlDir+'_Assets/WatchList/Movies/'
     TVDir = htmlDir+'_Assets/WatchList/TV/'
