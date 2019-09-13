@@ -1,4 +1,4 @@
-var heightRatio = getDocHeight()/1080;
+var heightRatio = getDocHeightBG()/1080;
 var frameRate = 30;
 var imageCache = new Array; // stores all of the frames for quick access
 var frameLoadingOrder = new Array;
@@ -28,7 +28,7 @@ function checkArrayFor(array, value){
 function getDocWidth(){
     return document.documentElement.clientWidth;
 };
-function getDocHeight(){
+function getDocHeightBG(){
     return document.documentElement.clientHeight;
 };
 function getYPosition(){
@@ -93,14 +93,14 @@ function cacheFrame(frameNum){
 function zoomCrop(targetElement){
     var image_width = 1920.0;
 	var image_height = 1080.0;
-	var height_ratio = image_height / getDocHeight();
+	var height_ratio = image_height / getDocHeightBG();
 	var width_ratio = image_width / getDocWidth();
 	
 	if (height_ratio < width_ratio){
         targetElement.style['width'] = 'auto';
         targetElement.style['height'] = '100%';
         
-        computedRatio = getDocHeight()/image_height;
+        computedRatio = getDocHeightBG()/image_height;
         computedWidth = image_width*computedRatio;
         
         difference = computedWidth-getDocWidth();
@@ -114,7 +114,7 @@ function zoomCrop(targetElement){
 		computedRatio = getDocWidth()/image_width;
         computedHeight = image_height*computedRatio;
         
-		difference = computedHeight-getDocHeight();
+		difference = computedHeight-getDocHeightBG();
         offset = (difference/2)*-1;
         targetElement.style['top'] = offset+'px';
         targetElement.style['left'] = 0;
