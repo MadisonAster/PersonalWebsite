@@ -4,7 +4,7 @@ var imageCache = new Array; // stores all of the frames for quick access
 var frameLoadingOrder = new Array;
 var currentFrame = false;
 window.onresize = function(event) {
-    console.log('onresize');
+    console.log('MazeRunnerBG onresize');
 };
 
 function zFill(number, length){
