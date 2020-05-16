@@ -87,6 +87,8 @@ class ScrollControls {
 };
 class MazeRunner {
     init(){
+        
+        console.log('MazeRunner.init');
         this.renderer = new THREE.WebGLRenderer();
         this.controls = ScrollControls();
         GenerateMaze();
@@ -113,6 +115,7 @@ class MazeRunner {
 };
 
 function backgroundOnload(){
+    console.log('MazeRunnerBG.backgroundOnload');
     MyMaze = MazeRunner();
     animationLoop();
 };
