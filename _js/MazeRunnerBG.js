@@ -116,6 +116,6 @@ class MazeRunner {
 
 function backgroundOnload(){
     console.log('MazeRunnerBG.backgroundOnload');
-    MyMaze = MazeRunner();
+    MyMaze = new MazeRunner();
     animationLoop();
 };
