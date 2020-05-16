@@ -91,7 +91,7 @@ class MazeRunner {
         console.log('MazeRunner.init');
         this.renderer = new THREE.WebGLRenderer();
         this.controls = ScrollControls();
-        GenerateMaze();
+        this.Maze = GenerateMaze();
     };
     GenerateMaze(){
         //this.MazeGeo = somefunction;
