@@ -66,11 +66,7 @@ function zoomCrop(targetElement){
 
 function animationLoop(){
     requestAnimFrame(animationLoop);
-    //targetFrame = parseInt(getYPosition()/window.heightRatio+window.startFrame);
-    //if(targetFrame > window.endFrame){
-    //    targetFrame = window.endFrame;
-    //};
-    //findFrame(targetFrame);
+    MyMaze.update();
 };
 
 window.requestAnimFrame = (function(){
@@ -84,6 +80,39 @@ window.requestAnimFrame = (function(){
     };
 })();
 
+class ScrollControls {
+    init(){
+        
+    };
+};
+class MazeRunner {
+    init(){
+        this.renderer = new THREE.WebGLRenderer();
+        this.controls = ScrollControls();
+        GenerateMaze();
+    };
+    GenerateMaze(){
+        //this.MazeGeo = somefunction;
+        
+    };
+    
+    
+    
+    Animate(){
+        requestAnimFrame(this.Animate.bind(this));
+        //this.stats.begin();
+        SceneRender();
+        OverlayRender();
+    };
+    SceneRender(){
+        
+    };
+    OverlayRender(){
+        
+    };
+};
+
 function backgroundOnload(){
+    MyMaze = MazeRunner();
     animationLoop();
 };
