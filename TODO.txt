@@ -1,3 +1,23 @@
+DONE- Check logs
+
+DONE- Fix Security certificate
+
+Replace background with static
+
+Fix IMDB
+
+Add codewars
+
+Combine resume/cv
+
+Add Bookshelf project
+
+Add Toyota Project
+
+Debug video player
+
+Finish Maze
+
 Gather Demo Reel Shots - 3 days
 Make Demo Reel Page - 5 days
 
