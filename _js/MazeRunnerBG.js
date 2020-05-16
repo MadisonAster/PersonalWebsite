@@ -66,7 +66,7 @@ function zoomCrop(targetElement){
 
 function animationLoop(){
     requestAnimFrame(animationLoop);
-    MyMaze.update();
+    window.MyMaze.update();
 };
 
 window.requestAnimFrame = (function(){
@@ -112,10 +112,13 @@ class MazeRunner {
     OverlayRender(){
         
     };
+    update(){
+        console.log('updoot!');
+    };
 };
 
 function backgroundOnload(){
     console.log('MazeRunnerBG.backgroundOnload');
-    MyMaze = new MazeRunner();
+    window.MyMaze = new MazeRunner();
     animationLoop();
 };
