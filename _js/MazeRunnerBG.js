@@ -13,7 +13,7 @@ function getYPosition(){
 };
 
 function MazeInit(){
-    window.DemoMaze = new Windows95Maze('MazeRunner',12,12);
+    window.DemoMaze = new Windows95Maze('MazeRunner',12,12, EnableCeiling=false);
     window.addEventListener('resize', ResizeHandling);
     window.addEventListener('keydown', KeyHandling);
     window.addEventListener('scroll', ScrollHandling);
@@ -25,10 +25,6 @@ function ResizeHandling(){
 
 function ScrollHandling(event){
     //console.log(getYPosition(), getTotalDocHeight(), getYPosition()/getTotalDocHeight());
-    
-    //var YPos = (getTotalDocHeight()-getYPosition()) + (window.DemoMaze.MazeHeight/2);
-    //window.DemoMaze.MazeCamera.position.y = Math.max(YPos, window.DemoMaze.MazeHeight/2);
-    
     var FooterHeight = document.getElementById('FooterContainer').clientHeight;
     window.DemoMaze.MazeCamera.position.y = (getTotalDocHeight()-getYPosition()) + (window.DemoMaze.MazeHeight/2)
 }
