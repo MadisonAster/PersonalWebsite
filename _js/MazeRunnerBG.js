@@ -12,7 +12,7 @@ function MazeInit(){
     window.DemoMaze = new Windows95Maze('MazeRunner',12,12);
     window.addEventListener('resize', ResizeHandling);
     window.addEventListener('keydown', KeyHandling);
-    //window.addEventListener('scroll', ScrollHandling);
+    window.addEventListener('scroll', ScrollHandling);
 }
 
 function ResizeHandling(){
@@ -20,7 +20,7 @@ function ResizeHandling(){
 }
 
 function ScrollHandling(event){
-    
+    console.log(getYPosition());
 }
 
 function KeyHandling(event){
