@@ -23,7 +23,16 @@ function MazeInit(){
                                         EnableSigns=true,
                                         EnableSpinners=false,
                                         EnableStart=false,
-                                        EnableEnd=false);
+                                        EnableEnd=false,
+                                        
+                                        MazeDebug=false,
+                                        MazeAutopilot=true,
+                                        MazeSpeed=4,
+                                        MazeTickDelta=10,
+                                        MazeCellSize=320,
+                                        MazeHeight=200,
+                                        MazeCameraInitY=CalculateCameraY(),
+                                        );
     window.addEventListener('resize', ResizeHandling);
     window.addEventListener('keydown', KeyHandling);
     window.addEventListener('scroll', ScrollHandling);
