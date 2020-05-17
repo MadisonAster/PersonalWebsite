@@ -21,7 +21,7 @@ function ResizeHandling(){
 
 function ScrollHandling(event){
     
-    console.log(getYPosition(), document.body.scrollHeight, getDocHeightBG()/getYPosition());
+    console.log(getYPosition(), document.body.height, getDocHeightBG()/getYPosition());
 }
 
 function KeyHandling(event){
