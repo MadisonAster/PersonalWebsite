@@ -13,7 +13,9 @@ function getYPosition(){
 };
 
 function MazeInit(){
-    window.DemoMaze = new Windows95Maze('MazeRunner',12,12, EnableCeiling=false);
+    window.DemoMaze = new Windows95Maze('MazeRunner',12,12, 
+                                        EnableCeiling=false,
+                                        EnableRats=false);
     window.addEventListener('resize', ResizeHandling);
     window.addEventListener('keydown', KeyHandling);
     window.addEventListener('scroll', ScrollHandling);
