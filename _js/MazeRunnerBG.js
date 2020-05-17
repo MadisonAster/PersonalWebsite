@@ -119,12 +119,11 @@ class MazeRunner {
 
 function backgroundOnload(){
     console.log('MazeRunnerBG.backgroundOnload');
-    //window.MyMaze = new MazeRunner();
-    //animationLoop();
-    Init();
+    window.MyMaze = new MazeRunner();
+    animationLoop();
 };
 
-function Init(){
+function MazeInit(){
     window.DemoMaze = new Windows95Maze(12,12, window.innerWidth, window.innerHeight);
     window.addEventListener('resize', ResizeHandling);
     window.addEventListener('keydown', KeyHandling);

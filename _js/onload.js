@@ -1,5 +1,6 @@
 window.onload = function(){
-    backgroundOnload();
+    //backgroundOnload();
+    MazeInit();
     //sorttable.init();
     window.scrollTo(0,1);
     menuArray = document.getElementById('Menu').childNodes;
