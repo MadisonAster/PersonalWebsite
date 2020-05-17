@@ -4,21 +4,12 @@ function getDocWidth(){
 function getTotalDocHeight(){
     var body = document.body;
     var html = document.documentElement;
-    console.log('body.scrollHeight',body.scrollHeight);
-    console.log('body.offsetHeight',body.offsetHeight);
-    console.log('html.clientHeight',html.clientHeight);
-    console.log('html.scrollHeight',html.scrollHeight);
-    console.log('html.offsetHeight',html.offsetHeight);
     var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
     return height;
 };
 function getYPosition(){
-    //return (window.pageYOffset || document.documentElement.scrollTop)  - (document.documentElement.clientTop || 0);
-    console.log('window.pageYOffset', window.pageYOffset);
-    console.log('document.documentElement.scrollTop', document.documentElement.scrollTop);
-    console.log('document.documentElement.clientTop', document.documentElement.clientTop);
-    //return (window.pageYOffset || document.documentElement.scrollTop)  - (document.documentElement.clientTop || 0);
-    return window.pageYOffset + document.body.scrollHeight;
+    var YOffset = (window.pageYOffset || document.documentElement.scrollTop)  - (document.documentElement.clientTop || 0);
+    return YOffset + document.body.clientHeight;
 };
 
 function MazeInit(){
