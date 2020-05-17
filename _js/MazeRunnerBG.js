@@ -9,6 +9,9 @@ function getTotalDocHeight(){
 };
 function getYPosition(){
 	//return (window.pageYOffset || document.documentElement.scrollTop)  - (document.documentElement.clientTop || 0);
+    console.log('window.pageYOffset', window.pageYOffset);
+    console.log('document.documentElement.scrollBottom', document.documentElement.scrollBottom);
+    console.log('document.documentElement.clientBottom', document.documentElement.clientBottom);
 	return (window.pageYOffset || document.documentElement.scrollBottom)  - (document.documentElement.clientBottom || 0);
 };
 
