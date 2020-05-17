@@ -31,7 +31,7 @@ function MazeInit(){
                                         MazeTickDelta=10,
                                         MazeCellSize=320,
                                         MazeHeight=200,
-                                        MazeCameraInitY=CalculateCameraY(),
+                                        MazeCameraInitY=CalculateCameraY(200),
                                         );
     window.addEventListener('resize', ResizeHandling);
     window.addEventListener('keydown', KeyHandling);
@@ -42,14 +42,16 @@ function ResizeHandling(){
     window.DemoMaze.Resize();
 }
 
-function CalculateCameraY(){
-    return (getTotalDocHeight()-getYPosition()) + (window.DemoMaze.MazeHeight/2);
+function CalculateCameraY(MazeHeight){
+    return (getTotalDocHeight()-getYPosition()) + (MazeHeight/2);
 };
 
 function ScrollHandling(event){
     //console.log(getYPosition(), getTotalDocHeight(), getYPosition()/getTotalDocHeight());
     var FooterHeight = document.getElementById('FooterContainer').clientHeight;
-    window.DemoMaze.MazeCamera.position.y = CalculateCameraY();
+    if (window.DemoMaze.MazeCamera != null){ //Avoid trying to set camera Y before it's created
+        window.DemoMaze.MazeCamera.position.y = CalculateCameraY(window.DemoMaze.MazeHeight);
+    }
 }
 
 function KeyHandling(event){
