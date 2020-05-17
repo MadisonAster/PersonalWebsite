@@ -281,9 +281,11 @@ th:active,
     right:0;
 }
 #MazeRunner {
-    position:absolute;
-    top:0px;
-    left:0px;
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
 }
 #application-canvas {
     z-index: -100;
