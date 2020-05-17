@@ -131,7 +131,7 @@ function MazeInit(){
 }
 
 function ResizeHandling(){
-    window.DemoMaze.MazeRenderer.Resize();
+    window.DemoMaze.Resize();
 }
 
 function KeyHandling(event){
