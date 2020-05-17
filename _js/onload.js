@@ -1,5 +1,4 @@
 window.onload = function(){
-    //backgroundOnload();
     MazeInit();
     //sorttable.init();
     window.scrollTo(0,1);
