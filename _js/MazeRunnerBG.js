@@ -4,6 +4,11 @@ function getDocWidth(){
 function getTotalDocHeight(){
     var body = document.body;
     var html = document.documentElement;
+    console.log('body.scrollHeight',body.scrollHeight);
+    console.log('body.offsetHeight',body.offsetHeight);
+    console.log('html.clientHeight',html.clientHeight);
+    console.log('html.scrollHeight',html.scrollHeight);
+    console.log('html.offsetHeight',html.offsetHeight);
     var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
     return height;
 };
