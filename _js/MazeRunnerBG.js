@@ -40,7 +40,7 @@ function CalculateCameraY(){
 function ScrollHandling(event){
     //console.log(getYPosition(), getTotalDocHeight(), getYPosition()/getTotalDocHeight());
     var FooterHeight = document.getElementById('FooterContainer').clientHeight;
-    window.DemoMaze.MazeCamera.position.y = 
+    window.DemoMaze.MazeCamera.position.y = CalculateCameraY();
 }
 
 function KeyHandling(event){
