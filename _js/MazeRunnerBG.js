@@ -124,10 +124,11 @@ function backgroundOnload(){
 };
 
 function MazeInit(){
+    console.log('MazeRunnerBG.MazeInit!');
     window.DemoMaze = new Windows95Maze('MazeRunner',12,12, window.innerWidth, window.innerHeight);
     window.addEventListener('resize', ResizeHandling);
     window.addEventListener('keydown', KeyHandling);
-    document.body.appendChild(window.DemoMaze.MazeRenderer.domElement);
+    //document.body.appendChild(window.DemoMaze.MazeRenderer.domElement);
 }
 
 function ResizeHandling(){
