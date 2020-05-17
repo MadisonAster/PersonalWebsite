@@ -1,4 +1,5 @@
 <?php
+echo file_get_contents("background.html");
 //$SeqPath = file_get_contents("background.html");
 //$files = glob($SeqPath . "*.webp");
 
