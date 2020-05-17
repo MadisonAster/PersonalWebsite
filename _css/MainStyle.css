@@ -280,6 +280,11 @@ th:active,
     left:0;
     right:0;
 }
+#Windows95Maze {
+    position:absolute;
+    top:0px;
+    left:0px;
+}
 #application-canvas {
     z-index: -100;
     display: block;
