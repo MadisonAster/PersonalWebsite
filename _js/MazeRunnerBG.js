@@ -18,7 +18,7 @@ function MazeInit(){
                                         EnableCeiling=false,
                                         EnableWalls=true,
                                         EnableRats=false,
-                                        EnableSigns=true
+                                        EnableSigns=true,
                                         EnableSpinners=false,
                                         EnableStart=false,
                                         EnableEnde=false);
