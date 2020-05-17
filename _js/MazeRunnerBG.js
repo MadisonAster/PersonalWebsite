@@ -20,7 +20,7 @@ function ResizeHandling(){
 }
 
 function ScrollHandling(event){
-    var body = document.body,
+    var body = document.body;
     var html = document.documentElement;
     var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
     console.log(getYPosition(), height, height/getYPosition());
