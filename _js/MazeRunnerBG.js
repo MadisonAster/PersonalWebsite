@@ -13,11 +13,12 @@ function getTotalDocHeight(){
     return height;
 };
 function getYPosition(){
-	//return (window.pageYOffset || document.documentElement.scrollTop)  - (document.documentElement.clientTop || 0);
+    //return (window.pageYOffset || document.documentElement.scrollTop)  - (document.documentElement.clientTop || 0);
     console.log('window.pageYOffset', window.pageYOffset);
-    console.log('document.documentElement.scrollBottom', document.documentElement.scrollBottom);
-    console.log('document.documentElement.clientBottom', document.documentElement.clientBottom);
-	return (window.pageYOffset || document.documentElement.scrollBottom)  - (document.documentElement.clientBottom || 0);
+    console.log('document.documentElement.scrollTop', document.documentElement.scrollTop);
+    console.log('document.documentElement.clientTop', document.documentElement.clientTop);
+    //return (window.pageYOffset || document.documentElement.scrollTop)  - (document.documentElement.clientTop || 0);
+    return window.pageYOffset + document.body.scrollHeight;
 };
 
 function MazeInit(){
