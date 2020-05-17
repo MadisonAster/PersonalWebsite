@@ -1,8 +1,11 @@
 function getDocWidth(){
     return document.documentElement.clientWidth;
 };
-function getDocHeightBG(){
-    return document.documentElement.clientHeight;
+function getDocHeight(){
+    var body = document.body;
+    var html = document.documentElement;
+    var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+    return height;
 };
 function getYPosition(){
 	return (window.pageYOffset || document.documentElement.scrollTop)  - (document.documentElement.clientTop || 0);
@@ -20,10 +23,7 @@ function ResizeHandling(){
 }
 
 function ScrollHandling(event){
-    var body = document.body;
-    var html = document.documentElement;
-    var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
-    console.log(getYPosition(), height, height/getYPosition());
+    console.log(getYPosition(), getDocHeight(), getYPosition()/getDocHeight());
 }
 
 function KeyHandling(event){
