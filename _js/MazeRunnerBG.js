@@ -25,6 +25,8 @@ function ResizeHandling(){
 
 function ScrollHandling(event){
     console.log(getYPosition(), getTotalDocHeight(), getYPosition()/getTotalDocHeight());
+    var Footer = document.getElementById('FooterContainer');
+    console.log('Footer.height', Footer.height);
 }
 
 function KeyHandling(event){
