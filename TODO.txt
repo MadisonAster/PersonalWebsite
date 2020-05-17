@@ -6,8 +6,6 @@ DONE - Get Demo Maze Working
 
 Finish Maze
 
-Video ScrubBrush
-
 Fix IMDB
 
 Add codewars
@@ -24,6 +22,12 @@ Gather Demo Reel Shots - 3 days
 Make Demo Reel Page - 5 days
 
 Finish Xmarks tree - 4 days
+
+
+
+
+Video ScrubBrush
+
 
 ##Add alpha channel to wire cable rack - 1 day
 ##Fix aspect ratio centering of camera on resize ~ 1 days

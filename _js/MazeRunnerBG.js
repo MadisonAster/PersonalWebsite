@@ -9,7 +9,6 @@ function getYPosition(){
 };
 
 function MazeInit(){
-    console.log('MazeRunnerBG.MazeInit!');
     window.DemoMaze = new Windows95Maze('MazeRunner',12,12);
     window.addEventListener('resize', ResizeHandling);
     window.addEventListener('keydown', KeyHandling);
