@@ -24,9 +24,13 @@ function ResizeHandling(){
 }
 
 function ScrollHandling(event){
-    console.log(getYPosition(), getTotalDocHeight(), getYPosition()/getTotalDocHeight());
-    var Footer = document.getElementById('FooterContainer');
-    console.log('Footer.height', Footer.clientHeight);
+    //console.log(getYPosition(), getTotalDocHeight(), getYPosition()/getTotalDocHeight());
+    
+    //var YPos = (getTotalDocHeight()-getYPosition()) + (window.DemoMaze.MazeHeight/2);
+    //window.DemoMaze.MazeCamera.position.y = Math.max(YPos, window.DemoMaze.MazeHeight/2);
+    
+    var FooterHeight = document.getElementById('FooterContainer').clientHeight;
+    window.DemoMaze.MazeCamera.position.y = (getTotalDocHeight()-getYPosition()) + (window.DemoMaze.MazeHeight/2)
 }
 
 function KeyHandling(event){
