@@ -125,13 +125,13 @@ function backgroundOnload(){
 
 function MazeInit(){
     console.log('MazeRunnerBG.MazeInit!');
-    window.DemoMaze = new Windows95Maze('MazeRunner',12,12, window.innerWidth, window.innerHeight);
+    window.DemoMaze = new Windows95Maze('MazeRunner',12,12);
     window.addEventListener('resize', ResizeHandling);
     window.addEventListener('keydown', KeyHandling);
 }
 
 function ResizeHandling(){
-    window.DemoMaze.MazeRenderer.setSize(window.innerWidth, window.innerHeight);
+    window.DemoMaze.MazeRenderer.Resize();
 }
 
 function KeyHandling(event){
