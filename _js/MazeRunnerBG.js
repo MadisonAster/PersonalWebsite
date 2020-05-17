@@ -1,7 +1,7 @@
 function getDocWidth(){
     return document.documentElement.clientWidth;
 };
-function getDocHeight(){
+function getTotalDocHeight(){
     var body = document.body;
     var html = document.documentElement;
     var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
@@ -23,7 +23,7 @@ function ResizeHandling(){
 }
 
 function ScrollHandling(event){
-    console.log(getYPosition(), getDocHeight(), getYPosition()/getDocHeight());
+    console.log(getYPosition(), getTotalDocHeight(), getYPosition()/getTotalDocHeight());
 }
 
 function KeyHandling(event){
