@@ -20,7 +20,8 @@ function ResizeHandling(){
 }
 
 function ScrollHandling(event){
-    console.log(getYPosition());
+    
+    console.log(getYPosition(), getDocHeightBG(), getDocHeightBG()/getYPosition());
 }
 
 function KeyHandling(event){
