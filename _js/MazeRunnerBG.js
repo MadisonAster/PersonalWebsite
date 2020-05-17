@@ -8,7 +8,8 @@ function getTotalDocHeight(){
     return height;
 };
 function getYPosition(){
-	return (window.pageYOffset || document.documentElement.scrollTop)  - (document.documentElement.clientTop || 0);
+	//return (window.pageYOffset || document.documentElement.scrollTop)  - (document.documentElement.clientTop || 0);
+	return (window.pageYOffset || document.documentElement.scrollBottom)  - (document.documentElement.clientBottom || 0);
 };
 
 function MazeInit(){
