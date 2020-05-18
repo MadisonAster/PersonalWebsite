@@ -43,8 +43,8 @@ function MazeInit(){
                                         MazeSpeed=4,
                                         MazeTickDelta=10,
                                         MazeCellSize=320,
-                                        MazeHeight=320,
-                                        MazeCameraInitY=CalculateCameraY(320),
+                                        MazeHeight=260,
+                                        MazeCameraInitY=CalculateCameraY(260),
                                         MazeFloorScale=2.5,
                                         MazeCeilingScale=2.5,
                                         
