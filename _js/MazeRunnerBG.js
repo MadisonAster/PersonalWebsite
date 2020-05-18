@@ -29,7 +29,7 @@ function MazeInit(){
                                         MazeWidth=20,
                                         MazeDepth=20,
                                         EnableFloor=true,
-                                        EnableCeiling=false,
+                                        EnableCeiling=true,
                                         EnableWalls=true,
                                         EnableGlobe=false,
                                         EnableRats=false,
@@ -46,6 +46,7 @@ function MazeInit(){
                                         MazeHeight=320,
                                         MazeCameraInitY=CalculateCameraY(320),
                                         MazeFloorScale=2.5,
+                                        MazeCeilingScale=2.5,
                                         
                                         MazeTexturePack=GetPackagePath()+'/_Assets/MazeRunner'
                                         );
