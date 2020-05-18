@@ -8,17 +8,17 @@ DONE - Replace textures
 
 DONE - Get scroll working
 
-Spawn in center of maze
+DONE - Spawn in center of maze
 
-Add distance fog
-
-Add Snow Particles
+SKIP - Add distance fog
 
 Add glow?
 
 Add Char light with specular
 
 Add CoolWalls list
+
+Add Snow Particles
 
 Add left wall tracing
 
