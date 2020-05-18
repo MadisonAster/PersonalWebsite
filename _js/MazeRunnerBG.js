@@ -38,7 +38,7 @@ function MazeInit(){
                                         EnableRats=true,
                                         EnableSigns=true,
                                         EnableSpinners=false,
-                                        EnableStart=false,
+                                        EnableStart=true,
                                         EnableEnd=false,
                                         
                                         MazeDebug=true,
