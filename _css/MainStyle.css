@@ -229,7 +229,7 @@ th:active,
 #ContentContainer{
     z-index:auto;
     position:absolute;
-    top:95%;
+    top:10%;
     left:10%;
     width:80%;
     padding:0px;
