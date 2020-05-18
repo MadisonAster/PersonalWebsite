@@ -41,7 +41,7 @@ function MazeInit(){
                                         EnableStart=false,
                                         EnableEnd=false,
                                         
-                                        MazeDebug=mtrue,
+                                        MazeDebug=true,
                                         MazeAutopilot=true,
                                         MazeSpeed=4,
                                         MazeTickDelta=10,
