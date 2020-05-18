@@ -26,8 +26,8 @@ function GetPackagePath(){
 };
 function MazeInit(){
     window.DemoMaze = new Windows95Maze(MazeCanvasID='MazeRunner',
-                                        MazeWidth=20,
-                                        MazeDepth=20,
+                                        MazeWidth=50,
+                                        MazeDepth=50,
                                         EnableFloor=true,
                                         EnableCeiling=true,
                                         EnableWalls=true,
