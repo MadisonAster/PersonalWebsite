@@ -4,11 +4,37 @@ DONE- Fix Security certificate
 
 DONE - Get Demo Maze Working
 
-Finish Maze
+DONE - Replace textures
+
+DONE - Get scroll working
+
+Spawn in center of maze
+
+Add distance fog
+
+Add Snow Particles
+
+Add glow?
+
+Add Char light with specular
+
+Add CoolWalls list
+
+Add left wall tracing
+
+Add wall tracing line
+
+Add right wall tracing
+
+Debug Maze
+
+-----
 
 Fix IMDB
 
 Add codewars
+
+Update skill list
 
 Combine resume/cv
 
