@@ -10,7 +10,7 @@ DONE - Get scroll working
 
 DONE - Spawn in center of maze
 
-SKIP - Add distance fog
+DONE - Add distance fog
 
 Add glow?
 
