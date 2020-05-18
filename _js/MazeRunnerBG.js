@@ -46,7 +46,7 @@ function MazeInit(){
                                         MazeHeight=200,
                                         MazeCameraInitY=CalculateCameraY(200),
                                         
-                                        MazeTexturePack=GetPackagePath()+'/Assets/MazeRunner'
+                                        MazeTexturePack=GetPackagePath()+'/_Assets/MazeRunner'
                                         );
     window.addEventListener('resize', ResizeHandling);
     window.addEventListener('keydown', KeyHandling);
