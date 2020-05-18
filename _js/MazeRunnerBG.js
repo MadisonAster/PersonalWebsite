@@ -32,7 +32,7 @@ function MazeInit(){
                                         MazePosY=0,
                                         MazePosZ=25,
                                         EnableFloor=true,
-                                        EnableCeiling=true,
+                                        EnableCeiling=false,
                                         EnableWalls=true,
                                         EnableGlobe=false,
                                         EnableRats=false,
@@ -41,7 +41,7 @@ function MazeInit(){
                                         EnableStart=false,
                                         EnableEnd=false,
                                         
-                                        MazeDebug=false,
+                                        MazeDebug=mtrue,
                                         MazeAutopilot=true,
                                         MazeSpeed=4,
                                         MazeTickDelta=10,
