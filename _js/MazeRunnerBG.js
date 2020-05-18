@@ -44,7 +44,7 @@ function MazeInit(){
                                         MazeTickDelta=10,
                                         MazeCellSize=320,
                                         MazeHeight=320,
-                                        MazeCameraInitY=CalculateCameraY(200),
+                                        MazeCameraInitY=CalculateCameraY(320),
                                         MazeFloorScale=2.5,
                                         
                                         MazeTexturePack=GetPackagePath()+'/_Assets/MazeRunner'
