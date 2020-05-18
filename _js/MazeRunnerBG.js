@@ -51,6 +51,11 @@ function MazeInit(){
                                         MazeFloorScale=2.5,
                                         MazeCeilingScale=2.5,
                                         
+                                        EnableFog=true,
+                                        FogColor=0x000000,
+                                        FogNear=1000,
+                                        FogFar=2000,
+                                        
                                         MazeTexturePack=GetPackagePath()+'/_Assets/MazeRunner'
                                         );
     window.addEventListener('resize', ResizeHandling);
