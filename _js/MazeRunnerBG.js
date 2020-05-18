@@ -11,7 +11,19 @@ function getYPosition(){
     var YOffset = (window.pageYOffset || document.documentElement.scrollTop)  - (document.documentElement.clientTop || 0);
     return Math.ceil(YOffset + document.body.clientHeight);
 };
-
+function GetPackagePath(){
+    var scripts = document.getElementsByTagName('script');
+    for(var i=0;i<scripts.length;++i){
+        var src = scripts[i].src;
+        var split = src.split('/');
+        var filename = split.slice(-1)[0];
+        if(filename == 'MazeRunnerBG.js'){
+            var split = scripts[i].src.split('/');
+            var packagepath = split.slice(0, -2).join('/');
+            return packagepath;
+        };
+    };
+};
 function MazeInit(){
     window.DemoMaze = new Windows95Maze(MazeCanvasID='MazeRunner',
                                         MazeWidth=20,
@@ -19,6 +31,7 @@ function MazeInit(){
                                         EnableFloor=true,
                                         EnableCeiling=false,
                                         EnableWalls=true,
+                                        EnableGlobe=false,
                                         EnableRats=false,
                                         EnableSigns=true,
                                         EnableSpinners=false,
@@ -32,6 +45,8 @@ function MazeInit(){
                                         MazeCellSize=320,
                                         MazeHeight=200,
                                         MazeCameraInitY=CalculateCameraY(200),
+                                        
+                                        MazeTexturePack=GetPackagePath()+'/Assets/MazeRunner'
                                         );
     window.addEventListener('resize', ResizeHandling);
     window.addEventListener('keydown', KeyHandling);
