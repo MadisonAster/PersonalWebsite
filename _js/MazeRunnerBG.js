@@ -53,8 +53,8 @@ function MazeInit(){
                                         
                                         EnableFog=true,
                                         FogColor=0x000000,
-                                        FogNear=100,
-                                        FogFar=1000,
+                                        FogNear=1000,
+                                        FogFar=2000,
                                         
                                         MazeTexturePack=GetPackagePath()+'/_Assets/MazeRunner'
                                         );
