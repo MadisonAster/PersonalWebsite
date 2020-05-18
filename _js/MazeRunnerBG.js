@@ -35,7 +35,7 @@ function MazeInit(){
                                         EnableCeiling=false,
                                         EnableWalls=true,
                                         EnableGlobe=false,
-                                        EnableRats=false,
+                                        EnableRats=true,
                                         EnableSigns=true,
                                         EnableSpinners=false,
                                         EnableStart=false,
