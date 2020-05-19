@@ -93,7 +93,7 @@ function MazeInit(){
                                         LightDecay=2.0,
                                         LightDistance=960,
                                         
-                                        MazeTexturePack=GetPackagePath()+'/_Assets/MazeRunner'  ,
+                                        MazeTexturePack=GetPackagePath()+'/_Assets/MazeRunner',
                                         MazeCoolWallList=CoolWallList,
                                         );
     window.addEventListener('resize', ResizeHandling);
