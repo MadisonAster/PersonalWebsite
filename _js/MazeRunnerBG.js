@@ -60,7 +60,7 @@ function MazeInit(){
                                         EnableFloor=true,
                                         EnableCeiling=false,
                                         EnableWalls=true,
-                                        EnableGlobe=false,
+                                        EnableGlobe=true,
                                         EnableRats=true,
                                         EnableSigns=true,
                                         EnableSpinners=false,
