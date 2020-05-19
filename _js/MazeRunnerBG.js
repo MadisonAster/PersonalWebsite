@@ -57,8 +57,8 @@ function MazeInit(){
                                         FogFar=5000,
                                         
                                         WallsMaterialType='Phong',
-                                        WallsEmissiveColor=0x00FFFF,
-                                        WallsEmissiveIntensity=100,
+                                        WallsEmissiveColor=0xFFFFFF,
+                                        WallsEmissiveIntensity=2,
                                         WallsSpecular=0x999999,
                                         WallsShininess=2,
                                         
