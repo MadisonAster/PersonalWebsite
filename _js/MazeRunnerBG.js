@@ -48,7 +48,7 @@ function MazeInit(){
                                         MazeCellSize=320,
                                         MazeHeight=260,
                                         MadzeCameraInitY=CalculateCameraY(260),
-                                        wdMazeFloorScale=2.5,
+                                        MazeFloorScale=2.5,
                                         MazeCeilingScale=2.5,
                                         
                                         EnableFog=true,
