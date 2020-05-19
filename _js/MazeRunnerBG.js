@@ -48,7 +48,7 @@ function MazeInit(){
                                         MazeCellSize=320,
                                         MazeHeight=260,
                                         MazeCameraInitY=CalculateCameraY(260),
-                                        MazeFloorScale=2.5,
+                                        wdMazeFloorScale=2.5,
                                         MazeCeilingScale=2.5,
                                         
                                         EnableFog=true,
@@ -65,6 +65,7 @@ function MazeInit(){
                                         LightColor=0xFFFFFF,
                                         LightIntensity=40,
                                         LightDecay=0.5,
+                                        LightDistance=1000,
                                         
                                         MazeTexturePack=GetPackagePath()+'/_Assets/MazeRunner'
                                         );
