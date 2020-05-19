@@ -65,7 +65,7 @@ function MazeInit(){
                                         LightColor=0xFFFFFF,
                                         LightIntensity=1,
                                         LightDecay=0.5,
-                                        LightDistance=800,
+                                        LightDistance=200,
                                         
                                         MazeTexturePack=GetPackagePath()+'/_Assets/MazeRunner'
                                         );
