@@ -25,6 +25,32 @@ function GetPackagePath(){
     };
 };
 function MazeInit(){
+    var PackagePath = GetPackagePath();
+    var CoolWallList = [
+        PackagePath+'/_Assets/VSVideo/CellBodyField.jpg',
+        PackagePath+'/_Assets/VSVideo/CellCrowdReaction.jpg',
+        PackagePath+'/_Assets/VSVideo/DesertStars.jpg',
+        PackagePath+'/_Assets/VSVideo/FollowCar.jpg',
+        PackagePath+'/_Assets/VSVideo/GorillaGlue.jpg',
+        PackagePath+'/_Assets/VSVideo/HellAndBackCarnival.jpg',
+        PackagePath+'/_Assets/VSVideo/HellAndBackVortex.jpg',
+        PackagePath+'/_Assets/VSVideo/IceWorld01.jpg',
+        PackagePath+'/_Assets/VSVideo/JimJonesSuicide.jpg',
+        PackagePath+'/_Assets/VSVideo/JonesTownAerial.jpg',
+        PackagePath+'/_Assets/VSVideo/Mabeline01.jpg',
+        PackagePath+'/_Assets/VSVideo/Mabeline02.jpg',
+        PackagePath+'/_Assets/VSVideo/Mabeline03.jpg',
+        PackagePath+'/_Assets/VSVideo/Mabeline04.jpg',
+        PackagePath+'/_Assets/VSVideo/Mabeline05.jpg',
+        PackagePath+'/_Assets/VSVideo/MSMoveJump.jpg',
+        PackagePath+'/_Assets/VSVideo/Palmyra01.jpg',
+        PackagePath+'/_Assets/VSVideo/SacramentMountains.jpg',
+        PackagePath+'/_Assets/VSVideo/SantaClausFlamer.jpg',
+        PackagePath+'/_Assets/VSVideo/SapphireEye.jpg',
+        PackagePath+'/_Assets/VSVideo/ScavengersShip.jpg',
+        PackagePath+'/_Assets/VSVideo/UTBKidParticles.jpg',
+        PackagePath+'/_Assets/VSVideo/UTBWombParticles.jpg',
+    ];
     window.DemoMaze = new Windows95Maze(MazeCanvasID='MazeRunner',
                                         MazeWidth=50,
                                         MazeDepth=50,
@@ -67,7 +93,8 @@ function MazeInit(){
                                         LightDecay=2.0,
                                         LightDistance=960,
                                         
-                                        MazeTexturePack=GetPackagePath()+'/_Assets/MazeRunner'
+                                        MazeTexturePack=GetPackagePath()+'/_Assets/MazeRunner'  ,
+                                        MazeCoolWallList=CoolWallList,
                                         );
     window.addEventListener('resize', ResizeHandling);
     window.addEventListener('keydown', KeyHandling);
