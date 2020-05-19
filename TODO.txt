@@ -14,11 +14,11 @@ DONE - Add distance fog
 
 DONE - Add glow
 
-Add Char light with specular
-
-Add CoolWalls list
+DONE - Add Char light with specular
 
 Add Snow Particles
+
+Add CoolWalls list
 
 Add left wall tracing
 
