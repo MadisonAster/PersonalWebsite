@@ -16,7 +16,7 @@ DONE - Add glow
 
 DONE - Add Char light with specular
 
-Add Snow Particles
+HOLD - Snow Particles
 
 Add CoolWalls list
 
