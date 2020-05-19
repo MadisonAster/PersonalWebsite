@@ -12,7 +12,7 @@ DONE - Spawn in center of maze
 
 DONE - Add distance fog
 
-Add glow?
+DONE - Add glow
 
 Add Char light with specular
 
