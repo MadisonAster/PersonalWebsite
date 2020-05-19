@@ -58,7 +58,7 @@ function MazeInit(){
                                         
                                         WallsMaterialType='Lambert',
                                         WallsEmissiveColor=0x00FFFF,
-                                        WallsEmissiveIntensity=0.5,
+                                        WallsEmissiveIntensity=0.8,
                                         
                                         MazeTexturePack=GetPackagePath()+'/_Assets/MazeRunner'
                                         );
