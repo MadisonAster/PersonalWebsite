@@ -59,6 +59,8 @@ function MazeInit(){
                                         WallsMaterialType='Phong',
                                         WallsEmissiveColor=0x00FFFF,
                                         WallsEmissiveIntensity=0.8,
+                                        WallsSpecular=0xFFFFFF,
+                                        WallsShininess=2,
                                         
                                         MazeTexturePack=GetPackagePath()+'/_Assets/MazeRunner'
                                         );
