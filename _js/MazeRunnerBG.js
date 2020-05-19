@@ -63,7 +63,7 @@ function MazeInit(){
                                         WallsShininess=2,
                                         
                                         LightColor=0xFFFFFF,
-                                        LightIntensity=40,
+                                        LightIntensity=1,
                                         LightDecay=0.5,
                                         LightDistance=800,
                                         
