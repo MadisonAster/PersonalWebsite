@@ -62,6 +62,10 @@ function MazeInit(){
                                         WallsSpecular=0x999999,
                                         WallsShininess=2,
                                         
+                                        LightColor=0xFFFFFF,
+                                        LightIntensity=40,
+                                        LightDecay=0.5,
+                                        
                                         MazeTexturePack=GetPackagePath()+'/_Assets/MazeRunner'
                                         );
     window.addEventListener('resize', ResizeHandling);
