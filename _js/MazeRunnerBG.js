@@ -57,6 +57,8 @@ function MazeInit(){
                                         FogFar=5000,
                                         
                                         WallsMaterialType='Lambert',
+                                        WallsEmissiveColor=0xFFFF00,
+                                        WallsEmissiveIntensity=0.5,
                                         
                                         MazeTexturePack=GetPackagePath()+'/_Assets/MazeRunner'
                                         );
