@@ -56,6 +56,8 @@ function MazeInit(){
                                         FogNear=1000,
                                         FogFar=5000,
                                         
+                                        WallsMaterialType='Lambert',
+                                        
                                         MazeTexturePack=GetPackagePath()+'/_Assets/MazeRunner'
                                         );
     window.addEventListener('resize', ResizeHandling);
