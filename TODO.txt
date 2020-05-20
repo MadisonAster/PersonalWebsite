@@ -18,7 +18,7 @@ DONE - Add Char light with specular
 
 HOLD - Snow Particles
 
-Add CoolWalls list
+DONE - Add CoolWalls list
 
 Add left wall tracing
 
