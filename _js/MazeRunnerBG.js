@@ -118,7 +118,9 @@ function ScrollHandling(event){
         var y = CalculateCameraY(window.DemoMaze.MazeHeight);
         window.DemoMaze.MazeCamera.position.y = y;
         if (y == window.DemoMaze.MazeHeight/2) {
-            window.DemoMaze.MazeAutopilot = true;
+            if (!window.DemoMaze.MazeAutopilot){
+                setTimeout(function(){window.DemoMaze.MazeAutopilot = true;}, 1000);
+            };
         } else {
             window.DemoMaze.MazeAutopilot = false;
         }
