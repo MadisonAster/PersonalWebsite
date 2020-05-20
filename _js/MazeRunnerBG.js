@@ -68,7 +68,7 @@ function MazeInit(){
                                         EnableEnd=false,
                                         
                                         MazeDebug=true,
-                                        MazeAutopilot=true,
+                                        MazeAutopilot=false,
                                         MazeSpeed=4,
                                         MazeTickDelta=10,
                                         MazeCellSize=320,
@@ -115,7 +115,13 @@ function ScrollHandling(event){
     //console.log(getYPosition(), getTotalDocHeight(), getYPosition()/getTotalDocHeight());
     var FooterHeight = document.getElementById('FooterContainer').clientHeight;
     if (window.DemoMaze.MazeCamera != null){ //Avoid trying to set camera Y before it's created
-        window.DemoMaze.MazeCamera.position.y = CalculateCameraY(window.DemoMaze.MazeHeight);
+        var y = CalculateCameraY(window.DemoMaze.MazeHeight);
+        window.DemoMaze.MazeCamera.position.y = y;
+        if (y == window.DemoMaze.MazeHeight/2) {
+            window.DemoMaze.MazeAutopilot = true;
+        } else {
+            window.DemoMaze.MazeAutopilot = false;
+        }
     }
 }
 
