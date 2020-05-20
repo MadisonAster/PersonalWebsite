@@ -119,7 +119,7 @@ function ScrollHandling(event){
         window.DemoMaze.MazeCamera.position.y = y;
         if (y == window.DemoMaze.MazeHeight/2) {
             if (!window.DemoMaze.MazeAutopilot){
-                setTimeout(function(){window.DemoMaze.MazeAutopilot = true;}, 1000);
+                setTimeout(function(){window.DemoMaze.MazeAutopilot = true;}, 200);
             };
         } else {
             window.DemoMaze.MazeAutopilot = false;
