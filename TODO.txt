@@ -51,6 +51,13 @@ Add codewars
 
 Add LinkedIn
 
+Add Firefox tree
+
+Add rawg.io
+
+Add GoodReads
+
+
 Update skill list
 
 Combine resume/cv
@@ -59,12 +66,18 @@ Add Bookshelf project
 
 Add Toyota Project
 
+
 Debug video player
+
+
+
+
+
+
 
 Gather Demo Reel Shots - 3 days
 Make Demo Reel Page - 5 days
 
-Finish Xmarks tree - 4 days
 
 
 
