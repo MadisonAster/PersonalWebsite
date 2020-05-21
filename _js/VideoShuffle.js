@@ -614,7 +614,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         }
     };
     this.transition = this.transitions[this.activeTransition];
-    /*
+    
     this.resize = function () { //Kludging this till I have time to turn all this into a class later. Why did I do this this way?
         var width = this.canvas.width;
         console.log('resize fired!!');
@@ -624,18 +624,18 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         var canvas = this.vswrapper.childNodes[1];
         var width = canvas.width;
         
-        this.canvas.width = 1000;
+        //this.canvas.width = 1000;
         console.log(canvas);
-        console.log('width', this.vswrapper.width);
+        console.log('width', canvas.width);
         
-        console.log('scrollWidth',document.body.scrollWidth);
-        console.log('offsetWidth',document.body.offsetWidth);
-        console.log('clientWidth',document.body.clientWidth);
+        //console.log('scrollWidth',document.body.scrollWidth);
+        //console.log('offsetWidth',document.body.offsetWidth);
+        //console.log('clientWidth',document.body.clientWidth);
         
-        console.log('width', this.vswrapper.parentNode);
-        console.log('width', this.vswrapper.parentNode.parentNode);
-        console.log('width', this.vswrapper.parentNode.parentNode.parentNode);
-        console.log('width', this.vswrapper.parentNode.parentNode.parentNode.width);
+        //console.log('width', this.vswrapper.parentNode);
+        //console.log('width', this.vswrapper.parentNode.parentNode);
+        //console.log('width', this.vswrapper.parentNode.parentNode.parentNode);
+        //console.log('width', this.vswrapper.parentNode.parentNode.parentNode.width);
         
         
         var height = width / (16/9);
@@ -647,8 +647,8 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
             width = height * (16/9);
         };
         
-        this.canvas.height = 1000;
-    };*/
+        //this.canvas.height = 1000;
+    };
     //this.resize();
     this.loadVideos();
     this.loadAudios();
