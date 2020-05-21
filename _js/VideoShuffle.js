@@ -614,6 +614,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         }
     };
     this.transition = this.transitions[this.activeTransition];
+    /*
     this.resize = function () { //Kludging this till I have time to turn all this into a class later. Why did I do this this way?
         var width = this.canvas.width;
         console.log('resize fired!!');
@@ -647,8 +648,8 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         };
         
         this.canvas.height = 1000;
-    };
-    this.resize();
+    };*/
+    //this.resize();
     this.loadVideos();
     this.loadAudios();
     this.controls.classList.remove('KeepOpen');
