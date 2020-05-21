@@ -24,9 +24,9 @@ DONE - Renamed Links to Favorites
 
 DONE - Cleaned up Favorites a bit
 
-Add left wall tracing
+DONE - Scroll to top on menu click
 
-Scroll to top on menu click
+Add left wall tracing
 
 Fix Phone Camera
 
