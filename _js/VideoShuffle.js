@@ -613,7 +613,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         }
     };
     this.transition = this.transitions[this.activeTransition];
-    this.resize = function () { //Cludging this till I have time to turn all this into a class later. Why did I do this this way?
+    this.resize = function () { //Kludging this till I have time to turn all this into a class later. Why did I do this this way?
         var width = this.canvas.width;
         console.log('resize fired!!');
         console.log(this.vswrapper);
@@ -626,15 +626,15 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         
         var height = width / (16/9);
         
-        this.vswrapper.style.height = height;
+        //this.vswrapper.style.height = height;
         if (width/height <= 16/9) {
             height = width / (16/9);
         } else {
             width = height * (16/9);
         };
         
-        this.canvas.width = width;
-        this.canvas.height = height;
+        this.canvas.width = 1000;
+        this.canvas.height = 1000;
     };
     this.resize();
     this.loadVideos();
