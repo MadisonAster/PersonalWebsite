@@ -616,6 +616,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
     this.resize = function () { //Cludging this till I have time to turn all this into a class later. Why did I do this this way?
         var width = this.vswrapper.offsetWidth;
         console.log('resize fired '+width);
+        console.log(this.vswrapper);
         
         var height = width / (16/9);
         
