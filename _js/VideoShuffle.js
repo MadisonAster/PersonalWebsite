@@ -631,7 +631,8 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         console.log('offsetWidth',document.body.offsetWidth);
         console.log('clientWidth',document.body.clientWidth);
         
-        console.log('width', this.vswrapper.parentNode.width);
+        console.log('width', this.vswrapper.parentNode);
+        console.log('width', this.vswrapper.parentNode.parentNode);
         
         
         var height = width / (16/9);
