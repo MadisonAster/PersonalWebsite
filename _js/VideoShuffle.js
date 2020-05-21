@@ -616,38 +616,17 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
     this.transition = this.transitions[this.activeTransition];
     
     this.resize = function () { //Kludging this till I have time to turn all this into a class later. Why did I do this this way?
-        var width = this.canvas.width;
         console.log('resize fired!!');
-        console.log(this.vswrapper);
-        console.log(this.vswrapper.parentNode);
         
-        var canvas = this.vswrapper.childNodes[1];
-        var width = canvas.width;
+        var width = this.canvas.width;
         
-        //this.canvas.width = 1000;
-        console.log(canvas);
-        console.log('width', canvas.width);
-        
-        //console.log('scrollWidth',document.body.scrollWidth);
-        //console.log('offsetWidth',document.body.offsetWidth);
-        //console.log('clientWidth',document.body.clientWidth);
-        
-        //console.log('width', this.vswrapper.parentNode);
-        //console.log('width', this.vswrapper.parentNode.parentNode);
-        //console.log('width', this.vswrapper.parentNode.parentNode.parentNode);
-        //console.log('width', this.vswrapper.parentNode.parentNode.parentNode.width);
-        
+        console.log(this.canvas);
+        console.log('width', this.canvas.width);
         
         var height = width / (16/9);
-        
-        //this.vswrapper.style.height = height;
-        if (width/height <= 16/9) {
-            height = width / (16/9);
-        } else {
-            width = height * (16/9);
-        };
-        
-        //this.canvas.height = 1000;
+        this.canvas.height = height;
+        this.vswrapper.width = width;
+        this.vswrapper.height = height;
     };
     //this.resize();
     this.loadVideos();
