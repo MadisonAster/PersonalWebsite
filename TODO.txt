@@ -28,9 +28,15 @@ DONE - Scroll to top on menu click
 
 DONE - Fixed Video player loading size
 
-Add left wall tracing
+DONE - Add basic left wall tracing
+
+Fix IMDB
 
 Fix Phone Camera
+
+Fix Edge animation rate
+
+Fix Firefox 1080p VSVideos
 
 Add wall tracing line
 
@@ -40,7 +46,6 @@ Debug Maze
 
 -----
 
-Fix IMDB
 
 Add codewars
 
