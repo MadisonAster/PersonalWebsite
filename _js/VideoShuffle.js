@@ -630,7 +630,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         this.canvas.width = width;
         this.canvas.height = height;
     };
-    this.resize();
+    //this.resize();
     this.loadVideos();
     this.loadAudios();
     this.controls.classList.remove('KeepOpen');
