@@ -46,19 +46,17 @@ Add right wall tracing
 
 Debug Maze
 
------
-
-
 Add codewars
 
 Add LinkedIn
-
-Add Firefox tree
 
 Add rawg.io
 
 Add GoodReads
 
+Fix favories loading
+
+Add Firefox tree
 
 Update skill list
 
@@ -67,7 +65,6 @@ Combine resume/cv
 Add Bookshelf project
 
 Add Toyota Project
-
 
 Debug video player
 
