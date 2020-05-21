@@ -42,7 +42,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
     
     this.vswrapper = document.getElementById('VideoShuffleWrapper');
     this.vswrapper.innerHTML = "\
-        <canvas id='VideoShuffleCanvas'></canvas>\
+        <canvas id='VideoShuffleCanvas' style='width:100%;'></canvas>\
         <div id='VideoShuffleControls' class='KeepOpen'>\
             <div id='VideoShufflePlayButton' class='VideoShuffleControlsButton paused'>\
                 <svg viewBox='10 10 20.007 20.007' id='vsplay'>\
@@ -449,7 +449,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
                 reformat: null
             });
         };
-        this.resize();
+        //this.resize();
     };
     this.loadAudios = function() {
         //Takes:
