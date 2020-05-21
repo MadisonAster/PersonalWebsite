@@ -1,7 +1,6 @@
 History.Adapter.bind(window,'statechange',function(){ // Note: We are using statechange instead of popstate
     //var State = History.getState(); // Note: We are using History.getState() instead of event.state
     window.scrollTo(0,0);
-    console.log('heya!');
     window.PageName = window.location.href.replace(/\/$/, "").split('/').slice(-1)[0];
     
     if(window.isOldBrowser){

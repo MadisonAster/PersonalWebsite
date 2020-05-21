@@ -1,7 +1,6 @@
 window.onload = function(){
     MazeInit();
     //sorttable.init();
-    //window.scrollTo(0,0);
     menuArray = document.getElementById('Menu').childNodes;
     for(var i=0;i<menuArray.length;i++){
         if(menuArray[i].id != null){
