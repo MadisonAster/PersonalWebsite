@@ -621,6 +621,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         var canvas = this.vswrapper.childNodes[1];
         var width = canvas.width;
         
+        this.canvas.width = 1000;
         console.log(canvas);
         console.log('width', width);
         
@@ -633,7 +634,6 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
             width = height * (16/9);
         };
         
-        this.canvas.width = 1000;
         this.canvas.height = 1000;
     };
     this.resize();
