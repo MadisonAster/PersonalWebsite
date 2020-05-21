@@ -625,7 +625,13 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         this.canvas.width = 1000;
         console.log(canvas);
         console.log('width', this.vswrapper.width);
+        
+        console.log('scrollWidth',this.vswrapper.scrollWidth);
+        console.log('offsetWidth',this.vswrapper.offsetWidth);
+        console.log('clientWidth',this.vswrapper.clientWidth);
+        
         console.log('width', this.vswrapper.parentNode.width);
+        
         
         var height = width / (16/9);
         
