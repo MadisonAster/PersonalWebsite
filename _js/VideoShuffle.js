@@ -615,10 +615,14 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
     this.transition = this.transitions[this.activeTransition];
     this.resize = function () { //Cludging this till I have time to turn all this into a class later. Why did I do this this way?
         var width = this.canvas.width;
-        console.log('resize fired '+width);
+        console.log('resize fired!!');
         console.log(this.vswrapper);
-        console.log(this.vswrapper.childNodes);
-        console.log(this.canvas);
+        
+        var canvas = this.vswrapper.childNodes[1];
+        var width = canvas.width;
+        
+        console.log(canvas);
+        console.log('width', width);
         
         var height = width / (16/9);
         
