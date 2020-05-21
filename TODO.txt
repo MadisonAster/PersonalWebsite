@@ -20,6 +20,8 @@ HOLD - Snow Particles
 
 DONE - Add CoolWalls list
 
+DONE - Renambed Links to Favorites
+
 Add left wall tracing
 
 Scroll to top on menu click
