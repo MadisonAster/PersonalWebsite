@@ -613,7 +613,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         }
     };
     this.transition = this.transitions[this.activeTransition];
-    this.resize = this.debounce(function () { //Cludging this till I have time to turn all this into a class later. Why did I do this this way?
+    this.resize = function () { //Cludging this till I have time to turn all this into a class later. Why did I do this this way?
         //Takes:
         //Performs: resizes canvas based on the wrapper width
         //Returns:
@@ -634,7 +634,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         
         this.canvas.width = width;
         this.canvas.height = height;
-    });
+    };
     this.resize();
     this.loadVideos();
     this.loadAudios();
