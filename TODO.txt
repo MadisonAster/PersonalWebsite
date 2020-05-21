@@ -40,11 +40,7 @@ Fix Edge animation rate
 
 Fix Firefox 1080p VSVideos
 
-Add wall tracing line
-
-Add right wall tracing
-
-Debug Maze
+Fix Contact form
 
 Add codewars
 
@@ -54,11 +50,23 @@ Add rawg.io
 
 Add GoodReads
 
-Fix favories loading
+Fix favories layout
+
+
+
+Add wall tracing line
+
+Add right wall tracing
+
+Debug Maze
+
+
 
 Add Firefox tree
 
 Update skill list
+
+Update about menu
 
 Combine resume/cv
 
