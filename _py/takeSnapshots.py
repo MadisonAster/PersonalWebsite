@@ -59,7 +59,7 @@ def getAndSanitizeHTML(url):
     
     domain = url.strip('http://')
     domain = domain.strip('https://')
-    domain = 'http://'+domain.split('/',1)[0]+'/'
+    domain = 'https://'+domain.split('/',1)[0]+'/'
     
     response = urllib2.urlopen(url)
     html = response.read()
@@ -73,7 +73,11 @@ def getAndSanitizeHTML(url):
     html = html.replace('href="/', 'href="'+domain)
     html = html.replace("href='/", "href='"+domain)
     html = html.replace("<a", "<a target='_blank'")
+    
     html = html.replace(" - as Thomas McVay", "")
+    html2 = html.split('<div id="details-akas"',1)
+    html = html2[0]+htm2[1].split('</div>',1)[-1]
+    html = html.replace("Thomas McVay", "")
     
     expression = re.compile('action=[\'"]/.*?[\'"]')
     html = re.sub(expression, 'action="'+url+'"', html)
