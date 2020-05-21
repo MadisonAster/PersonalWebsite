@@ -26,6 +26,8 @@ DONE - Cleaned up Favorites a bit
 
 DONE - Scroll to top on menu click
 
+DONE - Fixed Video player loading size
+
 Add left wall tracing
 
 Fix Phone Camera
