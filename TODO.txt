@@ -38,6 +38,8 @@ Fix IMDB
 
 Add codewars
 
+Add LinkedIn
+
 Update skill list
 
 Combine resume/cv
