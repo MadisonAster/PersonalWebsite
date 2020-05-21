@@ -1,11 +1,11 @@
-<script src='./Links/showSubSection.js'></script>
+<script src='./Favorites/showSubSection.js'></script>
 <div class="shuffle__sizer" style='height:60px;width:25%;margin-left:0;'></div>
 
 <?php
 $blacklist = array('.', '..', 'stats');
-$Linkdirs = array_filter(glob('./Links/*'), 'is_dir');
+$Linkdirs = array_filter(glob('./Favorites/*'), 'is_dir');
 
-$content = file("./Links/content.html");
+$content = file("./Favorites/content.html");
 foreach ($content as &$value) {
     if(strpos($value,"{contentArea}") !== false){
         foreach($Linkdirs as &$Linkdir){

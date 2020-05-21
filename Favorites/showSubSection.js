@@ -17,5 +17,5 @@ function showSubSection(ElementID) {
         document.getElementById('fig_'+ElementID).style['width'] = '100%';
         window.lastSubSection = ElementID;
     };
-    $('#'+window.lastLinksTab+'Grid').shuffle('update');
+    $('#'+window.lastFavoritesTab+'Grid').shuffle('update');
 };

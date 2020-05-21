@@ -1,5 +1,5 @@
-function Links_onload(){
-    //console.log('Links onload');
+function Favorites_onload(){
+    //console.log('Favorites onload');
     $('#MoviesGrid').shuffle({
         itemSelector: '.picture-item',
         sizer: $('#MoviesGrid').find('.shuffle__sizer'),
@@ -10,13 +10,13 @@ function Links_onload(){
     });
     cache_delayed();
     $('.sort-options').on('change', function(){
-        resortGrid($('#'+window.lastLinksTab+'Grid'));
+        resortGrid($('#'+window.lastFavoritesTab+'Grid'));
     });
     
     resortGrid($('#MoviesGrid'));
     resortGrid($('#TVGrid'));
-    window.lastLinksTab = 'TV';
-    switchLinksTabs('Movies');
+    window.lastFavoritesTab = 'TV';
+    switchFavoritesTabs('Movies');
 };
 
 function cache_delayed(){
@@ -55,13 +55,13 @@ function resortGrid(GridObject){
     GridObject.shuffle('update');
 };
 
-function switchLinksTabs(TabName){
-    if(TabName != window.lastLinksTab){
-        document.getElementById(window.lastLinksTab+'Button').style['background-color'] = '#555555';
-        document.getElementById(window.lastLinksTab+'Div').style['display'] = 'none';
+function switchFavoritesTabs(TabName){
+    if(TabName != window.lastFavoritesTab){
+        document.getElementById(window.lastFavoritesTab+'Button').style['background-color'] = '#555555';
+        document.getElementById(window.lastFavoritesTab+'Div').style['display'] = 'none';
         document.getElementById(TabName+'Button').style['background-color'] = '#111111';
         document.getElementById(TabName+'Div').style['display'] = '';
         $('#'+TabName+'Grid').shuffle('update');
-        window.lastLinksTab = TabName;
+        window.lastFavoritesTab = TabName;
     };    
 };

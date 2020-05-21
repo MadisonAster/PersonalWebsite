@@ -1,3 +1,3 @@
-function Links_statechange(){
-    $('#'+window.lastLinksTab+'Grid').shuffle('update');
+function Favorites_statechange(){
+    $('#'+window.lastFavoritesTab+'Grid').shuffle('update');
 };
