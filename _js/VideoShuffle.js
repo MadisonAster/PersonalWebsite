@@ -449,6 +449,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
                 reformat: null
             });
         };
+        this.resize();
     };
     this.loadAudios = function() {
         //Takes:
