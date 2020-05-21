@@ -734,7 +734,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
     this.canvas.addEventListener('click', this.togglePlay.bind(null, this), false);
     this.playbutton.addEventListener('click', this.togglePlay.bind(null, this), false);
     this.bigbutton.addEventListener('click', this.togglePlay.bind(null, this), false);
-    window.addEventListener('keyup', this.spacebar.bind(this));
+    //window.addEventListener('keyup', this.spacebar.bind(this));
     ///////////////////////////////////////////////////////
     
     
