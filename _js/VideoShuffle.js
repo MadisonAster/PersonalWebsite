@@ -373,6 +373,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         //          begins playback if autostart is true,
         //Returns:
         
+        this.resize();
         if (this.seriously) {
             return;
         };
@@ -384,7 +385,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         };
         
         this.initSeriously();
-        this.resize();
+        //this.resize();
         this.seriously.go(this.draw.bind(null, this));
         this.switchVideo(this, 0);
         this.switchAudio(this, 0);
