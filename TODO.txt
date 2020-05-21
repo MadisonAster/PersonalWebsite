@@ -20,7 +20,9 @@ HOLD - Snow Particles
 
 DONE - Add CoolWalls list
 
-DONE - Renambed Links to Favorites
+DONE - Renamed Links to Favorites
+
+DONE - Cleaned up Favorites a bit
 
 Add left wall tracing
 
