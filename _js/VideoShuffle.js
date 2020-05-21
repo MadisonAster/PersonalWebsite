@@ -373,7 +373,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         //          begins playback if autostart is true,
         //Returns:
         
-        this.resize();
+        //this.resize();
         if (this.seriously) {
             return;
         };
@@ -616,19 +616,13 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
     this.transition = this.transitions[this.activeTransition];
     
     this.resize = function () { //Kludging this till I have time to turn all this into a class later. Why did I do this this way?
-        console.log('resize fired!!');
-        
         var width = this.canvas.width;
-        
-        console.log(this.canvas);
-        console.log('width', this.canvas.width);
-        
         var height = width / (16/9);
         this.canvas.height = height;
         this.vswrapper.width = width;
         this.vswrapper.height = height;
     };
-    //this.resize();
+    this.resize(); //Kludging this till I have time to turn all this into a class later. Why did I do this this way?
     this.loadVideos();
     this.loadAudios();
     this.controls.classList.remove('KeepOpen');
@@ -689,7 +683,6 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         //Returns:
         
         var width = this.vswrapper.offsetWidth;
-        console.log('resize fired '+width);
         if (width == 0) {
             return;
         };
