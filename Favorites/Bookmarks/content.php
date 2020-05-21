@@ -1,4 +1,4 @@
-<div id='BookmarksDiv' style='padding:0;margin:0;height:1000px;display:none;'>
+<div id='BookmarksDiv' style='padding:0;margin:0;height:1000px;display:none;text-align:center;'>
 <!--
 <div id='BookmarksGrid' class='row-fluid' style='width:100%;margins:0;padding:0;'>
 <div id="jstree-proton-3">
