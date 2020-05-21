@@ -32,6 +32,10 @@ DONE - Add basic left wall tracing
 
 DONE - Added tabs for good reads and rawg.io
 
+DONE - Rewrite About Headline
+
+Add CoolWalls folder scan
+
 Fix IMDB
 
 Fix Phone Camera
