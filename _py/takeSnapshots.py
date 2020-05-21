@@ -76,7 +76,7 @@ def getAndSanitizeHTML(url):
     
     html = html.replace(" - as Thomas McVay", "")
     html2 = html.split('<div id="details-akas"',1)
-    html = html2[0]+htm2[1].split('</div>',1)[-1]
+    html = html2[0]+html2[1].split('</div>',1)[-1]
     html = html.replace("Thomas McVay", "")
     
     expression = re.compile('action=[\'"]/.*?[\'"]')
