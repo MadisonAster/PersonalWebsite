@@ -1,6 +1,4 @@
-<div id='MoviesDiv' style='padding:0;margin:0;display:none;'>
-<br/><br/>
-<br/><br/>
+<div id='MoviesDiv' style='padding:0;margin:0;display:none;align:right;'>
 
 Sort:
 <select id='MoviesGrid_sort-options' class='sort-options'>

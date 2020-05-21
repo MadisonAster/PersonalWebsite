@@ -1,6 +1,4 @@
-<div id='TVDiv' style='padding:0;margin:0;display:none;'>
-<br/><br/>
-<br/><br/>
+<div id='TVDiv' style='padding:0;margin:0;display:none;align:right;'>
 
 Sort:
 <select id='TVGrid_sort-options' class='sort-options'>
