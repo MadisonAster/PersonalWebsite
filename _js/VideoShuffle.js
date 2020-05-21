@@ -613,6 +613,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         }
     };
     this.transition = this.transitions[this.activeTransition];
+    this.resize();
     this.loadVideos();
     this.loadAudios();
     this.controls.classList.remove('KeepOpen');
