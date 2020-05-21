@@ -26,6 +26,8 @@ function GetPackagePath(){
 };
 function MazeInit(){
     var PackagePath = GetPackagePath();
+    var MazeTexturePack = GetPackagePath()+'/_Assets/MazeRunner';
+    var CoolWallsFolder = MazeTexturePack+'/CoolWalls'
     var CoolWallList = [
         PackagePath+'/_Assets/VSVideo/CellBodyField.jpg',
         PackagePath+'/_Assets/VSVideo/CellCrowdReaction.jpg',
@@ -50,6 +52,48 @@ function MazeInit(){
         PackagePath+'/_Assets/VSVideo/ScavengersShip.jpg',
         PackagePath+'/_Assets/VSVideo/UTBKidParticles.jpg',
         PackagePath+'/_Assets/VSVideo/UTBWombParticles.jpg',
+        CoolWallsFolder+'/001.jpg',
+        CoolWallsFolder+'/002.jpg',
+        CoolWallsFolder+'/003.jpg',
+        CoolWallsFolder+'/004.jpg',
+        CoolWallsFolder+'/005.jpg',
+        CoolWallsFolder+'/006.jpg',
+        CoolWallsFolder+'/007.jpg',
+        CoolWallsFolder+'/008.jpg',
+        CoolWallsFolder+'/009.jpg',
+        CoolWallsFolder+'/010.jpg',
+        CoolWallsFolder+'/011.jpg',
+        CoolWallsFolder+'/012.jpg',
+        CoolWallsFolder+'/013.jpg',
+        CoolWallsFolder+'/014.jpg',
+        CoolWallsFolder+'/015.jpg',
+        CoolWallsFolder+'/016.jpg',
+        CoolWallsFolder+'/017.jpg',
+        CoolWallsFolder+'/018.jpg',
+        CoolWallsFolder+'/019.jpg',
+        CoolWallsFolder+'/020.jpg',
+        CoolWallsFolder+'/021.jpg',
+        CoolWallsFolder+'/022.jpg',
+        CoolWallsFolder+'/023.jpg',
+        CoolWallsFolder+'/024.jpg',
+        CoolWallsFolder+'/025.jpg',
+        CoolWallsFolder+'/026.jpg',
+        CoolWallsFolder+'/027.jpg',
+        CoolWallsFolder+'/028.jpg',
+        CoolWallsFolder+'/029.jpg',
+        CoolWallsFolder+'/030.jpg',
+        CoolWallsFolder+'/031.jpg',
+        CoolWallsFolder+'/032.jpg',
+        CoolWallsFolder+'/033.jpg',
+        CoolWallsFolder+'/034.jpg',
+        CoolWallsFolder+'/035.jpg',
+        CoolWallsFolder+'/036.jpg',
+        CoolWallsFolder+'/037.jpg',
+        CoolWallsFolder+'/038.jpg',
+        CoolWallsFolder+'/039.jpg',
+        CoolWallsFolder+'/040.jpg',
+        CoolWallsFolder+'/041.jpg',
+        CoolWallsFolder+'/042.jpg',
     ];
     window.DemoMaze = new Windows95Maze(MazeCanvasID='MazeRunner',
                                         MazeWidth=50,
@@ -95,7 +139,7 @@ function MazeInit(){
                                         LightDecay=2.0,
                                         LightDistance=960,
                                         
-                                        MazeTexturePack=GetPackagePath()+'/_Assets/MazeRunner',
+                                        MazeTexturePack=MazeTexturePack,
                                         MazeCoolWallList=CoolWallList,
                                         );
     window.addEventListener('resize', ResizeHandling);
