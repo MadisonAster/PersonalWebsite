@@ -75,8 +75,9 @@ def getAndSanitizeHTML(url):
     html = html.replace("<a", "<a target='_blank'")
     
     html = html.replace(" - as Thomas McVay", "")
-    html2 = html.split('<div id="details-akas"',1)
-    html = html2[0]+html2[1].split('</div>',1)[-1]
+    if '<div id="details-akas"' in html:
+        html2 = html.split('<div id="details-akas"',1)
+        html = html2[0]+html2[1].split('</div>',1)[-1]
     html = html.replace("Thomas McVay", "")
     
     expression = re.compile('action=[\'"]/.*?[\'"]')
