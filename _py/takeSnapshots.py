@@ -46,6 +46,7 @@ def GetGitHub(url, SnapshotFolder):
     html = html.replace("href='/", "href='"+domain)
     html = html.replace("<a", "<a target='_blank'")
     
+    html = html.replace('http:', 'https:')
     
     expression = re.compile('action=[\'"]/.*?[\'"]')
     html = re.sub(expression, 'action="'+url+'"', html)
