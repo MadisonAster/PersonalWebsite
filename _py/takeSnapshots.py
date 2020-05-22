@@ -59,7 +59,9 @@ def GetGitHub(url, SnapshotFolder):
     for i, a in enumerate(images):
         imgURL = a.split('src="',1)[1].split('"',1)[0]
         imgExt = imgURL.rsplit('.',1)[-1]
-        if imgURL != '' and imgExt != '' and len(imgExt) < 5: #Do better filename validity check here
+        if len(imgExt) > 5:
+            imgExt = 'jfif'
+        if imgURL != '' and imgExt != '': #Do better filename validity check here
             imgName = 'image_'+str(i).zfill(3)+'.'+imgExt
             imgFile = urllib2.urlopen(imgURL)
             fileObject = open(SnapshotFolder+'/'+imgName, 'wb')
