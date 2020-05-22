@@ -9,14 +9,72 @@ def main():
     
     htmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0]
     
-    html = GetIMDB('http://www.imdb.com/name/nm4807696', htmlDir+'IMDB/snapshot')    
-    #downloadFiles_SaveHTML(html, htmlDir+'IMDB/snapshot')
+    #GetIMDB('http://www.imdb.com/name/nm4807696', htmlDir+'IMDB/snapshot')    
+    
+    GetGitHub('http://github.com/MadisonAster', htmlDir+'GitHub/snapshot')
+    
+    
     
     #html = getAndSanitizeHTML('http://github.com/MadisonAster')
     #expression = re.compile('<img.*?src=[\'"].*?9937336.*?[\'"]')
     #html = linkreplace(expression, '9937336.jpg', html)
     #downloadFiles_SaveHTML(html, htmlDir+'GitHub/snapshot')
     
+def GetGitHub(url, SnapshotFolder):
+    #Takes: url as valid public url
+    #Performs: downloads html response from server
+    #Returns: html as str
+    
+    #########################Load HTML############################
+    domain = url.strip('http://')
+    domain = domain.strip('https://')
+    domain = 'https://'+domain.split('/',1)[0]+'/'
+    
+    response = urllib2.urlopen(url)
+    html = response.read()
+
+    expression = re.compile('<script.*?/script>', flags=re.DOTALL)
+    html = re.sub(expression, '', html)
+
+    expression = re.compile('<iframe.*?/iframe>', flags=re.DOTALL)
+    html = re.sub(expression, '', html)
+    ###############################################################
+    
+    
+    ###################Sanitize HTML text##########################
+    html = html.replace('href="/', 'href="'+domain)
+    html = html.replace("href='/", "href='"+domain)
+    html = html.replace("<a", "<a target='_blank'")
+    
+    
+    expression = re.compile('action=[\'"]/.*?[\'"]')
+    html = re.sub(expression, 'action="'+url+'"', html)
+    ###############################################################
+    
+    
+    #########################Save Images###########################
+    for filename in os.listdir(SnapshotFolder):
+        os.remove(SnapshotFolder+'/'+filename)
+    images = html.split('<img')[1:]
+    for i, a in enumerate(images):
+        imgURL = a.split('src="',1)[1].split('"',1)[0]
+        imgExt = imgURL.rsplit('.',1)[-1]
+        if imgURL != '' and imgExt != '' and len(imgExt) < 5: #Do better filename validity check here
+            imgName = 'image_'+str(i).zfill(3)+'.'+imgExt
+            imgFile = urllib2.urlopen(imgURL)
+            fileObject = open(SnapshotFolder+'/'+imgName, 'wb')
+            fileObject.write(imgFile.read())
+            fileObject.close()
+            html = html.replace(imgURL, imgName)
+    ###############################################################
+    
+    
+    #####################create index.html#########################
+    outputpath = SnapshotFolder+'/index.html'
+    file = open(outputpath, 'w')
+    file.write(html)
+    file.close()
+    ###############################################################
 
 def GetIMDB(url, SnapshotFolder):
     #Takes: url as valid public url
