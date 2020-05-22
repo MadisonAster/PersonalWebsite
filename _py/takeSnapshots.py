@@ -50,9 +50,9 @@ def GetIMDB(url, SnapshotFolder):
         html = html2[0]+html2[1].split('</div>',1)[-1]
     html = html.replace("Thomas McVay", "")
     
-    #if '<nav' in html:
-    #    html2 = html.split('<nav',1)
-    #    html = html2[0]+html2[1].split('</nav>',1)[-1]
+    if '<nav' in html:
+        html2 = html.split('<nav',1)
+        html = html2[0]+html2[1].split('</nav>',1)[-1]
     
     expression = re.compile('action=[\'"]/.*?[\'"]')
     html = re.sub(expression, 'action="'+url+'"', html)
