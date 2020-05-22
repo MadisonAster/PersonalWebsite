@@ -111,8 +111,8 @@ function MazeInit(){
                                         EnableStart=true,
                                         EnableEnd=false,
                                         
-                                        MazeDebug=true,
-                                        MazeAutopilot=false,
+                                        MazeDebug=false,
+                                        MazeAutopilot=true,
                                         MazeSpeed=2,
                                         MazeTickDelta=10,
                                         MazeCellSize=320,
