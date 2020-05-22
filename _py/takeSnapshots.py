@@ -54,6 +54,21 @@ def GetIMDB(url, SnapshotFolder):
     #    html2 = html.split('<nav',1)
     #    html = html2[0]+html2[1].split('</nav>',1)[-1]
     
+    '''
+    if 'data-testid="panel"' in html:
+        html0 = html.split('data-testid="panel"', 1)[0].rsplit('<div', 1)[0]
+        html1 = html.split('data-testid="panel"', 1)[1]
+        count = 0
+        for i, section in enumerate(html1.split('<div')):
+            count += section.count('/div')
+            if count >= i+2:
+                break
+        count = i+2
+        html1 = html.split('/div', count)[-1].split('>',1)[-1]
+        
+        html = html0+html1
+    '''
+    
     expression = re.compile('action=[\'"]/.*?[\'"]')
     html = re.sub(expression, 'action="'+url+'"', html)
     ###############################################################
