@@ -332,7 +332,7 @@ canvas:focus {
 
 .stop-scrolling {
   height: 100%;
-  overflow: scroll;
+  overflow-y: scroll;
 }
 
 .ProjectTag {
