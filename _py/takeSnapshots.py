@@ -8,8 +8,10 @@ def main():
     #Returns:
     
     htmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0]
-    GetIMDB('http://www.imdb.com/name/nm4807696', htmlDir+'IMDB/snapshot')    
-    GetGitHub('http://github.com/MadisonAster', htmlDir+'GitHub/snapshot')
+    #GetIMDB('http://www.imdb.com/name/nm4807696', htmlDir+'IMDB/snapshot')
+    #GetGitHub('http://github.com/MadisonAster', htmlDir+'GitHub/snapshot')
+    #GetGitHub('https://www.linkedin.com/in/madisonaster/', htmlDir+'LinkedIn/snapshot')
+    GetGitHub('https://www.codewars.com/users/MadisonAster', htmlDir+'CodeWars/snapshot')
     
 def GetGitHub(url, SnapshotFolder):
     #Takes: url as valid public url
@@ -19,7 +21,7 @@ def GetGitHub(url, SnapshotFolder):
     #########################Load HTML############################
     domain = url.strip('http://')
     domain = domain.strip('https://')
-    domain = 'https://'+domain.split('/',1)[0]+'/'
+    domain = 'https://'+domain.split('/',1)[0]
     
     response = urllib2.urlopen(url)
     html = response.read()
@@ -55,6 +57,8 @@ def GetGitHub(url, SnapshotFolder):
             imgExt = 'jfif'
         if imgURL != '' and imgExt != '': #Do better filename validity check here
             imgName = 'image_'+str(i).zfill(3)+'.'+imgExt
+            if imgURL[0] == '/':
+                imgURL = domain+imgURL
             imgFile = urllib2.urlopen(imgURL)
             fileObject = open(SnapshotFolder+'/'+imgName, 'wb')
             fileObject.write(imgFile.read())
