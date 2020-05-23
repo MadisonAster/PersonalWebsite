@@ -103,8 +103,26 @@ def GetCodeWars(url, SnapshotFolder):
             if cssURL[0] == '/':
                 cssURL = domain+cssURL
             cssFile = urllib2.urlopen(cssURL)
-            fileObject = open(SnapshotFolder+'/'+cssName, 'wb')
-            fileObject.write(cssFile.read())
+            cssText = cssFile.read()
+            
+            for j in range(cssText.count('url(')):
+                sections = cssText.split('url(')
+                fileUrl = sections[j+1].split(')',1)[0]
+                print('fileUrl', fileUrl)
+                fileExt = fileUrl.rsplit('.',1)[-1]
+                fileName = 'cssFile_'+str(i)+'_'+str(j)+'.'+fileExt
+                print('fileName', fileName)
+                cssText = cssText.replace(fileUrl, fileName)
+                if fileUrl[0] == '/':
+                    fileUrl = domain+fileUrl
+                
+                fileHandle = urllib2.urlopen(imgURL)
+                fileObject = open(SnapshotFolder+'/'+fileName, 'wb')
+                fileObject.write(fileHandle.read())
+                fileObject.close()
+            
+            fileObject = open(SnapshotFolder+'/'+cssName, 'w')
+            fileObject.write(cssText)
             fileObject.close()
     ###############################################################
     
