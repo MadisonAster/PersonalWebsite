@@ -78,7 +78,9 @@ def GetCodeWars(url, SnapshotFolder):
         imgURL = a.split('src="',1)[1].split('"',1)[0]
         imgExt = imgURL.rsplit('.',1)[-1]
         if len(imgExt) > 5:
-            imgExt = 'jfif'
+            print('imgURL', imgURL)
+            #imgExt = 'jfif'
+            imgExt = 'svg'
         if imgURL != '' and imgExt != '': #Do better filename validity check here
             imgName = 'image_'+str(i).zfill(3)+'.'+imgExt
             html = html.replace(imgURL, imgName)
@@ -94,7 +96,6 @@ def GetCodeWars(url, SnapshotFolder):
     for i, LinkElement in enumerate(GetElementsBySearchString(html, 'rel="stylesheet"')):
         cssURL = GetAttrValueFromStringElement(LinkElement, 'href')
         if cssURL != '': #Do better filename validity check here
-            print cssURL
             cssName = 'css_'+str(i).zfill(3)+'.css'
             html = html.replace(cssURL, cssName)
             if cssURL[0] == '/':
