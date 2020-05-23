@@ -1,4 +1,8 @@
-import os, re, urllib2
+import os, re
+try:
+    import urllib2 as urllib
+except:
+    import urllib.request as urllib
 import datetime, sys
 from pprint import pprint
 
@@ -8,10 +12,10 @@ def main():
     #Returns:
     
     htmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0]
-    GetIMDB('http://www.imdb.com/name/nm4807696', htmlDir+'IMDB/snapshot')
-    GetGitHub('http://github.com/MadisonAster', htmlDir+'GitHub/snapshot')
-    GetCodeWars('https://www.codewars.com/users/MadisonAster', htmlDir+'CodeWars/snapshot')
-    #GetGitHub('https://www.linkedin.com/in/madisonaster/', htmlDir+'LinkedIn/snapshot')
+    #GetIMDB('http://www.imdb.com/name/nm4807696', htmlDir+'IMDB/snapshot')
+    #GetGitHub('http://github.com/MadisonAster', htmlDir+'GitHub/snapshot')
+    #GetCodeWars('https://www.codewars.com/users/MadisonAster', htmlDir+'CodeWars/snapshot')
+    GetCodeWars('https://www.linkedin.com/in/madisonaster/', htmlDir+'LinkedIn/snapshot')
     
     
     
@@ -45,7 +49,7 @@ def GetCodeWars(url, SnapshotFolder):
     domain = domain.strip('https://')
     domain = 'https://'+domain.split('/',1)[0]+'/'
     
-    response = urllib2.urlopen(url)
+    response = urllib.urlopen(url)
     html = response.read()
 
     expression = re.compile('<script.*?/script>', flags=re.DOTALL)
@@ -87,7 +91,7 @@ def GetCodeWars(url, SnapshotFolder):
             html = html.replace(imgURL, imgName)
             if imgURL[0] == '/':
                 imgURL = domain.rstrip('/')+imgURL
-            imgFile = urllib2.urlopen(imgURL)
+            imgFile = urllib.urlopen(imgURL)
             fileObject = open(SnapshotFolder+'/'+imgName, 'wb')
             fileObject.write(imgFile.read())
             fileObject.close()
@@ -101,7 +105,7 @@ def GetCodeWars(url, SnapshotFolder):
             html = html.replace(cssURL, cssName)
             if cssURL[0] == '/':
                 cssURL = domain+cssURL
-            cssFile = urllib2.urlopen(cssURL)
+            cssFile = urllib.urlopen(cssURL)
             cssText = cssFile.read()
             
             for j in range(cssText.count('url(')):
@@ -115,7 +119,7 @@ def GetCodeWars(url, SnapshotFolder):
                 if fileUrl[0] == '/':
                     fileUrl = domain+fileUrl
                 
-                fileHandle = urllib2.urlopen(fileUrl)
+                fileHandle = urllib.urlopen(fileUrl)
                 fileObject = open(SnapshotFolder+'/'+fileName, 'wb')
                 fileObject.write(fileHandle.read())
                 fileObject.close()
@@ -143,7 +147,7 @@ def GetGitHub(url, SnapshotFolder):
     domain = domain.strip('https://')
     domain = 'https://'+domain.split('/',1)[0]
     
-    response = urllib2.urlopen(url)
+    response = urllib.urlopen(url)
     html = response.read()
 
     expression = re.compile('<script.*?/script>', flags=re.DOTALL)
@@ -180,7 +184,7 @@ def GetGitHub(url, SnapshotFolder):
             html = html.replace(imgURL, imgName)
             if imgURL[0] == '/':
                 imgURL = domain+imgURL
-            imgFile = urllib2.urlopen(imgURL)
+            imgFile = urllib.urlopen(imgURL)
             fileObject = open(SnapshotFolder+'/'+imgName, 'wb')
             fileObject.write(imgFile.read())
             fileObject.close()
@@ -204,7 +208,7 @@ def GetIMDB(url, SnapshotFolder):
     domain = domain.strip('https://')
     domain = 'https://'+domain.split('/',1)[0]+'/'
     
-    response = urllib2.urlopen(url)
+    response = urllib.urlopen(url)
     html = response.read()
 
     expression = re.compile('<script.*?/script>', flags=re.DOTALL)
@@ -261,7 +265,7 @@ def GetIMDB(url, SnapshotFolder):
         imgExt = imgURL.rsplit('.',1)[-1]
         if imgURL != '' and imgExt != '': #Do better filename validity check here
             imgName = 'image_'+str(i).zfill(3)+'.'+imgExt
-            imgFile = urllib2.urlopen(imgURL)
+            imgFile = urllib.urlopen(imgURL)
             fileObject = open(SnapshotFolder+'/'+imgName, 'wb')
             fileObject.write(imgFile.read())
             fileObject.close()
