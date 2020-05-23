@@ -15,7 +15,7 @@ function GetAnimationSpeed(){
     var parser = new UAParser([navigator.userAgent]);
     
     var mobile = false;
-    if (parser.getDevice().name != null){
+    if (parser.getDevice().type != null){
         mobile = true;
     }
     e = parser.getEngine().name;
