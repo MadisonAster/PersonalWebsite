@@ -11,6 +11,17 @@ function getYPosition(){
     var YOffset = (window.pageYOffset || document.documentElement.scrollTop)  - (document.documentElement.clientTop || 0);
     return Math.ceil(YOffset + document.body.clientHeight);
 };
+function GetAnimationSpeed(){
+    var parser = new UAParser([navigator.userAgent]);
+    console.log(parser.getBrowser());
+    console.log(parser.getDevice());
+    console.log(parser.getEngine());
+    return 2;
+    
+    if (window.BrowserType == 'Edge') {
+        return 10;
+    }
+}
 function GetPackagePath(){
     var scripts = document.getElementsByTagName('script');
     for(var i=0;i<scripts.length;++i){
@@ -114,7 +125,7 @@ function MazeInit(){
                                         MazeDebug=false,
                                         MazeAutopilot=true,
                                         MazeAutopilot=false,
-                                        MazeSpeed=10,
+                                        MazeSpeed=GetAnimationSpeed(),
                                         //MazeTickDelta=10,
                                         MazeTickDelta=50,
                                         MazeCellSize=320,
