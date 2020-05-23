@@ -27,9 +27,9 @@ function GetAnimationSpeed(){
     } else if(e == 'Blink') {
         if (mobile){return 5};
         return 2;
-    } else if(e == 'WebKit') {
-        if (mobile){return 5};
-        return 2;
+    } else if(e == 'WebKit') { 
+        if (mobile){return 5}; //Check ios safari speed
+        return 2; //Check osx safari speed
     } else {
         return 2;
     }
