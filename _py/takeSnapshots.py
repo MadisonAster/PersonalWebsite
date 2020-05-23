@@ -79,8 +79,10 @@ def GetCodeWars(url, SnapshotFolder):
         imgExt = imgURL.rsplit('.',1)[-1]
         if len(imgExt) > 5:
             print('imgURL', imgURL)
-            #imgExt = 'jfif'
-            imgExt = 'svg'
+            if 'github' in imgURL:
+                imgExt = 'jfif'
+            else:
+                imgExt = 'svg'
         if imgURL != '' and imgExt != '': #Do better filename validity check here
             imgName = 'image_'+str(i).zfill(3)+'.'+imgExt
             html = html.replace(imgURL, imgName)
