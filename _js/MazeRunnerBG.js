@@ -19,15 +19,15 @@ function GetAnimationSpeed(){
         mobile = true;
     }
     e = parser.getEngine().name;
-    alert(e);
-    alert(mobile);
-    console.log(e);
     if (e == 'EdgeHTML') {
         return 10;
     } else if(e == 'Gecko') {
         if (mobile){return 10};
         return 2;
     } else if(e == 'Blink') {
+        if (mobile){return 5};
+        return 2;
+    } else if(e == 'WebKit') {
         if (mobile){return 5};
         return 2;
     } else {
