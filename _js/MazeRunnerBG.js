@@ -13,8 +13,10 @@ function getYPosition(){
 };
 function GetAnimationSpeed(){
     var parser = new UAParser([navigator.userAgent]);
-    console.log(parser.getEngine().name);
+    console.log(parser.getBrowser().name);
+    console.log(parser.getDevice().name);
     e = parser.getEngine().name;
+    console.log(e);
     if (e == 'EdgeHTML') {
         return 10;
     } else if(e == 'Gecko') {
