@@ -116,7 +116,7 @@ function MazeInit(){
                                         MazeAutopilot=false,
                                         MazeSpeed=2,
                                         //MazeTickDelta=10,
-                                        MazeTickDelta=100,
+                                        MazeTickDelta=50,
                                         MazeCellSize=320,
                                         MazeHeight=260,
                                         MadzeCameraInitY=CalculateCameraY(260),
