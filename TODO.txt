@@ -23,6 +23,7 @@ DONE - Fix Full Screen
 DONE - Fix Phone Camera
 DONE - Fix Edge animation rate
 HOLD - Check Safari animation rates
+Fix Movie/TV favorites
 Fix Firefox 1080p VSVideos
 Fix Contact form
 Add rawg.io
