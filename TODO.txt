@@ -20,42 +20,25 @@ DONE - Fix IMDB
 DONE - Add CodeWars
 HOLD - Add LinkedIn
 
-Add CoolWalls folder scan
-
 Fix Phone Camera
-
 Fix Full Screen
-
 Fix Edge animation rate
-
 Fix Firefox 1080p VSVideos
-
 Fix Contact form
-
 Add rawg.io
-
 Add GoodReads
-
 Fix favories thumbnail layout
-
 Add wall tracing line
-
 Add right wall tracing
-
+Add CoolWalls folder scan
+Add CoolWalls async loading
 Debug Maze
-
-Add Firefox tree
-
-Update skill list
-
+Add Firefox Bookmarks tree
+Update skills list
+Update seo tags
 Update about menu
-
 Combine resume/cv
-
 Add Bookshelf project
-
 Add Toyota Project
-
-Debug video player
-
+Overhaul video player
 Video ScrubBrush?
