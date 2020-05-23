@@ -15,7 +15,7 @@ function GetAnimationSpeed(){
     var parser = new UAParser([navigator.userAgent]);
     console.log(parser.getBrowser());
     console.log(parser.getDevice());
-    console.log(parser.getEngine());
+    console.log(parser.getEngine().name);
     return 2;
     
     if (window.BrowserType == 'Edge') {
