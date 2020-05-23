@@ -110,17 +110,18 @@ def GetCodeWars(url, SnapshotFolder):
                 fileUrl = sections[j+1].split(')',1)[0]
                 print('fileUrl', fileUrl)
                 fileExt = fileUrl.rsplit('.',1)[-1]
-                fileName = fileUrl.rsplit('/',1)[-1]
-                #fileName = 'cssFile_'+str(i)+'_'+str(j)+'.'+fileExt
+                #fileName = fileUrl.rsplit('/',1)[-1]
+                fileName = 'cssFile_'+str(i)+'_'+str(j)+'.'+fileExt
                 print('fileName', fileName)
-                if fileExt not in ['ttf', 'wof']:
+                if fileExt not in ['ttf', 'woff', '.svg#ico-moon']:
                     continue
                 
+                print('count', cssText.count(fileUrl))
                 cssText = cssText.replace(fileUrl, fileName)
                 if fileUrl[0] == '/':
                     fileUrl = domain+fileUrl
                 
-                fileHandle = urllib2.urlopen(imgURL)
+                fileHandle = urllib2.urlopen(fileUrl)
                 fileObject = open(SnapshotFolder+'/'+fileName, 'wb')
                 fileObject.write(fileHandle.read())
                 fileObject.close()
