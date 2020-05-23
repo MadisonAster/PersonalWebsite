@@ -20,7 +20,7 @@ DONE - Fix IMDB
 DONE - Add CodeWars
 HOLD - Add LinkedIn
 DONE - Fix Full Screen
-Fix Phone Camera
+DONE - Fix Phone Camera
 Fix Edge animation rate
 Fix Firefox 1080p VSVideos
 Fix Contact form
