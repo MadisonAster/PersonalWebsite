@@ -19,9 +19,8 @@ DONE - Rewrite About Headline
 DONE - Fix IMDB
 DONE - Add CodeWars
 HOLD - Add LinkedIn
-
+DONE - Fix Full Screen
 Fix Phone Camera
-Fix Full Screen
 Fix Edge animation rate
 Fix Firefox 1080p VSVideos
 Fix Contact form
