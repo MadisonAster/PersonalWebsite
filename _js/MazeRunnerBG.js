@@ -13,15 +13,20 @@ function getYPosition(){
 };
 function GetAnimationSpeed(){
     var parser = new UAParser([navigator.userAgent]);
-    console.log(parser.getBrowser().name);
-    console.log(parser.getDevice().name);
+    
+    var mobile = false;
+    if (parser.getDevice().name != null){
+        mobile = true;
+    }
     e = parser.getEngine().name;
     console.log(e);
     if (e == 'EdgeHTML') {
         return 10;
     } else if(e == 'Gecko') {
+        if (mobile){return 10};
         return 2;
     } else if(e == 'Blink') {
+        if (mobile){return 5};
         return 2;
     } else {
         return 2;
