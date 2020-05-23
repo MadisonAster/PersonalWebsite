@@ -161,7 +161,7 @@ function ScrollHandling(event){
     if (window.DemoMaze.MazeCamera != null){ //Avoid trying to set camera Y before it's created
         var y = CalculateCameraY(window.DemoMaze.MazeHeight);
         window.DemoMaze.MazeCamera.position.y = y;
-        if (y == window.DemoMaze.MazeHeight/2) {
+        if (y <= window.DemoMaze.MazeHeight/2+50) {
             if (!window.DemoMaze.MazeAutopilot){
                 setTimeout(function(){window.DemoMaze.MazeAutopilot = true;}, 300);
             };
