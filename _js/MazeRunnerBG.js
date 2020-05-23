@@ -19,6 +19,8 @@ function GetAnimationSpeed(){
         mobile = true;
     }
     e = parser.getEngine().name;
+    alert(e);
+    alert(mobile);
     console.log(e);
     if (e == 'EdgeHTML') {
         return 10;
