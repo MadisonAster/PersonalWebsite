@@ -8,10 +8,10 @@ def main():
     #Returns:
     
     htmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0]
-    #GetIMDB('http://www.imdb.com/name/nm4807696', htmlDir+'IMDB/snapshot')
-    #GetGitHub('http://github.com/MadisonAster', htmlDir+'GitHub/snapshot')
-    #GetGitHub('https://www.linkedin.com/in/madisonaster/', htmlDir+'LinkedIn/snapshot')
+    GetIMDB('http://www.imdb.com/name/nm4807696', htmlDir+'IMDB/snapshot')
+    GetGitHub('http://github.com/MadisonAster', htmlDir+'GitHub/snapshot')
     GetCodeWars('https://www.codewars.com/users/MadisonAster', htmlDir+'CodeWars/snapshot')
+    #GetGitHub('https://www.linkedin.com/in/madisonaster/', htmlDir+'LinkedIn/snapshot')
     
     
     
@@ -78,7 +78,6 @@ def GetCodeWars(url, SnapshotFolder):
         imgURL = a.split('src="',1)[1].split('"',1)[0]
         imgExt = imgURL.rsplit('.',1)[-1]
         if len(imgExt) > 5:
-            print('imgURL', imgURL)
             if 'github' in imgURL:
                 imgExt = 'jfif'
             else:
