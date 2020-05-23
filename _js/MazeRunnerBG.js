@@ -9,6 +9,7 @@ function getTotalDocHeight(){
 };
 function getYPosition(){
     var YOffset = (window.pageYOffset || document.documentElement.scrollTop)  - (document.documentElement.clientTop || 0);
+    console.log(window.pageYOffset, document.documentElement.scrollTop, document.documentElement.clientTop);
     return Math.ceil(YOffset + document.body.clientHeight);
 };
 function GetPackagePath(){
