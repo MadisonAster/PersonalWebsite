@@ -13,13 +13,16 @@ function getYPosition(){
 };
 function GetAnimationSpeed(){
     var parser = new UAParser([navigator.userAgent]);
-    console.log(parser.getBrowser());
-    console.log(parser.getDevice());
     console.log(parser.getEngine().name);
-    return 2;
-    
-    if (window.BrowserType == 'Edge') {
+    e = parser.getEngine().name;
+    if (e == 'EdgeHTML') {
         return 10;
+    } else if(e == 'Gecko') {
+        return 2;
+    } else if(e == 'Blink') {
+        return 2;
+    } else {
+        return 2;
     }
 }
 function GetPackagePath(){
