@@ -15,7 +15,7 @@ def main():
     GetIMDB('http://www.imdb.com/name/nm4807696', htmlDir+'IMDB/snapshot')
     GetGitHub('http://github.com/MadisonAster', htmlDir+'GitHub/snapshot')
     GetCodeWars('https://www.codewars.com/users/MadisonAster', htmlDir+'CodeWars/snapshot')
-    #GetCodeWars('https://www.linkedin.com/in/madisonaster/', htmlDir+'LinkedIn/snapshot')
+    #GetLinkedIn('https://www.linkedin.com/in/madisonaster/', htmlDir+'LinkedIn/snapshot')
     
     
     
@@ -38,7 +38,106 @@ def GetAttrValueFromStringElement(StringElement, AttributeName):
         return c
         
         
-        
+def GetLinkedIn(url, SnapshotFolder):
+    #Takes: url as valid public url
+    #Performs: downloads html response from server
+    #Returns: html as str
+    
+    #########################Load HTML############################
+    domain = url.strip('http://')
+    domain = domain.strip('https://')
+    domain = 'https://'+domain.split('/',1)[0]+'/'
+    
+    #response = urllib.urlopen(url)
+    #html = str(response.read())
+    urlopener= urllib.build_opener()
+    urlopener.addheaders = [('User-agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0')]
+    html= str(urlopener.open(url).read())
+    
+    expression = re.compile('<script.*?/script>', flags=re.DOTALL)
+    html = re.sub(expression, '', html)
+
+    expression = re.compile('<iframe.*?/iframe>', flags=re.DOTALL)
+    html = re.sub(expression, '', html)
+    ###############################################################
+    
+    
+    ###################Sanitize HTML text##########################
+    html = html.replace('href="/', 'href="'+domain)
+    html = html.replace("href='/", "href='"+domain)
+    html = html.replace("<a", "<a target='_blank'")
+    
+    expression = re.compile('action=[\'"]/.*?[\'"]')
+    html = re.sub(expression, 'action="'+url+'"', html)
+    
+    #html = html.replace('http:', 'https:')
+    ###############################################################
+    
+    ####################Clear Snapshot Folder######################
+    for filename in os.listdir(SnapshotFolder):
+        os.remove(SnapshotFolder+'/'+filename)
+    ###############################################################
+    
+    #########################Save Images###########################
+    images = html.split('<img')[1:]
+    for i, a in enumerate(images):
+        imgURL = a.split('src="',1)[1].split('"',1)[0]
+        imgExt = imgURL.rsplit('.',1)[-1]
+        if len(imgExt) > 5:
+            if 'github' in imgURL:
+                imgExt = 'jfif'
+            else:
+                imgExt = 'svg'
+        if imgURL != '' and imgExt != '': #Do better filename validity check here
+            imgName = 'image_'+str(i).zfill(3)+'.'+imgExt
+            html = html.replace(imgURL, imgName)
+            if imgURL[0] == '/':
+                imgURL = domain.rstrip('/')+imgURL
+            imgFile = urllib.urlopen(imgURL)
+            fileObject = open(SnapshotFolder+'/'+imgName, 'wb')
+            fileObject.write(imgFile.read())
+            fileObject.close()
+    ###############################################################
+    
+    #########################Save CSS##############################
+    for i, LinkElement in enumerate(GetElementsBySearchString(html, 'rel="stylesheet"')):
+        cssURL = GetAttrValueFromStringElement(LinkElement, 'href')
+        if cssURL != '': #Do better filename validity check here
+            cssName = 'css_'+str(i).zfill(3)+'.css'
+            html = html.replace(cssURL, cssName)
+            if cssURL[0] == '/':
+                cssURL = domain+cssURL
+            cssFile = urllib.urlopen(cssURL)
+            cssText = str(cssFile.read())
+            
+            for j in range(cssText.count('url(')):
+                sections = cssText.split('url(')
+                fileUrl = sections[j+1].split(')',1)[0]
+                fileExt = fileUrl.rsplit('.',1)[-1]
+                fileName = 'cssFile_'+str(i)+'_'+str(j)+'.'+fileExt
+                if fileExt not in ['ttf', 'woff', '.svg#ico-moon']:
+                    continue
+                cssText = cssText.replace(fileUrl, fileName)
+                if fileUrl[0] == '/':
+                    fileUrl = domain+fileUrl
+                
+                fileHandle = urllib.urlopen(fileUrl)
+                fileObject = open(SnapshotFolder+'/'+fileName, 'wb')
+                fileObject.write(fileHandle.read())
+                fileObject.close()
+            
+            fileObject = open(SnapshotFolder+'/'+cssName, 'w')
+            fileObject.write(cssText)
+            fileObject.close()
+    ###############################################################
+    
+    
+    #####################create index.html#########################
+    outputpath = SnapshotFolder+'/index.html'
+    file = open(outputpath, 'w')
+    file.write(html)
+    file.close()
+    ###############################################################
 def GetCodeWars(url, SnapshotFolder):
     #Takes: url as valid public url
     #Performs: downloads html response from server

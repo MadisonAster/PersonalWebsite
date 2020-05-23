@@ -1,44 +1,30 @@
 DONE- Check logs
-
 DONE- Fix Security certificate
-
 DONE - Get Demo Maze Working
-
 DONE - Replace textures
-
 DONE - Get scroll working
-
 DONE - Spawn in center of maze
-
 DONE - Add distance fog
-
 DONE - Add glow
-
 DONE - Add Char light with specular
-
 HOLD - Snow Particles
-
 DONE - Add CoolWalls list
-
 DONE - Renamed Links to Favorites
-
 DONE - Cleaned up Favorites a bit
-
 DONE - Scroll to top on menu click
-
 DONE - Fixed Video player loading size
-
 DONE - Add basic left wall tracing
-
 DONE - Added tabs for good reads and rawg.io
-
 DONE - Rewrite About Headline
+DONE - Fix IMDB
+DONE - Add CodeWars
+HOLD - Add LinkedIn
 
 Add CoolWalls folder scan
 
-DONE - Fix IMDB
-
 Fix Phone Camera
+
+Fix Full Screen
 
 Fix Edge animation rate
 
@@ -46,25 +32,17 @@ Fix Firefox 1080p VSVideos
 
 Fix Contact form
 
-Add codewars
-
-Add LinkedIn
-
 Add rawg.io
 
 Add GoodReads
 
-Fix favories layout
-
-
+Fix favories thumbnail layout
 
 Add wall tracing line
 
 Add right wall tracing
 
 Debug Maze
-
-
 
 Add Firefox tree
 
@@ -80,22 +58,4 @@ Add Toyota Project
 
 Debug video player
 
-
-
-
-
-
-
-Gather Demo Reel Shots - 3 days
-Make Demo Reel Page - 5 days
-
-
-
-
-
-Video ScrubBrush
-
-
-##Add alpha channel to wire cable rack - 1 day
-##Fix aspect ratio centering of camera on resize ~ 1 days
-Fix align left for slideshow on large screens - 1 day
+Video ScrubBrush?
