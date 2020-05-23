@@ -113,7 +113,7 @@ function MazeInit(){
                                         
                                         MazeDebug=false,
                                         MazeAutopilot=true,
-                                        MazeSpeed=4,
+                                        MazeSpeed=8,
                                         //MazeTickDelta=10,
                                         MazeTickDelta=100,
                                         MazeCellSize=320,
