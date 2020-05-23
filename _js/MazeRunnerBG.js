@@ -4,8 +4,7 @@ function getDocWidth(){
 function getTotalDocHeight(){
     var body = document.body;
     var html = document.documentElement;
-    //var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
-    var height = Math.max(body.scrollHeight, body.offsetHeight, html.scrollHeight, html.offsetHeight);
+    var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
     return height;
 };
 function getYPosition(){
@@ -115,7 +114,7 @@ function MazeInit(){
                                         MazeDebug=false,
                                         MazeAutopilot=true,
                                         MazeSpeed=2,
-                                        MazeTickDelta=10,
+                                        MazeTickDelta=100,
                                         MazeCellSize=320,
                                         MazeHeight=260,
                                         MadzeCameraInitY=CalculateCameraY(260),
