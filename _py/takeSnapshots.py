@@ -57,13 +57,13 @@ def GetGitHub(url, SnapshotFolder):
             imgExt = 'jfif'
         if imgURL != '' and imgExt != '': #Do better filename validity check here
             imgName = 'image_'+str(i).zfill(3)+'.'+imgExt
+            html = html.replace(imgURL, imgName)
             if imgURL[0] == '/':
                 imgURL = domain+imgURL
             imgFile = urllib2.urlopen(imgURL)
             fileObject = open(SnapshotFolder+'/'+imgName, 'wb')
             fileObject.write(imgFile.read())
             fileObject.close()
-            html = html.replace(imgURL, imgName)
     ###############################################################
     
     
