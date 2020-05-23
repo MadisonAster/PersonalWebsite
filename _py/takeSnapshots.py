@@ -11,8 +11,108 @@ def main():
     #GetIMDB('http://www.imdb.com/name/nm4807696', htmlDir+'IMDB/snapshot')
     #GetGitHub('http://github.com/MadisonAster', htmlDir+'GitHub/snapshot')
     #GetGitHub('https://www.linkedin.com/in/madisonaster/', htmlDir+'LinkedIn/snapshot')
-    GetGitHub('https://www.codewars.com/users/MadisonAster', htmlDir+'CodeWars/snapshot')
+    GetCodeWars('https://www.codewars.com/users/MadisonAster', htmlDir+'CodeWars/snapshot')
     
+    
+    
+    
+def GetElementsBySearchString(html, SearchString):
+    sections = html.split(SearchString)
+    for i in range(html.count(SearchString)):
+        left = sections[i].rsplit('<',1)[-1]
+        right = sections[i+1].split('>',1)[0]
+        StringElement = '<'+left+SearchString+right+'>'
+        yield StringElement
+
+def GetAttrValueFromStringElement(StringElement, AttributeName):
+    a = StringElement.split(AttributeName,1)[-1]
+    b = a.split('=',1)[-1]
+    c = b.strip(' ')
+    if c[0] in ['"', "'"]:
+        return  c[1:].split(c[0],1)[0]
+    else:
+        return c
+        
+        
+        
+def GetCodeWars(url, SnapshotFolder):
+    #Takes: url as valid public url
+    #Performs: downloads html response from server
+    #Returns: html as str
+    
+    #########################Load HTML############################
+    domain = url.strip('http://')
+    domain = domain.strip('https://')
+    domain = 'https://'+domain.split('/',1)[0]+'/'
+    
+    response = urllib2.urlopen(url)
+    html = response.read()
+
+    expression = re.compile('<script.*?/script>', flags=re.DOTALL)
+    html = re.sub(expression, '', html)
+
+    expression = re.compile('<iframe.*?/iframe>', flags=re.DOTALL)
+    html = re.sub(expression, '', html)
+    ###############################################################
+    
+    
+    ###################Sanitize HTML text##########################
+    html = html.replace('href="/', 'href="'+domain)
+    html = html.replace("href='/", "href='"+domain)
+    html = html.replace("<a", "<a target='_blank'")
+    
+    expression = re.compile('action=[\'"]/.*?[\'"]')
+    html = re.sub(expression, 'action="'+url+'"', html)
+    
+    #html = html.replace('http:', 'https:')
+    ###############################################################
+    
+    ####################Clear Snapshot Folder######################
+    for filename in os.listdir(SnapshotFolder):
+        os.remove(SnapshotFolder+'/'+filename)
+    ###############################################################
+    
+    #########################Save Images###########################
+    images = html.split('<img')[1:]
+    for i, a in enumerate(images):
+        imgURL = a.split('src="',1)[1].split('"',1)[0]
+        imgExt = imgURL.rsplit('.',1)[-1]
+        if len(imgExt) > 5:
+            imgExt = 'jfif'
+        if imgURL != '' and imgExt != '': #Do better filename validity check here
+            imgName = 'image_'+str(i).zfill(3)+'.'+imgExt
+            html = html.replace(imgURL, imgName)
+            if imgURL[0] == '/':
+                imgURL = domain.rstrip('/')+imgURL
+            imgFile = urllib2.urlopen(imgURL)
+            fileObject = open(SnapshotFolder+'/'+imgName, 'wb')
+            fileObject.write(imgFile.read())
+            fileObject.close()
+    ###############################################################
+    
+    #########################Save CSS##############################
+    for i, LinkElement in enumerate(GetElementsBySearchString(html, 'rel="stylesheet"')):
+        cssURL = GetAttrValueFromStringElement(LinkElement, 'href')
+        if cssURL != '': #Do better filename validity check here
+            print cssURL
+            cssName = 'css_'+str(i).zfill(3)+'.css'
+            html = html.replace(cssURL, cssName)
+            if cssURL[0] == '/':
+                cssURL = domain+cssURL
+            cssFile = urllib2.urlopen(cssURL)
+            fileObject = open(SnapshotFolder+'/'+cssName, 'wb')
+            fileObject.write(cssFile.read())
+            fileObject.close()
+    ###############################################################
+    
+    
+    #####################create index.html#########################
+    outputpath = SnapshotFolder+'/index.html'
+    file = open(outputpath, 'w')
+    file.write(html)
+    file.close()
+    ###############################################################
+
 def GetGitHub(url, SnapshotFolder):
     #Takes: url as valid public url
     #Performs: downloads html response from server
