@@ -4,13 +4,36 @@ import sys
 from pprint import pprint, pformat
 
 def main():
-    return
+    #scanURL('http://www.primewire.ag/watched/lolmuly',MoviesDir)
+    #scanURL('http://www.primewire.ag/favorites/lolmuly',TVDir)
     htmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0]
+    
     MoviesDir = htmlDir+'_Assets/WatchList/Movies/'
     TVDir = htmlDir+'_Assets/WatchList/TV/'
-    scanURL('http://www.primewire.ag/watched/lolmuly',MoviesDir)
-    scanURL('http://www.primewire.ag/favorites/lolmuly',TVDir)
+    BooksDir = htmlDir+'_Assets/WatchList/Books/'
+    GamesDir = htmlDir+'_Assets/WatchList/Games/'
+    BookmarksDir = htmlDir+'_Assets/WatchList/Bookmarks/'
     
+    GetIMDB('https://www.imdb.com/list/ls098333584/?sort=list_order,asc&st_dt=&mode=detail&page=1', MoviesDir)
+    #GetIMDB('https://www.imdb.com/list/ls098367816/?sort=list_order,asc&st_dt=&mode=detail&page=1', TVDir)
+    #GetGoodReads('https://www.goodreads.com/review/list/50378844-lolmuly?page=1&shelf=read', BooksDir)
+    #GetRawg('', GamesDir)
+    #GetFirefox('', BookmarksDir)
+    
+def GetIMDB(url, OutputDir):
+    print('GetIMDB!', url, OutputDir)
+    ExistingEntries = os.listdir(OutputDir)
+    
+    
+def GetGoodReads(url, OutputDir):
+    ExistingEntries = os.listdir(OutputDir)
+
+def GetRawg(url, OutputDir):
+    ExistingEntries = os.listdir(OutputDir)
+
+def GetFirefox(url, OutputDir):
+    ExistingEntries = os.listdir(OutputDir)
+
 def scanURL(url, outputDir):
     ExistingEntries = os.listdir(outputDir)
     favsList = []
