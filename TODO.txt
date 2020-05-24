@@ -23,9 +23,11 @@ DONE - Fix Full Screen
 DONE - Fix Phone Camera
 DONE - Fix Edge animation rate
 HOLD - Check Safari animation rates
+DONE - Copy Favorites to IMDB account
 Fix Movie/TV favorites
 Fix Firefox 1080p VSVideos
 Fix Contact form
+Create rawg account
 Add rawg.io
 Add GoodReads
 Fix favories thumbnail layout
