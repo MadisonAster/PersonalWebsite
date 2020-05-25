@@ -14,7 +14,7 @@ def main():
     GamesDir = htmlDir+'Favorites/Games/snapshot'
     BookmarksDir = htmlDir+'Favorites/Bookmarks/snapshot'
     
-    GetIMDB('https://www.imdb.com/list/ls098333584/?sort=list_order,asc&st_dt=&mode=detail&page=1', MoviesDir)
+    #GetIMDB('https://www.imdb.com/list/ls098333584/?sort=list_order,asc&st_dt=&mode=detail&page=1', MoviesDir)
     #GetIMDB('https://www.imdb.com/list/ls098367816/?sort=list_order,asc&st_dt=&mode=detail&page=1', TVDir)
     #GetGoodReads('https://www.goodreads.com/review/list/50378844-lolmuly?page=1&shelf=read', BooksDir)
     #GetRawg('https://rawg.io/@maddieawesome/games', GamesDir)
