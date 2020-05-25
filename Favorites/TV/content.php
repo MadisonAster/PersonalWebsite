@@ -12,8 +12,8 @@ Sort:
 <div id='TVGrid' class='row-fluid' style='width:100%;margins:0;padding:0;'>
 <?php
 $blacklist = array('.', '..');
-//$TVdirs = array_filter(glob('../../_Assets/WatchList/TV/*'), 'is_dir');
-$TVdirs = array_filter(glob('./_Assets/WatchList/TV/*'), 'is_dir');
+//$TVdirs = array_filter(glob('../../Favorites/TV/snapshot/*'), 'is_dir');
+$TVdirs = array_filter(glob('./Favorites/TV/snapshot/*'), 'is_dir');
 
 foreach ($TVdirs as &$dir){
     if(!in_array($dir, $blacklist)){
@@ -27,12 +27,12 @@ foreach ($TVdirs as &$dir){
         if(file_exists($dir.'/info.php')){
             try {
                 include $dir.'/info.php';
-                //include './_Assets/WatchList/TV/emptyinfo.php';
+                //include './Favorites/TV/emptyinfo.php';
             } catch (Exception $e) {
-                include './_Assets/WatchList/TV/emptyinfo.php';
+                include './Favorites/TV/emptyinfo.php';
             }
         } else {
-            include './_Assets/WatchList/TV/emptyinfo.php';
+            include './Favorites/TV/emptyinfo.php';
         };
         
         if($infoArray['IMDB'] == 'NA'){

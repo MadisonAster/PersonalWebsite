@@ -13,7 +13,7 @@ $(function() {
             'data': [
 ?  <php
 $blacklist = array('.', '..');
-$dirs = array_filter(glob('./_Assets/Bookmarks/*'), 'is_dir');
+$dirs = array_filter(glob('./Favorites/Bookmarks/snapshot/*'), 'is_dir');
 foreach ($dirs as &$dir){
     if(!in_array($dir, $blacklist)){
 		$dirArray = explode("/", $dir);

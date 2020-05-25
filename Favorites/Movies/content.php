@@ -11,8 +11,8 @@ Sort:
 <div id='MoviesGrid' class='row-fluid' style='width:100%;margins:0;padding:0;'>
 <?php
 $blacklist = array('.', '..');
-//$Moviedirs = array_filter(glob('../../_Assets/WatchList/Movies/*'), 'is_dir');
-$Moviedirs = array_filter(glob('./_Assets/WatchList/Movies/*'), 'is_dir');
+//$Moviedirs = array_filter(glob('../../Favorites/Movies/snapshot/*'), 'is_dir');
+$Moviedirs = array_filter(glob('./Favorites/Movies/snapshot/*'), 'is_dir');
 
 foreach ($Moviedirs as &$dir){
     if(!in_array($dir, $blacklist)){
@@ -24,7 +24,7 @@ foreach ($Moviedirs as &$dir){
         if(file_exists($dir.'/info.php')){
             include $dir.'/info.php';
         } else {
-            include './_Assets/WatchList/Movies/emptyinfo.php';
+            include './Favorites/Movies/emptyinfo.php';
         };
         if($infoArray['IMDB'] == 'NA'){
             $infoArray['IMDB'] = 'http://www.imdb.com/find?ref_=nv_sr_fn&q='.str_replace("-", "+", $folderName).'&s=all';
