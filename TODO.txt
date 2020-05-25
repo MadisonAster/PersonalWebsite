@@ -25,6 +25,7 @@ DONE - Fix Edge animation rate
 HOLD - Check Safari animation rates
 DONE - Copy Favorites to IMDB account
 DONE - Create rawg account
+DONE - Make source public
 Fix Movie/TV favorites
 Add rawg.io
 Add GoodReads
