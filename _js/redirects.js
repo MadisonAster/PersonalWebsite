@@ -1,8 +1,8 @@
 window.PageName = window.location.href.split('/').slice(-1)[0];
 if(window.PageName == ''){
-    History.replaceState(null, 'Projects - Madison Aster', 'Projects');
-    document.getElementById('Content_Projects').style['display'] = '';
-    window.LastDisplayed = 'Content_Projects';
+    History.replaceState(null, 'About - Madison Aster', 'About');
+    document.getElementById('Content_About').style['display'] = '';
+    window.LastDisplayed = 'Content_About';
 }else if(window.PageName.indexOf('?') > -1){
     window.PageName = window.PageName.replace('?', '');
     History.replaceState(null, window.PageName+' - Madison Aster', window.PageName);
