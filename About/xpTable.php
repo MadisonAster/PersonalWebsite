@@ -8,12 +8,12 @@
 <?php
 $table = file("./About/xpTable.csv");
 foreach ($table as &$line){
-    echo "\r\n        <tr>";
+    echo "\r\n        <tr>\r\n            ";
     $items = explode(",", $line);
     foreach ($items as $item){
-        echo "\r\n            <td>";
-        echo "\r\n                ".$item;
-        echo "\r\n            </td>";
+        echo "<td>";
+        echo $item;
+        echo "</td>";
     };
     echo "\r\n        </tr>";
 };
