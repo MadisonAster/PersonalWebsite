@@ -31,6 +31,7 @@ Add GoodReads
 Fix Firefox 1080p VSVideos
 Fix Contact form
 Fix favories thumbnail layout
+Fix Maze Light
 Add wall tracing line
 Add right wall tracing
 Add CoolWalls folder scan
