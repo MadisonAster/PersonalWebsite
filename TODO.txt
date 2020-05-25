@@ -26,6 +26,7 @@ HOLD - Check Safari animation rates
 DONE - Copy Favorites to IMDB account
 DONE - Create rawg account
 DONE - Make source public
+DONE - Move Contact data into About
 Containerize Javascript
 
 Fix DemoReel resize issue
@@ -36,7 +37,7 @@ Add rawg.io
 Add GoodReads
 
 Fix Contact form
-Move Contact data into About
+
 
 Fix favories thumbnail layout
 Fix Maze Light
