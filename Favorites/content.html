@@ -1,44 +1,50 @@
-<div class='ContentDiv' style='padding:0;text-align:center;'>
-<br/>
-<h1>My Favorites</h1>
-<table style='width:100%;'>
-<tr>
+        <link rel='stylesheet' href='./_js/jstree/dist/themes/proton/style.min.css' />   
+        <script src='./_js/jstree/dist/jstree.min.js'></script>
+        <link rel="stylesheet" type="text/css" href="./_css/jcarousel.basic.css">
+        <script type="text/javascript" src="./_js/jquery.jcarousel.js"></script>
+        <script type="text/javascript" src="./_js/jcarousel.basic.js"></script>
 
-<td style='width:20%;'>
-<a href='#' onclick='switchFavoritesTabs("Bookmarks");return false;'>
-<input id='BookmarksButton' type='Submit' name='Bookmarks' value='Bookmarks' class='button' style='width:100%;height:100px;font-size:1.5em;'>
-</a>
-</td>
+        <div class='ContentDiv' style='padding:0;text-align:center;'>
+        <br/>
+        <h1>My Favorites</h1>
+        <table style='width:100%;'>
+        <tr>
 
-<td style='width:20%;'>
-<a href='#' onclick='switchFavoritesTabs("Movies");return false;'>
-<input id='MoviesButton' type='Submit' name='Movies' value='Movies' class='button' style='width:100%;height:100px;font-size:1.5em;background-color:#111111;'>
-</a>
-</td>
+        <td style='width:20%;'>
+        <a href='#' onclick='switchFavoritesTabs("Bookmarks");return false;'>
+        <input id='BookmarksButton' type='Submit' name='Bookmarks' value='Bookmarks' class='button' style='width:100%;height:100px;font-size:1.5em;'>
+        </a>
+        </td>
 
-<td style='width:20%;'>
-<a href='#' onclick='switchFavoritesTabs("TV");return false;'>
-<input id='TVButton' type='Submit' name='TV' value='TV' class='button' style='width:100%;height:100px;font-size:1.5em;'>
-</a>
-</td>
+        <td style='width:20%;'>
+        <a href='#' onclick='switchFavoritesTabs("Movies");return false;'>
+        <input id='MoviesButton' type='Submit' name='Movies' value='Movies' class='button' style='width:100%;height:100px;font-size:1.5em;background-color:#111111;'>
+        </a>
+        </td>
 
-<td style='width:20%;'>
-<a href='#' onclick='switchFavoritesTabs("Books");return false;'>
-<input id='BooksButton' type='Submit' name='Books' value='Books' class='button' style='width:100%;height:100px;font-size:1.5em;'>
-</a>
-</td>
+        <td style='width:20%;'>
+        <a href='#' onclick='switchFavoritesTabs("TV");return false;'>
+        <input id='TVButton' type='Submit' name='TV' value='TV' class='button' style='width:100%;height:100px;font-size:1.5em;'>
+        </a>
+        </td>
 
-<td style='width:20%;'>
-<a href='#' onclick='switchFavoritesTabs("Games");return false;'>
-<input id='GamesButton' type='Submit' name='Games' value='Games' class='button' style='width:100%;height:100px;font-size:1.5em;'>
-</a>
-</td>
+        <td style='width:20%;'>
+        <a href='#' onclick='switchFavoritesTabs("Books");return false;'>
+        <input id='BooksButton' type='Submit' name='Books' value='Books' class='button' style='width:100%;height:100px;font-size:1.5em;'>
+        </a>
+        </td>
 
-</tr>
-</table>
-</div>
+        <td style='width:20%;'>
+        <a href='#' onclick='switchFavoritesTabs("Games");return false;'>
+        <input id='GamesButton' type='Submit' name='Games' value='Games' class='button' style='width:100%;height:100px;font-size:1.5em;'>
+        </a>
+        </td>
 
-<div class='ContentDiv'>
-<br/>
-{contentArea}
-</div>
+        </tr>
+        </table>
+        </div>
+
+        <div class='ContentDiv'>
+        <br/>
+        {contentArea}
+        </div>
