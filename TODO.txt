@@ -26,6 +26,7 @@ HOLD - Check Safari animation rates
 DONE - Copy Favorites to IMDB account
 DONE - Create rawg account
 DONE - Make source public
+Containerize Javascript
 
 Fix DemoReel resize issue
 Fix Firefox 1080p VSVideos
@@ -33,7 +34,7 @@ Fix Firefox 1080p VSVideos
 Fix Movie/TV favorites
 Add rawg.io
 Add GoodReads
- 
+
 Fix Contact form
 Move Contact data into About
 
