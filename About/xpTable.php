@@ -11,8 +11,9 @@ foreach ($table as &$line){
     echo "\r\n        <tr>\r\n            ";
     $items = explode(",", $line);
     foreach ($items as $item){
+        $item = trim(preg_replace('/\s+/', ' ', $item));
         echo "<td>";
-        echo trim(preg_replace('/\s+/', ' ', $item);
+        echo $item;
         echo "</td>";
     };
     echo "\r\n        </tr>";
