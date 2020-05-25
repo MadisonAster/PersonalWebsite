@@ -34,6 +34,8 @@ HOLD - Fix Contact form
 Fix DemoReel resize issue
 Fix Firefox 1080p VSVideos
 
+Add GitHub history state
+
 Fix Movie/TV favorites
 Add rawg.io
 Add GoodReads
