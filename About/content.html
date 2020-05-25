@@ -131,3 +131,75 @@
             1. This equation is <a target='_blank' href='https://xkcd.com/1205/'>much simpler</a>.
             </div>
         </div>
+
+        <br/><br/>
+
+        <div class='ContentDiv'>
+            <h2 style='text-align:left;'>Contact Info:</h2>
+            
+            <script>
+            function doSomething() {
+                var ContactInfoCaptcha = document.getElementById("ContactInfoCaptcha");
+                var ContactInfo = document.getElementById("ContactInfo");
+                ContactInfo.style.display = "block";
+                var encodedData = window.atob("PHA+PGJyLz48YnIvPmluZm9ATWFkaXNvbkFzdGVyLmNvbTxici8+PGJyLz4xLTgxOC0yNzAtNjUxNzxici8+PGJyLz5Ib2xseXdvb2QgQ0EsIDkwMDI4PC9wPg==");
+                ContactInfo.innerHTML = encodedData;
+                ContactInfoCaptcha.style.display = "none";
+            }
+            </script>
+            
+            <div id="ContactInfoCaptcha" class="g-recaptcha" data-theme="dark" data-callback='doSomething' data-sitekey="6LfR_5YUAAAAAItA54iZAK6pTsgP_FcAXu-Fs88x">
+            </div>
+            <script src='https://www.google.com/recaptcha/api.js'></script>
+            
+            <div id="ContactInfo" style="display: none;">
+            </div>
+        </div>
+
+        <br/><br/>
+
+        <!--
+        <div class='ContentDiv'>
+            <h2 style='text-align:left;'>Contact Form:</h2>
+            <br/><br/>
+            
+            <div id='ThankYou' style='color:#FF0000;display:none;'>
+            Thanks for your email! I'll be in touch with you soon.
+            </div>
+            <form name="contactform" method="post" action="/Contact/SendEmail.php" >
+            Name
+            <br/>
+            <input id='Name' name='Name' type='text' class='InputForm' style='width:70%'>
+            <br/>
+            Email
+            <br/>
+            <input id='Email' name='Email' type='text' class='InputForm' style='width:70%'>
+            <br/><br/>
+            Subject
+            <br/>
+            <input id='Subject' name='Subject' type='text' class='InputForm' style='width:100%'>
+            <br/>
+            Message
+            <br/>
+            <textarea id='Message' name='Message' type='text' class='InputForm' style='width:100%;height:400px;'></textarea>
+            <br/>
+            <input id='Submit' name='Submit' value='Submit' type='Submit' class='InputForm'>
+            </form>
+        </div>
+
+        <script type='text/javascript'>
+        function readCookie(name){
+            var nameEQ = name + '=';
+            var ca = document.cookie.split(';');
+            for(var i=0;i < ca.length;i++) {
+                var c = ca[i];
+                while (c.charAt(0)==' ') c = c.substring(1,c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+            }
+            return null;
+        };
+        if(readCookie('EmailSent') == 'True'){
+            document.getElementById('ThankYou').style['display'] = '';
+        };
+        </script>
+        -->
