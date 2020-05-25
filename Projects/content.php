@@ -6,8 +6,6 @@ foreach ($content as &$value) {
         echo $value;
     };
 };
-
-
 $blacklist = array('.', '..');
 $Projectdirs = array_filter(glob('./_Assets/Projects/*'), 'is_dir');
 $Projectdirs = array_reverse($Projectdirs, true);
@@ -24,15 +22,15 @@ foreach($Projectdirs as &$Projectdir){
         $ProjectDate = file_get_contents($Projectdir."/ProjectDate.txt");
         $ProjectTags = file($Projectdir."/ProjectTags.csv");
         if(substr($folderName, 0, 1) !== '_'){
-            echo "<div class='ContentDiv'>\n";
-            echo "<h2 style='text-align:left;'>".$ProjectTitle."</h2>\n";
-            echo "<h3 style='text-align:left;'>".$ProjectDate."</h3>\n";
-            echo "<br/>\n";
+            echo "        <div class='ContentDiv'>\n";
+            echo "        <h2 style='text-align:left;'>".$ProjectTitle."</h2>\n";
+            echo "        <h3 style='text-align:left;'>".$ProjectDate."</h3>\n";
+            echo "        <br/>\n";
             foreach ($ProjectContent as &$ProjectValue) {
                 if(strpos($ProjectValue,"{ShortDescription}") !== false){
                     foreach ($ProjectDescription as &$ShortDescriptionLine) {
-                        echo $ShortDescriptionLine;
-                        echo '<br/><br/>';
+                        echo "        ".$ShortDescriptionLine;
+                        echo "        <br/><br/>";
                     };
                 }else{
                     echo $ProjectValue;
@@ -41,11 +39,11 @@ foreach($Projectdirs as &$Projectdir){
             $TagIndex = 0;
             foreach ($ProjectTags as &$Tag) {
                 $ProjectTags[$TagIndex] = str_replace(",","",$Tag);
-                echo '<span class="ProjectTag">'.str_replace(",","",$Tag).'</span>';
+                echo '        <span class="ProjectTag">'.str_replace(",","",$Tag).'</span>';
                 $TagIndex++;
             };
-            echo "</div>\n";
-            echo "<br/><br/>";
+            echo "        </div>\n";
+            echo "        <br/><br/>";
             
             $Images = array_merge(glob($Projectdir.'/*.png'), glob($Projectdir.'/*.jpg'), glob($Projectdir.'/*.gif'));
             $ProjectObject = array(
@@ -62,7 +60,8 @@ foreach($Projectdirs as &$Projectdir){
         };
     };
 };
-echo "<script type='text/javascript'>";
-echo "var Projects = ".json_encode($ProjectObjects).";";
-echo "</script>";
+
+echo "        <script type='text/javascript'>";
+echo "        var Projects = ".json_encode($ProjectObjects).";";
+echo "        </script>";
 ?>
