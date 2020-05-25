@@ -12,7 +12,7 @@ foreach ($table as &$line){
     $items = explode(",", $line);
     foreach ($items as $item){
         echo "\r\n            <td>";
-        echo "\r\n".$item;
+        echo "\r\n                ".$item;
         echo "\r\n            </td>";
     };
     echo "\r\n        </tr>";
