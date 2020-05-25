@@ -12,7 +12,7 @@ foreach ($table as &$line){
     $items = explode(",", $line);
     foreach ($items as $item){
         echo "<td>";
-        echo $item;
+        echo trim(preg_replace('/\s+/', ' ', $item);
         echo "</td>";
     };
     echo "\r\n        </tr>";
