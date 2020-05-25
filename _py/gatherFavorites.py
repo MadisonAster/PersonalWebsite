@@ -8,31 +8,48 @@ def main():
     #scanURL('http://www.primewire.ag/favorites/lolmuly',TVDir)
     htmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0]
     
-    MoviesDir = htmlDir+'_Assets/WatchList/Movies/'
-    TVDir = htmlDir+'_Assets/WatchList/TV/'
-    BooksDir = htmlDir+'_Assets/WatchList/Books/'
-    GamesDir = htmlDir+'_Assets/WatchList/Games/'
-    BookmarksDir = htmlDir+'_Assets/WatchList/Bookmarks/'
+    MoviesDir = htmlDir+'Favorites/Movies/snapshot/'
+    TVDir = htmlDir+'Favorites/TV/snapshot/'
+    BooksDir = htmlDir+'Favorites/Books/snapshot/'
+    GamesDir = htmlDir+'Favorites/Games/snapshot'
+    BookmarksDir = htmlDir+'Favorites/Bookmarks/snapshot'
     
     GetIMDB('https://www.imdb.com/list/ls098333584/?sort=list_order,asc&st_dt=&mode=detail&page=1', MoviesDir)
     #GetIMDB('https://www.imdb.com/list/ls098367816/?sort=list_order,asc&st_dt=&mode=detail&page=1', TVDir)
     #GetGoodReads('https://www.goodreads.com/review/list/50378844-lolmuly?page=1&shelf=read', BooksDir)
-    #GetRawg('', GamesDir)
+    #GetRawg('https://rawg.io/@maddieawesome/games', GamesDir)
     #GetFirefox('', BookmarksDir)
+    
+    
     
 def GetIMDB(url, OutputDir):
     print('GetIMDB!', url, OutputDir)
     ExistingEntries = os.listdir(OutputDir)
+    html = getAndSanitize(url)
     
+    with open(OutputDir+'/index.html', 'w') as file:
+        file.write(html)
     
 def GetGoodReads(url, OutputDir):
     ExistingEntries = os.listdir(OutputDir)
+    html = getAndSanitize(url)
+    
+    with open(OutputDir+'/index.html', 'w') as file:
+        file.write(html)
 
 def GetRawg(url, OutputDir):
     ExistingEntries = os.listdir(OutputDir)
+    html = getAndSanitize(url)
+    
+    with open(OutputDir+'/index.html', 'w') as file:
+        file.write(html)
 
 def GetFirefox(url, OutputDir):
     ExistingEntries = os.listdir(OutputDir)
+    html = getAndSanitize(url)
+    
+    with open(OutputDir+'/index.html', 'w') as file:
+        file.write(html)
 
 def scanURL(url, outputDir):
     ExistingEntries = os.listdir(outputDir)

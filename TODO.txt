@@ -24,12 +24,12 @@ DONE - Fix Phone Camera
 DONE - Fix Edge animation rate
 HOLD - Check Safari animation rates
 DONE - Copy Favorites to IMDB account
+DONE - Create rawg account
 Fix Movie/TV favorites
-Fix Firefox 1080p VSVideos
-Fix Contact form
-Create rawg account
 Add rawg.io
 Add GoodReads
+Fix Firefox 1080p VSVideos
+Fix Contact form
 Fix favories thumbnail layout
 Add wall tracing line
 Add right wall tracing
