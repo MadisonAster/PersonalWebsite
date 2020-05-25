@@ -27,7 +27,9 @@ DONE - Copy Favorites to IMDB account
 DONE - Create rawg account
 DONE - Make source public
 DONE - Move Contact data into About
-Containerize Javascript
+DONE - Containerize Javascript
+DONE - Fix Maze Light
+HOLD - Fix Contact form
 
 Fix DemoReel resize issue
 Fix Firefox 1080p VSVideos
@@ -35,23 +37,22 @@ Fix Firefox 1080p VSVideos
 Fix Movie/TV favorites
 Add rawg.io
 Add GoodReads
+Fix favorites thumbnail layout
+Add Firefox Bookmarks tree
 
-Fix Contact form
-
-
-Fix favories thumbnail layout
-Fix Maze Light
 Add wall tracing line
 Add right wall tracing
 Add CoolWalls folder scan
 Add CoolWalls async loading
 Debug Maze
-Add Firefox Bookmarks tree
+
 Update skills list
 Update seo tags
 Update about menu
 Combine resume/cv
 Add Bookshelf project
 Add Toyota Project
+
 Overhaul video player
-Video ScrubBrush?
+Video ScrubBrush
+DeepGL
