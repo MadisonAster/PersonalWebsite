@@ -118,7 +118,7 @@ function MazeInit(){
         CoolWallsFolder+'/041.jpg',
         CoolWallsFolder+'/042.jpg',
     ];
-    window.DemoMaze = new Windows95Maze(MazeCanvasID='MazeRunner',
+    window.MazeRunner = new Windows95Maze(MazeCanvasID='MazeRunner',
                                         MazeWidth=50,
                                         MazeDepth=50,
                                         MazePosX=25,
@@ -135,7 +135,6 @@ function MazeInit(){
                                         EnableEnd=false,
                                         
                                         MazeDebug=false,
-                                        MazeAutopilot=true,
                                         MazeAutopilot=false,
                                         MazeSpeed=GetAnimationSpeed(),
                                         //MazeTickDelta=10,
@@ -170,10 +169,11 @@ function MazeInit(){
     window.addEventListener('resize', ResizeHandling);
     window.addEventListener('keydown', KeyHandling);
     window.addEventListener('scroll', ScrollHandling);
+    window.MazeRunner.Initialized = true;
 }
 
 function ResizeHandling(){
-    window.DemoMaze.Resize();
+    window.MazeRunner.Resize();
 }
 
 function CalculateCameraY(MazeHeight){
@@ -183,15 +183,15 @@ function CalculateCameraY(MazeHeight){
 function ScrollHandling(event){
     console.log(getYPosition(), getTotalDocHeight(), getYPosition()/getTotalDocHeight());
     var FooterHeight = document.getElementById('FooterContainer').clientHeight;
-    if (window.DemoMaze.MazeCamera != null){ //Avoid trying to set camera Y before it's created
-        var y = CalculateCameraY(window.DemoMaze.MazeHeight);
-        window.DemoMaze.MazeCamera.position.y = y;
-        if (y <= window.DemoMaze.MazeHeight/2+50) {
-            if (!window.DemoMaze.MazeAutopilot){
-                setTimeout(function(){window.DemoMaze.MazeAutopilot = true;}, 300);
+    if (window.MazeRunner.MazeCamera != null){ //Avoid trying to set camera Y before it's created
+        var y = CalculateCameraY(window.MazeRunner.MazeHeight);
+        window.MazeRunner.MazeCamera.position.y = y;
+        if (y <= window.MazeRunner.MazeHeight/2+50) {
+            if (!window.MazeRunner.MazeAutopilot){
+                setTimeout(function(){window.MazeRunner.MazeAutopilot = true;}, 300);
             };
         } else {
-            window.DemoMaze.MazeAutopilot = false;
+            window.MazeRunner.MazeAutopilot = false;
         }
     }
 }
@@ -201,19 +201,19 @@ function KeyHandling(event){
     {
         case 87: //w
         case 38: //Up
-            window.DemoMaze.Go('f');
+            window.MazeRunner.Go('f');
             break;
         case 65: //a
         case 37: //Left
-            window.DemoMaze.Turn('l');
+            window.MazeRunner.Turn('l');
             break;
         case 83: //s
         case 40: //Down
-            window.DemoMaze.Go('b');
+            window.MazeRunner.Go('b');
             break;
         case 68: //d
         case 39: //Right
-            window.DemoMaze.Turn('r');
+            window.MazeRunner.Turn('r');
             break;
     }
 }
