@@ -449,7 +449,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
                 reformat: null
             });
         };
-        this.resize();
+        //this.resize();
     };
     this.loadAudios = function() {
         //Takes:
@@ -681,7 +681,6 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         //Takes:
         //Performs: resizes canvas based on the wrapper width
         //Returns:
-        console.log('resize2');
         
         var width = this.vswrapper.offsetWidth;
         if (width == 0) {
