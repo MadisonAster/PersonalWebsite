@@ -118,7 +118,7 @@ function MazeInit(){
         CoolWallsFolder+'/041.jpg',
         CoolWallsFolder+'/042.jpg',
     ];
-    window.MazeRunner = new Windows95Maze(MazeCanvasID='MazeRunnerCanvas',
+    window.MazeRunner = new Windows95Maze(MazeCanvasID='MazeRunner',
                                         MazeWidth=50,
                                         MazeDepth=50,
                                         MazePosX=25,
@@ -136,6 +136,7 @@ function MazeInit(){
                                         
                                         MazeDebug=false,
                                         MazeAutopilot=false,
+                                        MazeIntroAnimation=false,
                                         MazeSpeed=GetAnimationSpeed(),
                                         //MazeTickDelta=10,
                                         MazeTickDelta=50,
