@@ -397,6 +397,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
         //Returns:
         
         that.start();
+        that.resize();
     };
     this.loadVideos = function() {
         //Takes:
