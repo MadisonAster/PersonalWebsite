@@ -181,7 +181,7 @@ function CalculateCameraY(MazeHeight){
 };
 
 function ScrollHandling(event){
-    console.log(getYPosition(), getTotalDocHeight(), getYPosition()/getTotalDocHeight());
+    //console.log(getYPosition(), getTotalDocHeight(), getYPosition()/getTotalDocHeight());
     var FooterHeight = document.getElementById('FooterContainer').clientHeight;
     if (window.DemoMaze.MazeCamera != null){ //Avoid trying to set camera Y before it's created
         var y = CalculateCameraY(window.DemoMaze.MazeHeight);
