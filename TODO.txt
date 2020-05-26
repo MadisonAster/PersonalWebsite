@@ -31,7 +31,7 @@ DONE - Containerize Javascript
 DONE - Fix Maze Light
 HOLD - Fix Contact form
 DONE - Fix DemoReel resize issue
-Fix maze autonav triggering on load
+DONE - Fix maze autonav triggering on load
 Fix Firefox 1080p VSVideos
 
 Add GitHub history state
