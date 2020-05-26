@@ -32,9 +32,10 @@ DONE - Fix Maze Light
 HOLD - Fix Contact form
 DONE - Fix DemoReel resize issue
 DONE - Fix maze autonav triggering on load
+DONE - Add GitHub history state
 Fix Firefox 1080p VSVideos
 
-Add GitHub history state
+
 
 Fix Movie/TV favorites
 Add rawg.io
