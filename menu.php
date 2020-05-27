@@ -2,8 +2,9 @@
 <?php
 $blacklist = array('.', '..', 'stats', 'test', 'testing');
 $dirs = array_filter(glob('*'), 'is_dir');
+$preferredlist = array('About', 'Projects', 'DemoReel', 'Favorites', 'GitHub', 'CodeWars', 'IMDB');
 
-foreach ($dirs as &$dir){
+foreach ($preferredlist as &$dir){
     if(!in_array($dir, $blacklist)){
         if(substr($dir, 0, 1) !== '_'){
             echo "    <li id='MenuItem_$dir' class='MenuItem'>";
