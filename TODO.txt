@@ -35,7 +35,7 @@ DONE - Fix maze autonav triggering on load
 DONE - Add GitHub history state
 Fix Firefox 1080p VSVideos
 
-
+Specify menu order
 
 Fix Movie/TV favorites
 Add rawg.io
