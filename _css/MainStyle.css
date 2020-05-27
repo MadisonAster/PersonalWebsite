@@ -22,6 +22,10 @@ p,
 iframe {
     overflow:hidden;
 }
+iframe:body {
+    overflow:hidden;
+}
+
 
 .clear{
     clear:both
