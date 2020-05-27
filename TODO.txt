@@ -7,7 +7,6 @@ DONE - Spawn in center of maze
 DONE - Add distance fog
 DONE - Add glow
 DONE - Add Char light with specular
-HOLD - Snow Particles
 DONE - Add CoolWalls list
 DONE - Renamed Links to Favorites
 DONE - Cleaned up Favorites a bit
@@ -18,24 +17,21 @@ DONE - Added tabs for good reads and rawg.io
 DONE - Rewrite About Headline
 DONE - Fix IMDB
 DONE - Add CodeWars
-HOLD - Add LinkedIn
 DONE - Fix Full Screen
 DONE - Fix Phone Camera
 DONE - Fix Edge animation rate
-HOLD - Check Safari animation rates
 DONE - Copy Favorites to IMDB account
 DONE - Create rawg account
 DONE - Make source public
 DONE - Move Contact data into About
 DONE - Containerize Javascript
 DONE - Fix Maze Light
-HOLD - Fix Contact form
 DONE - Fix DemoReel resize issue
 DONE - Fix maze autonav triggering on load
 DONE - Add GitHub history state
-Fix Firefox 1080p VSVideos
+DONE - Specify menu order
 
-Specify menu order
+Fix Firefox 1080p VSVideos
 
 Fix Movie/TV favorites
 Add rawg.io
@@ -59,3 +55,8 @@ Add Toyota Project
 Overhaul video player
 Video ScrubBrush
 DeepGL
+
+HOLD - Check Safari animation rates
+HOLD - Add LinkedIn
+HOLD - Snow Particles
+HOLD - Fix Contact form
