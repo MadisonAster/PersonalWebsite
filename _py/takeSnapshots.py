@@ -1,3 +1,15 @@
+import ssl
+from functools import wraps
+def sslwrap(func):
+    @wraps(func)
+    def bar(*args, **kw):
+        kw['ssl_version'] = ssl.PROTOCOL_TLSv1
+        return func(*args, **kw)
+    return bar
+
+ssl.wrap_socket = sslwrap(ssl.wrap_socket)
+
+
 import sys, os, re
 try:
     import urllib2 as urllib
@@ -15,7 +27,7 @@ def main():
     htmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0]
     GetIMDB('http://www.imdb.com/name/nm4807696', htmlDir+'IMDB/snapshot')
     GetGitHub('http://github.com/MadisonAster', htmlDir+'GitHub/snapshot')
-    GetCodeWars('http://www.codewars.com/users/MadisonAster', htmlDir+'CodeWars/snapshot')
+    GetCodeWars('https://www.codewars.com/users/MadisonAster', htmlDir+'CodeWars/snapshot')
     #GetLinkedIn('https://www.linkedin.com/in/madisonaster/', htmlDir+'LinkedIn/snapshot')
     
     
@@ -53,8 +65,8 @@ def GetLinkedIn(url, SnapshotFolder):
     #html = str(response.read())
     urlopener= urllib.build_opener()
     urlopener.addheaders = [('User-agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0')]
-    html= urlopener.open(url).read()
-    #html= str(urlopener.open(url).read())
+    #html= urlopener.open(url).read()
+    html= str(urlopener.open(url).read())
     
     expression = re.compile('<script.*?/script>', flags=re.DOTALL)
     html = re.sub(expression, '', html)
@@ -110,8 +122,8 @@ def GetLinkedIn(url, SnapshotFolder):
             if cssURL[0] == '/':
                 cssURL = domain+cssURL
             cssFile = urllib.urlopen(cssURL)
-            cssText = cssFile.read()
-            #cssText = str(cssFile.read())
+            #cssText = cssFile.read()
+            cssText = str(cssFile.read())
             
             for j in range(cssText.count('url(')):
                 sections = cssText.split('url(')
@@ -152,8 +164,8 @@ def GetCodeWars(url, SnapshotFolder):
     domain = 'https://'+domain.split('/',1)[0]+'/'
     
     response = urllib.urlopen(url)
-    html = response.read()
-    #html = str(response.read())
+    #html = response.read()
+    html = str(response.read())
 
     expression = re.compile('<script.*?/script>', flags=re.DOTALL)
     html = re.sub(expression, '', html)
@@ -209,8 +221,8 @@ def GetCodeWars(url, SnapshotFolder):
             if cssURL[0] == '/':
                 cssURL = domain+cssURL
             cssFile = urllib.urlopen(cssURL)
-            cssText = cssFile.read()
-            #cssText = str(cssFile.read())
+            #cssText = cssFile.read()
+            cssText = str(cssFile.read())
             
             for j in range(cssText.count('url(')):
                 sections = cssText.split('url(')
@@ -252,8 +264,8 @@ def GetGitHub(url, SnapshotFolder):
     domain = 'https://'+domain.split('/',1)[0]+'/'
     
     response = urllib.urlopen(url)
-    html = response.read()
-    #html = str(response.read())
+    #html = response.read()
+    html = str(response.read())
 
     expression = re.compile('<script.*?/script>', flags=re.DOTALL)
     html = re.sub(expression, '', html)
@@ -314,8 +326,8 @@ def GetIMDB(url, SnapshotFolder):
     domain = 'https://'+domain.split('/',1)[0]+'/'
     
     response = urllib.urlopen(url)
-    html = response.read()
-    #html = str(response.read())
+    #html = response.read()
+    html = str(response.read())
 
     expression = re.compile('<script.*?/script>', flags=re.DOTALL)
     html = re.sub(expression, '', html)
