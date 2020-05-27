@@ -18,5 +18,5 @@ foreach ($content as &$value) {
     };
 };
 ?>
-<div class="shuffle__sizer" style='height:60px;width:25%;margin-left:0;'></div>
+<!--<div class="shuffle__sizer" style='height:60px;width:25%;margin-left:0;'></div>-->
 <div class="clear">&nbsp;</div>
