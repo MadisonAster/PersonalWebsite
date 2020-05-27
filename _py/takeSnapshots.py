@@ -1,8 +1,9 @@
+import ssl
+print(ssl.OPENSSL_VERSION)
+
 import sys, os, re
-try:
-    import urllib2 as urllib
-except:
-    import urllib.request as urllib
+import urllib.request as urllib
+
 import datetime, sys
 from pprint import pprint
 
