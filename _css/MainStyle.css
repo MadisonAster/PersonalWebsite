@@ -19,6 +19,10 @@ p,
     background-color:rgba(255,255,255,0.1);
     text-align:justify;
 }
+iframe {
+    overflow:hidden;
+}
+
 .clear{
     clear:both
 }
