@@ -31,10 +31,9 @@ DONE - Fix maze autonav triggering on load
 DONE - Add GitHub history state
 DONE - Specify menu order
 DONE - Fix GitHub commit years
+DONE - Fix Snapshots script on server
 
 Fix Firefox 1080p VSVideos
-
-Fix Snapshots script on server
 
 Fix Movie/TV favorites
 Add rawg.io

@@ -1,17 +1,12 @@
-import ssl
-print(ssl.OPENSSL_VERSION)
-
 import sys, os, re
 import urllib.request as urllib
 
 import datetime, sys
-from pprint import pprint
 
 def main():
     #Takes:
     #Performs: calls to getAndSanitizeHTML, downloadFiles_SaveHTML
     #Returns:
-    print('takeSnapshots.py', sys.version)
     
     htmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0]
     GetIMDB('http://www.imdb.com/name/nm4807696', htmlDir+'IMDB/snapshot')
