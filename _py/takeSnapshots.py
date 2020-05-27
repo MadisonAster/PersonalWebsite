@@ -1,4 +1,4 @@
-import os, re
+import sys, os, re
 try:
     import urllib2 as urllib
 except:
@@ -10,11 +10,12 @@ def main():
     #Takes:
     #Performs: calls to getAndSanitizeHTML, downloadFiles_SaveHTML
     #Returns:
+    print('takeSnapshots.py', sys.version)
     
     htmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0]
     GetIMDB('http://www.imdb.com/name/nm4807696', htmlDir+'IMDB/snapshot')
     GetGitHub('http://github.com/MadisonAster', htmlDir+'GitHub/snapshot')
-    GetCodeWars('https://www.codewars.com/users/MadisonAster', htmlDir+'CodeWars/snapshot')
+    GetCodeWars('http://www.codewars.com/users/MadisonAster', htmlDir+'CodeWars/snapshot')
     #GetLinkedIn('https://www.linkedin.com/in/madisonaster/', htmlDir+'LinkedIn/snapshot')
     
     

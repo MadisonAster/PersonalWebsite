@@ -30,6 +30,7 @@ DONE - Fix DemoReel resize issue
 DONE - Fix maze autonav triggering on load
 DONE - Add GitHub history state
 DONE - Specify menu order
+DONE - Fix GitHub commit years
 
 Fix Firefox 1080p VSVideos
 
@@ -40,8 +41,6 @@ Add rawg.io
 Add GoodReads
 Fix favorites thumbnail layout
 Add Firefox Bookmarks tree
-
-Fix GitHub commit years
 
 Add wall tracing line
 Add right wall tracing
