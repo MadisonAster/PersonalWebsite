@@ -2,7 +2,7 @@
 <?php
 $preferredlist = array('About', 'Projects', 'DemoReel', 'Favorites', 'GitHub', 'CodeWars', 'IMDB');
 $dirs = array_filter(glob('*'), 'is_dir');
-$blacklist = array('.', '..', 'stats', 'test', 'testing', '.git');
+$blacklist = array('.', '..', 'stats', 'test', 'testing', '.git', 'cgi-bin', 'madisonaster.com');
 foreach ($dirs as &$dir){
     if(!in_array($dir, $blacklist)){
         if(substr($dir, 0, 1) !== '_'){
