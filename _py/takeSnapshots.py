@@ -248,7 +248,7 @@ def GetGitHub(url, SnapshotFolder):
     #########################Load HTML############################
     domain = url.strip('http://')
     domain = domain.strip('https://')
-    domain = 'https://'+domain.split('/',1)[0]
+    domain = 'https://'+domain.split('/',1)[0]+'/'
     
     response = urllib.urlopen(url)
     html = response.read()
@@ -287,7 +287,7 @@ def GetGitHub(url, SnapshotFolder):
             imgName = 'image_'+str(i).zfill(3)+'.'+imgExt
             html = html.replace(imgURL, imgName)
             if imgURL[0] == '/':
-                imgURL = domain+imgURL
+                imgURL = domain.rstrip('/')+imgURL
             imgFile = urllib.urlopen(imgURL)
             fileObject = open(SnapshotFolder+'/'+imgName, 'wb')
             fileObject.write(imgFile.read())
