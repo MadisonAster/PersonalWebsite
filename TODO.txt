@@ -39,6 +39,8 @@ Add GoodReads
 Fix favorites thumbnail layout
 Add Firefox Bookmarks tree
 
+Fix GitHub commit years
+
 Add wall tracing line
 Add right wall tracing
 Add CoolWalls folder scan
