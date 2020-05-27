@@ -1,1 +1,6 @@
-b"@font-face {\n  font-family: 'Lato';\n  font-style: normal;\n  font-weight: 400;\n  src: local('Lato Regular'), local('Lato-Regular'), url(cssFile_0_0.ttf) format('truetype');\n}\n"
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(cssFile_0_0.ttf) format('truetype');
+}

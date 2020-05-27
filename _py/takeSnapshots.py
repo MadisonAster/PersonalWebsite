@@ -1,15 +1,3 @@
-import ssl
-from functools import wraps
-def sslwrap(func):
-    @wraps(func)
-    def bar(*args, **kw):
-        kw['ssl_version'] = ssl.PROTOCOL_TLSv1
-        return func(*args, **kw)
-    return bar
-
-ssl.wrap_socket = sslwrap(ssl.wrap_socket)
-
-
 import sys, os, re
 try:
     import urllib2 as urllib
@@ -66,7 +54,8 @@ def GetLinkedIn(url, SnapshotFolder):
     urlopener= urllib.build_opener()
     urlopener.addheaders = [('User-agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0')]
     #html= urlopener.open(url).read()
-    html= str(urlopener.open(url).read())
+    html= urlopener.open(url).read().decode('utf-8')
+    #html= str(urlopener.open(url).read())
     
     expression = re.compile('<script.*?/script>', flags=re.DOTALL)
     html = re.sub(expression, '', html)
@@ -123,7 +112,8 @@ def GetLinkedIn(url, SnapshotFolder):
                 cssURL = domain+cssURL
             cssFile = urllib.urlopen(cssURL)
             #cssText = cssFile.read()
-            cssText = str(cssFile.read())
+            cssText = cssFile.read().decode('utf-8')
+            #cssText = str(cssFile.read())
             
             for j in range(cssText.count('url(')):
                 sections = cssText.split('url(')
@@ -141,16 +131,16 @@ def GetLinkedIn(url, SnapshotFolder):
                 fileObject.write(fileHandle.read())
                 fileObject.close()
             
-            fileObject = open(SnapshotFolder+'/'+cssName, 'w')
-            fileObject.write(cssText)
+            fileObject = open(SnapshotFolder+'/'+cssName, 'wb')
+            fileObject.write(cssText.encode('utf-8'))
             fileObject.close()
     ###############################################################
     
     
     #####################create index.html#########################
     outputpath = SnapshotFolder+'/index.html'
-    file = open(outputpath, 'w')
-    file.write(html)
+    file = open(outputpath, 'wb')
+    file.write(html.encode('utf-8'))
     file.close()
     ###############################################################
 def GetCodeWars(url, SnapshotFolder):
@@ -165,7 +155,8 @@ def GetCodeWars(url, SnapshotFolder):
     
     response = urllib.urlopen(url)
     #html = response.read()
-    html = str(response.read())
+    html = response.read().decode('utf-8')
+    #html = str(response.read())
 
     expression = re.compile('<script.*?/script>', flags=re.DOTALL)
     html = re.sub(expression, '', html)
@@ -222,7 +213,8 @@ def GetCodeWars(url, SnapshotFolder):
                 cssURL = domain+cssURL
             cssFile = urllib.urlopen(cssURL)
             #cssText = cssFile.read()
-            cssText = str(cssFile.read())
+            cssText = cssFile.read().decode('utf-8')
+            #cssText = str(cssFile.read())
             
             for j in range(cssText.count('url(')):
                 sections = cssText.split('url(')
@@ -240,16 +232,16 @@ def GetCodeWars(url, SnapshotFolder):
                 fileObject.write(fileHandle.read())
                 fileObject.close()
             
-            fileObject = open(SnapshotFolder+'/'+cssName, 'w')
-            fileObject.write(cssText)
+            fileObject = open(SnapshotFolder+'/'+cssName, 'wb')
+            fileObject.write(cssText.encode('utf-8'))
             fileObject.close()
     ###############################################################
     
     
     #####################create index.html#########################
     outputpath = SnapshotFolder+'/index.html'
-    file = open(outputpath, 'w')
-    file.write(html)
+    file = open(outputpath, 'wb')
+    file.write(html.encode('utf-8'))
     file.close()
     ###############################################################
 
@@ -265,7 +257,8 @@ def GetGitHub(url, SnapshotFolder):
     
     response = urllib.urlopen(url)
     #html = response.read()
-    html = str(response.read())
+    html = response.read().decode('utf-8')
+    #html = str(response.read())
 
     expression = re.compile('<script.*?/script>', flags=re.DOTALL)
     html = re.sub(expression, '', html)
@@ -310,8 +303,8 @@ def GetGitHub(url, SnapshotFolder):
     
     #####################create index.html#########################
     outputpath = SnapshotFolder+'/index.html'
-    file = open(outputpath, 'w')
-    file.write(html)
+    file = open(outputpath, 'wb')
+    file.write(html.encode('utf-8'))
     file.close()
     ###############################################################
 
@@ -327,7 +320,8 @@ def GetIMDB(url, SnapshotFolder):
     
     response = urllib.urlopen(url)
     #html = response.read()
-    html = str(response.read())
+    html = response.read().decode('utf-8')
+    #html = str(response.read())
 
     expression = re.compile('<script.*?/script>', flags=re.DOTALL)
     html = re.sub(expression, '', html)
@@ -393,8 +387,8 @@ def GetIMDB(url, SnapshotFolder):
     
     #####################create index.html#########################
     outputpath = SnapshotFolder+'/index.html'
-    file = open(outputpath, 'w')
-    file.write(html)
+    file = open(outputpath, 'wb')
+    file.write(html.encode('utf-8'))
     file.close()
     ###############################################################
 
