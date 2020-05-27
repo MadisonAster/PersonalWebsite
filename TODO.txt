@@ -33,6 +33,8 @@ DONE - Specify menu order
 
 Fix Firefox 1080p VSVideos
 
+Fix Snapshots script on server
+
 Fix Movie/TV favorites
 Add rawg.io
 Add GoodReads
