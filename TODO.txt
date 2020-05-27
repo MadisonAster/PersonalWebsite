@@ -55,6 +55,8 @@ Combine resume/cv
 Add Bookshelf project
 Add Toyota Project
 
+Fix Backups
+
 Overhaul video player
 Video ScrubBrush
 DeepGL
