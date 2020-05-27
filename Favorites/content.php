@@ -1,6 +1,5 @@
 <script src='./Favorites/showSubSection.js'></script>
 <div class="shuffle__sizer" style='height:60px;width:25%;margin-left:0;'></div>
-
 <?php
 $blacklist = array('.', '..', 'stats');
 $Linkdirs = array_filter(glob('./Favorites/*'), 'is_dir');
