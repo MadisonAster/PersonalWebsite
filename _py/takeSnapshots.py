@@ -1,6 +1,6 @@
 import sys, os, re
 import urllib.request as urllib
-
+import traceback
 import datetime, sys
 
 def main():
@@ -9,14 +9,20 @@ def main():
     #Returns:
     
     htmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0]
-    GetIMDB('http://www.imdb.com/name/nm4807696', htmlDir+'IMDB/snapshot')
-    GetGitHub('http://github.com/MadisonAster', htmlDir+'GitHub/snapshot')
-    GetCodeWars('https://www.codewars.com/users/MadisonAster', htmlDir+'CodeWars/snapshot')
+    try:
+        GetIMDB('http://www.imdb.com/name/nm4807696', htmlDir+'IMDB/snapshot')
+    except:
+        print(traceback.format_exc())
+    try:
+        GetGitHub('http://github.com/MadisonAster', htmlDir+'GitHub/snapshot')
+    except:
+        print(traceback.format_exc())
+    try:
+        GetCodeWars('https://www.codewars.com/users/MadisonAster', htmlDir+'CodeWars/snapshot')
+    except:
+        print(traceback.format_exc())
     #GetLinkedIn('https://www.linkedin.com/in/madisonaster/', htmlDir+'LinkedIn/snapshot')
-    
-    
-    
-    
+
 def GetElementsBySearchString(html, SearchString):
     sections = html.split(SearchString)
     for i in range(html.count(SearchString)):
@@ -261,6 +267,8 @@ def GetGitHub(url, SnapshotFolder):
 
     expression = re.compile('<iframe.*?/iframe>', flags=re.DOTALL)
     html = re.sub(expression, '', html)
+    
+    html = html.replace('<body', '<body style="overflow:hidden;"')
     ###############################################################
     
     
