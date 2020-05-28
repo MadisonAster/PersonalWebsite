@@ -165,6 +165,8 @@ def GetCodeWars(url, SnapshotFolder):
 
     expression = re.compile('<iframe.*?/iframe>', flags=re.DOTALL)
     html = re.sub(expression, '', html)
+    
+    html = html.replace('<body', '<body style="overflow:hidden;"')
     ###############################################################
     
     
@@ -332,6 +334,8 @@ def GetIMDB(url, SnapshotFolder):
 
     expression = re.compile('<iframe.*?/iframe>', flags=re.DOTALL)
     html = re.sub(expression, '', html)
+    
+    html = html.replace('<body', '<body style="overflow:hidden;"')
     ###############################################################
     
     
