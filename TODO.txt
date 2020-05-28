@@ -35,10 +35,10 @@ DONE - Install python3 on server for ssl
 DONE - Fix Snapshots script on server
 DONE - Fix Firefox 1080p VSVideos
 DONE - Disable performance heavy features for mobile
+DONE - Fix mobile text scaling
 
 Combine DemoReel into Projects
 
-Fix mobile text scaling
 
 Fix Movie/TV favorites
 Add rawg.io
