@@ -132,7 +132,6 @@ function MazeInit(){
                                         EnableWalls=true,
                                         EnableCoolWalls=!IsMobile(),
                                         EnableLights=!IsMobile(),
-                                        EnableGlobe=true,
                                         EnableRats=true,
                                         EnableSigns=true,
                                         EnableSpinners=false,
