@@ -13,25 +13,28 @@ function getYPosition(){
 };
 function GetAnimationSpeed(){
     var parser = new UAParser([navigator.userAgent]);
-    
-    var mobile = false;
-    if (parser.getDevice().type != null){
-        mobile = true;
-    }
     e = parser.getEngine().name;
     if (e == 'EdgeHTML') {
         return 10;
     } else if(e == 'Gecko') {
-        if (mobile){return 10};
+        if (IsMobile()){return 10};
         return 2;
     } else if(e == 'Blink') {
-        if (mobile){return 5};
+        if (IsMobile()){return 5};
         return 2;
     } else if(e == 'WebKit') { 
-        if (mobile){return 5}; //Check ios safari speed
+        if (IsMobile()){return 5}; //Check ios safari speed
         return 2; //Check osx safari speed
     } else {
         return 2;
+    }
+}
+function IsMobile(){
+    var parser = new UAParser([navigator.userAgent]);
+    if (parser.getDevice().type != null){
+        return true
+    } else {
+        return false
     }
 }
 function GetPackagePath(){
@@ -127,6 +130,8 @@ function MazeInit(){
                                         EnableFloor=true,
                                         EnableCeiling=false,
                                         EnableWalls=true,
+                                        EnableCoolWalls=!IsMobile(),
+                                        EnableLights=!IsMobile(),
                                         EnableGlobe=true,
                                         EnableRats=true,
                                         EnableSigns=true,
