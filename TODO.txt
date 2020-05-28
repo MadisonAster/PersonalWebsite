@@ -31,9 +31,11 @@ DONE - Fix maze autonav triggering on load
 DONE - Add GitHub history state
 DONE - Specify menu order
 DONE - Fix GitHub commit years
+DONE - Install python3 on server for ssl
 DONE - Fix Snapshots script on server
 
 Fix Firefox 1080p VSVideos
+Combine DemoReel into Projects
 
 Fix Movie/TV favorites
 Add rawg.io
@@ -48,8 +50,8 @@ Add CoolWalls async loading
 Debug Maze
 
 Update skills list
+Rewrite About Me
 Update seo tags
-Update about menu
 Combine resume/cv
 Add Bookshelf project
 Add Toyota Project
