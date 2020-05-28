@@ -38,6 +38,7 @@ Fix Firefox 1080p VSVideos
 Combine DemoReel into Projects
 
 Fix mobile text scaling
+Disable performance heavy features for mobile
 
 Fix Movie/TV favorites
 Add rawg.io
@@ -45,7 +46,6 @@ Add GoodReads
 Fix favorites thumbnail layout
 Add Firefox Bookmarks tree
 
-Disable performance heavy features for mobile
 Add wall tracing line
 Add right wall tracing
 Add CoolWalls folder scan
