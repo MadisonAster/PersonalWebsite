@@ -241,6 +241,7 @@ th:active,
     width:82%;
     padding:0px;
     margin:0px;
+    font-size:0.5cm;
 }
 #FooterContainer{
     z-index:0;
