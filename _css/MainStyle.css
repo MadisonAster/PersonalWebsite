@@ -243,7 +243,7 @@ th:active,
     margin:0px;
     /*font-size:0.45cm;*/
     /*font-size:16px;*/
-    font-size:2.0vmin;
+    font-size:2.0vh;
 }
 #FooterContainer{
     z-index:0;
