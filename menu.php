@@ -1,6 +1,6 @@
 <ul id="Menu">
 <?php
-$preferredlist = array('About', 'Projects', 'DemoReel', 'Favorites', 'GitHub', 'CodeWars', 'IMDB');
+$preferredlist = array('About', 'Projects', 'Favorites', 'GitHub', 'CodeWars', 'IMDB');
 $dirs = array_filter(glob('*'), 'is_dir');
 $blacklist = array('.', '..', 'stats', 'test', 'testing', '.git', 'cgi-bin', 'madisonaster.com');
 foreach ($dirs as &$dir){
