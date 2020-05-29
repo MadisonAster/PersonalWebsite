@@ -12,6 +12,9 @@ foreach ($dirs as &$dir){
             if (file_exists("./$dir/onload.js")) {
                 echo "    <script src='./$dir/onload.js'></script>";
             };
+            if (file_exists("./$dir/statechange.js")) {
+                echo "    <script src='./$dir/statechange.js'></script>";
+            };
             if (file_exists("./".$dir."/content.php")) {
                 echo "\n    <!-- Found content.php in ".$dir."-->\n";
                 include "./".$dir."/content.php";
