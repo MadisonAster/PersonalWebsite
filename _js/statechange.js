@@ -30,7 +30,7 @@ History.Adapter.bind(window,'statechange',function(){ // Note: We are using stat
     
     if(window.PageName == 'Projects' && window.MyShuffleObject != null){
         window.MyShuffleObject.resize();
-    } else if (window.PageName == 'DemoReel') {
+    } else if (window.PageName == 'Projects') {
         window.MyShuffleObject = ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, false, true, false);
     };
     
