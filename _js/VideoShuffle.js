@@ -25,7 +25,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
     //Takes:
     //Performs:
     //Returns:
-    
+    console.log('ShufflePlayer Running!');
     this.videoSources = vSources;
     this.vSourceDurations = vSourceDurations;
     this.audioSources = aSources;
