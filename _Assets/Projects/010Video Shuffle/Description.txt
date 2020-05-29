@@ -1,6 +1,4 @@
-In order to keep my demo reel up to date, I've spent the last few weeks creating this javascript video player that plays clips together in sequence from a given folder. The javascript is relatively straightforward, and relies on Seriously.js to draw from video elements on to a canvas. CSS is always the hard
-You can check it out here:
-<a target='_blank' href='http://www.MadisonAster.com/DemoReel'>http://www.MadisonAster.com/DemoReel</a>
-And download the code here:
+This is a video player I've created in Javascript to play randomized clips from my vfx demo reel.
+You can check out the code here:
 <a target='_blank'  href='https://github.com/MadisonAster/VideoShuffle'>https://github.com/MadisonAster/VideoShuffle</a>
  
