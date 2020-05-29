@@ -7,7 +7,7 @@ foreach ($content as &$value) {
     };
 };
 $blacklist = array('.', '..');
-$Projectdirs = array_filter(glob('./_Assets/Projects/*'), 'is_dir');
+$Projectdirs = array_filter(glob('./Projects/*'), 'is_dir');
 $Projectdirs = array_reverse($Projectdirs, true);
 
 $ProjectObjects = array();
