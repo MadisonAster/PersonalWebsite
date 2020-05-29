@@ -439,7 +439,7 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
             
             button.style.backgroundImage = 'url('+this.videoSources[i].replace('.mp4', '.jpg')+')';
             console.log(this.videoSources[i].replace('.mp4', '.jpg'));
-            console.log(button.style.backgroundImage);
+            console.log(button);
             button.style.backgroundSize = 'cover';
             button.style.backgroundRepeat = 'no-repeat';
             button.addEventListener('click', this.switchVideo.bind(null, this, i), false);
