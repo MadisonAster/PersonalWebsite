@@ -3,9 +3,11 @@ import datetime, time
 import sys
 from pprint import pprint, pformat
 
+import GetURLs
+
 def main():
-    #scanURL('http://www.primewire.ag/watched/lolmuly',MoviesDir)
-    #scanURL('http://www.primewire.ag/favorites/lolmuly',TVDir)
+    #scanURL(GetURLs.GetFavoriteTVURL_Old(),TVDir)
+    #scanURL(GetURLs.GetFavoriteMoviesURL_Old(),MoviesDir)
     htmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0]
     
     MoviesDir = htmlDir+'Favorites/Movies/snapshot/'
@@ -14,14 +16,12 @@ def main():
     GamesDir = htmlDir+'Favorites/Games/snapshot'
     BookmarksDir = htmlDir+'Favorites/Bookmarks/snapshot'
     
-    #GetIMDB('https://www.imdb.com/list/ls098333584/?sort=list_order,asc&st_dt=&mode=detail&page=1', MoviesDir)
-    #GetIMDB('https://www.imdb.com/list/ls098367816/?sort=list_order,asc&st_dt=&mode=detail&page=1', TVDir)
-    #GetGoodReads('https://www.goodreads.com/review/list/50378844-lolmuly?page=1&shelf=read', BooksDir)
-    #GetRawg('https://rawg.io/@maddieawesome/games', GamesDir)
-    #GetFirefox('', BookmarksDir)
-    
-    
-    
+    #GetIMDB(GetURLs.GetFavoriteTVURL(), TVDir)
+    #GetIMDB(GetURLs.GetFavoriteMoviesURL(), MoviesDir)
+    #GetGoodReads(GetURLs.GetFavoriteBooksURL(), BooksDir)
+    #GetRawg(GetURLs.GetFavoriteGamesURL(), GamesDir)
+    #GetFirefox(GetURLs.GetFavoriteBookmarksURL(), BookmarksDir)
+
 def GetIMDB(url, OutputDir):
     print('GetIMDB!', url, OutputDir)
     ExistingEntries = os.listdir(OutputDir)

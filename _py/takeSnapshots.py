@@ -3,6 +3,8 @@ import urllib.request as urllib
 import traceback
 import datetime, sys
 
+import GetURLs
+
 def main():
     #Takes:
     #Performs: calls to getAndSanitizeHTML, downloadFiles_SaveHTML
@@ -10,18 +12,18 @@ def main():
     
     htmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0]
     try:
-        GetIMDB('http://www.imdb.com/name/nm4807696', htmlDir+'IMDB/snapshot')
+        GetIMDB(GetURLs.GetIMDBURL(), htmlDir+'IMDB/snapshot')
     except:
         print(traceback.format_exc())
     try:
-        GetGitHub('http://github.com/MadisonAster', htmlDir+'GitHub/snapshot')
+        GetGitHub(GetURLs.GetGitHubURL(), htmlDir+'GitHub/snapshot')
     except:
         print(traceback.format_exc())
     try:
-        GetCodeWars('https://www.codewars.com/users/MadisonAster', htmlDir+'CodeWars/snapshot')
+        GetCodeWars(GetURLs.GetCodeWarsURL(), htmlDir+'CodeWars/snapshot')
     except:
         print(traceback.format_exc())
-    #GetLinkedIn('https://www.linkedin.com/in/madisonaster/', htmlDir+'LinkedIn/snapshot')
+    #GetLinkedIn(GetURLs.GetLinkedInURL(), htmlDir+'LinkedIn/snapshot')
 
 def GetElementsBySearchString(html, SearchString):
     sections = html.split(SearchString)
