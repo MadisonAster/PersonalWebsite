@@ -1,7 +1,7 @@
 def GetFavoriteTVURL_Old():
     return 'http://www.primewire.ag/favorites/lolmuly'
 def GetFavoriteMoviesURL_Old():
-    return 'http://www.primewire.ag/watched/lolmuly'Favorite
+    return 'http://www.primewire.ag/watched/lolmuly'
 def GetFavoriteTVURL(pages=8):
     url = 'https://www.imdb.com/list/ls098367816/?sort=list_order,asc&st_dt=&mode=detail&page=1'
     for pagenumber in range(1, pages):
