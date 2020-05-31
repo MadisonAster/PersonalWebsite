@@ -21,11 +21,31 @@ def main():
     #GetGoodReads(GetURLs.GetFavoriteBooksURL(), BooksDir)
     #GetRawg(GetURLs.GetFavoriteGamesURL(), GamesDir)
     #GetFirefox(GetURLs.GetFavoriteBookmarksURL(), BookmarksDir)
+    
+    pass
 
+def GetLinks(html):
+    pass #Do something with beautiful soup here
+    
 def GetIMDB(url, OutputDir):
     print('GetIMDB!', url, OutputDir)
     ExistingEntries = os.listdir(OutputDir)
     html = getAndSanitize(url)
+    
+    
+    for link in GetLinks(html):
+        itemDict = {}
+        
+        for image in link.innerHtml:
+            itemDict['Title'] = img.alt
+            itemDict['ThumbURL'] = image.src
+            
+            
+            
+            
+    
+    
+    
     
     with open(OutputDir+'/index.html', 'w') as file:
         file.write(html)
