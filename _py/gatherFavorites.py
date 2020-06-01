@@ -3,6 +3,9 @@ import datetime, time
 import sys
 from pprint import pprint, pformat
 
+from bs4 import BeautifulSoup
+import requests
+
 import GetURLs
 
 def main():
@@ -16,8 +19,8 @@ def main():
     GamesDir = htmlDir+'Favorites/Games/snapshot'
     BookmarksDir = htmlDir+'Favorites/Bookmarks/snapshot'
     
-    #GetIMDB(GetURLs.GetFavoriteTVURL(), TVDir)
-    #GetIMDB(GetURLs.GetFavoriteMoviesURL(), MoviesDir)
+    GetIMDB(GetURLs.GetFavoriteTVURLs(), TVDir)
+    #GetIMDB(GetURLs.GetFavoriteMoviesURLs(), MoviesDir)
     #GetGoodReads(GetURLs.GetFavoriteBooksURL(), BooksDir)
     #GetRawg(GetURLs.GetFavoriteGamesURL(), GamesDir)
     #GetFirefox(GetURLs.GetFavoriteBookmarksURL(), BookmarksDir)
@@ -27,18 +30,23 @@ def main():
 def GetLinks(html):
     pass #Do something with beautiful soup here
     
-def GetIMDB(url, OutputDir):
-    print('GetIMDB!', url, OutputDir)
+def GetIMDB(urlList, OutputDir):
+    print('GetIMDB!', urlList, OutputDir)
+    return
     ExistingEntries = os.listdir(OutputDir)
-    html = getAndSanitize(url)
-    
-    
-    for link in GetLinks(html):
-        itemDict = {}
+    for url in urlList:
+        #html = getAndSanitize(url)
+        with open(url) as html_file:
+            soup = BeautifulSoup(html_file, 'lxml')
         
-        for image in link.innerHtml:
-            itemDict['Title'] = img.alt
-            itemDict['ThumbURL'] = image.src
+        #match = soup.find('div', class_='footer')
+        
+        for link in GetLinks(html):
+            itemDict = {}
+            
+            for image in link.innerHtml:
+                itemDict['Title'] = img.alt
+                itemDict['ThumbURL'] = image.src
             
             
             

@@ -2,14 +2,18 @@ def GetFavoriteTVURL_Old():
     return 'http://www.primewire.ag/favorites/lolmuly'
 def GetFavoriteMoviesURL_Old():
     return 'http://www.primewire.ag/watched/lolmuly'
-def GetFavoriteTVURL(pages=8):
+def GetFavoriteTVURLs(pages=8):
     url = 'https://www.imdb.com/list/ls098367816/?sort=list_order,asc&st_dt=&mode=detail&page=1'
+    ReturnList = []
     for pagenumber in range(1, pages):
-        yield url[:-1]+str(pagenumber)
-def GetFavoriteMoviesURL(pages=8):
+        ReturnList.append(url[:-1]+str(pagenumber))
+    return ReturnList
+def GetFavoriteMoviesURLs(pages=8):
     url = 'https://www.imdb.com/list/ls098333584/?sort=list_order,asc&st_dt=&mode=detail&page=1'
+    ReturnList = []
     for pagenumber in range(1, pages):
-        yield url[:-1]+str(pagenumber)
+        ReturnList.append(url[:-1]+str(pagenumber))
+    return ReturnList
 def GetFavoriteBooksURL():
     return 'https://www.goodreads.com/review/list/50378844-lolmuly?page=1&shelf=read'
 def GetFavoriteGamesURL():
