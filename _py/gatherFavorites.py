@@ -38,8 +38,9 @@ def GetIMDB(urlList, OutputDir):
         #html = getAndSanitize(url)
         with open(url) as html_file:
             soup = BeautifulSoup(html_file, 'lxml')
-        
+        print(soup.prettify())
         #match = soup.find('div', class_='footer')
+        #for match in soup.find_all('div', class_='footer')
         
         for link in GetLinks(html):
             itemDict = {}
