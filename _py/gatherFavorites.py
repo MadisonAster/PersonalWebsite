@@ -21,8 +21,8 @@ def main():
     GamesDir = htmlDir+'Favorites/Games/snapshot'
     BookmarksDir = htmlDir+'Favorites/Bookmarks/snapshot'
     
-    GetIMDB(GetURLs.GetFavoriteTVURLs(), TVDir)
-    #GetIMDB(GetURLs.GetFavoriteMoviesURLs(), MoviesDir)
+    GetIMDB(GetURLs.GetFavoriteTVURL(), TVDir)
+    #GetIMDB(GetURLs.GetFavoriteMoviesURL(), MoviesDir)
     #GetGoodReads(GetURLs.GetFavoriteBooksURL(), BooksDir)
     #GetRawg(GetURLs.GetFavoriteGamesURL(), GamesDir)
     #GetFirefox(GetURLs.GetFavoriteBookmarksURL(), BookmarksDir)
@@ -32,46 +32,31 @@ def main():
 def GetLinks(html):
     pass #Do something with beautiful soup here
     
-def GetIMDB(urlList, OutputDir):
+def GetIMDB(url, OutputDir):
     print('GetIMDB!', urlList, OutputDir)
-    #return
+    #match = soup.find('div', class_='footer')
+    #for match in soup.find_all('div', class_='footer')
+    
     ExistingEntries = os.listdir(OutputDir)
-    for i, url in enumerate(urlList):
-        #html = getAndSanitize(url)
+    for folder in ExistingEntries:
+        pass
         
-        source = requests.get(url).text
-        soup = BeautifulSoup(source, 'lxml')
-        
-        #print(soup.prettify())
-        #match = soup.find('div', class_='footer')
-        #for match in soup.find_all('div', class_='footer')
-        
-        jsonscript = soup.find('script', type="application/ld+json")
-        jsontext = jsonscript.contents[0]
-        jsonobj = json.loads(jsontext)
-        
-        pprint(jsonobj)
-        
-        OutputPath = OutputDir+'/index'+str(i)+'.html'
-        print('OutputPath', OutputPath)
-        with open(OutputPath, 'w') as file:
-            #file.write(jsonscript.prettify())
-            file.write(pformat(jsonobj))
-        
-        
-        #for link in GetLinks(html):
-        #    itemDict = {}
-        #    
-        #    for image in link.innerHtml:
-        #        itemDict['Title'] = img.alt
-        #        itemDict['ThumbURL'] = image.src
-            
-            
-            
-            
+    source = requests.get(url).text
+    soup = BeautifulSoup(source, 'lxml')
+    jsonscript = soup.find('script', type="application/ld+json")
+    jsontext = jsonscript.contents[0]
+    jsonobj = json.loads(jsontext)
+    for item in jsonobj['about']['itemListElement']:
+        itemurl = 'https://www.imdb.com'+item['url']
     
+    pprint(jsonobj)
     
-    
+    #OutputPath = OutputDir+'/index'+str(i)+'.html'
+    #print('OutputPath', OutputPath)
+    #with open(OutputPath, 'w') as file:
+    #    #file.write(jsonscript.prettify())
+    #    file.write(pformat(jsonobj))
+            
     
     
     
