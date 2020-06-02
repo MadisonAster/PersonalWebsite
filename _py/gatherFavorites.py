@@ -41,16 +41,16 @@ def GetIMDB(urlList, OutputDir):
         source = requests.get(url).text
         soup = BeautifulSoup(source, 'lxml')
         
-        
-        
         #print(soup.prettify())
         #match = soup.find('div', class_='footer')
         #for match in soup.find_all('div', class_='footer')
         
+        jsonscript = soup.find('script', type="application/ld+json")
+        
         OutputPath = OutputDir+'/index'+str(i)+'.html'
         print('OutputPath', OutputPath)
         with open(OutputPath, 'w') as file:
-            file.write(soup.prettify())
+            file.write(jsonscript.prettify())
         
         
         #for link in GetLinks(html):
