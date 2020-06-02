@@ -1,7 +1,7 @@
 import sys, os, re
 import urllib.request as urllib
 import traceback
-import datetime, sys
+import datetime, time
 
 import GetURLs
 

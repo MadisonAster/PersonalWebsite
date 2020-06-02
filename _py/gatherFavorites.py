@@ -1,6 +1,7 @@
-import os, re, urllib2
+import sys, os, re
+import urllib.request as urllib
+import traceback
 import datetime, time
-import sys
 from pprint import pprint, pformat
 
 from bs4 import BeautifulSoup
@@ -32,22 +33,32 @@ def GetLinks(html):
     
 def GetIMDB(urlList, OutputDir):
     print('GetIMDB!', urlList, OutputDir)
-    return
+    #return
     ExistingEntries = os.listdir(OutputDir)
-    for url in urlList:
+    for i, url in enumerate(urlList):
         #html = getAndSanitize(url)
-        with open(url) as html_file:
-            soup = BeautifulSoup(html_file, 'lxml')
-        print(soup.prettify())
+        
+        source = requests.get(url).text
+        soup = BeautifulSoup(source, 'lxml')
+        
+        
+        
+        #print(soup.prettify())
         #match = soup.find('div', class_='footer')
         #for match in soup.find_all('div', class_='footer')
         
-        for link in GetLinks(html):
-            itemDict = {}
-            
-            for image in link.innerHtml:
-                itemDict['Title'] = img.alt
-                itemDict['ThumbURL'] = image.src
+        OutputPath = OutputDir+'/index'+str(i)+'.html'
+        print('OutputPath', OutputPath)
+        with open(OutputPath, 'w') as file:
+            file.write(soup.prettify())
+        
+        
+        #for link in GetLinks(html):
+        #    itemDict = {}
+        #    
+        #    for image in link.innerHtml:
+        #        itemDict['Title'] = img.alt
+        #        itemDict['ThumbURL'] = image.src
             
             
             
@@ -56,8 +67,7 @@ def GetIMDB(urlList, OutputDir):
     
     
     
-    with open(OutputDir+'/index.html', 'w') as file:
-        file.write(html)
+    
     
 def GetGoodReads(url, OutputDir):
     ExistingEntries = os.listdir(OutputDir)
