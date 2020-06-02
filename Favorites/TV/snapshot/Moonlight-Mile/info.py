@@ -8,7 +8,7 @@
             'Japanese&tv',
             'Sci-Fi&tv',
             'War&tv'],
- 'IMDB': 'NA',
+ 'IMDB': 'https://www.imdb.com/title/tt1485405',
  'PrimeWire': 'http://www.primewire.ag/tv-2766940-Moonlight-Mile',
  'Ratings': {'IMDB': 'N/A',
              'Metascore': 'N/A',

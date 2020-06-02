@@ -33,13 +33,24 @@ def GetLinks(html):
     pass #Do something with beautiful soup here
     
 def GetIMDB(url, OutputDir):
-    print('GetIMDB!', urlList, OutputDir)
+    print('GetIMDB!', url, OutputDir)
     #match = soup.find('div', class_='footer')
     #for match in soup.find_all('div', class_='footer')
     
+    Entries = {}
     ExistingEntries = os.listdir(OutputDir)
-    for folder in ExistingEntries:
-        pass
+    for Folder in ExistingEntries:
+        EntryFolder = OutputDir+'/'+Folder
+        if not os.path.isdir(EntryFolder):
+            continue
+        with open(EntryFolder+'/info.py', 'r') as file:
+            EntryText = file.read()
+        EntryObj = eval(EntryText)
+        EntryURL = EntryObj['IMDB']
+        print(EntryObj['Title'], EntryURL)
+        Entries[EntryURL] = EntryObj
+    return
+        
         
     source = requests.get(url).text
     soup = BeautifulSoup(source, 'lxml')

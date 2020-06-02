@@ -4,7 +4,7 @@
  'Description': '\r\n              Black Sails: Captain Flint and his pirates, twenty years prior to Robert Louis Stevenson\'s classic "Treasure Island".            ',
  'Director': ['NA'],
  'Genres': ['Action&tv', 'Adventure&tv', 'Drama&tv'],
- 'IMDB': 'http://www.imdb.com/title/tt2375692/?ref_=fn_a',
+ 'IMDB': 'http://www.imdb.com/title/tt2375692',
  'PrimeWire': 'http://www.primewire.ag/tv-2743738-Black-Sails',
  'Ratings': {'IMDB': '7.9/10',
              'Metascore': 'N/A',

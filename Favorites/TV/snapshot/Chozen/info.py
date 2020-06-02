@@ -4,7 +4,7 @@
  'Description': '\r\n              Chozen: Chozen is an animated comedy about its title character, "Chozen," a gay white rapper fresh out of prison. Armed with a new message, Chozen is on a quest for redemption and to claim his rightful position as the world\'s top rap artist. His music and lyrics take aim at the stereotypes of machismo and misogyny that is synonymous with rap music. And his new world view has been shaped by his time in prison.            ',
  'Director': [],
  'Genres': ['Animation&tv'],
- 'IMDB': 'NA',
+ 'IMDB': 'https://www.imdb.com/title/tt3221268',
  'PrimeWire': 'http://www.primewire.ag/tv-2743726-Chozen',
  'Ratings': {'IMDB': 'N/A',
              'Metascore': 'N/A',

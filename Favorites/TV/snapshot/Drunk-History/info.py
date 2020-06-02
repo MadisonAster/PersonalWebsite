@@ -4,7 +4,7 @@
  'Description': '\nDrunk History : UK comedians relate their favorite historical stories while getting absolutely bladdered on a mixture of beers, wines and spirits. Their slurred versions of history are then acted out, word for word, by a host of well-known actors, celebrities and comedians including Johnny Vegas, Russell Kane, Joe Lycett, Rob Beckett, Alex Horne and James Acaster. Luckily, Jimmy Carr is on voice-over duties to restore some order if the drinking sessions get out of hand. ',
  'Director': [],
  'Genres': ['Comedy&tv'],
- 'IMDB': 'NA',
+ 'IMDB': 'https://www.imdb.com/title/tt2712612',
  'PrimeWire': 'http://www.primewire.ag/tv-2756814-Drunk-History',
  'Ratings': {'IMDB': 'N/A',
              'Metascore': 'N/A',
