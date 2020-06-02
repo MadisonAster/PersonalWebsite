@@ -3,6 +3,7 @@ import urllib.request as urllib
 import traceback
 import datetime, time
 from pprint import pprint, pformat
+import json
 
 from bs4 import BeautifulSoup
 import requests
@@ -46,11 +47,16 @@ def GetIMDB(urlList, OutputDir):
         #for match in soup.find_all('div', class_='footer')
         
         jsonscript = soup.find('script', type="application/ld+json")
+        jsontext = jsonscript.contents[0]
+        jsonobj = json.loads(jsontext)
+        
+        pprint(jsonobj)
         
         OutputPath = OutputDir+'/index'+str(i)+'.html'
         print('OutputPath', OutputPath)
         with open(OutputPath, 'w') as file:
-            file.write(jsonscript.prettify())
+            #file.write(jsonscript.prettify())
+            file.write(pformat(jsonobj))
         
         
         #for link in GetLinks(html):
