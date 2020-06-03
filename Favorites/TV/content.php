@@ -24,6 +24,27 @@ foreach ($TVdirs as &$dir){
         $varName = str_replace("-", "", $folderName);
         
         
+        $json = file_get_contents($dir.'/entry.json');
+        $infoArray = json_decode($json, TRUE);
+        
+        /*
+        $json = file_get_contents($dir.'/entry.json');
+        $jsonIterator = new RecursiveIteratorIterator(
+            new RecursiveArrayIterator(json_decode($json, TRUE)),
+            RecursiveIteratorIterator::SELF_FIRST);
+        $infoArray = array();
+        foreach ($jsonIterator as $key => $val) {
+            if(is_array($val)) {
+                echo "$key:\n";
+                $infoArray[$key] = $val;
+            } else {
+                echo "$key => $val\n";
+                $infoArray[$key] = $val;
+            }
+        }
+        */
+        
+        /*
         if(file_exists($dir.'/info.php')){
             try {
                 include $dir.'/info.php';
@@ -34,9 +55,10 @@ foreach ($TVdirs as &$dir){
         } else {
             include './Favorites/TV/emptyinfo.php';
         };
+        */
         
-        if($infoArray['IMDB'] == 'NA'){
-            $infoArray['IMDB'] = 'http://www.imdb.com/find?ref_=nv_sr_fn&q='.str_replace("-", "+", $folderName).'&s=all';
+        if($infoArray['EntryURL'] == 'NA'){
+            $infoArray['EntryURL'] = 'http://www.imdb.com/find?ref_=nv_sr_fn&q='.str_replace("-", "+", $folderName).'&s=all';
         };
         
         $infoArray['Description'] = str_replace('\n', '', $infoArray['Description']);
@@ -55,65 +77,65 @@ foreach ($TVdirs as &$dir){
         echo "    <td style='width:150px;'>\n";
         echo "    <img src='./_Assets/150x225_loading.gif' psrc='./_Assets/150x225_loading.gif' rsrc='$dir/thumb.jpg'></img>\n";
         echo "    <div style='width:150px;height:80px;text-align:center;color:#FFFFFF;text-shadow: 2px 2px 0px rgba(0, 0, 0, 1.0);'>\n";
-        echo "    $movieName\n";
+        echo "    ".$infoArray['name']."\n";
         echo "    </div>\n";
         echo "    </td>\n";
         echo "    <td>\n";
         echo "    <div style='color:#FFFFFF;text-shadow: 2px 2px 0px rgba(0, 0, 0, 1.0);padding:20px;'>\n";
         
-        if ($infoArray['Description'] != 'NA' ){
-            echo "    ".$infoArray['Description']."\n";
+        if ($infoArray['description'] != 'NA' ){
+            echo "    ".$infoArray['description']."\n";
             echo "    <br/>\n";
             echo "    <br/>\n";
         };
         
-        if ($infoArray['Added'] != 'NA' ){
-            echo "    Added:\n";
-            echo "    ".$infoArray['Added']."\n";
-            echo "    <br/>\n";
-        };
+        #if ($infoArray['Added'] != 'NA' ){
+        #    echo "    Added:\n";
+        #    echo "    ".$infoArray['Added']."\n";
+        #    echo "    <br/>\n";
+        #};
         
-        if ($infoArray['Released'] != 'NA' ){
+        if ($infoArray['datePublished'] != 'NA' ){
             echo "    Released:\n";
-            echo "    ".$infoArray['Released']."\n";
+            echo "    ".$infoArray['datePublished']."\n";
             echo "    <br/>\n";
         };
         
-        if (sizeof($infoArray['Countries']) > 1) {
-            echo "    Countries:\n";
-            echo "    ".implode(", ", $infoArray['Countries'])."\n";
-            echo "    <br/>\n";
-        };
+        #if (sizeof($infoArray['Countries']) > 1) {
+        #    echo "    Countries:\n";
+        #    echo "    ".implode(", ", $infoArray['Countries'])."\n";
+        #    echo "    <br/>\n";
+        #};
         
-        echo "    Ratings:\n";
-        echo "    ".$infoArray['Ratings']['PrimeWire']." | \n";
-        echo "    <a target='_blank' href='".$infoArray['IMDB']."'>IMDB</a>\n";
-        echo "    ".$infoArray['Ratings']['IMDB']."\n";
-        echo "    <br/>\n";
+        #echo "    Ratings:\n";
+        #echo "    ".$infoArray['Ratings']['PrimeWire']." | \n";
+        #echo "    <a target='_blank' href='".$infoArray['EntryURL']."'>IMDB</a>\n";
+        #echo "    ".$infoArray['Ratings']['IMDB']."\n";
+        #echo "    <br/>\n";
         
-        if ($infoArray['Runtime'] != 'NA' ){
-            echo "    Runtime:\n";
-            echo "    ".$infoArray['Runtime']."\n";
-            echo "    <br/>\n";
-        };
+        #if ($infoArray['Runtime'] != 'NA' ){
+        #    echo "    Runtime:\n";
+        #    echo "    ".$infoArray['Runtime']."\n";
+        #    echo "    <br/>\n";
+        #};
         
-        if (sizeof($infoArray['Genres']) > 1) {
+        if (sizeof($infoArray['genre']) > 1) {
             echo "    Genres:\n";
-            echo "    ".implode(", ", $infoArray['Genres'])."\n";
+            echo "    ".implode(", ", $infoArray['genre'])."\n";
             echo "    <br/>\n";
         };
         
         echo "    <br/>\n";
         
-        if (sizeof($infoArray['Director']) > 1) {
+        if (sizeof($infoArray['director']) > 1) {
             echo "    Director:\n";
-            echo "    ".implode(", ", $infoArray['Director'])."\n";
+            echo "    ".implode(", ", $infoArray['director']['name'])."\n";
             echo "    <br/>\n";
         };
         
-        if (sizeof($infoArray['Actors']) > 1) {
+        if (sizeof($infoArray['actor']) > 1) {
             echo "    Actors:\n";
-            echo "    ".implode(", ", $infoArray['Actors'])."\n";
+            echo "    ".implode(", ", $infoArray['actor']['name'])."\n";
             echo "    <br/>\n";
         };
         
