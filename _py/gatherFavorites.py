@@ -52,6 +52,7 @@ def GetEntries(OutputDir):
         Entry['Entry_py'] = EntryPath+'/info.py'
         Entry['Entry_php'] = EntryPath+'/info.php'
         Entry['Entry_json'] = EntryPath+'/entry.json'
+        Entry['Entry_thumb'] = EntryPath+'/thumb.jpg'
         Entry['EntryURL'] = Entry['EntryURL'].replace('http://', 'https://').rstrip('/')
         Entries[Entry['EntryURL']] = Entry
     return Entries
@@ -60,21 +61,25 @@ def WriteEntries(Entries):
     for Entry in Entries.values():
         with open(Entry['Entry_json'], 'w') as file:
             file.write(json.dumps(Entry))
-        with open(Entry['Entry_py'], 'w') as file:
+        with open(Entry['Entry_py'], 'wb') as file:
             print('Writing', Entry['Entry_py'])
-            file.write(pformat(Entry))
+            file.write(bytes(pformat(Entry), 'utf-8'))
 
 def GetIMDBListData(url):
     ReturnList = []
+    jsonobj = GetIMDBItemData(url)
+    for item in jsonobj['about']['itemListElement']:
+        itemurl = 'https://www.imdb.com'+item['url'].rstrip('/')
+        ReturnList.append(itemurl)
+    return ReturnList
+    
+def GetIMDBItemData(url):
     source = requests.get(url).text
     soup = BeautifulSoup(source, 'lxml')
     jsonscript = soup.find('script', type="application/ld+json")
     jsontext = jsonscript.contents[0]
     jsonobj = json.loads(jsontext)
-    for item in jsonobj['about']['itemListElement']:
-        itemurl = 'https://www.imdb.com'+item['url'].rstrip('/')
-        ReturnList.append(itemurl)
-    return ReturnList
+    return jsonobj
 
 def TestData(Entries, URLList):
     for itemurl in URLList:
@@ -88,7 +93,6 @@ def SanitizeTitle(Title):
     Result = ''
     for i, a in enumerate(Title):
         if a.isalpha() or a.isdigit():
-            print(i)
             if i == 0:
                 Result += a.upper()
             elif Result[-1] == '-':
@@ -99,7 +103,7 @@ def SanitizeTitle(Title):
             Result += '-'
     return Result
 
-def GetIMDB(url, OutputDir):
+def GetIMDB(url, OutputDir, UpdateAll=False):
     print('GetIMDB!', url, OutputDir)
     #match = soup.find('div', class_='footer')
     #for match in soup.find_all('div', class_='footer')
@@ -108,28 +112,29 @@ def GetIMDB(url, OutputDir):
     URLList = GetIMDBListData(url)
     TestData(Entries, URLList)
     
-    
     for itemurl in URLList:
-        if itemurl not in Entries.keys():
-            source = requests.get(itemurl).text
-            soup = BeautifulSoup(source, 'lxml')
-            jsonscript = soup.find('script', type="application/ld+json")
-            jsontext = jsonscript.contents[0]
-            Entry = json.loads(jsontext)
-            Entry['Title'] = Entry['name']
-            Entry['EntryURL'] = itemurl
-            
-            EntryPath = OutputDir+'/'+SanitizeTitle(Entry['name'])
-            EntryPath = EntryPath.replace('\\','/').replace('//','/')
-            Entry['EntryPath'] = EntryPath
-            Entry['Entry_py'] = EntryPath+'/info.py'
-            Entry['Entry_php'] = EntryPath+'/info.php'
-            Entry['Entry_json'] = EntryPath+'/entry.json'
-            
-            os.makedirs(EntryPath)
-            
-            Entries[Entry['EntryURL']] = Entry
-            
+        if itemurl in Entries.keys():
+            Entry = Entries[itemurl]
+            EntryPath = Entry['EntryPath']
+        if itemurl not in Entries.keys() or UpdateAll:
+            Item = GetIMDBItemData(itemurl)
+            if itemurl not in Entries.keys():
+                EntryPath = OutputDir+'/'+SanitizeTitle(Item['name'])
+                EntryPath = EntryPath.replace('\\','/').replace('//','/')
+            Item['EntryURL'] = itemurl
+            Item['EntryPath'] = EntryPath
+            Item['Entry_py'] = EntryPath+'/info.py'
+            Item['Entry_php'] = EntryPath+'/info.php'
+            Item['Entry_json'] = EntryPath+'/entry.json'
+            Item['Entry_thumb'] = EntryPath+'/thumb.jpg'
+            if not os.path.exists(EntryPath):
+                os.makedirs(EntryPath)
+            Entry = Item #Overwrite possibly existing Entry reference here to update data
+        Entries[Entry['EntryURL']] = Entry
+        if not os.path.exists(Entry['Entry_thumb']):
+            jpg = urllib.urlopen(Entry['image'])
+            with open(Entry['Entry_thumb'], 'wb') as file:
+                file.write(jpg.read())
     WriteEntries(Entries)
     
     #OutputPath = OutputDir+'/index'+str(i)+'.html'
