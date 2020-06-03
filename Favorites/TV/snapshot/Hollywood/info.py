@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Hollywood/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Hollywood/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Hollywood/info.py',
- 'Title': 'Hollywood',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Hollywood/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'David Corenswet',
             'url': '/name/nm4825178/'},

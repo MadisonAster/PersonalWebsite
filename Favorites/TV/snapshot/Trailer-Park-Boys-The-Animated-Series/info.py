@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Trailer-Park-Boys-The-Animated-Series/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Trailer-Park-Boys-The-Animated-Series/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Trailer-Park-Boys-The-Animated-Series/info.py',
- 'Title': 'Trailer Park Boys: The Animated Series',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Trailer-Park-Boys-The-Animated-Series/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'John Paul Tremblay',
             'url': '/name/nm1033215/'},
@@ -37,19 +37,17 @@
  'keywords': 'based on live action tv series',
  'name': 'Trailer Park Boys: The Animated Series',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'justinhollander1990'},
-            'dateCreated': '2019-03-31',
+            'author': {'@type': 'Person', 'name': 'o-50702'},
+            'dateCreated': '2019-04-02',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt9814900/'},
-            'name': 'Trailer park boys meets adult swim',
-            'reviewBody': 'If your a fan of TPB AND ADULT swim cartoons, you '
-                          "won't be disappointed.\n"
-                          '\n'
-                          'Just classic stupid comedy.',
+            'name': 'The boys did again',
+            'reviewBody': 'Funny asf, whoever is complaining about swearing '
+                          'are not trailer park boy fans',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "Nova Scotia's favorite miscreants have always "

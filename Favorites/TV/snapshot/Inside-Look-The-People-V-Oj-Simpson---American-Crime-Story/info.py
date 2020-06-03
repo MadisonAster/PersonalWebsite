@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Inside-Look-The-People-V-Oj-Simpson---American-Crime-Story/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Inside-Look-The-People-V-Oj-Simpson---American-Crime-Story/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Inside-Look-The-People-V-Oj-Simpson---American-Crime-Story/info.py',
- 'Title': 'Inside Look: The People v. O.J. Simpson - American Crime Story',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Inside-Look-The-People-V-Oj-Simpson---American-Crime-Story/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Sarah Paulson',
             'url': '/name/nm0005299/'},
@@ -35,27 +35,48 @@
  'keywords': 'behind the scenes,making of',
  'name': 'Inside Look: The People v. O.J. Simpson - American Crime Story',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'streamy1980'},
-            'dateCreated': '2017-04-14',
+            'author': {'@type': 'Person', 'name': 'kitellis-98121'},
+            'dateCreated': '2018-07-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt6205862/'},
-            'name': 'Perfection in a miniseries',
-            'reviewBody': 'Wow, Wow this was simply perfection. Everyone or '
-                          'almost everyone knows the story of O.J...but not '
-                          'like this. It goes behind the scenes of each '
-                          'character and shows their raw emotion. Sarah '
-                          'Paulson as Marcia Clark was fantastic, Courtney B. '
-                          'Vance as Johnny Cochran was riveting and Sterling '
-                          'K. Brown as Christopher Darden was perfection. John '
-                          'Travolta, David Schwimmer, and Cuba Gooding Jr were '
-                          'all excellent as well. The acting is what makes the '
-                          'story. The subject matter is disturbing, the brutal '
-                          'deaths of Nicole Brown and Ronald Goldman are '
-                          'tragic and this does not make a mockery of their '
-                          'deaths.',
+            'name': 'Near-perfect recreation and dramatization of real events.',
+            'reviewBody': 'Excellent series. One of the best, and most '
+                          "accurate, dramatizations of real events I've ever "
+                          'seen.\n'
+                          '\n'
+                          'I was 20 years old when the real trial was '
+                          'happening, and like the rest of the world I was '
+                          'glued to my TV screen for the whole event. So when '
+                          'I started watching this dramatization, I was '
+                          'immediately transported back to that time. \n'
+                          '\n'
+                          'As I watched the series through (for the first '
+                          'time), I was so blown away by its historical '
+                          'accuracy that I decided to simultaneously re-watch '
+                          'the corresponding real archive footage on Youtube '
+                          'after each episode, and could find no fault with '
+                          'the dramatized version.\n'
+                          '\n'
+                          "I've just finished re-watching this series again, "
+                          'after a long gap, without additional archive '
+                          'viewing, and it surprised me how much my mind has '
+                          'inadvertently merged the real events with the '
+                          'dramatized ones, to the point that I can no longer '
+                          'reliably separate the two. That, for me, '
+                          'demonstrates how successful the filmmakers were in '
+                          'their recreations.\n'
+                          '\n'
+                          'The only thing that lets the dramatized version '
+                          'down is the casting of Cuba Gooding Jr, which '
+                          'despite an unsurprisingly mesmerising performance, '
+                          'is nevertheless unconvincing due to the total lack '
+                          'of any resemblance to the real OJ. But that is a '
+                          'minor gripe in an otherwise exceptional drama '
+                          'series. From start to finish this was a gripping '
+                          'and utterly rewarding show.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'url': '/title/tt6205862/'}

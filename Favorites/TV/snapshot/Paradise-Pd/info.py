@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Paradise-Pd/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Paradise-Pd/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Paradise-Pd/info.py',
- 'Title': 'Paradise PD',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Paradise-Pd/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Sarah Chalke',
             'url': '/name/nm0149950/'},
@@ -41,21 +41,26 @@
  'keywords': 'cop,cop comedy,adult cartoon,netflix original,ineptitude',
  'name': 'Paradise PD',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'nickspiros'},
-            'dateCreated': '2018-09-28',
+            'author': {'@type': 'Person', 'name': 'ericschi'},
+            'dateCreated': '2020-03-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt8235236/'},
-            'name': 'Mirroring Brickleberry (as already pointed out)',
-            'reviewBody': "It's essentially the same characters from "
-                          'Brickleberry in another universe, yet it still '
-                          'works and works well! The show does not shy away '
-                          'from admitting this either. Very goofy/quirky adult '
-                          'cartoon comedy that really goes for it-akin to '
-                          'South Park, Family Guy, Brickleberry and Archer. '
-                          'Great show to unwind to!',
+            'name': 'S2 to S1 is like the Hobbit vs LotR',
+            'reviewBody': 'Absolutely loved season 1. It was gross, vile, '
+                          'simple and lovely fart humor. The storyline was '
+                          'continous throughout the season. The characters '
+                          'mostly had their own arch and developed as the '
+                          "story went on. While it's certainly not for "
+                          'everyone, I loved it.\n'
+                          '\n'
+                          'Then season 2 happened. All the characters were '
+                          'flat, repetitive and one dimensional. The story was '
+                          'a weaker variant of s1, just worse. It offered '
+                          'nothing new and basically is a watered down version '
+                          'of s1. Shame, had hoped for more.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '4',
                              'worstRating': '1'}},
  'url': '/title/tt8235236/'}

@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Santa-Clarita-Diet/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Santa-Clarita-Diet/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Santa-Clarita-Diet/info.py',
- 'Title': 'Santa Clarita Diet',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Santa-Clarita-Diet/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Drew Barrymore',
             'url': '/name/nm0000106/'},
@@ -41,23 +41,34 @@
              'relationships',
  'name': 'Santa Clarita Diet',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'black_red_89'},
-            'dateCreated': '2019-04-27',
+            'author': {'@type': 'Person', 'name': 'Nightmarelogic'},
+            'dateCreated': '2017-02-03',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5580540/'},
-            'name': 'Please, do NOT cancel this show!',
-            'reviewBody': "For anyone who's followed the show for the past 3 "
-                          'seasons, I do not need to even explain why this '
-                          'show is way too good to be cancelled at this point. '
-                          'Meanwhile, other shows with not even half the '
-                          'talent and script continue on air. I hope this '
-                          "decision gets reconsidered, the show and it's cast "
-                          'as well as fans deserve better than this. I am '
-                          'thouroughly dissapointed.',
+            'name': 'Think Desperate Housewives meets Weeds Meets Dexter',
+            'reviewBody': "I don't usually like comedies but this one was so "
+                          'deliciously dark that I found it more then a little '
+                          'amusing. Barrymore and Olyphant have great '
+                          'chemistry and are believable as a long married wife '
+                          'and husband. The actress who plays their teenage '
+                          "daughter is great as well because she isn't on "
+                          'either end of the annoying teenager on TV scale. '
+                          'Instead she reacts convincingly like you would '
+                          'believe a teenager would in (an admittingly) an '
+                          'unusual situation like she finds herself in. \n'
+                          '\n'
+                          "Of course this show won't be to everyones....uhhh "
+                          'appetite. It plays murder and cannibalism for '
+                          'laughs and those with a weak stomach and ears that '
+                          'bleed at cussing will get turned away pretty '
+                          'quickly. However this is a genuinely sweet and '
+                          'funny comedy about what it means to be a family and '
+                          'the lengths people will go to protect the lives and '
+                          'loves they have.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'True love never dies? "Santa Clarita Diet" Season '

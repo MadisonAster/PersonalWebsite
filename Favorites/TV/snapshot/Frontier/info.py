@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Frontier/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Frontier/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Frontier/info.py',
- 'Title': 'Frontier',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Frontier/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Jason Momoa',
             'url': '/name/nm0597388/'},
@@ -38,24 +38,28 @@
  'keywords': 'canada,historical,first nations,red coat,biracial',
  'name': 'Frontier',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'becaangel'},
-            'dateCreated': '2020-03-10',
+            'author': {'@type': 'Person', 'name': 'NikkiFromSiberia'},
+            'dateCreated': '2019-03-01',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4686698/'},
-            'name': 'A new fan!',
-            'reviewBody': "I was not a Momoa's fan by any means... But I found "
-                          'this series in netflix and I gave it a chance... I '
-                          "was very impressed but with his acting... He's "
-                          'great in it.... His voice, tone, physical language '
-                          "is on point... The only think I'm disappointed is "
-                          'the actress that play "Grace"... She has cero '
-                          'chemistry with Jason and their scenes are dull and '
-                          "boring because of that.They should've choose "
-                          'someone with chemistry with Jason.',
+            'name': 'Fairly entertaining show based in the canadian wilderness '
+                    "in the 1700's",
+            'reviewBody': 'I watch a lot of period/historical tv shows and '
+                          "this is one of the good ones. Now it's not perfect, "
+                          'the costumes are absolutely ridiculous and cheaply '
+                          'made, the dialogue can be anachronistic at times '
+                          'but i like the setting. The Hudson Bay is where the '
+                          'action takes place, far up in the Canadian north. '
+                          'The characters are quite well fleshed even though '
+                          "they can be a little too 'good guy' vr 'very bad "
+                          "guy'. But all in all i did enjoy it and if you're "
+                          "in the market for a historical tv show that's more "
+                          'focused on action than loads of dialogue than check '
+                          'this out.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'While Harp pursues Lord Benton to rescue Grace, '

@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Outlander/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Outlander/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Outlander/info.py',
- 'Title': 'Outlander',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Outlander/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Caitriona Balfe',
             'url': '/name/nm1495520/'},

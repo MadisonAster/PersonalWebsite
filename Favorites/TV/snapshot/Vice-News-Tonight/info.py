@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vice-News-Tonight/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vice-News-Tonight/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vice-News-Tonight/info.py',
- 'Title': 'Vice News Tonight',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vice-News-Tonight/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Arielle Duhaime-Ross',
             'url': '/name/nm9906955/'},
@@ -40,10 +40,15 @@
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt6329790/'},
-            'name': 'VICE News',
-            'reviewBody': 'Iowa residents (right side of history-ers)* Check '
-                          'out my Instagram post about what the Dixie line '
-                          'actually is/was....',
+            'name': 'VICE Newwwws',
+            'reviewBody': 'No one helped me with my writing or "game" I '
+                          'developed any useful penchant for writing and '
+                          'talking to people against people actively doing '
+                          "physical damage and ironic harm to me. They've "
+                          'stolen my internet tools and violated my privey and '
+                          'privacy for years. I would not consent to '
+                          'vidaselect using any of my writing and I did not '
+                          "emulate or copy anyone else's text.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Lucifer/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Lucifer/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Lucifer/info.py',
- 'Title': 'Lucifer',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Lucifer/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Tom Ellis', 'url': '/name/nm0255124/'},
            {'@type': 'Person',
             'name': 'Lauren German',
@@ -40,19 +40,26 @@
  'keywords': 'devil,female police detective,fallen angel,the devil,lapd',
  'name': 'Lucifer',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'pmelrose524'},
-            'dateCreated': '2018-05-14',
+            'author': {'@type': 'Person', 'name': 'amandamattavelli'},
+            'dateCreated': '2018-05-17',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4052886/'},
-            'name': '#SaveLucifer #PickUpLucifer',
-            'reviewBody': '#SaveLucifer #PickUpLucifer\n'
-                          '\n'
-                          'One of the best shows around. It deserves to '
-                          'continue right where it left off.',
+            'name': 'A devil of his own',
+            'reviewBody': 'Lucifer is s show like no others. It is drama, '
+                          "procedural, comedy, fantasy. It 's full of funny "
+                          'lines and references to other shows/songs/movies '
+                          'You have to be smart to keep up.  The cast is '
+                          'awesome, Tom Ellis on top . After 3 seasons, it was '
+                          'unexpectedly cancelled by Fox, leaving us wuth a '
+                          'huge cliffhanger and so many points to be covered. '
+                          'The massive campaign #savelucifer #PickUpLucifer is '
+                          'sustaining the return of the show for a darker, '
+                          'powerful and supernatural season.   We hope to '
+                          'succeed to have our Devil back . We deserve it',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Reeling from the aftermath of Chloe seeing his '

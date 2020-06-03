@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-West-Wing/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-West-Wing/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-West-Wing/info.py',
- 'Title': 'The West Wing',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-West-Wing/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Martin Sheen',
             'url': '/name/nm0000640/'},

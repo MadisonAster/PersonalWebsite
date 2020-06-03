@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Oa/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Oa/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Oa/info.py',
- 'Title': 'The OA',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Oa/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Brit Marling',
             'url': '/name/nm1779870/'},
@@ -44,20 +44,32 @@
              'power,psychotronic series',
  'name': 'The OA',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ipwee'},
-            'dateCreated': '2019-03-27',
+            'author': {'@type': 'Person', 'name': 'pavonharten'},
+            'dateCreated': '2019-08-20',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4635282/'},
-            'name': "Well, that's a surprise.",
-            'reviewBody': 'The second season is better than the first. I felt '
-                          'the first season was a bit drawn out. The second '
-                          'season had me riveted for the entire run. Excellent '
-                          'premise, acting, and camera work. Hopefully, a '
-                          'third season is on the docket.',
+            'name': "Hands down the most PHENOMENAL show I've ever seen.",
+            'reviewBody': 'The OA is without a doubt my favorite show on '
+                          'Netflix. Not only is it a great story, but a very '
+                          "necessary one for this day and age. It's a clever, "
+                          'strange, mind-bending puzzle box with no shortage '
+                          'of theories to discuss, while also touching on the '
+                          'deeper aspects of humanity and our spiritual '
+                          'connection to one another. Every fan who loves it '
+                          'will tell you personal stories of how it has '
+                          'impacted their lives--healing from trauma, teaching '
+                          'us the value of patience, giving us faith and '
+                          'strength, challenging us to believe in the power of '
+                          'storytelling. I recommend this show to everyone I '
+                          "meet, because it's far more than just a show. It's "
+                          "an experience. Definitely worth a watch if you've "
+                          'never seen it, and I can pretty much guarantee that '
+                          "if you enjoy it, you'll want to watch it a hundred "
+                          'more times.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'OA successfully jumps dimensions but finds '

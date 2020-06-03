@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Russian-Doll/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Russian-Doll/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Russian-Doll/info.py',
- 'Title': 'Russian Doll',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Russian-Doll/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Natasha Lyonne',
             'url': '/name/nm0005169/'},
@@ -48,22 +48,53 @@
              'woman,jewish woman',
  'name': 'Russian Doll',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'saikahei'},
-            'dateCreated': '2019-02-01',
+            'author': {'@type': 'Person', 'name': 'AristarchosTheArchivist'},
+            'dateCreated': '2019-02-02',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt7520794/'},
-            'name': 'I quite liked it',
-            'reviewBody': 'After two episodes I was hooked. I did get a bit '
-                          "scared at a point, but I'm a wuss. Really enjoyable "
-                          "all throughout. Doesn't really have anything to do "
-                          'with Groundhog day, apart from the timeloop thing. '
-                          "Reviewers who claim so haven't watched more than 1 "
-                          "episode and shouldn't be taken seriously.",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
+            'name': 'This is not a comedy (fortunately).',
+            'reviewBody': 'Wow. What a ride. This series compelled me to '
+                          'reactivate my account to write a review.\n'
+                          '\n'
+                          'First of all - please do not expect laugh out loud '
+                          'comedy. This is a very dark and sometimes very '
+                          'unpleasant series. Yet, it is sometimes hilarious '
+                          'in its own way.\n'
+                          '\n'
+                          'The story of Russian Doll is based on a now often '
+                          'used device, granted. But it is by no means '
+                          'formulaic. In fact, there are so many twists and '
+                          'turns in the development section of the 8 episodes, '
+                          'you will be glued to the screen.\n'
+                          '\n'
+                          "Some people didn't like the main character, calling "
+                          'her nasty and unpleasant. But this is the point of '
+                          'the series! She is a deeply troubled person. But '
+                          'trust me, she will become likeable soon enough - '
+                          'and stay tuned for the arrival of another main '
+                          'character (played by Charlie Barnett), who totally '
+                          'makes up for everything cringeworthy the '
+                          'potty-mouthed character played by Natasha Lyonne '
+                          'did until this point.\n'
+                          '\n'
+                          'In the end, I promise you, you will have watched a '
+                          'cathartic experience that will leave you very '
+                          'happy.\n'
+                          '\n'
+                          'On the technical level, Russian Doll is unusually '
+                          'well shot. The lighting reminds me of classic Mario '
+                          'Bava movies (I think this is intentional), and the '
+                          'music is very well sought.\n'
+                          '\n'
+                          'So, go watch this, and please watch beyond episode '
+                          '3, you will thank me later.\n'
+                          '\n'
+                          'If only all takes on old plot devices were this '
+                          'awesome! Netflix, you need to give us more like '
+                          'this, not that narcissistic crap that so often pops '
+                          'up lately (Girl Boss, Insatiable with TRULY '
+                          'unlikeable characters).'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Russian Doll: Season 1',
              'embedUrl': '/video/imdb/vi459521305',

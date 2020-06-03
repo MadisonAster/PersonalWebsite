@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Ozark/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Ozark/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Ozark/info.py',
- 'Title': 'Ozark',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Ozark/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Jason Bateman',
             'url': '/name/nm0000867/'},
@@ -42,35 +42,19 @@
  'keywords': 'netflix original,missouri,mexico,drug cartel,financial advisor',
  'name': 'Ozark',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'andarasean-00995'},
-            'dateCreated': '2017-07-23',
+            'author': {'@type': 'Person', 'name': 'laragi'},
+            'dateCreated': '2020-05-05',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5071412/'},
-            'name': 'Netflix scores again with Ozark',
-            'reviewBody': 'To say this series is intense would be an '
-                          'understatement. Be warned: Ozark is not family '
-                          'friendly as it has a multitude of graphic violence, '
-                          'nudity, mature language and sexual themes. Not for '
-                          'children. I am not a big fan of contemporary '
-                          "dramas, but it was Jason Bateman's outstanding "
-                          'performance in The Gift that led me to check out '
-                          'Ozark. And his character Marty Byrde delivers the '
-                          'same smug arrogance as a finance adviser turned '
-                          'greedy money launderer whose circumstances hurdles '
-                          'the patriarch into survival mode, which is tested '
-                          'repeatedly. Laura Linney is brilliant as his '
-                          'unfaithful/neglected wife Wendy Byrde who proves '
-                          'she is as much as an urbane grifter as her husband. '
-                          'Everyone in the cast delivered superb performances. '
-                          'The drama-charged first episode managed to pull me '
-                          'into the entire series and although some of the '
-                          'plot seems downright incredible (disbelief) I was '
-                          'captivated until the end. Look forward to a second '
-                          'season.',
+            'name': 'Very unique. Terrific Actors',
+            'reviewBody': 'I never would have watched this if not for the '
+                          "quarantine. It wasn't promoted well. I LOVED IT! "
+                          'Great script, tons of action and characters that '
+                          'you love to hate and hate to love.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Official Trailer for Ozark Season 3. All new '

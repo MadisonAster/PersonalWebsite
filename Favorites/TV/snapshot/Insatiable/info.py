@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Insatiable/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Insatiable/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Insatiable/info.py',
- 'Title': 'Insatiable',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Insatiable/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Dallas Roberts',
             'url': '/name/nm1316767/'},
@@ -38,20 +38,29 @@
  'keywords': 'beauty pageant,teenage girl,weight loss,lawyer,high school',
  'name': 'Insatiable',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'marhruby'},
-            'dateCreated': '2018-08-10',
+            'author': {'@type': 'Person', 'name': 'dawn14847'},
+            'dateCreated': '2018-08-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt6487482/'},
-            'name': "It's not offensive.",
-            'reviewBody': "I'm politically extremely liberal. I'm from the "
-                          "Silicon Valley for Christ's sake. I was extremely "
-                          "fat in high school. And I didn't think it was "
-                          "offensive at all. It's a SATIRICAL take on the "
-                          "pageant world and teen angst. If you're offended by "
-                          'this show you need to take the stick out of your '
-                          'butt. The show is MEANT to be ridiculous and dark. '
-                          'Come on now for goodness sakes lol.',
+            'name': "I don't understand what people's problems are",
+            'reviewBody': 'I found this to be funny, well written, and filled '
+                          'with fantastic actors. The storyline is original '
+                          'and deals with a lot of issues that other shows '
+                          "won't touch.  It seems that people saw the trailer "
+                          'and drew their own conclusions without actually '
+                          'watching it, and those that did watch took the '
+                          'choice to see what they wanted to see - they saw '
+                          "that a 'fat' girl was being bullied and had her "
+                          "problems solved by becoming 'thin', I saw a girl "
+                          'that lost the weight that society thought she '
+                          "should only to find that it didn't solve anything "
+                          'and actually things became worse, but as this is '
+                          'dealt with a dry sense of humour a lot of people '
+                          "didn't get this. \n"
+                          '\n'
+                          'If you liked Drop Dead Gorgeous than this is the '
+                          'show for you!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

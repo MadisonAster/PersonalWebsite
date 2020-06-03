@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/New-Girl/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/New-Girl/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/New-Girl/info.py',
- 'Title': 'New Girl',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/New-Girl/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Zooey Deschanel',
             'url': '/name/nm0221046/'},
@@ -42,38 +42,22 @@
              'wears eyeglasses',
  'name': 'New Girl',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'crknt'},
-            'dateCreated': '2012-03-10',
+            'author': {'@type': 'Person', 'name': 'milesmama-13566'},
+            'dateCreated': '2020-04-30',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1826940/'},
-            'name': 'Probably one of the funniest series',
-            'reviewBody': "I think it is a very good show. It's been a while "
-                          "since I laughed that hard. I'd like to address a "
-                          'lot of the other reviews saying that it is not '
-                          'funny and unrealistic.\n'
-                          '\n'
-                          'I feel that people rating this show badly have just '
-                          'been formatted by all the other series and movies. '
-                          'They are expecting a deep story and realism... I '
-                          'think they may have been mislead by Zooey Deschanel '
-                          'thinking it was going to be a lot more mature. It '
-                          "doesn't differ much from the big bang theory or How "
-                          'I Met your Mother in term of style. If anything it '
-                          "is better. But I don't see how you can not "
-                          'appreciate these characters. Saying they are '
-                          'unrealistic is like saying the ocean is full of '
-                          "water... It's a comedy TV show, not real life. So "
-                          "it's not a valid point in my opinion.\n"
-                          '\n'
-                          'You should take it for what it is. They are very '
-                          "caricatured characters but it doesn't stop you from "
-                          'getting attached to their unique personality. I '
-                          "hope people don't get discouraged from giving it a "
-                          'chance because of the low reviews.',
+            'name': 'Surprisingly Solid',
+            'reviewBody': 'Watched during pandemic lockdown, and have to give '
+                          "credit where it's due! Didnt anticipate it to be so "
+                          'good. And though I wanted to binge this, I watched '
+                          'over a few weeks and it really was awesome. Bummed '
+                          'I dont have any more to watch! Probably going to '
+                          'join the select few I have in rotation for '
+                          'rewatching. Give it a shot',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi1436923417',

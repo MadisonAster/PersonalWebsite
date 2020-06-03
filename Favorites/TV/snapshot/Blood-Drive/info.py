@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Blood-Drive/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Blood-Drive/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Blood-Drive/info.py',
- 'Title': 'Blood Drive',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Blood-Drive/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Alan Ritchson',
             'url': '/name/nm2024927/'},
@@ -37,28 +37,24 @@
  'keywords': 'grindhouse series,dystopia,exploding head,ex cop,car racing',
  'name': 'Blood Drive',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'chrisdye-62271'},
-            'dateCreated': '2017-08-31',
+            'author': {'@type': 'Person', 'name': 'jayme-16433'},
+            'dateCreated': '2017-06-15',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4898282/'},
-            'name': 'stupid but somehow keeps your interest',
-            'reviewBody': 'o gotta say after watching a couple of episodes of '
-                          'this show yes it is stupid no it does not make '
-                          'since but it keeps you entertained some how this is '
-                          'full of action car chases gun fights hand to hand '
-                          'combat who really cares about the lack of plot when '
-                          'there is this much going on in the show the villain '
-                          'is just a special brand of evil hes a heartless '
-                          "jackass and completely insane but that's exactly "
-                          'the reason why you love him oh yea one last thing '
-                          "Don't LET THIS BE WATCHED BY KIDS wayyyy too much "
-                          'blood and constant swearing not to mention some '
-                          'sexual content so its rated TV ma for all the right '
-                          'reasons but is awesome to watch some how',
+            'name': 'Yes - everything about this show is just yes!',
+            'reviewBody': 'The first episode was everything I could have '
+                          'possibly asked for. Purely amazing! And Julian '
+                          "Slink is one of the most riveting characters I've "
+                          'ever seen on TV - like Hannibal Lecter, the Mad '
+                          'Hatter and Mystery Man (from Lost Highway) had a '
+                          'baby together.\n'
+                          '\n'
+                          "I can't wait to see next week's episode. I love "
+                          'this show!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Blood Drive: Booby Traps',

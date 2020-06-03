@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Greys-Anatomy/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Greys-Anatomy/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Greys-Anatomy/info.py',
- 'Title': "Grey's Anatomy",
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Greys-Anatomy/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Ellen Pompeo',
             'url': '/name/nm0690186/'},
@@ -41,32 +41,42 @@
  'keywords': 'surgeon,hospital,lesbian,work romance,surgery',
  'name': "Grey's Anatomy",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'HaloFive00'},
-            'dateCreated': '2006-04-30',
+            'author': {'@type': 'Person', 'name': 'TxMike'},
+            'dateCreated': '2005-05-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0413573/'},
-            'name': 'Addictive show',
-            'reviewBody': "Grey's Anatomy is a surprisingly addictive show. "
-                          'The plot lines are an interesting blend of soap '
-                          "opera, drama, and comedy--it's not really like "
-                          'anything else, but at the same time, it '
-                          "occasionally feels pedestrian. However, it's very "
-                          'well done--good writing, great acting, and well '
-                          'directed. \n'
+            'name': 'More interesting than the usual TV "doctor" soap series.',
+            'reviewBody': 'This new to 2005 TV series focuses on the lives of '
+                          'a group of young, new surgical residents in '
+                          'Seattle. The title character is Dr. Meredith Grey, '
+                          'whose mother, now in early dementia, was a renowned '
+                          'surgeon. The young Dr. Grey is played by Ellen '
+                          'Pompeo, a fairly experienced young actress who has '
+                          'a face that is more interesting than beautiful, but '
+                          'her acting is believable, making her a good choice '
+                          'for the role. All the others think she may be '
+                          'getting preferred treatment, but we see that she '
+                          'appears to be a gifted doctor.\n'
                           '\n'
-                          'Sandra Oh stands out for her comic timing, but the '
-                          "entire cast is superb. It's not as grave as ER, but "
-                          "is just as compelling. Also, it's a little more "
-                          'accessible than ER and some of the more serious '
-                          'medical dramas. The show is definitely worth '
-                          "catching--if you can't watch it when it airs, TiVo "
-                          "it or rent the first season DVD. It's well worth "
-                          "the time spent! It's great for marathon viewings!",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
+                          'The good ensemble cast includes quite a few, but I '
+                          'have three other favorites. Sandra Oh plays Dr. '
+                          'Yang, ambitious, always trying to get picked to '
+                          'assist in surgery, and in recent episodes has begun '
+                          'a clandestine affair with Dr Burke (Houstonian '
+                          'Isaiah Washington), one of members of the surgical '
+                          'team. The other is Chandra Burke, another '
+                          "Houstonian, as the 'nazi' Dr. Miranda Bailey. She "
+                          'is in charge of the new residents, and makes them '
+                          'understand early that when she is sleeping, they '
+                          'should only disturb her if someone is on the verge '
+                          'of death. She really is a good and kind character, '
+                          'but she has to play it tough to establish '
+                          'boundaries.\n'
+                          '\n'
+                          'So far I have only seen two or three episodes, but '
+                          'they have been interesting, well-written, and '
+                          'well-acted. Not the usual "doctor" soap series.'},
  'trailer': {'@type': 'VideoObject',
              'description': "Trailer for Season 12 of Grey's Anatomy from ABC.",
              'embedUrl': '/video/imdb/vi17412889',

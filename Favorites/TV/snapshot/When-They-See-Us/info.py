@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/When-They-See-Us/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/When-They-See-Us/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/When-They-See-Us/info.py',
- 'Title': 'When They See Us',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/When-They-See-Us/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Asante Blackk',
             'url': '/name/nm10040186/'},

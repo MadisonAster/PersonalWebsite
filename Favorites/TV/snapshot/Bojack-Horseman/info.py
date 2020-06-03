@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Bojack-Horseman/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Bojack-Horseman/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Bojack-Horseman/info.py',
- 'Title': 'BoJack Horseman',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Bojack-Horseman/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Will Arnett',
             'url': '/name/nm0004715/'},
@@ -42,28 +42,27 @@
              'animal',
  'name': 'BoJack Horseman',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'fanofmoststuff'},
-            'dateCreated': '2018-04-04',
+            'author': {'@type': 'Person', 'name': 'annabaloo'},
+            'dateCreated': '2018-04-14',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3398228/'},
-            'name': '#211 in Top Rated TV shows on this site but is much '
-                    'better than that.',
-            'reviewBody': 'If you can get past the first three episodes will '
-                          'be witnessing a hell of a show. As they say with '
-                          'mental issues, "It gets better". And it sure does. '
-                          'This show is funny and emotional. They make you '
-                          'feel bad for characters out of your species, '
-                          'gender, and age range. Watching this made me '
-                          "relatable to characters I'd never expect to relate "
-                          "since they're so grounded. It's a bit over the top "
-                          'at times but it IS an animated show. Watch it and '
-                          "you'll get amazing fleshed out characters and "
-                          'stories that will make you think about life and '
-                          'your choices.',
+            'name': 'This show! Is! Too much! Man!',
+            'reviewBody': 'Seriously though. Best show currently on '
+                          'television.  At first, I thought it was another '
+                          'cartoon for adults only with poor drawings. But '
+                          "it's not. It's different. For one, the jokes are "
+                          'funnier and the sads are sadder. The first season '
+                          'starts out more of a plain funny show, but beware '
+                          'this show will break your heart if you stick with '
+                          "it.  It is also a really clever show - I'm sure "
+                          "that I'm not smart enough to catch all the "
+                          'references but sometimes I get the jokes and that '
+                          'feels good.  Also, this show may be one of the '
+                          'depictions of depression on TV and movies ever.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'See how it all ends. The final episodes of '

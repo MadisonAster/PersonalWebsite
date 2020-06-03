@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Jane-The-Virgin/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Jane-The-Virgin/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Jane-The-Virgin/info.py',
- 'Title': 'Jane the Virgin',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Jane-The-Virgin/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Gina Rodriguez',
             'url': '/name/nm1752221/'},

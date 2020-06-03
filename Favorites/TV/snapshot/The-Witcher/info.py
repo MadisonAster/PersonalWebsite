@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Witcher/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Witcher/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Witcher/info.py',
- 'Title': 'The Witcher',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Witcher/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Henry Cavill',
             'url': '/name/nm0147147/'},

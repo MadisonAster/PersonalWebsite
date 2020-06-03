@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Trailer-Park-Boys/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Trailer-Park-Boys/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Trailer-Park-Boys/info.py',
- 'Title': 'Trailer Park Boys',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Trailer-Park-Boys/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'John Paul Tremblay',
             'url': '/name/nm1033215/'},
@@ -36,35 +36,55 @@
  'keywords': 'trailer park,poverty,group of friends,mockumentary,trailer home',
  'name': 'Trailer Park Boys',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Muscle-3'},
-            'dateCreated': '2004-09-14',
+            'author': {'@type': 'Person', 'name': 'vampyrecowboy'},
+            'dateCreated': '2004-04-26',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0290988/'},
-            'name': 'Best Show Ever!',
-            'reviewBody': "You either love this show or hate it. I don't know "
-                          "how you could possible hate it - it's full of site "
-                          "gags and great one-liners! I reiterate - I don't "
-                          'understand how someone could hate it.\n'
+            'name': 'This is FRUCKING hilarious.',
+            'reviewBody': "I've seen this show only a few times and it is "
+                          'absolutely hilarious. The first time I saw it I was '
+                          "insulted, but after seeing it because i couldn't "
+                          'pick up anything else on the tv, I really enjoyed '
+                          'it.\n'
                           '\n'
-                          'In the show Jim Lahey has some of the best lines '
-                          'ever! "We\'re about to head into a sh** typhon '
-                          'Randy, you better haul in the sails before they get '
-                          'covered in sh**" -- Jim Lahey\n'
+                          'I would like to see more spin offs from a show like '
+                          'this. This is Melrose Place or 90210 on Welfare and '
+                          'it freakingly hilarious.\n'
                           '\n'
-                          'The only thing that is unfortunate about this show '
-                          'is that they only produce 8 eps per season (except '
-                          'for Season 5 which has 10 episodes).\n'
+                          'The cast is very classic characters. The dialogue '
+                          'is cheesey and trite, but it all fits in '
+                          'perfectly.\n'
                           '\n'
-                          'This show is better than sliced bread and I can '
-                          'watch the episodes over and over again!\n'
+                          'The entire production is cheap, but made to be '
+                          'purposely done that way...and it comes off great. '
+                          'There are few comedies that are not Hollywood '
+                          'formula and this is one.\n'
                           '\n'
-                          'People complain about Canadian shows sucking -- TPB '
-                          'was picked up in the US!! It must be worthwhile! \n'
+                          'I can only state that for Canadian programming, '
+                          'this is far better than any "road To Avonlea" type '
+                          'programming.\n'
                           '\n'
-                          'Keep up the great work TPB!\n'
+                          'Lately Canadian television series have become very '
+                          'edgy and have defined characters with unique '
+                          "definition...and it's about time.\n"
                           '\n'
-                          'Zack'},
+                          "It's time that comedy has gotten away from the "
+                          '"FRIENDS" and "FRASIER" type lame ass comedy '
+                          'writing and became creative like this show.\n'
+                          '\n'
+                          'I look for more series episodes and possibly a '
+                          'feature movie too.\n'
+                          '\n'
+                          "I've had the opportunity to live in a trailer park "
+                          'for several months in Florida, Arizona, Utah, New '
+                          'Mexico and British Columbia...I can easily relate '
+                          'to some of the characters that I have met in this '
+                          'series to real life people.\n'
+                          '\n'
+                          'Fantastic view of a very unique position of life.\n'
+                          '\n'
+                          'Awesome job.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Season 10 trailer for Trailer Park Boys on '
                             'Netflix.',

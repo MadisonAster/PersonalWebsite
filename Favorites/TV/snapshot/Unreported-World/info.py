@@ -1,23 +1,48 @@
-{'Actors': ['Jonathan Miller&tv'],
- 'Added': '2011-11-09',
- 'Countries': ['UK'],
- 'Description': '\n'
-                "Unreported World: Unreported World is Channel 4's "
-                'award-winning foreign affairs strand taking a look at '
-                'different stories from around the world. ',
- 'Director': [],
+{'@context': 'http://schema.org',
+ '@type': 'TVSeries',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Unreported-World',
  'EntryURL': 'https://www.imdb.com/title/tt0477545',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Unreported-World/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Unreported-World/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Unreported-World/info.py',
- 'Genres': ['Documentary&tv'],
- 'Ratings': {'IMDB': '8.4/10',
-             'Metascore': 'N/A',
-             'PrimeWire': '4.25/5',
-             'RT': 'N/A',
-             'Votes': '32'},
- 'Released': '2000-09-08',
- 'Runtime': '25 mins ',
- 'ThumbURL': 'http://images.primewire.ag/thumbs/524577_Unreported_World_2001.jpg',
- 'Title': 'Unreported-World'}
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Unreported-World/thumb.jpg',
+ 'actor': [{'@type': 'Person',
+            'name': 'Krishnan Guru-Murthy',
+            'url': '/name/nm0348775/'},
+           {'@type': 'Person',
+            'name': 'Marcel Theroux',
+            'url': '/name/nm2039102/'},
+           {'@type': 'Person',
+            'name': 'Seyi Rhodes',
+            'url': '/name/nm1461002/'},
+           {'@type': 'Person',
+            'name': 'Ade Adepitan',
+            'url': '/name/nm1583979/'}],
+ 'aggregateRating': {'@type': 'AggregateRating',
+                     'bestRating': '10.0',
+                     'ratingCount': 99,
+                     'ratingValue': '8.3',
+                     'worstRating': '1.0'},
+ 'creator': {'@type': 'Organization', 'url': '/company/co0103528/'},
+ 'datePublished': '2000-09-08',
+ 'description': 'Unreported World is a TV series starring Krishnan '
+                "Guru-Murthy, Marcel Theroux, and Seyi Rhodes. Channel 4's "
+                'acclaimed current affairs documentary strand in which '
+                'reporters travel around the world uncovering stories '
+                'overlooked by the...',
+ 'genre': 'Documentary',
+ 'image': 'https://m.media-amazon.com/images/M/MV5BMTJlZWNjYmItZmE0OS00ODYzLThlMGItODgxOTE3YmE2Mjg4XkEyXkFqcGdeQXVyNDg1NjA2OA@@._V1_.jpg',
+ 'keywords': 'psychotronic series,current affairs,investigative '
+             'journalism,conflict zone',
+ 'name': 'Unreported World',
+ 'review': {'@type': 'Review',
+            'author': {'@type': 'Person', 'name': 'dencoja'},
+            'dateCreated': '2018-11-09',
+            'inLanguage': 'English',
+            'itemReviewed': {'@type': 'CreativeWork',
+                             'url': '/title/tt0477545/'},
+            'name': 'Rubbish',
+            'reviewBody': "Should have left tonight's programme unreported, "
+                          'there was no news at all. Why did anybody think '
+                          'that was worth reporting.'},
+ 'url': '/title/tt0477545/'}

@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Once-Upon-A-Time/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Once-Upon-A-Time/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Once-Upon-A-Time/info.py',
- 'Title': 'Once Upon a Time',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Once-Upon-A-Time/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Ginnifer Goodwin',
             'url': '/name/nm0329481/'},
@@ -42,25 +42,31 @@
  'keywords': 'fairy tale,curse,magical realism,good versus evil,2010s',
  'name': 'Once Upon a Time',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'henricito'},
-            'dateCreated': '2017-10-14',
+            'author': {'@type': 'Person', 'name': 'lin_mehmed'},
+            'dateCreated': '2018-01-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1843230/'},
-            'name': 'Goodbye Unce upon a time.',
-            'reviewBody': 'I must say that the first 4 seasons captivated me, '
-                          'but I know that everyone has felt like the series '
-                          'was losing quality consistently, if the fifth '
-                          'season was bad, zero creativity and banal clichés, '
-                          'the sixth was worse, forced and repetitive without '
-                          'taking advantage of the characters or history, a '
-                          'shame, but this seventh season is a mockery, a '
-                          'story mediocre, absurd and absurd, the casting is '
-                          'incomprehensible, and what but what they have done '
-                          'with the old characters have destroyed their '
-                          'performance. Sad way to end a series that started '
-                          'well. Not worth wasting time watching this '
-                          'mediocrity. Goodbye Unce upon a time.'},
+            'name': 'Season 7, what a tragedy.',
+            'reviewBody': "It's so sad to say this but I used to really like "
+                          'this show, up until season 6, when things should '
+                          'have ended. Why did they decide to do a season 7 '
+                          'with the same story line as before, my brain will '
+                          "never understand. I despise season 7. I can't stand "
+                          '"Cinderella"s character or the actress. The '
+                          'character just seems so weak, without any '
+                          'motivation or attitude to live life or to act, '
+                          "which isn't how I pictured Cinderella. I thought "
+                          'she would be more rebellious and have more of a '
+                          "spirit. Don't even get me started on the actress - "
+                          'she has no acting skills, I feel like every line is '
+                          'improvised and the directors just went with the '
+                          'first shot they took. At least try to pronounce '
+                          'words correctly. \n'
+                          '\n'
+                          'So please next season - improve acting, improve '
+                          'story line, be a bit more original, and get some '
+                          'good actors, seriously !'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Watch the Season 7 Comic-Con Trailer for "Once '
                             'Upon a Time."',

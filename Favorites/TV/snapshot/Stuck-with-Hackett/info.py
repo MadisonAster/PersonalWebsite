@@ -1,25 +1,29 @@
-{'Actors': [],
- 'Added': '2011-09-24',
- 'Countries': ['USA'],
- 'Description': '\r\n'
-                '              Stuck with Hackett: Stuck with Hackett features '
-                '"alternative engineer" and survival expert Chris Hackett. '
-                'Each episode finds Hackett left alone in an extreme '
-                'environment \x97 from deep wilderness, to ruined cities, to '
-                'arid deserts            ',
- 'Director': [],
+{'@context': 'http://schema.org',
+ '@type': 'TVSeries',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Stuck-with-Hackett',
  'EntryURL': 'https://www.imdb.com/title/tt2010667',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Stuck-with-Hackett/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Stuck-with-Hackett/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Stuck-with-Hackett/info.py',
- 'Genres': ['Reality-TV&tv'],
- 'Ratings': {'IMDB': '8.4/10',
-             'Metascore': 'N/A',
-             'PrimeWire': '4.20/5',
-             'RT': 'N/A',
-             'Votes': '46'},
- 'Released': '2011-08-18',
- 'Runtime': '22 mins ',
- 'ThumbURL': 'http://images.primewire.ag/thumbs/2726412_Stuck_with_Hackett_2011.jpg',
- 'Title': 'Stuck-with-Hackett'}
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Stuck-with-Hackett/thumb.jpg',
+ 'actor': {'@type': 'Person',
+           'name': 'Chris Hackett',
+           'url': '/name/nm3366866/'},
+ 'aggregateRating': {'@type': 'AggregateRating',
+                     'bestRating': '10.0',
+                     'ratingCount': 54,
+                     'ratingValue': '8.6',
+                     'worstRating': '1.0'},
+ 'contentRating': 'TV-PG',
+ 'creator': [{'@type': 'Organization', 'url': '/company/co0349489/'},
+             {'@type': 'Organization', 'url': '/company/co0267805/'}],
+ 'datePublished': '2010-12-10',
+ 'description': 'Stuck with Hackett is a TV series starring Chris Hackett. '
+                'Chris Hacket voluntarily gets stranded in isolated '
+                'environments to round up "junk" to repurpose into functional '
+                "machines. Great show. Can't believe they discontinued it.",
+ 'genre': 'Reality-TV',
+ 'image': 'https://m.media-amazon.com/images/M/MV5BMTQ0MTEwNzI0Nl5BMl5BanBnXkFtZTcwOTE1MzcyNg@@._V1_.jpg',
+ 'keywords': 'innovation,street art,building',
+ 'name': 'Stuck with Hackett',
+ 'url': '/title/tt2010667/'}

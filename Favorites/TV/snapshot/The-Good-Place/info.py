@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Good-Place/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Good-Place/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Good-Place/info.py',
- 'Title': 'The Good Place',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Good-Place/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Kristen Bell',
             'url': '/name/nm0068338/'},

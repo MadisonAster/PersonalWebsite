@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Office/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Office/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Office/info.py',
- 'Title': 'The Office',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Office/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Steve Carell',
             'url': '/name/nm0136797/'},
@@ -49,44 +49,23 @@
  'keywords': 'mockumentary,sitcom,cringe comedy,office,job',
  'name': 'The Office',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'leemyers-60171'},
-            'dateCreated': '2020-01-14',
+            'author': {'@type': 'Person', 'name': 'RobScott-13'},
+            'dateCreated': '2020-05-30',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0386676/'},
-            'name': 'One of the best TV shows EVER !!',
-            'reviewBody': "It's not common for an English persons to admit "
-                          'this but .......... Yes, this version is the '
-                          'absolute best. It is in another league to the '
-                          'original British program By miles!\n'
-                          '\n'
-                          "Don't get me wrong I do like the uk office allot, "
-                          'but the US version just trumps it at every '
-                          'opportunity.\n'
-                          '\n'
-                          "I'm not going to spoil anything for people who "
-                          "haven't seen it and if you're just looking for "
-                          'something light hearted and easy viewing this is '
-                          'definitely for you. Obviously you should watch it '
-                          'in order as intended but I always think that if you '
-                          'can just put a "random" episode of a program on and '
-                          'enjoy it then it passes the test.\n'
-                          '\n'
-                          'There is something for everyone in this series. '
-                          'Plenty of different characters, multiple '
-                          "storylines, jokes you'll miss on first viewing and "
-                          "memorable quotes you'll no doubt be repeating like "
-                          "I do to my wife who has no idea what I'm babbling "
-                          'on about.\n'
-                          '\n'
-                          "Let's be honest, the worlds horrible and everything "
-                          'is getting beyond a joke with the PC brigade, so '
-                          'for just 20 or so minutes, pop on an episode and '
-                          'crack a smile and remember that we used to find '
-                          'things funny',
+            'name': 'One of the best comedies ever!',
+            'reviewBody': 'The Office is without a doubt one of the funniest '
+                          "tv shows ever created! It's near the top of every "
+                          '"best sitcom ever" list for a reason and that\'s '
+                          "because it's an incredible show! Almost every "
+                          'episode is great, which is nearly impossible for '
+                          'any tv show to do but The Office comes pretty darn '
+                          'close! Just read through the reviews and see how '
+                          'loved this show really is!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for The Office: The Complete Series',

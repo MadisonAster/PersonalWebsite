@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Murder-Mountain/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Murder-Mountain/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Murder-Mountain/info.py',
- 'Title': 'Murder Mountain',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Murder-Mountain/thumb.jpg',
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
                      'ratingCount': 2104,

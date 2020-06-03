@@ -1,28 +1,69 @@
-{'Actors': ['Aaron Stanford&tv', 'Kirk Acevedo&tv', 'Noah Bean&tv'],
- 'Added': '2015-01-17',
- 'Countries': ['USA'],
- 'Description': '\n'
-                '12 Monkeys: Follows the journey of a time traveler from the '
-                'post-apocalyptic future who appears in present day on a '
-                'mission to locate and eradicate the source of a deadly plague '
-                'that will eventually decimate the human race. ',
- 'Director': ['NA'],
+{'@context': 'http://schema.org',
+ '@type': 'TVSeries',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/12-Monkeys',
  'EntryURL': 'https://www.imdb.com/title/tt3148266',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/12-Monkeys/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/12-Monkeys/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/12-Monkeys/info.py',
- 'Genres': ['Adventure&tv',
-            'Drama&tv',
-            'Mystery&tv',
-            'Sci-Fi&tv',
-            'Thriller&tv'],
- 'Ratings': {'IMDB': '7.9/10',
-             'Metascore': 'N/A',
-             'PrimeWire': '4.33/5',
-             'RT': 'N/A',
-             'Votes': '363'},
- 'Released': '2015-01-16',
- 'Runtime': '60 mins ',
- 'ThumbURL': 'http://images.primewire.ag/thumbs/2756691_12_Monkeys_2015_17.jpg',
- 'Title': '12-Monkeys'}
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/12-Monkeys/thumb.jpg',
+ 'actor': [{'@type': 'Person',
+            'name': 'Aaron Stanford',
+            'url': '/name/nm0822155/'},
+           {'@type': 'Person',
+            'name': 'Amanda Schull',
+            'url': '/name/nm0776040/'},
+           {'@type': 'Person', 'name': 'Noah Bean', 'url': '/name/nm0063800/'},
+           {'@type': 'Person',
+            'name': 'Barbara Sukowa',
+            'url': '/name/nm0837784/'}],
+ 'aggregateRating': {'@type': 'AggregateRating',
+                     'bestRating': '10.0',
+                     'ratingCount': 38562,
+                     'ratingValue': '7.7',
+                     'worstRating': '1.0'},
+ 'contentRating': 'TV-14',
+ 'creator': [{'@type': 'Person',
+              'name': 'Travis Fickett',
+              'url': '/name/nm3029174/'},
+             {'@type': 'Person',
+              'name': 'Terry Matalas',
+              'url': '/name/nm0558052/'},
+             {'@type': 'Organization', 'url': '/company/co0028338/'}],
+ 'datePublished': '2015-01-16',
+ 'description': '12 Monkeys is a TV series starring Aaron Stanford, Amanda '
+                'Schull, and Noah Bean. Follows the journey of a time traveler '
+                'from the post-apocalyptic future who appears in present day '
+                'on a mission to locate and eradicate the source of a...',
+ 'genre': ['Adventure', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller'],
+ 'image': 'https://m.media-amazon.com/images/M/MV5BMTkwOTcxNzMzOV5BMl5BanBnXkFtZTgwODYxNjg0ODE@._V1_.jpg',
+ 'keywords': 'mission,plague,epidemic,paradox,virus',
+ 'name': '12 Monkeys',
+ 'review': {'@type': 'Review',
+            'author': {'@type': 'Person', 'name': 'pdaktiloudis'},
+            'dateCreated': '2018-04-16',
+            'inLanguage': 'English',
+            'itemReviewed': {'@type': 'CreativeWork',
+                             'url': '/title/tt3148266/'},
+            'name': 'MUST WATCH!',
+            'reviewBody': 'This is one of the series that you are happy you '
+                          'started watching. So so so underated. If you like '
+                          'sci-fi and time travel you are simply NOT ALLOWED '
+                          'to miss this show. Most people that write bad '
+                          "reviews here didn't bother to see how the story is "
+                          'unfolding and how many layers there are. Trully '
+                          'appreciate the fact that each season is better than '
+                          'the previous. That is something rare in TV.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '9',
+                             'worstRating': '1'}},
+ 'trailer': {'@type': 'VideoObject',
+             'description': 'Watch the Season 4 Comic-Con Trailer for "12 '
+                            'Monkeys."',
+             'embedUrl': '/video/imdb/vi3788486937',
+             'name': 'Season 4 Comic-Con Trailer',
+             'thumbnail': {'@type': 'ImageObject',
+                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTdmZTRmOGEtZjgxYS00NGJjLWIyZDUtMTg2ZGUwNzc3M2QwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg'},
+             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTdmZTRmOGEtZjgxYS00NGJjLWIyZDUtMTg2ZGUwNzc3M2QwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
+             'uploadDate': '2017-07-21T23:58:53Z'},
+ 'url': '/title/tt3148266/'}

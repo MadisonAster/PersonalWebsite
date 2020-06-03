@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Shameless/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Shameless/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Shameless/info.py',
- 'Title': 'Shameless',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Shameless/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Emmy Rossum',
             'url': '/name/nm0002536/'},
@@ -45,27 +45,48 @@
              'relationship,gay brother',
  'name': 'Shameless',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'imazombie'},
-            'dateCreated': '2011-01-17',
+            'author': {'@type': 'Person', 'name': 'tomdavie'},
+            'dateCreated': '2011-03-21',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1586680/'},
-            'name': "For those who've never seen the original",
-            'reviewBody': 'Many of the reviews on here are complaining about '
-                          "how much the U.S. version copies the original. I've "
-                          'not seen a single episode of the original and, to '
-                          'me, the U.S. version is well acted, entertaining '
-                          'and perhaps one of my new favorites. I could care '
-                          "less that it's word for word from the original "
-                          'because this is all new to me. The actors portray '
-                          'the characters amazingly and I feel the storyline '
-                          'represents struggling families realistically. Each '
-                          'character will remind you of someone you know or '
-                          "have known. So for those who are like me and you've "
-                          'never seen the original, I absolutely suggest '
-                          'checking out Shameless, the U.S. remake. I look '
-                          'forward to seeing the rest of the season and maybe '
-                          "one day I'll even check out the original.",
+            'name': 'Keep Watching',
+            'reviewBody': 'I have never watched the British version of this '
+                          'show so I cannot comment on the original. I was '
+                          'under the impression it was a new Showtime story. \n'
+                          '\n'
+                          'I have to admit that started watching because I '
+                          'have always been a fan of William H Macy. However, '
+                          'viewing Macy in this kind of role was startling . I '
+                          'had always seen him in more conventional-almost '
+                          'typecast - parts. I knew that Joan Cusak was a '
+                          'quality actress which lent the project some further '
+                          'credibility. \n'
+                          '\n'
+                          'At first the show seemed to be almost forced. The '
+                          'plot seemed bizarre, and unbelievable. It seemed '
+                          'awkward. Its quite common for shows to take time to '
+                          "develop chemistry when the actors haven't defined "
+                          'their characters yet. The same can be said for the '
+                          'writers. \n'
+                          '\n'
+                          'However, I had never seen anything like it. In that '
+                          'regard it was dynamic and worth the time. The young '
+                          'actors soon found their roles and by the 5th '
+                          'episode I found myself thinking about the show '
+                          'every day. \n'
+                          '\n'
+                          'Now I cant stop watching. Im addicted. The actors '
+                          'are fantastic. The plots are far more developed. '
+                          'The supporting players play a big part in the '
+                          'series, and new characters keep rotating in '
+                          'flawlessly. The show has evolved . \n'
+                          '\n'
+                          'And just for the record, Im getting really sick and '
+                          'tired of people trashing the show because in their '
+                          "minds it doesn't measure up to the original. Its "
+                          "not supposed to be the original. If you don't like "
+                          'it, stick with the British show.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',
