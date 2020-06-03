@@ -40,18 +40,20 @@ def GetIMDB(url, OutputDir):
     Entries = {}
     ExistingEntries = os.listdir(OutputDir)
     for Folder in ExistingEntries:
-        EntryFolder = OutputDir+'/'+Folder
-        if not os.path.isdir(EntryFolder):
+        EntryPath = OutputDir+'/'+Folder
+        if not os.path.isdir(EntryPath):
             continue
-        with open(EntryFolder+'/info.py', 'r') as file:
+        with open(EntryPath+'/info.py', 'r') as file:
             EntryText = file.read()
         EntryObj = eval(EntryText)
         EntryURL = EntryObj['IMDB']
         print(EntryObj['Title'], EntryURL)
         Entries[EntryURL] = EntryObj
+        Entries['EntryPath'] = EntryPath
     return
-        
-        
+    
+    
+    
     source = requests.get(url).text
     soup = BeautifulSoup(source, 'lxml')
     jsonscript = soup.find('script', type="application/ld+json")

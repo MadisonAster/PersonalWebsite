@@ -38,7 +38,8 @@ DONE - Disable performance heavy features for mobile
 DONE - Fix mobile text scaling
 DONE - Combine DemoReel into Projects
 
-Fix Movie/TV favorites
+Fix Movie favorites
+Fix TV favorites
 Add rawg.io
 Add GoodReads
 Fix favorites thumbnail layout
