@@ -74,8 +74,32 @@ def GetIMDBListData(url):
     for item in jsonobj['about']['itemListElement']:
         itemurl = 'https://www.imdb.com'+item['url'].rstrip('/')
         ReturnList.append(itemurl)
-    
     return ReturnList
+
+def TestData(Entries, URLList):
+    for itemurl in URLList:
+        if itemurl not in Entries.keys():
+            print('No entry found for:', itemurl)
+    for entry in Entries.values():
+        if entry['EntryURL'] not in URLList:
+            print('No list item found for:', entry['Title'])
+
+def SanitizeTitle(Title):
+    print('SanitizeTitle', Title)
+    Result = ''
+    for i, a in enumerate(Title):
+        if a.isalpha() or a.isdigit():
+            print(i)
+            if i == 0:
+                Result += a.upper()
+            elif Result[-1] == '-':
+                Result += a.upper()
+            else:
+                Result += a.lower()
+        elif a in ['_', '-', ' ', '\t']:
+            Result += '-'
+    print('SanitizeResult', Result)
+    return Result
 
 def GetIMDB(url, OutputDir):
     print('GetIMDB!', url, OutputDir)
@@ -84,19 +108,39 @@ def GetIMDB(url, OutputDir):
     
     Entries = GetEntries(OutputDir)
     URLList = GetIMDBListData(url)
+    TestData(Entries, URLList)
+    
     
     for itemurl in URLList:
         if itemurl not in Entries.keys():
-            print('No entry found for:', itemurl)
-    for entry in Entries.values():
-        if entry['EntryURL'] not in URLList:
-            print('No list item found for:', entry['Title'])
-    
-    #WriteEntries(Entries)
-    #return
-    
-    
-    #pprint(jsonobj)
+            source = requests.get(itemurl).text
+            soup = BeautifulSoup(source, 'lxml')
+            jsonscript = soup.find('script', type="application/ld+json")
+            jsontext = jsonscript.contents[0]
+            Entry = json.loads(jsontext)
+            Entry['Title'] = Entry['name']
+            Entry['EntryURL'] = itemurl
+            
+            EntryPath = OutputDir+'/'+SanitizeTitle(Entry['name'])
+            EntryPath = EntryPath.replace('\\','/').replace('//','/')
+            Entry['EntryPath'] = EntryPath
+            Entry['Entry_py'] = EntryPath+'/info.py'
+            Entry['Entry_php'] = EntryPath+'/info.php'
+            Entry['Entry_json'] = EntryPath+'/entry.json'
+            
+            os.makedirs(EntryPath)
+            
+            Entries[Entry['EntryURL']] = Entry
+            break
+            
+            #OutputPath = OutputDir+'index.html'
+            #print('itemurl', itemurl)
+            #print('OutputPath', OutputPath)
+            #with open(OutputPath, 'wb') as file:
+            #    file.write(bytes(soup.prettify(), 'utf-8'))
+            #    break
+            
+    WriteEntries(Entries)
     
     #OutputPath = OutputDir+'/index'+str(i)+'.html'
     #print('OutputPath', OutputPath)
@@ -104,9 +148,7 @@ def GetIMDB(url, OutputDir):
     #    #file.write(jsonscript.prettify())
     #    file.write(pformat(jsonobj))
             
-    
-    
-    
+
 def GetGoodReads(url, OutputDir):
     ExistingEntries = os.listdir(OutputDir)
     html = getAndSanitize(url)
