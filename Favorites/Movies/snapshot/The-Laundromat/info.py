@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Laundromat/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Laundromat/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Laundromat/info.py',
- 'Title': 'The Laundromat',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Laundromat/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Gary Oldman',
             'url': '/name/nm0000198/'},
@@ -47,44 +47,55 @@
              'villain,evil banker',
  'name': 'The Laundromat',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Alexander_Blanchett'},
-            'dateCreated': '2019-10-18',
+            'author': {'@type': 'Person', 'name': 'Her-Excellency'},
+            'dateCreated': '2019-10-20',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5865326/'},
-            'name': 'Very good acting and very well done.',
-            'reviewBody': 'A nice little movie in the tradition of Adam '
-                          "McKay's Vice and The Big Short. This mixed with the "
-                          'unique style of Steven Soderbergh results in a '
-                          'quirky and entertaining movie about a rather boring '
-                          'topic. Its informative, funny, a bit sad at times '
-                          'and always extremely well acted. The most '
-                          'outstanding performance came from Meryl Streep who '
-                          'really surprises ( I am not saying too much here) '
-                          'and really links her unique humour with many deep '
-                          'moments. A really great performance, but who would '
-                          'have expected differently? Gary Oldman was also '
-                          'great. One of his funniest performances ever, never '
-                          'thought he had it in, Obviously Oldman had a lot of '
-                          'fun playing this role and it showed. Same goes to '
-                          "Antonio Banderas who also shines as Oldman's "
-                          'partner. Them breaking the fourth wall was '
-                          'sometimes a bit irritating but you got used to it '
-                          'very quickly. Another noteworthy performance was by '
-                          'Nonso Anzonie who was fantastic. Wished there had '
-                          'been more of Sharon Stone , I really enjoyed her '
-                          'cameo and character. Also Jeffrey Wright, almost '
-                          'unrecognizable, had some really memorable moments. '
-                          'The screenplay was really very well written and I '
-                          "really liked Steven Soderbergh's direction on this. "
-                          'He really managed to make such a dry topic '
-                          'entertaining. The only thing I really did not like '
-                          'too much was the very ending of it. Other than that '
-                          'it is a very good film and one of this years '
-                          'Netflix best.',
+            'name': 'There is a reason why the attorneys at the center of the '
+                    'scandal this covers, wanted it banned.',
+            'reviewBody': 'The attorneys at the center of the scandal this '
+                          'covers, filed suit in federal court claiming they '
+                          "were defamed by the film. Upon viewing, you'll "
+                          'realize that there is no way they did not defame '
+                          'themselves.\n'
+                          '\n'
+                          'Above and beyond that, this is a film every single '
+                          'person who is unfamiliar with offshore banking '
+                          'should see. It describes in accurate, albeit '
+                          'humorous terms, how "money" works in some people\'s '
+                          'hands, vs. how it works in the hands of the normal '
+                          'Joe.\n'
+                          '\n'
+                          'The cast is made up of amazing actors who give '
+                          'amazing performances, yet as most of us know, that '
+                          "isn't always the ingredient for a great movie. This "
+                          'one went a step further, and gifted us with FACTS. '
+                          '(Not even its many detractors can argue with any '
+                          'conclusive proof that the laws it unveils to the '
+                          'layman are not on the books and being used daily).\n'
+                          '\n'
+                          'Basically, it takes the viewer through the inner '
+                          'machinations of a business run by people who know '
+                          'the law and push the law as far as the law will '
+                          'allow in order to serve their own purposes. People '
+                          'who deal in gauging the value of buying and selling '
+                          'trades and commodities, as easy as they gauge the '
+                          'value of .... and trade in ... other people.\n'
+                          '\n'
+                          'Lastly, in going through other reviews here, I '
+                          "can't help but think about how different we all "
+                          'are, and how some people understood and could '
+                          'appreciate such a well presented window into actual '
+                          'business practices and money and how the two affect '
+                          'the average American, and how others seemed to take '
+                          'simple facts, as a personal affront or attack on '
+                          'their political party.\n'
+                          '\n'
+                          'Not WANTING to face facts, does not change fact.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "'The Laundromat' follows a group of journalists "

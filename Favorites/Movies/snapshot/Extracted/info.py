@@ -1,33 +1,97 @@
-{'Actors': ['David Sullivan',
-            'DT Carney',
-            'Frank Ashmore',
-            'Jenny Mollen',
-            'Nick Jameson',
-            'Richard Riehle',
-            'Robert Lewis Stephenson',
-            'Rodney Eastman',
-            'Sasha Roiz',
-            'Ty Simpkins'],
- 'Added': '2013-02-22',
- 'Countries': ['USA'],
- 'Description': '\n'
-                'Extracted: A scientist who has invented a technique to watch '
-                'people&#x27;s memories finds himself in a dangerous situation '
-                'after he&#x27;s tasked with entering a heroin addict&#x27;s '
-                'mind to see whether the man committed murder. ',
- 'Director': ['Nir Paniry'],
+{'@context': 'http://schema.org',
+ '@type': 'Movie',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Extracted',
  'EntryURL': 'https://www.imdb.com/title/tt1757746',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Extracted/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Extracted/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Extracted/info.py',
- 'Genres': ['Drama', 'Sci-Fi'],
- 'Ratings': {'IMDB': '6.5/10',
-             'Metascore': 'N/A',
-             'PrimeWire': '4.13/5',
-             'RT': 'N/A',
-             'Votes': '457'},
- 'Released': '2012-03-10',
- 'Runtime': 'NA',
- 'ThumbURL': 'http://images.primewire.ag/thumbs/2736149_Extracted_2012.jpg',
- 'Title': 'Extracted'}
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Extracted/thumb.jpg',
+ 'actor': [{'@type': 'Person', 'name': 'Sasha Roiz', 'url': '/name/nm1501388/'},
+           {'@type': 'Person',
+            'name': 'Jenny Mollen',
+            'url': '/name/nm1200748/'},
+           {'@type': 'Person',
+            'name': 'Dominic Bogart',
+            'url': '/name/nm1665054/'},
+           {'@type': 'Person',
+            'name': 'Richard Riehle',
+            'url': '/name/nm0726223/'}],
+ 'aggregateRating': {'@type': 'AggregateRating',
+                     'bestRating': '10.0',
+                     'ratingCount': 11279,
+                     'ratingValue': '6.5',
+                     'worstRating': '1.0'},
+ 'contentRating': 'R',
+ 'creator': [{'@type': 'Person',
+              'name': 'Nir Paniry',
+              'url': '/name/nm2040027/'},
+             {'@type': 'Person',
+              'name': 'Gabriel Cowan',
+              'url': '/name/nm1410462/'},
+             {'@type': 'Person',
+              'name': 'Nir Paniry',
+              'url': '/name/nm2040027/'},
+             {'@type': 'Person',
+              'name': 'John Suits',
+              'url': '/name/nm2986811/'},
+             {'@type': 'Organization', 'url': '/company/co0237280/'}],
+ 'datePublished': '2013-09-09',
+ 'description': 'Extracted is a movie starring Sasha Roiz, Jenny Mollen, and '
+                'Dominic Bogart. A scientist who has invented a technology to '
+                "construct virtual realities from people's memories finds "
+                'himself in a perilous situation, after he reluctantly...',
+ 'director': {'@type': 'Person',
+              'name': 'Nir Paniry',
+              'url': '/name/nm2040027/'},
+ 'duration': 'PT1H25M',
+ 'genre': ['Drama', 'Sci-Fi'],
+ 'image': 'https://m.media-amazon.com/images/M/MV5BMTQ3MzExNjczOF5BMl5BanBnXkFtZTcwMTE3Mjg4OQ@@._V1_.jpg',
+ 'keywords': 'bumming a cigarette,murder,scientist,memory,sousveillance',
+ 'name': 'Extracted',
+ 'review': {'@type': 'Review',
+            'author': {'@type': 'Person', 'name': 'shaun-speary5'},
+            'dateCreated': '2012-11-25',
+            'inLanguage': 'English',
+            'itemReviewed': {'@type': 'CreativeWork',
+                             'url': '/title/tt1757746/'},
+            'name': 'Great movie!',
+            'reviewBody': "Amazing movie, didn't think it would be all that "
+                          'but it sounded interesting and it lived up and '
+                          'surpassed how good i thought it would be.\n'
+                          '\n'
+                          "If you like sci-fi then you'll love this.\n"
+                          '\n'
+                          'In my opinion is deserves a lot more then a 5.2 '
+                          "rating, but that's just me. Mainly because the film "
+                          'kept me interested threw out the whole movie.\n'
+                          '\n'
+                          "Can't really fault anything apart from maybe it "
+                          'could of been ab little longer and the ending could '
+                          'of been a little better but other than that it was '
+                          'great.\n'
+                          '\n'
+                          'I give it a 8.5/10\n'
+                          '\n'
+                          'I will be mentioning this to some friends to go and '
+                          'watch this, an all around great movie.\n'
+                          '\n'
+                          'A must watch!',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '8',
+                             'worstRating': '1'}},
+ 'trailer': {'@type': 'VideoObject',
+             'description': "A scientist invents a technique to enter people's "
+                            'memories deep within their subconscious when '
+                            'their mind is at its most vulnerable state. When '
+                            "he is tasked with entering a convicted criminal's "
+                            'mind to see whether he committed murder, he is '
+                            'faced with his most dangerous and risky memory '
+                            'extraction ever.',
+             'embedUrl': '/video/imdb/vi2448468249',
+             'name': 'Theatrical Trailer',
+             'thumbnail': {'@type': 'ImageObject',
+                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNjA5MDA5NTcwM15BMl5BanBnXkFtZTgwMjQyMTYyMzE@._V1_.jpg'},
+             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNjA5MDA5NTcwM15BMl5BanBnXkFtZTgwMjQyMTYyMzE@._V1_.jpg',
+             'uploadDate': '2013-07-16T08:40:00Z'},
+ 'url': '/title/tt1757746/'}

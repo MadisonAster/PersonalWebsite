@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Between-Two-Ferns-The-Movie/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Between-Two-Ferns-The-Movie/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Between-Two-Ferns-The-Movie/info.py',
- 'Title': 'Between Two Ferns: The Movie',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Between-Two-Ferns-The-Movie/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Zach Galifianakis',
             'url': '/name/nm0302108/'},
@@ -48,18 +48,18 @@
  'keywords': 'celebrity guest,road trip,interview,celebrity,comedian',
  'name': 'Between Two Ferns: The Movie',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'bubbasumo-294-65311'},
-            'dateCreated': '2019-09-21',
+            'author': {'@type': 'Person', 'name': 'bestford'},
+            'dateCreated': '2019-09-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt9398640/'},
-            'name': 'Skip to the end',
-            'reviewBody': 'The end credits are the funniest part. If you just '
-                          'skip all the "movie" parts and watch the 2 minute '
-                          "interviews you'll be better off.",
+            'name': 'Okish',
+            'reviewBody': 'It was ok. Considering it has a lot of star cameos '
+                          'I would have expected more. Some LOL moments but '
+                          'not enough to consider it anymore than mediocre.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '4',
+                             'ratingValue': '5',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Zach Galifianakis and his oddball crew take a '

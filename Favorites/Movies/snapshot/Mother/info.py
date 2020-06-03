@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Mother/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Mother/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Mother/info.py',
- 'Title': 'Mother!',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Mother/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Jennifer Lawrence',
             'url': '/name/nm2225369/'},
@@ -41,56 +41,32 @@
  'keywords': 'surrealism,cannibalism,riot,pregnant woman,uninvited guest',
  'name': 'Mother!',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'andrewors'},
-            'dateCreated': '2017-09-22',
+            'author': {'@type': 'Person', 'name': 'Kimcritic'},
+            'dateCreated': '2017-09-18',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5109784/'},
-            'name': 'Fierce debate, how wonderful',
-            'reviewBody': 'I have a nagging feeling that the raves come from '
-                          "people in their 20's and/or younger. I maybe wrong "
-                          'but the debate erupting from this movie reeks of '
-                          'youth. Something similar happened with Terrence '
-                          "Malnick's The Tree Of Life. People either loved it "
-                          'or hated it. From my own personal POV the only '
-                          'different between The Tree Of Life and Mother! is '
-                          'that The Tree Of Life was a masterpiece without any '
-                          'visual cope outs and, perhaps, the only commercial '
-                          'concession were in big star names but even then '
-                          'Brad Pitt gives one of the best performances of his '
-                          'career. Mother ! Is not a masterpiece, not to me '
-                          "anyway. I couldn't connect. Was it a comedy of the "
-                          'absurd? When I saw all the people dancing and '
-                          'partying in the house I had a flash back to Blake '
-                          'Edwards\'s "The Party"Jennifer Lawrence is a truly '
-                          'gifted actress and beautiful to boot and, quite '
-                          "clearly, she put herself in Darren Aronfski's "
-                          'hands, She, the mother, calls out "Baby"? Hoping to '
-                          'find her husband - She is a Saint Joan half burned '
-                          'already. That truly puzzled me. Can you please give '
-                          'us time to connect with her? A few minutes. If you '
-                          "remember Mia Farrow's Rosemary - She was, "
-                          "emotionally, so far away from what she's about to "
-                          'confront. Polanski takes the audience through her '
-                          "journey and we're with her, every step of the way. "
-                          'What makes it so terrifying is the veil of normalcy '
-                          'that surrounds the proceedings. In Mother, the '
-                          'surreal takes over the atmosphere and destroys it. '
-                          'We can keep a distance without really '
-                          'participating. The same can be said of Ed Harris '
-                          'and Michelle Pfeiffer - They are a welcome, '
-                          'semi-camp addition at the perfect time and then, '
-                          'they disappear. The glory of Ruth Gordon and Sidney '
-                          "Blackmer in Rosemary's Baby is that their intrusion "
-                          'is taken all the way through to extraordinary '
-                          'results. And Javier Bardem/John Cassavetes? If '
-                          "you're interested watch Rosemary's Baby again like "
-                          'I did last night, 24 hours after seeing Mother!and '
-                          'then you tell me. In my modest opinion one is a '
-                          'flawless masterpiece the other is just okay.',
+            'name': 'Mother Nature, and how we are killing ourselves.',
+            'reviewBody': 'A lot of the fake reviews here are from people with '
+                          'ignorant, political perspectives. They want you to '
+                          "hate someone's piece of art based on their own "
+                          'emotional issues toward an actor or idea.\n'
+                          '\n'
+                          'The film is a true work of art, displaying US and '
+                          'OUR collective, destructive behavior, right in your '
+                          "face! Darren doesn't care what you or some critic "
+                          'thinks, he did this because he had to. We are '
+                          'killing ourselves and our MOTHER and this is an '
+                          'artful yet harsh, radical reminder of that.\n'
+                          '\n'
+                          'Watch this film so that more chances can be made in '
+                          "Hollywood. We are also killing our children's "
+                          'brains with all of the comic-book junk they usually '
+                          "make and artful films like this don't and won't get "
+                          'chances to be digested without support.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '5',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "A couple's relationship is tested when uninvited "

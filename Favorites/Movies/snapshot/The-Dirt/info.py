@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Dirt/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Dirt/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Dirt/info.py',
- 'Title': 'The Dirt',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Dirt/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Douglas Booth',
             'url': '/name/nm3150488/'},
@@ -49,7 +49,7 @@
  'datePublished': '2019-03-22',
  'description': 'The Dirt is a movie starring Douglas Booth, Iwan Rheon, and '
                 'Machine Gun Kelly. Based on the bestselling autobiography '
-                'from Mötley Crüe, the film is an unflinching tale of success '
+                'from MÃ¶tley CrÃ¼e, the film is an unflinching tale of success '
                 'and excess as four misfits rise from the streets of...',
  'director': {'@type': 'Person',
               'name': 'Jeff Tremaine',
@@ -60,41 +60,33 @@
  'keywords': 'junkie,poseur,soft rock,topless female nudity,squirting',
  'name': 'The Dirt',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'gjrburbchic'},
-            'dateCreated': '2019-03-23',
+            'author': {'@type': 'Person', 'name': 'thegarlicconnection'},
+            'dateCreated': '2019-03-29',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0800325/'},
-            'name': 'Exceeds Expectations',
-            'reviewBody': 'I went into this with extremely low expectations '
-                          'and was more than pleasantly surprised. The casting '
-                          'is near perfect. Machine Gun Kelly knocked it out '
-                          'of the park as Tommy Lee. Being a huge Crue fan in '
-                          "the 80's none of the material in this film is new "
-                          'to me and yes I was very aware of inconsistencies '
-                          'that were presumably done for theatrical and story '
-                          'telling purposes. None of that bothers me. To me, '
-                          "this is the right kind of awesomely cheesy. I'm "
-                          'impressed with the actors in this film. They '
-                          'inhabited the personas of Vince, Mick, Nikki, and '
-                          'Tommy really well. And I think that was the idea. '
-                          "Lastly, I've always resonated most with Nikki and "
-                          'seeing his childhood trauma depicted on the big '
-                          "screen was deeply moving. It's truly a miracle that "
-                          'guy is alive and well.',
+            'name': 'Ten stars all day',
+            'reviewBody': "If you weren't there, you may not get it. Great "
+                          'film.\n'
+                          '\n'
+                          'Motley Crue defined the era from their start to '
+                          "their break-up. It wasn't grunge that killed "
+                          'rock-n-roll, it was the break-up of Motley Crue.\n'
+                          '\n'
+                          'This was waaaay better than I expected. Watch it!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Based on the bestselling autobiography from '
-                            'Mötley Crüe, the film is an unflinching tale of '
+                            'MÃ¶tley CrÃ¼e, the film is an unflinching tale of '
                             'success and excess as four misfits rise from the '
                             'streets of Hollywood to the heights of '
                             'international fame, starring Douglas Booth, Iwan '
                             'Rheon, Colson Baker, and Daniel Webber.',
              'embedUrl': '/video/imdb/vi1064221209',
-             'name': "Netflix's Mötley Crüe Biopic - Official Trailer",
+             'name': "Netflix's MÃ¶tley CrÃ¼e Biopic - Official Trailer",
              'thumbnail': {'@type': 'ImageObject',
                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZTIyYzI3YzctMjYxOC00ZmFkLTg5NmEtZmUxNDlmYmNjYzUzXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg'},
              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZTIyYzI3YzctMjYxOC00ZmFkLTg5NmEtZmUxNDlmYmNjYzUzXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg',

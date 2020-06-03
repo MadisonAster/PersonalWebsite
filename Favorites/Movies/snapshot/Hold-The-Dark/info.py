@@ -5,12 +5,12 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hold-The-Dark/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hold-The-Dark/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hold-The-Dark/info.py',
- 'Title': 'Hold the Dark',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hold-The-Dark/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Jeffrey Wright',
             'url': '/name/nm0942482/'},
            {'@type': 'Person',
-            'name': 'Alexander Skarsgård',
+            'name': 'Alexander SkarsgÃ¥rd',
             'url': '/name/nm0002907/'},
            {'@type': 'Person',
             'name': 'James Badge Dale',
@@ -35,7 +35,7 @@
              {'@type': 'Organization', 'url': '/company/co0516938/'}],
  'datePublished': '2018-09-28',
  'description': 'Hold the Dark is a movie starring Jeffrey Wright, Alexander '
-                'Skarsgård, and James Badge Dale. After the deaths of three '
+                'SkarsgÃ¥rd, and James Badge Dale. After the deaths of three '
                 'children suspected to be killed by wolves, writer Russell '
                 'Core is hired by the the mother of a missing...',
  'director': {'@type': 'Person',
@@ -47,51 +47,60 @@
  'keywords': 'alaska,wolves,cmnf,breasts,female full frontal nudity',
  'name': 'Hold the Dark',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Random3'},
-            'dateCreated': '2018-09-29',
+            'author': {'@type': 'Person', 'name': 't-viktor212'},
+            'dateCreated': '2018-09-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5057140/'},
-            'name': 'The film is more concerned with tone, atmosphere and '
-                    'theme than it is with character or plot.',
-            'reviewBody': 'I loved Green Room, but this was a very different '
-                          "movie. I don't really know what to make of it, "
-                          "because it is a film that doesn't have much of a "
-                          'plot, has characters that rarely speak, and is '
-                          'quite a slow burn. This is the kind of film that if '
-                          'you half-watch whilst doing something else, you '
-                          'would almost certainly hate it.\n'
+            'name': 'An atmospheric success that is far from perfect',
+            'reviewBody': 'I can\'t clearly determine what "Hold the dark" is: '
+                          'a sophisticated film that seems mindless or a '
+                          'mindless thriller that seems sophisticated. '
+                          "Nonetheless, it's an enjoyable view.\n"
                           '\n'
-                          "So the setup for the film doesn't matter really "
-                          'because within the first 20 minutes it has gone off '
-                          "those rails, but the setup is that a woman's child "
-                          'has been taken by wolves (the third child in the '
-                          'town to have gone missing) and so she writes a '
-                          'letter to a wildlife expert and author to come to '
-                          'Alaska and hunt down the wolves that did it. The '
-                          'film takes so many twists and turns very suddenly '
-                          'and abruptly that by the time it ends you kinda '
-                          'forget that this is how it started. The film is '
-                          'more concerned with tone, atmosphere and theme than '
-                          'it is with character or plot.\n'
+                          'Hold the dark is complex: partly a thriller, partly '
+                          'a mystery film, partly a crime film.  It reminds me '
+                          'of many films and tv shows: Prisoners, No Country '
+                          'for Old Men, The Grey, Twin Peaks and True '
+                          'Detective. \n'
                           '\n'
-                          'As expected the film is pretty damn violent. Not '
-                          'quite Green Room-level, but when it happens you '
-                          'feel it. It also happens very abruptly and '
-                          'suddenly, with little to no hint that anything is '
-                          'about to happen.\n'
+                          'Visually, Hold the dark is one of those films that '
+                          'I wish I could see on a big screen rather than '
+                          "online. It's photography and alaskan scenery are "
+                          'often gorgeous. Generally, from a technical point '
+                          'of view, including in terms of acting, it is '
+                          'outstanding.\n'
                           '\n'
-                          'Overall the film reminded me of so many other '
-                          'films, but stands on its own as something unlike '
-                          'any of them. It had elements of Wind River, The '
-                          'VVitch, The Grey and Prisoners, but it really is a '
-                          'unique movie. It is somewhere between a 6/10 and a '
-                          '7/10 for me but it is interesting and unique enough '
-                          'for me to say 7/10 for now. Definitely need to '
-                          'rewatch it.',
+                          'It is an atmospheric success: the eerie, dark theme '
+                          "of the film is almost palpable. There isn't any "
+                          'unnecessary dialogue and silence is overall well '
+                          'handled. It is a film filled with rural mysticism, '
+                          'a very peculiar subject, which often leads to such '
+                          'utterly irrational events that sometimes seem '
+                          'blatantly stupid.  This often made me question '
+                          "whether it's because of the director's style (I "
+                          "haven't seen other movies from Saulnier), because I "
+                          'missed something, because of the mystic subtheme or '
+                          'because the plot is simply at times stupid. \n'
+                          '\n'
+                          "I myself don't like the term 'poor writing' used in "
+                          'many reviews, but while watching "Hold the dark" '
+                          'the thought often popped to my mind. There are '
+                          'several scenes of violence, changes of heart, '
+                          'actions that character do that seem nonsensical. '
+                          'The worst part is that probably they were intented '
+                          "to be so 'mindless', but the film seemed to lack "
+                          'something that confirms this. This aspect is what '
+                          "provides the mixed feelings I'm trying to express.\n"
+                          '\n'
+                          "I can't resolutely give a high rating to this "
+                          'movie. Although it is stylistically perfect, and it '
+                          "lends this permanent feeling that it's trying to "
+                          'tell something important, Hold the dark ultimately '
+                          'fails to deliver its message.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi2741811993',

@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Mollys-Game/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Mollys-Game/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Mollys-Game/info.py',
- 'Title': "Molly's Game",
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Mollys-Game/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Jessica Chastain',
             'url': '/name/nm1567113/'},
@@ -50,36 +50,27 @@
              'protagonist',
  'name': "Molly's Game",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'areatw'},
-            'dateCreated': '2018-10-31',
+            'author': {'@type': 'Person', 'name': 'paulcheus'},
+            'dateCreated': '2018-01-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4209788/'},
-            'name': 'Fascinating and rewarding biographical drama',
-            'reviewBody': "There is a lot to like about 'Molly's Game' and the "
-                          'film gets a lot more right than it does wrong. I '
-                          'always enjoy films based on a true story, '
-                          'especially when they are as unique and interesting '
-                          "as this one. It's also always refreshing to see a "
-                          'biographical film without knowing anything about '
-                          'the story beforehand. I for one had never heard of '
-                          'Molly Bloom or her story, so it really made for '
-                          'fascinating viewing.\n'
-                          '\n'
-                          'The film runs very smoothly and despite the rather '
-                          'long running length, it never goes through any '
-                          'lulls and always feels fast-paced and on the move. '
-                          "'Molly's Game' is not only an entertaining film but "
-                          "it's also informative and educational. The story is "
-                          'approached well, digging beyond the surface and '
-                          'ensuring no detail is missed from the story.\n'
-                          '\n'
-                          "'Molly's Game' is a strong biographical drama that "
-                          'does a very good job overall at telling a '
-                          'fascinating story.',
+            'name': 'It kept me fused ass to chair, eyes to screen for the '
+                    'entire duration!',
+            'reviewBody': 'Saw the movie last night, one of the best movies '
+                          '(if not THE BEST) I seen for some time now. All the '
+                          'characters are razor sharp, the entire dialog '
+                          'pierces your brain like an ice pick, great humor, '
+                          'great sarcasm, snappy lines, you feel like you need '
+                          'more and more during the movie (gets you addicted '
+                          'like a bad habit). One of the best discussions in '
+                          'cinema history (the therapy scene). Go see it in '
+                          'cinema, the crowd effect amplifies the emotions. My '
+                          'mark for this is 8/10 , 10/10 been an absolute '
+                          'masterpiece made every hundred years or so :))',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Aaron Sorkin annotates the theatrical trailer for '

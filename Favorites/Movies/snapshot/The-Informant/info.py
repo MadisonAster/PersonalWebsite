@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Informant/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Informant/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Informant/info.py',
- 'Title': 'The Informant!',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Informant/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Matt Damon', 'url': '/name/nm0000354/'},
            {'@type': 'Person', 'name': 'Tony Hale', 'url': '/name/nm0355024/'},
            {'@type': 'Person',
@@ -45,22 +45,55 @@
  'keywords': 'fbi,spy,informant,compulsive liar,investigation',
  'name': 'The Informant!',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'dpolwatte'},
-            'dateCreated': '2019-11-17',
+            'author': {'@type': 'Person', 'name': 'ferguson-6'},
+            'dateCreated': '2009-09-19',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1130080/'},
-            'name': 'The informant!(2009)',
-            'reviewBody': "Not the best of Steven Sorderbergh's work but a "
-                          'different story.\n'
+            'name': 'Your White Hat is a bit Dirty',
+            'reviewBody': 'Greetings again from the darkness. Steven '
+                          'Soderbergh is a genius with a camera. Just admiring '
+                          'the shots, angles and movement of the camera in his '
+                          'films is worth the price of admission. Here we get '
+                          'a fact-based story from the book by Kurt Eichenwald '
+                          'showing us what happened when Mark Whitacre became '
+                          'one of the most famous corporate whistle-blowers of '
+                          'all time ... he exposed price-fixing at Archer '
+                          'Daniels Midland, the ag-giant.\n'
                           '\n'
-                          'Well executed but lacks precision, the script '
-                          'sometimes the gets carried away.\n'
+                          'Matt Damon takes this quasi-caricature and turns '
+                          'him into a comedy act along the lines of Jim Carrey '
+                          "in Liar, Liar. OK, I'll admit, there is more "
+                          'subtlety here than in that one. Still, the '
+                          "voice-overs by Damon's character provide the "
+                          'ramblings of a madman - an ADD, embezzling madman.\n'
                           '\n'
-                          'Overall - 3/5',
+                          'There is so much comedy here that it is easy to '
+                          'forget what heinous crimes the senior management of '
+                          'this company actually committed - and how arrogant '
+                          'to think they could get away with it. This again '
+                          'shows that many in the corporate world are the '
+                          'equals of even the most corrupt politicians. Power '
+                          'and Greed are all-consuming.\n'
+                          '\n'
+                          "While, I don't know the details of the real story, "
+                          "it was interesting to watch Whitacre's "
+                          'interacting/playing with the FBI agents (Scott '
+                          'Bacula and Joel McHale). They want to believe him '
+                          'and are actually crushed when his game is exposed.\n'
+                          '\n'
+                          'A real Soderbergh touch is the casting of both '
+                          'Smothers Brothers in unrelated roles. Very nice. It '
+                          'is very difficult for me to believe that someone as '
+                          'intelligent and shrewd as Whitacre could actually '
+                          'be so, well, goofy. But it does add an '
+                          'entertainment element to the film. I will say it is '
+                          'not at the level of far superior "The Insider" or '
+                          'even "Catch Me if You Can", but it is quite '
+                          'watchable.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The U.S. government decides to go after an '

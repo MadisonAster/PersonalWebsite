@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Dawn-Wall/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Dawn-Wall/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Dawn-Wall/info.py',
- 'Title': 'The Dawn Wall',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Dawn-Wall/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'John Branch',
             'url': '/name/nm10150958/'},

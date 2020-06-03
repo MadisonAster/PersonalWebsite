@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fire-In-Paradise/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fire-In-Paradise/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fire-In-Paradise/info.py',
- 'Title': 'Fire in Paradise',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fire-In-Paradise/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Joy Beeson',
             'url': '/name/nm11110567/'},

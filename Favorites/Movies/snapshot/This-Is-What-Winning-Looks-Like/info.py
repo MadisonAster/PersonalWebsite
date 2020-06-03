@@ -1,36 +1,22 @@
-{'Actors': [''],
- 'Added': '2015-08-23',
- 'Countries': [],
- 'Description': '\r\n'
-                '              This Is What Winning Looks Like: "This Is What '
-                'Winning Looks Like" is a disturbing new documentary about the '
-                'ineptitude, drug abuse, sexual misconduct, and corruption of '
-                'the Afghan security forces as well as the reduced role of US '
-                'Marines due to the troop withdrawal. In part one, we see just '
-                'how chaotic and hopeless the situation is in Sangin, one of '
-                'the most violent towns in Afghanistan.\r\n'
-                'Ben Anderson went to Afghanistan in 2007 to make a film about '
-                'the vicious fighting between under-equipped British forces '
-                "and the Taliban in Helmand, the country's most violent "
-                "province. He didn't plan on staying for six years. But we're "
-                'glad he did, because now we have This Is What Winning Looks '
-                'Like, a disturbing new documentary about the ineptitude, drug '
-                'abuse, sexual misconduct, and corruption of the Afghan '
-                'government and its security forces as well as the role of US '
-                'Marines during the troop withdrawal.            ',
- 'Director': [],
+{'@context': 'http://schema.org',
+ '@type': 'Movie',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/This-Is-What-Winning-Looks-Like',
  'EntryURL': 'https://www.imdb.com/title/tt10466466',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/This-Is-What-Winning-Looks-Like/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/This-Is-What-Winning-Looks-Like/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/This-Is-What-Winning-Looks-Like/info.py',
- 'Genres': ['Documentary', 'History', 'War'],
- 'Ratings': {'IMDB': 'N/A',
-             'Metascore': 'N/A',
-             'PrimeWire': '4.42/5',
-             'RT': 'N/A',
-             'Votes': '74'},
- 'Released': '2013-05-20',
- 'Runtime': 'NA',
- 'ThumbURL': 'http://images.primewire.ag/thumbs/2741557_This_Is_What_Winning_Looks_Like.jpg',
- 'Title': 'This-Is-What-Winning-Looks-Like'}
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/This-Is-What-Winning-Looks-Like/thumb.jpg',
+ 'aggregateRating': {'@type': 'AggregateRating',
+                     'bestRating': '10.0',
+                     'ratingCount': 6,
+                     'ratingValue': '8.2',
+                     'worstRating': '1.0'},
+ 'creator': {'@type': 'Organization', 'url': '/company/co0403586/'},
+ 'datePublished': '2013-05-27',
+ 'director': {'@type': 'Person',
+              'name': 'Ben Anderson',
+              'url': '/name/nm10756392/'},
+ 'duration': 'PT1H29M',
+ 'genre': 'Documentary',
+ 'name': 'This Is What Winning Looks Like',
+ 'url': '/title/tt10466466/'}

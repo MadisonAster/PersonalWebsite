@@ -1,29 +1,30 @@
-{'Actors': [''],
- 'Added': '2013-11-22',
- 'Countries': [],
- 'Description': '\n'
-                'Feynman: The Challenger: As a companion to the fictional '
-                'drama THE CHALLENGER DISASTER Science Channel is airing '
-                'FEYNMAN: THE CHALLENGER on Monday, November 18 at 10 PM '
-                'ET/PT. This special one-hour documentary, narrated by Bruce '
-                'Greenwood, examines the remarkable life of Dr. Richard '
-                'Feynman, including his work on the Challenger and his role in '
-                'The Manhattan Project, a U.S. government backed program that '
-                'operated during the 1940s and led to the creation of the '
-                'first atomic bombs. ',
- 'Director': [],
+{'@context': 'http://schema.org',
+ '@type': 'Movie',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Feynman-The-Challenger',
  'EntryURL': 'https://www.imdb.com/title/tt3312848',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Feynman-The-Challenger/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Feynman-The-Challenger/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Feynman-The-Challenger/info.py',
- 'Genres': ['Documentary'],
- 'Ratings': {'IMDB': 'N/A',
-             'Metascore': 'N/A',
-             'PrimeWire': '4.33/5',
-             'RT': 'N/A',
-             'Votes': '6'},
- 'Released': '2013-11-18',
- 'Runtime': 'NA',
- 'ThumbURL': 'http://images.primewire.ag/thumbs/2742793_Feynman_The_Challenger.jpg',
- 'Title': 'Feynman-The-Challenger'}
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Feynman-The-Challenger/thumb.jpg',
+ 'actor': {'@type': 'Person',
+           'name': 'Bruce Greenwood',
+           'url': '/name/nm0339304/'},
+ 'aggregateRating': {'@type': 'AggregateRating',
+                     'bestRating': '10.0',
+                     'ratingCount': 17,
+                     'ratingValue': '7.9',
+                     'worstRating': '1.0'},
+ 'creator': {'@type': 'Organization', 'url': '/company/co0086182/'},
+ 'datePublished': '2013-11-18',
+ 'description': 'Feynman: The Challenger is a TV movie starring Bruce '
+                'Greenwood. A documentary on the life and work of Nobel '
+                'Prize-winning physicist Richard Feynman. Same documentary as '
+                'The Fantastic Mr Feynman (2013) but with an American '
+                'narrator...',
+ 'director': {'@type': 'Person',
+              'name': 'Christopher Riley',
+              'url': '/name/nm1558826/'},
+ 'duration': 'PT1H',
+ 'genre': 'Documentary',
+ 'name': 'Feynman: The Challenger',
+ 'url': '/title/tt3312848/'}

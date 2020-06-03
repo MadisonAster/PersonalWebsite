@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dallas-Buyers-Club/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dallas-Buyers-Club/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dallas-Buyers-Club/info.py',
- 'Title': 'Dallas Buyers Club',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dallas-Buyers-Club/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Matthew McConaughey',
             'url': '/name/nm0000190/'},
@@ -40,7 +40,7 @@
                 'and hustler Ron Woodroof works around the system to help AIDS '
                 'patients get the medication they need after he is...',
  'director': {'@type': 'Person',
-              'name': 'Jean-Marc Vall�e',
+              'name': 'Jean-Marc Vallée',
               'url': '/name/nm0885249/'},
  'duration': 'PT1H57M',
  'genre': ['Biography', 'Drama'],
@@ -48,43 +48,101 @@
  'keywords': 'hiv,gay community,homophobia,drugs,hiv positive',
  'name': 'Dallas Buyers Club',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Rebel_With_A_Cause_94'},
-            'dateCreated': '2013-11-20',
+            'author': {'@type': 'Person', 'name': 'howard.schumann'},
+            'dateCreated': '2013-11-17',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0790636/'},
-            'name': 'A Facisnating True Story with Gritty Realism and '
-                    'Excellent Performances',
-            'reviewBody': "One of the best films I've seen this year! A raw, "
-                          'gritty, and incredible true story about a HIV '
-                          'diagnosed man who went to extraordinary lengths to '
-                          'survive at a time when the AIDS epidemic was at '
-                          "it's worst.\n"
+            'name': 'A brilliant performance',
+            'reviewBody': 'At the beginning of the AIDS epidemic in the early '
+                          '1980s, patients were advised to wait. In the six '
+                          'years following the first recording of the AIDS '
+                          'outbreak in 1981, more than 40,000 people in the '
+                          'U.S. died while waiting. In response to the clamor '
+                          'for action on the AIDS crisis, then Vice President '
+                          'George H.W. Bush has been quoted as saying "If you '
+                          'want change, change your behavior." Roger Ebert '
+                          'recalls, "Politicians did not want to be associated '
+                          'with the disease. Hospitals resisted admitting '
+                          'victims, and when an AIDS victim died, some '
+                          'health-care workers would place the body in a black '
+                          'garbage bag. Funeral homes refused to accept the '
+                          'corpses." \n'
                           '\n'
-                          'Matthew McConaughey who lost a significant amount '
-                          'of weight to play the role gives the performance of '
-                          "his career along with Jared Leto who's equally as "
-                          'good here. The two give quite possibly the best '
-                          "performances I've seen in a film all year in which "
-                          'I actually forgot I was watching actors in a film '
-                          'and instead felt as if I was watching real people. '
-                          "There's no doubt they will both receive nominations "
-                          'for Best Actor and Best Supporting Actor.\n'
+                          "As described in David France's documentary How to "
+                          'Survive a Plague, activists such as the New '
+                          'York-based organization ACT UP began to protest '
+                          "against the government's callous indifference, "
+                          'challenging the FDA to change their drug approval '
+                          'procedure and the pharmaceutical companies to lower '
+                          'their prices and speed up their research process. '
+                          'In addition to the organized group protests, '
+                          'individuals also did their part and the '
+                          'determination of one unlikely crusader, electrician '
+                          'Ron Woodroof (Matthew McConaughey), a homophobic '
+                          '"good ol\' Texas party boy," is the centerpiece of '
+                          "Jean Marc-Vallée's gritty and hard-hitting Dallas "
+                          'Buyers Club.\n'
                           '\n'
-                          'While this kind of story does feel a bit familiar '
-                          "overall, it's excellent screenplay and sense of "
-                          'realism along with the excellent performances make '
-                          "up for it. While it's defiantly not easy viewing "
-                          "and a bit of a downer to watch, it's a truly "
-                          'inspiring (and important) true story and one of the '
-                          'years best films.\n'
+                          'Written by Craig Borten and Melisa Wallack and '
+                          "based on real events, it is the story of Woodroof's "
+                          'personal struggles after being diagnosed with AIDS '
+                          'and his efforts to spread public awareness of the '
+                          'disease and help reduce the suffering and extend '
+                          'the lives of AIDS patients. As the film opens, the '
+                          'heterosexual, drug-using and unabashedly '
+                          'promiscuous Woodroof receives the bad news from his '
+                          'doctors that he only has thirty days to live. '
+                          'Reacting with vitriol, he storms out of the '
+                          'hospital, cursing and making homophobic slurs while '
+                          'accusing the staff of making the wrong diagnosis.\n'
                           '\n'
-                          'McConaughey has been made out to be a bit of a '
-                          'laughing stock after starring in a series of really '
-                          'mediocre films. His recent performances however, '
-                          'have shown that the man truly is one of the best '
-                          'actors working in the business right now. Dallas '
-                          'Buyers Club is only further proof of this.',
+                          'After thoroughly researching the disease, however, '
+                          'and accepting the idea of his serious illness, '
+                          'Woodroof hears of a clinical trial for the new drug '
+                          'AZT, the only legal drug that was available at the '
+                          'time in the United States. His attempt, however, to '
+                          'become one of the participants is denied and he has '
+                          'to purchase the drug surreptitiously from an '
+                          'orderly. Unfortunately, he soon finds out that the '
+                          'dosage of AZT he is taking is toxic and his '
+                          'condition worsens. Refusing to give up, he visits '
+                          'an unlicensed American doctor (Griffin Dunne) in '
+                          'Mexico who has had some success with alternative '
+                          'treatments such as vitamins and protein-based '
+                          'anti-viral drugs.\n'
+                          '\n'
+                          'Smuggling non-FDA approved experimental and '
+                          'alternative medicines into the U.S., he creates a '
+                          'business that allows him to distribute the drugs '
+                          'free of charge to AIDS patients who pay a monthly '
+                          'membership fee to join his Dallas Buyers Club, one '
+                          'of many such clubs that sprang up around the '
+                          'country. Woodroof is assisted in his venture by the '
+                          'drug-addicted transsexual Rayon (Jared Leto), a '
+                          'fellow patient that he met during his '
+                          "hospitalization. Though the film's depiction of "
+                          'Rayon does little to break the gay stereotype, '
+                          'their mutual engagement in helping AIDS victims '
+                          'helps Ron see his business partner in a different '
+                          'light than on their first meeting.\n'
+                          '\n'
+                          'With the help of a sympathetic doctor, Eve Saks '
+                          '(Jennifer Garner), Rayon and Woodroof work together '
+                          'while dodging Food and Drug Administration '
+                          'enforcers and the wrath of the pharmaceutical '
+                          'companies. In one of his best efforts, Matthew '
+                          'McConaughey, who lost 40 pounds for the movie, '
+                          'delivers a brilliant performance as the emotionally '
+                          'volatile but basically decent Woodroof. Though '
+                          'ultimately, not all alternative drugs proved to be '
+                          "useful, Woodroof and Rayon's determination in the "
+                          'face of powerful interests helped paved the way for '
+                          'development of new treatments, even though it took '
+                          'until the late 90s to come up with one that was '
+                          'fully effective. As a result of their efforts and '
+                          'that of countless others, HIV is no longer the '
+                          'death sentence it once was.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

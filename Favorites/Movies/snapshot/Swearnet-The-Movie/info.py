@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Swearnet-The-Movie/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Swearnet-The-Movie/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Swearnet-The-Movie/info.py',
- 'Title': 'Swearnet: The Movie',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Swearnet-The-Movie/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Mike Smith', 'url': '/name/nm1034266/'},
            {'@type': 'Person', 'name': 'Robb Wells', 'url': '/name/nm1036211/'},
            {'@type': 'Person',
@@ -46,32 +46,18 @@
              'orgasm',
  'name': 'Swearnet: The Movie',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ericstevenson'},
-            'dateCreated': '2018-09-19',
+            'author': {'@type': 'Person', 'name': 'brundais'},
+            'dateCreated': '2018-05-12',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2380564/'},
-            'name': 'We have a record holder!',
-            'reviewBody': 'This film is said here to be rated NC-17 and it '
-                          'certainly deserves it. Apart from the fact that '
-                          "there's nudity, it has more uses of the f-word than "
-                          'any other film in history. Well, in the English '
-                          'language at least. It took me a long time to count '
-                          'every one of them. I counted 911, but there were '
-                          'said to be as many as 935. It is rather satisfying '
-                          'to see Carrot Top and Tom Green get beat up.\n'
-                          '\n'
-                          "So besides that, there's not much else to say about "
-                          'this movie. It certainly has its funny moments, but '
-                          'is more or less not very interesting in itself. I '
-                          "couldn't get a feel for these characters or "
-                          'anything. It just seemed to be an excuse to be the '
-                          'most profane movie in history. Obviously, this '
-                          "isn't for people who are easily offended in really "
-                          'any way. The main plot involves a race of some '
-                          "kind, but it's hard to really care. **",
+            'name': 'Why did they do this to themselves?',
+            'reviewBody': 'This movie is horrible. I absolutely loved anything '
+                          'TPB but this completely changed my opinion of the '
+                          'actors/writers. What an embarrassment... Why would '
+                          'they ever think this was a good idea?',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '5',
+                             'ratingValue': '2',
                              'worstRating': '1'}},
  'url': '/title/tt2380564/'}

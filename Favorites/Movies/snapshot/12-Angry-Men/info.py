@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/12-Angry-Men/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/12-Angry-Men/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/12-Angry-Men/info.py',
- 'Title': '12 Angry Men',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/12-Angry-Men/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Henry Fonda',
             'url': '/name/nm0000020/'},

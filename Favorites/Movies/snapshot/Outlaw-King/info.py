@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Outlaw-King/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Outlaw-King/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Outlaw-King/info.py',
- 'Title': 'Outlaw King',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Outlaw-King/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Chris Pine', 'url': '/name/nm1517976/'},
            {'@type': 'Person',
             'name': 'Stephen Dillane',
@@ -54,34 +54,19 @@
  'keywords': 'scotland,scottish independence,medieval,medieval times,warfare',
  'name': 'Outlaw King',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jmaran-69084'},
-            'dateCreated': '2018-11-09',
+            'author': {'@type': 'Person', 'name': 'ryankhawkes'},
+            'dateCreated': '2018-11-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt6679794/'},
-            'name': 'Very good movie!',
-            'reviewBody': 'This was a great movie. It had a few issues (pacing '
-                          'a bit rough in places), but it was otherwise very '
-                          'well done\n'
-                          '\n'
-                          'Chris Pine is a fabulous actor and was believable '
-                          'the entire way through. I was curious to find out '
-                          "how he would handle this role, and he didn't let me "
-                          'down. The support cast was also superb, although I '
-                          'would have liked to have seen a bit more '
-                          'development of key characters, and a little more '
-                          'in-depth development of this snapshot of history, '
-                          'but by paying close attention, the viewer can learn '
-                          "a lot that's not blatantly obvious. The camera work "
-                          'was excellent, fight scenes well-done and '
-                          'realistic, music score perfect.\n'
-                          '\n'
-                          "I have to admit that I'm hard to please as a "
-                          'viewer, but this movie scored high with me. I '
-                          'highly recommend it!',
+            'name': "Don't listen to the negativity.",
+            'reviewBody': 'This was a legitimately moving and entertaining '
+                          'movie. The acting is absolutely fantastic, the '
+                          'cinematography is impeccable and the practical '
+                          'effects are undeniably realistic.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The untold, true story of Robert The Bruce (Chris '

@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hot-Girls-Wanted/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hot-Girls-Wanted/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hot-Girls-Wanted/info.py',
- 'Title': 'Hot Girls Wanted',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hot-Girls-Wanted/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Farrah Laurel Abraham',
             'url': '/name/nm4766272/'},
@@ -45,66 +45,32 @@
              'sexuality,independent woman',
  'name': 'Hot Girls Wanted',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'paulnemeth'},
-            'dateCreated': '2016-03-22',
+            'author': {'@type': 'Person', 'name': 'marius-kimmel'},
+            'dateCreated': '2015-06-27',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4382552/'},
-            'name': 'Not the best doc, but some unexpected info',
-            'reviewBody': 'I was interested in this after hearing that Rashida '
-                          "Jones (whom I've always liked) produced it.\n"
+            'name': 'Genre: 7/10   -    Total: 6/10',
+            'reviewBody': 'If you are interested in who the girls are you skip '
+                          'threw tumblr, youporn, redtube and so on this could '
+                          'be interesting to watch. The documentary tells you '
+                          'a bit about the young girls that do porn and why '
+                          'they do it. I was not really shocked about the '
+                          'girls and their life, that was pretty much what i '
+                          'expected. Sometimes i felt sorry for the teens, '
+                          'sometimes not so much. \n'
                           '\n'
-                          'The actual direction, honestly, is ho-hum-large '
-                          'parts of it felt like someone just strung a bunch '
-                          'of random footage together and called it a '
-                          '"documentary". This (imo) is the weak point of the '
-                          'movie.\n'
+                          'Summary:\n'
                           '\n'
-                          "Now, here's the part I found interesting: the "
-                          'central point of discussion was the exploding '
-                          '"amateur" porn market. Now, unless you\'re a '
-                          'complete simpleton, you understand that the people '
-                          'doing "amateur porn" are actually paid, and the doc '
-                          'details how these girls are found (the only thing I '
-                          'really found shocking was that people still use '
-                          'Craigslist).\n'
+                          'You watch porn and want to know a bit more about '
+                          'the work behind the cam? Feel free to watch "hot '
+                          'girls wanted".\n'
                           '\n'
-                          'The main producer (think his name is Riley) '
-                          "basically is these girls' pimp-he finds them, puts "
-                          'them up in his house, books their gigs and '
-                          'transports them. Whether he gets or expects sex '
-                          'from them is up for speculation. The focus is on '
-                          "fresh faces, and most of Riley's house-guests can "
-                          'expect a career of three months to a year before '
-                          'they either burn out or have to reinvent '
-                          'themselves.\n'
-                          '\n'
-                          'I do think these kids are being exploited, and '
-                          "here's why: one of the girls reveals that the "
-                          "average payment per shoot is $800. I'm not a porn "
-                          'industry scholar, but I believe that a paid '
-                          '"professional" makes more in the range of $2k-$3k '
-                          'per shoot. Also, due to heavy regulation in '
-                          'California, most amateur porn is shot in Miami, '
-                          'which requires AIDS testing but no condoms. At the '
-                          'end of the movie, one of the girls reveals that '
-                          'they still have to pay for living expenses, all '
-                          'their clothes, make-up, lingerie, etc...she says '
-                          'that, over a 3-month period, she made $25k, and '
-                          'when she left the business, she had $2k left in the '
-                          "bank. The documentary doesn't reveal whether the "
-                          'girls pay Riley rent or not.\n'
-                          '\n'
-                          'The main difference between Riley and a pimp is '
-                          "that he doesn't have to force girls to stay because "
-                          "there's a steady stream of new girls coming in the "
-                          'door.\n'
-                          '\n'
-                          'Not the best documentary on the porn industry, but '
-                          'there are a few surprises.',
+                          'You are looking for some good, touching '
+                          'documentary? Skip it.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '4',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Official Trailer',

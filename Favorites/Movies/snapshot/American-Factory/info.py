@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/American-Factory/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/American-Factory/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/American-Factory/info.py',
- 'Title': 'American Factory',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/American-Factory/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': "Junming 'Jimmy' Wang",
             'url': '/name/nm10930330/'},

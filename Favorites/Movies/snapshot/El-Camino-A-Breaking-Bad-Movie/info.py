@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/El-Camino-A-Breaking-Bad-Movie/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/El-Camino-A-Breaking-Bad-Movie/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/El-Camino-A-Breaking-Bad-Movie/info.py',
- 'Title': 'El Camino: A Breaking Bad Movie',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/El-Camino-A-Breaking-Bad-Movie/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Aaron Paul', 'url': '/name/nm0666739/'},
            {'@type': 'Person',
             'name': 'Jonathan Banks',
@@ -44,25 +44,17 @@
  'keywords': 'neo noir,happy ending,crystal meth,anti hero,violence',
  'name': 'El Camino: A Breaking Bad Movie',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Errorcode-25490'},
-            'dateCreated': '2019-10-11',
+            'author': {'@type': 'Person', 'name': 'shvmbanerjee'},
+            'dateCreated': '2019-10-13',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt9243946/'},
-            'name': "It's fine...",
-            'reviewBody': 'Seriously, do yourself a favor and ignore any 10/10 '
-                          "perfect scores. It's a fine conclusion to Jesse's "
-                          'story but not some masterpiece. This is a movie '
-                          "that we all honestly could've done without and have "
-                          'done without for what, the past 5 years? This movie '
-                          "has it's moments but it is never brilliant like the "
-                          "show. Even taken on its own, as a movie, it's "
-                          'nothing special. For a movie to be a 10 or even an '
-                          '8 you should be special and this movie very much '
-                          "isn't.",
+            'name': 'Goodbye Jesse',
+            'reviewBody': 'It isnt great nor is it bad. It has been a '
+                          'nostalgic ride with El Camino.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'After escaping Jack and his gang, Jesse Pinkman '

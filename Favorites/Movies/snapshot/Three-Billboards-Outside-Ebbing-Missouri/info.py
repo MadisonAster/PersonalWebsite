@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Three-Billboards-Outside-Ebbing-Missouri/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Three-Billboards-Outside-Ebbing-Missouri/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Three-Billboards-Outside-Ebbing-Missouri/info.py',
- 'Title': 'Three Billboards Outside Ebbing, Missouri',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Three-Billboards-Outside-Ebbing-Missouri/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Frances McDormand',
             'url': '/name/nm0000531/'},
@@ -45,61 +45,63 @@
              'through a window',
  'name': 'Three Billboards Outside Ebbing, Missouri',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'rubenm'},
-            'dateCreated': '2017-10-16',
+            'author': {'@type': 'Person', 'name': 'tyson-hunsaker'},
+            'dateCreated': '2017-12-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5027774/'},
-            'name': 'Extremely funny film about grief, anger, revenge and '
-                    'violence',
-            'reviewBody': 'It seemed that the pregnant police detective Marge '
-                          "Gunderson from 'Fargo' would forever be the most "
-                          "memorable character of Frances McDormand's acting "
-                          "career. But now I'm not so sure. Mildred Hayes, the "
-                          "heroine from 'Three Billboards', is a serious "
-                          'contender. This might well be her best performance '
-                          'ever.\n'
+            'name': 'A thought-provoking and darkly comedic drama with lots to '
+                    'say.',
+            'reviewBody': '"Three Billboards outside Ebbing, Missouri" marks a '
+                          'milestone for writer/directer Martin McDonagh and '
+                          "is an idea piece on a mother's struggle with her "
+                          'town after posting billboards containing a call to '
+                          'action in regards to her murdered daughter. With '
+                          'outstanding screen writing and near perfect '
+                          'editing, this powerhouse of a film is easily one of '
+                          'the best all year and is driven with force and '
+                          'intensity by its lead, Frances McDormand.\n'
                           '\n'
-                          'The part of Mildred Hayes was written with '
-                          'McDormand in mind. Hayes is a divorced single '
-                          'mother, living with her son on the outskirts of a '
-                          'small, remote town. She had a daughter too, but the '
-                          'girl was raped and killed on a quiet mountain road '
-                          'not far from home. Frustrated by the lack of '
-                          'progress of the investigation, Hayes decides to '
-                          'rent three dilapidated billboards, publicly '
-                          'accusing the local police chief of incompetence. By '
-                          'doing so, she attracts the attention of the media, '
-                          'angers almost the entire town and causes a '
-                          'succession of increasingly violent actions.\n'
+                          'What begins as a narrow and focused drama, '
+                          'gradually escalates to a film with big themes and '
+                          'ideas, relevant social commentary, and much more '
+                          'subplots than anticipated. "Three Billboards '
+                          'outside Ebbing, Missouri" is packed with questions '
+                          'and a few answers about anger, revenge, violence, '
+                          'and kindness. The story shows people in a realistic '
+                          "light I've never quite seen before. We're presented "
+                          'with characters and their genuine emotions. Nothing '
+                          'feels sugarcoated of fluffed but it never lacks '
+                          'emotional impact either. \n'
                           '\n'
-                          'Although the film is about grief, anger, revenge '
-                          'and violence, it is extremely funny. Above all '
-                          "because of Mildred Hayes' stubborn character and "
-                          'her ability to verbally humiliate people by her '
-                          'extremely sharp tongue. The monologue she delivers '
-                          'when a priest visits her house to tell her she has '
-                          'gone too far, is priceless.\n'
+                          'The movie balances its seemingly contradictory '
+                          'tones beautifully by crafting a dark comedy that '
+                          'feels heavy due to strong subject matter, while at '
+                          'the same time, utilizing comedic moments that feel '
+                          "completely natural to the character's motivations. "
+                          "It's obvious great care was taken into this script "
+                          "and the method in which it's constructed. \n"
                           '\n'
-                          "Apart from McDormand's performance, the screenplay "
-                          'is another great feature of this film. The story is '
-                          'full of unexpected twists, gradually shifting the '
-                          'positions of the main characters towards each '
-                          'other. None of the characters are one-dimensional: '
-                          'they all reveal surprising parts of their '
-                          'personalities as the story moves forward.\n'
+                          'One of the most talked about elements to this film '
+                          'are the strong performances; particularly by '
+                          'Frances McDormand and Sam Rockwell. Rightfully so, '
+                          'this is some of their best (if not their best) work '
+                          'these eyes have beheld and they steal the show in '
+                          "every film they're in. That's not take away from "
+                          'Woody Harrelson and Lucas Hedges, as well as the '
+                          'entire cast who give memorable performances and '
+                          'paint shockingly believable characters that we feel '
+                          'we know personally. \n'
                           '\n'
-                          'And then there is the overall, almost Coen-esque '
-                          'atmosphere of a small town full of colourful '
-                          'characters. There is a racist cop, a friendly '
-                          'midget, a smart advertising guy and a pretty girl '
-                          "who is so dumb she doesn't know the difference "
-                          'between polo and polio.\n'
-                          '\n'
-                          'It is hard to mention something negative about this '
-                          "film. 'Three Billboards' is, from start to finish, "
-                          "a great movie. I can't imagine anyone not enjoying "
-                          'it.',
+                          'If there is anything that might turn audiences away '
+                          'from this film, it might be its harsh subject '
+                          'matter despite none of it every being depicted as '
+                          'well as its language and execution with the '
+                          'material. Personally, this has a strong impact and '
+                          "I wouldn't have changed anything about it. It's a "
+                          'highly recommended film with a lot to ponder at the '
+                          'end and is definitely a contender for best movie of '
+                          "the year. Definitely don't miss this one.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

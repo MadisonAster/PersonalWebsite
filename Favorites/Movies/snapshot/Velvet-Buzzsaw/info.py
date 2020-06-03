@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Velvet-Buzzsaw/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Velvet-Buzzsaw/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Velvet-Buzzsaw/info.py',
- 'Title': 'Velvet Buzzsaw',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Velvet-Buzzsaw/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Jake Gyllenhaal',
             'url': '/name/nm0350453/'},

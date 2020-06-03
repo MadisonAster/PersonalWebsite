@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Conspiracy/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Conspiracy/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Conspiracy/info.py',
- 'Title': 'Conspiracy',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Conspiracy/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Kenneth Branagh',
             'url': '/name/nm0000110/'},

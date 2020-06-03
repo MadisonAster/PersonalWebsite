@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fyre/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fyre/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fyre/info.py',
- 'Title': 'Fyre',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fyre/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Billy McFarland',
             'url': '/name/nm10315000/'},
@@ -37,17 +37,26 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjQ2NzE1MjYxMV5BMl5BanBnXkFtZTgwMjM3MDQxNzM@._V1_.jpg',
  'name': 'Fyre',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'pubududias'},
-            'dateCreated': '2019-02-03',
+            'author': {'@type': 'Person', 'name': 'beatmaster101'},
+            'dateCreated': '2019-01-25',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt9412098/'},
-            'name': 'The dark side of the social media influencing',
-            'reviewBody': "You'll laugh at some of the scenes, but this whole "
-                          'thing is a no joke. The collapse of this whole '
-                          'event (it was inevitable since inception), shows '
-                          'that the governments should take necessary steps to '
-                          'prevent financial fraud caused by social media.',
+            'name': 'Fyre Festival, a social media scum!',
+            'reviewBody': 'This is exactly the right documentary about the '
+                          'social media age and the so called influencers. How '
+                          'a specific guy took advantage of the whole '
+                          'absurdity in order to make a profit and turned out '
+                          'to be a huge crook, taking full exploitation of the '
+                          'morons who are so into the lifestyle of the 21st '
+                          'century - trying to be social media models (or look '
+                          'like them), playing their own little reality show '
+                          "by living the high life. And at the end you're "
+                          'reminded that there were some hard working people, '
+                          'festival professionals and local Bahamians, that '
+                          'worked really hard to pull this off and ended up '
+                          'losing a lot of money plus part of their own '
+                          'dignity. Strong piece of film.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '8',

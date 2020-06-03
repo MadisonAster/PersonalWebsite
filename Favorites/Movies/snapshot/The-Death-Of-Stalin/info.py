@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Death-Of-Stalin/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Death-Of-Stalin/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Death-Of-Stalin/info.py',
- 'Title': 'The Death of Stalin',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Death-Of-Stalin/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Steve Buscemi',
             'url': '/name/nm0000114/'},
@@ -71,113 +71,45 @@
              'character,based on comic book',
  'name': 'The Death of Stalin',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'TheLittleSongbird'},
-            'dateCreated': '2017-10-22',
+            'author': {'@type': 'Person', 'name': 'thorr97'},
+            'dateCreated': '2018-04-01',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4686844/'},
-            'name': 'One of the best films of 2017',
-            'reviewBody': 'It must have been very daunting to make a film '
-                          'revolving around the period during the death of one '
-                          "of the world's most notorious dictators and mass "
-                          'murderers Joseph Stalin and its aftermath, and make '
-                          'it one that was entertaining, clever and '
-                          'beautifully produced and acted while not '
-                          'trivialising the horrors of the time.\n'
+            'name': 'Dark Humor About A Truly Dark And Humorless Time',
+            'reviewBody': 'This is an excellent film. And its treatment of the '
+                          'Stalin Era of the Soviet Union is both darkly '
+                          'humorous and actually very unflinching in its '
+                          'depicting the monsters and their monstrosities for '
+                          'what they were.\n'
                           '\n'
-                          "'The Death of Stalin' embraced this challenge and "
-                          "fully succeeded in its goal. 'The Death of Stalin' "
-                          'was one of those films where expectations were high '
-                          '(considering there are some truly great actors '
-                          'here) and those expectations were only met but '
-                          "exceeded. It won't be for the faint hearted, it can "
-                          'be violent in a very gruesome sense. While it is '
-                          'very evocative and well-researched, it is history '
-                          'but not quite as we know it (kind of like a more '
-                          'sophisticated version of Horrible Histories). Some '
-                          'may have a problem with the film not having '
-                          'authentic Soviet accents, and instead a mix of '
-                          'English and US ones, to me this was not a problem '
-                          'as there are many adaptations of Russian literature '
-                          "that mostly don't attempt authentic accents and "
-                          'when they are attempted it has wildly variable '
-                          'results.\n'
+                          'I was worried that, in an attempt to extract humor '
+                          "from the situation that they might've glossed over "
+                          'just how monstrous the key characters actually '
+                          "were. To Iannucci and Schneider's credit however, "
+                          'there was absolutely no glossing over at all. '
+                          'Beria, for instance, is portrayed as every bit the '
+                          'monster in human form that he was - this, even as '
+                          'that portrayal is also made darkly and delightfully '
+                          'humorous at times.\n'
                           '\n'
-                          '2017 has been a very hit and miss year from '
-                          'personal opinion for films. Some very good to great '
-                          'films and also some less than average to rubbish '
-                          'ones, as well as ones that fall somewhere in '
-                          'between. Some may say that for any year in film, '
-                          'but to me 2017 was one of the most hit and miss. '
-                          "'The Death of Stalin' is a clear highlight. Didn't "
-                          'find that much wrong with it, the character of '
-                          "Svetlana is not as interesting and doesn't have the "
-                          'same depth as the rest of the characters perhaps '
-                          'but this is compensated by Andrea Riseborough still '
-                          'making the most of what she has. The occasional '
-                          'clunker in the writing too but they are vastly out '
-                          'shadowed by the rest of the script being so good.\n'
+                          'The whole cast played their parts well and played '
+                          'them "straight" - which only heightened the humor '
+                          'and the horror of what life was like under Stalin '
+                          'in the Soviet Union. Even the nominal "hero" of the '
+                          'tale, Nakita Khrushchev, is realistically portrayed '
+                          'as being just as conniving and callous and power '
+                          'hungry as everyone else. Buscemi would seem an odd '
+                          'choice for that particular role but he pulls it off '
+                          'with style and excellence. So too does Simon '
+                          'Russell Beale in his portrayal of Beria. \n'
                           '\n'
-                          "Even with a couple of minor reservations, 'The "
-                          "Death of Stalin' as said succeeds in achieving a "
-                          'very difficult task and achieving an ideal balance. '
-                          'Despite how it sounds it is not even close to being '
-                          'as offensive as it easily could have been, making '
-                          'something funny out of one of the darkest (maybe '
-                          "the darkest though it's not in a particularly good, "
-                          'if nowhere near as terrible, state now either '
-                          'periods for Russia/The Soviet Union)on paper does '
-                          "not sound tasteful, but 'The Death of Stalin' "
-                          'splendidly works its way around that potential '
-                          'issue.\n'
+                          'This is a nicely done film with excellent '
+                          'production values, a great script, fine acting, '
+                          'excellent pacing, and a compelling tale that is '
+                          'well told.\n'
                           '\n'
-                          "Visually, 'The Death of Stalin' looks beautiful. "
-                          'The settings and costumes are meticulous in detail '
-                          'and evocative, a lot of homework went into '
-                          'recreating this period, looking both sumptuous and '
-                          'atmospheric. The cinematography is fluid and '
-                          'natural and has the right amount of grit and '
-                          'audaciousness. The music has a mix of the rousing '
-                          'and understated.\n'
-                          '\n'
-                          'Armando Iannucci directs with complete command and '
-                          'control of the subject, his trademark touches of '
-                          'political amorality and dark and sometimes broad '
-                          'but witty and offbeat humour come through loud and '
-                          "clear. He doesn't try to soften reality, nor does "
-                          'he try to make it one big joke, he could easily '
-                          "have done that but he doesn't and he deserves a lot "
-                          'of credit for that.\n'
-                          '\n'
-                          'Further good things are a clever script that has '
-                          'genuinely funny moments and also some truly '
-                          'thought-provoking ones. As soon as the opening '
-                          "sequence begins and happens one knows they're in "
-                          "for a treat. 'The Death of Stalin' is never dull "
-                          'and is hugely entertaining but also has a darker '
-                          'edge in exploring the full terror of Soviet life '
-                          'during the Great Terror, struggle for power and the '
-                          "purge and not trivialising it, it's actually pretty "
-                          'harrowing and poignant.\n'
-                          '\n'
-                          "One cannot talk about 'The Death of Stalin' without "
-                          'mentioning the uniformly outstanding cast, the '
-                          'standouts being Simon Russell Beale giving a '
-                          'performance of almost Shakespearean complexity and '
-                          'Steve Buscemi who bags some of the best moments.\n'
-                          '\n'
-                          'Jason Isaacs steals scenes when he appears (and '
-                          'Paddy Considine delights in his), Andrea '
-                          'Riseborough makes the most of her role and Rupert '
-                          'Friend being this good was a pleasant surprise. '
-                          'Michael Palin is indeed more subdued form than '
-                          'usual but it suited the character and he does it '
-                          'perfectly, personally like that side to him. '
-                          'Jeffrey Tambor is great fun and Olga Kurylenko is '
-                          'expressive.\n'
-                          '\n'
-                          "Summarising, really great and one of 2017's best "
-                          'films. 9/10 Bethany Cox',
+                          'I highly recommend it!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Polar/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Polar/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Polar/info.py',
- 'Title': 'Polar',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Polar/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Mads Mikkelsen',
             'url': '/name/nm0586568/'},
@@ -26,7 +26,7 @@
               'name': 'Jayson Rothwell',
               'url': '/name/nm0745343/'},
              {'@type': 'Person',
-              'name': 'V�ctor Santos',
+              'name': 'Víctor Santos',
               'url': '/name/nm9853356/'},
              {'@type': 'Organization', 'url': '/company/co0002257/'},
              {'@type': 'Organization', 'url': '/company/co0020061/'}],
@@ -36,7 +36,7 @@
                 'himself on the receiving end of a hit, contracted by none '
                 'other than his own employer seeking to cash in on the...',
  'director': {'@type': 'Person',
-              'name': 'Jonas �kerlund',
+              'name': 'Jonas Åkerlund',
               'url': '/name/nm0959774/'},
  'duration': 'PT1H58M',
  'genre': ['Action', 'Crime', 'Drama', 'Thriller'],
@@ -45,30 +45,25 @@
              'comic,bare butt',
  'name': 'Polar',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'matthewkodadek'},
-            'dateCreated': '2019-01-26',
+            'author': {'@type': 'Person', 'name': 'blueeye-silntkilr07'},
+            'dateCreated': '2019-01-25',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4139588/'},
-            'name': 'Exactly what I had hoped for',
-            'reviewBody': "This isn't high art, it's certainly not Oscar bait "
-                          'or even trying to be tongue in cheek...this is a '
-                          'blatantly bloody and violent thrill ride with '
-                          'little exposition and a single purpose: gratuitous '
-                          'violence with no deeper meaning.\n'
+            'name': 'Action movie with charismatic hero',
+            'reviewBody': '//Short and simple//\n'
                           '\n'
-                          'If you watch this for any other reason, be prepared '
-                          'for copious disappointment. No nuance or subtlety, '
-                          'just a murder ballet for the masses.\n'
-                          '\n'
-                          'I predict that as is the current trend, that the '
-                          'audience will love/like it while the critics '
-                          'lambast it...shows the growing irrelevance of the '
-                          'professional critic as their disconnect with the '
-                          'audience grows.',
+                          'If you love Mads Mikkelsen and action, this movie '
+                          'is not going to disappoint you. Over the top '
+                          'action? ✔ Overdramatic main villain? ✔ Replaceable '
+                          "side villains? ✔ Listen guys.. don't compare this "
+                          'movie with john wick and ruin the popcorn time, '
+                          'afterall this is comic book adaptation. Yes, this '
+                          'movie is not perfect (hint: lame villains) but you '
+                          "won't regret watching MM in action.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "The world's top assassin, Duncan Vizla, aka The "

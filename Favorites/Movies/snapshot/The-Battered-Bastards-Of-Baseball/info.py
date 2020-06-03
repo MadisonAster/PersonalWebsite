@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Battered-Bastards-Of-Baseball/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Battered-Bastards-Of-Baseball/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Battered-Bastards-Of-Baseball/info.py',
- 'Title': 'The Battered Bastards of Baseball',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Battered-Bastards-Of-Baseball/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Todd Field', 'url': '/name/nm0276062/'},
            {'@type': 'Person',
             'name': 'Kurt Russell',
@@ -35,37 +35,30 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjE0NDQwNTU2NF5BMl5BanBnXkFtZTgwNDg1MDUyMjE@._V1_.jpg',
  'name': 'The Battered Bastards of Baseball',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'MartinHafer'},
-            'dateCreated': '2014-07-25',
+            'author': {'@type': 'Person', 'name': 'orca1045'},
+            'dateCreated': '2014-07-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3445270/'},
-            'name': 'Threatening the status quo...',
-            'reviewBody': 'This film is a very compelling documentary about '
-                          'the little guy tweaking the nose of baseball and '
-                          "getting away with it...kind of. It's about Bing "
-                          'Russell (father of Kurt Russell) and his ownership '
-                          'of the minor league ball club, the Portland '
-                          'Mavericks. But, unlike most other teams, his team '
-                          'was not affiliated with a major league team but was '
-                          'an independent that scraped together players '
-                          'rejected by other teams. And, what shocked the '
-                          'league was that the team was SUPER-successful and '
-                          'set attendance records...and won a lot of games. '
-                          'But, this rag-tag group of castoffs also irritated '
-                          'the powers that be because they had attitude and '
-                          "didn't play the game exactly like the rest. What's "
-                          'next? See the film.\n'
-                          '\n'
-                          'Aside from some music that was too repetitive, the '
-                          'film was amazingly well made--especially since it '
-                          "was made for Netflix. You just don't expect this "
-                          'sort of thing being made for this DVD service!! '
-                          "But, it's well done and will be of interest to "
-                          "everyone--even those who couldn't care less about "
-                          'sports. Worth seeing.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
+            'name': 'Best thing to hit Portland between triple A tens here.',
+            'reviewBody': 'Just want to say I was at the first tryouts for the '
+                          'team and it was a savory sight there were guys out '
+                          'there that when they had batting practice each one '
+                          'got so many swings I think and there were guy that '
+                          "couldn't even hit a batting practice picture. I "
+                          'remember a left-handed catcher from Vancouver WA, '
+                          "an older guy that was also a catcher I don't think "
+                          "he made the team rather he wasn't half bad but I "
+                          'think his age was against him. The game frank the '
+                          'Flake Peters played all nine positions I think he '
+                          'pitched the 8 inning and threw 9 pitches and '
+                          'retired the side all nine pitches were knuckle '
+                          'balls. One day in tryouts there was a kid from '
+                          'Spokane WA and he got hurt his shoulder and they '
+                          'ask if I would take him to the hospital I took him '
+                          'and when I went back the next day he left during '
+                          "the night They had no insurance and he didn't have "
+                          'any. They were a fun bunch to watch. At the time '
+                          'Frank Peters was the first to steal first base. He '
+                          'just picked it up and left the park.'},
  'url': '/title/tt3445270/'}

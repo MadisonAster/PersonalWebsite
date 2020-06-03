@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Pentagon-Wars/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Pentagon-Wars/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Pentagon-Wars/info.py',
- 'Title': 'The Pentagon Wars',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Pentagon-Wars/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Kelsey Grammer',
             'url': '/name/nm0001288/'},
@@ -44,19 +44,25 @@
  'keywords': 'cover up,army,military,u.s. air force,u.s. army',
  'name': 'The Pentagon Wars',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'koolduck23'},
-            'dateCreated': '2003-03-02',
+            'author': {'@type': 'Person', 'name': 'kakilliany'},
+            'dateCreated': '2000-10-09',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0144550/'},
-            'name': 'kinda scary how dead-on accurate this movie is...',
-            'reviewBody': 'i first saw this movie well before coming into the '
-                          'military, and while i found it very entertaining, '
-                          "didn't fully appreciate it.  having now been 3 "
-                          'years in, i can very much appreciate the humor of '
-                          'this fantastic satire. granted, there is a fair '
-                          'amount of hyperbole, and no, not everyone in the '
-                          'military is so very inept... but simply put, a few '
-                          'years working with military intellegence elevates '
-                          'my view of this film quite a bit.'},
+            'name': 'Amazingly lighthanded telling of infuriating Pentagon '
+                    'bureaucraticinfighting',
+            'reviewBody': 'The story itself--the crazy process whereby a '
+                          'simple request for an improved armored personnel '
+                          'carrier resulted in the ridiculous initial design '
+                          'for the Bradley transport--is one that should be '
+                          'well-known.  It is the ultimate cautionary tale '
+                          'about a bureaucracy gone out of control.  What is '
+                          'amazing is the light-handed skill with which the '
+                          'story is told--it is funny when it should be, yet '
+                          'sucks you in sufficiently to get you really mad at '
+                          'what is going on.  And the casting is superb.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '10',
+                             'worstRating': '1'}},
  'url': '/title/tt0144550/'}

@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Black-Mirror-Bandersnatch/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Black-Mirror-Bandersnatch/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Black-Mirror-Bandersnatch/info.py',
- 'Title': 'Black Mirror: Bandersnatch',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Black-Mirror-Bandersnatch/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Fionn Whitehead',
             'url': '/name/nm7887725/'},

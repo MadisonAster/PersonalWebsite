@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/War-Machine/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/War-Machine/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/War-Machine/info.py',
- 'Title': 'War Machine',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/War-Machine/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Brad Pitt', 'url': '/name/nm0000093/'},
            {'@type': 'Person',
             'name': 'Daniel Betts',
@@ -26,7 +26,7 @@
               'name': 'Michael Hastings',
               'url': '/name/nm0368606/'},
              {'@type': 'Person',
-              'name': 'David Michôd',
+              'name': 'David MichÃ´d',
               'url': '/name/nm2391575/'},
              {'@type': 'Organization', 'url': '/company/co0041001/'},
              {'@type': 'Organization', 'url': '/company/co0144901/'},
@@ -37,7 +37,7 @@
                 'from enemies, allies, and bureaucrats while leading a massive '
                 'rebuilding operation in Afghanistan.',
  'director': {'@type': 'Person',
-              'name': 'David Michôd',
+              'name': 'David MichÃ´d',
               'url': '/name/nm2391575/'},
  'duration': 'PT2H2M',
  'genre': ['Comedy', 'Drama', 'War'],
@@ -45,20 +45,37 @@
  'keywords': 'afghanistan,satire,counter insurgency,foreign affairs,soldier',
  'name': 'War Machine',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'danialkalbasi'},
+            'author': {'@type': 'Person', 'name': 'Laiath'},
             'dateCreated': '2017-05-26',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4758646/'},
-            'name': "It's Entertaining",
-            'reviewBody': 'I watch the movie the day it released. I should say '
-                          'its entertaining and partially funny. I saw lots of '
-                          'people here are very negative about the movie, '
-                          "well, that's a reality of the US/NATO operations in "
-                          'Afganistan! \n'
+            'name': 'Excellent self-criticism',
+            'reviewBody': 'Everything I saw about the movie before I saw the '
+                          'movie pointed to a bold critique of US foreign '
+                          "policy and war politics, so I didn't expect an "
+                          'action filled nail-biter. It did deliver what I '
+                          'expected, and did so phenomenally. The issues the '
+                          'movie brings up and the things the characters said '
+                          "really, truly couldn't have been said more openly "
+                          'and directly. As the narrator would have you know, '
+                          "it's going to fall on deaf ears where it matters "
+                          "the most, granted, but it's one heck of a catharsis "
+                          'session all the same.\n'
                           '\n'
-                          'I like this sentence from the movie: "We cannot '
-                          'help them and kill them at the same time."',
+                          'Where the progression of events gets too slow, the '
+                          "brilliant acting comes to the rescue. Pitt's "
+                          "performance didn't look to me as smooth and "
+                          'believable as it used to be, but Tilda Swinton and '
+                          'Ben Kingsley blew my mind. With their impeccable '
+                          'accents and spot on mannerisms, it was near '
+                          'impossible to tell they were just actors (save for '
+                          'their very familiar faces). There were a few pretty '
+                          'funny lines, too.\n'
+                          '\n'
+                          "To anyone who doesn't mind listening to dialogue "
+                          'and watching out for subtle goings-on, this movie '
+                          'is a must, MUST see.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '8',

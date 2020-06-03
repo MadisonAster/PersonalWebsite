@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/In-The-Tall-Grass/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/In-The-Tall-Grass/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/In-The-Tall-Grass/info.py',
- 'Title': 'In the Tall Grass',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/In-The-Tall-Grass/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Laysla De Oliveira',
             'url': '/name/nm5315658/'},
@@ -48,30 +48,36 @@
              'relationship,grass',
  'name': 'In the Tall Grass',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'rita_c-12170'},
-            'dateCreated': '2019-10-04',
+            'author': {'@type': 'Person', 'name': 'claudio_carvalho'},
+            'dateCreated': '2019-10-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4687108/'},
-            'name': 'Keeps you interested, enjoyable...',
-            'reviewBody': 'Well, this is one of those films that will be like '
-                          "marmite, you'll love it or you'll hate it. Stephen "
-                          'King is unpredictable at best and he delivers again '
-                          'with this movie. I would love to say that you will '
-                          'watch it from start to end and know and understand '
-                          "the story line and meaning of the film but I'd be "
-                          'lying. It keeps you wondering and guessing '
-                          'throughout and gets weirder as it progresses. Yet, '
-                          "I was compelled to keep watching. I think it's "
-                          'interesting and has a deeper connection and meaning '
-                          'to life and the choices we make or should have '
-                          'made. Watch it and make up your own mind, but I '
-                          'loved it! My other half however, was asleep within '
-                          'the first 45 minutes. Like I said Marmite.... '
-                          'enjoy!',
+            'name': 'The Intriguing Supernatural Field',
+            'reviewBody': 'While traveling to San Diego, Cal DeMuth (Avery '
+                          'Whitted) stops the car nearby a tall grass field '
+                          'since his pregnant sister Becky (Laysla De '
+                          'Oliveira) is sick and need to vomit. They overhear '
+                          'the cry for help from a young boy and decide to '
+                          'look for the boy in the field. Soon they realize '
+                          'the field is a supernatural place that manipulates '
+                          'time and space and there is no way out from the '
+                          'tall grass.\n'
+                          '\n'
+                          '"In the Tall Grass" is an intriguing supernatural '
+                          'horror movie with a story based on a novel of '
+                          'Stephen King that recalls a creepy episode of The '
+                          'Twilight Zone. The conclusion is open to '
+                          'interpretation but if the boy succeeds to stop Cal '
+                          'and Becky, Travis will probably never look for them '
+                          'and consequently would be also saved. My vote is '
+                          'six.\n'
+                          '\n'
+                          'Title (Brazil): "Campo do Medo" ("Field of the '
+                          'Fear")',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi2978266905',

@@ -5,7 +5,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Life/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Life/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Life/info.py',
- 'Title': 'Life',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Life/thumb.jpg',
  'actor': [{'@type': 'Person',
             'name': 'Jake Gyllenhaal',
             'url': '/name/nm0350453/'},
@@ -49,71 +49,37 @@
              'station,astronaut,space station,outer space',
  'name': 'Life',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'eparazak'},
-            'dateCreated': '2017-03-26',
+            'author': {'@type': 'Person', 'name': 'emailbox911'},
+            'dateCreated': '2017-06-01',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5442430/'},
-            'name': 'Bonechilling, frightening and unexpecting with...empty '
-                    'characters?',
-            'reviewBody': "I'm starting to notice a trend in movies throughout "
-                          'the beginning of the year. Ever since January, '
-                          "we've been getting quite a few different "
-                          'horror/thriller films this year. The results have '
-                          'been mixed to generally positive; Split and Get Out '
-                          'have received positive attention for instance. And '
-                          'now we have Life.\n'
+            'name': 'Not as bad as people make it out to be.',
+            'reviewBody': 'The internet is a funny place... it seems to be '
+                          'filled with people who have graduated with 5 Ph.Ds. '
+                          'and clearly seem to be smarter than everybody else '
+                          '(thousands of astronauts and astrophysicists on '
+                          'IMDb apparently). One star rating? Come on... '
+                          "Clearly, you haven't watched enough films to know "
+                          'decent from terrible.\n'
                           '\n'
-                          'Life is about a group of six astronauts who '
-                          'discover a single cell on Mars. They all research '
-                          'it for a while, the cell grows into a life form, '
-                          'and they discover that the life form is very '
-                          'deadly, and the astronauts must work together to '
-                          'keep it from reaching earth.\n'
+                          'I watched this film without having heard of it (no '
+                          "trailers, spoilers or anything). I'm a sci-fi fan "
+                          'and thought this was a good watch.\n'
                           '\n'
-                          "I'm going to start with what I didn't like about "
-                          'the movie. My main issue with it has to be the '
-                          'characters. For the most part, they feel very dry '
-                          "and empty. So much so that I couldn't remember a "
-                          'thing about them. There were only two characters '
-                          'who felt like they had any sense of character. The '
-                          "two I'm talking about are Ariyon Bakare's character "
-                          'since he is a scientist and holds a lot of focus in '
-                          "the beginning as the main researcher. Then there's "
-                          "Hiroyuki Sanada's role. His reasoning for wanting "
-                          'to go back to earth makes him the only character I '
-                          "wanted to root for. Aside from that, it's hard for "
-                          "me to care about the movie's characters.\n"
+                          'I found the characters to lack depth and their '
+                          'actions were questionable at times but the plot was '
+                          'believable and the acting decent. Special effects '
+                          'were good and made the movie believable in my '
+                          'opinion. The movie was well shot and I thought the '
+                          'scenes with the creature were pretty cool.\n'
                           '\n'
-                          'If I were to talk about the things I liked about '
-                          'it, I would like to start with the overall feeling '
-                          'of the movie. After the first act, everything '
-                          'begins to feel tense. There are many tense scenes '
-                          "that have left me feeling horrified, and that's "
-                          'what I believe is the main strength of the movie. '
-                          "If you're going into a thriller movie, you'll "
-                          "expect many intense moments. That's what you get "
-                          'throughout the movie. Something I find very '
-                          'impressive throughout it is that almost the '
-                          'entirety of the film takes place in a space vessel. '
-                          "It's amazing how well it plays into the movie and "
-                          'how well the director, actors and cameraworkers '
-                          'perform their duties and how the movie works so '
-                          'well in such a small, boxed in area. I had my '
-                          'doubts walking in, but what works works really '
-                          'well. Another thing I liked about it was how it '
-                          "ended. I'm not gonna go in-depth with it because "
-                          'that would lead into spoiler territory.\n'
-                          '\n'
-                          'Overall, I thought this movie was very frightening '
-                          'and unexpecting. It had many twists and turns that '
-                          'kept me on the edge of my seat. However, the '
-                          "movie's weakness would have to be the characters. "
-                          'But I can forgive that with its gripping and '
-                          'thrilling plot.',
+                          "I don't get how people even compare this movie to "
+                          '"Aliens"; it\'s nothing alike. Overall, I thought '
+                          'it was pretty good.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'An international space crew discovers life on '
