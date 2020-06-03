@@ -75,7 +75,7 @@ foreach ($TVdirs as &$dir){
         echo "    <table style='width:100%;'>\n";
         echo "    <tr>\n";
         echo "    <td style='width:150px;'>\n";
-        echo "    <img src='./_Assets/150x225_loading.gif' psrc='./_Assets/150x225_loading.gif' rsrc='$dir/thumb.jpg'></img>\n";
+        echo "    <img src='./_Assets/150x225_loading.gif' psrc='./_Assets/150x225_loading.gif' rsrc='$dir/thumb.jpg' style='width:150px;height:225px;'></img>\n";
         echo "    <div style='width:150px;height:80px;text-align:center;color:#FFFFFF;text-shadow: 2px 2px 0px rgba(0, 0, 0, 1.0);'>\n";
         echo "    ".$infoArray['name']."\n";
         echo "    </div>\n";
