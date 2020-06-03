@@ -31,29 +31,47 @@ def main():
 
 def GetLinks(html):
     pass #Do something with beautiful soup here
-    
-def GetIMDB(url, OutputDir):
-    print('GetIMDB!', url, OutputDir)
-    #match = soup.find('div', class_='footer')
-    #for match in soup.find_all('div', class_='footer')
-    
+
+def GetEntries(OutputDir):
     Entries = {}
     ExistingEntries = os.listdir(OutputDir)
     for Folder in ExistingEntries:
         EntryPath = OutputDir+'/'+Folder
         if not os.path.isdir(EntryPath):
             continue
-        with open(EntryPath+'/info.py', 'r') as file:
-            EntryText = file.read()
-        EntryObj = eval(EntryText)
-        EntryURL = EntryObj['IMDB']
-        print(EntryObj['Title'], EntryURL)
-        Entries[EntryURL] = EntryObj
-        Entries['EntryPath'] = EntryPath
+        if os.path.isfile(EntryPath+'/entry.json'):
+            with open(EntryPath+'/entry.json', 'r') as file:
+                filetext = file.read()
+            Entry = json.loads(filetext)
+            print('HEY!!!')
+            pprint(Entry)
+            
+            Entries[Entry['EntryURL']] = Entry
+        else:
+            with open(EntryPath+'/info.py', 'r') as file:
+                filetext = file.read()
+            Entry = eval(filetext)
+            Entry['EntryPath'] = EntryPath
+            Entry['EntryURL'] = Entry['IMDB']
+            Entry['Entry_py'] = EntryPath+'/info.py'
+            Entry['Entry_php'] = EntryPath+'/info.php'
+            Entry['Entry_json'] = EntryPath+'/entry.json'
+            
+            Entries[Entry['EntryURL']] = Entry
+    return Entries
+
+def GetIMDB(url, OutputDir):
+    print('GetIMDB!', url, OutputDir)
+    #match = soup.find('div', class_='footer')
+    #for match in soup.find_all('div', class_='footer')
+    
+    Entries = GetEntries(OutputDir)
+    for Entry in Entries.values():
+        with open(Entry['Entry_json'], 'w') as file:
+            file.write(json.dumps(Entry))
+        break
+    
     return
-    
-    
-    
     source = requests.get(url).text
     soup = BeautifulSoup(source, 'lxml')
     jsonscript = soup.find('script', type="application/ld+json")
