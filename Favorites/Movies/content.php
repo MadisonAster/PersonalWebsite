@@ -90,8 +90,12 @@ foreach ($Moviedirs as &$dir){
         
         if (sizeof($infoArray['director']) > 1) {
             echo "    Director:\n";
-            echo "    ".implode(", ", $infoArray['director'])."\n";
-            echo "    <br/>\n";
+            echo "    ";
+            foreach ($infoArray['director'] as &$director){
+                echo $director['name'].",";
+            };
+            echo "\n";
+            #echo "    <br/>\n";
         };
         
         if (sizeof($infoArray['actor']) > 1) {
@@ -101,7 +105,7 @@ foreach ($Moviedirs as &$dir){
                 echo $actor['name'].",";
             };
             echo "\n";
-            echo "    <br/>\n";
+            #echo "    <br/>\n";
         };
         
         echo "    </div>\n";
