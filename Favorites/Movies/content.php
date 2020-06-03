@@ -98,7 +98,7 @@ foreach ($Moviedirs as &$dir){
             echo "    Actors:\n";
             echo "    ";
             foreach ($infoArray['actor'] as &$actor){
-                echo $actor.",";
+                echo $actor['name'].",";
             };
             echo "\n";
             echo "    <br/>\n";
