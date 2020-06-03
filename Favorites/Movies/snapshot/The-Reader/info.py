@@ -40,7 +40,7 @@
                 'defends herself in a war-crime trial. ',
  'Director': ['Stephen Daldry'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Reader',
- 'EntryURL': 'http://www.imdb.com/title/tt0976051',
+ 'EntryURL': 'https://www.imdb.com/title/tt0976051',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Reader/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Reader/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Reader/info.py',

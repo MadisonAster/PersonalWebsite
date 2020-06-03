@@ -7,7 +7,7 @@
                 'searching for a way to bring back something much bigger. ',
  'Director': ['John Williams'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hibernation',
- 'EntryURL': 'http://www.imdb.com/title/tt0479926',
+ 'EntryURL': 'https://www.imdb.com/title/tt0479926',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hibernation/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hibernation/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hibernation/info.py',

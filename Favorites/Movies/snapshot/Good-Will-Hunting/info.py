@@ -31,7 +31,7 @@
                 'to help him with his gift and the rest of his life. ',
  'Director': ['Gus Van Sant'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Good-Will-Hunting',
- 'EntryURL': 'http://www.imdb.com/title/tt0119217',
+ 'EntryURL': 'https://www.imdb.com/title/tt0119217',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Good-Will-Hunting/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Good-Will-Hunting/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Good-Will-Hunting/info.py',

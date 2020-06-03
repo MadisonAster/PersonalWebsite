@@ -6,7 +6,7 @@
                 'from around the world. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Vice',
- 'EntryURL': 'http://www.imdb.com/title/tt2782710',
+ 'EntryURL': 'https://www.imdb.com/title/tt2782710',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Vice/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Vice/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Vice/info.py',

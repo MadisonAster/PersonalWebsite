@@ -55,7 +55,7 @@
                 'a "60 Minutes" expose on Big Tobacco.            ',
  'Director': ['Michael Mann'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Insider',
- 'EntryURL': 'http://www.imdb.com/title/tt0140352',
+ 'EntryURL': 'https://www.imdb.com/title/tt0140352',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Insider/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Insider/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Insider/info.py',

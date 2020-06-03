@@ -22,7 +22,7 @@
                 'revenge and win back his fed-up girlfriend? ',
  'Director': ['Rowan Athale'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Wasteland',
- 'EntryURL': 'http://www.imdb.com/title/tt1981140',
+ 'EntryURL': 'https://www.imdb.com/title/tt1981140',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Wasteland/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Wasteland/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Wasteland/info.py',

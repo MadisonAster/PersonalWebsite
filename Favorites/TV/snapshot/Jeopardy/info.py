@@ -6,7 +6,7 @@
                 'with the answers. But what are the right questions? ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Jeopardy',
- 'EntryURL': 'http://www.imdb.com/title/tt0159881',
+ 'EntryURL': 'https://www.imdb.com/title/tt0159881',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Jeopardy/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Jeopardy/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Jeopardy/info.py',

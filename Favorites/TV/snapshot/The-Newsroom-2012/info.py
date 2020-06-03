@@ -15,7 +15,7 @@
                 "he's forced to work with a new team of colleagues. ",
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Newsroom-2012',
- 'EntryURL': 'http://www.imdb.com/title/tt1870479',
+ 'EntryURL': 'https://www.imdb.com/title/tt1870479',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Newsroom-2012/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Newsroom-2012/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Newsroom-2012/info.py',

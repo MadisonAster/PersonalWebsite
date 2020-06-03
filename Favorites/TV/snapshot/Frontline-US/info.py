@@ -9,7 +9,7 @@
                 'illuminate the critical issues of our times. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Frontline-US',
- 'EntryURL': 'http://www.imdb.com/title/tt0133302',
+ 'EntryURL': 'https://www.imdb.com/title/tt0133302',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Frontline-US/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Frontline-US/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Frontline-US/info.py',

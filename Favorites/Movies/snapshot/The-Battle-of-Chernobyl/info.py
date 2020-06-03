@@ -6,7 +6,7 @@
                 'of Chernobyl. ',
  'Director': ['Thomas Johnson'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Battle-of-Chernobyl',
- 'EntryURL': 'http://www.imdb.com/title/tt1832484',
+ 'EntryURL': 'https://www.imdb.com/title/tt1832484',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Battle-of-Chernobyl/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Battle-of-Chernobyl/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Battle-of-Chernobyl/info.py',

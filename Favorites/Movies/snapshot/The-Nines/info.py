@@ -18,7 +18,7 @@
                 'mysterious and unsettling ways. ',
  'Director': ['John August'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Nines',
- 'EntryURL': 'http://www.imdb.com/title/tt0810988',
+ 'EntryURL': 'https://www.imdb.com/title/tt0810988',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Nines/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Nines/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Nines/info.py',

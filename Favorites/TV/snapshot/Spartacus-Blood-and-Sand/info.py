@@ -21,7 +21,7 @@
                 'a legend.\n',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Spartacus-Blood-and-Sand',
- 'EntryURL': 'http://www.imdb.com/title/tt1442449',
+ 'EntryURL': 'https://www.imdb.com/title/tt1442449',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Spartacus-Blood-and-Sand/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Spartacus-Blood-and-Sand/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Spartacus-Blood-and-Sand/info.py',

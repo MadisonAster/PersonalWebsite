@@ -7,7 +7,7 @@
                 'will change the fate of the universe. ',
  'Director': ['Mihai Wilson'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Ovo',
- 'EntryURL': 'http://www.imdb.com/title/tt2195932',
+ 'EntryURL': 'https://www.imdb.com/title/tt2195932',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Ovo/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Ovo/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Ovo/info.py',

@@ -21,7 +21,7 @@
                 'two very different women.            ',
  'Director': ['Joseph Gordon-Levitt'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Don-Jon',
- 'EntryURL': 'http://www.imdb.com/title/tt2229499',
+ 'EntryURL': 'https://www.imdb.com/title/tt2229499',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Don-Jon/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Don-Jon/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Don-Jon/info.py',

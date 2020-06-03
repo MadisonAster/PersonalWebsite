@@ -16,7 +16,7 @@
                 'dying sun 50 years into the future. ',
  'Director': ['Danny Boyle'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Sunshine',
- 'EntryURL': 'http://www.imdb.com/title/tt0448134',
+ 'EntryURL': 'https://www.imdb.com/title/tt0448134',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Sunshine/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Sunshine/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Sunshine/info.py',

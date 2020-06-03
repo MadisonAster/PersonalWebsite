@@ -16,7 +16,7 @@
                 'his every need. ',
  'Director': ['Spike Jonze'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Her',
- 'EntryURL': 'http://www.imdb.com/title/tt1798709',
+ 'EntryURL': 'https://www.imdb.com/title/tt1798709',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Her/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Her/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Her/info.py',

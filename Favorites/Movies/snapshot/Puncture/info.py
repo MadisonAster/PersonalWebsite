@@ -23,7 +23,7 @@
                 'battling his own personal demons. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Puncture',
- 'EntryURL': 'http://www.imdb.com/title/tt1582248',
+ 'EntryURL': 'https://www.imdb.com/title/tt1582248',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Puncture/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Puncture/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Puncture/info.py',

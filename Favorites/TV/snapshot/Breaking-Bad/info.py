@@ -13,7 +13,7 @@
                 'crisis and becomes a criminal. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Breaking-Bad',
- 'EntryURL': 'http://www.imdb.com/title/tt0903747',
+ 'EntryURL': 'https://www.imdb.com/title/tt0903747',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Breaking-Bad/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Breaking-Bad/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Breaking-Bad/info.py',

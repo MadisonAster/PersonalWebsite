@@ -16,7 +16,7 @@
                 'of his newly born mutant child. ',
  'Director': ['David Lynch'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Eraserhead',
- 'EntryURL': 'http://www.imdb.com/title/tt0074486',
+ 'EntryURL': 'https://www.imdb.com/title/tt0074486',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Eraserhead/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Eraserhead/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Eraserhead/info.py',

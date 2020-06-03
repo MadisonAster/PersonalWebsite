@@ -10,7 +10,7 @@
                 'wrong.            ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fat-Head',
- 'EntryURL': 'http://www.imdb.com/title/tt1333994',
+ 'EntryURL': 'https://www.imdb.com/title/tt1333994',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fat-Head/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fat-Head/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fat-Head/info.py',

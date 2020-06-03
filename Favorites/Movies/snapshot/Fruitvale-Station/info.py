@@ -9,7 +9,7 @@
                 'Spencer. ',
  'Director': ['Ryan Coogler'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fruitvale-Station',
- 'EntryURL': 'http://www.imdb.com/title/tt2334649',
+ 'EntryURL': 'https://www.imdb.com/title/tt2334649',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fruitvale-Station/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fruitvale-Station/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fruitvale-Station/info.py',

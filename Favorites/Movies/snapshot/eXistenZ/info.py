@@ -23,7 +23,7 @@
                 'to determine if the game has been damaged. ',
  'Director': ['David Cronenberg'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//eXistenZ',
- 'EntryURL': 'http://www.imdb.com/title/tt0120907',
+ 'EntryURL': 'https://www.imdb.com/title/tt0120907',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//eXistenZ/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//eXistenZ/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//eXistenZ/info.py',

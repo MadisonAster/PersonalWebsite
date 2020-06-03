@@ -15,7 +15,7 @@
                 'betray them all to become President. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//House-of-Cards',
- 'EntryURL': 'http://www.imdb.com/title/tt1856010',
+ 'EntryURL': 'https://www.imdb.com/title/tt1856010',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//House-of-Cards/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//House-of-Cards/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//House-of-Cards/info.py',

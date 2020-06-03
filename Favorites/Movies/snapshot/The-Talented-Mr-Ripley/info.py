@@ -47,7 +47,7 @@
                 "make Greenleaf's privileges his own. ",
  'Director': ['Anthony Minghella'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Talented-Mr-Ripley',
- 'EntryURL': 'http://www.imdb.com/title/tt0134119',
+ 'EntryURL': 'https://www.imdb.com/title/tt0134119',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Talented-Mr-Ripley/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Talented-Mr-Ripley/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Talented-Mr-Ripley/info.py',

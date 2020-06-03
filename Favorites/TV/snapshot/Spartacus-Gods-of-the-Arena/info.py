@@ -11,7 +11,7 @@
                 'the arena. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Spartacus-Gods-of-the-Arena',
- 'EntryURL': 'http://www.imdb.com/title/tt1758429',
+ 'EntryURL': 'https://www.imdb.com/title/tt1758429',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Spartacus-Gods-of-the-Arena/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Spartacus-Gods-of-the-Arena/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Spartacus-Gods-of-the-Arena/info.py',

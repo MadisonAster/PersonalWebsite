@@ -61,7 +61,7 @@
                 'JFK airport, and must take up temporary residence there. ',
  'Director': ['Steven Spielberg'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Terminal',
- 'EntryURL': 'http://www.imdb.com/title/tt0362227',
+ 'EntryURL': 'https://www.imdb.com/title/tt0362227',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Terminal/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Terminal/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Terminal/info.py',

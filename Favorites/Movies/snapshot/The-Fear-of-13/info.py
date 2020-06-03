@@ -6,7 +6,7 @@
                 'on Death Row tells his story. ',
  'Director': ['David Sington'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Fear-of-13',
- 'EntryURL': 'http://www.imdb.com/title/tt5083702',
+ 'EntryURL': 'https://www.imdb.com/title/tt5083702',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Fear-of-13/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Fear-of-13/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Fear-of-13/info.py',

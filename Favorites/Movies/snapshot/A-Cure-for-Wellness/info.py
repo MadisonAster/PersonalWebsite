@@ -17,7 +17,7 @@
                 'treatments are not what they seem.            ',
  'Director': ['Gore Verbinski'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//A-Cure-for-Wellness',
- 'EntryURL': 'http://www.imdb.com/title/tt4731136',
+ 'EntryURL': 'https://www.imdb.com/title/tt4731136',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//A-Cure-for-Wellness/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//A-Cure-for-Wellness/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//A-Cure-for-Wellness/info.py',

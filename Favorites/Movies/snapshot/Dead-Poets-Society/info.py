@@ -28,7 +28,7 @@
                 'his students to a love of poetry and to seize the day. ',
  'Director': ['Peter Weir'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Dead-Poets-Society',
- 'EntryURL': 'http://www.imdb.com/title/tt0097165',
+ 'EntryURL': 'https://www.imdb.com/title/tt0097165',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Dead-Poets-Society/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Dead-Poets-Society/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Dead-Poets-Society/info.py',

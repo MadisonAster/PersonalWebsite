@@ -25,7 +25,7 @@
                 'imagination of the public.             ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Crime-Story',
- 'EntryURL': 'http://www.imdb.com/title/tt2788432',
+ 'EntryURL': 'https://www.imdb.com/title/tt2788432',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Crime-Story/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Crime-Story/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Crime-Story/info.py',

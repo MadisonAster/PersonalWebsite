@@ -15,7 +15,7 @@
                 'and investigates. ',
  'Director': ['Ridley Scott'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Alien',
- 'EntryURL': 'http://www.imdb.com/title/tt0078748',
+ 'EntryURL': 'https://www.imdb.com/title/tt0078748',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Alien/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Alien/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Alien/info.py',

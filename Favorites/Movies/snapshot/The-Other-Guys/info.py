@@ -54,7 +54,7 @@
                 'reckless officers they idolize.            ',
  'Director': ['Adam McKay'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Other-Guys',
- 'EntryURL': 'http://www.imdb.com/title/tt1386588',
+ 'EntryURL': 'https://www.imdb.com/title/tt1386588',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Other-Guys/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Other-Guys/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Other-Guys/info.py',

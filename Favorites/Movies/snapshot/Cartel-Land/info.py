@@ -8,7 +8,7 @@
                 'veteran heads a paramilitary ... ',
  'Director': ['Matthew Heineman'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Cartel-Land',
- 'EntryURL': 'http://www.imdb.com/title/tt4126304',
+ 'EntryURL': 'https://www.imdb.com/title/tt4126304',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Cartel-Land/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Cartel-Land/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Cartel-Land/info.py',

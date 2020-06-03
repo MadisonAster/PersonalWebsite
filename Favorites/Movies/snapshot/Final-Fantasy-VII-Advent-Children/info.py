@@ -49,7 +49,7 @@
                 'disease. ',
  'Director': ['Tetsuya Nomura'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Final-Fantasy-VII-Advent-Children',
- 'EntryURL': 'http://www.imdb.com/title/tt0385700',
+ 'EntryURL': 'https://www.imdb.com/title/tt0385700',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Final-Fantasy-VII-Advent-Children/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Final-Fantasy-VII-Advent-Children/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Final-Fantasy-VII-Advent-Children/info.py',

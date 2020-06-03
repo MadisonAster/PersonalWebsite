@@ -58,7 +58,7 @@
                 'Princess Leia from the evil clutches of Darth Vader. ',
  'Director': ['George Lucas'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Star-Wars-Episode-IV-A-New-Hope',
- 'EntryURL': 'http://www.imdb.com/title/tt0076759',
+ 'EntryURL': 'https://www.imdb.com/title/tt0076759',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Star-Wars-Episode-IV-A-New-Hope/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Star-Wars-Episode-IV-A-New-Hope/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Star-Wars-Episode-IV-A-New-Hope/info.py',

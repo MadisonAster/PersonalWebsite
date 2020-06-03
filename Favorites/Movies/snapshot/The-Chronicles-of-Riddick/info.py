@@ -47,7 +47,7 @@
                 'humans in the universe. ',
  'Director': ['David Twohy'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Chronicles-of-Riddick',
- 'EntryURL': 'http://www.imdb.com/title/tt0296572',
+ 'EntryURL': 'https://www.imdb.com/title/tt0296572',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Chronicles-of-Riddick/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Chronicles-of-Riddick/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Chronicles-of-Riddick/info.py',

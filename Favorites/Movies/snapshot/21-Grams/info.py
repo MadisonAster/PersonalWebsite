@@ -31,7 +31,7 @@
                 'born-again ex-con (Del Toro). ',
  'Director': ['Alejandro Gonz&#xE1;lez I&#xF1;&#xE1;rritu'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//21-Grams',
- 'EntryURL': 'http://www.imdb.com/title/tt0315733',
+ 'EntryURL': 'https://www.imdb.com/title/tt0315733',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//21-Grams/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//21-Grams/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//21-Grams/info.py',

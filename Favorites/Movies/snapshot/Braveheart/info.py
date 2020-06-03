@@ -52,7 +52,7 @@
                 'Century Scots in their battle to overthrow English rule. ',
  'Director': ['Mel Gibson'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Braveheart',
- 'EntryURL': 'http://www.imdb.com/title/tt0112573',
+ 'EntryURL': 'https://www.imdb.com/title/tt0112573',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Braveheart/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Braveheart/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Braveheart/info.py',

@@ -41,7 +41,7 @@
                 'change that complacent world. ',
  'Director': ['Gary Ross'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pleasantville',
- 'EntryURL': 'http://www.imdb.com/title/tt0120789',
+ 'EntryURL': 'https://www.imdb.com/title/tt0120789',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pleasantville/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pleasantville/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pleasantville/info.py',

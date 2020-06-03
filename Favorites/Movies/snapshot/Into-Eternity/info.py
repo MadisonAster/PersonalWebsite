@@ -9,7 +9,7 @@
                 'the rest of the World. It in ',
  'Director': ['Michael Madsen'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Into-Eternity',
- 'EntryURL': 'http://www.imdb.com/title/tt1194612',
+ 'EntryURL': 'https://www.imdb.com/title/tt1194612',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Into-Eternity/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Into-Eternity/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Into-Eternity/info.py',

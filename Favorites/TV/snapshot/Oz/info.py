@@ -32,7 +32,7 @@
                 'prison facility and its criminal inhabitants. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Oz',
- 'EntryURL': 'http://www.imdb.com/title/tt0118421',
+ 'EntryURL': 'https://www.imdb.com/title/tt0118421',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Oz/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Oz/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Oz/info.py',

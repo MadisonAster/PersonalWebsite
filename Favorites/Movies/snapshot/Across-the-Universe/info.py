@@ -66,7 +66,7 @@
                 'American girl and a poor Liverpudlian artist. ',
  'Director': ['Julie Taymor'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Across-the-Universe',
- 'EntryURL': 'http://www.imdb.com/title/tt0445922',
+ 'EntryURL': 'https://www.imdb.com/title/tt0445922',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Across-the-Universe/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Across-the-Universe/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Across-the-Universe/info.py',

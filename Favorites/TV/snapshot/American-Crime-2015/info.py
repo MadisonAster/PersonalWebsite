@@ -12,7 +12,7 @@
                 'during the legal process. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Crime-2015',
- 'EntryURL': 'http://www.imdb.com/title/tt3488298',
+ 'EntryURL': 'https://www.imdb.com/title/tt3488298',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Crime-2015/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Crime-2015/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Crime-2015/info.py',

@@ -36,7 +36,7 @@
                 'dreams. ',
  'Director': ['Jason Reitman'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Up-in-the-Air',
- 'EntryURL': 'http://www.imdb.com/title/tt1193138',
+ 'EntryURL': 'https://www.imdb.com/title/tt1193138',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Up-in-the-Air/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Up-in-the-Air/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Up-in-the-Air/info.py',

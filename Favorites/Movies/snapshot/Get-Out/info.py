@@ -14,7 +14,7 @@
                 "girlfriend's mysterious family estate. ",
  'Director': ['Jordan Peele'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Get-Out',
- 'EntryURL': 'http://www.imdb.com/title/tt5052448',
+ 'EntryURL': 'https://www.imdb.com/title/tt5052448',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Get-Out/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Get-Out/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Get-Out/info.py',

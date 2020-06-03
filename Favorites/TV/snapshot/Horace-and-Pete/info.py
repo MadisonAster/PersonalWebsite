@@ -12,7 +12,7 @@
                 "Pete's. ",
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Horace-and-Pete',
- 'EntryURL': 'http://www.imdb.com/title/tt5425186',
+ 'EntryURL': 'https://www.imdb.com/title/tt5425186',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Horace-and-Pete/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Horace-and-Pete/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Horace-and-Pete/info.py',

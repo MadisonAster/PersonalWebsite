@@ -25,7 +25,7 @@
                 'can&#x27;t. ',
  'Director': ['Don Coscarelli'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//John-Dies-at-the-End',
- 'EntryURL': 'http://www.imdb.com/title/tt1783732',
+ 'EntryURL': 'https://www.imdb.com/title/tt1783732',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//John-Dies-at-the-End/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//John-Dies-at-the-End/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//John-Dies-at-the-End/info.py',

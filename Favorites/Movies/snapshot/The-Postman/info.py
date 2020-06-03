@@ -50,7 +50,7 @@
                 'resuming postal service. ',
  'Director': ['Kevin Costner'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Postman',
- 'EntryURL': 'http://www.imdb.com/title/tt0119925',
+ 'EntryURL': 'https://www.imdb.com/title/tt0119925',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Postman/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Postman/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Postman/info.py',

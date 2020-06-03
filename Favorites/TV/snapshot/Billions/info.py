@@ -13,7 +13,7 @@
                 'between two powerful New York figures.             ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Billions',
- 'EntryURL': 'http://www.imdb.com/title/tt4270492',
+ 'EntryURL': 'https://www.imdb.com/title/tt4270492',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Billions/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Billions/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Billions/info.py',

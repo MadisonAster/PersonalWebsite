@@ -6,7 +6,7 @@
                 'comedy show. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Saturday-Night-Live',
- 'EntryURL': 'http://www.imdb.com/title/tt0072562',
+ 'EntryURL': 'https://www.imdb.com/title/tt0072562',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Saturday-Night-Live/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Saturday-Night-Live/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Saturday-Night-Live/info.py',

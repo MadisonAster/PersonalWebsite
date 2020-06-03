@@ -54,7 +54,7 @@
                 'entire life is actually a TV show. ',
  'Director': ['Peter Weir'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Truman-Show',
- 'EntryURL': 'http://www.imdb.com/title/tt0120382',
+ 'EntryURL': 'https://www.imdb.com/title/tt0120382',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Truman-Show/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Truman-Show/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Truman-Show/info.py',

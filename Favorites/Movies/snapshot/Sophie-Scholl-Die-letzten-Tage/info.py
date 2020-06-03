@@ -30,7 +30,7 @@
                 'timeless. ',
  'Director': ['Marc Rothemund'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Sophie-Scholl-Die-letzten-Tage',
- 'EntryURL': 'http://www.imdb.com/title/tt0426578',
+ 'EntryURL': 'https://www.imdb.com/title/tt0426578',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Sophie-Scholl-Die-letzten-Tage/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Sophie-Scholl-Die-letzten-Tage/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Sophie-Scholl-Die-letzten-Tage/info.py',

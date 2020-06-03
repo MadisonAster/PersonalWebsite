@@ -24,7 +24,7 @@
                 'creation. ',
  'Director': ['Christopher Kenneally'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Side-by-Side',
- 'EntryURL': 'http://www.imdb.com/title/tt2014338',
+ 'EntryURL': 'https://www.imdb.com/title/tt2014338',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Side-by-Side/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Side-by-Side/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Side-by-Side/info.py',

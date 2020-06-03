@@ -15,7 +15,7 @@
                 "customers head over to Jimmy Pesto's restaurant. ",
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Bobs-Burgers',
- 'EntryURL': 'http://www.imdb.com/title/tt1561755',
+ 'EntryURL': 'https://www.imdb.com/title/tt1561755',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Bobs-Burgers/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Bobs-Burgers/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Bobs-Burgers/info.py',

@@ -50,7 +50,7 @@
                 'killing Nazis.            ',
  'Director': ['Quentin Tarantino'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Inglourious-Basterds',
- 'EntryURL': 'http://www.imdb.com/title/tt0361748',
+ 'EntryURL': 'https://www.imdb.com/title/tt0361748',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Inglourious-Basterds/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Inglourious-Basterds/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Inglourious-Basterds/info.py',

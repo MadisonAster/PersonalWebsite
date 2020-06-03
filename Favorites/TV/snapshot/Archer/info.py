@@ -20,7 +20,7 @@
                 'secretary, Cheryl.            ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Archer',
- 'EntryURL': 'http://www.imdb.com/title/tt1486217',
+ 'EntryURL': 'https://www.imdb.com/title/tt1486217',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Archer/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Archer/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Archer/info.py',

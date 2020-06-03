@@ -9,7 +9,7 @@
                 '"Billy"             ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Legit',
- 'EntryURL': 'http://www.imdb.com/title/tt2400391',
+ 'EntryURL': 'https://www.imdb.com/title/tt2400391',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Legit/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Legit/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Legit/info.py',

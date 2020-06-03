@@ -53,7 +53,7 @@
                 'prepare to resist. ',
  'Director': ['Kenneth Johnson'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//V',
- 'EntryURL': 'http://www.imdb.com/title/tt0085106',
+ 'EntryURL': 'https://www.imdb.com/title/tt0085106',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//V/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//V/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//V/info.py',

@@ -8,7 +8,7 @@
                 'television. ',
  'Director': ['Christian Watt'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//How-TV-Ruined-Your-Life',
- 'EntryURL': 'http://www.imdb.com/title/tt1827733',
+ 'EntryURL': 'https://www.imdb.com/title/tt1827733',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//How-TV-Ruined-Your-Life/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//How-TV-Ruined-Your-Life/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//How-TV-Ruined-Your-Life/info.py',

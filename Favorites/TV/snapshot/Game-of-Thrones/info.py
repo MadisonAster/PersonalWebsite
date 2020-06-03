@@ -43,7 +43,7 @@
                 'beyond. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Game-of-Thrones',
- 'EntryURL': 'http://www.imdb.com/title/tt0944947',
+ 'EntryURL': 'https://www.imdb.com/title/tt0944947',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Game-of-Thrones/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Game-of-Thrones/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Game-of-Thrones/info.py',

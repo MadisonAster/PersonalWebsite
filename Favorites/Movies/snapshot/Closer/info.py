@@ -18,7 +18,7 @@
                 'the other. ',
  'Director': ['Mike Nichols'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Closer',
- 'EntryURL': 'http://www.imdb.com/title/tt0376541',
+ 'EntryURL': 'https://www.imdb.com/title/tt0376541',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Closer/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Closer/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Closer/info.py',

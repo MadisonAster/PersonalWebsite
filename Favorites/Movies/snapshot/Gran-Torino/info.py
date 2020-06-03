@@ -16,7 +16,7 @@
                 "to steal Kowalski's prized possession: his 1972 Gran Torino. ",
  'Director': ['Clint Eastwood'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Gran-Torino',
- 'EntryURL': 'http://www.imdb.com/title/tt1205489',
+ 'EntryURL': 'https://www.imdb.com/title/tt1205489',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Gran-Torino/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Gran-Torino/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Gran-Torino/info.py',

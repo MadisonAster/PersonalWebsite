@@ -6,7 +6,7 @@
                 'Texas billionaire boss and his rich prissy son in 1983. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Code-Monkeys',
- 'EntryURL': 'http://www.imdb.com/title/tt1068683',
+ 'EntryURL': 'https://www.imdb.com/title/tt1068683',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Code-Monkeys/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Code-Monkeys/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Code-Monkeys/info.py',

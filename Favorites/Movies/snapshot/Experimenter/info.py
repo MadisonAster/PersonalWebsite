@@ -10,7 +10,7 @@
                 'tested ordinary humans willingness to obey authority. ',
  'Director': ['Michael Almereyda'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Experimenter',
- 'EntryURL': 'http://www.imdb.com/title/tt3726704',
+ 'EntryURL': 'https://www.imdb.com/title/tt3726704',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Experimenter/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Experimenter/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Experimenter/info.py',

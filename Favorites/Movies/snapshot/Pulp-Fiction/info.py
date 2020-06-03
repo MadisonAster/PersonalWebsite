@@ -44,7 +44,7 @@
                 'four tales of violence and redemption. ',
  'Director': ['Quentin Tarantino'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pulp-Fiction',
- 'EntryURL': 'http://www.imdb.com/title/tt0110912',
+ 'EntryURL': 'https://www.imdb.com/title/tt0110912',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pulp-Fiction/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pulp-Fiction/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pulp-Fiction/info.py',

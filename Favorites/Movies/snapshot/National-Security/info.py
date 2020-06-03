@@ -10,7 +10,7 @@
                 'confess to communist collaboration. ',
  'Director': ['Ji-yeong Jeong'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//National-Security',
- 'EntryURL': 'http://www.imdb.com/title/tt2466786',
+ 'EntryURL': 'https://www.imdb.com/title/tt2466786',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//National-Security/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//National-Security/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//National-Security/info.py',

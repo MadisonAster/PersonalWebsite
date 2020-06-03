@@ -32,7 +32,7 @@
                 'illogical, gratuitous fantasies. ',
  'Director': ['Mary Harron'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Psycho',
- 'EntryURL': 'http://www.imdb.com/title/tt0144084',
+ 'EntryURL': 'https://www.imdb.com/title/tt0144084',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Psycho/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Psycho/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Psycho/info.py',

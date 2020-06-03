@@ -38,7 +38,7 @@
                 'soldiers against an invasion of alien phantoms. ',
  'Director': ['Hironobu Sakaguchi'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Final-Fantasy-The-Spirits-Within',
- 'EntryURL': 'http://www.imdb.com/title/tt0173840',
+ 'EntryURL': 'https://www.imdb.com/title/tt0173840',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Final-Fantasy-The-Spirits-Within/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Final-Fantasy-The-Spirits-Within/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Final-Fantasy-The-Spirits-Within/info.py',

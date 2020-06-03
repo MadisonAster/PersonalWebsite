@@ -4,7 +4,7 @@
  'Description': "\nThe Daily Show: America's top fake news show. ",
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Daily-Show',
- 'EntryURL': 'http://www.imdb.com/title/tt0115147',
+ 'EntryURL': 'https://www.imdb.com/title/tt0115147',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Daily-Show/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Daily-Show/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Daily-Show/info.py',

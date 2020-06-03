@@ -18,7 +18,7 @@
  'Description': '\nParty Monster: This is the true story of ',
  'Director': ['Fenton Bailey'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Party-Monster',
- 'EntryURL': 'http://www.imdb.com/title/tt0320244',
+ 'EntryURL': 'https://www.imdb.com/title/tt0320244',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Party-Monster/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Party-Monster/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Party-Monster/info.py',

@@ -11,7 +11,7 @@
                 'Silicon Prairie. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Halt-and-Catch-Fire',
- 'EntryURL': 'http://www.imdb.com/title/tt2543312',
+ 'EntryURL': 'https://www.imdb.com/title/tt2543312',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Halt-and-Catch-Fire/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Halt-and-Catch-Fire/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Halt-and-Catch-Fire/info.py',

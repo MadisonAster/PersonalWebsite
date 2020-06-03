@@ -8,7 +8,7 @@
                 'impending global impact of this amazing new technology. ',
  'Director': ['Nicholas Mross'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Rise-and-Rise-of-Bitcoin',
- 'EntryURL': 'http://www.imdb.com/title/tt2821314',
+ 'EntryURL': 'https://www.imdb.com/title/tt2821314',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Rise-and-Rise-of-Bitcoin/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Rise-and-Rise-of-Bitcoin/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Rise-and-Rise-of-Bitcoin/info.py',

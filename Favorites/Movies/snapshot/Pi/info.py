@@ -14,7 +14,7 @@
                 'will unlock the universal patterns found in nature. ',
  'Director': ['Darren Aronofsky'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pi',
- 'EntryURL': 'http://www.imdb.com/title/tt0138704',
+ 'EntryURL': 'https://www.imdb.com/title/tt0138704',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pi/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pi/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pi/info.py',

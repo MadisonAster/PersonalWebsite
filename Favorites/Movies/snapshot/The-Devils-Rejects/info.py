@@ -42,7 +42,7 @@
                 'the sadistic serial killers Firefly family (a.k.a... ',
  'Director': ['Rob Zombie'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Devils-Rejects',
- 'EntryURL': 'http://www.imdb.com/title/tt0395584',
+ 'EntryURL': 'https://www.imdb.com/title/tt0395584',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Devils-Rejects/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Devils-Rejects/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Devils-Rejects/info.py',

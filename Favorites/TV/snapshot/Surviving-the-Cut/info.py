@@ -10,7 +10,7 @@
                 'compelling all new series ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Surviving-the-Cut',
- 'EntryURL': 'http://www.imdb.com/title/tt1711419',
+ 'EntryURL': 'https://www.imdb.com/title/tt1711419',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Surviving-the-Cut/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Surviving-the-Cut/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Surviving-the-Cut/info.py',

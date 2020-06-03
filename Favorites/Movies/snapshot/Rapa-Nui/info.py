@@ -23,7 +23,7 @@
                 'the island ecology are more and more reluctant to provide. ',
  'Director': ['Kevin Reynolds'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Rapa-Nui',
- 'EntryURL': 'http://www.imdb.com/title/tt0110944',
+ 'EntryURL': 'https://www.imdb.com/title/tt0110944',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Rapa-Nui/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Rapa-Nui/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Rapa-Nui/info.py',

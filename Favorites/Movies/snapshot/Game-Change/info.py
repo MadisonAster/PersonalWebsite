@@ -52,7 +52,7 @@
                 'election. ',
  'Director': ['Jay Roach'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Game-Change',
- 'EntryURL': 'http://www.imdb.com/title/tt1848902',
+ 'EntryURL': 'https://www.imdb.com/title/tt1848902',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Game-Change/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Game-Change/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Game-Change/info.py',

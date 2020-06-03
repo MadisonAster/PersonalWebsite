@@ -7,7 +7,7 @@
                 'anti-social disorder and connects to people by hacking them. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Mr-Robot',
- 'EntryURL': 'http://www.imdb.com/title/tt4158110',
+ 'EntryURL': 'https://www.imdb.com/title/tt4158110',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Mr-Robot/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Mr-Robot/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Mr-Robot/info.py',

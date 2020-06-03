@@ -6,7 +6,7 @@
                 'from the Internet. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Tosh0',
- 'EntryURL': 'http://www.imdb.com/title/tt1430587',
+ 'EntryURL': 'https://www.imdb.com/title/tt1430587',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Tosh0/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Tosh0/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Tosh0/info.py',

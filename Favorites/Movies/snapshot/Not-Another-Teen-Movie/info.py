@@ -63,7 +63,7 @@
                 'have accumulated in the past two decades. ',
  'Director': ['Joel Gallen'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Not-Another-Teen-Movie',
- 'EntryURL': 'http://www.imdb.com/title/tt0277371',
+ 'EntryURL': 'https://www.imdb.com/title/tt0277371',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Not-Another-Teen-Movie/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Not-Another-Teen-Movie/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Not-Another-Teen-Movie/info.py',

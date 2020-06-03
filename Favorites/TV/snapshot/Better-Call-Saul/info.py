@@ -11,7 +11,7 @@
                 'his strip-mall law office in Albuquerque, New Mexico. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Better-Call-Saul',
- 'EntryURL': 'http://www.imdb.com/title/tt3032476',
+ 'EntryURL': 'https://www.imdb.com/title/tt3032476',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Better-Call-Saul/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Better-Call-Saul/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Better-Call-Saul/info.py',

@@ -27,7 +27,7 @@
                 'life must end at 30. ',
  'Director': ['Michael Anderson'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Logans-Run',
- 'EntryURL': 'http://www.imdb.com/title/tt0074812',
+ 'EntryURL': 'https://www.imdb.com/title/tt0074812',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Logans-Run/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Logans-Run/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Logans-Run/info.py',

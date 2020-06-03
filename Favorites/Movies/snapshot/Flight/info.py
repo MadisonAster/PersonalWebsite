@@ -39,7 +39,7 @@
                 'troubling. ',
  'Director': ['Robert Zemeckis'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Flight',
- 'EntryURL': 'http://www.imdb.com/title/tt1907668',
+ 'EntryURL': 'https://www.imdb.com/title/tt1907668',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Flight/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Flight/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Flight/info.py',

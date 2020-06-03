@@ -13,7 +13,7 @@
                 'gangsters he betrayed years earlier. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Banshee',
- 'EntryURL': 'http://www.imdb.com/title/tt2017109',
+ 'EntryURL': 'https://www.imdb.com/title/tt2017109',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Banshee/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Banshee/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Banshee/info.py',

@@ -18,7 +18,7 @@
                 'stars. ',
  'Director': ['John Wells'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Burnt',
- 'EntryURL': 'http://www.imdb.com/title/tt2503944',
+ 'EntryURL': 'https://www.imdb.com/title/tt2503944',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Burnt/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Burnt/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Burnt/info.py',

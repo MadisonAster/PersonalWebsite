@@ -8,7 +8,7 @@
                 'on the days news. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Nightly-Show-with-Larry-Wilmore',
- 'EntryURL': 'http://www.imdb.com/title/tt3722332',
+ 'EntryURL': 'https://www.imdb.com/title/tt3722332',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Nightly-Show-with-Larry-Wilmore/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Nightly-Show-with-Larry-Wilmore/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Nightly-Show-with-Larry-Wilmore/info.py',

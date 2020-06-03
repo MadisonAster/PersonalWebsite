@@ -11,7 +11,7 @@
                 'Kelley�s �Jesus is white� comments. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Black-Jesus',
- 'EntryURL': 'http://www.imdb.com/title/tt3589872',
+ 'EntryURL': 'https://www.imdb.com/title/tt3589872',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Black-Jesus/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Black-Jesus/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Black-Jesus/info.py',

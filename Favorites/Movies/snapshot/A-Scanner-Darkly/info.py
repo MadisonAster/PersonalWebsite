@@ -24,7 +24,7 @@
                 'to lose his own identity as a result. ',
  'Director': ['Richard Linklater'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//A-Scanner-Darkly',
- 'EntryURL': 'http://www.imdb.com/title/tt0405296',
+ 'EntryURL': 'https://www.imdb.com/title/tt0405296',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//A-Scanner-Darkly/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//A-Scanner-Darkly/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//A-Scanner-Darkly/info.py',

@@ -18,7 +18,7 @@
                 'Confederate army. ',
  'Director': ['Gary Ross'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Free-State-of-Jones',
- 'EntryURL': 'http://www.imdb.com/title/tt1124037',
+ 'EntryURL': 'https://www.imdb.com/title/tt1124037',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Free-State-of-Jones/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Free-State-of-Jones/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Free-State-of-Jones/info.py',

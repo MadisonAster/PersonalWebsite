@@ -64,7 +64,7 @@
                 'his new picture made. ',
  'Director': ['Barry Levinson'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//What-Just-Happened',
- 'EntryURL': 'http://www.imdb.com/title/tt0486674',
+ 'EntryURL': 'https://www.imdb.com/title/tt0486674',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//What-Just-Happened/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//What-Just-Happened/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//What-Just-Happened/info.py',

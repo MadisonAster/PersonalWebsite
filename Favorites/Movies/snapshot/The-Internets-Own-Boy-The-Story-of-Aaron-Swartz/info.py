@@ -7,7 +7,7 @@
                 'who took his own life at the age of 26. ',
  'Director': ['Brian Knappenberger'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Internets-Own-Boy-The-Story-of-Aaron-Swartz',
- 'EntryURL': 'http://www.imdb.com/title/tt3268458',
+ 'EntryURL': 'https://www.imdb.com/title/tt3268458',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Internets-Own-Boy-The-Story-of-Aaron-Swartz/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Internets-Own-Boy-The-Story-of-Aaron-Swartz/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Internets-Own-Boy-The-Story-of-Aaron-Swartz/info.py',

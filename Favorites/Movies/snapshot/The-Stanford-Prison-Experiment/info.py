@@ -8,7 +8,7 @@
                 'the basement of the Stanford psychology building. ',
  'Director': ['Kyle Patrick Alvarez'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Stanford-Prison-Experiment',
- 'EntryURL': 'http://www.imdb.com/title/tt0420293',
+ 'EntryURL': 'https://www.imdb.com/title/tt0420293',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Stanford-Prison-Experiment/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Stanford-Prison-Experiment/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Stanford-Prison-Experiment/info.py',

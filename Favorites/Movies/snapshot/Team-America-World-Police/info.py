@@ -20,7 +20,7 @@
                 'celebrities and falling in love. ',
  'Director': ['Trey Parker'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Team-America-World-Police',
- 'EntryURL': 'http://www.imdb.com/title/tt0372588',
+ 'EntryURL': 'https://www.imdb.com/title/tt0372588',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Team-America-World-Police/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Team-America-World-Police/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Team-America-World-Police/info.py',

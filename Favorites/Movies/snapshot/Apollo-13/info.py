@@ -66,7 +66,7 @@
                 'skill and dedication. ',
  'Director': ['Ron Howard'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Apollo-13',
- 'EntryURL': 'http://www.imdb.com/title/tt0112384',
+ 'EntryURL': 'https://www.imdb.com/title/tt0112384',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Apollo-13/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Apollo-13/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Apollo-13/info.py',

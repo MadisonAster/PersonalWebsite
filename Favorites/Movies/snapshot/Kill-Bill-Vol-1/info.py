@@ -37,7 +37,7 @@
                 'part of. ',
  'Director': ['Quentin Tarantino'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kill-Bill-Vol-1',
- 'EntryURL': 'http://www.imdb.com/title/tt0266697',
+ 'EntryURL': 'https://www.imdb.com/title/tt0266697',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kill-Bill-Vol-1/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kill-Bill-Vol-1/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kill-Bill-Vol-1/info.py',

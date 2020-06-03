@@ -7,7 +7,7 @@
                 'weekly news satire program. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Last-Week-Tonight-with-John-Oliver',
- 'EntryURL': 'http://www.imdb.com/title/tt3530232',
+ 'EntryURL': 'https://www.imdb.com/title/tt3530232',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Last-Week-Tonight-with-John-Oliver/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Last-Week-Tonight-with-John-Oliver/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Last-Week-Tonight-with-John-Oliver/info.py',

@@ -12,7 +12,7 @@
                 'Presents Donald Trump?s The Art Of The Deal: The Movie.\n',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Donald-Trumps-The-Art-of-the-Deal-The-Movie',
- 'EntryURL': 'http://www.imdb.com/title/tt5456120',
+ 'EntryURL': 'https://www.imdb.com/title/tt5456120',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Donald-Trumps-The-Art-of-the-Deal-The-Movie/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Donald-Trumps-The-Art-of-the-Deal-The-Movie/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Donald-Trumps-The-Art-of-the-Deal-The-Movie/info.py',

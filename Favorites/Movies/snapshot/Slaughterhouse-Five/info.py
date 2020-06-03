@@ -24,7 +24,7 @@
  'Description': '\nSlaughterhouse-Five: ',
  'Director': ['George Roy Hill'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Slaughterhouse-Five',
- 'EntryURL': 'http://www.imdb.com/title/tt0069280',
+ 'EntryURL': 'https://www.imdb.com/title/tt0069280',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Slaughterhouse-Five/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Slaughterhouse-Five/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Slaughterhouse-Five/info.py',

@@ -6,7 +6,7 @@
                 'ancient and mysterious city of Atlantis. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Atlantis',
- 'EntryURL': 'http://www.imdb.com/title/tt2705602',
+ 'EntryURL': 'https://www.imdb.com/title/tt2705602',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Atlantis/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Atlantis/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Atlantis/info.py',

@@ -7,7 +7,7 @@
                 'dollar enterprise built on the backs of its unpaid athletes. ',
  'Director': ['Ross Finkel'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Schooled-The-Price-of-College-Sports',
- 'EntryURL': 'http://www.imdb.com/title/tt3057718',
+ 'EntryURL': 'https://www.imdb.com/title/tt3057718',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Schooled-The-Price-of-College-Sports/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Schooled-The-Price-of-College-Sports/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Schooled-The-Price-of-College-Sports/info.py',

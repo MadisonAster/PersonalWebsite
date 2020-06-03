@@ -13,7 +13,7 @@
                 'important stories. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Vanguard',
- 'EntryURL': 'http://www.imdb.com/title/tt2016109',
+ 'EntryURL': 'https://www.imdb.com/title/tt2016109',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Vanguard/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Vanguard/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Vanguard/info.py',

@@ -32,7 +32,7 @@
                 'latest flame Elle. ',
  'Director': ['Quentin Tarantino'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kill-Bill-Vol-2',
- 'EntryURL': 'http://www.imdb.com/title/tt0378194',
+ 'EntryURL': 'https://www.imdb.com/title/tt0378194',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kill-Bill-Vol-2/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kill-Bill-Vol-2/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kill-Bill-Vol-2/info.py',

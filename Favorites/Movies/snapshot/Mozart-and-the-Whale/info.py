@@ -18,7 +18,7 @@
                 'sabotage their budding relationship. ',
  'Director': ['Petter N&#xE6;ss'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Mozart-and-the-Whale',
- 'EntryURL': 'http://www.imdb.com/title/tt0392465',
+ 'EntryURL': 'https://www.imdb.com/title/tt0392465',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Mozart-and-the-Whale/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Mozart-and-the-Whale/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Mozart-and-the-Whale/info.py',

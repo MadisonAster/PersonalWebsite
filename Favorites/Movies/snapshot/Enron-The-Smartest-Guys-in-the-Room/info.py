@@ -15,7 +15,7 @@
                 'and how they led to its fall. ',
  'Director': ['Alex Gibney'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Enron-The-Smartest-Guys-in-the-Room',
- 'EntryURL': 'http://www.imdb.com/title/tt1016268',
+ 'EntryURL': 'https://www.imdb.com/title/tt1016268',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Enron-The-Smartest-Guys-in-the-Room/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Enron-The-Smartest-Guys-in-the-Room/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Enron-The-Smartest-Guys-in-the-Room/info.py',

@@ -33,7 +33,7 @@
                 'intelligent computer HAL, sets off on a quest. ',
  'Director': ['Stanley Kubrick'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//2001-A-Space-Odyssey',
- 'EntryURL': 'http://www.imdb.com/title/tt0062622',
+ 'EntryURL': 'https://www.imdb.com/title/tt0062622',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//2001-A-Space-Odyssey/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//2001-A-Space-Odyssey/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//2001-A-Space-Odyssey/info.py',

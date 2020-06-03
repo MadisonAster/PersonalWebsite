@@ -54,7 +54,7 @@
                 'psychadelic escapades. ',
  'Director': ['Terry Gilliam'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fear-and-Loathing-in-Las-Vegas',
- 'EntryURL': 'http://www.imdb.com/title/tt0120669',
+ 'EntryURL': 'https://www.imdb.com/title/tt0120669',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fear-and-Loathing-in-Las-Vegas/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fear-and-Loathing-in-Las-Vegas/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fear-and-Loathing-in-Las-Vegas/info.py',

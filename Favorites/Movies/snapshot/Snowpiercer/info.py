@@ -26,7 +26,7 @@
                 'the globe via a perpetual-motion engine. ',
  'Director': ['Joon-ho Bong'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Snowpiercer',
- 'EntryURL': 'http://www.imdb.com/title/tt1706620',
+ 'EntryURL': 'https://www.imdb.com/title/tt1706620',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Snowpiercer/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Snowpiercer/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Snowpiercer/info.py',

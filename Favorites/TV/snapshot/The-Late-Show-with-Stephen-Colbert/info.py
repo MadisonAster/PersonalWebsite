@@ -10,7 +10,7 @@
                 'York.            ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Late-Show-with-Stephen-Colbert',
- 'EntryURL': 'http://www.imdb.com/title/tt3697842',
+ 'EntryURL': 'https://www.imdb.com/title/tt3697842',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Late-Show-with-Stephen-Colbert/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Late-Show-with-Stephen-Colbert/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Late-Show-with-Stephen-Colbert/info.py',

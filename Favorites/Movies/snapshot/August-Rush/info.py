@@ -29,7 +29,7 @@
                 'his birth parents. ',
  'Director': ['Kirsten Sheridan'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//August-Rush',
- 'EntryURL': 'http://www.imdb.com/title/tt0426931',
+ 'EntryURL': 'https://www.imdb.com/title/tt0426931',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//August-Rush/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//August-Rush/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//August-Rush/info.py',

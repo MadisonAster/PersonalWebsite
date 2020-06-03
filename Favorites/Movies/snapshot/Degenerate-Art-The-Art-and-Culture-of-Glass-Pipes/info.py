@@ -9,7 +9,7 @@
                 'and well informed ...            ',
  'Director': ['Marble Slinger'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Degenerate-Art-The-Art-and-Culture-of-Glass-Pipes',
- 'EntryURL': 'http://www.imdb.com/title/tt2123927',
+ 'EntryURL': 'https://www.imdb.com/title/tt2123927',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Degenerate-Art-The-Art-and-Culture-of-Glass-Pipes/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Degenerate-Art-The-Art-and-Culture-of-Glass-Pipes/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Degenerate-Art-The-Art-and-Culture-of-Glass-Pipes/info.py',

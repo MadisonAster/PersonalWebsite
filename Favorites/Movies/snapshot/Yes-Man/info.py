@@ -65,7 +65,7 @@
                 'to everything for an entire year.            ',
  'Director': ['Peyton Reed'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Yes-Man',
- 'EntryURL': 'http://www.imdb.com/title/tt1068680',
+ 'EntryURL': 'https://www.imdb.com/title/tt1068680',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Yes-Man/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Yes-Man/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Yes-Man/info.py',

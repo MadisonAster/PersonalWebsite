@@ -7,7 +7,7 @@
                 'and visual aids to explain physics concepts. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Mechanical-Universe-and-Beyond',
- 'EntryURL': 'http://www.imdb.com/title/tt0396993',
+ 'EntryURL': 'https://www.imdb.com/title/tt0396993',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Mechanical-Universe-and-Beyond/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Mechanical-Universe-and-Beyond/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Mechanical-Universe-and-Beyond/info.py',

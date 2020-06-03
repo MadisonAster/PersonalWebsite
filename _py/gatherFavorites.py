@@ -43,6 +43,8 @@ def GetEntries(OutputDir):
             with open(EntryPath+'/entry.json', 'r') as file:
                 filetext = file.read()
             Entry = json.loads(filetext)
+            Entry['EntryURL'] = Entry['EntryURL'].replace('http://', 'https://')
+            
             Entries[Entry['EntryURL']] = Entry
         else:
             with open(EntryPath+'/info.py', 'r') as file:
@@ -71,20 +73,25 @@ def GetIMDB(url, OutputDir):
     #for match in soup.find_all('div', class_='footer')
     
     Entries = GetEntries(OutputDir)
-    WriteEntries(Entries)
+    #WriteEntries(Entries)
+    #return
     
-    
-    
-    return
     source = requests.get(url).text
     soup = BeautifulSoup(source, 'lxml')
     jsonscript = soup.find('script', type="application/ld+json")
     jsontext = jsonscript.contents[0]
     jsonobj = json.loads(jsontext)
     for item in jsonobj['about']['itemListElement']:
-        itemurl = 'https://www.imdb.com'+item['url']
+        itemurl = 'https://www.imdb.com'+item['url'].rstrip('/')
+        if itemurl in Entries.keys():
+            print('Entry Found!', Entries[itemurl]['Title'])
+        else:
+            print('No Entry Found:', itemurl)
     
-    pprint(jsonobj)
+    
+    
+    
+    #pprint(jsonobj)
     
     #OutputPath = OutputDir+'/index'+str(i)+'.html'
     #print('OutputPath', OutputPath)

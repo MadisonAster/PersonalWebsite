@@ -23,7 +23,7 @@
                 'stages of the financial crisis. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Margin-Call',
- 'EntryURL': 'http://www.imdb.com/title/tt1615147',
+ 'EntryURL': 'https://www.imdb.com/title/tt1615147',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Margin-Call/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Margin-Call/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Margin-Call/info.py',

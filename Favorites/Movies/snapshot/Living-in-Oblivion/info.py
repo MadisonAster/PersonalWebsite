@@ -17,7 +17,7 @@
                 'to all independent filmmakers. ',
  'Director': ['Tom DiCillo'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Living-in-Oblivion',
- 'EntryURL': 'http://www.imdb.com/title/tt0113677',
+ 'EntryURL': 'https://www.imdb.com/title/tt0113677',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Living-in-Oblivion/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Living-in-Oblivion/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Living-in-Oblivion/info.py',

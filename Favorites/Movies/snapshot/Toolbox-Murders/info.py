@@ -21,7 +21,7 @@
                 'our heroine to solve the mystery. ',
  'Director': ['Tobe Hooper'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Toolbox-Murders',
- 'EntryURL': 'http://www.imdb.com/title/tt0367153',
+ 'EntryURL': 'https://www.imdb.com/title/tt0367153',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Toolbox-Murders/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Toolbox-Murders/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Toolbox-Murders/info.py',

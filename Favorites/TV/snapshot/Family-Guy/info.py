@@ -15,7 +15,7 @@
                 'from one crazy scenario to another. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Family-Guy',
- 'EntryURL': 'http://www.imdb.com/title/tt0182576',
+ 'EntryURL': 'https://www.imdb.com/title/tt0182576',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Family-Guy/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Family-Guy/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Family-Guy/info.py',

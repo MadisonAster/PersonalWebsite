@@ -23,7 +23,7 @@
                 'universe. ',
  'Director': ['Richard Linklater'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Waking-Life',
- 'EntryURL': 'http://www.imdb.com/title/tt0243017',
+ 'EntryURL': 'https://www.imdb.com/title/tt0243017',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Waking-Life/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Waking-Life/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Waking-Life/info.py',

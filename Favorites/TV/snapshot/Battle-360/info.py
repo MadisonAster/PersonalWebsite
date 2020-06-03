@@ -9,7 +9,7 @@
                 'voice-over narration. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Battle-360',
- 'EntryURL': 'http://www.imdb.com/title/tt1194698',
+ 'EntryURL': 'https://www.imdb.com/title/tt1194698',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Battle-360/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Battle-360/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Battle-360/info.py',

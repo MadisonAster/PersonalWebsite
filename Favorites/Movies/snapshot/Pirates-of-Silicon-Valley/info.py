@@ -44,7 +44,7 @@
  'Description': '\nPirates of Silicon Valley: History of Apple and Microsoft. ',
  'Director': ['Martyn Burke'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pirates-of-Silicon-Valley',
- 'EntryURL': 'http://www.imdb.com/title/tt0168122',
+ 'EntryURL': 'https://www.imdb.com/title/tt0168122',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pirates-of-Silicon-Valley/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pirates-of-Silicon-Valley/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pirates-of-Silicon-Valley/info.py',

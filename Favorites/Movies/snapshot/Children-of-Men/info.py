@@ -51,7 +51,7 @@
                 'future of humankind. ',
  'Director': ['Alfonso Cuar&#243;n'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Children-of-Men',
- 'EntryURL': 'http://www.imdb.com/title/tt0206634',
+ 'EntryURL': 'https://www.imdb.com/title/tt0206634',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Children-of-Men/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Children-of-Men/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Children-of-Men/info.py',

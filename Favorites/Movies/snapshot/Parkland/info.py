@@ -18,7 +18,7 @@
                 'Kennedy was assassinated. ',
  'Director': ['Peter Landesman'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Parkland',
- 'EntryURL': 'http://www.imdb.com/title/tt2345112',
+ 'EntryURL': 'https://www.imdb.com/title/tt2345112',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Parkland/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Parkland/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Parkland/info.py',

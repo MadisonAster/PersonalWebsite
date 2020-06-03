@@ -53,7 +53,7 @@
                 'orchestrated the deal. ',
  'Director': ['F. Gary Gray'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Law-Abiding-Citizen',
- 'EntryURL': 'http://www.imdb.com/title/tt1197624',
+ 'EntryURL': 'https://www.imdb.com/title/tt1197624',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Law-Abiding-Citizen/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Law-Abiding-Citizen/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Law-Abiding-Citizen/info.py',

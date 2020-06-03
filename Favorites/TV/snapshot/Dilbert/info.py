@@ -16,7 +16,7 @@
                 'pet, Dogbert. ',
  'Director': ['Rick Del Carmen'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Dilbert',
- 'EntryURL': 'http://www.imdb.com/title/tt0118984',
+ 'EntryURL': 'https://www.imdb.com/title/tt0118984',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Dilbert/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Dilbert/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Dilbert/info.py',

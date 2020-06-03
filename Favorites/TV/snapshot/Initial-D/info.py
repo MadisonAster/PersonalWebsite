@@ -23,7 +23,7 @@
                 'underground drift-racers. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Initial-D',
- 'EntryURL': 'http://www.imdb.com/title/tt0385426',
+ 'EntryURL': 'https://www.imdb.com/title/tt0385426',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Initial-D/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Initial-D/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Initial-D/info.py',

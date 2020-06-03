@@ -19,7 +19,7 @@
                 'destructive natural disasters in history. ',
  'Director': ['Sam Miller'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Krakatoa-The-Last-Days',
- 'EntryURL': 'http://www.imdb.com/title/tt0791318',
+ 'EntryURL': 'https://www.imdb.com/title/tt0791318',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Krakatoa-The-Last-Days/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Krakatoa-The-Last-Days/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Krakatoa-The-Last-Days/info.py',

@@ -9,7 +9,7 @@
                 'the late 1980s. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Silicon-Valley',
- 'EntryURL': 'http://www.imdb.com/title/tt2575988',
+ 'EntryURL': 'https://www.imdb.com/title/tt2575988',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Silicon-Valley/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Silicon-Valley/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Silicon-Valley/info.py',

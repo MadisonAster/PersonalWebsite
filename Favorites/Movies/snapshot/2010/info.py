@@ -29,7 +29,7 @@
                 'Jupiter to learn what happened to the Discovery. ',
  'Director': ['Peter Hyams'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//2010',
- 'EntryURL': 'http://www.imdb.com/title/tt0086837',
+ 'EntryURL': 'https://www.imdb.com/title/tt0086837',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//2010/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//2010/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//2010/info.py',

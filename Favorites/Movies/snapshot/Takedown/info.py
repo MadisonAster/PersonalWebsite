@@ -35,7 +35,7 @@
                 'the capture of computer hacker "Kevin Mitnick".            ',
  'Director': ['Joe Chappelle'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Takedown',
- 'EntryURL': 'http://www.imdb.com/title/tt0159784',
+ 'EntryURL': 'https://www.imdb.com/title/tt0159784',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Takedown/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Takedown/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Takedown/info.py',

@@ -33,7 +33,7 @@
                 'move. ',
  'Director': ['Neil Burger'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Limitless',
- 'EntryURL': 'http://www.imdb.com/title/tt1219289',
+ 'EntryURL': 'https://www.imdb.com/title/tt1219289',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Limitless/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Limitless/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Limitless/info.py',

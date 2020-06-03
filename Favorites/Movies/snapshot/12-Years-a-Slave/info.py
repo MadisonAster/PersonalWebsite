@@ -22,7 +22,7 @@
                 'with a Canadian abolitionist () will forever alter his life. ',
  'Director': ['Steve McQueen'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//12-Years-a-Slave',
- 'EntryURL': 'http://www.imdb.com/title/tt2024544',
+ 'EntryURL': 'https://www.imdb.com/title/tt2024544',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//12-Years-a-Slave/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//12-Years-a-Slave/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//12-Years-a-Slave/info.py',

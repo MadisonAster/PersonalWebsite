@@ -42,7 +42,7 @@
                 'initiating first contact with alien life. ',
  'Director': ['Jonathan Frakes'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Star-Trek-First-Contact',
- 'EntryURL': 'http://www.imdb.com/title/tt0117731',
+ 'EntryURL': 'https://www.imdb.com/title/tt0117731',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Star-Trek-First-Contact/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Star-Trek-First-Contact/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Star-Trek-First-Contact/info.py',

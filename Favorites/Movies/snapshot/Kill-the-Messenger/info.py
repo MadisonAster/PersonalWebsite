@@ -9,7 +9,7 @@
                 'Based on the true story of journalist Gary Webb. ',
  'Director': ['Michael Cuesta'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kill-the-Messenger',
- 'EntryURL': 'http://www.imdb.com/title/tt1216491',
+ 'EntryURL': 'https://www.imdb.com/title/tt1216491',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kill-the-Messenger/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kill-the-Messenger/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kill-the-Messenger/info.py',

@@ -20,7 +20,7 @@
                 'of loss that they discover what they had to begin with. ',
  'Director': ['Michel Gondry'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Eternal-Sunshine-of-the-Spotless-Mind',
- 'EntryURL': 'http://www.imdb.com/title/tt0338013',
+ 'EntryURL': 'https://www.imdb.com/title/tt0338013',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Eternal-Sunshine-of-the-Spotless-Mind/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Eternal-Sunshine-of-the-Spotless-Mind/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Eternal-Sunshine-of-the-Spotless-Mind/info.py',

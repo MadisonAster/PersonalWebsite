@@ -19,7 +19,7 @@
                 'his ex-girlfriend. ',
  'Director': ['Rian Johnson'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Brick',
- 'EntryURL': 'http://www.imdb.com/title/tt0393109',
+ 'EntryURL': 'https://www.imdb.com/title/tt0393109',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Brick/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Brick/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Brick/info.py',

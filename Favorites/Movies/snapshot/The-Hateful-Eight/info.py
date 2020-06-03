@@ -15,7 +15,7 @@
                 'plot of betrayal and deception. Will they survive? ',
  'Director': ['Quentin Tarantino'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Hateful-Eight',
- 'EntryURL': 'http://www.imdb.com/title/tt3460252',
+ 'EntryURL': 'https://www.imdb.com/title/tt3460252',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Hateful-Eight/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Hateful-Eight/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Hateful-Eight/info.py',

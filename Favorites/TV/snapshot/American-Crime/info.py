@@ -6,8 +6,16 @@
             'Todd Terry&tv'],
  'Added': '2015-03-28',
  'Countries': [],
- 'Description': '\nAmerican Crime : The lives of the participants in a trial with significant racial motives are forever changed during the legal process. ',
+ 'Description': '\n'
+                'American Crime : The lives of the participants in a trial '
+                'with significant racial motives are forever changed during '
+                'the legal process. ',
  'Director': [],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Crime',
+ 'EntryURL': 'http://www.imdb.com/title/tt3488298',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Crime/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Crime/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Crime/info.py',
  'Genres': ['Crime&tv', 'Drama&tv'],
  'IMDB': 'http://www.imdb.com/title/tt3488298',
  'PrimeWire': 'http://www.primewire.ag/tv-2759191-American-Crime',

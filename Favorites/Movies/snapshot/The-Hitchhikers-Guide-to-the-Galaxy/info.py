@@ -44,7 +44,7 @@
                 'Galaxy."            ',
  'Director': ['Garth Jennings'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Hitchhikers-Guide-to-the-Galaxy',
- 'EntryURL': 'http://www.imdb.com/title/tt0371724',
+ 'EntryURL': 'https://www.imdb.com/title/tt0371724',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Hitchhikers-Guide-to-the-Galaxy/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Hitchhikers-Guide-to-the-Galaxy/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Hitchhikers-Guide-to-the-Galaxy/info.py',

@@ -9,7 +9,7 @@
                 'arid deserts            ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Stuck-with-Hackett',
- 'EntryURL': 'http://www.imdb.com/title/tt2010667',
+ 'EntryURL': 'https://www.imdb.com/title/tt2010667',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Stuck-with-Hackett/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Stuck-with-Hackett/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Stuck-with-Hackett/info.py',

@@ -53,7 +53,7 @@
                 'lover. ',
  'Director': ['Cameron Crowe'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Vanilla-Sky',
- 'EntryURL': 'http://www.imdb.com/title/tt0259711',
+ 'EntryURL': 'https://www.imdb.com/title/tt0259711',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Vanilla-Sky/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Vanilla-Sky/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Vanilla-Sky/info.py',

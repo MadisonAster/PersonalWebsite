@@ -18,7 +18,7 @@
                 'headed there again. ',
  'Director': ['Jim Bruce'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Money-for-Nothing-Inside-the-Federal-Reserve',
- 'EntryURL': 'http://www.imdb.com/title/tt2752724',
+ 'EntryURL': 'https://www.imdb.com/title/tt2752724',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Money-for-Nothing-Inside-the-Federal-Reserve/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Money-for-Nothing-Inside-the-Federal-Reserve/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Money-for-Nothing-Inside-the-Federal-Reserve/info.py',

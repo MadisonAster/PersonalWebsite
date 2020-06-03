@@ -6,7 +6,7 @@
                 'Kong for the first of many meetings with Edward Snowden. ',
  'Director': ['Laura Poitras'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Citizenfour',
- 'EntryURL': 'http://www.imdb.com/title/tt4044364',
+ 'EntryURL': 'https://www.imdb.com/title/tt4044364',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Citizenfour/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Citizenfour/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Citizenfour/info.py',

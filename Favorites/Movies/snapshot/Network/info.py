@@ -50,7 +50,7 @@
                 'own profit. ',
  'Director': ['Sidney Lumet'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Network',
- 'EntryURL': 'http://www.imdb.com/title/tt0074958',
+ 'EntryURL': 'https://www.imdb.com/title/tt0074958',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Network/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Network/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Network/info.py',

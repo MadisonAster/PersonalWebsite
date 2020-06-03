@@ -13,7 +13,7 @@
                 "thawed out New Year's Eve 2999. ",
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Futurama',
- 'EntryURL': 'http://www.imdb.com/title/tt0149460',
+ 'EntryURL': 'https://www.imdb.com/title/tt0149460',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Futurama/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Futurama/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Futurama/info.py',

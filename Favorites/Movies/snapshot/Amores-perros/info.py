@@ -27,7 +27,7 @@
                 "and life's harsh realities, all in the name of love. ",
  'Director': ['Alejandro Gonz&#xE1;lez I&#xF1;&#xE1;rritu'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Amores-perros',
- 'EntryURL': 'http://www.imdb.com/title/tt0245712',
+ 'EntryURL': 'https://www.imdb.com/title/tt0245712',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Amores-perros/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Amores-perros/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Amores-perros/info.py',

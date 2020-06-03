@@ -17,7 +17,7 @@
                 'by their Luftwaffe counterparts. ',
  'Director': ['Gillies MacKinnon'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Castles-in-the-Sky',
- 'EntryURL': 'http://www.imdb.com/title/tt3311900',
+ 'EntryURL': 'https://www.imdb.com/title/tt3311900',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Castles-in-the-Sky/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Castles-in-the-Sky/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Castles-in-the-Sky/info.py',

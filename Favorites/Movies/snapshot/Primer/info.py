@@ -8,7 +8,7 @@
                 'their new invention. ',
  'Director': ['Shane Carruth'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Primer',
- 'EntryURL': 'http://www.imdb.com/title/tt0390384',
+ 'EntryURL': 'https://www.imdb.com/title/tt0390384',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Primer/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Primer/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Primer/info.py',

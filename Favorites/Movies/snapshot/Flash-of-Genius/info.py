@@ -44,7 +44,7 @@
                 'windshield wiper. ',
  'Director': ['Marc Abraham'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Flash-of-Genius',
- 'EntryURL': 'http://www.imdb.com/title/tt1054588',
+ 'EntryURL': 'https://www.imdb.com/title/tt1054588',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Flash-of-Genius/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Flash-of-Genius/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Flash-of-Genius/info.py',

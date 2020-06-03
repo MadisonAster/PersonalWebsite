@@ -8,7 +8,7 @@
                 "into one. He is humanity's last hope. ",
  'Director': ['Shinji Higuchi'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Attack-on-Titan',
- 'EntryURL': 'http://www.imdb.com/title/tt2072230',
+ 'EntryURL': 'https://www.imdb.com/title/tt2072230',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Attack-on-Titan/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Attack-on-Titan/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Attack-on-Titan/info.py',

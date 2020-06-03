@@ -10,7 +10,7 @@
                 'his landscapes and "Happy little trees"...             ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Joy-of-Painting',
- 'EntryURL': 'http://www.imdb.com/title/tt0383795',
+ 'EntryURL': 'https://www.imdb.com/title/tt0383795',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Joy-of-Painting/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Joy-of-Painting/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Joy-of-Painting/info.py',

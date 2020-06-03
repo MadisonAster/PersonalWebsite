@@ -11,7 +11,7 @@
                 'scheme, which defrauded his clients of billions of dollars. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Wizard-of-Lies',
- 'EntryURL': 'http://www.imdb.com/title/tt1933667',
+ 'EntryURL': 'https://www.imdb.com/title/tt1933667',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Wizard-of-Lies/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Wizard-of-Lies/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Wizard-of-Lies/info.py',

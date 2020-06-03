@@ -15,7 +15,7 @@
  'Description': "\nNick Swardson's Pretend Time: No description ",
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Nick-Swardsons-Pretend-Time',
- 'EntryURL': 'http://www.imdb.com/title/tt1721648',
+ 'EntryURL': 'https://www.imdb.com/title/tt1721648',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Nick-Swardsons-Pretend-Time/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Nick-Swardsons-Pretend-Time/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Nick-Swardsons-Pretend-Time/info.py',

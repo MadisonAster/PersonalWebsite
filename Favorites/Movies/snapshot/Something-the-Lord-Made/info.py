@@ -59,7 +59,7 @@
                 'and kudos come, Thomas is excluded. Will he receive his due? ',
  'Director': ['Joseph Sargent'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Something-the-Lord-Made',
- 'EntryURL': 'http://www.imdb.com/title/tt0386792',
+ 'EntryURL': 'https://www.imdb.com/title/tt0386792',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Something-the-Lord-Made/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Something-the-Lord-Made/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Something-the-Lord-Made/info.py',

@@ -66,7 +66,7 @@
                 'true love, Jenny, eludes him. ',
  'Director': ['Robert Zemeckis'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Forrest-Gump',
- 'EntryURL': 'http://www.imdb.com/title/tt0109830',
+ 'EntryURL': 'https://www.imdb.com/title/tt0109830',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Forrest-Gump/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Forrest-Gump/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Forrest-Gump/info.py',

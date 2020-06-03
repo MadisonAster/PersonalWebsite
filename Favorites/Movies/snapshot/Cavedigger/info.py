@@ -8,7 +8,7 @@
                 'due to lack of funds ... ',
  'Director': ['Jeffrey Karoff'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Cavedigger',
- 'EntryURL': 'http://www.imdb.com/title/tt2516860',
+ 'EntryURL': 'https://www.imdb.com/title/tt2516860',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Cavedigger/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Cavedigger/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Cavedigger/info.py',

@@ -32,7 +32,7 @@
                 'backwater family of serial killers. ',
  'Director': ['Rob Zombie'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//House-of-1000-Corpses',
- 'EntryURL': 'http://www.imdb.com/title/tt0251736',
+ 'EntryURL': 'https://www.imdb.com/title/tt0251736',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//House-of-1000-Corpses/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//House-of-1000-Corpses/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//House-of-1000-Corpses/info.py',

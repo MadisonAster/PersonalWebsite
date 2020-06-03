@@ -7,7 +7,7 @@
  'Description': '\nBetter Off Ted: They&#x27;re Putting Comedy To Work ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Better-Off-Ted',
- 'EntryURL': 'http://www.imdb.com/title/tt1235547',
+ 'EntryURL': 'https://www.imdb.com/title/tt1235547',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Better-Off-Ted/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Better-Off-Ted/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Better-Off-Ted/info.py',

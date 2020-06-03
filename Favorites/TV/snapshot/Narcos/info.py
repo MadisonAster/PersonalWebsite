@@ -11,7 +11,7 @@
                 'Colombian drug lord Pablo Escobar. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Narcos',
- 'EntryURL': 'http://www.imdb.com/title/tt2707408',
+ 'EntryURL': 'https://www.imdb.com/title/tt2707408',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Narcos/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Narcos/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Narcos/info.py',

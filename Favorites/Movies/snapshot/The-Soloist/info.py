@@ -59,7 +59,7 @@
                 'for the paper. ',
  'Director': ['Joe Wright'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Soloist',
- 'EntryURL': 'http://www.imdb.com/title/tt0821642',
+ 'EntryURL': 'https://www.imdb.com/title/tt0821642',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Soloist/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Soloist/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Soloist/info.py',

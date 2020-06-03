@@ -31,7 +31,7 @@
                 'travel. ',
  'Director': ['Andrew Niccol'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Gattaca',
- 'EntryURL': 'http://www.imdb.com/title/tt0119177',
+ 'EntryURL': 'https://www.imdb.com/title/tt0119177',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Gattaca/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Gattaca/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Gattaca/info.py',

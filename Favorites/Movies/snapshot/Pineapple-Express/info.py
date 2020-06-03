@@ -40,7 +40,7 @@
                 'commit a murder. ',
  'Director': ['David Gordon Green'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pineapple-Express',
- 'EntryURL': 'http://www.imdb.com/title/tt0910936',
+ 'EntryURL': 'https://www.imdb.com/title/tt0910936',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pineapple-Express/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pineapple-Express/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pineapple-Express/info.py',

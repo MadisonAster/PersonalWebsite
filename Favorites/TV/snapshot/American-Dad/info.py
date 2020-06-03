@@ -12,7 +12,7 @@
                 'America safe, all in the most absurdist way possible. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Dad',
- 'EntryURL': 'http://www.imdb.com/title/tt0397306',
+ 'EntryURL': 'https://www.imdb.com/title/tt0397306',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Dad/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Dad/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Dad/info.py',

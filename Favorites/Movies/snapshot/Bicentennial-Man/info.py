@@ -29,7 +29,7 @@
                 'gradually acquires emotions. ',
  'Director': ['Chris Columbus'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Bicentennial-Man',
- 'EntryURL': 'http://www.imdb.com/title/tt0182789',
+ 'EntryURL': 'https://www.imdb.com/title/tt0182789',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Bicentennial-Man/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Bicentennial-Man/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Bicentennial-Man/info.py',

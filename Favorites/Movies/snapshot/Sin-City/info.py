@@ -51,7 +51,7 @@
                 'caught up in the violent corruption of the city. ',
  'Director': ['Frank Miller'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Sin-City',
- 'EntryURL': 'http://www.imdb.com/title/tt0401792',
+ 'EntryURL': 'https://www.imdb.com/title/tt0401792',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Sin-City/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Sin-City/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Sin-City/info.py',

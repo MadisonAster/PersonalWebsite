@@ -27,7 +27,7 @@
                 'Africa. ',
  'Director': ['David Cronenberg'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Naked-Lunch',
- 'EntryURL': 'http://www.imdb.com/title/tt0102511',
+ 'EntryURL': 'https://www.imdb.com/title/tt0102511',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Naked-Lunch/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Naked-Lunch/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Naked-Lunch/info.py',

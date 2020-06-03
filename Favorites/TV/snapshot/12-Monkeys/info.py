@@ -8,7 +8,7 @@
                 'that will eventually decimate the human race. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//12-Monkeys',
- 'EntryURL': 'http://www.imdb.com/title/tt3148266',
+ 'EntryURL': 'https://www.imdb.com/title/tt3148266',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//12-Monkeys/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//12-Monkeys/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//12-Monkeys/info.py',

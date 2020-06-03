@@ -11,7 +11,7 @@
                 'otherwise believe. ',
  'Director': ['Susan Saladoff'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hot-Coffee',
- 'EntryURL': 'http://www.imdb.com/title/tt1445203',
+ 'EntryURL': 'https://www.imdb.com/title/tt1445203',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hot-Coffee/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hot-Coffee/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hot-Coffee/info.py',

@@ -29,7 +29,7 @@
                 'child.            ',
  'Director': ['Jon Amiel'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Creation',
- 'EntryURL': 'http://www.imdb.com/title/tt0974014',
+ 'EntryURL': 'https://www.imdb.com/title/tt0974014',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Creation/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Creation/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Creation/info.py',

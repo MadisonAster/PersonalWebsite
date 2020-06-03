@@ -30,7 +30,7 @@
                 'is supplanted by his alter ego, Charles Bronson. ',
  'Director': ['Nicolas Winding Refn'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Bronson',
- 'EntryURL': 'http://www.imdb.com/title/tt1172570',
+ 'EntryURL': 'https://www.imdb.com/title/tt1172570',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Bronson/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Bronson/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Bronson/info.py',

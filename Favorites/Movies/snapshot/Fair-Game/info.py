@@ -47,7 +47,7 @@
                 'weapons of mass destruction to justify the invasion of Iraq. ',
  'Director': ['Doug Liman'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fair-Game',
- 'EntryURL': 'http://www.imdb.com/title/tt0977855',
+ 'EntryURL': 'https://www.imdb.com/title/tt0977855',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fair-Game/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fair-Game/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fair-Game/info.py',

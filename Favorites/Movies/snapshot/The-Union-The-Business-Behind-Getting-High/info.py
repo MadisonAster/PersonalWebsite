@@ -15,7 +15,7 @@
                 "dubbed by some involved as 'The Union'... ",
  'Director': ['Brett Harvey'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Union-The-Business-Behind-Getting-High',
- 'EntryURL': 'http://www.imdb.com/title/tt1039647',
+ 'EntryURL': 'https://www.imdb.com/title/tt1039647',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Union-The-Business-Behind-Getting-High/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Union-The-Business-Behind-Getting-High/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Union-The-Business-Behind-Getting-High/info.py',

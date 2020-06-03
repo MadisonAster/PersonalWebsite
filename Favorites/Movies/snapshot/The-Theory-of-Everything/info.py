@@ -6,7 +6,7 @@
                 'the famous physicist Stephen Hawking and his wife. ',
  'Director': ['James Marsh'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Theory-of-Everything',
- 'EntryURL': 'http://www.imdb.com/title/tt2980516',
+ 'EntryURL': 'https://www.imdb.com/title/tt2980516',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Theory-of-Everything/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Theory-of-Everything/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Theory-of-Everything/info.py',

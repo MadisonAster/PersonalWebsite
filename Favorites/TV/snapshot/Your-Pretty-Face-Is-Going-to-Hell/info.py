@@ -17,7 +17,7 @@
                 'do whatever it takes to impress Satan. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Your-Pretty-Face-Is-Going-to-Hell',
- 'EntryURL': 'http://www.imdb.com/title/tt2362694',
+ 'EntryURL': 'https://www.imdb.com/title/tt2362694',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Your-Pretty-Face-Is-Going-to-Hell/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Your-Pretty-Face-Is-Going-to-Hell/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Your-Pretty-Face-Is-Going-to-Hell/info.py',

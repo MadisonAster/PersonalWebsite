@@ -41,7 +41,7 @@
                 'murder & rape, who has the power of faith healing. ',
  'Director': ['Frank Darabont'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Green-Mile',
- 'EntryURL': 'http://www.imdb.com/title/tt0120689',
+ 'EntryURL': 'https://www.imdb.com/title/tt0120689',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Green-Mile/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Green-Mile/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Green-Mile/info.py',

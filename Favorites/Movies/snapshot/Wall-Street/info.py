@@ -61,7 +61,7 @@
                 'corporate raider whom takes the youth under his wing. ',
  'Director': ['Oliver Stone'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Wall-Street',
- 'EntryURL': 'http://www.imdb.com/title/tt0094291',
+ 'EntryURL': 'https://www.imdb.com/title/tt0094291',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Wall-Street/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Wall-Street/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Wall-Street/info.py',

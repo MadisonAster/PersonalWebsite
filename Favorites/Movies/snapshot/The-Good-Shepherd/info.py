@@ -65,7 +65,7 @@
                 "one man's life. ",
  'Director': ['Robert De Niro'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Good-Shepherd',
- 'EntryURL': 'http://www.imdb.com/title/tt0343737',
+ 'EntryURL': 'https://www.imdb.com/title/tt0343737',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Good-Shepherd/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Good-Shepherd/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Good-Shepherd/info.py',

@@ -55,7 +55,7 @@
                 'global organization to help vent male aggression. ',
  'Director': ['David Fincher'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fight-Club',
- 'EntryURL': 'http://www.imdb.com/title/tt0137523',
+ 'EntryURL': 'https://www.imdb.com/title/tt0137523',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fight-Club/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fight-Club/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fight-Club/info.py',

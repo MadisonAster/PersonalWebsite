@@ -66,7 +66,7 @@
                 'begins to lead to a much more terrifying conclusion. ',
  'Director': ['Zack Snyder'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Watchmen',
- 'EntryURL': 'http://www.imdb.com/title/tt0409459',
+ 'EntryURL': 'https://www.imdb.com/title/tt0409459',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Watchmen/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Watchmen/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Watchmen/info.py',

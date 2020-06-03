@@ -20,7 +20,7 @@
                 '- mind and body. ',
  'Director': ['Tarik Saleh'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Metropia',
- 'EntryURL': 'http://www.imdb.com/title/tt0985058',
+ 'EntryURL': 'https://www.imdb.com/title/tt0985058',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Metropia/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Metropia/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Metropia/info.py',

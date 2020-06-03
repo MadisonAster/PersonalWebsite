@@ -34,7 +34,7 @@
                 'non-fiction book go nowhere. ',
  'Director': ['Spike Jonze'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Adaptation',
- 'EntryURL': 'http://www.imdb.com/title/tt0268126',
+ 'EntryURL': 'https://www.imdb.com/title/tt0268126',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Adaptation/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Adaptation/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Adaptation/info.py',

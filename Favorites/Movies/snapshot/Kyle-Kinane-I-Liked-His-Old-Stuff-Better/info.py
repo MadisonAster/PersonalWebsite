@@ -4,7 +4,7 @@
  'Description': '\nKyle Kinane I Liked His Old Stuff Better: N/A ',
  'Director': ['Lance Bangs'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kyle-Kinane-I-Liked-His-Old-Stuff-Better',
- 'EntryURL': 'http://www.imdb.com/title/tt3973036',
+ 'EntryURL': 'https://www.imdb.com/title/tt3973036',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kyle-Kinane-I-Liked-His-Old-Stuff-Better/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kyle-Kinane-I-Liked-His-Old-Stuff-Better/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kyle-Kinane-I-Liked-His-Old-Stuff-Better/info.py',

@@ -15,7 +15,7 @@
                 'by the US Treasury Secretary... ',
  'Director': ['Michael Samuels'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Last-Days-of-Lehman-Brothers',
- 'EntryURL': 'http://www.imdb.com/title/tt1495980',
+ 'EntryURL': 'https://www.imdb.com/title/tt1495980',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Last-Days-of-Lehman-Brothers/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Last-Days-of-Lehman-Brothers/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Last-Days-of-Lehman-Brothers/info.py',

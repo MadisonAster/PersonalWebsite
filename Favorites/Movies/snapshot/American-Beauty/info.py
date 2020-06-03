@@ -33,7 +33,7 @@
                 'friend. ',
  'Director': ['Sam Mendes'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Beauty',
- 'EntryURL': 'http://www.imdb.com/title/tt0169547',
+ 'EntryURL': 'https://www.imdb.com/title/tt0169547',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Beauty/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Beauty/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Beauty/info.py',

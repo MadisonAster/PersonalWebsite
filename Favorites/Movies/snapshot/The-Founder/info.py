@@ -8,7 +8,7 @@
                 'combination of ambition, persistence, and ruthlessness. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Founder',
- 'EntryURL': 'http://www.imdb.com/title/tt4276820',
+ 'EntryURL': 'https://www.imdb.com/title/tt4276820',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Founder/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Founder/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Founder/info.py',

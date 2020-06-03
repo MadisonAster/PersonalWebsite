@@ -16,7 +16,7 @@
                 'Green.\n',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Good-Vibes',
- 'EntryURL': 'http://www.imdb.com/title/tt1701982',
+ 'EntryURL': 'https://www.imdb.com/title/tt1701982',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Good-Vibes/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Good-Vibes/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Good-Vibes/info.py',

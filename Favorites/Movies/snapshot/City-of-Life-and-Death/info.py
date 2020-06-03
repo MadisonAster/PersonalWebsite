@@ -6,7 +6,7 @@
                 'Nanking in 1937. ',
  'Director': ['Chuan Lu'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//City-of-Life-and-Death',
- 'EntryURL': 'http://www.imdb.com/title/tt1124052',
+ 'EntryURL': 'https://www.imdb.com/title/tt1124052',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//City-of-Life-and-Death/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//City-of-Life-and-Death/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//City-of-Life-and-Death/info.py',

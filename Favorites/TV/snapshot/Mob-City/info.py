@@ -20,7 +20,7 @@
                 'Coast base. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Mob-City',
- 'EntryURL': 'http://www.imdb.com/title/tt2176609',
+ 'EntryURL': 'https://www.imdb.com/title/tt2176609',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Mob-City/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Mob-City/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Mob-City/info.py',

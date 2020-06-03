@@ -15,7 +15,7 @@
                 'stunning emotional roller coaster. ',
  'Director': ['Robert May'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kids-for-Cash',
- 'EntryURL': 'http://www.imdb.com/title/tt2925642',
+ 'EntryURL': 'https://www.imdb.com/title/tt2925642',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kids-for-Cash/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kids-for-Cash/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kids-for-Cash/info.py',

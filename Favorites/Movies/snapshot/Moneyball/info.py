@@ -48,7 +48,7 @@
                 'picks for the team. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Moneyball',
- 'EntryURL': 'http://www.imdb.com/title/tt1210166',
+ 'EntryURL': 'https://www.imdb.com/title/tt1210166',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Moneyball/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Moneyball/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Moneyball/info.py',

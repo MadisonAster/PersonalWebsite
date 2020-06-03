@@ -7,7 +7,7 @@
                 'topic weaved between filmed shorts and sketches. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Key-Peele',
- 'EntryURL': 'http://www.imdb.com/title/tt1981558',
+ 'EntryURL': 'https://www.imdb.com/title/tt1981558',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Key-Peele/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Key-Peele/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Key-Peele/info.py',

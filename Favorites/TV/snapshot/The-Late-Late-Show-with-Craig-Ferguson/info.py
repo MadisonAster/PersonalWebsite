@@ -10,7 +10,7 @@
                 'episodes, a popular music act performs. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Late-Late-Show-with-Craig-Ferguson',
- 'EntryURL': 'http://www.imdb.com/title/tt0437729',
+ 'EntryURL': 'https://www.imdb.com/title/tt0437729',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Late-Late-Show-with-Craig-Ferguson/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Late-Late-Show-with-Craig-Ferguson/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Late-Late-Show-with-Craig-Ferguson/info.py',

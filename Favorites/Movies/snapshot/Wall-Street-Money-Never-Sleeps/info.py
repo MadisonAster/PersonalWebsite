@@ -49,7 +49,7 @@
                 "responsible for the death of the young trader's mentor. ",
  'Director': ['Oliver Stone'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Wall-Street-Money-Never-Sleeps',
- 'EntryURL': 'http://www.imdb.com/title/tt1027718',
+ 'EntryURL': 'https://www.imdb.com/title/tt1027718',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Wall-Street-Money-Never-Sleeps/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Wall-Street-Money-Never-Sleeps/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Wall-Street-Money-Never-Sleeps/info.py',

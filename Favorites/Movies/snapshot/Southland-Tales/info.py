@@ -48,7 +48,7 @@
                 'key to a vast conspiracy ',
  'Director': ['Richard Kelly'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Southland-Tales',
- 'EntryURL': 'http://www.imdb.com/title/tt0405336',
+ 'EntryURL': 'https://www.imdb.com/title/tt0405336',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Southland-Tales/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Southland-Tales/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Southland-Tales/info.py',

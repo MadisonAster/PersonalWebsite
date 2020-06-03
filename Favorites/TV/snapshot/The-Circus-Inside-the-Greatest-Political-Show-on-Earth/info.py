@@ -8,7 +8,7 @@
                 'infuriating stories behind the headlines. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Circus-Inside-the-Greatest-Political-Show-on-Earth',
- 'EntryURL': 'http://www.imdb.com/title/tt5351176',
+ 'EntryURL': 'https://www.imdb.com/title/tt5351176',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Circus-Inside-the-Greatest-Political-Show-on-Earth/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Circus-Inside-the-Greatest-Political-Show-on-Earth/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Circus-Inside-the-Greatest-Political-Show-on-Earth/info.py',

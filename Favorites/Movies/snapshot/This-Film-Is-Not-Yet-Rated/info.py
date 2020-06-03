@@ -21,7 +21,7 @@
                 'American movie ratings board. ',
  'Director': ['Kirby Dick'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//This-Film-Is-Not-Yet-Rated',
- 'EntryURL': 'http://www.imdb.com/title/tt0493459',
+ 'EntryURL': 'https://www.imdb.com/title/tt0493459',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//This-Film-Is-Not-Yet-Rated/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//This-Film-Is-Not-Yet-Rated/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//This-Film-Is-Not-Yet-Rated/info.py',

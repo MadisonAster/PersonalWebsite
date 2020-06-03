@@ -33,7 +33,7 @@
                 'Writer/director... ',
  'Director': ['Steve Oedekerk'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kung-Pow-Enter-the-Fist',
- 'EntryURL': 'http://www.imdb.com/title/tt0240468',
+ 'EntryURL': 'https://www.imdb.com/title/tt0240468',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kung-Pow-Enter-the-Fist/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kung-Pow-Enter-the-Fist/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Kung-Pow-Enter-the-Fist/info.py',

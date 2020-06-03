@@ -21,7 +21,7 @@
                 'to the events of that show.            ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Caprica',
- 'EntryURL': 'http://www.imdb.com/title/tt0799862',
+ 'EntryURL': 'https://www.imdb.com/title/tt0799862',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Caprica/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Caprica/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Caprica/info.py',

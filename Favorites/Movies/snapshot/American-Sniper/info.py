@@ -15,7 +15,7 @@
                 "can't leave behind. ",
  'Director': ['Clint Eastwood'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Sniper',
- 'EntryURL': 'http://www.imdb.com/title/tt2179136',
+ 'EntryURL': 'https://www.imdb.com/title/tt2179136',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Sniper/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Sniper/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Sniper/info.py',

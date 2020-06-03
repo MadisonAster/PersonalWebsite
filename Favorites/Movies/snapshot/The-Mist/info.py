@@ -52,7 +52,7 @@
                 'hole-up in a supermarket and fight for their lives. ',
  'Director': ['Frank Darabont'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Mist',
- 'EntryURL': 'http://www.imdb.com/title/tt0884328',
+ 'EntryURL': 'https://www.imdb.com/title/tt0884328',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Mist/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Mist/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Mist/info.py',

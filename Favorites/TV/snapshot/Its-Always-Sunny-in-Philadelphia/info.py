@@ -11,7 +11,7 @@
                 'of an Irish bar in Philadelphia. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Its-Always-Sunny-in-Philadelphia',
- 'EntryURL': 'http://www.imdb.com/title/tt0472954',
+ 'EntryURL': 'https://www.imdb.com/title/tt0472954',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Its-Always-Sunny-in-Philadelphia/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Its-Always-Sunny-in-Philadelphia/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Its-Always-Sunny-in-Philadelphia/info.py',

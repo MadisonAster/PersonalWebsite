@@ -60,7 +60,7 @@
                 'graduate. ',
  'Director': ['Walt Becker'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Van-Wilder',
- 'EntryURL': 'http://www.imdb.com/title/tt0283111',
+ 'EntryURL': 'https://www.imdb.com/title/tt0283111',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Van-Wilder/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Van-Wilder/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Van-Wilder/info.py',

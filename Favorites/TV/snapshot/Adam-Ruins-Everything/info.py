@@ -8,7 +8,7 @@
                 'and true really are. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Adam-Ruins-Everything',
- 'EntryURL': 'http://www.imdb.com/title/tt5034326',
+ 'EntryURL': 'https://www.imdb.com/title/tt5034326',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Adam-Ruins-Everything/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Adam-Ruins-Everything/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Adam-Ruins-Everything/info.py',

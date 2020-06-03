@@ -31,7 +31,7 @@
                 'their problems with their families and sex lives. ',
  'Director': ['Todd Solondz'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Happiness',
- 'EntryURL': 'http://www.imdb.com/title/tt0147612',
+ 'EntryURL': 'https://www.imdb.com/title/tt0147612',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Happiness/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Happiness/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Happiness/info.py',

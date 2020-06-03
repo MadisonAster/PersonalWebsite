@@ -68,7 +68,7 @@
                 'confronts him. ',
  'Director': ['Terry Zwigoff'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Art-School-Confidential',
- 'EntryURL': 'http://www.imdb.com/title/tt0364955',
+ 'EntryURL': 'https://www.imdb.com/title/tt0364955',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Art-School-Confidential/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Art-School-Confidential/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Art-School-Confidential/info.py',

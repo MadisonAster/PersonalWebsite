@@ -9,7 +9,7 @@
                 '"APEX"...            ',
  'Director': ['JF Musial'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Apex-The-Story-of-the-Hypercar',
- 'EntryURL': 'http://www.imdb.com/title/tt4325400',
+ 'EntryURL': 'https://www.imdb.com/title/tt4325400',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Apex-The-Story-of-the-Hypercar/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Apex-The-Story-of-the-Hypercar/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Apex-The-Story-of-the-Hypercar/info.py',

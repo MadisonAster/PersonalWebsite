@@ -66,7 +66,7 @@
                 'Floyd during a booming crime wave in the 1930s. ',
  'Director': ['Michael Mann'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Public-Enemies',
- 'EntryURL': 'http://www.imdb.com/title/tt1152836',
+ 'EntryURL': 'https://www.imdb.com/title/tt1152836',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Public-Enemies/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Public-Enemies/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Public-Enemies/info.py',

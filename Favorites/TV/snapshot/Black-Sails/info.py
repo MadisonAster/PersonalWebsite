@@ -7,7 +7,7 @@
                 '"Treasure Island".            ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Black-Sails',
- 'EntryURL': 'http://www.imdb.com/title/tt2375692',
+ 'EntryURL': 'https://www.imdb.com/title/tt2375692',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Black-Sails/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Black-Sails/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Black-Sails/info.py',

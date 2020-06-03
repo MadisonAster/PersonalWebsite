@@ -28,7 +28,7 @@
                 'as a high school music teacher. ',
  'Director': ['Stephen Herek'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Mr-Hollands-Opus',
- 'EntryURL': 'http://www.imdb.com/title/tt0113862',
+ 'EntryURL': 'https://www.imdb.com/title/tt0113862',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Mr-Hollands-Opus/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Mr-Hollands-Opus/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Mr-Hollands-Opus/info.py',

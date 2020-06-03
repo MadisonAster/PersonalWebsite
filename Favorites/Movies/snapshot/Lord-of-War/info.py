@@ -25,7 +25,7 @@
                 'work as he is being chased by an Interpol agent. ',
  'Director': ['Andrew Niccol'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Lord-of-War',
- 'EntryURL': 'http://www.imdb.com/title/tt0399295',
+ 'EntryURL': 'https://www.imdb.com/title/tt0399295',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Lord-of-War/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Lord-of-War/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Lord-of-War/info.py',

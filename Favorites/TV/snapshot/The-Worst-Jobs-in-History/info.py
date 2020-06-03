@@ -11,7 +11,7 @@
                 'which one he thought was the worst in each program. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Worst-Jobs-in-History',
- 'EntryURL': 'http://www.imdb.com/title/tt0423775',
+ 'EntryURL': 'https://www.imdb.com/title/tt0423775',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Worst-Jobs-in-History/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Worst-Jobs-in-History/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Worst-Jobs-in-History/info.py',

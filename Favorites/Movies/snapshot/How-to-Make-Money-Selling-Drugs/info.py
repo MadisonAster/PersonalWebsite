@@ -12,7 +12,7 @@
                 'for tougher drug laws. ',
  'Director': ['Matthew Cooke'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//How-to-Make-Money-Selling-Drugs',
- 'EntryURL': 'http://www.imdb.com/title/tt1276962',
+ 'EntryURL': 'https://www.imdb.com/title/tt1276962',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//How-to-Make-Money-Selling-Drugs/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//How-to-Make-Money-Selling-Drugs/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//How-to-Make-Money-Selling-Drugs/info.py',

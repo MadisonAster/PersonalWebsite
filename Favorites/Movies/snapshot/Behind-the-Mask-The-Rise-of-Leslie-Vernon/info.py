@@ -14,7 +14,7 @@
                 'access to his life as he... ',
  'Director': ['Scott Glosserman'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Behind-the-Mask-The-Rise-of-Leslie-Vernon',
- 'EntryURL': 'http://www.imdb.com/title/tt0437857',
+ 'EntryURL': 'https://www.imdb.com/title/tt0437857',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Behind-the-Mask-The-Rise-of-Leslie-Vernon/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Behind-the-Mask-The-Rise-of-Leslie-Vernon/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Behind-the-Mask-The-Rise-of-Leslie-Vernon/info.py',

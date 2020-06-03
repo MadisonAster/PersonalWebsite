@@ -10,7 +10,7 @@
                 'capital in the untamed Yukon Territory. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Klondike',
- 'EntryURL': 'http://www.imdb.com/title/tt2761630',
+ 'EntryURL': 'https://www.imdb.com/title/tt2761630',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Klondike/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Klondike/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Klondike/info.py',

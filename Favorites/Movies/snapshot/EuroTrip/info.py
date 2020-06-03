@@ -43,7 +43,7 @@
                 'friends. ',
  'Director': ['Jeff Schaffer'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//EuroTrip',
- 'EntryURL': 'http://www.imdb.com/title/tt0356150',
+ 'EntryURL': 'https://www.imdb.com/title/tt0356150',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//EuroTrip/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//EuroTrip/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//EuroTrip/info.py',

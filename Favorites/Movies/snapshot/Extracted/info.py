@@ -17,7 +17,7 @@
                 'mind to see whether the man committed murder. ',
  'Director': ['Nir Paniry'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Extracted',
- 'EntryURL': 'http://www.imdb.com/title/tt1757746',
+ 'EntryURL': 'https://www.imdb.com/title/tt1757746',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Extracted/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Extracted/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Extracted/info.py',

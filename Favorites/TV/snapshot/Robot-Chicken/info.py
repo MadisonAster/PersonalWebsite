@@ -7,7 +7,7 @@
                 'twist. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Robot-Chicken',
- 'EntryURL': 'http://www.imdb.com/title/tt0437745',
+ 'EntryURL': 'https://www.imdb.com/title/tt0437745',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Robot-Chicken/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Robot-Chicken/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Robot-Chicken/info.py',

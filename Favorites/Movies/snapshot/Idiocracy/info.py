@@ -45,7 +45,7 @@
                 'person alive.            ',
  'Director': ['Mike Judge'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Idiocracy',
- 'EntryURL': 'http://www.imdb.com/title/tt0387808',
+ 'EntryURL': 'https://www.imdb.com/title/tt0387808',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Idiocracy/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Idiocracy/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Idiocracy/info.py',

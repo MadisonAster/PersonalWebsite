@@ -14,7 +14,7 @@
                 'destroying it? ',
  'Director': ['Robert Stone'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pandoras-Promise',
- 'EntryURL': 'http://www.imdb.com/title/tt1992193',
+ 'EntryURL': 'https://www.imdb.com/title/tt1992193',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pandoras-Promise/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pandoras-Promise/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Pandoras-Promise/info.py',

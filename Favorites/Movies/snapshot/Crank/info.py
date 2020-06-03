@@ -37,7 +37,7 @@
                 'heart rate drops. ',
  'Director': ['Mark Neveldine'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Crank',
- 'EntryURL': 'http://www.imdb.com/title/tt0479884',
+ 'EntryURL': 'https://www.imdb.com/title/tt0479884',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Crank/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Crank/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Crank/info.py',

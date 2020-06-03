@@ -15,7 +15,7 @@
                 'what his underlying motives are. ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Sneaky-Pete',
- 'EntryURL': 'http://www.imdb.com/title/tt4200136',
+ 'EntryURL': 'https://www.imdb.com/title/tt4200136',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Sneaky-Pete/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Sneaky-Pete/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Sneaky-Pete/info.py',

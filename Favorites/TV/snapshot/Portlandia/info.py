@@ -9,7 +9,7 @@
                 'people and relationships in Portland ',
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Portlandia',
- 'EntryURL': 'http://www.imdb.com/title/tt1780441',
+ 'EntryURL': 'https://www.imdb.com/title/tt1780441',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Portlandia/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Portlandia/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Portlandia/info.py',

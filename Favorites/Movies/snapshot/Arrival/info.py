@@ -10,7 +10,7 @@
                 'interpreting the language of the apparent alien visitors. ',
  'Director': ['Denis Villeneuve'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Arrival',
- 'EntryURL': 'http://www.imdb.com/title/tt2543164',
+ 'EntryURL': 'https://www.imdb.com/title/tt2543164',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Arrival/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Arrival/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Arrival/info.py',

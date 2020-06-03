@@ -8,7 +8,7 @@
                 'him. ',
  'Director': ['David Slade'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hard-Candy',
- 'EntryURL': 'http://www.imdb.com/title/tt0424136',
+ 'EntryURL': 'https://www.imdb.com/title/tt0424136',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hard-Candy/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hard-Candy/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hard-Candy/info.py',

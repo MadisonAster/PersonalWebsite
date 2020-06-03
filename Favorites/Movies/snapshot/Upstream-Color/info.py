@@ -13,7 +13,7 @@
                 'wrecked lives. ',
  'Director': ['Shane Carruth'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Upstream-Color',
- 'EntryURL': 'http://www.imdb.com/title/tt2084989',
+ 'EntryURL': 'https://www.imdb.com/title/tt2084989',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Upstream-Color/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Upstream-Color/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Upstream-Color/info.py',

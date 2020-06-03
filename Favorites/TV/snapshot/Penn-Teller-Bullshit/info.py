@@ -7,7 +7,7 @@
                 "show the Bull Shit that's everywhere... ",
  'Director': [],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Penn-Teller-Bullshit',
- 'EntryURL': 'http://www.imdb.com/title/tt0346369',
+ 'EntryURL': 'https://www.imdb.com/title/tt0346369',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Penn-Teller-Bullshit/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Penn-Teller-Bullshit/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Penn-Teller-Bullshit/info.py',

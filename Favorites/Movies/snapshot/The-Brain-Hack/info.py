@@ -6,7 +6,7 @@
                 'generation. ',
  'Director': ['Joseph White'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Brain-Hack',
- 'EntryURL': 'http://www.imdb.com/title/tt3704676',
+ 'EntryURL': 'https://www.imdb.com/title/tt3704676',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Brain-Hack/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Brain-Hack/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Brain-Hack/info.py',

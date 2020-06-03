@@ -15,7 +15,7 @@
                 'infiltrate every aspect of their lives. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Manhattan',
- 'EntryURL': 'http://www.imdb.com/title/tt3231564',
+ 'EntryURL': 'https://www.imdb.com/title/tt3231564',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Manhattan/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Manhattan/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Manhattan/info.py',

@@ -8,7 +8,7 @@
                 'transforming the way we live. ',
  'Director': ['NA'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Humans',
- 'EntryURL': 'http://www.imdb.com/title/tt4122068',
+ 'EntryURL': 'https://www.imdb.com/title/tt4122068',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Humans/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Humans/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Humans/info.py',

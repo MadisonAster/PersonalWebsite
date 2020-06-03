@@ -8,7 +8,7 @@
                 '... if anything.\n',
  'Director': ['Cullen Hoback'],
  'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Terms-and-Conditions-May-Apply',
- 'EntryURL': 'http://www.imdb.com/title/tt2084953',
+ 'EntryURL': 'https://www.imdb.com/title/tt2084953',
  'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Terms-and-Conditions-May-Apply/entry.json',
  'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Terms-and-Conditions-May-Apply/info.php',
  'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Terms-and-Conditions-May-Apply/info.py',
