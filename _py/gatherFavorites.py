@@ -57,17 +57,20 @@ def GetEntries(OutputDir):
             Entries[Entry['EntryURL']] = Entry
     return Entries
 
+def WriteEntries(Entries):
+    for Entry in Entries.values():
+        with open(Entry['Entry_json'], 'w') as file:
+            file.write(json.dumps(Entry))
+        with open(Entry['Entry_py'], 'w') as file:
+            file.write(pformat(Entry))
+    
 def GetIMDB(url, OutputDir):
     print('GetIMDB!', url, OutputDir)
     #match = soup.find('div', class_='footer')
     #for match in soup.find_all('div', class_='footer')
     
     Entries = GetEntries(OutputDir)
-    for Entry in Entries.values():
-        with open(Entry['Entry_json'], 'w') as file:
-            file.write(json.dumps(Entry))
-        #break
-    
+    WriteEntries(Entries)
     return
     source = requests.get(url).text
     soup = BeautifulSoup(source, 'lxml')
