@@ -92,14 +92,20 @@ foreach ($TVdirs as &$dir){
         
         if (sizeof($infoArray['director']) > 1) {
             echo "    Director:\n";
-            echo "    ".implode(", ", $infoArray['director']['name'])."\n";
-            echo "    <br/>\n";
+            echo "    ";
+            foreach ($infoArray['director'] as &$director){
+                echo $director['name'].",";
+            };
+            echo "\n";
         };
         
         if (sizeof($infoArray['actor']) > 1) {
             echo "    Actors:\n";
-            echo "    ".implode(", ", $infoArray['actor']['name'])."\n";
-            echo "    <br/>\n";
+            echo "    ";
+            foreach ($infoArray['actor'] as &$actor){
+                echo $actor['name'].",";
+            };
+            echo "\n";
         };
         
         echo "    </div>\n";

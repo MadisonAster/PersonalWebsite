@@ -95,7 +95,6 @@ foreach ($Moviedirs as &$dir){
                 echo $director['name'].",";
             };
             echo "\n";
-            #echo "    <br/>\n";
         };
         
         if (sizeof($infoArray['actor']) > 1) {
@@ -105,7 +104,6 @@ foreach ($Moviedirs as &$dir){
                 echo $actor['name'].",";
             };
             echo "\n";
-            #echo "    <br/>\n";
         };
         
         echo "    </div>\n";
