@@ -25,8 +25,17 @@
             'Willem Dafoe'],
  'Added': '2013-02-19',
  'Countries': ['USA'],
- 'Description': '\nAmerican Psycho: A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies. ',
+ 'Description': '\n'
+                'American Psycho: A wealthy New York investment banking '
+                'executive hides his alternate psychopathic ego from his '
+                'co-workers and friends as he escalates deeper into his '
+                'illogical, gratuitous fantasies. ',
  'Director': ['Mary Harron'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Psycho',
+ 'EntryURL': 'http://www.imdb.com/title/tt0144084',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Psycho/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Psycho/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Psycho/info.py',
  'Genres': ['Thriller', 'Horror', 'Crime', 'Mystery'],
  'IMDB': 'http://www.imdb.com/title/tt0144084',
  'PrimeWire': 'http://www.primewire.ag/watch-834-American-Psycho',

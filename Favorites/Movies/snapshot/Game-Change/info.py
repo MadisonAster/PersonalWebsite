@@ -45,8 +45,17 @@
             'Woody Harrelson'],
  'Added': '2013-02-23',
  'Countries': ['USA'],
- 'Description': '\nGame Change: Follows John McCain&#x27;s 2008 presidential campaign, from his selection of Alaska Governor Sarah Palin as his running mate to their ultimate defeat in the general election. ',
+ 'Description': '\n'
+                'Game Change: Follows John McCain&#x27;s 2008 presidential '
+                'campaign, from his selection of Alaska Governor Sarah Palin '
+                'as his running mate to their ultimate defeat in the general '
+                'election. ',
  'Director': ['Jay Roach'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Game-Change',
+ 'EntryURL': 'http://www.imdb.com/title/tt1848902',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Game-Change/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Game-Change/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Game-Change/info.py',
  'Genres': ['Drama', 'History'],
  'IMDB': 'http://www.imdb.com/title/tt1848902',
  'PrimeWire': 'http://www.primewire.ag/watch-2732264-Game-Change',

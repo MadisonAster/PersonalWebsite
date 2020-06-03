@@ -25,8 +25,16 @@
             'Vik Sahay'],
  'Added': '2013-02-19',
  'Countries': ['USA'],
- 'Description': '\nGood Will Hunting: Will Hunting, a janitor at MIT, has a gift for mathematics which is discovered, and a psychologist tries to help him with his gift and the rest of his life. ',
+ 'Description': '\n'
+                'Good Will Hunting: Will Hunting, a janitor at MIT, has a gift '
+                'for mathematics which is discovered, and a psychologist tries '
+                'to help him with his gift and the rest of his life. ',
  'Director': ['Gus Van Sant'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Good-Will-Hunting',
+ 'EntryURL': 'http://www.imdb.com/title/tt0119217',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Good-Will-Hunting/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Good-Will-Hunting/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Good-Will-Hunting/info.py',
  'Genres': ['Drama'],
  'IMDB': 'http://www.imdb.com/title/tt0119217',
  'PrimeWire': 'http://www.primewire.ag/watch-967-Good-Will-Hunting',

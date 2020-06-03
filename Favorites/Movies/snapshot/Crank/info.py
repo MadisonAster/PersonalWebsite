@@ -31,8 +31,16 @@
             'Valarie Rae Miller'],
  'Added': '2013-02-24',
  'Countries': ['USA'],
- 'Description': '\nCrank: Professional assassin Chev Chelios learns his rival has injected him with a poison that will kill him if his heart rate drops. ',
+ 'Description': '\n'
+                'Crank: Professional assassin Chev Chelios learns his rival '
+                'has injected him with a poison that will kill him if his '
+                'heart rate drops. ',
  'Director': ['Mark Neveldine'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Crank',
+ 'EntryURL': 'http://www.imdb.com/title/tt0479884',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Crank/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Crank/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Crank/info.py',
  'Genres': ['Action', 'Drama', 'Thriller', 'Crime'],
  'IMDB': 'http://www.imdb.com/title/tt0479884',
  'PrimeWire': 'http://www.primewire.ag/watch-1792-Crank',

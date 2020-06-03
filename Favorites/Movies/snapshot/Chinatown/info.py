@@ -34,8 +34,16 @@
             'Roy Roberts'],
  'Added': '2013-02-24',
  'Countries': ['USA'],
- 'Description': '\nChinatown: A private detective investigating an adultery case stumbles on to a scheme of murder that has something to do with water. ',
+ 'Description': '\n'
+                'Chinatown: A private detective investigating an adultery case '
+                'stumbles on to a scheme of murder that has something to do '
+                'with water. ',
  'Director': ['Roman Polanski'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Chinatown',
+ 'EntryURL': 'http://www.imdb.com/title/tt0071315',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Chinatown/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Chinatown/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Chinatown/info.py',
  'Genres': ['Thriller', 'Mystery'],
  'IMDB': 'http://www.imdb.com/title/tt0071315',
  'PrimeWire': 'http://www.primewire.ag/watch-879-Chinatown',

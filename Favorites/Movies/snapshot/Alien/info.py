@@ -9,8 +9,16 @@
             'Yaphet Kotto'],
  'Added': '2013-02-23',
  'Countries': ['USA', 'UK'],
- 'Description': '\nAlien: A mining ship, investigating a suspected SOS, lands on a distant planet. The crew discovers some strange creatures and investigates. ',
+ 'Description': '\n'
+                'Alien: A mining ship, investigating a suspected SOS, lands on '
+                'a distant planet. The crew discovers some strange creatures '
+                'and investigates. ',
  'Director': ['Ridley Scott'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Alien',
+ 'EntryURL': 'http://www.imdb.com/title/tt0078748',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Alien/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Alien/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Alien/info.py',
  'Genres': ['Thriller', 'Sci-Fi', 'Horror'],
  'IMDB': 'http://www.imdb.com/title/tt0078748',
  'PrimeWire': 'http://www.primewire.ag/watch-873-Alien',

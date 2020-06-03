@@ -10,8 +10,16 @@
             'T Max Graham'],
  'Added': '2013-02-19',
  'Countries': ['USA'],
- 'Description': '\nEraserhead: Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child. ',
+ 'Description': '\n'
+                'Eraserhead: Henry Spencer tries to survive his industrial '
+                'environment, his angry girlfriend, and the unbearable screams '
+                'of his newly born mutant child. ',
  'Director': ['David Lynch'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Eraserhead',
+ 'EntryURL': 'http://www.imdb.com/title/tt0074486',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Eraserhead/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Eraserhead/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Eraserhead/info.py',
  'Genres': ['Sci-Fi', 'Horror', 'Fantasy'],
  'IMDB': 'http://www.imdb.com/title/tt0074486',
  'PrimeWire': 'http://www.primewire.ag/watch-3880-Eraserhead',

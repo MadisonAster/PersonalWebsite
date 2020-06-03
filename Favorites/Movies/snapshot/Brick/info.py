@@ -13,8 +13,16 @@
             'Richard Roundtree'],
  'Added': '2013-03-30',
  'Countries': ['USA'],
- 'Description': '\nBrick: A teenage loner pushes his way into the underworld of a high school crime ring to investigate the disappearance of his ex-girlfriend. ',
+ 'Description': '\n'
+                'Brick: A teenage loner pushes his way into the underworld of '
+                'a high school crime ring to investigate the disappearance of '
+                'his ex-girlfriend. ',
  'Director': ['Rian Johnson'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Brick',
+ 'EntryURL': 'http://www.imdb.com/title/tt0393109',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Brick/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Brick/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Brick/info.py',
  'Genres': ['Drama', 'Crime', 'Mystery'],
  'IMDB': 'http://www.imdb.com/title/tt0393109',
  'PrimeWire': 'http://www.primewire.ag/watch-3365-Brick',

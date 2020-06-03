@@ -9,8 +9,15 @@
             'LaKeith Stanfield'],
  'Added': '2017-05-14',
  'Countries': ['USA'],
- 'Description': "\nGet Out: A young African-American man visits his Caucasian girlfriend's mysterious family estate. ",
+ 'Description': '\n'
+                'Get Out: A young African-American man visits his Caucasian '
+                "girlfriend's mysterious family estate. ",
  'Director': ['Jordan Peele'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Get-Out',
+ 'EntryURL': 'http://www.imdb.com/title/tt5052448',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Get-Out/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Get-Out/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Get-Out/info.py',
  'Genres': ['Comedy', 'Horror', 'Mystery'],
  'IMDB': 'http://www.imdb.com/title/tt5052448',
  'PrimeWire': 'http://www.primewire.ag/watch-2790906-Get-Out',

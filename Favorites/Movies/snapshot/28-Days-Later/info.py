@@ -16,8 +16,16 @@
             'Terry John'],
  'Added': '2013-02-19',
  'Countries': ['UK'],
- 'Description': '\n28 Days Later...: Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary. ',
+ 'Description': '\n'
+                '28 Days Later...: Four weeks after a mysterious, incurable '
+                'virus spreads throughout the UK, a handful of survivors try '
+                'to find sanctuary. ',
  'Director': ['Danny Boyle'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//28-Days-Later',
+ 'EntryURL': 'http://www.imdb.com/title/tt0289043',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//28-Days-Later/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//28-Days-Later/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//28-Days-Later/info.py',
  'Genres': ['Thriller', 'Sci-Fi', 'Horror', 'Zombies'],
  'IMDB': 'http://www.imdb.com/title/tt0289043',
  'PrimeWire': 'http://www.primewire.ag/watch-1349-28-Days-Later',

@@ -25,8 +25,16 @@
             'Susan Danford'],
  'Added': '2013-02-23',
  'Countries': ['UK', 'USA', 'South Africa', 'Germany'],
- 'Description': '\nDoomsday: A futuristic action thriller where a team of people work to prevent a disaster threatening the future of the human race. ',
+ 'Description': '\n'
+                'Doomsday: A futuristic action thriller where a team of people '
+                'work to prevent a disaster threatening the future of the '
+                'human race. ',
  'Director': ['Neil Marshall'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Doomsday',
+ 'EntryURL': 'http://www.imdb.com/title/tt0483607',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Doomsday/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Doomsday/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Doomsday/info.py',
  'Genres': ['Action', 'Sci-Fi', 'Thriller'],
  'IMDB': 'http://www.imdb.com/title/tt0483607',
  'PrimeWire': 'http://www.primewire.ag/watch-239-Doomsday',

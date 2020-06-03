@@ -21,8 +21,17 @@
             'William Meredith'],
  'Added': '2013-02-19',
  'Countries': ['UK', 'Spain'],
- 'Description': '\n28 Weeks Later: Six months after the rage virus was inflicted on the population of Great Britain, the US Army helps to secure a small area of London for the survivors to repopulate and start again. But not everything goes to plan. ',
+ 'Description': '\n'
+                '28 Weeks Later: Six months after the rage virus was inflicted '
+                'on the population of Great Britain, the US Army helps to '
+                'secure a small area of London for the survivors to repopulate '
+                'and start again. But not everything goes to plan. ',
  'Director': ['Juan Carlos Fresnadillo'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//28-Weeks-Later',
+ 'EntryURL': 'http://www.imdb.com/title/tt0463854',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//28-Weeks-Later/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//28-Weeks-Later/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//28-Weeks-Later/info.py',
  'Genres': ['Thriller', 'Sci-Fi', 'Horror', 'Zombies'],
  'IMDB': 'http://www.imdb.com/title/tt0463854',
  'PrimeWire': 'http://www.primewire.ag/watch-1348-28-Weeks-Later',

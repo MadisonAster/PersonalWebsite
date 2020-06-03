@@ -1,8 +1,15 @@
 {'Actors': [],
  'Added': '2016-10-06',
  'Countries': ['UK'],
- 'Description': '\nThe Fear of 13: A convicted murderer who has spent 23 years on Death Row tells his story. ',
+ 'Description': '\n'
+                'The Fear of 13: A convicted murderer who has spent 23 years '
+                'on Death Row tells his story. ',
  'Director': ['David Sington'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Fear-of-13',
+ 'EntryURL': 'http://www.imdb.com/title/tt5083702',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Fear-of-13/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Fear-of-13/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Fear-of-13/info.py',
  'Genres': ['Documentary'],
  'IMDB': 'http://www.imdb.com/title/tt5083702',
  'PrimeWire': 'http://www.primewire.ag/watch-2773721-The-Fear-of-13',

@@ -12,8 +12,16 @@
             'Selena Mars'],
  'Added': '2014-09-14',
  'Countries': ['USA', 'UK'],
- 'Description': '\nCloser: The relationships of two couples become complicated and deceitful when the man from one couple meets the woman of the other. ',
+ 'Description': '\n'
+                'Closer: The relationships of two couples become complicated '
+                'and deceitful when the man from one couple meets the woman of '
+                'the other. ',
  'Director': ['Mike Nichols'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Closer',
+ 'EntryURL': 'http://www.imdb.com/title/tt0376541',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Closer/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Closer/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Closer/info.py',
  'Genres': ['Drama', 'Romance'],
  'IMDB': 'http://www.imdb.com/title/tt0376541',
  'PrimeWire': 'http://www.primewire.ag/watch-2237-Closer',

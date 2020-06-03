@@ -23,8 +23,15 @@
             'Welker White'],
  'Added': '2013-02-19',
  'Countries': ['USA'],
- 'Description': '\nDead Poets Society: English professor John Keating inspires his students to a love of poetry and to seize the day. ',
+ 'Description': '\n'
+                'Dead Poets Society: English professor John Keating inspires '
+                'his students to a love of poetry and to seize the day. ',
  'Director': ['Peter Weir'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Dead-Poets-Society',
+ 'EntryURL': 'http://www.imdb.com/title/tt0097165',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Dead-Poets-Society/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Dead-Poets-Society/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Dead-Poets-Society/info.py',
  'Genres': ['Drama'],
  'IMDB': 'http://www.imdb.com/title/tt0097165',
  'PrimeWire': 'http://www.primewire.ag/watch-3678-Dead-Poets-Society',

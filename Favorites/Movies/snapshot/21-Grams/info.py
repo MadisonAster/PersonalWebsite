@@ -25,8 +25,16 @@
             'Tony Vaughn'],
  'Added': '2013-02-19',
  'Countries': ['USA'],
- 'Description': '\n21 Grams: A freak accident brings together a critically ill mathematician (Penn), a grieving mother (Watts) and a born-again ex-con (Del Toro). ',
+ 'Description': '\n'
+                '21 Grams: A freak accident brings together a critically ill '
+                'mathematician (Penn), a grieving mother (Watts) and a '
+                'born-again ex-con (Del Toro). ',
  'Director': ['Alejandro Gonz&#xE1;lez I&#xF1;&#xE1;rritu'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//21-Grams',
+ 'EntryURL': 'http://www.imdb.com/title/tt0315733',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//21-Grams/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//21-Grams/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//21-Grams/info.py',
  'Genres': ['Drama', 'Thriller', 'Crime'],
  'IMDB': 'http://www.imdb.com/title/tt0315733',
  'PrimeWire': 'http://www.primewire.ag/watch-4330-21-Grams',

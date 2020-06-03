@@ -7,8 +7,16 @@
             'Toby Leonard Moore&tv'],
  'Added': '2016-01-27',
  'Countries': ['USA'],
- 'Description': '\r\n              Billions: U.S. Attorney Chuck Rhoades goes after hedge fund king, Bobby "Axe" Axelrod in a battle between two powerful New York figures.             ',
+ 'Description': '\r\n'
+                '              Billions: U.S. Attorney Chuck Rhoades goes '
+                'after hedge fund king, Bobby "Axe" Axelrod in a battle '
+                'between two powerful New York figures.             ',
  'Director': ['NA'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Billions',
+ 'EntryURL': 'http://www.imdb.com/title/tt4270492',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Billions/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Billions/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Billions/info.py',
  'Genres': ['Action&tv', 'Crime&tv', 'Drama&tv'],
  'IMDB': 'http://www.imdb.com/title/tt4270492',
  'PrimeWire': 'http://www.primewire.ag/tv-2772431-Billions',

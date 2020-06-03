@@ -4,8 +4,16 @@
             'Winona Ryder'],
  'Added': '2015-10-16',
  'Countries': ['USA'],
- 'Description': '\nExperimenter: Famed social psychologist Stanley Milgram, in 1961 conducted a series of radical behavior experiments that tested ordinary humans willingness to obey authority. ',
+ 'Description': '\n'
+                'Experimenter: Famed social psychologist Stanley Milgram, in '
+                '1961 conducted a series of radical behavior experiments that '
+                'tested ordinary humans willingness to obey authority. ',
  'Director': ['Michael Almereyda'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Experimenter',
+ 'EntryURL': 'http://www.imdb.com/title/tt3726704',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Experimenter/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Experimenter/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Experimenter/info.py',
  'Genres': ['Biography'],
  'IMDB': 'http://www.imdb.com/title/tt3726704',
  'PrimeWire': 'http://www.primewire.ag/watch-2769602-Experimenter',

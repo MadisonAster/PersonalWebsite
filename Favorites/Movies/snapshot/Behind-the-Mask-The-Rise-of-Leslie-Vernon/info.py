@@ -8,8 +8,16 @@
             'Zelda Rubinstein'],
  'Added': '2016-10-23',
  'Countries': ['USA'],
- 'Description': '\nBehind the Mask: The Rise of Leslie Vernon: The next great psycho horror slasher has given a documentary crew exclusive access to his life as he... ',
+ 'Description': '\n'
+                'Behind the Mask: The Rise of Leslie Vernon: The next great '
+                'psycho horror slasher has given a documentary crew exclusive '
+                'access to his life as he... ',
  'Director': ['Scott Glosserman'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Behind-the-Mask-The-Rise-of-Leslie-Vernon',
+ 'EntryURL': 'http://www.imdb.com/title/tt0437857',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Behind-the-Mask-The-Rise-of-Leslie-Vernon/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Behind-the-Mask-The-Rise-of-Leslie-Vernon/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Behind-the-Mask-The-Rise-of-Leslie-Vernon/info.py',
  'Genres': ['Comedy', 'Thriller', 'Horror'],
  'IMDB': 'http://www.imdb.com/title/tt0437857',
  'PrimeWire': 'http://www.primewire.ag/watch-6545-Behind-the-Mask-The-Rise-of-Leslie-Vernon',

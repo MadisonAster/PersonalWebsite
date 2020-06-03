@@ -43,8 +43,18 @@
             'Yolanda Vazquez'],
  'Added': '2013-02-24',
  'Countries': ['USA', 'UK'],
- 'Description': "\nChildren of Men: In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea, where her child's birth may help scientists save the future of humankind. ",
+ 'Description': '\n'
+                'Children of Men: In 2027, in a chaotic world in which humans '
+                'can no longer procreate, a former activist agrees to help '
+                'transport a miraculously pregnant woman to a sanctuary at '
+                "sea, where her child's birth may help scientists save the "
+                'future of humankind. ',
  'Director': ['Alfonso Cuar&#243;n'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Children-of-Men',
+ 'EntryURL': 'http://www.imdb.com/title/tt0206634',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Children-of-Men/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Children-of-Men/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Children-of-Men/info.py',
  'Genres': ['Thriller', 'Sci-Fi', 'Adventure', 'Mystery'],
  'IMDB': 'http://www.imdb.com/title/tt0206634',
  'PrimeWire': 'http://www.primewire.ag/watch-637-Children-of-Men',

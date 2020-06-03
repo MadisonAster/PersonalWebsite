@@ -60,8 +60,18 @@
             'Victoria Chalaya'],
  'Added': '2013-02-20',
  'Countries': ['USA'],
- 'Description': '\nArt School Confidential: Starting from childhood attempts at illustration, the protagonist pursues his true obsession to art school. But as he learns how the art world really works, he finds that he must adapt his vision to the reality that confronts him. ',
+ 'Description': '\n'
+                'Art School Confidential: Starting from childhood attempts at '
+                'illustration, the protagonist pursues his true obsession to '
+                'art school. But as he learns how the art world really works, '
+                'he finds that he must adapt his vision to the reality that '
+                'confronts him. ',
  'Director': ['Terry Zwigoff'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Art-School-Confidential',
+ 'EntryURL': 'http://www.imdb.com/title/tt0364955',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Art-School-Confidential/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Art-School-Confidential/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Art-School-Confidential/info.py',
  'Genres': ['Drama', 'Comedy'],
  'IMDB': 'http://www.imdb.com/title/tt0364955',
  'PrimeWire': 'http://www.primewire.ag/watch-12080-Art-School-Confidential',

@@ -5,8 +5,17 @@
             'Matthew McConaughey'],
  'Added': '2014-11-30',
  'Countries': [],
- 'Description': '\nInterstellar: A group of explorers make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage. ',
+ 'Description': '\n'
+                'Interstellar: A group of explorers make use of a newly '
+                'discovered wormhole to surpass the limitations on human space '
+                'travel and conquer the vast distances involved in an '
+                'interstellar voyage. ',
  'Director': ['Christopher Nolan'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Interstellar',
+ 'EntryURL': 'http://www.imdb.com/title/tt0816692',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Interstellar/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Interstellar/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Interstellar/info.py',
  'Genres': ['Adventure', 'Sci-Fi'],
  'IMDB': 'http://www.imdb.com/title/tt0816692',
  'PrimeWire': 'http://www.primewire.ag/watch-2753796-Interstellar',

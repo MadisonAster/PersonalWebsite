@@ -60,8 +60,17 @@
             'Kitty Carlisle'],
  'Added': '2013-02-24',
  'Countries': ['USA'],
- 'Description': '\nCatch Me If You Can: A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. ',
+ 'Description': '\n'
+                'Catch Me If You Can: A true story about Frank Abagnale Jr. '
+                'who, before his 19th birthday, successfully conned millions '
+                'of dollars worth of checks as a Pan Am pilot, doctor, and '
+                'legal prosecutor. ',
  'Director': ['Steven Spielberg'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Catch-Me-If-You-Can',
+ 'EntryURL': 'http://www.imdb.com/title/tt0264464',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Catch-Me-If-You-Can/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Catch-Me-If-You-Can/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Catch-Me-If-You-Can/info.py',
  'Genres': ['Drama', 'Crime', 'Biography'],
  'IMDB': 'http://www.imdb.com/title/tt0264464',
  'PrimeWire': 'http://www.primewire.ag/watch-1154-Catch-Me-If-You-Can',

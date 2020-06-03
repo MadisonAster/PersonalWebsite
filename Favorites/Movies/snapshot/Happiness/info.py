@@ -26,8 +26,15 @@
             'Wai Ching Ho'],
  'Added': '2013-02-19',
  'Countries': ['USA'],
- 'Description': '\nHappiness: Three middle-class New Jersey sisters all have their problems with their families and sex lives. ',
+ 'Description': '\n'
+                'Happiness: Three middle-class New Jersey sisters all have '
+                'their problems with their families and sex lives. ',
  'Director': ['Todd Solondz'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Happiness',
+ 'EntryURL': 'http://www.imdb.com/title/tt0147612',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Happiness/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Happiness/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Happiness/info.py',
  'Genres': ['Drama', 'Comedy'],
  'IMDB': 'http://www.imdb.com/title/tt0147612',
  'PrimeWire': 'http://www.primewire.ag/watch-7318-Happiness',

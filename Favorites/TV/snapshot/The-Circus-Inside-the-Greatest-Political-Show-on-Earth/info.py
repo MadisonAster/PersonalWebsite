@@ -1,8 +1,17 @@
 {'Actors': [],
  'Added': '2016-01-27',
  'Countries': ['USA'],
- 'Description': '\nThe Circus: Inside the Greatest Political Show on Earth: This documentary series pulls back the curtain on the 2016 presidential race, revealing the intense, inspiring and infuriating stories behind the headlines. ',
+ 'Description': '\n'
+                'The Circus: Inside the Greatest Political Show on Earth: This '
+                'documentary series pulls back the curtain on the 2016 '
+                'presidential race, revealing the intense, inspiring and '
+                'infuriating stories behind the headlines. ',
  'Director': ['NA'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Circus-Inside-the-Greatest-Political-Show-on-Earth',
+ 'EntryURL': 'http://www.imdb.com/title/tt5351176',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Circus-Inside-the-Greatest-Political-Show-on-Earth/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Circus-Inside-the-Greatest-Political-Show-on-Earth/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//The-Circus-Inside-the-Greatest-Political-Show-on-Earth/info.py',
  'Genres': ['Documentary&tv'],
  'IMDB': 'http://www.imdb.com/title/tt5351176',
  'PrimeWire': 'http://www.primewire.ag/tv-2773393-The-Circus-Inside-the-Greatest-Political-Show-on-Earth',

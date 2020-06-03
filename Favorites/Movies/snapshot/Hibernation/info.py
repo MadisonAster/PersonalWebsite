@@ -1,8 +1,16 @@
 {'Actors': ['Peter Reynolds'],
  'Added': '2013-12-21',
  'Countries': ['UK'],
- 'Description': '\nHibernation: 1985. A secret tree house. Two children dressed in animal costumes experiment to revive a bee. But they are searching for a way to bring back something much bigger. ',
+ 'Description': '\n'
+                'Hibernation: 1985. A secret tree house. Two children dressed '
+                'in animal costumes experiment to revive a bee. But they are '
+                'searching for a way to bring back something much bigger. ',
  'Director': ['John Williams'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hibernation',
+ 'EntryURL': 'http://www.imdb.com/title/tt0479926',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hibernation/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hibernation/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hibernation/info.py',
  'Genres': ['Drama', 'Short'],
  'IMDB': 'http://www.imdb.com/title/tt0479926',
  'PrimeWire': 'http://www.primewire.ag/watch-526818-Hibernation',

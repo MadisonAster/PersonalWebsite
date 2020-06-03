@@ -1,8 +1,17 @@
 {'Actors': [],
  'Added': '2015-02-07',
  'Countries': ['USA'],
- 'Description': "\nHuman Revolution: Based on the video game Deus Ex Human revolution, the film dives into the world of Adam Jensen, a serif industries' security consultant that gets augmented after an incident that almost took his life away. ",
+ 'Description': '\n'
+                'Human Revolution: Based on the video game Deus Ex Human '
+                'revolution, the film dives into the world of Adam Jensen, a '
+                "serif industries' security consultant that gets augmented "
+                'after an incident that almost took his life away. ',
  'Director': ['Moe Charif'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Human-Revolution',
+ 'EntryURL': 'http://www.imdb.com/title/tt3619204',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Human-Revolution/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Human-Revolution/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Human-Revolution/info.py',
  'Genres': ['Action', 'Short'],
  'IMDB': 'http://www.imdb.com/title/tt3619204',
  'PrimeWire': 'http://www.primewire.ag/watch-2757751-Human-Revolution',

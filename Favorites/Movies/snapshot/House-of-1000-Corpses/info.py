@@ -25,8 +25,17 @@
             'William Bassett'],
  'Added': '2013-02-24',
  'Countries': ['USA'],
- 'Description': '\nHouse of 1000 Corpses: Two teenage couples traveling across the backwoods of Texas searching for urban legends of serial killers end up as prisoners of a bizarre and sadistic backwater family of serial killers. ',
+ 'Description': '\n'
+                'House of 1000 Corpses: Two teenage couples traveling across '
+                'the backwoods of Texas searching for urban legends of serial '
+                'killers end up as prisoners of a bizarre and sadistic '
+                'backwater family of serial killers. ',
  'Director': ['Rob Zombie'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//House-of-1000-Corpses',
+ 'EntryURL': 'http://www.imdb.com/title/tt0251736',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//House-of-1000-Corpses/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//House-of-1000-Corpses/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//House-of-1000-Corpses/info.py',
  'Genres': ['Comedy', 'Horror'],
  'IMDB': 'http://www.imdb.com/title/tt0251736',
  'PrimeWire': 'http://www.primewire.ag/watch-1971-House-of-1000-Corpses',

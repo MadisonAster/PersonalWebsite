@@ -24,8 +24,16 @@
             'William Fichtner'],
  'Added': '2013-02-19',
  'Countries': ['USA'],
- 'Description': '\nEquilibrium: In a Fascist future where all forms of feeling are illegal, a man in charge of enforcing the law rises to overthrow the system. ',
+ 'Description': '\n'
+                'Equilibrium: In a Fascist future where all forms of feeling '
+                'are illegal, a man in charge of enforcing the law rises to '
+                'overthrow the system. ',
  'Director': ['Kurt Wimmer'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Equilibrium',
+ 'EntryURL': 'http://www.imdb.com/title/tt0238380',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Equilibrium/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Equilibrium/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Equilibrium/info.py',
  'Genres': ['Action', 'Thriller', 'Sci-Fi'],
  'IMDB': 'http://www.imdb.com/title/tt0238380',
  'PrimeWire': 'http://www.primewire.ag/watch-1943-Equilibrium',

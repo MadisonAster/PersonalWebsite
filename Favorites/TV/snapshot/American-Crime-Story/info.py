@@ -18,8 +18,17 @@
             ' Susan Beaubian &tv'],
  'Added': '2016-02-12',
  'Countries': [],
- 'Description': '\r\n              American Crime Story: "American Crime Story" is a companion anthology focused each season on a different true crime story which made headlines and captivated the imagination of the public.             ',
+ 'Description': '\r\n'
+                '              American Crime Story: "American Crime Story" is '
+                'a companion anthology focused each season on a different true '
+                'crime story which made headlines and captivated the '
+                'imagination of the public.             ',
  'Director': [],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Crime-Story',
+ 'EntryURL': 'http://www.imdb.com/title/tt2788432',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Crime-Story/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Crime-Story/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//American-Crime-Story/info.py',
  'Genres': ['Crime&tv', 'Drama&tv'],
  'IMDB': 'http://www.imdb.com/title/tt2788432',
  'PrimeWire': 'http://www.primewire.ag/tv-2773652-American-Crime-Story',

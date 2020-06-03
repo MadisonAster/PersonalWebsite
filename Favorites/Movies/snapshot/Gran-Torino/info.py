@@ -10,8 +10,16 @@
             'William Hill'],
  'Added': '2013-08-22',
  'Countries': ['USA', 'Germany'],
- 'Description': "\nGran Torino: Disgruntled Korean War vet Walt Kowalski sets out to reform his neighbor, a young Hmong teenager, who tried to steal Kowalski's prized possession: his 1972 Gran Torino. ",
+ 'Description': '\n'
+                'Gran Torino: Disgruntled Korean War vet Walt Kowalski sets '
+                'out to reform his neighbor, a young Hmong teenager, who tried '
+                "to steal Kowalski's prized possession: his 1972 Gran Torino. ",
  'Director': ['Clint Eastwood'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Gran-Torino',
+ 'EntryURL': 'http://www.imdb.com/title/tt1205489',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Gran-Torino/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Gran-Torino/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Gran-Torino/info.py',
  'Genres': ['Crime', 'Drama'],
  'IMDB': 'http://www.imdb.com/title/tt1205489',
  'PrimeWire': 'http://www.primewire.ag/watch-320-Gran-Torino',

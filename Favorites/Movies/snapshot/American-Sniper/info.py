@@ -7,8 +7,18 @@
             'Sienna Miller'],
  'Added': '2015-01-18',
  'Countries': ['USA'],
- 'Description': "\nAmerican Sniper: Navy SEAL sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home to his wife and kids after four tours of duty, however, Chris finds that it is the war he can't leave behind. ",
+ 'Description': '\n'
+                "American Sniper: Navy SEAL sniper Chris Kyle's pinpoint "
+                'accuracy saves countless lives on the battlefield and turns '
+                'him into a legend. Back home to his wife and kids after four '
+                'tours of duty, however, Chris finds that it is the war he '
+                "can't leave behind. ",
  'Director': ['Clint Eastwood'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Sniper',
+ 'EntryURL': 'http://www.imdb.com/title/tt2179136',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Sniper/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Sniper/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Sniper/info.py',
  'Genres': ['Action', 'Biography', 'Thriller', 'War'],
  'IMDB': 'http://www.imdb.com/title/tt2179136',
  'PrimeWire': 'http://www.primewire.ag/watch-2756355-American-Sniper',

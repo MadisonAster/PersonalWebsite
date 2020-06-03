@@ -60,8 +60,16 @@
             'Ned Vaughn'],
  'Added': '2013-02-24',
  'Countries': ['USA'],
- 'Description': '\nApollo 13: True story of the moon-bound mission that developed severe trouble and the men that rescued it with skill and dedication. ',
+ 'Description': '\n'
+                'Apollo 13: True story of the moon-bound mission that '
+                'developed severe trouble and the men that rescued it with '
+                'skill and dedication. ',
  'Director': ['Ron Howard'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Apollo-13',
+ 'EntryURL': 'http://www.imdb.com/title/tt0112384',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Apollo-13/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Apollo-13/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Apollo-13/info.py',
  'Genres': ['Drama', 'Adventure', 'History'],
  'IMDB': 'http://www.imdb.com/title/tt0112384',
  'PrimeWire': 'http://www.primewire.ag/watch-1544-Apollo-13',

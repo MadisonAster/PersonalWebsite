@@ -60,8 +60,16 @@
             'Robert F Kennedy'],
  'Added': '2013-02-24',
  'Countries': ['USA'],
- 'Description': '\nForrest Gump: Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny, eludes him. ',
+ 'Description': '\n'
+                'Forrest Gump: Forrest Gump, while not intelligent, has '
+                'accidentally been present at many historic moments, but his '
+                'true love, Jenny, eludes him. ',
  'Director': ['Robert Zemeckis'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Forrest-Gump',
+ 'EntryURL': 'http://www.imdb.com/title/tt0109830',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Forrest-Gump/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Forrest-Gump/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Forrest-Gump/info.py',
  'Genres': ['Drama', 'Comedy', 'Romance'],
  'IMDB': 'http://www.imdb.com/title/tt0109830',
  'PrimeWire': 'http://www.primewire.ag/watch-870-Forrest-Gump',

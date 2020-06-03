@@ -23,8 +23,16 @@
             'William Sadler'],
  'Added': '2013-02-19',
  'Countries': ['USA'],
- 'Description': '\nAugust Rush: A drama with fairy tale elements, where an orphaned musical prodigy uses his gift as a clue to finding his birth parents. ',
+ 'Description': '\n'
+                'August Rush: A drama with fairy tale elements, where an '
+                'orphaned musical prodigy uses his gift as a clue to finding '
+                'his birth parents. ',
  'Director': ['Kirsten Sheridan'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//August-Rush',
+ 'EntryURL': 'http://www.imdb.com/title/tt0426931',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//August-Rush/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//August-Rush/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//August-Rush/info.py',
  'Genres': ['Drama', 'Romance', 'Music'],
  'IMDB': 'http://www.imdb.com/title/tt0426931',
  'PrimeWire': 'http://www.primewire.ag/watch-1118-August-Rush',

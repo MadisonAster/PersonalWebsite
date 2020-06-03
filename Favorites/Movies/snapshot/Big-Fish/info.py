@@ -29,8 +29,16 @@
             'Zach Hanner'],
  'Added': '2013-03-12',
  'Countries': ['USA'],
- 'Description': '\nBig Fish: A story about a son trying to learn more about his dying father by reliving stories and myths his father told him about himself. ',
+ 'Description': '\n'
+                'Big Fish: A story about a son trying to learn more about his '
+                'dying father by reliving stories and myths his father told '
+                'him about himself. ',
  'Director': ['Tim Burton'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Big-Fish',
+ 'EntryURL': 'http://www.imdb.com/title/tt0319061',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Big-Fish/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Big-Fish/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Big-Fish/info.py',
  'Genres': ['Drama', 'Comedy', 'Adventure', 'Fantasy'],
  'IMDB': 'http://www.imdb.com/title/tt0319061',
  'PrimeWire': 'http://www.primewire.ag/watch-1100-Big-Fish',

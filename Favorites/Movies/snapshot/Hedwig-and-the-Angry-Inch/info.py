@@ -15,8 +15,17 @@
             'Taylor Abrahamse'],
  'Added': '2013-02-23',
  'Countries': ['USA'],
- 'Description': '\nHedwig and the Angry Inch: A transexual punk rock girl from East Berlin tours the US with her rock band as she tells her life story and follows the ex-boyfriend/bandmate who stole her songs. ',
+ 'Description': '\n'
+                'Hedwig and the Angry Inch: A transexual punk rock girl from '
+                'East Berlin tours the US with her rock band as she tells her '
+                'life story and follows the ex-boyfriend/bandmate who stole '
+                'her songs. ',
  'Director': ['John Cameron Mitchell'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hedwig-and-the-Angry-Inch',
+ 'EntryURL': 'http://www.imdb.com/title/tt0248845',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hedwig-and-the-Angry-Inch/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hedwig-and-the-Angry-Inch/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Hedwig-and-the-Angry-Inch/info.py',
  'Genres': ['Drama', 'Comedy', 'Music'],
  'IMDB': 'http://www.imdb.com/title/tt0248845',
  'PrimeWire': 'http://www.primewire.ag/watch-2818-Hedwig-and-the-Angry-Inch',

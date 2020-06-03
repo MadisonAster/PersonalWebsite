@@ -24,8 +24,15 @@
             'Vladimir Skomarovsky'],
  'Added': '2014-09-12',
  'Countries': ['USA'],
- 'Description': '\n2010: A joint American-Soviet space expedition is sent to Jupiter to learn what happened to the Discovery. ',
+ 'Description': '\n'
+                '2010: A joint American-Soviet space expedition is sent to '
+                'Jupiter to learn what happened to the Discovery. ',
  'Director': ['Peter Hyams'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//2010',
+ 'EntryURL': 'http://www.imdb.com/title/tt0086837',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//2010/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//2010/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//2010/info.py',
  'Genres': ['Thriller', 'Sci-Fi', 'Adventure', 'Mystery'],
  'IMDB': 'http://www.imdb.com/title/tt0086837',
  'PrimeWire': 'http://www.primewire.ag/watch-18853-2010',

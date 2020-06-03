@@ -1,8 +1,17 @@
 {'Actors': [],
  'Added': '2015-10-02',
  'Countries': ['Mexico', 'USA'],
- 'Description': '\nCartel Land: A physician in Michoac\xc3\xa1n, Mexico leads a citizen uprising against the drug cartel that has wrecked havoc on the region for years. Across the U.S. border, a veteran heads a paramilitary ... ',
+ 'Description': '\n'
+                'Cartel Land: A physician in Michoacán, Mexico leads a '
+                'citizen uprising against the drug cartel that has wrecked '
+                'havoc on the region for years. Across the U.S. border, a '
+                'veteran heads a paramilitary ... ',
  'Director': ['Matthew Heineman'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Cartel-Land',
+ 'EntryURL': 'http://www.imdb.com/title/tt4126304',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Cartel-Land/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Cartel-Land/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Cartel-Land/info.py',
  'Genres': ['Documentary'],
  'IMDB': 'http://www.imdb.com/title/tt4126304',
  'PrimeWire': 'http://www.primewire.ag/watch-2769047-Cartel-Land',

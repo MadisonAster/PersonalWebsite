@@ -48,8 +48,16 @@
             'Verne Troyer'],
  'Added': '2013-02-23',
  'Countries': ['USA'],
- 'Description': '\nFear and Loathing in Las Vegas: An oddball journalist and his psychopathic lawyer travel to Las Vegas for a series of psychadelic escapades. ',
+ 'Description': '\n'
+                'Fear and Loathing in Las Vegas: An oddball journalist and his '
+                'psychopathic lawyer travel to Las Vegas for a series of '
+                'psychadelic escapades. ',
  'Director': ['Terry Gilliam'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fear-and-Loathing-in-Las-Vegas',
+ 'EntryURL': 'http://www.imdb.com/title/tt0120669',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fear-and-Loathing-in-Las-Vegas/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fear-and-Loathing-in-Las-Vegas/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fear-and-Loathing-in-Las-Vegas/info.py',
  'Genres': ['Comedy', 'Drama', 'Fantasy'],
  'IMDB': 'http://www.imdb.com/title/tt0120669',
  'PrimeWire': 'http://www.primewire.ag/watch-918-Fear-and-Loathing-in-Las-Vegas',

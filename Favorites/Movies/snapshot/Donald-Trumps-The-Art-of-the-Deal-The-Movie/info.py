@@ -1,8 +1,21 @@
 {'Actors': ['Johnny Depp'],
  'Added': '2016-02-21',
  'Countries': ['USA'],
- 'Description': '\nDonald Trumps The Art of the Deal The Movie: Donald Trump has it all. Money, power, respect, and an Eastern European bride. But all his success didn?t come for nothing. First, he inherited millions of dollars from his rich father, then he grabbed New York City by the balls. Now you can learn the art of negotiation, real estate, and high-quality brass in this illuminating made-for-TV special feature, Funny Or Die Presents Donald Trump?s The Art Of The Deal: The Movie.\n',
+ 'Description': '\n'
+                'Donald Trumps The Art of the Deal The Movie: Donald Trump has '
+                'it all. Money, power, respect, and an Eastern European bride. '
+                'But all his success didn?t come for nothing. First, he '
+                'inherited millions of dollars from his rich father, then he '
+                'grabbed New York City by the balls. Now you can learn the art '
+                'of negotiation, real estate, and high-quality brass in this '
+                'illuminating made-for-TV special feature, Funny Or Die '
+                'Presents Donald Trump?s The Art Of The Deal: The Movie.\n',
  'Director': ['NA'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Donald-Trumps-The-Art-of-the-Deal-The-Movie',
+ 'EntryURL': 'http://www.imdb.com/title/tt5456120',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Donald-Trumps-The-Art-of-the-Deal-The-Movie/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Donald-Trumps-The-Art-of-the-Deal-The-Movie/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Donald-Trumps-The-Art-of-the-Deal-The-Movie/info.py',
  'Genres': ['Comedy', 'Documentary'],
  'IMDB': 'http://www.imdb.com/title/tt5456120',
  'PrimeWire': 'http://www.primewire.ag/watch-2773985-Donald-Trumps-The-Art-of-the-Deal-The-Movie',

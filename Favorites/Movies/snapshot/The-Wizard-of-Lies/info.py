@@ -6,8 +6,15 @@
             ' Robert De Niro '],
  'Added': '2017-05-24',
  'Countries': [],
- 'Description': "\nThe Wizard of Lies: A chronicle of Bernie Madoff's Ponzi scheme, which defrauded his clients of billions of dollars. ",
+ 'Description': '\n'
+                "The Wizard of Lies: A chronicle of Bernie Madoff's Ponzi "
+                'scheme, which defrauded his clients of billions of dollars. ',
  'Director': [],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Wizard-of-Lies',
+ 'EntryURL': 'http://www.imdb.com/title/tt1933667',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Wizard-of-Lies/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Wizard-of-Lies/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Wizard-of-Lies/info.py',
  'Genres': ['Biography', 'Crime', 'Drama'],
  'IMDB': 'http://www.imdb.com/title/tt1933667',
  'PrimeWire': 'http://www.primewire.ag/watch-2794110-The-Wizard-of-Lies',

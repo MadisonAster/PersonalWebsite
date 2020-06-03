@@ -1,8 +1,20 @@
 {'Actors': ['&tv'],
  'Added': '2017-05-29',
  'Countries': [],
- 'Description': '\nEverything And Nothing : Two-part documentary which deals with two of the deepest questions there are - what is everything, and what is nothing?\nIn two epic, surreal and mind-expanding films, Professor Jim Al-Khalili searches for an answer to these questions as he explores the true size and shape of the universe and delves into the amazing science behind apparent nothingness. ',
+ 'Description': '\n'
+                'Everything And Nothing : Two-part documentary which deals '
+                'with two of the deepest questions there are - what is '
+                'everything, and what is nothing?\n'
+                'In two epic, surreal and mind-expanding films, Professor Jim '
+                'Al-Khalili searches for an answer to these questions as he '
+                'explores the true size and shape of the universe and delves '
+                'into the amazing science behind apparent nothingness. ',
  'Director': [],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Everything-And-Nothing',
+ 'EntryURL': 'http://www.imdb.com/title/tt2071460',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Everything-And-Nothing/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Everything-And-Nothing/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Everything-And-Nothing/info.py',
  'Genres': ['Documentary&tv'],
  'IMDB': 'http://www.imdb.com/title/tt2071460',
  'PrimeWire': 'http://www.primewire.ag/tv-2719403-Everything-And-Nothing',

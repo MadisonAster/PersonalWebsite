@@ -1,8 +1,16 @@
 {'Actors': ['Bill Paxton', 'Daniel Radcliffe', 'Joe Dempsie'],
  'Added': '2016-03-21',
  'Countries': ['UK'],
- 'Description': "\nThe Gamechangers: The struggle of Houser's legal feud against American lawyer Jack Thompson, over the morality of the Grand Theft Auto video game series. ",
+ 'Description': '\n'
+                "The Gamechangers: The struggle of Houser's legal feud against "
+                'American lawyer Jack Thompson, over the morality of the Grand '
+                'Theft Auto video game series. ',
  'Director': ['Owen Harris'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Gamechangers',
+ 'EntryURL': 'http://www.imdb.com/title/tt4590930',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Gamechangers/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Gamechangers/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Gamechangers/info.py',
  'Genres': ['Biography', 'Drama'],
  'IMDB': 'http://www.imdb.com/title/tt4590930',
  'PrimeWire': 'http://www.primewire.ag/watch-2768440-The-Gamechangers',

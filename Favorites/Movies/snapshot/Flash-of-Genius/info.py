@@ -38,8 +38,16 @@
             'Warren Belle'],
  'Added': '2013-02-19',
  'Countries': ['USA', 'Canada'],
- 'Description': '\nFlash of Genius: Robert Kearns takes on the Detroit automakers who he claims stole his idea for the intermittent windshield wiper. ',
+ 'Description': '\n'
+                'Flash of Genius: Robert Kearns takes on the Detroit '
+                'automakers who he claims stole his idea for the intermittent '
+                'windshield wiper. ',
  'Director': ['Marc Abraham'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Flash-of-Genius',
+ 'EntryURL': 'http://www.imdb.com/title/tt1054588',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Flash-of-Genius/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Flash-of-Genius/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Flash-of-Genius/info.py',
  'Genres': ['Drama'],
  'IMDB': 'http://www.imdb.com/title/tt1054588',
  'PrimeWire': 'http://www.primewire.ag/watch-293-Flash-of-Genius',

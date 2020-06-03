@@ -62,6 +62,7 @@ def WriteEntries(Entries):
         with open(Entry['Entry_json'], 'w') as file:
             file.write(json.dumps(Entry))
         with open(Entry['Entry_py'], 'w') as file:
+            print('Writing', Entry['Entry_py'])
             file.write(pformat(Entry))
     
 def GetIMDB(url, OutputDir):
@@ -71,6 +72,9 @@ def GetIMDB(url, OutputDir):
     
     Entries = GetEntries(OutputDir)
     WriteEntries(Entries)
+    
+    
+    
     return
     source = requests.get(url).text
     soup = BeautifulSoup(source, 'lxml')

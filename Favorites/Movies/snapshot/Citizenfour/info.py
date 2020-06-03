@@ -1,8 +1,15 @@
 {'Actors': [],
  'Added': '2015-08-24',
  'Countries': ['Germany', 'USA'],
- 'Description': '\nCitizenfour: A documentarian and a reporter travel to Hong Kong for the first of many meetings with Edward Snowden. ',
+ 'Description': '\n'
+                'Citizenfour: A documentarian and a reporter travel to Hong '
+                'Kong for the first of many meetings with Edward Snowden. ',
  'Director': ['Laura Poitras'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Citizenfour',
+ 'EntryURL': 'http://www.imdb.com/title/tt4044364',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Citizenfour/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Citizenfour/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Citizenfour/info.py',
  'Genres': ['Documentary'],
  'IMDB': 'http://www.imdb.com/title/tt4044364',
  'PrimeWire': 'http://www.primewire.ag/watch-2756961-Citizenfour',

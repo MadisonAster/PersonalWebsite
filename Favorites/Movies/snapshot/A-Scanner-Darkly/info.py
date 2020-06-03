@@ -18,8 +18,16 @@
             'Woody Harrelson'],
  'Added': '2013-02-19',
  'Countries': ['USA'],
- 'Description': '\nA Scanner Darkly: An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result. ',
+ 'Description': '\n'
+                'A Scanner Darkly: An undercover cop in a not-too-distant '
+                'future becomes involved with a dangerous new drug and begins '
+                'to lose his own identity as a result. ',
  'Director': ['Richard Linklater'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//A-Scanner-Darkly',
+ 'EntryURL': 'http://www.imdb.com/title/tt0405296',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//A-Scanner-Darkly/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//A-Scanner-Darkly/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//A-Scanner-Darkly/info.py',
  'Genres': ['Drama', 'Animation', 'Thriller', 'Sci-Fi', 'Crime', 'Mystery'],
  'IMDB': 'http://www.imdb.com/title/tt0405296',
  'PrimeWire': 'http://www.primewire.ag/watch-1804-A-Scanner-Darkly',

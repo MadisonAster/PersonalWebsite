@@ -32,8 +32,16 @@
             'Ving Rhames'],
  'Added': '2013-02-23',
  'Countries': ['USA', 'Japan'],
- 'Description': '\nFinal Fantasy: The Spirits Within: A female scientist makes a last stand on Earth with the help of a ragtag team of soldiers against an invasion of alien phantoms. ',
+ 'Description': '\n'
+                'Final Fantasy: The Spirits Within: A female scientist makes a '
+                'last stand on Earth with the help of a ragtag team of '
+                'soldiers against an invasion of alien phantoms. ',
  'Director': ['Hironobu Sakaguchi'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Final-Fantasy-The-Spirits-Within',
+ 'EntryURL': 'http://www.imdb.com/title/tt0173840',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Final-Fantasy-The-Spirits-Within/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Final-Fantasy-The-Spirits-Within/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Final-Fantasy-The-Spirits-Within/info.py',
  'Genres': ['Action',
             'Animation',
             'Thriller',

@@ -10,8 +10,17 @@
             'Ty Simpkins'],
  'Added': '2013-02-22',
  'Countries': ['USA'],
- 'Description': '\nExtracted: A scientist who has invented a technique to watch people&#x27;s memories finds himself in a dangerous situation after he&#x27;s tasked with entering a heroin addict&#x27;s mind to see whether the man committed murder. ',
+ 'Description': '\n'
+                'Extracted: A scientist who has invented a technique to watch '
+                'people&#x27;s memories finds himself in a dangerous situation '
+                'after he&#x27;s tasked with entering a heroin addict&#x27;s '
+                'mind to see whether the man committed murder. ',
  'Director': ['Nir Paniry'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Extracted',
+ 'EntryURL': 'http://www.imdb.com/title/tt1757746',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Extracted/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Extracted/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Extracted/info.py',
  'Genres': ['Drama', 'Sci-Fi'],
  'IMDB': 'http://www.imdb.com/title/tt1757746',
  'PrimeWire': 'http://www.primewire.ag/watch-2736149-Extracted',

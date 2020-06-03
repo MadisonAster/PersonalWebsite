@@ -4,8 +4,16 @@
             'Michael Stuhlbarg'],
  'Added': '2017-02-20',
  'Countries': ['USA'],
- 'Description': '\nArrival: When 12 mysterious spacecraft appear around the world, linguistics professor Louise Banks is tasked with interpreting the language of the apparent alien visitors. ',
+ 'Description': '\n'
+                'Arrival: When 12 mysterious spacecraft appear around the '
+                'world, linguistics professor Louise Banks is tasked with '
+                'interpreting the language of the apparent alien visitors. ',
  'Director': ['Denis Villeneuve'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Arrival',
+ 'EntryURL': 'http://www.imdb.com/title/tt2543164',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Arrival/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Arrival/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Arrival/info.py',
  'Genres': ['Drama', 'Mystery', 'Sci-Fi'],
  'IMDB': 'http://www.imdb.com/title/tt2543164',
  'PrimeWire': 'http://www.primewire.ag/watch-2788371-Arrival',

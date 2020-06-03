@@ -28,8 +28,16 @@
             'Tony Collucci'],
  'Added': '2013-02-19',
  'Countries': ['USA'],
- 'Description': '\nAdaptation.: A lovelorn screenwriter turns to his less talented twin brother for help when his efforts to adapt a non-fiction book go nowhere. ',
+ 'Description': '\n'
+                'Adaptation.: A lovelorn screenwriter turns to his less '
+                'talented twin brother for help when his efforts to adapt a '
+                'non-fiction book go nowhere. ',
  'Director': ['Spike Jonze'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Adaptation',
+ 'EntryURL': 'http://www.imdb.com/title/tt0268126',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Adaptation/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Adaptation/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Adaptation/info.py',
  'Genres': ['Drama', 'Comedy'],
  'IMDB': 'http://www.imdb.com/title/tt0268126',
  'PrimeWire': 'http://www.primewire.ag/watch-4525-Adaptation',

@@ -27,8 +27,16 @@
             'Zach Braff'],
  'Added': '2013-02-20',
  'Countries': ['USA'],
- 'Description': "\nGarden State: A quietly troubled young man returns home for his mother's funeral after being estranged from his family for a decade. ",
+ 'Description': '\n'
+                'Garden State: A quietly troubled young man returns home for '
+                "his mother's funeral after being estranged from his family "
+                'for a decade. ',
  'Director': ['Zach Braff'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Garden-State',
+ 'EntryURL': 'http://www.imdb.com/title/tt0333766',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Garden-State/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Garden-State/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Garden-State/info.py',
  'Genres': ['Drama', 'Comedy', 'Romance'],
  'IMDB': 'http://www.imdb.com/title/tt0333766',
  'PrimeWire': 'http://www.primewire.ag/watch-2100-Garden-State',

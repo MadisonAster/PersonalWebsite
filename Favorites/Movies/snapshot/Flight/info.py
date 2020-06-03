@@ -33,8 +33,16 @@
             'Tom Nowicki'],
  'Added': '2013-06-29',
  'Countries': ['USA'],
- 'Description': '\nFlight: An airline pilot saves a flight from crashing, but an investigation into the malfunctions reveals something troubling. ',
+ 'Description': '\n'
+                'Flight: An airline pilot saves a flight from crashing, but an '
+                'investigation into the malfunctions reveals something '
+                'troubling. ',
  'Director': ['Robert Zemeckis'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Flight',
+ 'EntryURL': 'http://www.imdb.com/title/tt1907668',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Flight/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Flight/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Flight/info.py',
  'Genres': ['Drama'],
  'IMDB': 'http://www.imdb.com/title/tt1907668',
  'PrimeWire': 'http://www.primewire.ag/watch-2735979-Flight',

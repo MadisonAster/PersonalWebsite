@@ -1,8 +1,18 @@
 {'Actors': [],
  'Added': '2014-12-19',
  'Countries': ['USA'],
- 'Description': '\r\n              Degenerate Art The Art and Culture of Glass Pipes: "Degenerate Art" is a true document of the art and culture of glass pipe-making. It is the first film to ever bring to light this invisible sub-culture in a comprehensive and well informed ...            ',
+ 'Description': '\r\n'
+                '              Degenerate Art The Art and Culture of Glass '
+                'Pipes: "Degenerate Art" is a true document of the art and '
+                'culture of glass pipe-making. It is the first film to ever '
+                'bring to light this invisible sub-culture in a comprehensive '
+                'and well informed ...            ',
  'Director': ['Marble Slinger'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Degenerate-Art-The-Art-and-Culture-of-Glass-Pipes',
+ 'EntryURL': 'http://www.imdb.com/title/tt2123927',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Degenerate-Art-The-Art-and-Culture-of-Glass-Pipes/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Degenerate-Art-The-Art-and-Culture-of-Glass-Pipes/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Degenerate-Art-The-Art-and-Culture-of-Glass-Pipes/info.py',
  'Genres': ['Documentary'],
  'IMDB': 'http://www.imdb.com/title/tt2123927',
  'PrimeWire': 'http://www.primewire.ag/watch-2755574-Degenerate-Art-The-Art-and-Culture-of-Glass-Pipes',

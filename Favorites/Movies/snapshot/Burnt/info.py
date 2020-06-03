@@ -1,6 +1,6 @@
 {'Actors': ['Alicia Vikander',
             'Bradley Cooper',
-            'Daniel Br\xc3\xbchl',
+            'Daniel Brühl',
             'Emma Thompson',
             'Matthew Rhys',
             'Omar Sy',
@@ -10,8 +10,18 @@
             'Uma Thurman'],
  'Added': '2016-02-22',
  'Countries': ['USA'],
- 'Description': '\nBurnt: Adam Jones (Bradley Cooper) is a Chef who destroyed his career with drugs and diva behavior. He cleans up and returns to London, determined to redeem himself by spearheading a top restaurant that can gain three Michelin stars. ',
+ 'Description': '\n'
+                'Burnt: Adam Jones (Bradley Cooper) is a Chef who destroyed '
+                'his career with drugs and diva behavior. He cleans up and '
+                'returns to London, determined to redeem himself by '
+                'spearheading a top restaurant that can gain three Michelin '
+                'stars. ',
  'Director': ['John Wells'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Burnt',
+ 'EntryURL': 'http://www.imdb.com/title/tt2503944',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Burnt/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Burnt/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Burnt/info.py',
  'Genres': ['Comedy', 'Drama'],
  'IMDB': 'http://www.imdb.com/title/tt2503944',
  'PrimeWire': 'http://www.primewire.ag/watch-2770598-Burnt',

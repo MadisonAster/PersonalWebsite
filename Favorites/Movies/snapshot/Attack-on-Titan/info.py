@@ -1,8 +1,17 @@
 {'Actors': ['Kiko Mizuhara'],
  'Added': '2015-08-15',
  'Countries': ['Japan'],
- 'Description': "\nAttack on Titan: Mankind is under the terror of titans, a beast in which feast on human flesh. Eren Yeager, a young boy determined to make change when he himself could transform into one. He is humanity's last hope. ",
+ 'Description': '\n'
+                'Attack on Titan: Mankind is under the terror of titans, a '
+                'beast in which feast on human flesh. Eren Yeager, a young boy '
+                'determined to make change when he himself could transform '
+                "into one. He is humanity's last hope. ",
  'Director': ['Shinji Higuchi'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Attack-on-Titan',
+ 'EntryURL': 'http://www.imdb.com/title/tt2072230',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Attack-on-Titan/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Attack-on-Titan/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Attack-on-Titan/info.py',
  'Genres': ['Action', 'Adventure', 'Drama', 'Fantasy', 'Japanese'],
  'IMDB': 'http://www.imdb.com/title/tt2072230',
  'PrimeWire': 'http://www.primewire.ag/watch-2767024-Attack-on-Titan',

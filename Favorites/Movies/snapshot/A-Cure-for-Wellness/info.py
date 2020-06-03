@@ -9,8 +9,18 @@
             'Mia Goth'],
  'Added': '2017-05-27',
  'Countries': ['Germany', 'USA'],
- 'Description': '\r\n              A Cure for Wellness: An ambitious young executive is sent to retrieve his company\'s CEO from an idyllic but mysterious "wellness center" at a remote location in the Swiss Alps, but soon suspects that the spa\'s treatments are not what they seem.            ',
+ 'Description': '\r\n'
+                '              A Cure for Wellness: An ambitious young '
+                "executive is sent to retrieve his company's CEO from an "
+                'idyllic but mysterious "wellness center" at a remote location '
+                "in the Swiss Alps, but soon suspects that the spa's "
+                'treatments are not what they seem.            ',
  'Director': ['Gore Verbinski'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//A-Cure-for-Wellness',
+ 'EntryURL': 'http://www.imdb.com/title/tt4731136',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//A-Cure-for-Wellness/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//A-Cure-for-Wellness/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//A-Cure-for-Wellness/info.py',
  'Genres': ['Drama', 'Fantasy', 'Horror'],
  'IMDB': 'http://www.imdb.com/title/tt4731136',
  'PrimeWire': 'http://www.primewire.ag/watch-2791971-A-Cure-for-Wellness',

@@ -10,8 +10,16 @@
             'Scarlett Johansson'],
  'Added': '2014-01-09',
  'Countries': ['USA'],
- 'Description': "\nHer: A lonely writer develops an unlikely relationship with his newly-purchased operating system that's designed to meet his every need. ",
+ 'Description': '\n'
+                'Her: A lonely writer develops an unlikely relationship with '
+                "his newly-purchased operating system that's designed to meet "
+                'his every need. ',
  'Director': ['Spike Jonze'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Her',
+ 'EntryURL': 'http://www.imdb.com/title/tt1798709',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Her/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Her/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Her/info.py',
  'Genres': ['Drama', 'Romance', 'Sci-Fi'],
  'IMDB': 'http://www.imdb.com/title/tt1798709',
  'PrimeWire': 'http://www.primewire.ag/watch-2743656-Her',

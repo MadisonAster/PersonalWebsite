@@ -1,8 +1,17 @@
 {'Actors': [],
  'Added': '2016-10-29',
  'Countries': ['USA'],
- 'Description': '\nPiper: A mother bird tries to teach her little one how to find food by himself. In the process, he encounters a traumatic experience that he must overcome in order to survive. ',
+ 'Description': '\n'
+                'Piper: A mother bird tries to teach her little one how to '
+                'find food by himself. In the process, he encounters a '
+                'traumatic experience that he must overcome in order to '
+                'survive. ',
  'Director': ['Alan Barillaro'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Piper',
+ 'EntryURL': 'http://www.imdb.com/title/tt5613056',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Piper/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Piper/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Piper/info.py',
  'Genres': ['Animation', 'Fantasy', 'Short'],
  'IMDB': 'http://www.imdb.com/title/tt5613056',
  'PrimeWire': 'http://www.primewire.ag/watch-2784354-Piper',

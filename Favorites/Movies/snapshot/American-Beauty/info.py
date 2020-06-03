@@ -26,8 +26,17 @@
             'Wes Bentley'],
  'Added': '2013-02-24',
  'Countries': ['USA'],
- 'Description': "\nAmerican Beauty: Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation for his daughter's attractive friend. ",
+ 'Description': '\n'
+                'American Beauty: Lester Burnham, a depressed suburban father '
+                'in a mid-life crisis, decides to turn his hectic life around '
+                "after developing an infatuation for his daughter's attractive "
+                'friend. ',
  'Director': ['Sam Mendes'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Beauty',
+ 'EntryURL': 'http://www.imdb.com/title/tt0169547',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Beauty/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Beauty/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//American-Beauty/info.py',
  'Genres': ['Drama'],
  'IMDB': 'http://www.imdb.com/title/tt0169547',
  'PrimeWire': 'http://www.primewire.ag/watch-864-American-Beauty',

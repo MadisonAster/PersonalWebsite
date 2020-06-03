@@ -27,8 +27,16 @@
             'William Sylvester'],
  'Added': '2013-02-24',
  'Countries': ['UK', 'USA'],
- 'Description': '\n2001: A Space Odyssey: Mankind finds a mysterious, obviously artificial, artifact buried on the moon and, with the intelligent computer HAL, sets off on a quest. ',
+ 'Description': '\n'
+                '2001: A Space Odyssey: Mankind finds a mysterious, obviously '
+                'artificial, artifact buried on the moon and, with the '
+                'intelligent computer HAL, sets off on a quest. ',
  'Director': ['Stanley Kubrick'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//2001-A-Space-Odyssey',
+ 'EntryURL': 'http://www.imdb.com/title/tt0062622',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//2001-A-Space-Odyssey/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//2001-A-Space-Odyssey/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//2001-A-Space-Odyssey/info.py',
  'Genres': ['Sci-Fi', 'Adventure', 'Mystery'],
  'IMDB': 'http://www.imdb.com/title/tt0062622',
  'PrimeWire': 'http://www.primewire.ag/watch-902-2001-A-Space-Odyssey',

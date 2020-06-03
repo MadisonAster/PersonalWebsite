@@ -13,8 +13,17 @@
             'Tom Wilkinson'],
  'Added': '2013-02-24',
  'Countries': ['USA'],
- 'Description': '\nEternal Sunshine of the Spotless Mind: A couple undergo a procedure to erase each other from their memories when their relationship turns sour, but it is only through the process of loss that they discover what they had to begin with. ',
+ 'Description': '\n'
+                'Eternal Sunshine of the Spotless Mind: A couple undergo a '
+                'procedure to erase each other from their memories when their '
+                'relationship turns sour, but it is only through the process '
+                'of loss that they discover what they had to begin with. ',
  'Director': ['Michel Gondry'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Eternal-Sunshine-of-the-Spotless-Mind',
+ 'EntryURL': 'http://www.imdb.com/title/tt0338013',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Eternal-Sunshine-of-the-Spotless-Mind/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Eternal-Sunshine-of-the-Spotless-Mind/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Eternal-Sunshine-of-the-Spotless-Mind/info.py',
  'Genres': ['Drama', 'Romance'],
  'IMDB': 'http://www.imdb.com/title/tt0338013',
  'PrimeWire': 'http://www.primewire.ag/watch-403-Eternal-Sunshine-of-the-Spotless-Mind',

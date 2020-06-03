@@ -60,8 +60,16 @@
             'Mark Keller'],
  'Added': '2013-02-19',
  'Countries': ['USA'],
- 'Description': '\nAcross the Universe: The music of the Beatles and the Vietnam War form the backdrop for the romance between an upper-class American girl and a poor Liverpudlian artist. ',
+ 'Description': '\n'
+                'Across the Universe: The music of the Beatles and the Vietnam '
+                'War form the backdrop for the romance between an upper-class '
+                'American girl and a poor Liverpudlian artist. ',
  'Director': ['Julie Taymor'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Across-the-Universe',
+ 'EntryURL': 'http://www.imdb.com/title/tt0445922',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Across-the-Universe/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Across-the-Universe/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Across-the-Universe/info.py',
  'Genres': ['Drama', 'Romance', 'Musical', 'Adventure'],
  'IMDB': 'http://www.imdb.com/title/tt0445922',
  'PrimeWire': 'http://www.primewire.ag/watch-1433-Across-the-Universe',

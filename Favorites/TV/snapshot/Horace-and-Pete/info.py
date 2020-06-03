@@ -4,8 +4,18 @@
             'Steven Wright&tv'],
  'Added': '2016-03-12',
  'Countries': ['USA'],
- 'Description': "\nHorace and Pete: Horace and Pete (stylized as Horace and Pete's Est. 1916) is an American comedy-drama web series created by Louis C.K. starring himself and Steve Buscemi as Horace and Pete, co-owners of an Irish bar, Horace and Pete's. ",
+ 'Description': '\n'
+                'Horace and Pete: Horace and Pete (stylized as Horace and '
+                "Pete's Est. 1916) is an American comedy-drama web series "
+                'created by Louis C.K. starring himself and Steve Buscemi as '
+                'Horace and Pete, co-owners of an Irish bar, Horace and '
+                "Pete's. ",
  'Director': ['NA'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Horace-and-Pete',
+ 'EntryURL': 'http://www.imdb.com/title/tt5425186',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Horace-and-Pete/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Horace-and-Pete/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Horace-and-Pete/info.py',
  'Genres': ['Comedy&tv', 'Drama&tv'],
  'IMDB': 'http://www.imdb.com/title/tt5425186',
  'PrimeWire': 'http://www.primewire.ag/tv-2774738-Horace-and-Pete',

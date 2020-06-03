@@ -24,8 +24,15 @@
             'Whayne Jerome-Clayton'],
  'Added': '2013-02-19',
  'Countries': ['USA', 'Germany'],
- 'Description': '\nBicentennial Man: An android endeavors to become human as he gradually acquires emotions. ',
+ 'Description': '\n'
+                'Bicentennial Man: An android endeavors to become human as he '
+                'gradually acquires emotions. ',
  'Director': ['Chris Columbus'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Bicentennial-Man',
+ 'EntryURL': 'http://www.imdb.com/title/tt0182789',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Bicentennial-Man/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Bicentennial-Man/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Bicentennial-Man/info.py',
  'Genres': ['Drama', 'Romance', 'Sci-Fi'],
  'IMDB': 'http://www.imdb.com/title/tt0182789',
  'PrimeWire': 'http://www.primewire.ag/watch-2109-Bicentennial-Man',

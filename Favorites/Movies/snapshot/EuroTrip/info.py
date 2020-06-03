@@ -37,8 +37,16 @@
             'Walter Sittler'],
  'Added': '2013-02-20',
  'Countries': ['USA'],
- 'Description': '\nEuroTrip: Dumped by his girlfriend, a high school grad decides to embark on an overseas adventure in Europe with his friends. ',
+ 'Description': '\n'
+                'EuroTrip: Dumped by his girlfriend, a high school grad '
+                'decides to embark on an overseas adventure in Europe with his '
+                'friends. ',
  'Director': ['Jeff Schaffer'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//EuroTrip',
+ 'EntryURL': 'http://www.imdb.com/title/tt0356150',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//EuroTrip/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//EuroTrip/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//EuroTrip/info.py',
  'Genres': ['Comedy', 'Adventure'],
  'IMDB': 'http://www.imdb.com/title/tt0356150',
  'PrimeWire': 'http://www.primewire.ag/watch-2021-EuroTrip',

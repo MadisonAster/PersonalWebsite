@@ -28,8 +28,17 @@
             'William Upjohn'],
  'Added': '2013-02-19',
  'Countries': ['Australia', 'USA'],
- 'Description': '\nDark City: A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans. ',
+ 'Description': '\n'
+                'Dark City: A man struggles with memories of his past, '
+                'including a wife he cannot remember, in a nightmarish world '
+                'with no sun and run by beings with telekinetic powers who '
+                'seek the souls of humans. ',
  'Director': ['Alex Proyas'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Dark-City',
+ 'EntryURL': 'http://www.imdb.com/title/tt0118929',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Dark-City/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Dark-City/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Dark-City/info.py',
  'Genres': ['Thriller', 'Sci-Fi', 'Crime', 'Mystery'],
  'IMDB': 'http://www.imdb.com/title/tt0118929',
  'PrimeWire': 'http://www.primewire.ag/watch-2465-Dark-City',

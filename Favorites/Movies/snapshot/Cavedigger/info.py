@@ -1,8 +1,17 @@
 {'Actors': ['David Heath'],
  'Added': '2016-06-02',
  'Countries': ['USA'],
- 'Description': '\nCavedigger: In this OSCAR\xc2\xae NOMINATED documentary short, artist Ra Paulette digs other-worldly, sculptural caves using nothing but hand tools. But, as patrons cut off his projects due to lack of funds ... ',
+ 'Description': '\n'
+                'Cavedigger: In this OSCAR® NOMINATED documentary short, '
+                'artist Ra Paulette digs other-worldly, sculptural caves using '
+                'nothing but hand tools. But, as patrons cut off his projects '
+                'due to lack of funds ... ',
  'Director': ['Jeffrey Karoff'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Cavedigger',
+ 'EntryURL': 'http://www.imdb.com/title/tt2516860',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Cavedigger/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Cavedigger/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Cavedigger/info.py',
  'Genres': ['Biography', 'Documentary', 'Short'],
  'IMDB': 'http://www.imdb.com/title/tt2516860',
  'PrimeWire': 'http://www.primewire.ag/watch-2777750-Cavedigger',

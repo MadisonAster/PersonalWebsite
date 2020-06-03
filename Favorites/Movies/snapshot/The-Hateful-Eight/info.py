@@ -9,8 +9,16 @@
             'Walton Goggins'],
  'Added': '2015-12-25',
  'Countries': ['USA'],
- 'Description': '\nThe Hateful Eight: In post-Civil War Wyoming, bounty hunters try to find shelter during a blizzard but get involved in a plot of betrayal and deception. Will they survive? ',
+ 'Description': '\n'
+                'The Hateful Eight: In post-Civil War Wyoming, bounty hunters '
+                'try to find shelter during a blizzard but get involved in a '
+                'plot of betrayal and deception. Will they survive? ',
  'Director': ['Quentin Tarantino'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Hateful-Eight',
+ 'EntryURL': 'http://www.imdb.com/title/tt3460252',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Hateful-Eight/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Hateful-Eight/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Hateful-Eight/info.py',
  'Genres': ['Western'],
  'IMDB': 'http://www.imdb.com/title/tt3460252',
  'PrimeWire': 'http://www.primewire.ag/watch-2772075-The-Hateful-Eight',

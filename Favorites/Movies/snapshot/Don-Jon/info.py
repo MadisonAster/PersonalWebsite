@@ -8,8 +8,23 @@
             'Tony Danza'],
  'Added': '2013-12-17',
  'Countries': ['USA'],
- 'Description': '\r\n              Don Jon: Jon Martello objectifies everything in his life: his apartment, his car, his family, his church, and, of course, women. His buddies even call him Don Jon because of his ability to pull "10s" every weekend without fail. Yet even the finest flings don\'t compare to the transcendent bliss he achieves alone in front of the computer watching pornography. Dissatisfied, he embarks on a journey to find a more gratifying sex life, but ends up learning larger lessons of life and love through relationships with two very different women.            ',
+ 'Description': '\r\n'
+                '              Don Jon: Jon Martello objectifies everything in '
+                'his life: his apartment, his car, his family, his church, '
+                'and, of course, women. His buddies even call him Don Jon '
+                'because of his ability to pull "10s" every weekend without '
+                "fail. Yet even the finest flings don't compare to the "
+                'transcendent bliss he achieves alone in front of the computer '
+                'watching pornography. Dissatisfied, he embarks on a journey '
+                'to find a more gratifying sex life, but ends up learning '
+                'larger lessons of life and love through relationships with '
+                'two very different women.            ',
  'Director': ['Joseph Gordon-Levitt'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Don-Jon',
+ 'EntryURL': 'http://www.imdb.com/title/tt2229499',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Don-Jon/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Don-Jon/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Don-Jon/info.py',
  'Genres': ['Comedy'],
  'IMDB': 'http://www.imdb.com/title/tt2229499',
  'PrimeWire': 'http://www.primewire.ag/watch-2743296-Don-Jon',

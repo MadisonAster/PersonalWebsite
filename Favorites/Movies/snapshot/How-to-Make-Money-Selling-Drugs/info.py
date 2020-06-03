@@ -5,8 +5,17 @@
             'Woody Harrelson'],
  'Added': '2013-06-30',
  'Countries': ['USA'],
- 'Description': '\nHow to Make Money Selling Drugs: Ten easy steps show you how to make money from drugs, featuring a series of interviews with drug dealers, prison employees, and lobbyists arguing for tougher drug laws. ',
+ 'Description': '\n'
+                'How to Make Money Selling Drugs: Ten easy steps show you how '
+                'to make money from drugs, featuring a series of interviews '
+                'with drug dealers, prison employees, and lobbyists arguing '
+                'for tougher drug laws. ',
  'Director': ['Matthew Cooke'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//How-to-Make-Money-Selling-Drugs',
+ 'EntryURL': 'http://www.imdb.com/title/tt1276962',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//How-to-Make-Money-Selling-Drugs/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//How-to-Make-Money-Selling-Drugs/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//How-to-Make-Money-Selling-Drugs/info.py',
  'Genres': ['Documentary'],
  'IMDB': 'http://www.imdb.com/title/tt1276962',
  'PrimeWire': 'http://www.primewire.ag/watch-2021699-How-to-Make-Money-Selling-Drugs',

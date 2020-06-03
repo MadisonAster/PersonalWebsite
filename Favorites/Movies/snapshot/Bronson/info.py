@@ -23,8 +23,17 @@
             'Tom Hardy'],
  'Added': '2013-02-19',
  'Countries': ['UK'],
- 'Description': '\nBronson: A young man who was sentenced to 7 years on prison for robbing a post office ends up spending 30 years in solitary confinement. During this time, his own personality is supplanted by his alter ego, Charles Bronson. ',
+ 'Description': '\n'
+                'Bronson: A young man who was sentenced to 7 years on prison '
+                'for robbing a post office ends up spending 30 years in '
+                'solitary confinement. During this time, his own personality '
+                'is supplanted by his alter ego, Charles Bronson. ',
  'Director': ['Nicolas Winding Refn'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Bronson',
+ 'EntryURL': 'http://www.imdb.com/title/tt1172570',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Bronson/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Bronson/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Bronson/info.py',
  'Genres': ['Action', 'Drama', 'Thriller', 'Biography'],
  'IMDB': 'http://www.imdb.com/title/tt1172570',
  'PrimeWire': 'http://www.primewire.ag/watch-5630-Bronson',

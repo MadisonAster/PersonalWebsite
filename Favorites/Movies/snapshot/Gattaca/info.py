@@ -25,8 +25,16 @@
             'Xander Berkeley'],
  'Added': '2013-02-19',
  'Countries': ['USA'],
- 'Description': '\nGattaca: A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel. ',
+ 'Description': '\n'
+                'Gattaca: A genetically inferior man assumes the identity of a '
+                'superior one in order to pursue his lifelong dream of space '
+                'travel. ',
  'Director': ['Andrew Niccol'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Gattaca',
+ 'EntryURL': 'http://www.imdb.com/title/tt0119177',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Gattaca/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Gattaca/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Gattaca/info.py',
  'Genres': ['Drama', 'Romance', 'Sci-Fi', 'Thriller'],
  'IMDB': 'http://www.imdb.com/title/tt0119177',
  'PrimeWire': 'http://www.primewire.ag/watch-2974-Gattaca',

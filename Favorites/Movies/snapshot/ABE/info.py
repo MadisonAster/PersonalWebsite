@@ -1,8 +1,15 @@
 {'Actors': [],
  'Added': '2013-12-12',
  'Countries': [],
- 'Description': '\nABE: ABE, which tells the story of a twisted robot serial killer. ',
+ 'Description': '\n'
+                'ABE: ABE, which tells the story of a twisted robot serial '
+                'killer. ',
  'Director': ['Rob McLellan'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//ABE',
+ 'EntryURL': 'http://www.imdb.com/title/tt2883236',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//ABE/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//ABE/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//ABE/info.py',
  'Genres': ['Horror', 'Sci-Fi', 'Short'],
  'IMDB': 'http://www.imdb.com/title/tt2883236',
  'PrimeWire': 'http://www.primewire.ag/watch-2743148-ABE',

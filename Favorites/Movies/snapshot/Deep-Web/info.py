@@ -1,8 +1,16 @@
 {'Actors': ['Keanu Reeves'],
  'Added': '2015-08-23',
  'Countries': ['USA'],
- 'Description': '\nDeep Web: A feature documentary that explores the rise of a new Internet; decentralized, encrypted, dangerous and beyond the law. ',
+ 'Description': '\n'
+                'Deep Web: A feature documentary that explores the rise of a '
+                'new Internet; decentralized, encrypted, dangerous and beyond '
+                'the law. ',
  'Director': ['Alex Winter'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Deep-Web',
+ 'EntryURL': 'http://www.imdb.com/title/tt3312868',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Deep-Web/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Deep-Web/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Deep-Web/info.py',
  'Genres': ['Documentary'],
  'IMDB': 'http://www.imdb.com/title/tt3312868',
  'PrimeWire': 'http://www.primewire.ag/watch-2763349-Deep-Web',

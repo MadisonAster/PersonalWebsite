@@ -12,8 +12,16 @@
             'Matthew McConaughey'],
  'Added': '2016-09-14',
  'Countries': ['USA'],
- 'Description': '\nFree State of Jones: As civil war divides the nation, a poor farmer from Mississippi leads a group of rebels against the Confederate army. ',
+ 'Description': '\n'
+                'Free State of Jones: As civil war divides the nation, a poor '
+                'farmer from Mississippi leads a group of rebels against the '
+                'Confederate army. ',
  'Director': ['Gary Ross'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Free-State-of-Jones',
+ 'EntryURL': 'http://www.imdb.com/title/tt1124037',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Free-State-of-Jones/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Free-State-of-Jones/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Free-State-of-Jones/info.py',
  'Genres': ['Action', 'Biography', 'Drama'],
  'IMDB': 'http://www.imdb.com/title/tt1124037',
  'PrimeWire': 'http://www.primewire.ag/watch-2781150-Free-State-of-Jones',

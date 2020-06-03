@@ -36,8 +36,19 @@
             'Turk Pipkin'],
  'Added': '2013-02-19',
  'Countries': ['USA'],
- 'Description': '\r\n              Idiocracy: Private Joe Bauers, the definition of "average American", is selected by the Pentagon to be the guinea pig for a top-secret hibernation program. Forgotten, he awakes 500 years in the future. He discovers a society so incredibly dumbed-down that he\'s easily the most intelligent person alive.            ',
+ 'Description': '\r\n'
+                '              Idiocracy: Private Joe Bauers, the definition '
+                'of "average American", is selected by the Pentagon to be the '
+                'guinea pig for a top-secret hibernation program. Forgotten, '
+                'he awakes 500 years in the future. He discovers a society so '
+                "incredibly dumbed-down that he's easily the most intelligent "
+                'person alive.            ',
  'Director': ['Mike Judge'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Idiocracy',
+ 'EntryURL': 'http://www.imdb.com/title/tt0387808',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Idiocracy/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Idiocracy/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Idiocracy/info.py',
  'Genres': ['Comedy', 'Sci-Fi', 'Adventure'],
  'IMDB': 'http://www.imdb.com/title/tt0387808',
  'PrimeWire': 'http://www.primewire.ag/watch-5488-Idiocracy',

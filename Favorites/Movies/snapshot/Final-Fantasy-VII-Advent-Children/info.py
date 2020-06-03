@@ -42,8 +42,17 @@
             'Y&#xFB;ji Kishi'],
  'Added': '2013-02-22',
  'Countries': ['Japan'],
- 'Description': "\nFinal Fantasy VII: Advent Children: An ex-mercenary is forced out of isolation when three mysterious men kidnap and brainwash the city's children afflicted with the Geostigma disease. ",
+ 'Description': '\n'
+                'Final Fantasy VII: Advent Children: An ex-mercenary is forced '
+                'out of isolation when three mysterious men kidnap and '
+                "brainwash the city's children afflicted with the Geostigma "
+                'disease. ',
  'Director': ['Tetsuya Nomura'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Final-Fantasy-VII-Advent-Children',
+ 'EntryURL': 'http://www.imdb.com/title/tt0385700',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Final-Fantasy-VII-Advent-Children/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Final-Fantasy-VII-Advent-Children/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Final-Fantasy-VII-Advent-Children/info.py',
  'Genres': ['Action', 'Animation', 'Thriller', 'Sci-Fi'],
  'IMDB': 'http://www.imdb.com/title/tt0385700',
  'PrimeWire': 'http://www.primewire.ag/watch-5315-Final-Fantasy-VII-Advent-Children',

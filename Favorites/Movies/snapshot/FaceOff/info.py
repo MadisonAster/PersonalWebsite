@@ -41,8 +41,16 @@
             'Walter Scott'],
  'Added': '2013-02-24',
  'Countries': ['USA'],
- 'Description': '\nFace/Off: A revolutionary medical technique allows an undercover agent to take the physical appearance of a major criminal and infiltrate his organization. ',
+ 'Description': '\n'
+                'Face/Off: A revolutionary medical technique allows an '
+                'undercover agent to take the physical appearance of a major '
+                'criminal and infiltrate his organization. ',
  'Director': ['John Woo'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//FaceOff',
+ 'EntryURL': 'http://www.imdb.com/title/tt0119094',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//FaceOff/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//FaceOff/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//FaceOff/info.py',
  'Genres': ['Action', 'Drama', 'Thriller', 'Sci-Fi', 'Crime'],
  'IMDB': 'http://www.imdb.com/title/tt0119094',
  'PrimeWire': 'http://www.primewire.ag/watch-1458-FaceOff',

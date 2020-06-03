@@ -4,8 +4,17 @@
             'Paul Glover'],
  'Added': '2016-01-29',
  'Countries': ['New Zealand'],
- 'Description': "\nPoppy: Poppy is a Performance-Captured CGI drama set on France's western front in World War One. Two New Zealand soldiers are trapped behind enemy lines and are trying to find their way to safety.... ",
+ 'Description': '\n'
+                'Poppy: Poppy is a Performance-Captured CGI drama set on '
+                "France's western front in World War One. Two New Zealand "
+                'soldiers are trapped behind enemy lines and are trying to '
+                'find their way to safety.... ',
  'Director': ['James Cunningham'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Poppy',
+ 'EntryURL': 'http://www.imdb.com/title/tt1458968',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Poppy/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Poppy/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Poppy/info.py',
  'Genres': ['Animation', 'Short'],
  'IMDB': 'http://www.imdb.com/title/tt1458968',
  'PrimeWire': 'http://www.primewire.ag/watch-2371979-Poppy',

@@ -1,8 +1,16 @@
 {'Actors': ['Bill Maher&tv'],
  'Added': '2016-02-12',
  'Countries': ['USA'],
- 'Description': '\nReal Time with Bill Maher: Comedian and political satirist Bill Maher discusses topical events with guests from various backgrounds. ',
+ 'Description': '\n'
+                'Real Time with Bill Maher: Comedian and political satirist '
+                'Bill Maher discusses topical events with guests from various '
+                'backgrounds. ',
  'Director': [],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Real-Time-with-Bill-Maher',
+ 'EntryURL': 'http://www.imdb.com/title/tt0350448',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Real-Time-with-Bill-Maher/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Real-Time-with-Bill-Maher/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Real-Time-with-Bill-Maher/info.py',
  'Genres': ['Comedy&tv', 'Talk-Show&tv'],
  'IMDB': 'http://www.imdb.com/title/tt0350448',
  'PrimeWire': 'http://www.primewire.ag/tv-13422-Real-Time-with-Bill-Maher',

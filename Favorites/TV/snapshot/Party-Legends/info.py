@@ -1,8 +1,16 @@
 {'Actors': ['Na&tv'],
  'Added': '2016-08-13',
  'Countries': ['USA'],
- 'Description': '\nParty Legends: Notable and notorious personalities share their most candid party stories with help from emerging artists and animators. ',
+ 'Description': '\n'
+                'Party Legends: Notable and notorious personalities share '
+                'their most candid party stories with help from emerging '
+                'artists and animators. ',
  'Director': ['NA'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Party-Legends',
+ 'EntryURL': 'http://www.imdb.com/title/tt5849156',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Party-Legends/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Party-Legends/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/TV/snapshot//Party-Legends/info.py',
  'Genres': ['Animation&tv'],
  'IMDB': 'http://www.imdb.com/title/tt5849156',
  'PrimeWire': 'http://www.primewire.ag/tv-2780247-Party-Legends',

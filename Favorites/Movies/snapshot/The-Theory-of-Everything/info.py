@@ -1,8 +1,15 @@
 {'Actors': ['Charlie Cox', 'Eddie Redmayne', 'Emily Watson', 'Felicity Jones'],
  'Added': '2017-05-29',
  'Countries': ['UK'],
- 'Description': '\nThe Theory of Everything: A look at the relationship between the famous physicist Stephen Hawking and his wife. ',
+ 'Description': '\n'
+                'The Theory of Everything: A look at the relationship between '
+                'the famous physicist Stephen Hawking and his wife. ',
  'Director': ['James Marsh'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Theory-of-Everything',
+ 'EntryURL': 'http://www.imdb.com/title/tt2980516',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Theory-of-Everything/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Theory-of-Everything/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//The-Theory-of-Everything/info.py',
  'Genres': ['Biography', 'Drama', 'Romance'],
  'IMDB': 'http://www.imdb.com/title/tt2980516',
  'PrimeWire': 'http://www.primewire.ag/watch-2754345-The-Theory-of-Everything',

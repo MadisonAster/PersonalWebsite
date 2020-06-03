@@ -26,7 +26,7 @@
             'Lea Seydoux',
             'Ludger Pistor',
             'Martin Wuttke',
-            'M\xe9lanie Laurent',
+            'Mélanie Laurent',
             'Michael Bacall',
             'Michael Fassbender',
             'Mike Myers',
@@ -42,8 +42,18 @@
             'Wilfried Hochholdinger'],
  'Added': '2013-02-19',
  'Countries': ['USA', 'Germany'],
- 'Description': '\r\n              Inglourious Basterds: In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as "The Basterds" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis.            ',
+ 'Description': '\r\n'
+                '              Inglourious Basterds: In Nazi-occupied France '
+                'during World War II, a group of Jewish-American soldiers '
+                'known as "The Basterds" are chosen specifically to spread '
+                'fear throughout the Third Reich by scalping and brutally '
+                'killing Nazis.            ',
  'Director': ['Quentin Tarantino'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Inglourious-Basterds',
+ 'EntryURL': 'http://www.imdb.com/title/tt0361748',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Inglourious-Basterds/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Inglourious-Basterds/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Inglourious-Basterds/info.py',
  'Genres': ['Action', 'Drama', 'War'],
  'IMDB': 'http://www.imdb.com/title/tt0361748',
  'PrimeWire': 'http://www.primewire.ag/watch-18058-Inglourious-Basterds',

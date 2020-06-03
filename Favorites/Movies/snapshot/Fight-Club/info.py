@@ -50,8 +50,15 @@
             'Zach Grenier'],
  'Added': '2013-02-19',
  'Countries': ['USA', 'Germany'],
- 'Description': '\nFight Club: An office employee and a soap salesman build a global organization to help vent male aggression. ',
+ 'Description': '\n'
+                'Fight Club: An office employee and a soap salesman build a '
+                'global organization to help vent male aggression. ',
  'Director': ['David Fincher'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fight-Club',
+ 'EntryURL': 'http://www.imdb.com/title/tt0137523',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fight-Club/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fight-Club/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fight-Club/info.py',
  'Genres': ['Action', 'Drama', 'Thriller'],
  'IMDB': 'http://www.imdb.com/title/tt0137523',
  'PrimeWire': 'http://www.primewire.ag/watch-286-Fight-Club',

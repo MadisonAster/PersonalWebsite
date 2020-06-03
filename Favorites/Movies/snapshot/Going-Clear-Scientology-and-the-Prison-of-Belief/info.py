@@ -1,8 +1,16 @@
 {'Actors': [],
  'Added': '2015-03-31',
  'Countries': ['USA'],
- 'Description': '\nGoing Clear: Scientology and the Prison of Belief: An in-depth look at the inner-workings of the Church of Scientology. ',
+ 'Description': '\n'
+                'Going Clear: Scientology and the Prison of Belief: An '
+                'in-depth look at the inner-workings of the Church of '
+                'Scientology. ',
  'Director': ['Alex Gibney'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Going-Clear-Scientology-and-the-Prison-of-Belief',
+ 'EntryURL': 'http://www.imdb.com/title/tt4257858',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Going-Clear-Scientology-and-the-Prison-of-Belief/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Going-Clear-Scientology-and-the-Prison-of-Belief/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Going-Clear-Scientology-and-the-Prison-of-Belief/info.py',
  'Genres': ['Documentary'],
  'IMDB': 'http://www.imdb.com/title/tt4257858',
  'PrimeWire': 'http://www.primewire.ag/watch-2760343-Going-Clear-Scientology-and-the-Prison-of-Belief',

@@ -39,8 +39,18 @@
             'Ty Burrell'],
  'Added': '2013-02-25',
  'Countries': ['USA', 'United Arab Emirates'],
- 'Description': "\nFair Game: Plame's status as a CIA agent was revealed by White House officials allegedly out to discredit her husband after he wrote a 2003 New York Times op-ed piece saying that the Bush administration had manipulated intelligence about weapons of mass destruction to justify the invasion of Iraq. ",
+ 'Description': '\n'
+                "Fair Game: Plame's status as a CIA agent was revealed by "
+                'White House officials allegedly out to discredit her husband '
+                'after he wrote a 2003 New York Times op-ed piece saying that '
+                'the Bush administration had manipulated intelligence about '
+                'weapons of mass destruction to justify the invasion of Iraq. ',
  'Director': ['Doug Liman'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fair-Game',
+ 'EntryURL': 'http://www.imdb.com/title/tt0977855',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fair-Game/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fair-Game/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//Fair-Game/info.py',
  'Genres': ['Action', 'Biography', 'Drama', 'Thriller'],
  'IMDB': 'http://www.imdb.com/title/tt0977855',
  'PrimeWire': 'http://www.primewire.ag/watch-1450077-Fair-Game',

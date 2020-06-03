@@ -1,8 +1,16 @@
 {'Actors': ['Bill Hader', 'Matt Stone', 'Trey Parker'],
  'Added': '2013-02-19',
  'Countries': ['USA'],
- 'Description': '\n6 Days to Air The Making of South Park: A look at the making of\nHUMANCENTiPAD. ',
+ 'Description': '\n'
+                '6 Days to Air The Making of South Park: A look at the making '
+                'of\n'
+                'HUMANCENTiPAD. ',
  'Director': ['Arthur Bradford'],
+ 'EntryPath': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//6-Days-to-Air-The-Making-of-South-Park',
+ 'EntryURL': 'http://www.imdb.com/title/tt2076781',
+ 'Entry_json': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//6-Days-to-Air-The-Making-of-South-Park/entry.json',
+ 'Entry_php': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//6-Days-to-Air-The-Making-of-South-Park/info.php',
+ 'Entry_py': 'W:\\Portfolio\\PersonalWebsite\\Favorites/Movies/snapshot//6-Days-to-Air-The-Making-of-South-Park/info.py',
  'Genres': ['Documentary'],
  'IMDB': 'http://www.imdb.com/title/tt2076781',
  'PrimeWire': 'http://www.primewire.ag/watch-2733154-6-Days-to-Air-The-Making-of-South-Park',
