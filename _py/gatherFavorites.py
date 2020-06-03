@@ -22,7 +22,7 @@ def main():
     BookmarksDir = htmlDir+'Favorites/Bookmarks/snapshot'
     
     GetIMDB(GetURLs.GetFavoriteTVURL(), TVDir)
-    #GetIMDB(GetURLs.GetFavoriteMoviesURL(), MoviesDir)
+    GetIMDB(GetURLs.GetFavoriteMoviesURL(), MoviesDir)
     #GetGoodReads(GetURLs.GetFavoriteBooksURL(), BooksDir)
     #GetRawg(GetURLs.GetFavoriteGamesURL(), GamesDir)
     #GetFirefox(GetURLs.GetFavoriteBookmarksURL(), BookmarksDir)
@@ -35,17 +35,14 @@ def GetLinks(html):
 def GetEntries(OutputDir):
     Entries = {}
     ExistingEntries = os.listdir(OutputDir)
-    for Folder in ExistingEntries:
-        EntryPath = OutputDir+'/'+Folder
+    for folder in ExistingEntries:
+        EntryPath = OutputDir+'/'+folder
         if not os.path.isdir(EntryPath):
             continue
         if os.path.isfile(EntryPath+'/entry.json'):
             with open(EntryPath+'/entry.json', 'r') as file:
                 filetext = file.read()
             Entry = json.loads(filetext)
-            print('HEY!!!')
-            pprint(Entry)
-            
             Entries[Entry['EntryURL']] = Entry
         else:
             with open(EntryPath+'/info.py', 'r') as file:
@@ -69,7 +66,7 @@ def GetIMDB(url, OutputDir):
     for Entry in Entries.values():
         with open(Entry['Entry_json'], 'w') as file:
             file.write(json.dumps(Entry))
-        break
+        #break
     
     return
     source = requests.get(url).text
