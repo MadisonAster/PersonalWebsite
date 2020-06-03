@@ -85,7 +85,6 @@ def TestData(Entries, URLList):
             print('No list item found for:', entry['Title'])
 
 def SanitizeTitle(Title):
-    print('SanitizeTitle', Title)
     Result = ''
     for i, a in enumerate(Title):
         if a.isalpha() or a.isdigit():
@@ -98,7 +97,6 @@ def SanitizeTitle(Title):
                 Result += a.lower()
         elif a in ['_', '-', ' ', '\t']:
             Result += '-'
-    print('SanitizeResult', Result)
     return Result
 
 def GetIMDB(url, OutputDir):
@@ -131,14 +129,6 @@ def GetIMDB(url, OutputDir):
             os.makedirs(EntryPath)
             
             Entries[Entry['EntryURL']] = Entry
-            break
-            
-            #OutputPath = OutputDir+'index.html'
-            #print('itemurl', itemurl)
-            #print('OutputPath', OutputPath)
-            #with open(OutputPath, 'wb') as file:
-            #    file.write(bytes(soup.prettify(), 'utf-8'))
-            #    break
             
     WriteEntries(Entries)
     

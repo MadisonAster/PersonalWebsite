@@ -1,0 +1,71 @@
+{'@context': 'http://schema.org',
+ '@type': 'TVSeries',
+ 'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Santa-Clarita-Diet',
+ 'EntryURL': 'https://www.imdb.com/title/tt5580540',
+ 'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Santa-Clarita-Diet/entry.json',
+ 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Santa-Clarita-Diet/info.php',
+ 'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Santa-Clarita-Diet/info.py',
+ 'Title': 'Santa Clarita Diet',
+ 'actor': [{'@type': 'Person',
+            'name': 'Drew Barrymore',
+            'url': '/name/nm0000106/'},
+           {'@type': 'Person',
+            'name': 'Timothy Olyphant',
+            'url': '/name/nm0648249/'},
+           {'@type': 'Person', 'name': 'Liv Hewson', 'url': '/name/nm5735148/'},
+           {'@type': 'Person',
+            'name': 'Skyler Gisondo',
+            'url': '/name/nm1711114/'}],
+ 'aggregateRating': {'@type': 'AggregateRating',
+                     'bestRating': '10.0',
+                     'ratingCount': 53365,
+                     'ratingValue': '7.8',
+                     'worstRating': '1.0'},
+ 'contentRating': 'TV-MA',
+ 'creator': [{'@type': 'Person',
+              'name': 'Victor Fresco',
+              'url': '/name/nm0294355/'},
+             {'@type': 'Organization', 'url': '/company/co0071857/'},
+             {'@type': 'Organization', 'url': '/company/co0483718/'},
+             {'@type': 'Organization', 'url': '/company/co0275279/'},
+             {'@type': 'Organization', 'url': '/company/co0148520/'},
+             {'@type': 'Organization', 'url': '/company/co0627592/'}],
+ 'datePublished': '2017-02-03',
+ 'description': 'Santa Clarita Diet is a TV series starring Drew Barrymore, '
+                'Timothy Olyphant, and Liv Hewson. Sheila and Joel are married '
+                'real estate agents in Santa Clarita, California. When Sheila '
+                'dies, their lives take a dark turn.',
+ 'genre': ['Comedy', 'Horror'],
+ 'image': 'https://m.media-amazon.com/images/M/MV5BNTIwMDkzNTMwMF5BMl5BanBnXkFtZTgwNDA4MjI2NzM@._V1_.jpg',
+ 'keywords': 'real estate,california,santa clarita california,dead body,family '
+             'relationships',
+ 'name': 'Santa Clarita Diet',
+ 'review': {'@type': 'Review',
+            'author': {'@type': 'Person', 'name': 'black_red_89'},
+            'dateCreated': '2019-04-27',
+            'inLanguage': 'English',
+            'itemReviewed': {'@type': 'CreativeWork',
+                             'url': '/title/tt5580540/'},
+            'name': 'Please, do NOT cancel this show!',
+            'reviewBody': "For anyone who's followed the show for the past 3 "
+                          'seasons, I do not need to even explain why this '
+                          'show is way too good to be cancelled at this point. '
+                          'Meanwhile, other shows with not even half the '
+                          'talent and script continue on air. I hope this '
+                          "decision gets reconsidered, the show and it's cast "
+                          'as well as fans deserve better than this. I am '
+                          'thouroughly dissapointed.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '8',
+                             'worstRating': '1'}},
+ 'trailer': {'@type': 'VideoObject',
+             'description': 'True love never dies? "Santa Clarita Diet" Season '
+                            '3 is coming March 29.',
+             'embedUrl': '/video/imdb/vi4031429145',
+             'name': 'Season 3 Trailer',
+             'thumbnail': {'@type': 'ImageObject',
+                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BY2Y4NjFhMDUtNWQyYS00ZjFjLTlkYTYtZDU0ZTZjNTI2OTIyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
+             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BY2Y4NjFhMDUtNWQyYS00ZjFjLTlkYTYtZDU0ZTZjNTI2OTIyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
+             'uploadDate': '2019-03-11T20:04:11Z'},
+ 'url': '/title/tt5580540/'}
