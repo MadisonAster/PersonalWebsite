@@ -37,26 +37,29 @@ def GetEntries(OutputDir):
     ExistingEntries = os.listdir(OutputDir)
     for folder in ExistingEntries:
         EntryPath = OutputDir+'/'+folder
+        EntryPath = EntryPath.replace('\\','/').replace('//','/')
+        print('EntryPath', EntryPath)
         if not os.path.isdir(EntryPath):
             continue
-        if os.path.isfile(EntryPath+'/entry.json'):
-            with open(EntryPath+'/entry.json', 'r') as file:
-                filetext = file.read()
-            Entry = json.loads(filetext)
-            Entry['EntryURL'] = Entry['EntryURL'].replace('http://', 'https://')
-            
-            Entries[Entry['EntryURL']] = Entry
-        else:
+        if os.path.isfile(EntryPath+'/info.py'):
             with open(EntryPath+'/info.py', 'r') as file:
                 filetext = file.read()
             Entry = eval(filetext)
             Entry['EntryPath'] = EntryPath
-            Entry['EntryURL'] = Entry['IMDB']
+            Entry['EntryURL'] = Entry['EntryURL'].replace('http://', 'https://').rstrip('/')
             Entry['Entry_py'] = EntryPath+'/info.py'
             Entry['Entry_php'] = EntryPath+'/info.php'
             Entry['Entry_json'] = EntryPath+'/entry.json'
             
             Entries[Entry['EntryURL']] = Entry
+        else:
+            with open(EntryPath+'/entry.json', 'r') as file:
+                filetext = file.read()
+            Entry = json.loads(filetext)
+            Entry['EntryURL'] = Entry['EntryURL'].replace('http://', 'https://').rstrip('/')
+            
+            Entries[Entry['EntryURL']] = Entry
+        
     return Entries
 
 def WriteEntries(Entries):
@@ -73,8 +76,8 @@ def GetIMDB(url, OutputDir):
     #for match in soup.find_all('div', class_='footer')
     
     Entries = GetEntries(OutputDir)
-    #WriteEntries(Entries)
-    #return
+    WriteEntries(Entries)
+    return
     
     source = requests.get(url).text
     soup = BeautifulSoup(source, 'lxml')

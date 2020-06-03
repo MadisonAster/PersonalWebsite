@@ -1,11 +1,27 @@
 {'Actors': [''],
  'Added': '2013-03-25',
  'Countries': ['Korea'],
- 'Description': '\nDoomsday Book: First Chapter (\x93Heaven\x92s Creation\x94\nA story about a robot who gains consciousness and the abusrdity that follows.\nSecond Chapter (\x93The New Generation\x94\nA clever action film told from the point of view of a boy who has become a zombie, this segment explores how humans lose control of planet Earth, becoming mere food for a different species.\nThird Chapter (\x93Happy Birthday\x94\nA musical movie that re-interprets the beautiful love story \x93The Christmas Gift\x94 by O Henry, this project confronts the basic instincts of a woman and her last chance to survive after witnessing the end of the world. ',
+ 'Description': '\n'
+                'Doomsday Book: First Chapter (\x93Heaven\x92s Creation\x94\n'
+                'A story about a robot who gains consciousness and the '
+                'abusrdity that follows.\n'
+                'Second Chapter (\x93The New Generation\x94\n'
+                'A clever action film told from the point of view of a boy who '
+                'has become a zombie, this segment explores how humans lose '
+                'control of planet Earth, becoming mere food for a different '
+                'species.\n'
+                'Third Chapter (\x93Happy Birthday\x94\n'
+                'A musical movie that re-interprets the beautiful love story '
+                '\x93The Christmas Gift\x94 by O Henry, this project confronts '
+                'the basic instincts of a woman and her last chance to survive '
+                'after witnessing the end of the world. ',
  'Director': [],
+ 'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Doomsday-Book',
+ 'EntryURL': 'https://www.imdb.com/title/tt?????3',
+ 'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Doomsday-Book/entry.json',
+ 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Doomsday-Book/info.php',
+ 'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Doomsday-Book/info.py',
  'Genres': ['Drama', 'Sci-Fi'],
- 'IMDB': 'NA',
- 'PrimeWire': 'http://www.primewire.ag/watch-2734383-Doomsday-Book',
  'Ratings': {'IMDB': 'N/A',
              'Metascore': 'N/A',
              'PrimeWire': '3.92/5',
