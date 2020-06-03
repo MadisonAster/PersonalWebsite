@@ -19,6 +19,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Newsroom-2012/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Newsroom-2012/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Newsroom-2012/info.py',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Newsroom-2012/thumb.jpg',
  'Genres': ['Drama&tv'],
  'Ratings': {'IMDB': '8.7/10',
              'Metascore': 'N/A',

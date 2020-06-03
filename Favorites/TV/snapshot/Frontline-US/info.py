@@ -13,6 +13,7 @@
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Frontline-US/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Frontline-US/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Frontline-US/info.py',
+ 'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Frontline-US/thumb.jpg',
  'Genres': ['Documentary&tv', 'History&tv'],
  'Ratings': {'IMDB': '8.6/10',
              'Metascore': 'N/A',

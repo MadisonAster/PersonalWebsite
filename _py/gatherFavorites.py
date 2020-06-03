@@ -32,7 +32,7 @@ def main():
 def GetLinks(html):
     pass #Do something with beautiful soup here
 
-def GetEntries(OutputDir):
+def GetEntries(OutputDir, UsePy=False):
     Entries = {}
     ExistingEntries = os.listdir(OutputDir)
     for folder in ExistingEntries:
@@ -40,14 +40,12 @@ def GetEntries(OutputDir):
         EntryPath = EntryPath.replace('\\','/').replace('//','/')
         if not os.path.isdir(EntryPath):
             continue
-        if os.path.isfile(EntryPath+'/info.py'):
-            with open(EntryPath+'/info.py', 'r') as file:
-                filetext = file.read()
-            Entry = eval(filetext)
+        if UsePy:
+            with open(EntryPath+'/info.py', 'rb') as file:
+                Entry = eval(file.read())
         else:
-            with open(EntryPath+'/entry.json', 'r') as file:
-                filetext = file.read()
-            Entry = json.loads(filetext)
+            with open(EntryPath+'/entry.json', 'rb') as file:
+                Entry = json.loads(file.read())
         Entry['EntryPath'] = EntryPath
         Entry['Entry_py'] = EntryPath+'/info.py'
         Entry['Entry_php'] = EntryPath+'/info.php'
@@ -59,8 +57,9 @@ def GetEntries(OutputDir):
 
 def WriteEntries(Entries):
     for Entry in Entries.values():
-        with open(Entry['Entry_json'], 'w') as file:
-            file.write(json.dumps(Entry))
+        with open(Entry['Entry_json'], 'wb') as file:
+            print('Writing', Entry['Entry_json'])
+            file.write(bytes(json.dumps(Entry), 'utf-8'))
         with open(Entry['Entry_py'], 'wb') as file:
             print('Writing', Entry['Entry_py'])
             file.write(bytes(pformat(Entry), 'utf-8'))
