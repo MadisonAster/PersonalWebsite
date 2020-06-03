@@ -11,7 +11,7 @@
                 'they\x92ve captured is insane...... ',
  'Director': [],
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Art-of-Flight',
- 'EntryURL': 'https://www.imdb.com/title/tt?????7',
+ 'EntryURL': 'https://www.imdb.com/title/tt1646967',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Art-of-Flight/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Art-of-Flight/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Art-of-Flight/info.py',

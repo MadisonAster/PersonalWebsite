@@ -38,28 +38,22 @@ def GetEntries(OutputDir):
     for folder in ExistingEntries:
         EntryPath = OutputDir+'/'+folder
         EntryPath = EntryPath.replace('\\','/').replace('//','/')
-        print('EntryPath', EntryPath)
         if not os.path.isdir(EntryPath):
             continue
         if os.path.isfile(EntryPath+'/info.py'):
             with open(EntryPath+'/info.py', 'r') as file:
                 filetext = file.read()
             Entry = eval(filetext)
-            Entry['EntryPath'] = EntryPath
-            Entry['EntryURL'] = Entry['EntryURL'].replace('http://', 'https://').rstrip('/')
-            Entry['Entry_py'] = EntryPath+'/info.py'
-            Entry['Entry_php'] = EntryPath+'/info.php'
-            Entry['Entry_json'] = EntryPath+'/entry.json'
-            
-            Entries[Entry['EntryURL']] = Entry
         else:
             with open(EntryPath+'/entry.json', 'r') as file:
                 filetext = file.read()
             Entry = json.loads(filetext)
-            Entry['EntryURL'] = Entry['EntryURL'].replace('http://', 'https://').rstrip('/')
-            
-            Entries[Entry['EntryURL']] = Entry
-        
+        Entry['EntryPath'] = EntryPath
+        Entry['Entry_py'] = EntryPath+'/info.py'
+        Entry['Entry_php'] = EntryPath+'/info.php'
+        Entry['Entry_json'] = EntryPath+'/entry.json'
+        Entry['EntryURL'] = Entry['EntryURL'].replace('http://', 'https://').rstrip('/')
+        Entries[Entry['EntryURL']] = Entry
     return Entries
 
 def WriteEntries(Entries):
@@ -69,16 +63,9 @@ def WriteEntries(Entries):
         with open(Entry['Entry_py'], 'w') as file:
             print('Writing', Entry['Entry_py'])
             file.write(pformat(Entry))
-    
-def GetIMDB(url, OutputDir):
-    print('GetIMDB!', url, OutputDir)
-    #match = soup.find('div', class_='footer')
-    #for match in soup.find_all('div', class_='footer')
-    
-    Entries = GetEntries(OutputDir)
-    WriteEntries(Entries)
-    return
-    
+
+def GetIMDBListData(url):
+    ReturnList = []
     source = requests.get(url).text
     soup = BeautifulSoup(source, 'lxml')
     jsonscript = soup.find('script', type="application/ld+json")
@@ -86,12 +73,27 @@ def GetIMDB(url, OutputDir):
     jsonobj = json.loads(jsontext)
     for item in jsonobj['about']['itemListElement']:
         itemurl = 'https://www.imdb.com'+item['url'].rstrip('/')
-        if itemurl in Entries.keys():
-            print('Entry Found!', Entries[itemurl]['Title'])
-        else:
-            print('No Entry Found:', itemurl)
+        ReturnList.append(itemurl)
     
+    return ReturnList
+
+def GetIMDB(url, OutputDir):
+    print('GetIMDB!', url, OutputDir)
+    #match = soup.find('div', class_='footer')
+    #for match in soup.find_all('div', class_='footer')
     
+    Entries = GetEntries(OutputDir)
+    URLList = GetIMDBListData(url)
+    
+    for itemurl in URLList:
+        if itemurl not in Entries.keys():
+            print('No entry found for:', itemurl)
+    for entry in Entries.values():
+        if entry['EntryURL'] not in URLList:
+            print('No list item found for:', entry['Title'])
+    
+    #WriteEntries(Entries)
+    #return
     
     
     #pprint(jsonobj)

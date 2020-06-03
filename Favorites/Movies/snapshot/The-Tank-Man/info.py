@@ -9,7 +9,7 @@
                 'have become of him. ',
  'Director': [],
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Tank-Man',
- 'EntryURL': 'https://www.imdb.com/title/tt?????10',
+ 'EntryURL': 'https://www.imdb.com/title/tt0872938',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Tank-Man/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Tank-Man/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Tank-Man/info.py',

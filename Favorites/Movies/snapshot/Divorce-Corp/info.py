@@ -23,7 +23,7 @@
                 'handled in a more holistic manner. ',
  'Director': [],
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Divorce-Corp',
- 'EntryURL': 'https://www.imdb.com/title/tt?????2',
+ 'EntryURL': 'https://www.imdb.com/title/tt2636456',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Divorce-Corp/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Divorce-Corp/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Divorce-Corp/info.py',

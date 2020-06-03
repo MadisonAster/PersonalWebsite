@@ -6,7 +6,7 @@
                 'using extreme violence to fight crime. ',
  'Director': [],
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Flying-Man',
- 'EntryURL': 'https://www.imdb.com/title/tt?????8',
+ 'EntryURL': 'https://www.imdb.com/title/tt3018700',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Flying-Man/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Flying-Man/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Flying-Man/info.py',

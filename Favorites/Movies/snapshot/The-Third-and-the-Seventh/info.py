@@ -7,7 +7,7 @@
                 'mastery of CG. ',
  'Director': [],
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Third-and-the-Seventh',
- 'EntryURL': 'https://www.imdb.com/title/tt?????11',
+ 'EntryURL': 'https://www.imdb.com/title/tt3321150',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Third-and-the-Seventh/entry.json',
  'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Third-and-the-Seventh/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Third-and-the-Seventh/info.py',
