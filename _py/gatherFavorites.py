@@ -92,6 +92,7 @@ def SanitizeTitle(Title):
     return Result
 
 def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
+    print('GetIMDB!', url, HtmlDir, OutputDir)
     #match = soup.find('div', class_='footer')
     #for match in soup.find_all('div', class_='footer')
     
