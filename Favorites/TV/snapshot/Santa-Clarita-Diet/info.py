@@ -40,22 +40,6 @@
  'keywords': 'real estate,california,santa clarita california,dead body,family '
              'relationships',
  'name': 'Santa Clarita Diet',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'asl_han'},
-            'dateCreated': '2019-05-14',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt5580540/'},
-            'name': "DON'T CANCEL THE SHOW!",
-            'reviewBody': 'It is weirdly the best comedy show that I have seen '
-                          'for a long time. It makes me laugh out loud while '
-                          "disgusted at the same time. It doesn't deserve to "
-                          'be canceled in its 3rd season at all. Especially '
-                          'like this.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'True love never dies? "Santa Clarita Diet" Season '
                             '3 is coming March 29.',

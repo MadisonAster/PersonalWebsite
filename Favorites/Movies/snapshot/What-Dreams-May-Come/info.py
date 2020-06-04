@@ -47,31 +47,6 @@
  'keywords': 'heaven,soul mate,afterlife,reference to william '
              "shakespeare,reference to shakespeare's hamlet",
  'name': 'What Dreams May Come',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Lew777'},
-            'dateCreated': '2018-03-14',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0120889/'},
-            'name': '20 years on this is still a powerful visual storytelling '
-                    'feat',
-            'reviewBody': "I'd never watched this film when it was released. "
-                          "It's taken me 20 years to finally watch it, and "
-                          'though film-making has advanced technologically in '
-                          'terms of CGI in that time - it still looks stunning '
-                          "! It's a slow burning story and there's not much "
-                          'joy and laughs - but the sense of love and family '
-                          'and resoluteness still lingered way after the film '
-                          "ended. It's concept of Heaven and Hell is way "
-                          "beyond conventional film directors. It's a labour "
-                          'of love which at the end is faith affirming and yet '
-                          'shows up all our human flaws and vulnerability in '
-                          'all their glory. Great direction - good acting and '
-                          'an incredible journey that will stay in your mind .',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Universal Studios Home '
                             'Entertainment',

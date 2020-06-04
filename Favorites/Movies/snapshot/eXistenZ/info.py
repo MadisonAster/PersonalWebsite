@@ -45,53 +45,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMmU1MTJkYWItMzM5Ny00NDgxLTgxOGEtNTkzNDdkZjkwNGI0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg',
  'keywords': 'game,alternate reality,game designer,body horror,parallel world',
  'name': 'eXistenZ',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Infofreak'},
-            'dateCreated': '2001-07-14',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0120907/'},
-            'name': '"Death to the demon The Matrix!"',
-            'reviewBody': "'eXistenZ' sorts out the men from the boys. That "
-                          'is, your reaction to this marvellous movie will '
-                          'depend whether you are S.F. literate and familiar '
-                          "with Cronenberg's oeuvre, or a 'Matrix'-loving, "
-                          "Johnny-come-lately. Now I enjoy 'The Matrix' as a "
-                          'superior action movie, but no movie in recent years '
-                          'has been so overrated, and grossly exaggerated as '
-                          "intellectual fare! 'eXistenZ' and Alex Proyas' "
-                          "similarly overlooked 'Dark City' are everything "
-                          "'The Matrix' claims to be - intelligent, thought "
-                          'provoking, CHALLENGING S.F.\n'
-                          '\n'
-                          ' This movie is almost a summary of all the themes '
-                          'and motifs that Cronenberg has been obsessed about '
-                          'for the last 25 years or so. Especially the '
-                          'Burroughsian "biological horror" and the '
-                          'Phildickian questioning of reality. While it echoes '
-                          'many of his previous movies, it especially evokes '
-                          "his masterpiece 'Videodrome'. It may not reach the "
-                          'hallucinogenic heights of that movie - very few '
-                          'have - but it certainly takes you to places most '
-                          "contemporary S.F. and horror movies don't even try "
-                          'to reach.\n'
-                          '\n'
-                          "However this movie isn't just Cronenberg rehashing "
-                          'his "greatest hits". There are more than enough new '
-                          'and interesting touches, especially the '
-                          'Rushdie-like Fatwah theme, the odd sexual '
-                          'symbolism, and the witty touches such as the bone '
-                          'guns that fire teeth. Helping all this along is the '
-                          'interesting, carefully chosen cast. All are good, '
-                          "but I especially like Willem Dafoe's creepy garage "
-                          'mechanic, and it was also great to see Canadian '
-                          "cult star Don McKellar ('Highway 61', 'Twitch "
-                          'City\',etc) as the enigmatic "Russian" Yevgeny.\n'
-                          '\n'
-                          "'Videodrome' has taken many years to find its real "
-                          "audience, and maybe 'eXistenz' will too. But I "
-                          'believe eventually it will be recognised for what '
-                          'it is - a work of great imagination and flair.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for eXistenZ',
              'embedUrl': '/video/imdb/vi27656473',

@@ -43,20 +43,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BZDJjOTg4OWYtYWIyOS00MjQ3LTg5ZDktYzU2N2RkNmYzNjZlXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg',
  'keywords': 'bookstore,obsessive love,stalker,new york,obsession',
  'name': 'You',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'sam-braco'},
-            'dateCreated': '2018-09-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt7335184/'},
-            'name': 'Freaking. Excellent.',
-            'reviewBody': 'Great acting. Inventive storytelling. Truly '
-                          "unsettling and underlyinglg creepy. I can't wait to "
-                          'see where this show goes.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "Meet Will Bettelheim. He's not your regular Joe. "
                             "He's new to LA and has sworn off love. But love, "

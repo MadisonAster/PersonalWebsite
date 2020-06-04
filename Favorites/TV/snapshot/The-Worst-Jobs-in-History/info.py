@@ -33,28 +33,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BYTk0MTU1MzAtNWFlOS00ZTAwLWEwZWMtNzE2ZjUyYzcwNGI0XkEyXkFqcGdeQXVyODY5MTYzNDA@._V1_.jpg',
  'keywords': 'visit',
  'name': 'The Worst Jobs in History',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'christmas327'},
-            'dateCreated': '2004-12-28',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0423775/'},
-            'name': 'Fantastic!!',
-            'reviewBody': 'I most recently watched Tony Robinsons "Worst Jobs '
-                          'In History" and enjoyed it more than I can say. '
-                          "I've always thought due to past shows on these eras "
-                          'that I may have enjoyed living in these times, but '
-                          'with the reality shown on this documentary may have '
-                          'to recant my former wishes. The reality of these '
-                          'times although sobering, is at times too funny. '
-                          'Tony puts himself right into it, really great, I '
-                          'would watch it again and again. I would like to '
-                          'order it to watch with friends and family. I can '
-                          'see that much research went into the making of this '
-                          'documentary, and traveling. Do the people he '
-                          'interviewed live this or are they part of '
-                          'reenactments? Thank you so much to the producers, '
-                          'directors and Tony for this educational '
-                          "entertainment, why couldn't history class have been "
-                          'this way?'},
  'url': '/title/tt0423775/'}

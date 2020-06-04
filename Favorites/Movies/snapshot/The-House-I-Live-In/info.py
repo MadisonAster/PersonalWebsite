@@ -53,31 +53,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTk4ODQxNzE4N15BMl5BanBnXkFtZTcwMjY3MjUzOA@@._V1_.jpg',
  'keywords': 'u.s. mexico border,despair,american history,judge,federal judge',
  'name': 'The House I Live In',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'peacecreep'},
-            'dateCreated': '2013-04-02',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2125653/'},
-            'name': 'Our deadening country.',
-            'reviewBody': "Eugene Jarecki's frightening and important film is "
-                          'a thorough investigation of the prison industrial '
-                          'complex and the "war on drugs" i.e. the war on poor '
-                          "people. It's a fair and balanced look at how it "
-                          'subsidizes thousands of jobs and locks up millions '
-                          'of innocent people. Unfortunately he misses a key '
-                          'argument against this war: adults should have the '
-                          'right to sovereignty over their consciousness. '
-                          'Drugs are slightly demonized throughout- the fact '
-                          'that the drugs themselves are inherently good- its '
-                          'people with no self control that give them a bad '
-                          'name- is never explored. Regardless, this is a '
-                          'fascinating look into a sick society in a dead and '
-                          'deadening country. Recommended.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "An investigative look at America's war on drugs "
                             'and its impact on the criminal justice system, '

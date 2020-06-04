@@ -44,35 +44,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg',
  'keywords': 'death row inmate,good versus evil,1930s,prison guard,murder',
  'name': 'The Green Mile',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'snexy'},
-            'dateCreated': '2001-10-10',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0120689/'},
-            'name': 'What a gem....',
-            'reviewBody': 'Having doubts about seeing this movie because of '
-                          'the length (3 hours can be death to a film).I was '
-                          "so surprised that I didn't look at my watch once "
-                          'throughout the whole movie. Tom Hanks, in my '
-                          'opinion, gave the performance of his career by '
-                          'bringing emotion and depth to his part. The only '
-                          'actor that bettered him was Michael Clarke Duncan. '
-                          'How he made this giant like character into a '
-                          'vulnerable pussycat was a marvel. On whole, the '
-                          'cast came together and gave the best performance I '
-                          'have seen in a movie for a long time. Not one of '
-                          'them let the side down by being weak. David Morse '
-                          'who is more known for his supporting roles was also '
-                          "excellent and hopefully not long till he's carrying "
-                          "his own movie. If you haven't seen this get it out "
-                          'now,forget about the running time and connections '
-                          "to 'The Shawshank Redemption' and enjoy it for what "
-                          'it is, a little miracle. 4 out of 5',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Warner Home Video',
              'embedUrl': '/video/imdb/vi552796441',

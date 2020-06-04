@@ -42,24 +42,4 @@
  'genre': 'Documentary',
  'image': 'https://m.media-amazon.com/images/M/MV5BYWI1NGMxYjEtOWQ5My00NWY2LTlmMDEtZTBkNjYzZjZlYzI4XkEyXkFqcGdeQXVyNDI4ODczMDE@._V1_.jpg',
  'name': 'Apex: The Story of the Hypercar',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'skinwalker1-246-382559'},
-            'dateCreated': '2018-12-04',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt4325400/'},
-            'name': 'Slow and Pretentious',
-            'reviewBody': 'Given this documentary is about the attainment of '
-                          'speed it somewhat ironic that the pacing of the '
-                          'direction was so slow. I made two attempts to watch '
-                          'this all the way through, but failed on both '
-                          'occasions. The interview soundbites showed a bunch '
-                          'of pretentious gits waxing lyrical, comparing the '
-                          'cars to "the iron man suit" and "God on earth". '
-                          "Some nice views of cars, so it doesn't rate a zero "
-                          '/ one.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '2',
-                             'worstRating': '1'}},
  'url': '/title/tt4325400/'}

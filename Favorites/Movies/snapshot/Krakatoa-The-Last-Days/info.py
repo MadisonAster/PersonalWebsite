@@ -47,32 +47,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTcyNzUxOTAwMl5BMl5BanBnXkFtZTcwNDYwNzMzMQ@@._V1_.jpg',
  'keywords': 'volcano,docudrama,1880s',
  'name': 'Krakatoa: The Last Days',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'terbu'},
-            'dateCreated': '2010-11-02',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0791318/'},
-            'name': 'Bad !!',
-            'reviewBody': "I'm Indonesian, this poor movie i ever watch. "
-                          'Foreign language part is not "Bahasa Indonesia" but '
-                          '"melayu" (malaysian) "javanese" people speaking '
-                          '"melayu" very strange dialect. The people around '
-                          "Krakatau's must be Sundanese not Javanese, west "
-                          'Java is Sundanese, very different between Sundanese '
-                          'and Javanese, both language and culture. \n'
-                          '\n'
-                          'See when earthquake happen what the people do?? '
-                          'very funny, no panic there! So i think this movie '
-                          'never make a survey about Indonesia situation and '
-                          'people.. \n'
-                          '\n'
-                          'Specially please understand the west Java people, '
-                          'Indonesia culture (note: Indonesia not Malaysia). '
-                          'When we watch this movie I feel strange with my '
-                          'country and culture.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '2',
-                             'worstRating': '1'}},
  'url': '/title/tt0791318/'}

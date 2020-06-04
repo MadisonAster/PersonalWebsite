@@ -41,41 +41,4 @@
  'keywords': 'character name as series title,chozen character,one word series '
              'title,homosexual,gay lead character',
  'name': 'Chozen',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jim_baclagon'},
-            'dateCreated': '2014-12-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt3221268/'},
-            'name': 'A beautiful mess with intriguing intention',
-            'reviewBody': 'So many people hated this show. I wish people gave '
-                          'it a chance. There are many reasons why the show '
-                          "flopped. I'll give my review and maybe it will "
-                          'answer a few things. First- I love gay subculture, '
-                          'specially the bear culture. So having an animated '
-                          "show about a gay bear was awesome! Then, I don't "
-                          'mind Rap- but not immersed too much into the lingo '
-                          'at all or even recent people. Hey I listened to '
-                          'Eminem and Insane Clown Posse- what do I know about '
-                          "Rap and Hip-hop? Nothing. So maybe I'm coming from "
-                          'the demographic this show is meant to be for- Gay '
-                          'people who sort of like rap. I have no clue. I '
-                          'loved this show the first time it aired. However I '
-                          'knew a few of the jokes they where trying way too '
-                          'hard. The animation was hot- damn they made Chozen '
-                          'sexy as hell. I can see that it was meant to be a '
-                          'satire on rap/ hip-hop culture by using a WHITE, '
-                          'GAY, maybe even Jewish/Italian guy doing rap. The '
-                          'show was trying too hard to be offensive in some '
-                          'parts- but it really did have a heart. Somewhere, '
-                          'it had a nice message but it never got time to '
-                          "really truly develop it's characters and when it "
-                          'just got good. Bam, cancelled. I personally give '
-                          "this show 8 out of 10 because of it's effort. "
-                          'Sometimes it hits the mark... other times it '
-                          "doesn't. But I loved it!",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'url': '/title/tt3221268/'}

@@ -40,25 +40,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjgwNGNkZGYtMWQyYS00YjEzLWFmZTctODUzYWMxOWJkNTAzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
  'keywords': 'surgeon,hospital,lesbian,work romance,surgery',
  'name': "Grey's Anatomy",
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'morrisonliz'},
-            'dateCreated': '2019-02-08',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0413573/'},
-            'name': 'What happened to Alex Karev?',
-            'reviewBody': 'It took a few years but Alex became one of my '
-                          'favorite characters and in the last few, my '
-                          "favorite. He's barely been in season 15. I would "
-                          'have thought that there would be a lot of '
-                          'storylines with Alex as chief but aside from the '
-                          "2nd episode there's been nothing. Most episodes "
-                          "barely have him and the rest don't have him at all. "
-                          'If this keeps up I have no desire to keep watching.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "Trailer for Season 12 of Grey's Anatomy from ABC.",
              'embedUrl': '/video/imdb/vi17412889',

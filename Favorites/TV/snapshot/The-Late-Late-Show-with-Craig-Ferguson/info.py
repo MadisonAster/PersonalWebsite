@@ -35,35 +35,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTcyMjIwNzM0Ml5BMl5BanBnXkFtZTcwNDAxNjgwNA@@._V1_.jpg',
  'keywords': 'robot,horse costume,skeleton,awkward pause,scotsman abroad',
  'name': 'The Late Late Show with Craig Ferguson',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'AmiableAmy'},
-            'dateCreated': '2005-02-06',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0437729/'},
-            'name': 'I have a new favourite talk show host...',
-            'reviewBody': 'I used to watch The Late Late Show with Craig '
-                          'Kilbourne now and then, and found it enjoyable. '
-                          'Now, I actually try NOT to miss it, because I love '
-                          'Craig Ferguson. I find him to be charming, '
-                          'interesting, witty, intelligent, down-to-earth, '
-                          "and....well, just darn HANDSOME. I didn't watch the "
-                          'Drew Carey Show more than a handful of times, and I '
-                          "hadn't heard of Craig until the Late Late Show "
-                          'started up again. The Scot in me finds him '
-                          "especially intriguing. In some ways he's like a "
-                          'younger version of my father, which, if you know '
-                          'him, is a huge compliment. Scotsmen rock! I just '
-                          "love how REAL Craig is - he's casually mentioned "
-                          'things of his past, positives and negatives, '
-                          'without making it into a "woe is me" or "I\'m the '
-                          'best" type of thing. He also seems like a '
-                          'wonderful, fun father to his little boy. The Late '
-                          "Late Show is definitely something I'll be "
-                          'faithfully watching! Some talk shows I only watch '
-                          'depending on the GUESTS that will be on; this one I '
-                          'actually watch for the host! Craig Ferguson - keep '
-                          'up the great work.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'The Late Late Show With Craig Ferguson',
              'embedUrl': '/video/imdb/vi3001859353',

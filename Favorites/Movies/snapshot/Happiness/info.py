@@ -38,45 +38,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BM2FlNzE0ZmUtMmVkZS00MWQ3LWE4OWQtYjQwZjdhNzRmNWE2XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg',
  'keywords': 'black comedy,suburb,social satire,satire,episodic structure',
  'name': 'Happiness',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'drosse67'},
-            'dateCreated': '2004-09-10',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0147612/'},
-            'name': 'Polarizing',
-            'reviewBody': 'There are only a handful of films that have a '
-                          'distinct polarizing affect on the audience--A '
-                          'Clockwork Orange, The Cook, the Thief, His Wife & '
-                          'Her Lover, and I would even lump in American '
-                          'Beauty--these are movies you either get, or you '
-                          "don't. And if you don't get it, you will hate it. "
-                          "Open minded viewers need only apply, and that's "
-                          'certainly the case with "Happiness." I remember '
-                          'leaving the theater absolutely shocked, and not '
-                          'just because of the events on screen. I was shocked '
-                          'that I found the movie so intelligent and oddly '
-                          'entertaining. The actors surely must have felt '
-                          'that, after reading the screenplay. And there are '
-                          'some big actors in this--veterans like Ben Gazzara, '
-                          'Louise Lasser, Elizabeth Ashley, mixing with new '
-                          'talent like Philip Seymour Hoffman, Camryn Manheim, '
-                          'Dylan Baker, Lara Flynn Boyle, etc. \n'
-                          '\n'
-                          'The subject matter is truly unsettling--a parental '
-                          'figure, respected in his community, does some '
-                          'horrible things, and this is the main reason why so '
-                          'many people have a hard time with this movie. Did '
-                          'this material really need to be examined in modern '
-                          'cinema? Well, yes--in the same way that David Lynch '
-                          'had to explore it in Blue Velvet. Happiness is a '
-                          'masterpiece of irony (even in the title), and finds '
-                          'humor in the most unusual and downright bizarre '
-                          'circumstances. You will not see another movie like '
-                          'it. Guaranteed. And fair warning--you could very '
-                          "well despise it. And it's probably a fair estimate "
-                          "that its writer/director, Todd Solondz, doesn't "
-                          'give a damn.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Trimark',
              'embedUrl': '/video/imdb/vi632029465',

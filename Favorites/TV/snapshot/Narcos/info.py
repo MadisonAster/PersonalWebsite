@@ -48,39 +48,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNmFjODU3YzgtMGUwNC00ZGI3LWFkZjQtMjkxZDc3NmQ1MzcyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg',
  'keywords': 'colombia,based on true story,murder,deception,jungle',
  'name': 'Narcos',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ahmed73367'},
-            'dateCreated': '2015-08-29',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2707408/'},
-            'name': "It's going to be ''The Hit'' . Beautiful after 3 episodes "
-                    '.',
-            'reviewBody': "It's beautiful , this's the way TV-series should be "
-                          'directed and produced, i loved the fast pace of the '
-                          "series from the first minute till now i haven't "
-                          'skipped anything or felt bored.\n'
-                          '\n'
-                          'The narration way of the story from the first '
-                          'beginning adds another depth to the story. \n'
-                          '\n'
-                          'It shows you scenes from the future then gets to '
-                          'the present to elaborate how we reached that point '
-                          '.\n'
-                          '\n'
-                          "The cast is great , probably you haven't seen "
-                          'anyone of them before , but sure as hell they can '
-                          'act , they are able to deliver the feeling they '
-                          'have so you can interact with them .\n'
-                          '\n'
-                          'Simply , a masterpiece .\n'
-                          '\n'
-                          'P.S : Netflix has always been picky about its '
-                          "series, that''s why it's my favorite network.",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Now that the bloody hunt for Pablo Escobar has '
                             'ended, the DEA turns its attention to the richest '

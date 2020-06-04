@@ -44,31 +44,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNTljZTUzYWUtOTI4YS00NmZlLWE5MmQtZjFlZDZhNjg4MjQxXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg',
  'keywords': 'thailand,beach,pretentiousness,cricket the sport,map',
  'name': 'The Beach',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'icysky44'},
-            'dateCreated': '2005-07-05',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0163978/'},
-            'name': 'Do not miss this movie just because of its low rating',
-            'reviewBody': 'Recently a friend of mine watched "The Beach" after '
-                          'I told him my favorite quote (i.e. "Never refuse an '
-                          'invitation, never resist the unfamiliar, never '
-                          'cease to be polite, and never outstay your '
-                          'welcome"). He enjoyed the movie a whole lot and '
-                          "told me he hadn't watched it before because of it's "
-                          "low IMDb rating. That's when I decided to register "
-                          'here and post a comment - I hope I help someone '
-                          'else to watch the movie because it is worth a '
-                          'watch. What I personally like so much about this '
-                          'movie is that it is not just plain vanilla. It '
-                          'actually makes sense and can be a starting point '
-                          'for new thoughts and ideas - something I truly '
-                          'appreciate in a movie.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Theatrical Trailer from 20th Century Fox',
              'embedUrl': '/video/imdb/vi3699966233',

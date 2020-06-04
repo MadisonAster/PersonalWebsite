@@ -40,30 +40,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTU2NjgxNTUxMF5BMl5BanBnXkFtZTgwMzM4MjMwNjM@._V1_.jpg',
  'keywords': 'cop,cop comedy,adult cartoon,netflix original,ineptitude',
  'name': 'Paradise PD',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'cranyy'},
-            'dateCreated': '2018-08-31',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt8235236/'},
-            'name': 'Just like Brickleberry and its great',
-            'reviewBody': 'I used to love Brickleberry, and this show is very, '
-                          'very similar, just instead of a national park its a '
-                          'police department, and by Golly, I am a big fan of '
-                          'heavily offensive shows. But alas Brickleberry got '
-                          'canceled only after 3 seasons, which seems to be '
-                          'the cutoff age for such shows (see Drawn '
-                          'Together...) Sooo, my fear is this show, being '
-                          'equally offensive, will again not last for very '
-                          "long, even though its on Netflix, who aren't as "
-                          'concerned with the outrage of snowflakes as TV '
-                          'stations. \n'
-                          '\n'
-                          'But other than that, its a pretty fun show - '
-                          'offensive, hella funny, so I wholeheartedly '
-                          'recommend it.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'url': '/title/tt8235236/'}

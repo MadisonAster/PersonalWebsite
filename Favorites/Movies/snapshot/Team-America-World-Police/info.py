@@ -46,46 +46,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTM2Nzc4NjYxMV5BMl5BanBnXkFtZTcwNTM1MTcyMQ@@._V1_.jpg',
  'keywords': 'arab stereotype,strong language,swearing,terrorist,puppetry',
  'name': 'Team America: World Police',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'FilmFan777'},
-            'dateCreated': '2004-10-09',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0372588/'},
-            'name': "Irreverently Hysterical. 'No One' is safe!",
-            'reviewBody': "Just came back from a pre-screening and I 'Loved "
-                          "It' No, it's not for kids in the least, total adult "
-                          'humor. Helps a bit if your politically savvy and '
-                          'know a bit about the Hollywood political types, yet '
-                          'either way, if you like South Park type of humor, '
-                          'your in for a load full of laughs.\n'
-                          '\n'
-                          'They creatively took most every corny film shot you '
-                          'could think of, plenty of down right nasty '
-                          'language, marionettes getting shot and blown up in '
-                          'some pretty disgusting ways, parody songs that '
-                          'would make anyone blush, pop shots at world '
-                          'leaders, actors (big time), and anyone else you '
-                          'could think of and hit a home run with this as far '
-                          "as I'm concerned.\n"
-                          '\n'
-                          'I wont say anymore except that these guys did a '
-                          "great job with this idea and I think it's going to "
-                          'make a mint! If you take it all in humorous '
-                          'perspective and not personally, (have some fun with '
-                          'it), this movie can take the laugh breath right out '
-                          'of you. As it did the whole audience just within '
-                          'the first 15 minutes without even a chance for a '
-                          'second breath.\n'
-                          '\n'
-                          'Crude, rude, shrewd, corny, sexual, homophobic, '
-                          'nasty and irreverent will only begin to '
-                          'describe..."Team America World Police" I hope you '
-                          'enjoy it.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Paramount Home '
                             'Entertainment',

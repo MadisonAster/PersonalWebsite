@@ -45,40 +45,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BOTcwNzU2MGEtMzUzNC00MzMwLWJhZGItNDY3NDllYjU5YzAyXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg',
  'keywords': 'computer,startup,satanist,business rivalry,computer nerd',
  'name': 'Silicon Valley',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'SnoopyStyle'},
-            'dateCreated': '2019-12-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2575988/'},
-            'name': 'fun with heart',
-            'reviewBody': "Richard Hendricks (Thomas Middleditch), Nelson 'Big "
-                          "Head' Bighetti (Josh Brener), Bertram Gilfoyle "
-                          '(Martin Starr), and Dinesh Chugtai (Kumail '
-                          'Nanjiani) are poor working programmers struggling '
-                          'to build the next big thing, Piped Pipper. Erlich '
-                          'Bachman (T.J. Miller) is the arrogant homeowner who '
-                          'sees himself as incubator for new programmers with '
-                          "10% interest. Richard and Big Head's day job is "
-                          'working for Hooli under self-important CEO Gavin '
-                          'Belson (Matt Ross). Monica Hall (Amanda Crew) works '
-                          'for VC Peter Gregory and later awkwardly cold '
-                          "Laurie Bream (Suzanne Cryer). Donald 'Jared' Dunn "
-                          '(Zach Woods) realizes the potential of Piped Pipper '
-                          'and shows it to Gavin Belson.\n'
-                          '\n'
-                          'This is a fun show about the new Titans and the new '
-                          'Greek tragedies. These are flawed yet loveable '
-                          "characters. Middleditch portrays Richard's self "
-                          'doubt and insistent vision perfectly. Gilfoyle and '
-                          "Dinesh are a perfect comedy duo. It's a new world "
-                          "and we're only living in it. Other than a minor "
-                          "road bump that is T.J. Miller's personal problem, "
-                          'Mike Judge has created the next Office Space.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Big tech, bigger data, biggest season. Silicon '
                             'Valley returns for the sixth and final season '

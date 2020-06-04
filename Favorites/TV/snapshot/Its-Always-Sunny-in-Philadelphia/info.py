@@ -46,29 +46,6 @@
  'keywords': 'cringe comedy,crude humor,black comedy,south '
              'philadelphia,philadelphia',
  'name': "It's Always Sunny in Philadelphia",
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'goldiemcg'},
-            'dateCreated': '2005-08-15',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0472954/'},
-            'name': 'Always Sunny - Always Funny',
-            'reviewBody': 'The show is great! I love the edgy humor and how '
-                          "they're addressing everyday issues and finding the "
-                          'hilarity in them. I think what I enjoy the most is '
-                          "that they're not tip-toeing around issues, gay, "
-                          "abortion, underage drinking (no, they're not "
-                          "promoting these, they're just addressing them). The "
-                          'way they have the real life situations and the true '
-                          'reactions within a set of friends sets this show '
-                          "apart (Seinfeld anyone?)...there's no following the "
-                          'lives of multi-millionaire brats as lead characters '
-                          "(fill in the blank for that show, there's only "
-                          'about 5 on air right now), none of the worn out '
-                          '"the city is going to blow up unless you catch the '
-                          'bad guy in 5 minutes" plot lines...it\'s real '
-                          'situations and almost everyone can relate...and '
-                          'laugh at.'},
  'trailer': {'@type': 'VideoObject',
              'description': "Season 11 teaser for It's Always Sunny in "
                             'Philadelphia on FXX.',

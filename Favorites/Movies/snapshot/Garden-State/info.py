@@ -41,36 +41,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjc5MDE0NjkxOF5BMl5BanBnXkFtZTcwNzA0NTkyMw@@._V1_.jpg',
  'keywords': 'funeral,home,actor,pills,implied sex',
  'name': 'Garden State',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'stensson'},
-            'dateCreated': '2005-01-23',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0333766/'},
-            'name': 'Garden flower',
-            'reviewBody': 'Zach Braff has made it. Both script, directing and '
-                          'main acting, and everything is more than all right. '
-                          'This is a film without violence about people living '
-                          "ordinary extra-ordinary lives and it's much more "
-                          'interesting than extra-ordinary murders, which '
-                          'very, very few, even in the USA, encounter.\n'
-                          '\n'
-                          'The "hero" has been going on tranquilizers for all '
-                          "his grown up-life and even before that. He's got no "
-                          'feelings left, not even for the death of his '
-                          'mother. Then he meets a girl, well acted indeed by '
-                          'Natalie Portman, who unlocks him slowly, saying the '
-                          'right things all the time without knowing it.\n'
-                          '\n'
-                          "Hours after you've seen this, you realize that here "
-                          'was a crucial moment, this was a turning point and '
-                          'so on. The love story gets a little sentimental at '
-                          'the end, but still this is a film that lives long '
-                          "after you've seen it through.",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer',
              'embedUrl': '/video/imdb/vi1873084697',

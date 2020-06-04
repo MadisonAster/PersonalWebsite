@@ -36,29 +36,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BY2E1NmRjNDctOGYwZC00MWU2LWI3MmYtNTRiOGY2OTgzM2JhXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg',
  'keywords': 'grindhouse series,dystopia,exploding head,ex cop,car racing',
  'name': 'Blood Drive',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'maverickz-33-530388'},
-            'dateCreated': '2017-07-05',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt4898282/'},
-            'name': 'Call me sick, but I love it.',
-            'reviewBody': 'This show is NOT for everyone and I know a lot of '
-                          "people just won't get it, but as for me, I love it. "
-                          "At it's heart it is a Deathrace type show with all "
-                          'the campy gore of The Evil Dead franchise. If you '
-                          'are expecting to see a "normal" TV show where '
-                          'things are supposed to make sense, reserved acting, '
-                          'straight plots, and modern effects and '
-                          'cinematography, this this is NOT the show for you. '
-                          'If you like grind house movies, The Evil Dead '
-                          'franchise, or the death race movies (especially the '
-                          'original) then give this a shot. It really is a '
-                          'bloody disgusting good time.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Blood Drive: Booby Traps',
              'embedUrl': '/video/imdb/vi1479392537',

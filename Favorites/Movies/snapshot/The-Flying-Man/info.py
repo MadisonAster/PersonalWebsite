@@ -40,17 +40,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BZTdhZTJmYjktY2EzNS00YmU0LThkODMtM2VmOGY0MTg3NmUxXkEyXkFqcGdeQXVyMTY0MDY0NjA@._V1_.jpg',
  'keywords': 'vigilante,night,police helicopter,news report,handgun',
  'name': 'The Flying Man',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Kirpianuscus'},
-            'dateCreated': '2019-06-25',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt3018700/'},
-            'name': 'good job',
-            'reviewBody': 'A simple story, good special effects, the idea of '
-                          'justice and, after Marvel universe, a not so '
-                          'strange character looking for do what it must be '
-                          'done. A good short film, with a powerfull end, with '
-                          'nice science to build the tension and dialogue. '
-                          'Short, good start for a new serie.'},
  'url': '/title/tt3018700/'}

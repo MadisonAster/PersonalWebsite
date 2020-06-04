@@ -42,38 +42,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTQ2NjI0NDU3Nl5BMl5BanBnXkFtZTgwMDU4OTgzMDE@._V1_.jpg',
  'keywords': 'athlete,college sports,narration,six word title,colon in title',
  'name': 'Schooled: The Price of College Sports',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'sullivan28210'},
-            'dateCreated': '2014-08-21',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt3057718/'},
-            'name': 'Just plain crazy',
-            'reviewBody': 'Lame.\n'
-                          '\n'
-                          'This movie pretends that athletes receive no '
-                          'compensation other that a free education, '
-                          'completely ignoring the value of publicity, the '
-                          'best fitness equipment, psychologists, tutors, '
-                          'trainers, coaches, elite contacts, promotional '
-                          'campaigns, education, medical care, and other '
-                          "special privileges has on these athlete's future "
-                          'earnings potential.\n'
-                          '\n'
-                          "That's payment, and it equals $100,000 plus per "
-                          'year, maybe millions for top athletes. \n'
-                          '\n'
-                          "At my D1 school, athletes aren't even required to "
-                          'type their own papers. The tutors are essential '
-                          "prostitutes. They don't attend class, but their "
-                          "names show up on the attendance sheets. They're "
-                          'treated like celebrities.\n'
-                          '\n'
-                          "This is the dumbest movie I've EVER seen.",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '1',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A documentary that examines how college sports in '
                             'America became a billion dollar enterprise built '

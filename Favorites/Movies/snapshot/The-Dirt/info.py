@@ -59,33 +59,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BODhiMzkwYTctYzgwOC00MDM2LWExYjQtMzY4MDljZjQ3M2RmXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg',
  'keywords': 'junkie,poseur,soft rock,topless female nudity,squirting',
  'name': 'The Dirt',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'gjrburbchic'},
-            'dateCreated': '2019-03-23',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0800325/'},
-            'name': 'Exceeds Expectations',
-            'reviewBody': 'I went into this with extremely low expectations '
-                          'and was more than pleasantly surprised. The casting '
-                          'is near perfect. Machine Gun Kelly knocked it out '
-                          'of the park as Tommy Lee. Being a huge Crue fan in '
-                          "the 80's none of the material in this film is new "
-                          'to me and yes I was very aware of inconsistencies '
-                          'that were presumably done for theatrical and story '
-                          'telling purposes. None of that bothers me. To me, '
-                          "this is the right kind of awesomely cheesy. I'm "
-                          'impressed with the actors in this film. They '
-                          'inhabited the personas of Vince, Mick, Nikki, and '
-                          'Tommy really well. And I think that was the idea. '
-                          "Lastly, I've always resonated most with Nikki and "
-                          'seeing his childhood trauma depicted on the big '
-                          "screen was deeply moving. It's truly a miracle that "
-                          'guy is alive and well.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Based on the bestselling autobiography from '
                             'Mötley Crüe, the film is an unflinching tale of '

@@ -46,46 +46,6 @@
  'keywords': 'alien contact,linguistics,nonlinear timeline,linguist,based on '
              'short story',
  'name': 'Arrival',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'CalRhys'},
-            'dateCreated': '2016-11-21',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2543164/'},
-            'name': "Denis Villeneuve's magnum opus!",
-            'reviewBody': 'Prior to approaching this film, a word of warning '
-                          'that it is what many like to call a "thinking '
-                          'person\'s sci-fi". If you\'re going to watch this, '
-                          'I beg that you dedicate your utmost attention to '
-                          'it, as it is truly one rewarding experience, one of '
-                          'the smartest, most well-constructed science fiction '
-                          "marvels of recent years. 'Arrival' is Villeneuve's "
-                          'magnum opus.\n'
-                          '\n'
-                          "Firstly, to put your mind at ease, I won't be "
-                          'analysing the plot, thus avoiding the use of '
-                          'spoilers. This decade, Villeneuve has crafted some '
-                          "fantastic works of art in the form of 'Prisoners', "
-                          "'Sicario' and now this science fiction gem, and "
-                          "here's hoping his career further develops with more "
-                          'movie masterpieces coming our way. In a world where '
-                          'mysteries remain and the possibility of '
-                          'extraterrestrial life still stands unanswered, '
-                          "'Arrival' approaches this with it's cliché-free "
-                          'take on the genre.\n'
-                          '\n'
-                          'The relatively unknown Bradford Young provides the '
-                          'film with some of the most stunning cinematography '
-                          'ever conceived, taking advantage of the twilight '
-                          'hour to give the film its somewhat unique look, '
-                          'supported magnificently by Icelandic composer '
-                          'Jóhann Jóhannsson whose score is both haunting and '
-                          "beautiful. If you're someone looking for a "
-                          'science-fiction tale that keeps you guessing and '
-                          'thinking throughout, with fantastic performances, '
-                          'cinematography, music and near-flawless direction, '
-                          "then 'Arrival' is the film for you. The masterpiece "
-                          'of 2016!'},
  'trailer': {'@type': 'VideoObject',
              'description': 'A linguist is recruited by the military to assist '
                             'in translating alien communications.',

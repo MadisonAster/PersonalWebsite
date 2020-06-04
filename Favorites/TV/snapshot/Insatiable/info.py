@@ -37,23 +37,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BODUzODY1NzEtYjNiNy00NzEwLThhYzEtZGUxZjQ4MDRiNjY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
  'keywords': 'beauty pageant,teenage girl,weight loss,lawyer,high school',
  'name': 'Insatiable',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'optimisticbeatlesfan'},
-            'dateCreated': '2018-08-10',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt6487482/'},
-            'name': "It's alright",
-            'reviewBody': 'I feel that the user reviews and critic reviews are '
-                          'both very tainted with bias. Critics were very '
-                          'harsh, took every small detail and blew it up. '
-                          'Users gave it a perfect score just to spite the '
-                          "media. It's really just an okay show. It's a fun "
-                          'watch!',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '6',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A coming of rage story: "Insatiable," starring '
                             'Debby Ryan, arrives Aug. 10, 2018, on Netflix.',

@@ -37,40 +37,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjk0MDJkYTctOTkzNi00NWZlLTkyZDYtYzgxNzk0MmY2MWZjXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg',
  'keywords': 'lapd,neo noir,city hall,lawyer,police detective',
  'name': 'Mob City',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'lnewhallallen'},
-            'dateCreated': '2013-12-05',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2176609/'},
-            'name': 'Great new period show.....',
-            'reviewBody': 'This new show captured our attention from the get '
-                          'go", loved the dark film noir style as well as '
-                          'wardrobe. This is true to the time and accurate on '
-                          'most levels. Based on true events really make you '
-                          "think who's on your side. The law is corrupted , "
-                          'the the bad guys (mob) are bad news and love the '
-                          'fact that LA was so liberal in regards to '
-                          'interracial blending in public bars and clubs. Love '
-                          'the Jazz movement and soulful singers. The '
-                          'locations used in the pilot are LA today but all '
-                          "the old buildings that were built in the 20's and "
-                          "30's seem new. You get a real appreciation for the "
-                          'history of LA the architecture and the rise of '
-                          'Hollywood and show business too. This is our '
-                          'history...this is truly how people lived in those '
-                          'days. There seems to be a lot of blood shed and '
-                          'dismemberment pretty hardcore for the faint of '
-                          'heart but may appeal to a male dominate audience. '
-                          'Would like to see more ladies in coming episodes '
-                          'with a hint of glamor and old Hollywood!, may '
-                          'attract a larger female demographic. Directed by '
-                          'one of the best!, bravo to all parties involved. '
-                          'Looking forwards to episode 2.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "Watch a trailer for Frank Darabont's upcoming TNT "
                             'series "Mob City".',

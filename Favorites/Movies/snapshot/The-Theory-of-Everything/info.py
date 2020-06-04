@@ -44,60 +44,6 @@
  'keywords': "cambridge university,husband wife relationship,lou gehrig's "
              'disease,cosmology,physicist',
  'name': 'The Theory of Everything',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'bbickley13-921-58664'},
-            'dateCreated': '2014-11-09',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2980516/'},
-            'name': 'Great romantic movie about a brilliant man, ironically '
-                    'very little science',
-            'reviewBody': 'But it does tell an inspiring story about Stephen '
-                          "Hawking's personal struggle with his illness that's "
-                          'very uplifting.\n'
-                          '\n'
-                          'The story of Stephen Hawking and his then wife '
-                          'Jane, apparently based on a book she wrote about '
-                          'it, which probability explains why there was not '
-                          "much science in the movie, not that I'm "
-                          'complaining, as it was a well played film about a '
-                          'difficult relationship.\n'
-                          '\n'
-                          "I didn't known Stephen and his wife actually met "
-                          'around the same time as he began to suffer from Lou '
-                          "Gehrig's Disease. Makes the whole concept that "
-                          'Hawking has three kids with this woman more '
-                          'interesting (something was working). Felicity Jones '
-                          'did a great job playing such a strong, patient, and '
-                          'compassionate woman, all well narrated in this '
-                          'movie. The difficulty Jane Hawking had being with a '
-                          'man getting trapped in his own body, played by '
-                          "Eddie Redmayne.I have herd of Hawking's "
-                          'surprisingly positive personality, not because of '
-                          'his condition, but because I expected his condition '
-                          'would make it hard to express any emotion. Redmayne '
-                          'did his research to express the struggle of Hawking '
-                          'on camera nicely (I keep forgetting The Hawking is '
-                          'a Brit).\n'
-                          '\n'
-                          'This movie turned out to be a great one about the '
-                          'time span of a relationship. Done more romantically '
-                          'than borderline soft-core flicks like Blue is the '
-                          'warmest color and 9 songs, and it was not as '
-                          'depressing as Blue Valentine. it was just a true '
-                          "take on a complex relationship taking it's toll, "
-                          'well performed by some brilliant actors.\n'
-                          '\n'
-                          'If your looking to watch this movie to hear some '
-                          "science talk, that's not what the movie is really "
-                          'about, unless ironically convincing the world of '
-                          'his theories on time was really as easy as the '
-                          'movie makes it out for Hawking. Overall very '
-                          'enjoyable.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'At Cambridge, Stephen Hawking falls deeply in '
                             'love with fellow student Jane Wilde. At the age '

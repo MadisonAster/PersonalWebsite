@@ -58,38 +58,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTQ5NTI2NTI4NF5BMl5BanBnXkFtZTcwNjk2NDA2OQ@@._V1_.jpg',
  'keywords': 'long take,england,fertility,neo noir,allegory',
  'name': 'Children of Men',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'blestang'},
-            'dateCreated': '2006-10-25',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0206634/'},
-            'name': 'a must see= brilliant and fresh',
-            'reviewBody': 'this film is one of the best things i have seen '
-                          "this year. It's an improbable cross between "
-                          '"Brazil" "a clockwork orange" and the video game '
-                          "HALF-LIFE2 (from which it borrows it's final "
-                          'sequences and use of on shot action-sequences) it '
-                          'manages to be both entertaining in the Hollywood '
-                          'way (with incredible action sequences and a very '
-                          'clever way of using digital effects) yet very sad '
-                          'and different with a very very dark and realistic '
-                          'overtone. No comic relief, no cartoon character '
-                          "bravery, only human behavior in it's best and most "
-                          'horrible way. This realistic overtone makes the '
-                          'main characters very engaging and moving. CLive '
-                          'owen (whose i have always disliked) is excellent as '
-                          'the man drowned into an adventure too big for him '
-                          '(sorry for my bad English)\n'
-                          '\n'
-                          "It's the same kind of film than V for vendetta "
-                          '(both taking place in a futuristic fascist British '
-                          'society) different from the usual mainstrean studio '
-                          'teenager pleaser crap\n'
-                          '\n'
-                          'GO see it! help intelligent cinema',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'url': '/title/tt0206634/'}

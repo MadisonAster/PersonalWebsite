@@ -45,28 +45,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMzc0ZDcwZTYtOWUzZi00NDE4LWI4NjgtMWVjZTUyYTA2ZTNhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg',
  'keywords': 'fate,teleportation,love at first sight,destiny,alternate history',
  'name': 'The Adjustment Bureau',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'fenisidi'},
-            'dateCreated': '2019-02-02',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1385826/'},
-            'name': 'very interesting!',
-            'reviewBody': 'This movie has been a very good experience for me. '
-                          'I found the story extremelly interesting and '
-                          'intelligent.I enjoyed every second, cause there was '
-                          'a lot of action, mystery (in the nice way of it), '
-                          'romance, humor, and at the same time the story made '
-                          'you think deeper about life it self. About getting '
-                          'out of your little every day life and try to see '
-                          'the "greater picture". How ready and capable is any '
-                          'of us "every day people" to make a change, to '
-                          'believe, to dare, to even actual think '
-                          '"differently" in any part of our lives...',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The Adjustment Bureau -- Super Bowl Spot',
              'embedUrl': '/video/imdb/vi2215418393',

@@ -49,36 +49,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg',
  'keywords': 'nonlinear timeline,overdose,drug overdose,black comedy,bondage',
  'name': 'Pulp Fiction',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'verbal-15'},
-            'dateCreated': '1998-08-02',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0110912/'},
-            'name': "Hands down, the best film of the '90s.",
-            'reviewBody': 'Pulp Fiction, despite borrowing from just about '
-                          'every movie ever made, is the most invigorating '
-                          'cinema experience a filmgoer can ever hope for. Its '
-                          'hodgepodge of violence, mayhem, and generally '
-                          'deviant behavior is an assault on the senses, not '
-                          'to mention political correctness. However, despite '
-                          "all the film's cleverness and style, it hinges on "
-                          'the performance put forth by Samuel L. Jackson as '
-                          'Jules. The fact that he was denied an Oscar is a '
-                          'downright shame. Martin Landau, the best supporting '
-                          'actor winner that year, was terrific and funny in '
-                          'Ed Wood, but Jackson was perhaps the most '
-                          'commanding screen presence in film history as the '
-                          'bible-quoting, godfearing hitman. The last scene in '
-                          'the coffee shop with Tim Roth still sends chills '
-                          "down my spine, no matter how many times I've seen "
-                          'it. Rumors of a prequel involving Jules and Vincent '
-                          '(John Travolta) have been floating around lately. '
-                          'If Quentin Tarantino wishes to regain the fans he '
-                          'lost with the dissapointing (but still pretty good) '
-                          'Jackie Brown, he should get to work right away. '
-                          "I'll be the first in line to see the finished "
-                          'product.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'The lives of two mob hit men, a boxer, a '
                             "gangster's wife, and a pair of diner bandits "

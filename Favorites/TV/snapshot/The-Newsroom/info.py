@@ -38,43 +38,6 @@
  'keywords': 'newsroom,ethics,television producer,news reporting,television '
              'news',
  'name': 'The Newsroom',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'steph_jt'},
-            'dateCreated': '2012-06-25',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1870479/'},
-            'name': 'Sensational!',
-            'reviewBody': "I've been waiting for what seems like forever for a "
-                          'top notch show to present itself, and I truly feel '
-                          'this is it. To say the first show was riveting is a '
-                          'gross understatement. As a news show, this '
-                          'fictitious newsroom had me planted on the edge of '
-                          'my seat, and when things finally got going, I found '
-                          'myself fidgeting and wide-eyed waiting for what '
-                          'came next. I have to say the leads in this show '
-                          'have amazing chemistry, the sort of chemistry that '
-                          'usually takes several shows to develop, yet here it '
-                          "was, in spades no less. It's easy to believe that "
-                          "I'm overstating this, but I truly believe this show "
-                          'has the potential for greatness, and believe me, '
-                          "I'm normally a fairly harsh critic, but in this "
-                          'case I feel completely justified in touting this as '
-                          "the next great show. There's some great social "
-                          'commentary on offer here, while not exactly new, '
-                          "it's offered up in a far more palatable fashion "
-                          'than the usual polarised and emotional manner. '
-                          'Needless to say, I implore all to watch this first '
-                          'episode, as it was so good, it could have been '
-                          'stretched another 30 minutes to become a great '
-                          'movie. The fact that we get more, is the icing on '
-                          'the cake. I can only hope the writers can keep '
-                          'producing scripts near the same level as this one. '
-                          '5 stars, or 10 out of 10. Watch it!',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi3499276825',
              'name': 'Season 3 Official Trailer',

@@ -47,37 +47,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTYwMTA4MzgyNF5BMl5BanBnXkFtZTgwMjEyMjE0MDE@._V1_.jpg',
  'keywords': 'hiv,gay community,homophobia,drugs,hiv positive',
  'name': 'Dallas Buyers Club',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'PWNYCNY'},
-            'dateCreated': '2013-11-26',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0790636/'},
-            'name': 'Outstanding movie about important themes.',
-            'reviewBody': 'This movie is wonderful. It contains all the '
-                          'elements of a great movie. It has a strong script, '
-                          'excellent acting, compelling themes and terrific '
-                          'cinematography. This movie contains what is '
-                          "probably Matthew McConaughey's best performance. He "
-                          'carries the movie. He is in just about every scene. '
-                          'The movie deals with several themes - AIDS, '
-                          'terminal illness, government regulations, response '
-                          'to crisis, change of life issues, homosexuality, '
-                          'promiscuity, personal responsibility, and '
-                          'capitalism. All these themes are treated '
-                          'forthrightly.After watching this movie, one should '
-                          'come away with a better understanding and '
-                          'appreciation of the issues raised. But although the '
-                          'movie touches on themes that have political '
-                          'implications, it is first and foremost a drama. '
-                          'Although the movie takes some literary license, '
-                          'such as frank depictions of sickness and drug '
-                          'abuse, none of it is gratuitous. That is, it adds '
-                          'to the story.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi2069674777',
              'name': 'Awards Trailer',

@@ -45,35 +45,4 @@
  'keywords': 'male frontal nudity,sponsorship,lawsuit,bleeped speech,male '
              'orgasm',
  'name': 'Swearnet: The Movie',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'navinramaswaran'},
-            'dateCreated': '2014-09-02',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2380564/'},
-            'name': 'A fun film with heart',
-            'reviewBody': "I haven't seen a single episode of the Trailer Park "
-                          'Boys and went into Swearnet knowing only little '
-                          'about the 3 Canadian goofballs - Robb Wells, John '
-                          'Paul Tremblay and Mike Smith. Coming out of '
-                          'Swearnet, I can confidently say I am a fan! '
-                          'Although in this flick, the boys play "themselves" '
-                          'and not their fictional characters from the TV '
-                          'show, the push-the-envelope humour and brisk pacing '
-                          'of the film showed a lot of heart amongst the '
-                          'consistent comedy. The movie was well-cast overall '
-                          'and although the Tom Green - Carrot Top bit got '
-                          'slightly too much at times, everyone played their '
-                          'parts wonderfully. \n'
-                          '\n'
-                          "Well shot and directed, you're sure in for a good "
-                          'time. A nice way to spend 100 minutes in the '
-                          'cinema. \n'
-                          '\n'
-                          "I'm looking forward to hitting up the Trailer Park "
-                          'Boys TV show next!',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'url': '/title/tt2380564/'}

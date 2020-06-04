@@ -44,17 +44,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BM2U2NzM4MWItNmI5Ni00Y2FiLTk2ZDEtYWNiYTVlM2MzY2E2XkEyXkFqcGdeQXVyNTA0OTU0OTQ@._V1_.jpg',
  'keywords': 'martian,tripod,alien invasion,1910s,fictional war',
  'name': 'The Great Martian War 1913 - 1917',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jamieedgecycles'},
-            'dateCreated': '2018-02-16',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt3199240/'},
-            'name': 'GARBAGE',
-            'reviewBody': 'How could anybody use WWI footage and make a '
-                          'mockery of it with Alians. It s very disrespectful',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '1',
-                             'worstRating': '1'}},
  'url': '/title/tt3199240/'}

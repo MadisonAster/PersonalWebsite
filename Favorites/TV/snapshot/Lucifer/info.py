@@ -39,47 +39,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BZTA2NTBkYWUtMzM4Zi00YzhlLTk4NWItY2U1ODczNDMyNDAzXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg',
  'keywords': 'devil,female police detective,fallen angel,the devil,lapd',
  'name': 'Lucifer',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'depechemodelovercom'},
-            'dateCreated': '2019-05-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt4052886/'},
-            'name': 'Thanks to Netflix Lucifer Is Bolder, Better, Bingeable',
-            'reviewBody': 'I have loved this show since day one, and an avid '
-                          'fan of all three of the prior season before Fox '
-                          'stupidly cancelled it, which actually was a gift. I '
-                          'was one of the fans that worked in the twitter '
-                          'campaign to help save the show,working along with '
-                          'the producers, writers, cast, crew and fans from '
-                          'around the world, with the hashtag #SaveLucifer '
-                          'making history, as Netflix was more than eager to '
-                          'give this show a fabulous new home. So now this '
-                          'series is even better, the new Season 4 just '
-                          'released May 8 2019 is so much more, despite only '
-                          '10 episodes, they are packed with action, drama,it '
-                          'is bolder, yet the humor in the show is still '
-                          'there, it is definitely the best season yet. For '
-                          'new viewers, do watch the first 3 seasons before '
-                          'the new one, as the characters history is important '
-                          'to this story. I am just finishing doing a binge '
-                          'watch for the third time and it just never gets '
-                          'old. Treasure of a show, great actors, good tight '
-                          'writing, great set designs, cool music throughout, '
-                          'and even a little nudity. What more can you want. '
-                          'Netflix, we need a season 5,6,7 and on. 2019 '
-                          'Update: After yet another fan campaign and good '
-                          'reviews for season 4 on Netflix, we got season 5, '
-                          'although it will be the last and we really wanted 6 '
-                          'seasons, But then Netflix listened, and gave the '
-                          'show twice the episodes for season 5, another win. '
-                          "Can't wait, the writers keep tweeting us the "
-                          'episode titles and have promised the best season '
-                          'yet.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Reeling from the aftermath of Chloe seeing his '
                             'devil face, Lucifer faces a new challenge: Eve, '

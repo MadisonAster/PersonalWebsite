@@ -37,31 +37,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BM2M1YTk0ZmYtZjJhOC00OTdkLThiZTYtYTQ5MzIwMzRlZGMyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg',
  'keywords': 'canada,historical,first nations,red coat,biracial',
  'name': 'Frontier',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'menelar-58267'},
-            'dateCreated': '2017-01-08',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt4686698/'},
-            'name': "I hope there won't be only 1 season!",
-            'reviewBody': "I really don't understand the critics...As a big "
-                          'fan of historical dramas, I could really say they '
-                          'did a great job with this show. There may be some '
-                          "inaccuracies but don't forget it's not a "
-                          'documentary. The story line is quite interesting- '
-                          'made me watch all episodes in 2 nights. Kudos to '
-                          'the actors as well! It reminds me a bit of '
-                          "Assassin's creed III which is also awesome. So "
-                          "yeah...I hope they won't leave it with just 1 "
-                          'season....but knowing the popularity of those kinds '
-                          "of shows, out of the mainstream- I won't be "
-                          'surprised if Frontier follows the fate of other '
-                          'great canceled historical dramas as The Borgias, '
-                          "Copper, Da Vinci's Demons, etc. Best of luck!",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'While Harp pursues Lord Benton to rescue Grace, '
                             'Michael takes command of the Black Wolf Company '

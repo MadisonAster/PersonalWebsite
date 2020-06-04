@@ -64,24 +64,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNTEzZjNlZTktYmMwZC00ZmNkLWEzOTMtMDQyYTRjMTNkNzRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg',
  'keywords': 'cell phone ringtone,conspiracy,surveillance,metro,mind control',
  'name': 'Metropia',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Kirpianuscus'},
-            'dateCreated': '2017-10-28',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0985058/'},
-            'name': 'a cold world',
-            'reviewBody': 'it could be a dark utopia. or only reflection of '
-                          'present. in fact, it is a portrait. for fears, '
-                          'searches, self definitions, paranoia, secrets, '
-                          'conspiracies and perception of life as a long and '
-                          'gray chain of day by day. in same measure, it is a '
-                          'kind of explanation. for hidden realities, for '
-                          'dreams and expectations, for the status of people '
-                          'as tools, for the reasons escaping to the '
-                          'predictability, so, a reflection support. one far '
-                          'to be bad because animation is always inspired form '
-                          'for remind basic truths.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Visually stunning trailer for this thriller',
              'embedUrl': '/video/imdb/vi3641640729',

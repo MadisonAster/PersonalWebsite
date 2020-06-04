@@ -40,36 +40,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BZmJjM2YzOWEtOTYxYi00YjhkLTliMzgtMTA2MTc0NDQ1MDM4XkEyXkFqcGdeQXVyODY5OTk4MA@@._V1_.jpg',
  'keywords': 'agitprop,new york city,central park,rape accusation,1980s',
  'name': 'When They See Us',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'rebeccarage-11322'},
-            'dateCreated': '2019-06-01',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt7137906/'},
-            'name': 'A hard watch but a must watch.',
-            'reviewBody': 'This was an uncomfortable but necessary watch. I '
-                          'was very familiar with the case, even more so that '
-                          'I actually thought but to see it acted out and shot '
-                          'so tremendously was gut wrenching. Sadly injustice '
-                          'has been and will be part of life until the end of '
-                          "time, undoubtedly there's people fighting through "
-                          "it right now. I've seen quite a few negative "
-                          'reviews that this is just a puppet show to stomp on '
-                          "Trump and if that's your belief fine, but in my "
-                          'view facts speak for themselves and I knew about '
-                          'Trumps involvement in this case before this series, '
-                          "but there's no doubt the writer/director really "
-                          'wanted that message out there. Putting all '
-                          "politics, corruption and media aside, it's a truly "
-                          'harrowing, gut wrenching story about how five '
-                          'normal BOYS, lost their freedom, youth and '
-                          'innocence and how all of them including the victim '
-                          'never saw justice served correctly. A hard watch '
-                          'but a must watch.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Based on a true story that gripped the country, '
                             'When They See Us will chronicle the notorious '

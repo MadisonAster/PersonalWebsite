@@ -24,23 +24,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BYTUzYTM3ZGMtMzljMC00Mjg1LWFmZTMtYjllYjg4OGIxZjJhXkEyXkFqcGdeQXVyNTUxNDYxNzM@._V1_.jpg',
  'keywords': 'lifestyle',
  'name': 'Grand Designs Australia',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'nahe-78093'},
-            'dateCreated': '2018-07-19',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1677691/'},
-            'name': 'Poor host spoils it',
-            'reviewBody': 'I always enjoy Grand Designs (UK) and Grand Designs '
-                          'New Zealand, and Grand Designs Australia features '
-                          'homes that are interesting enough, but the host, '
-                          "Peter Maddison, just doesn't have what it takes for "
-                          'this role. I keep saying very rude things to the '
-                          'television and watch only reluctantly since I know '
-                          'this is the reaction he will evoke from me. What a '
-                          'shame.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '3',
-                             'worstRating': '1'}},
  'url': '/title/tt1677691/'}

@@ -43,22 +43,6 @@
  'keywords': 'near death experience,blindness,kidnapping,supernatural '
              'power,psychotronic series',
  'name': 'The OA',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'nextgenerationsweden'},
-            'dateCreated': '2019-08-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt4635282/'},
-            'name': 'Cancelled by Netflix, WHY?',
-            'reviewBody': 'How come Netflix is choosing to cancel this show? '
-                          'Its make no sense at all. Great show, with great '
-                          'storytelling, a "magic feeling" you get when '
-                          'whatching it (as long as you take the show for what '
-                          'it is). Hope some other network pick it up.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'OA successfully jumps dimensions but finds '
                             'herself at the center of a mystery she cannot '

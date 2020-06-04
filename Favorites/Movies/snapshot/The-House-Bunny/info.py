@@ -44,39 +44,6 @@
  'keywords': 'no panties,sorority,playboy bunny,scantily clad female,playboy '
              'model',
  'name': 'The House Bunny',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'gimpo'},
-            'dateCreated': '2010-01-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0852713/'},
-            'name': 'One-liners give this bunny bounce',
-            'reviewBody': 'Brains do not need to be engaged for this movie. '
-                          'But it does produce a few wonderful - and hilarious '
-                          '- surprises that make it a very enjoyable 90 '
-                          'minutes.\n'
-                          '\n'
-                          'One is Anna Farris, who does a great twist on the '
-                          'archetypal dizzy blonde beloved of Hollywood since '
-                          'time immemorial.\n'
-                          '\n'
-                          'But the real kickers are the jarring one-liners '
-                          'that pepper an otherwise sweet and predictable '
-                          'film. Several reduced this viewer to paroxysms of '
-                          'laughter, tears rolling down cheeks, beverage '
-                          'spurting across the room.\n'
-                          '\n'
-                          'These moments, when they arrive, are so unexpected '
-                          'that the effect is one of firmly-flicked kipper on '
-                          'unprotected jowl. And none are in the "gross-out" '
-                          'style that one might have expected in a film of '
-                          'this genre.\n'
-                          '\n'
-                          'Very bunny indeed.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A romantic comedy film, directed by Fred Wolf',
              'embedUrl': '/video/imdb/vi1305281305',

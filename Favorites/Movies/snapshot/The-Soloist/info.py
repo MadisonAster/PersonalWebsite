@@ -47,50 +47,6 @@
  'keywords': 'wearing a traffic cone as a hat,reference to jascha '
              'heifetz,schizophrenia,juilliard school,facial injury',
  'name': 'The Soloist',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'MalcolmJTaylor'},
-            'dateCreated': '2009-04-28',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0821642/'},
-            'name': 'A solid drama on a human scale',
-            'reviewBody': 'After catching snippets of the lackluster reviews '
-                          '(two-stars in the Globe and Mail) I was '
-                          "dis-heartened. It's been a few months since I'd "
-                          'been moved by the trailer. However, the film never '
-                          'came out. I thought it might have been shelved.\n'
-                          '\n'
-                          'I was glad to see it was indeed playing. In spite '
-                          'of the reviews, I persevered on the strength of the '
-                          'trailer. It seemed to me there was too much talent '
-                          'and pedigree involved for it to actually suck. And '
-                          "you know what? it's a terrific film with a poignant "
-                          'story. Perhaps lower expectations propped up my '
-                          'perceptions of it, however, it still stands as time '
-                          'well spent.\n'
-                          '\n'
-                          'The film is based on a true story involving a top '
-                          'columnist at the LA Times, Steve Lopez, played with '
-                          'grace by Robert Downey Jr., who becomes invested in '
-                          'one of his more colourful subjects, Nathaniel '
-                          'Ayers, an accomplished musician overcome by mental '
-                          'illness, now living on the streets of LA portrayed '
-                          'by Jamie Foxx, who rambles his way to a convincing '
-                          'performance.\n'
-                          '\n'
-                          "The film is a satisfying adult drama that doesn't "
-                          "lose it's direction. It doesn't pander to it's "
-                          'audience. There is no random violence, no guns, but '
-                          'indeed simply good story telling with great '
-                          "characterizations. It's a decent film that deserves "
-                          'better treatment in the press. It has a noble heart '
-                          'that succeeds in telling a great human story.\n'
-                          '\n'
-                          'It resonates and strikes a chord.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'This is the theatrical trailer for The Soloist, '
                             'directed by Joe Wright and starring Jamie Foxx '

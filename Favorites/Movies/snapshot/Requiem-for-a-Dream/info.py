@@ -52,39 +52,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg',
  'keywords': 'drug addiction,heroin,sex show,sex scene,addiction',
  'name': 'Requiem for a Dream',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jewinda'},
-            'dateCreated': '2001-06-18',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0180093/'},
-            'name': 'The film-making quality is secondary- this film makes you '
-                    'FEEL',
-            'reviewBody': 'Often hype about films lead to disappointment and '
-                          'after waiting 14 months after release for my local '
-                          'cinema to show this film, I was done thinking about '
-                          'it. Thank goodness too, rather than challenge my '
-                          'brain (not hard to do unfortunately) this film went '
-                          'straight for the heart, ripped it out and kicked it '
-                          'around the floor for 90 minutes. As the addictions '
-                          'plunged further into the depths of Hell, I felt '
-                          "myself more and more arrested by the film. I've "
-                          'never left a film shaking or feeling physically '
-                          'ill- not including Pearl Harbour, of course :)  You '
-                          'want to look away, but cannot.\n'
-                          '\n'
-                          'This movie is by no means flawless, but then again '
-                          'I would like to hope that the flaws add to the '
-                          'gritty reality of the film. The ending was truly '
-                          'the most frightening thing I have ever seen in '
-                          'film- forget the cheap scares of The Exorcist, '
-                          "Psycho and the endless bile of the 'slasher flick', "
-                          'this stuff is REAL.\n'
-                          '\n'
-                          "In a country amid a 'war against drugs' this is a "
-                          'powerful film which could do more to turn kids away '
-                          'from drugs than any measly government "task-force" '
-                          'or classroom lecture.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Theatrical Trailer from Artisan',
              'embedUrl': '/video/imdb/vi2156069145',

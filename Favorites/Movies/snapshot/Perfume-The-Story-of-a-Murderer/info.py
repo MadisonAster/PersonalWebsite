@@ -68,33 +68,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTI0NjUyMTk3Nl5BMl5BanBnXkFtZTcwOTA5MzkzMQ@@._V1_.jpg',
  'keywords': '18th century,smell,scent,perfume,sense of smell',
  'name': 'Perfume: The Story of a Murderer',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'beeltink'},
-            'dateCreated': '2006-09-20',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0396171/'},
-            'name': 'Great movie, very good attempt to describe the book '
-                    'without being violent.',
-            'reviewBody': "I don't understand people who say this movie is "
-                          'dull, boring or bad. I guess these people are only '
-                          'into mindless action-movies with simple dialog '
-                          'where people get slaughtered in a brutal and '
-                          'visually gory way. If you have a mind and you are '
-                          'able to think, this movie maybe something for you. '
-                          'The characters in the movie are strong, you '
-                          'sympathize with them easily. It is upsetting why '
-                          'the main character is killing the girls, as it is '
-                          'actually unnecessary. The sceneries and costumes '
-                          'look great. I felt like I was there. The movie '
-                          'shows moderate violence, which is all just '
-                          "suggestive, you don't see any blood. I give this "
-                          "movie 8 points. It is a good movie, which I'd "
-                          'recommend to my friends.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Paramount Home '
                             'Entertainment',

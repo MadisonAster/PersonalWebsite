@@ -39,32 +39,6 @@
  'keywords': 'pedophilia,manipulation,missing person poster,sexual '
              'predator,online dating',
  'name': 'Hard Candy',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'skippy_the_nazgul'},
-            'dateCreated': '2006-04-02',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0424136/'},
-            'name': 'See it. . . see it NOW!',
-            'reviewBody': 'I saw the trailer for Hard Candy when I went to see '
-                          "Hostel (which sucked, but we'll not get into that). "
-                          "I was immediately drawn to it. It's suppose to come "
-                          'out April 14th but it came through with the Central '
-                          'Florida Film Festival two weeks early. I could have '
-                          'waited and paid less and got a better seat, but oh '
-                          'my god, even with a crap view I was blown away.\n'
-                          '\n'
-                          'The cinematography was masterful, the acting was '
-                          'spectacular, the dialogue was a little awkward in '
-                          'pints but never really faltered, and the plot! You '
-                          'would think a movie consisting of 2 characters in a '
-                          'house would have it moments of tediousness, but not '
-                          'at all. So many psychological thrills it will set '
-                          'your mind a boggling.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Theatrical Trailer from Lionsgate',
              'embedUrl': '/video/imdb/vi2217190937',

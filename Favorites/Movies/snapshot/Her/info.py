@@ -41,25 +41,6 @@
              'intelligence,future,artificial intelligence,relationship '
              'problems',
  'name': 'Her',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'enginozdil'},
-            'dateCreated': '2018-04-17',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1798709/'},
-            'name': 'Unique',
-            'reviewBody': 'Another movie that i say "i should\'ve watched '
-                          'before". Intense romantic drama. Fascinating '
-                          'portrait of loneliness in a post-digital world. '
-                          'Amazingly original screenplay, concept, musics, '
-                          'especially colors and performance from Joaquin '
-                          'Phoenix. This made me stay with myself after the '
-                          'credits have finished, i found myself reflecting on '
-                          'my own life and relationships.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A lonely writer develops an unlikely relationship '
                             "with his newly purchased operating system that's "

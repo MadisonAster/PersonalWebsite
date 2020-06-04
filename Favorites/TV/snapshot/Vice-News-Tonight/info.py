@@ -34,18 +34,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BY2I5OGQ1ZWMtNjgxNi00ZjQ4LTk3YmQtZGYzMGNkMDkwNjllXkEyXkFqcGdeQXVyNjMxMDgyNzQ@._V1_.jpg',
  'keywords': 'show',
  'name': 'Vice News Tonight',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'radioconductor'},
-            'dateCreated': '2019-08-01',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt6329790/'},
-            'name': 'VICE News',
-            'reviewBody': 'Iowa residents (right side of history-ers)* Check '
-                          'out my Instagram post about what the Dixie line '
-                          'actually is/was....',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'url': '/title/tt6329790/'}

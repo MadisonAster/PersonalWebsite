@@ -33,29 +33,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjM1Mzk1NjQyM15BMl5BanBnXkFtZTgwNjY2NDI1MDE@._V1_.jpg',
  'keywords': '1980s,tv mini series,alien,resistance,reptilian',
  'name': 'V',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Falcon-51'},
-            'dateCreated': '2000-03-15',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0085106/'},
-            'name': 'Hey, put that water back!',
-            'reviewBody': 'Made-For-TV movies of today are poorly acted, '
-                          'exaggerated and make you happy you have a remote '
-                          'control, so you can quickly change channels to '
-                          "X-Files reruns. However back in the 80's many TV "
-                          'movies were brilliant including this one. "V" takes '
-                          'you on an adventure where some aliens try to become '
-                          'friendly with humans and then rip us off. Except '
-                          "they're not after our silverware or jewelry they "
-                          "want the real important stuff like water, and I'm "
-                          'not talking about a couple gallons of Evian. I am '
-                          'talking about the entire world supply. Take time to '
-                          'enjoy a mini-series that will stand for all time. '
-                          'Great performances by all players. Kudos to Marc '
-                          'Singer.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '6',
-                             'worstRating': '1'}},
  'url': '/title/tt0085106/'}

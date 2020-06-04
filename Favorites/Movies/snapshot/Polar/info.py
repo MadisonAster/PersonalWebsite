@@ -44,26 +44,6 @@
  'keywords': 'based on comic book,female nudity,bare breasts,based on '
              'comic,bare butt',
  'name': 'Polar',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'MR_Heraclius'},
-            'dateCreated': '2020-02-20',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt4139588/'},
-            'name': 'Polar',
-            'reviewBody': 'The only exceptional thing about this film is Mads '
-                          'Mikkelsen, who is always worth watching. Otherwise, '
-                          'the film is mediocre, predictable, schmaltzy in '
-                          'parts, your typical beat-em-up shoot-em-up '
-                          'extravaganza, complete w/closeups of wounds and '
-                          'dead people. Too much money was spent for a '
-                          "mediocre movie. Surely Mikkelsen doesn't need the "
-                          'money this much, does he? He can afford to be more '
-                          'discriminating.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "The world's top assassin, Duncan Vizla, aka The "
                             'Black Kaiser (Mads Mikkelsen), is settling into '

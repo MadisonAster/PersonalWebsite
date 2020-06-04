@@ -35,35 +35,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTk2NDM2NjEyMV5BMl5BanBnXkFtZTgwOTgxNzQxMTE@._V1_.jpg',
  'keywords': 'tv mini series,set in canada,yukon territory,canadian content',
  'name': 'Klondike',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'spoonerdk'},
-            'dateCreated': '2014-01-21',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2761630/'},
-            'name': 'Yuck',
-            'reviewBody': 'Very disappointing. Too many nonsensical story '
-                          'lines which detract from what a mini series on this '
-                          'subject could be. The script was weak, the dialogue '
-                          'was not of the era, the costumes were 21st century '
-                          'and some things just did not make sense or were '
-                          'completely unbelievable. Somebody needed to do a '
-                          'little more research on the subjects. When our hero '
-                          'fell out of the boat into the river, in the first '
-                          'episode, he would have probably died from '
-                          'hypothermia before the wolves even chased him. In '
-                          'the second episode our heroine could have reported '
-                          'the killing she witnessed to the Royal Canadian '
-                          'Mounted Police rather than let her competitor '
-                          'lumber mill operator continue to threaten the town. '
-                          'This series is a good example of how Hollywood can '
-                          'take a great subject and throw it right in the mud. '
-                          'I almost lost my stomach when the story line went '
-                          'so far as to interject antisemitism, race issues '
-                          "and women's suffrage into a show which I dialed in "
-                          'to be entertained. I watch TV not to be manipulated '
-                          'by the social engineers but to enjoy a good story. '
-                          "I don't think I can watch the third episode."},
  'trailer': {'@type': 'VideoObject',
              'description': 'Klondike',
              'embedUrl': '/video/imdb/vi3498884377',

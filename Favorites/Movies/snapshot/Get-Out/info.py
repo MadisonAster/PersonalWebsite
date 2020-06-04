@@ -46,47 +46,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_.jpg',
  'keywords': 'hypnosis,neurosurgeon,abduction,racism,brain surgery',
  'name': 'Get Out',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Aaron_Kyle'},
-            'dateCreated': '2019-07-19',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt5052448/'},
-            'name': 'Hooray, nightmares',
-            'reviewBody': 'From hit or miss comedy to Get Out, Jordan Peele '
-                          'proves to us that he has certainly matured as a '
-                          'filmmaker.\n'
-                          '\n'
-                          'Get Out is one of the best and most refreshingly '
-                          'original horror movies in the last decade. Rather '
-                          'than having in your face predictable jump scares '
-                          'and cheesy music, Get Out dwells on the mind and '
-                          'relies on the fear of the unknown while giving '
-                          "subtle messages on racism and what's it like to be "
-                          'black in America and for an anti-racism movie '
-                          "everything is handled very well due to Peele's "
-                          "great writing. As I've already mentioned the best "
-                          'aspect of Get Out is the writing; the characters '
-                          'are intelligent people and behave like logical '
-                          'human beings instead of cliché horror movie idiots. '
-                          'Everything happens for a reason and there is a '
-                          'meaning behind everything. Also unlike other horror '
-                          "movie clichés Get Out doesn't fake its scares or "
-                          'replaces them with needless humour. Instead, the '
-                          "humour (mainly Lil Rel Howery's character) is "
-                          'perfectly balanced with the story and shows up at '
-                          'adequate times.\n'
-                          '\n'
-                          'Creepy, unsettling and filled with brilliant '
-                          'performances (primarily from Daniel Kaluuya) and '
-                          'even better writing, Get Out perfectly represents '
-                          'the US society in its current era.\n'
-                          '\n'
-                          'Final Score: 8+/10',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'When a young African-American man visits his '
                             "white girlfriend's family estate, he becomes "

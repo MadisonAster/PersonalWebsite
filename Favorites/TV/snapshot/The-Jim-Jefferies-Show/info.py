@@ -37,27 +37,6 @@
  'keywords': 'social satire,political satire,interview,stand up '
              'comedian,australian',
  'name': 'The Jim Jefferies Show',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'kietas558'},
-            'dateCreated': '2017-06-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt6987966/'},
-            'name': 'Awesome writing!',
-            'reviewBody': 'I personally thought the first episode was really '
-                          'funny. All jokes were on sensitive topics but still '
-                          'hilarious, which shows some really brilliant '
-                          'writing. Jim as a host is doing just fine, laid '
-                          "back as usual, he's not forcing something out of "
-                          "him he knows he can't deliver. like impressions. "
-                          "Jim doesn't do impressions. which is fine, Im sure "
-                          'they can manage without them, John Oliver does '
-                          'terrible impressions as well. anyway, great show, '
-                          'really hope that it will be successful.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Jim Jefferies Show, The: Season 1',
              'embedUrl': '/video/imdb/vi1601879321',

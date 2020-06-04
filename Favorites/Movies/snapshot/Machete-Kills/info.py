@@ -51,34 +51,6 @@
  'keywords': "murder of a police officer,time bomb,woman breaks a man's "
              'neck,woman murders a man,murderess',
  'name': 'Machete Kills',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'theWBohlken'},
-            'dateCreated': '2013-11-10',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2002718/'},
-            'name': 'So dumb and over the top.... EXACTLY what i paid for!',
-            'reviewBody': 'I am a fan of the first one, I am a fan of '
-                          'Grindhouse and I love over the top movies. Going in '
-                          'to this I knew that it was going to be bloody, '
-                          'cheesy and awesome. It surprised me that this did '
-                          'not do as well as the first one or even close to '
-                          'it. The original was a tad more serious and had '
-                          'some really badass parts while this one was just '
-                          'non stop cheesy and Grindhouse-y. \n'
-                          '\n'
-                          'If you saw the first one, you pretty much know what '
-                          'to expect and what the basic concept is. Just times '
-                          'that times ten and you have Machete Kills. It is '
-                          "just a movie where you sit and don't think about "
-                          'it. Let it all happen and enjoy it. That is, of '
-                          'course, you like action movies where the hero chops '
-                          'every bad guy up and Sofia Vergara with her bra '
-                          'machine gun.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The U.S. government recruits Machete to battle '
                             'his way through Mexico in order to take down an '

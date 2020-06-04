@@ -46,47 +46,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTEwNzUxMjMtOWIzOS00OTQ0LTk0MmQtMTIzYzJmNTVhYTI2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg',
  'keywords': 'cat,biosphere,dystopia,nursery,ageism',
  'name': "Logan's Run",
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'GuyCC'},
-            'dateCreated': '2000-06-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0074812/'},
-            'name': 'And I Thought Turning 40 Was Supposed To Be the Bad '
-                    'Age....',
-            'reviewBody': 'I must admit that I should be ashamed as a sci-fi '
-                          "fan: I hadn't seen this film until recently, and I "
-                          'wanted to better understand the parody from "Free '
-                          'Enterprise".\n'
-                          '\n'
-                          'But I enjoyed the film.\n'
-                          '\n'
-                          'Watching this film against the more recent glut of '
-                          'sci-fi films, I have to say that they made them a '
-                          "little more original back in the 70's-80's, instead "
-                          'of everything being techno-computer-CG-spaceship '
-                          'fights.  A grim look at the downside of maintaining '
-                          'an "ideal", utopian society.  When you hit 30, you '
-                          'either have the option of willingly submitting '
-                          'yourself to be killed under a pretense of renewal, '
-                          'or having the Sandmen play with you before they go '
-                          'in for the kill.  Neither option seems really '
-                          'appealing.  But the idea of one of the killers '
-                          'having to face their mortality is an interesting '
-                          'idea.\n'
-                          '\n'
-                          'A little slow in places (but I did keep wanting to '
-                          'see what would happen next), and some of the '
-                          "special effects look really dated (even to '77's "
-                          '"Star Wars"), but the story holds up well, and '
-                          "it's an entertaining ride overall.\n"
-                          '\n'
-                          "It's truly a classic of the genre, and I wish I had "
-                          'seen it sooner.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Official Trailer',
              'embedUrl': '/video/imdb/vi2257239833',

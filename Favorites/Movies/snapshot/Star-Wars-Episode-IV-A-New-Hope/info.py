@@ -42,35 +42,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg',
  'keywords': 'rebellion,galactic war,space opera,princess,droid',
  'name': 'Star Wars',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'davidsarah'},
-            'dateCreated': '2004-12-12',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0076759/'},
-            'name': 'The film that changed the world',
-            'reviewBody': 'Star wars made epic fantasy real. For a generation '
-                          'of people it has defined what the cinema experience '
-                          'is meant to be. Today it is probable that pc games '
-                          'will offer a deeper and more satisfying '
-                          'entertainment solution, but for pure visual and '
-                          'aural pleasure, mixed with basic emotional '
-                          'manipulation, there has never and will never be a '
-                          'better example of cinema than when star wars '
-                          'appeared over 25 years ago. When you think of star '
-                          'wars, you must remember what else was happening at '
-                          'the time. In America, the war in Vietnam had been '
-                          'lost. In the U.K economic disaster was occurring(a '
-                          '3 day working week, and the army collecting '
-                          'rubbish). It was almost like the two most '
-                          'technically advanced countries in the world were '
-                          'going backwards. Star wars let everybody escape '
-                          'from that reality and reach for a future that was '
-                          'uncertain but ultimately good.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Watch the original teaser trailer for Star Wars.',
              'embedUrl': '/video/imdb/vi1317709849',

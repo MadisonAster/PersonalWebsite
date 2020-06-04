@@ -55,37 +55,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNjA2ZDY3ZjYtZmNiMC00MDU5LTgxMWEtNzk1YmI3NzdkMTU0XkEyXkFqcGdeQXVyNjQyMjcwNDM@._V1_.jpg',
  'keywords': 'drugs,hallucination,1970s,lawyer,journalist',
  'name': 'Fear and Loathing in Las Vegas',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'daveisit'},
-            'dateCreated': '2005-07-10',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0120669/'},
-            'name': 'Slippery Mice',
-            'reviewBody': 'This is far from your everyday movie, and only for '
-                          'those with a deep appreciation for the diversity of '
-                          'film-making, or fans of Hunter S. Thompson. This '
-                          'does not mean those mentioned will enjoy it, '
-                          'although definitely respect the attempt. I '
-                          'personally found it fascinating. To portray a '
-                          'permanently drug induced state to the big screen '
-                          'was done with creativity and subtle humour. You '
-                          'could expect nothing less from director Terry '
-                          'Gilliam who has played such a massive role in the '
-                          'brilliant and original Monty Python works. \n'
-                          '\n'
-                          "Having never read any of Hunter S. Thompson's work, "
-                          'I get the impression that justice is done for the '
-                          'adaptation to the big screen. An absolutely quality '
-                          'cast must be credited for this, ensuring a natural '
-                          'performance is achieved. Las Vegas which features '
-                          'strongly throughout the movie seems to be so '
-                          'appropriate when dealing with this subject matter, '
-                          'they just seem to go hand in hand.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Three Reasons Criterion Collection Trailer for '
                             'Fear and Loathing in Las Vegas',

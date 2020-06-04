@@ -46,36 +46,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNTkyNTkwMzkxMl5BMl5BanBnXkFtZTcwMzAwOTE2OQ@@._V1_.jpg',
  'keywords': 'shark attack,sea,footage,marine park,marine',
  'name': 'Blackfish',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'stacey-gorman'},
-            'dateCreated': '2013-04-29',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2545118/'},
-            'name': 'Shocked & upset',
-            'reviewBody': 'I saw this documentary at the Sundance film '
-                          'festival London. I travelled down from Manchester '
-                          'as i could not wait for the Uk cinema release. '
-                          'After Seeing The Cove in 2009 after swimming with '
-                          'Captive Dolphins myself in 2006 to get over a '
-                          'family bereavement x 2. I never knew what dolphins '
-                          'did in captivity - just that it was one of the '
-                          'things i wanted to do before i die. After seeing '
-                          'them entertain people again & again, eat dead fish '
-                          '& float in a small tank all day i needed to see the '
-                          "pain Orcas go through. I'm glad Blackfish has been "
-                          'made. YOU need to see this film if you love mammals '
-                          '& any other intelligent animal in captivity...My '
-                          "eyes were opened at The Cove....if this doesn't "
-                          'then you are very selfish....Money is defo the Rule '
-                          'of all Evil. I will be taking all my friends & '
-                          'family to see this. After 5 days I am still '
-                          "thinking about it & can't believe these parks are "
-                          'still open :(',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Notorious killer whale Tilikum is responsible for '
                             'the deaths of three individuals, including a top '

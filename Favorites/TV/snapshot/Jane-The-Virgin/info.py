@@ -42,29 +42,6 @@
  'keywords': 'telenovela,miami florida,virginity,pregnant virgin,lesbian '
              'affair',
  'name': 'Jane the Virgin',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'akannostacy'},
-            'dateCreated': '2019-08-02',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt3566726/'},
-            'name': 'The finale was worth it!',
-            'reviewBody': 'This is one of the best shows on CW and it was '
-                          'everything and more! The finale gave me inspiration '
-                          'to write my review. It was a rollercoaster of '
-                          'tears. One minute you are crying and the next '
-                          "you're laughing your butt out and still can't help "
-                          "it because you're still crying. It screws with your "
-                          'emotions but like in a really cool way. Everyone '
-                          'had their happy ending and yes, we all knew it was '
-                          'a "telenovela" but who cares. I\'m an emotional '
-                          "wreck right now, writing this review. And I'm so "
-                          'privileged and grateful to have spent the last five '
-                          'years with the Villanueva women...',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "Watch the extended trailer for The CW's new "
                             'series "Jane the Virgin".',

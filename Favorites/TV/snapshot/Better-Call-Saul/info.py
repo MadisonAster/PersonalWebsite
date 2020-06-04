@@ -45,39 +45,6 @@
  'keywords': 'character flaw,prequel,spin off,financial struggle,shared '
              'universe',
  'name': 'Better Call Saul',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'frewars'},
-            'dateCreated': '2015-02-10',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt3032476/'},
-            'name': 'This show has filled the Breaking Bad gap in my heart.',
-            'reviewBody': 'I loved every second of the first two episodes of '
-                          'Better Call Saul. We are beginning the season with '
-                          'many strings left untied but I have complete faith '
-                          'in all questions being answered. If you loved '
-                          'Breaking bad for all the reasons I did including '
-                          'the cinematography, music, scenery, characters and '
-                          'most of all the story line, then you will love '
-                          'this. I apologize for going slightly off topic but '
-                          'in looking back at the breaking bad episode with '
-                          'the fly in the lab, some people found that they did '
-                          'not enjoy this episode, I on the other hand loved '
-                          'it. I appreciate the pure genius of the directing '
-                          'that goes behind every minute of the show. I '
-                          'understand and respect that people are entitled to '
-                          'their own opinion but after reading the negative '
-                          'reviews given here about "Better Call Saul" all I '
-                          "can say is that they don't get it, and that is OK. "
-                          'It is worth a watch because if you end up enjoying '
-                          'the show you wont just like it, you will love it. '
-                          'This is the next life changing show that will '
-                          'become something you look forward to for many '
-                          "years. I am truly excited for what's to come.",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Welcome to Saul Goodman\'s world. "Better Call '
                             'Saul" Season 5 premieres Sunday, February 23, '

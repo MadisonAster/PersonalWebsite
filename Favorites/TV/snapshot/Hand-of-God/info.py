@@ -39,34 +39,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BOTRhNWFjOGEtNWNlYy00MjlkLTk1MjctN2MxMjE3NGVjZDg0XkEyXkFqcGdeQXVyNjkwNzEwMzU@._V1_.jpg',
  'keywords': 'religion,hallucination,suicide,talking to god,rape victim',
  'name': 'Hand of God',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'katish7'},
-            'dateCreated': '2014-08-30',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt3973768/'},
-            'name': 'The best pilot from Amazon yet',
-            'reviewBody': 'This was definitely the best pilot produced by '
-                          'Amazon so far in terms of quality of writing, '
-                          'acting and directing. Even just one of the best '
-                          'pilots all around. \n'
-                          '\n'
-                          'Acting is very convincing from all of the leads. '
-                          'The story is very engaging and keeps you on the '
-                          "edge. It makes you question the main character's "
-                          "sanity, but still sympathize with him. There're a "
-                          'lot of layers to the narrative, but it feels all '
-                          'connected. \n'
-                          '\n'
-                          'Marc Foster and Ben Watkins delivered! \n'
-                          '\n'
-                          'I sincerely hope that Amazon will pick it up and '
-                          'produce the whole season with the same outstanding '
-                          'quality.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A morally-corrupt judge suffers a breakdown and '
                             'believes God is compelling him onto a path of '

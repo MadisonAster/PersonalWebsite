@@ -40,21 +40,6 @@
  'keywords': 'asteroid belt,false flag operation,space opera,dead '
              'girlfriend,shootout',
  'name': 'The Expanse',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'dschmi-64533'},
-            'dateCreated': '2019-12-16',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt3230854/'},
-            'name': 'Ultimate SciFi show. Best since Battlestar.',
-            'reviewBody': 'I binged the entire season 4 in one day. Absolutely '
-                          "hooked. It's rare to find a scifi show these days "
-                          'that has a good storyline. The cast is perfectly '
-                          'chosen. Please please give us 10 seasons!',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi4290952985',
              'name': 'Season 4 Trailer',

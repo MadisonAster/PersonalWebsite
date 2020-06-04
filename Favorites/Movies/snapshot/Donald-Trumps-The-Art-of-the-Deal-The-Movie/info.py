@@ -40,47 +40,4 @@
  'keywords': 'elite,new york city,real estate,nazi salute,donald trump '
              'character',
  'name': "Donald Trump's The Art of the Deal: The Movie",
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'framptonhollis'},
-            'dateCreated': '2016-08-12',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt5456120/'},
-            'name': 'Not Very Funny...',
-            'reviewBody': 'The concept of this movie is actually really '
-                          'fascinating to me. Personally, I really dislike '
-                          'Donald Trump, and a good satire of him would work '
-                          "extremely well! Also, it's interesting how this "
-                          'movie is a) an adaptation of his book "The Art of '
-                          'the Deal" b)is shot as mockumentary, and has a cool '
-                          'visual style, and c) Johnny Depp is playing Donald '
-                          'Trump!\n'
-                          '\n'
-                          'However, the movie itself is nowhere near as good '
-                          'as its concept!While I did laugh a couple of times '
-                          'here and there, it was, overall, very unfunny. Most '
-                          'of it is immaturely making fun of Trump instead of '
-                          "packing the movie with little details about Trump's "
-                          "life that would take actual research. I'm ALWAYS "
-                          'impressed when those behind the scenes actually do '
-                          "research on whoever/whatever they're satirizing.\n"
-                          '\n'
-                          'But, despite the movie not really being funny, I '
-                          'thought Johnny Depp did a pretty great job. He '
-                          "doesn't look or sound much like the real Donald "
-                          'Trump, but his performance is extremely unique and '
-                          'bizarre, and I really found myself enjoying!\n'
-                          '\n'
-                          "Also, I'd like to comment on the people angrily "
-                          'calling this movie "propaganda". I highly disagree '
-                          "with them. It's just a quick little comedy that "
-                          'pokes fun of Trump, it\'s no "Triumph of the Will"! '
-                          'Really, calm down!\n'
-                          '\n'
-                          'Overall, this movie made me agree with what Ron '
-                          'Howard said at the end of the credits.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '4',
-                             'worstRating': '1'}},
  'url': '/title/tt5456120/'}

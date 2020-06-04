@@ -51,36 +51,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BYTU4Nzg5YmItNzE0Yy00Y2VmLWI3OTYtNTFjODEzMDE0YTI4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg',
  'keywords': 'robot,breaking a figurine,goofball,slapstick,android',
  'name': 'Bicentennial Man',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'hokanu127'},
-            'dateCreated': '2004-02-13',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0182789/'},
-            'name': 'A good well-paced touching movie',
-            'reviewBody': 'This movie surprised me. Having been a fan of Issac '
-                          'Asimov for many years I thought that this '
-                          'adaptation with Chris Columbus at the helm would be '
-                          'terrible. I was wrong. Some may complain that this '
-                          'movie is too long and slow, but I would wager that '
-                          'their attention spans are somewhat lacking. If you '
-                          'are looking for a high action movie with robots '
-                          'then you have come to the wrong place. If you are '
-                          'looking for a sci-fi based romantic comedy about '
-                          'the personal growth of one man...er robot, then '
-                          'this is the movie. The comedy was well written and '
-                          'well played, appropriately placed in each moment. '
-                          'AS for the character of Andrew(Robin Williams), '
-                          'though he is supposed to be a robot you really '
-                          'connect with his character and sense his growth '
-                          'over time. Unlike A.I. his character learns and '
-                          'grows and has real not fabricated emotional '
-                          'attachments. I give this movie an 8 or 9. Very '
-                          'good.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Theatrical Trailer from Touchstone Pictures',
              'embedUrl': '/video/imdb/vi783941913',

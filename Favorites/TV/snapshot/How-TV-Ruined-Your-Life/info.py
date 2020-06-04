@@ -34,21 +34,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BM2NiMTE3YjktYWNhMS00NmVkLTk4NjYtZWNlY2Y0OGE1YmZmXkEyXkFqcGdeQXVyNjUwMTQ4NjE@._V1_.jpg',
  'keywords': 'tv mini series,reenactment',
  'name': 'How TV Ruined Your Life',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'georgestephenwalker'},
-            'dateCreated': '2020-05-27',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1827733/'},
-            'name': "How TV Ruined Your Life, don't say it didn't.",
-            'reviewBody': "It's a spin off of the wipe series what can I say? "
-                          "It's extremely funny and definitely thought "
-                          'provoking. The documentary style gives the show a '
-                          'more mature feel over ScreenWipe or NewsWipe making '
-                          'it feel more based around facts instead of Mr '
-                          'Brookers opinion.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'url': '/title/tt1827733/'}

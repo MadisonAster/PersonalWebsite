@@ -43,40 +43,6 @@
  'keywords': 'multiple storyline,dog,mexico city,multiple '
              'perspectives,nonlinear timeline',
  'name': 'Amores perros',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'WriterDave'},
-            'dateCreated': '2003-06-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0245712/'},
-            'name': 'Doggie Holocaust makes for Best Mexican Film Ever',
-            'reviewBody': "Some people just won't want to sit through this "
-                          'film because of the overtly graphic and disturbing '
-                          'dog fighting scenes, which is ironic, because most '
-                          "people don't seem to mind the graphic violence "
-                          'involving the people in this film. Others simply '
-                          "won't watch it because of the subtitles. This is a "
-                          'shame, since this is by far the best film I have '
-                          'ever seen come out of Mexico (far better and more '
-                          'complex than the comparably immature "Y Tu Mama '
-                          'Tambien"). Here we get an intertwining tale '
-                          'involving dog fights, petty gangsters, a tragically '
-                          'injured model, a cheating husband, an abused '
-                          'teenage wife, and a homeless hit man. As you might '
-                          'expect the homeless hit man becomes the soul of the '
-                          'film, and the dogs serve as a link, reminding us of '
-                          'the violence we inflict upon each other and nature, '
-                          'and the fractured relationships we think beyond '
-                          'repair, but are actually more resilient than we '
-                          'could ever imagine. Brilliantly directed with a '
-                          'great soundtrack and a bigger heart than you might '
-                          'initially perceive, "Amores Perros" is a deep, '
-                          'thought-provoking and utterly enthralling film that '
-                          'you will not soon forget.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Original trailer - do not delete without '
                             'contacting gamazoa -',

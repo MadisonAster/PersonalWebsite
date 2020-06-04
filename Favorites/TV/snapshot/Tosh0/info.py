@@ -38,35 +38,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNWY4MWIzNDItMmM3MS00MjZkLTg0MzUtMjI2M2Y2ODI3NDRkXkEyXkFqcGdeQXVyODg3NDc1OTE@._V1_.jpg',
  'keywords': 'pixelated nudity,vomiting,2000s,2010s,reference to daniel tosh',
  'name': 'Tosh.0',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'magnuml'},
-            'dateCreated': '2013-11-19',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1430587/'},
-            'name': 'Absolutely ingenious, in an offensive way.',
-            'reviewBody': 'Tosh.O is the pinnacle of comedy, well, at least on '
-                          "'Comedy Central', because truth to be told, there "
-                          "isn't much going on these days since Breaking Bad "
-                          'ended.\n'
-                          '\n'
-                          'The host, Daniel Tosh, brings us the viral and the '
-                          'not-so-viral videos and delivers hilarious, and '
-                          "somewhat offensive commentary. Me myself, I don't "
-                          "think it's THAT offensive at all, but that's just "
-                          'your personal bubble of morals.\n'
-                          '\n'
-                          'The web redemptions and video breakdowns can get a '
-                          "bit silly at times, but that doesn't take away one "
-                          'bit of the "hate all people" stand-up Daniel Tosh '
-                          'unleashes at the audience.\n'
-                          '\n'
-                          "Bottom line, tl;dr: Don't watch this if you're "
-                          'easily offended.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Tosh.0: Season 10',
              'embedUrl': '/video/imdb/vi933412121',

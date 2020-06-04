@@ -45,36 +45,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg',
  'keywords': 'alien,spaceship,outer space,creature,female protagonist',
  'name': 'Alien',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'oneshotstop'},
-            'dateCreated': '1999-07-20',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0078748/'},
-            'name': 'Structural perfection matched only by its hostility',
-            'reviewBody': "Director Ridley Scott's well-honed talents of "
-                          'pacing and editing create a tense atmosphere that '
-                          'superbly conveys dread and fear of an unknown, '
-                          "unseen evil entity.  In 1979, the technology didn't "
-                          'exist to generate a computer image of a Being from '
-                          'another world, and thank God, because this film '
-                          'would have sucked just like all these post-Alien '
-                          'creature features do.  Everyone who loves this '
-                          "movie knows what I'm talking about.  Ridley Scott "
-                          'had to be extremely careful not to show a full shot '
-                          'of the Alien, except in very brief scenes, and not '
-                          'to reveal exactly how it moves, because then we '
-                          'would see that it is just some tall, skinny guy in '
-                          'a rubber suit.  Nowadays, some computer guy would '
-                          'whip up a really scary-looking, but nevertheless '
-                          'FAKE-looking (yes, computer guys, we can tell) '
-                          'Alien, and the director would not have to even '
-                          'think about trying to breathe life into H.R. '
-                          "Giger's hallucinations to make a successful "
-                          'picture.\n'
-                          '\n'
-                          'The dark, cold beauty of this film will never be '
-                          'equaled.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'A mining ship, investigating a suspected SOS, '
                             'lands on a distant planet. The crew discovers '

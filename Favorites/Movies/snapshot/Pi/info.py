@@ -58,38 +58,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjYzNTA4YzItYTQ2Yy00NDQwLWI2OGItN2JmMjZhZTVhMzI5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg',
  'keywords': 'cult film,the letter pi,go,mathematician,headache',
  'name': 'Pi',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'cultovone'},
-            'dateCreated': '1999-11-09',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0138704/'},
-            'name': 'Finding God through the ancient language of Mathematics',
-            'reviewBody': 'Pi is the oddest, hippest, most chilling account of '
-                          'the descent into the abyss.\n'
-                          '\n'
-                          'Following mathematical clues derived from an '
-                          'analysis of the stock market, Maximillian Cohen '
-                          'begins his descent into madness as he attempts to '
-                          'discover the nature of everything through the '
-                          'peculiar numerical entity known as Pi.\n'
-                          '\n'
-                          'Thrilling enough, but then combine with generous '
-                          'amounts of Kaballistic mysticism, black and white '
-                          'footage and a soundtrack like an audible fractal, '
-                          'and you have a sensory snare which drags you along '
-                          "for the ride into Max's impending breakdown.\n"
-                          '\n'
-                          'Obsession has never been so exciting.\n'
-                          '\n'
-                          'Pi is an utterly gut-wrenching, mind expanding '
-                          'phenomema. If you have ever wondered about the '
-                          'universe, God or the nature of insanity, Pi will '
-                          "take you where you don't want to go.",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Artisan',
              'embedUrl': '/video/imdb/vi1904214297',

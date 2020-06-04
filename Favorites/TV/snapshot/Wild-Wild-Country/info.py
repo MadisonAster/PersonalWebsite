@@ -34,35 +34,6 @@
  'keywords': '1980s,true crime,guru,antelope oregon,reference to bhagwan shree '
              'rajneesh',
  'name': 'Wild Wild Country',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'SamJohnson1'},
-            'dateCreated': '2018-03-28',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt7768848/'},
-            'name': "Orwell's brilliant Animal Farm in real life",
-            'reviewBody': 'To understand why utopias do not work this provides '
-                          'a fascinating real life example. \n'
-                          '\n'
-                          'A guru who chooses not to speak and allows his '
-                          'followers to take control - Sheela is a brilliant '
-                          'mix of artful aggression and disingenuousness. Her '
-                          'lack of enlightenment by the end is bizarre. The '
-                          'whole purpose of following Osho was supposedly to '
-                          'gain enlightenment. Will the day ever come when she '
-                          'recognises that her need for power created only '
-                          'chaos? \n'
-                          '\n'
-                          'Human nature in all its frailty plays out on film - '
-                          'everyone should see this - and read Animal Farm, '
-                          'which predicted it all decades ago. Slightly '
-                          "overlong which is the only reason it doesn't get 10 "
-                          'stars - but worth staying with as it truly gets '
-                          'weird halfway through.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "When the world's most controversial guru builds a "
                             'utopian city deep in the Oregon desert, conflict '

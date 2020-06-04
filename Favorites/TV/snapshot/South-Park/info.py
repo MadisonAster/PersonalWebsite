@@ -45,40 +45,6 @@
  'keywords': 'elementary school,colorado,religious humor,political '
              'humor,profanity',
  'name': 'South Park',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Raven_Z'},
-            'dateCreated': '2004-12-10',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0121955/'},
-            'name': 'Sadly Misunderstood',
-            'reviewBody': 'South Park is one of the most misunderstood, and '
-                          'also the most intelligent shows on television.\n'
-                          '\n'
-                          'South Park is a satirical look on most anything '
-                          "from Western society - politics, the media, today's "
-                          'youth, celebrities, violence in our society, and '
-                          'much much more. However, instead of presenting '
-                          'these issues as they are, they alternately project '
-                          'them through the exploits of four young boys in '
-                          'South Park, Colorado. \n'
-                          '\n'
-                          'Unfortunately, many people take the show solely at '
-                          'face value, refusing to see the intelligence in it '
-                          '- South Park is admittedly filled with racist and '
-                          'sexist jokes, along with other offensive material. '
-                          'The problem lies within the fact that most people '
-                          "don't seem to understand the concept of satire and "
-                          'self parody. \n'
-                          '\n'
-                          'I admit that I, myself, was one of these people - '
-                          'for years I refused to watch that "garbage," until '
-                          'finally a friend forced me to actually watch a '
-                          'whole episode, and I realized that the show was '
-                          'actually making a point.\n'
-                          '\n'
-                          "So, if you haven't done so, go - watch an episode. "
-                          "You'll feel smarter when you're done."},
  'trailer': {'@type': 'VideoObject',
              'description': 'Teaser trailer for Season 19 of South Park on '
                             'Comedy Central.',

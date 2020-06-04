@@ -67,44 +67,6 @@
  'keywords': 'multiple outcomes,stepbrother stepsister relationship,nonlinear '
              'timeline,mother spanking child,butterfly effect',
  'name': 'Mr. Nobody',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'staffan-663-321070'},
-            'dateCreated': '2010-09-09',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0485947/'},
-            'name': 'Unforgettable',
-            'reviewBody': "This is the kind of film you don't see too often. "
-                          "It is truly a visual masterpiece. I haven't heard "
-                          'about this french director, but "Mr Nobody" really '
-                          'blew my mind in all its images, dreams, romance and '
-                          'complexity. The movie has similarities to films by '
-                          'Michel Gondry but i think this film was more '
-                          'magical. Dreamlike and existential films. Some '
-                          'might think Mr Nobody is too complex, too '
-                          'demanding. It is not for everyone, but I loved it. '
-                          'Like other surreal movies, Peter Jacksons "The '
-                          'Lovely Bones", and "Synechdohe: New York" "Dr. '
-                          'Parnassus", "Micmacs"- these dreamlike and '
-                          '"difficult" films must be terribly expensive to '
-                          'produce and I ask myself how can the companies go '
-                          'through with these productions? These flicks never '
-                          'generate big box office money. Im amazed that they '
-                          'still make this kinds of demanding visual movies '
-                          'for cinema. And glad.\n'
-                          '\n'
-                          'I discovered the greatness of Jared Leto as an '
-                          'actor when he played John Lennons Killer in Chapter '
-                          '23. That was a truly disturbing and amazing acting '
-                          'of a disturbed fanatic loner. Mr Nobody is however '
-                          'the role of his life! If you like this kinds of '
-                          'movies I recommend "Eternal sunshine of the '
-                          'spotless mind", "Synechdohe: New York" and "THE '
-                          'FOUNTAIN". They really make you think!',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A young boy stands on a station platform. The '
                             'train is about to leave. Should he go with his '

@@ -52,40 +52,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMGExOGExM2UtNWM5ZS00OWEzLTllNzYtM2NlMTJlYjBlZTJkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg',
  'keywords': 'neo noir,alien race,memory,experiment,serial killer',
  'name': 'Dark City',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'mutlu_bahar'},
-            'dateCreated': '2004-11-26',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0118929/'},
-            'name': 'One of the best science fictions ever made...',
-            'reviewBody': 'Dark City is the best film of Alex Proyas. He uses '
-                          'the Gothic and claustrophobic themes commonly and '
-                          'dark colors prevail during the film like "The Crow" '
-                          ".The story doesn't follow a certain order of rule, "
-                          'instead there is some mind games and puzzles in the '
-                          'film, that causes watchers to be active in each '
-                          'minute and motivate to the movie..\n'
-                          '\n'
-                          'The topic is about a man who loses his past and '
-                          'first finds himself in a bath tub, doesn^t know '
-                          'about himself and his life, but he has one ability '
-                          'that no one has, he can be alive when the evil '
-                          'forces stops the time and reshapes the world '
-                          'according to their own demand. The story is so '
-                          "fantastic and Proyas' nightmare world come true in "
-                          'that movie.\n'
-                          '\n'
-                          "I can basically say that it's one of the best "
-                          'science fiction movies ever made, it opens doors to '
-                          "different dimensions and force human brains' "
-                          'capability....\n'
-                          '\n'
-                          '"Mutlu Bahar"',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for Dark City',
              'embedUrl': '/video/imdb/vi2614494745',

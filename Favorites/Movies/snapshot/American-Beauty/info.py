@@ -43,26 +43,6 @@
  'keywords': 'adulterous wife,cheating wife,midlife crisis,unfaithful '
              'wife,virginity',
  'name': 'American Beauty',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'toh786'},
-            'dateCreated': '2018-12-03',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0169547/'},
-            'name': 'Better than I thought',
-            'reviewBody': 'I just decided to watch this old movie for the '
-                          'first time, since I heard it was a classic. This is '
-                          'one of the few movies where I had water in my eyes. '
-                          'The story was very powerful, the drama was '
-                          'powerful, everything was powerful. "There\'s so '
-                          "much beauty in the world, I feel like I can't take "
-                          'it." I do not this see anything wrong with it, it '
-                          'was a simply a great movie to watch. Highly '
-                          'recommend it.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Lester Burnham, a depressed suburban father in a '
                             'mid-life crisis, decides to turn his hectic life '

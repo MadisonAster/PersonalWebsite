@@ -96,7 +96,7 @@ def SanitizeTitle(Title):
             Result += '-'
     return Result
 
-def GetIMDB(url, OutputDir, UpdateAll=True):
+def GetIMDB(url, OutputDir, UpdateAll=False):
     print('GetIMDB!', url, OutputDir)
     #match = soup.find('div', class_='footer')
     #for match in soup.find_all('div', class_='footer')
@@ -110,9 +110,13 @@ def GetIMDB(url, OutputDir, UpdateAll=True):
         if itemurl in Entries.keys():
             Entry = Entries[itemurl]
             EntryPath = Entry['EntryPath']
+            if 'review' in Entry.keys():
+                del Entry['review']
         if itemurl not in Entries.keys() or UpdateAll:
             print('Downloading', itemurl)
             Item = GetIMDBItemData(itemurl)
+            if 'review' in Item.keys():
+                del Item['review']
             if Entry == None:
                 EntryPath = OutputDir+'/'+SanitizeTitle(Item['name'])
                 EntryPath = EntryPath.replace('\\','/').replace('//','/')

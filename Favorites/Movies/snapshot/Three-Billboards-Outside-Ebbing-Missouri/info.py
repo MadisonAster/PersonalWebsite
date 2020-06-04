@@ -44,39 +44,6 @@
  'keywords': 'billboard,police brutality,black comedy,ambiguous ending,thrown '
              'through a window',
  'name': 'Three Billboards Outside Ebbing, Missouri',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'pedroborges-90881'},
-            'dateCreated': '2020-05-29',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt5027774/'},
-            'name': 'Very good film with amazing writing and acting',
-            'reviewBody': 'Is kinda rare to see a female and male character '
-                          'fit so weel on screen, Frances McDormand and Sam '
-                          'Rockweel perfomances are amazing, Woody Harrelson '
-                          'is also great, in fact everyone in this film is '
-                          'great, even the characters with short time on '
-                          "screen, that's great writing, direction and "
-                          'acting.\n'
-                          '\n'
-                          'McDormand show extremely well the terrible weight '
-                          'and pain that her character is suffering, she is '
-                          "also shows a lot attitude in the things she's doing "
-                          'and says, the way she walks and looks to someone is '
-                          "like she's going to war.\n"
-                          '\n'
-                          'Rockweel also give the best performance of his '
-                          'career so far, he balanced being funny, dumb, '
-                          'racist, violent, weak and strong, he does all that '
-                          'extremely well.\n'
-                          '\n'
-                          'Three Billboards Outside Ebbing, Missouri is a very '
-                          'good film and can become a classic on character '
-                          'development.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'In this darkly comic drama, a mother personally '
                             'challenges the local authorities to solve her '

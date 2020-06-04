@@ -46,51 +46,6 @@
  'keywords': 'artificial intelligence,turing test,minimal cast,robot human '
              'relationship,video surveillance',
  'name': 'Ex Machina',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'themissingpatient'},
-            'dateCreated': '2015-04-26',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0470752/'},
-            'name': 'Paranoid Android',
-            'reviewBody': 'Ex Machina has a very fitting sense of false '
-                          'intimacy. This is done visually as many of the '
-                          'close-ups are seen through glass. No matter how '
-                          'close we get to the subject on-screen, there always '
-                          'seems to be at least one wall of glass between us '
-                          'and it or them. The film also makes a very distinct '
-                          "contrast between it's interior and exterior shots. "
-                          'Outside of the facility is breathtaking landscapes. '
-                          'It is big, beautiful, refreshing and vibrant. '
-                          'Inside seems like an endless futuristic maze of '
-                          'glass, mirrors, plastic, chrome and dim lights. It '
-                          'is clean, cold and claustrophobic. A perfect '
-                          'setting for the subject that is explored in this '
-                          'tight, tense sci-fi thriller.\n'
-                          '\n'
-                          'Ex Machina is the best science fiction film on '
-                          'artificial intelligence since Blade Runner. While '
-                          'Blade Runner is an action thriller that relies more '
-                          "on it's epic visuals to tell it's story, Ex Machina "
-                          'is a dialogue-driven psychological thriller that '
-                          "slowly works it's way under your skin. "
-                          'Thought-provoking and terrifyingly suspenseful, an '
-                          'induced state of paranoia may linger long after the '
-                          'end credits begin to roll.\n'
-                          '\n'
-                          'The less you know going into a film like this, the '
-                          'better your experience will be. Alex Garland has '
-                          'given us a modern science-fiction masterpiece. '
-                          'Performances from all three leads are flawless and '
-                          'every other aspect of the production, from the '
-                          'cinematography to the soundtrack, is perfectly '
-                          'suited for the story. Not only is Ex Machina an '
-                          "amazing achievement for a directorial debut, it's "
-                          "Alex Garland's best written work to-date.",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A young programmer is selected to participate in '
                             'a breakthrough experiment in artificial '

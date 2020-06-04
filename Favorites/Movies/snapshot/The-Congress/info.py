@@ -49,34 +49,6 @@
  'keywords': 'satire,dystopia,cinema,tom cruise character,barcode license '
              'plate',
  'name': 'The Congress',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'MdlndeHond'},
-            'dateCreated': '2013-12-22',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1821641/'},
-            'name': 'Beautifully executed doom Scifi',
-            'reviewBody': "It's two movies really the first part where you "
-                          'feel the impending doom set upon Robin Wright as '
-                          'she is caught between either professionally die off '
-                          'soon or make a deal that takes it all. \n'
-                          '\n'
-                          'It so vividly explores the fine line between choice '
-                          'and the illusion of having one. The second part has '
-                          "a strong resemblance to Waking Life in it's "
-                          'psychedelic execution more than Waltz with Bashir. '
-                          'Existentialism, morality, Corporatocracy and the '
-                          'beautiful animation make this the most marvellous '
-                          'yet terrifying Sci-fi I have seen in ages. Watch '
-                          'Harvey Keitels monologue in the first half, it is '
-                          'outstanding. Robin Wright is as always amazing and '
-                          'gets extra kudos for playing herself in an '
-                          'alternate universe where her career has failed. It '
-                          'is all together a masterpiece.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'An aging, out-of-work actress accepts one last '
                             'job, though the consequences of her decision '

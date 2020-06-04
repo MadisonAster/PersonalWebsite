@@ -40,36 +40,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNzE3ZTYxZWYtMjQ1Ny00MzFhLWI1MGMtMDZmMzYwYjc1OWQ0XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg',
  'keywords': 'year 1743,scotland,female nudity,sex scene,scottish highlands',
  'name': 'Outlander',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'dariana-ro'},
-            'dateCreated': '2014-08-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt3006802/'},
-            'name': 'Jesus H. Roosevelt Christ',
-            'reviewBody': 'I never read the books and never heard anything '
-                          "about this story before I saw the show. I don't "
-                          'know how close it comes to the books but as a show '
-                          'is absolutely fantastic.\n'
-                          '\n'
-                          'Everything was done right , actors , costumes, '
-                          'music and the scotsmen in kilts are so sexy . I am '
-                          'in love.\n'
-                          '\n'
-                          'We have beautiful landscapes , music to match , '
-                          'time travel , an intelligent mature woman as a lead '
-                          'character and two attractive men that love her . I '
-                          'like the romance part and the history part. I like '
-                          'everything about this show.\n'
-                          '\n'
-                          "I wish they add some subtitles . I don't know how "
-                          'well native English speakers understand the Gaelic '
-                          'but English is not my native language and I could '
-                          'not understand a word in Gaelic.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi1308737305',
              'name': 'Season 4 Trailer',

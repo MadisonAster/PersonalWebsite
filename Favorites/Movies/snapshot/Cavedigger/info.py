@@ -36,38 +36,6 @@
  'genre': ['Documentary', 'Short', 'Biography'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTgyMTU0OTYxOV5BMl5BanBnXkFtZTgwNDUyNTEwMTE@._V1_.jpg',
  'name': 'Cavedigger',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'dbanks-194-630420'},
-            'dateCreated': '2014-01-18',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2516860/'},
-            'name': 'Fascinating doc about a fascinating artist',
-            'reviewBody': 'Cavedigger takes you on the journey of Ra Paulette, '
-                          'a singular, driven man whose art is creating caves '
-                          'in the sandstone hills of New Mexico.\n'
-                          '\n'
-                          'The word "caves" doesn\'t really do justice to what '
-                          'Ra creates, they are truly works of art that need '
-                          'to be seen, just as Cavedigger needs to be seen. It '
-                          "tells the tale of one man's need to express himself "
-                          'no matter the odds. His artistic goals sometimes '
-                          'run counter to those of his patrons, and his need '
-                          'to support his family, and his own race against '
-                          "time and age, working in an art form that's "
-                          'incredibly physically demanding. \n'
-                          '\n'
-                          'The documentary does a terrific job showing how and '
-                          'why this man is determined never to stop. He says '
-                          'that there may be an end to his need to create, but '
-                          "after watching this mesmerizing film, that's hard "
-                          "to imagine. For him, it's a spiritual journey, and "
-                          'Cavedigger itself is a journey into both the art he '
-                          'creates and the driven soul behind the art.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'An unsung land artist who creates singular, '
                             "cathedral-like 'eighth wonder of the world' "

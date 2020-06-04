@@ -47,32 +47,6 @@
  'keywords': 'serial killer,masked killer,film crew,virginity,reverse cowboy '
              'sex position',
  'name': 'Behind the Mask: The Rise of Leslie Vernon',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'oldboy15'},
-            'dateCreated': '2007-05-28',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0437857/'},
-            'name': 'Loved it, genius!',
-            'reviewBody': 'This film rocks sports fans. Its Man bites dog '
-                          'meets Halloween. Brilliant performances, great '
-                          'direction, very funny, inspired film making! Nathan '
-                          'Baesel was especially entertaining as the "Michael '
-                          'Mires" style character, keep an eye out for him in '
-                          'the future. And with appearances from Robert '
-                          'Englund, Scott Wilson, and Kane Hodder makes this '
-                          'an absolute must for any old school slasher fan. '
-                          'the only reason it did not get a 10 from me was the '
-                          "gore, it didn't need it but some hard core, well "
-                          'done Peter Jackson (braindead) style gore would '
-                          'have made this film one of the all time greats and '
-                          "been the proverbial icing on the cake. if you're a "
-                          'Rami, Jacksoon, Carpenter, Craven etc. fan then you '
-                          'MUST SEE THIS FILM!',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Theatrical Trailer from Anchor Bay Films',
              'embedUrl': '/video/imdb/vi3501785369',

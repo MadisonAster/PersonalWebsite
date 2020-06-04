@@ -43,37 +43,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_.jpg',
  'keywords': 'murder,bounty hunter,blizzard,blood vomiting,projectile vomiting',
  'name': 'The Hateful Eight',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'vaivhav'},
-            'dateCreated': '2015-12-30',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt3460252/'},
-            'name': 'Go for it. Ignore the haters. Tarantino entertainment to '
-                    'the core!',
-            'reviewBody': 'This is a short review I am forced to write after '
-                          'noticing the critics and the haters. Hateful Eight '
-                          'is another Tarantino masterpiece. It may be similar '
-                          "to his previous movies, but great directors don't "
-                          'come often and in a single life they can make only '
-                          'so many films. Now if Tarantino decides to make '
-                          "another 'Tanrantino' western with all the fine work "
-                          'thrown in as in his other films, I am no one no '
-                          'complain. This guy is a legend and I am privileged '
-                          'to see the handful of movies he will make in his '
-                          'lifetime. Even if he makes similar movies a dozen '
-                          'times, I would still watch it, cause this guy knows '
-                          'filmmaking at its finest. Hateful Eight is a '
-                          'blizzard of fine acting, fine dialogue, humor, '
-                          'darkness, snow and that incredible eye for '
-                          'perfection and storytelling. \n'
-                          '\n'
-                          'Go damn watch it and be prepared to be a told a '
-                          'western story Tarantino style.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'In post-Civil War Wyoming, bounty hunters try to '
                             'find shelter during a blizzard but get involved '

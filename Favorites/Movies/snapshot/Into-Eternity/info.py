@@ -48,35 +48,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjI4NzUxMjA2NF5BMl5BanBnXkFtZTcwNjczNjI0NA@@._V1_.jpg',
  'keywords': 'nuclear,storage,radiation,dump,underground',
  'name': 'Into Eternity: A Film for the Future',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'AULhall'},
-            'dateCreated': '2011-08-13',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1194612/'},
-            'name': 'A uniquely cool provocation of thought',
-            'reviewBody': "I don't believe I am exaggerating when I claim that "
-                          "this is one of the coolest works of film I've ever "
-                          "watched. It's a thought experiment packaged within "
-                          'a brilliantly paced, well directed, and aptly '
-                          'scored documentary. The subject matter is '
-                          'critically important to anyone with half an eye on '
-                          'the distant future, and writer/director Michael '
-                          'Madsen does not fail to put matters into '
-                          'perspective.\n'
-                          '\n'
-                          "This won't be for everyone, since it doesn't "
-                          'spoon-feed the viewer easy answers, nor does it '
-                          'cater at all to those with little imagination. But '
-                          'if you like thinking about topics that generally '
-                          'fall only under the scope of the science fiction '
-                          "genre, and you don't mind tackling questions that "
-                          'are both grand and open-ended, then this '
-                          'documentary will be time well spent.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A documentary on the safety of nuclear storage.',
              'embedUrl': '/video/imdb/vi1560713753',

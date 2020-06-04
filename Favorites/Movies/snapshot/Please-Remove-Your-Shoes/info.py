@@ -41,49 +41,6 @@
  'keywords': 'air marshal,homeland security,special '
              'agent,bureaucracy,transportation security administration',
  'name': 'Please Remove Your Shoes',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'lectureral'},
-            'dateCreated': '2011-04-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1600841/'},
-            'name': 'A look at the reality (and failures) of air passenger '
-                    'security',
-            'reviewBody': 'Anybody who has been through airport security with '
-                          'a critical mind must have wondered just what is the '
-                          'point of frisking the 80 year old lady in front of '
-                          'them, what danger a bottle of water actually '
-                          'represents and whether there is really any point in '
-                          "removing one's computer from its case.\n"
-                          '\n'
-                          'The answer this film gives is, as a lot of people '
-                          'suspect, that this is all security theater - '
-                          'designed not to increase security but rather the '
-                          "perception of security. It's main concern is to "
-                          'give the traveling public reassurance rather than '
-                          'actual safety.\n'
-                          '\n'
-                          'Narrated by former TSA agents and air marshals, '
-                          'this film gives an alarming insight into the '
-                          'reality of airport security. The testers of '
-                          'security (red team) who were beating security so '
-                          'often that they were withdrawn - they made the '
-                          'agency look bad. The focus on whistle-blowers '
-                          'rather than the real concerns which they '
-                          'illuminated. In one case the screeners caught the '
-                          'water bottle at the top of the bag, removed it and '
-                          'passed the bag back to the red team member with the '
-                          'assembled bomb still in place at the bottom of the '
-                          'bag.\n'
-                          '\n'
-                          'This film is a damning indictment of the '
-                          'bureaucracy that is the TSA. It also should be a '
-                          'real worry to anyone who is planning on flying '
-                          'anytime soon.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '6',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Please Remove Your Shoes is a documentary about '
                             "the US government's broken promise to keep our "

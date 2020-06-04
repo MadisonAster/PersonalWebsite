@@ -41,40 +41,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjA4MjI2OTM5N15BMl5BanBnXkFtZTcwNDA1NjUzMw@@._V1_.jpg',
  'keywords': 'panties,voyeur,sex in bed,red panties,fondling',
  'name': '21 Grams',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Austin2LA'},
-            'dateCreated': '2004-01-19',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0315733/'},
-            'name': 'Iñárritu delivers a film that may well live up to its '
-                    'hype and then some.',
-            'reviewBody': '21 Grams features performances by Sean Penn, '
-                          'Benecio Del Torro and Naomi Watts that are '
-                          'remarkable not only for their believability, but '
-                          'also for the range of gut wrenching emotion they '
-                          'bring to bear.  Telling his story almost violently '
-                          'out of sequence, Iñárritu makes no apology for '
-                          'presenting information in a manner that is often '
-                          'abrupt and/or confusing.  His choice to juxtapose a '
-                          'myriad of images to reveal the complexities and '
-                          'subtleties of the characters challenges the viewer '
-                          'even as it elevates the story.\n'
-                          '\n'
-                          ' Each of the three main characters faces a series '
-                          "of crises that unfold in the fullness of Iñárritu's "
-                          'version of time.  By so carefully painting '
-                          "characters' surroundings along with their reactions "
-                          'to the events that change their lives, lead '
-                          'characters are stripped to the bone.  The '
-                          'supporting cast is nothing short of miraculous '
-                          '(notably Clea Duvall, Charlotte Gainsborg and '
-                          'Melissa Leo) and completes a wonderfully complex '
-                          'series of portraits of the three main characters.\n'
-                          '\n'
-                          'Like few films in recent memory, 21 Grams fully '
-                          'reveals what it is to be human in the clutches of '
-                          "life's most challenging moments."},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer',
              'embedUrl': '/video/imdb/vi3383951641',

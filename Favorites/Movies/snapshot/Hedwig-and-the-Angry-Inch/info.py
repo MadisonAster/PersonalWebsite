@@ -48,31 +48,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BZGY5NWUyNDUtZWJhZi00ZjMxLWFmMjMtYmJhZjVkZGZhNWQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg',
  'keywords': 'teenage boy,drag,handjob,band,rock band',
  'name': 'Hedwig and the Angry Inch',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'shybiker'},
-            'dateCreated': '2003-04-19',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0248845/'},
-            'name': 'Unexpected Delight!',
-            'reviewBody': 'This film is, first and foremost, funny. Hilarious, '
-                          'in fact. Hedwig, the lead character, spews some '
-                          'fabulous one-liners ("One day in the late '
-                          'mid-80\'s, I was in my early late-20\'s;" "How did '
-                          'some slip of a girly-boy from communist East Berlin '
-                          'become the internationally-ignored song-stylist '
-                          'barely standing in front of you?"). And watching '
-                          'Midwesterners react to Hedwig had me laughing out '
-                          "loud. The movie's second and equally important "
-                          'feature is the music -- clever, tuneful songs '
-                          'ranging across the spectrum from hard-rock to '
-                          'country ballads. The best is "Origins of Love", a '
-                          'song spun from a writing by Plato (true!) and '
-                          'illustrated with apt animation. Finally, this film '
-                          'has a message, urging acceptance of our inner '
-                          "selves. You can't ask for more than this! "
-                          '"Hedwig..." delivers in poignancy, entertainment '
-                          'and punch.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'A transexual punk rock girl from East Berlin '
                             'tours the US with her rock band as she tells her '

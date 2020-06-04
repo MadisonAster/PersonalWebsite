@@ -47,53 +47,6 @@
  'keywords': 'microsoft,apple computer,bill gates,business rivalry,software '
              'company',
  'name': 'Pirates of Silicon Valley',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'andyetris'},
-            'dateCreated': '2003-04-02',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0168122/'},
-            'name': 'Awkward But Fascinating',
-            'reviewBody': 'This is an engaging historical-fiction look at the '
-                          'development of the famous computer companies Apple '
-                          'and Microsoft.  The performances are terrific, but '
-                          'the film suffers from trying to handle several main '
-                          'characters and cover a lot of historical events.  '
-                          'It is also unfortunate that there are three main '
-                          'characters all named "Steve."\n'
-                          '\n'
-                          '  The story is told from the perspective of Steve '
-                          'Wozniak (Joey Slotnik), who is portrayed as a '
-                          "gentle head and caring foil to Noah Wyle's "
-                          'brilliant but cruel portrayal of Steve Jobs, '
-                          "Wozniak's Apple co-founder.  Anthony Michael Hall "
-                          'obviously has a wonderful time playing the weaselly '
-                          'Bill Gates.\n'
-                          '\n'
-                          '  The title is a pun referencing both the '
-                          'buccaneering style Jobs celebrated at Apple, and '
-                          "the idea of unethically 'pirating' the computer "
-                          "developments of other engineers.  The film's main "
-                          'point is that both Apple and Microsoft gained their '
-                          'key functionality, the image-based screen display '
-                          "of a computer system (GUI) and the 'mouse' pointing "
-                          "device, by 'pirating' the ideas. Apple swipes them "
-                          'from Xerox, then Microsoft swipes them from Apple.\n'
-                          '\n'
-                          '  This is a personality study and not a technical '
-                          'review, and while that may make it more accessible '
-                          "the film doesn't make it entirely clear why Jobs "
-                          'provides so much access to Gates and his crew '
-                          '(presumably Gates is supposedly modifying his '
-                          'computer language, BASIC, to work on the Apple?)\n'
-                          '\n'
-                          "  I'd have to know a lot more about Wozniak, Jobs, "
-                          'and Gates before judging them from this film, which '
-                          'is especially hard on Jobs.  Wyle portrays him as a '
-                          'selfish and arrogant adolescent, exploiting and '
-                          'manipulating friends and subordinates.  Altogether '
-                          'the film is worth watching, but bittersweet and '
-                          'possibly slanted.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from TBS',
              'embedUrl': '/video/imdb/vi1521418521',

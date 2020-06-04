@@ -54,36 +54,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg',
  'keywords': 'dc comics,joker,psychopath,clown,criminal mastermind',
  'name': 'The Dark Knight',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'littlemartinarocena'},
-            'dateCreated': '2008-07-24',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0468569/'},
-            'name': 'A Batman Of Shakesperean Proportions',
-            'reviewBody': 'Dark, yes, complex, ambitious. Christopher Nolan '
-                          'and his co-writer Jonathan Nolan deserve a standing '
-                          "ovation. I don't usually go for loud movies filled "
-                          'with mindless gore and violence. "The Dark Knight" '
-                          "is certainly loud and violent but it's not "
-                          'mindless. It has depth and soul. Even the Joker, in '
-                          'an extraordinary creation by Heath Ledger, is '
-                          'deeply human. The natural petulance of Christian '
-                          'Bale makes his ego and alter ego the most '
-                          'fascinating and complex of all film superheroes. '
-                          'Part of the genius of this movie is that Batman '
-                          'himself, in screen time, is not really the lead. My '
-                          'attention was captivated by Heath Ledger and he '
-                          'determines and inspires the breathtaking atmosphere '
-                          'that envelopes Gotham as well as us. The aplomb of '
-                          'Christopher Nolan as a director is mind blowing and '
-                          'his secret, I believe, is his obvious respect for '
-                          "his audience. What he's done is to elevate a "
-                          'popular genre into Shakesperean proportions. Bravo!',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for Blu-ray/DVD release of most recent '
                             'Batman installment',

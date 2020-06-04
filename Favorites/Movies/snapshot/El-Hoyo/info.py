@@ -56,20 +56,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BOTMyYTIyM2MtNjQ2ZC00MWFkLThhYjQtMjhjMGZiMjgwYjM2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
  'keywords': 'hunger,prison,floor,cannibalism,inmate',
  'name': 'El hoyo',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'pesaresigiovanni'},
-            'dateCreated': '2020-03-22',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt8228288/'},
-            'name': 'Great idea, good movie',
-            'reviewBody': 'The idea behind the plot is interesting and the '
-                          'movie is effective and powerful but the end left me '
-                          'a bit confused and disappointed.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Inside a vertical prison system, inmates are '
                             'assigned to a level and forced to ration food '

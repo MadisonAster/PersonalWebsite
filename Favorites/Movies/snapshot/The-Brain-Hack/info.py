@@ -34,28 +34,4 @@
  'keywords': 'low budget short,surrealism,paranoid '
              'schizophrenia,conspiracy,numeric code',
  'name': 'The Brain Hack',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'deloudelouvain'},
-            'dateCreated': '2019-02-13',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt3704676/'},
-            'name': 'Too short and unfinished.',
-            'reviewBody': 'The major problem with The Brain Hack is the '
-                          'duration of the movie. Twenty minutes is just not '
-                          'enough to bring a story like this one. The idea '
-                          'though is good. I can see a longer movie being '
-                          'interesting with this story, but now it just fell '
-                          'undevelopped and unfinished. The acting and '
-                          'cinematography are okay as well is the story. It '
-                          'could be a good sci-fi thriller movie with the '
-                          'right funds and actors. The idea is there, it just '
-                          'needs the right people and more money to finish '
-                          "this story. Did I see God in the end? No I didn't, "
-                          'like nobody else ever did unless they are liars or '
-                          'schizophrenics.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '5',
-                             'worstRating': '1'}},
  'url': '/title/tt3704676/'}

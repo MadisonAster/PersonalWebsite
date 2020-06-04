@@ -54,38 +54,6 @@
  'keywords': 'criminal,child,man wears a hospital gown,man wears '
              'eyeglasses,crying man',
  'name': 'Matchstick Men',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'kieran-wright'},
-            'dateCreated': '2009-07-09',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0325805/'},
-            'name': "Good vehicle for Cage's acting ability",
-            'reviewBody': 'After recently having the pleasure(?) of viewing '
-                          "one of Cage's latest offerings - 'Bangkok "
-                          "Dangerous', - I approached this one with a sense of "
-                          'confidence, as it already has such a great '
-                          'reputation. Ridley Scott - the renowned director of '
-                          'Bladerunner - has made a film of quite a different '
-                          'genre, so a real departure from his usual stuff, '
-                          'but I have to say he has come in with what I felt '
-                          'to be a very watchable film with some pretty '
-                          'complex characters thrown in. Nic Cage gets to '
-                          'display a good range of his acting skills. He '
-                          'really is the master of the facial tic as anyone '
-                          'thinking back to some of his earlier films (such as '
-                          "Vampyr's Kiss') will recall. To those who scoff at "
-                          'his recent choice of projects e.g. G-Force, just '
-                          'remember, he is an actor. You take the work while '
-                          'you can. Anyway, to summarise, for me, above all, '
-                          'this film was refreshing as all of the actors '
-                          'acquitted themselves really well. A polished piece '
-                          'of cinematography that I will definitely enjoy '
-                          'viewing again.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'hv-post',
              'embedUrl': '/video/imdb/vi3415539993',

@@ -49,29 +49,6 @@
  'keywords': 'short skirt with heels,poker,lawyer,playing cards,female '
              'protagonist',
  'name': "Molly's Game",
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'paulcheus'},
-            'dateCreated': '2018-01-28',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt4209788/'},
-            'name': 'It kept me fused ass to chair, eyes to screen for the '
-                    'entire duration!',
-            'reviewBody': 'Saw the movie last night, one of the best movies '
-                          '(if not THE BEST) I seen for some time now. All the '
-                          'characters are razor sharp, the entire dialog '
-                          'pierces your brain like an ice pick, great humor, '
-                          'great sarcasm, snappy lines, you feel like you need '
-                          'more and more during the movie (gets you addicted '
-                          'like a bad habit). One of the best discussions in '
-                          'cinema history (the therapy scene). Go see it in '
-                          'cinema, the crowd effect amplifies the emotions. My '
-                          'mark for this is 8/10 , 10/10 been an absolute '
-                          'masterpiece made every hundred years or so :))',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Aaron Sorkin annotates the theatrical trailer for '
                             "'Molly's Game' to give you more insight to his "

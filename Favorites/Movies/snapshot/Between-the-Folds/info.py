@@ -41,26 +41,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTM5MzYxNzg0MV5BMl5BanBnXkFtZTcwNzAwMjM5MQ@@._V1_.jpg',
  'keywords': 'scientist,paper,origami,art,artist',
  'name': 'Between the Folds',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ThingyBlahBlah3'},
-            'dateCreated': '2011-10-24',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1253565/'},
-            'name': 'fascinating stuff, with one flaw',
-            'reviewBody': 'The documentary itself is very interesting. The '
-                          'interview subjects are fascinating and the work '
-                          "they do is amazing. You'll never look at a plain "
-                          'piece of paper the same way. My inner nerd was '
-                          'particularly interested in the math and engineering '
-                          "aspects of paper-folding, and it's always nice to "
-                          'be reminded that the great artists do their best '
-                          "work when they're working under restrictions.\n"
-                          '\n'
-                          'Alas, director Vanessa Gould inexplicably chose to '
-                          'narrate this herself, and her voice-over work is so '
-                          'annoying and affected that it just about submarines '
-                          'the whole thing. I had to watch it in small doses, '
-                          "even though it's only 50 minutes long. A good VO "
-                          'performer would have made all the difference.'},
  'url': '/title/tt1253565/'}

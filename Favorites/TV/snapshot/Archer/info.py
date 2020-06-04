@@ -37,31 +37,6 @@
  'keywords': 'spy,espionage,domineering mother,retro style secret '
              'agent,fictional spy agency',
  'name': 'Archer',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Marinerman1979'},
-            'dateCreated': '2010-02-09',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1486217/'},
-            'name': 'What an absolute treat.',
-            'reviewBody': 'This show caught me off guard. I dismissed it '
-                          'without giving it a chance at first, but then went '
-                          'ahead and watched it on demand. I am sure glad that '
-                          'I did. Archer is an over the top raunchy fest based '
-                          'on the doings of a supposed spy firm. You have '
-                          'Sterling, an insecure guy who thinks very little, '
-                          'does very many, and says just enough to keep us '
-                          'laughing...mainly because he is so stupid. You have '
-                          'Malory, an unhappy boss who loves an enemy, hates '
-                          "being Sterling's mom at times, and has shown more "
-                          'than once to be off her rocker. You then have '
-                          "Lana(L-a-n-a), Sterling's Ex who isn't over "
-                          'Sterling. She is also a no nonsense, ass whipping '
-                          'babe. This show nails it. I highly recommend it.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Brace for the thrust. Watch the official trailer '
                             'for "Archer: 1999," which premieres Wednesday, '

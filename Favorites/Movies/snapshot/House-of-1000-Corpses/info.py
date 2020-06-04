@@ -40,32 +40,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNjUyNjU0NDE0OV5BMl5BanBnXkFtZTYwNzcwMzg3._V1_.jpg',
  'keywords': 'depravity,masked man,giant,clown face,dark comedy',
  'name': 'House of 1000 Corpses',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'apone'},
-            'dateCreated': '2003-04-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0251736/'},
-            'name': 'House of 1000 cliches...',
-            'reviewBody': 'Any 15 year old who REALLY likes horror/slasher '
-                          'movies with a tiny bit of visual talent could have '
-                          'made this film. A HUGE disappointment. As for '
-                          'people who think its a cool "throwback"...to be a '
-                          'cool throwback you have to add something '
-                          'interesting or comment on the movies that came '
-                          'before in SOME way to be a cool throwback. This is '
-                          "a waste of even a fan's time. Nothing new, nothing "
-                          'compelling and it is soooo PUSHED. You can see '
-                          'Zombie in his bedroom as a 13 year old writing the '
-                          'screenplay, wringing his hands sayin\' "Yeah, a '
-                          'REALLY hot woman stabbing a girl in a bunny suit, '
-                          "reciting some rhyme noone's heard of ABOUT a rabbit "
-                          'and then...then...THEN she LICKS the blood off the '
-                          'knife! Now THAT is HOT!" It is very clear that this '
-                          "movie didn't have trouble finding a distributor "
-                          "because it was too gory or unnerving it's just a "
-                          "bad, bad movie. Lion's Gate must be in some serious "
-                          'trouble. Someone please burn the negative.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer',
              'embedUrl': '/video/imdb/vi284426521',

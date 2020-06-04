@@ -42,30 +42,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BYTFkM2ViMmQtZmI5NS00MjQ2LWEyN2EtMTI1ZmNlZDU3MTZjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg',
  'keywords': 'virus,military,london england,zombie apocalypse,laboratory',
  'name': '28 Days Later...',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'movie_person'},
-            'dateCreated': '2005-03-12',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0289043/'},
-            'name': '28 Days Later',
-            'reviewBody': 'This, I have to say, was one of the better '
-                          'viral-zombie films I have seen. The plot was highly '
-                          'un-original, but extremely well made. The acting '
-                          'was powerfully preformed, the filming having many '
-                          '"diagonally tilted camera view" scenes, giving off '
-                          'more suspense, without the reliance on the overly '
-                          'used "scary music". Also, the addition of the '
-                          'alternate ending gave a strong closing to the film. '
-                          'This is the kind of movie that you end up feeling '
-                          'physically drained after seeing your first time. It '
-                          'will suck you in until the end, every time. I '
-                          'seriously recommend seeing this if you enjoy zombie '
-                          'films, you will not be disappointed.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from 20th Century Fox Home '
                             'Entertainment',

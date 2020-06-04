@@ -32,21 +32,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNDQ1MTQ2OTA1M15BMl5BanBnXkFtZTcwNDIxNzcyMQ@@._V1_.jpg',
  'keywords': 'driving,car,drift racing,based on comic book,teenage boy',
  'name': 'Initial D: First Stage',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'aditbiju'},
-            'dateCreated': '2019-05-05',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0385426/'},
-            'name': 'Just like the Fast and the Furious',
-            'reviewBody': "It's feels just like the Fast and the Furious "
-                          "movies, it's an Anime Fast and the Furious, and "
-                          'Initial D compared to the Fast and the Furious, '
-                          "it's fun for All Ages.",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for Initial D: Fourth Stage - Part 1',
              'embedUrl': '/video/imdb/vi1827642905',

@@ -44,31 +44,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTk2NjQwMjM3M15BMl5BanBnXkFtZTgwOTMwMzA2MDE@._V1_.jpg',
  'keywords': 'fast food,obesity,food',
  'name': 'Fat Head',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'RT Firefly'},
-            'dateCreated': '2016-09-09',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1333994/'},
-            'name': 'If you can suffer through the bad attempts at comedy, '
-                    'this film is otherwise excellent.',
-            'reviewBody': 'A fantastic documentary with some real eye opening '
-                          'material, but the bad comedy, ug. Tom, leave the '
-                          'comedy to the pros. It would have been a much more '
-                          'enjoyable viewing/learning experience had it just '
-                          'been straight forward the entire way through. A '
-                          'must watch for excellent information on nutrition '
-                          'and how easily government and other fields can go '
-                          'astray. \n'
-                          '\n'
-                          'This film came out in 2009 and the information in '
-                          'it did not hit the mainstream until around 2014 or '
-                          'so. In my observations there is no other field in '
-                          'the world as fraught with misinformation as '
-                          'nutrition. Most people just seem to make things up '
-                          'and/or adopt ideas that suit their image. Very '
-                          'little is understood about nutrition, but this '
-                          'movie takes a very scientific and un-opinionated '
-                          'approach. I appreciated that, a rare trait in a '
-                          'documentary now days.'},
  'url': '/title/tt1333994/'}

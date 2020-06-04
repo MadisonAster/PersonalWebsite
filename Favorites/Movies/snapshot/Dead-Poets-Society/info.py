@@ -44,27 +44,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg',
  'keywords': 'english teacher,professor,education,suicide,poet',
  'name': 'Dead Poets Society',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'pompaj'},
-            'dateCreated': '2000-07-17',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0097165/'},
-            'name': 'A terrific film',
-            'reviewBody': "There's so much good about this movie. The first "
-                          'time I saw it I watched it solely for plot and I '
-                          "loved it. Now I've seen it again and watched Peter "
-                          "Weir's filming and timing which is also great. "
-                          "Robin Williams is a terrific actor when he's "
-                          'serious. He proved it in Good Will Hunting but he '
-                          'proved it first here. If you liked that movie and '
-                          'your liking it had something to do with Williams '
-                          'than you will like this one. The plot is about a '
-                          'number of students who are taught by Williams about '
-                          'life. They are taught how to enjoy themselves. This '
-                          'ends up causing great controversy among the heads '
-                          'of the school. The students are terrific and even '
-                          "the dialogue is great. This is a movie that I can't "
-                          'imagine anyone not liking. It is good in every '
-                          'way.'},
  'url': '/title/tt0097165/'}

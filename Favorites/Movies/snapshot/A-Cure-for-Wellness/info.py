@@ -48,34 +48,6 @@
  'keywords': 'father daughter love,spread eagle,deflowering,capitalism,leg '
              'spreading',
  'name': 'A Cure for Wellness',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jzathajenious'},
-            'dateCreated': '2017-06-05',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt4731136/'},
-            'name': 'Visually gorgeous, but a lazy screenplay holds it back '
-                    'from greatness.',
-            'reviewBody': 'Gore Verbinski has created a visually splendid '
-                          'thriller/horror film, which creates a wonderfully '
-                          'foreboding atmosphere. However, what could have '
-                          'been a great film is marred by a convoluted '
-                          'screenplay that falls to pieces in its final act, '
-                          'and is riddled with plot holes. I waited patiently '
-                          'for all the pieces of the puzzle to fall into place '
-                          '(and with the running time approaching 2 and a half '
-                          "hours, it's quite a wait), yet ultimately I was "
-                          'left somewhat confused and underwhelmed by how it '
-                          'all played out. \n'
-                          '\n'
-                          'I still recommend it for the wonderful '
-                          'cinematography and chilling atmosphere. But with '
-                          'some liberal editing and a tighter screenplay we '
-                          'could have had a real classic on our hands. Shame.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '6',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "Watch the Super Bowl Spot for 'A Cure for "
                             "Wellness.'",

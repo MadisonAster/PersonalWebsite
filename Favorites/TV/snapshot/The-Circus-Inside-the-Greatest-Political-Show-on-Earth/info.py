@@ -34,27 +34,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTRlYmI5NTUtNDYzNS00NjY3LWE4NTUtMThhNDE1NWM2YzkxXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg',
  'keywords': 'politics',
  'name': 'The Circus: Inside the Greatest Political Show on Earth',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'he88'},
-            'dateCreated': '2019-04-01',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt5351176/'},
-            'name': 'The Non-Spin Machine',
-            'reviewBody': 'I really get a kick how those who get all their '
-                          '"Facts" from the Right Wing Spin Machine completely '
-                          "freak when they see reality. No! You won't find the "
-                          'fox spin here that supports everything the right '
-                          'does as though directed by god. Now if they stopped '
-                          'with their indignation long enough to actually pay '
-                          "attention...They'd see that the left isn't treated "
-                          'any easier, but then when you have a clown at the '
-                          'head of the right....Of course a show named "The '
-                          'Circus" will spend more time there...',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The Circus: Inside The Greatest Political Show On '
                             'Earth: Season 3',

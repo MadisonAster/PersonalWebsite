@@ -41,51 +41,6 @@
  'keywords': 'female protagonist,apartment building,roommate,teacher,woman '
              'wears eyeglasses',
  'name': 'New Girl',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'mariajoaou27'},
-            'dateCreated': '2013-04-01',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1826940/'},
-            'name': 'Funny, intelligent, amazing.',
-            'reviewBody': "New Girl is the type of series that you won't want "
-                          'to stop watching. IT will certainly put you in a '
-                          "good mood and you'll find yourself laughing while "
-                          'watching it.\n'
-                          '\n'
-                          'The characters are incredibly well-written, each '
-                          'one of them having a back story that is easy to '
-                          "keep up with and very believable. It doesn't take "
-                          "long for us to feel like we're also living in this "
-                          'apartment where Jess moves in after being cheated '
-                          "on by her boyfriend. Soon enough, you'll be feeling "
-                          'like these characters are your friends too and you '
-                          'know them well. Each one of them has their '
-                          'particularities; they all have different '
-                          'personalities and obsessions that make them unique '
-                          'and set them apart from each other.\n'
-                          '\n'
-                          "The fact that there's some plot development "
-                          'throughout the series makes it an interesting show '
-                          'to actually follow and not just watch once in a '
-                          'while. We also see some character development, '
-                          "changes in the characters' personalities that make "
-                          'us either proud or disappointed. \n'
-                          '\n'
-                          "Truth is, there's no chance this show won't leave a "
-                          "mark on you. It's funny, but still intelligent. "
-                          "It's not some dumb show that simply aims at making "
-                          'the viewer laugh. The jokes are not corny and the '
-                          'events are not random. This is one comedy show like '
-                          'no other: The characters are not stereotyped, and '
-                          'the storyline is not typical and easily '
-                          'foreseeable. \n'
-                          '\n'
-                          "Give this show a chance. You won't regret it.",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi1436923417',
              'name': "Season 6 New Girl--What's New",

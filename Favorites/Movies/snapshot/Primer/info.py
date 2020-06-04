@@ -42,41 +42,4 @@
  'keywords': 'changing the future,time travel,nonlinear '
              'timeline,invention,independent film',
  'name': 'Primer',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'wervyn'},
-            'dateCreated': '2005-08-16',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0390384/'},
-            'name': "For those who don't want movies to do their thinking for "
-                    'them.',
-            'reviewBody': 'An extremely intriguing and initially confusing '
-                          'tale of causality and human failings, Primer made '
-                          'me think of a much more technically minded Donnie '
-                          'Darko--and the temporal contortions are about ten '
-                          'times more complicated. This movie is obviously not '
-                          'for the casual viewer who sees movies as a strictly '
-                          'one-way experience. Primer requires a willingness '
-                          'to engage it as it conveys a carefully constructed '
-                          'puzzle of events that are not necessarily '
-                          'chronological. And it requires the audience to make '
-                          'the necessary leaps of intuition and deduction to '
-                          "put that puzzle together. It probably doesn't help "
-                          'that the language and tone of the movie is '
-                          'extremely technical, filmed and directed to capture '
-                          'the true-to-life mannerisms and speech of two '
-                          'college physics graduate students. But if you can '
-                          'grasp the premise presented in the introduction, '
-                          'you should be able to follow the movie up until the '
-                          'point where it leaves you in the dust near the end, '
-                          'wondering, as Abe, "How?". You realize that what '
-                          'you have seen is significant, but the full scope of '
-                          'it eludes you. And that makes the subsequent '
-                          're-watching and investigation and ultimate '
-                          'realization of the true nature of the puzzle all '
-                          'the more rewarding.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'url': '/title/tt0390384/'}

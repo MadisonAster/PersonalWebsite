@@ -39,35 +39,4 @@
  'keywords': 'beer,beer bottle,refrigeration,reference to louis '
              'pasteur,medical history',
  'name': 'How Beer Saved the World',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'gavin6942'},
-            'dateCreated': '2012-02-19',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1832368/'},
-            'name': 'Very Educational And Entertaining',
-            'reviewBody': 'This show traces the important role that beer has '
-                          'played in human history from the probable origins '
-                          'of the first beer at the dawn of history to the '
-                          'development of a special beer for use in zero '
-                          'gravity space missions.\n'
-                          '\n'
-                          'I suspect some of the claims made in this show '
-                          'exaggerate the importance of beer. Was barley made '
-                          'exclusively for beer and not for bread? I do not '
-                          'know, but it seems a bit odd. Even the theory of '
-                          'how beer was accidentally discovered relies heavily '
-                          'on speculation.\n'
-                          '\n'
-                          'But overall, it is pretty decent with real experts '
-                          "explaining things about beer's history that are not "
-                          'well known. Did it "save" the world? I do not know. '
-                          'I mean, sure, beer was safer to drink than '
-                          'bacteria-filled water... but clearly other '
-                          'societies thrived besides the Europeans. The world '
-                          'was not "saved".',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'url': '/title/tt1832368/'}

@@ -40,26 +40,4 @@
  'genre': ['Documentary', 'Short'],
  'image': 'https://m.media-amazon.com/images/M/MV5BOWJiMGU2YTEtMjQ5Zi00MTdlLTkxODgtNmM0ODhiODQwNWUzXkEyXkFqcGdeQXVyMTc2MzUwMjQ@._V1_.jpg',
  'name': 'Fire in Paradise',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'gabethurau'},
-            'dateCreated': '2019-11-03',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt11127056/'},
-            'name': 'Timely documentary',
-            'reviewBody': 'The recent fire in California and subsequent '
-                          'blackout is another scary reminder that we cannot '
-                          'grow jaded about the increasingly destructive '
-                          'consequences of climate change.\n'
-                          '\n'
-                          'This short was effective, timely, and just an '
-                          'overall terrifying presentation of what those poor '
-                          'people went through during the Camp Fire. Mad '
-                          'respect to all the fire fighters, first responders, '
-                          'and even the researchers and scientists out there '
-                          'trying to sort this mess out.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
  'url': '/title/tt11127056/'}

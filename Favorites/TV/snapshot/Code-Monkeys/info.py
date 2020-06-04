@@ -35,49 +35,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTM4NTU3ODY2M15BMl5BanBnXkFtZTcwODUzMTE4MQ@@._V1_.jpg',
  'keywords': 'game',
  'name': 'Code Monkeys',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'portnoys_disciple'},
-            'dateCreated': '2008-03-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1068683/'},
-            'name': 'Insert Credit (0/2)',
-            'reviewBody': "Alright, so I'm a kid of the 90s. I grew up on NES "
-                          'and SNES games, and the old 8-bit and 16-bit '
-                          'technology is just nostalgia to me. I loved it, and '
-                          "still do. Now that I'm in my upper teens, I am able "
-                          'to enjoy everything this show has to offer, and not '
-                          'just the appearance...although the appearance in '
-                          'and of itself is extremely enjoyable as well.\n'
-                          '\n'
-                          'The show rules, man. Inventive characters and good '
-                          'voice acting combined with out-of-the-park hilarity '
-                          'and a plethora of references to early gaming makes '
-                          'this show one of the absolute funniest I have ever '
-                          "seen. It's something that you don't have to be "
-                          'extremely in-tune with the gaming community to '
-                          'enjoy, and yet being part of it makes the show all '
-                          'the more enjoyable.\n'
-                          '\n'
-                          'Some people may not like it because of its odd and '
-                          'sometimes inappropriate humor, some may not like it '
-                          'because it reminds them of that one level that they '
-                          "just couldn't beat when they were an acne-infested "
-                          'junior in high school, dropping quarter after '
-                          'quarter into that dang machine to no avail. And '
-                          "some may not like it because they simply can't be "
-                          'pleased.\n'
-                          '\n'
-                          'Thankfully, I am not one of those people. This show '
-                          'gets a 10/10 for me. I certainly hope that they '
-                          'continue with the show and make more seasons of the '
-                          'fine, fine product that is Code Monkeys.\n'
-                          '\n'
-                          '*GAME OVER*',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Code Monkeys: Season One',
              'embedUrl': '/video/imdb/vi3296902425',

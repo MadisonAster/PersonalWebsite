@@ -41,45 +41,6 @@
  'keywords': 'murder investigation,eczema,muslim,rikers island new york '
              'city,based on british tv series',
  'name': 'The Night Of',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'lvilardo-551-49220'},
-            'dateCreated': '2016-07-07',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2401256/'},
-            'name': "It's not the story; it's the telling",
-            'reviewBody': 'What struck me after watching the first episode of '
-                          '"The Night Of" is that this is a story that has '
-                          'been told on countless iterations of "Law and '
-                          'Order". The difference is the luxury of not having '
-                          'to tell it in 40 minutes and the bringing to bear '
-                          "of HBO's prodigious production values combined with "
-                          'a first-rate cast of mostly little-known actors. \n'
-                          '\n'
-                          "The portrayal of the police is unlike anything I've "
-                          'seen before: annoyance about working past the end '
-                          'of a shift, the passing of the buck so someone else '
-                          'gets a case that will doubtless go into the wee '
-                          'hours of the morning, the careless handling of '
-                          'evidence due to available manpower. Here the police '
-                          "are neither heroes nor villains, rather they're "
-                          'just working men and women doing a job. \n'
-                          '\n'
-                          'The atmosphere of the precinct house in the middle '
-                          'of the night is palpable as is the overwhelming '
-                          'sense of helplessness felt by the naive lead '
-                          'character as his night goes from bad to worse. John '
-                          "Torturro's portrayal of a low rent defense attorney "
-                          'who stumbles onto a case much bigger than he '
-                          'imagined holds great promise for future episodes. \n'
-                          '\n'
-                          "As I said at the beginning, it's hardly a story "
-                          "we've not seen before but we've never seen it told "
-                          'this well. I look forward to watching it develop.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'After a night of partying with a female stranger, '
                             'a man wakes up to find her stabbed to death and '

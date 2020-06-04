@@ -42,23 +42,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNWFkMDY1MjItZmNkOS00MDg2LWFlMjMtZWU3YmM0MmY3MWM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
  'keywords': 'working class,blue collar,factory worker,culture clash',
  'name': 'American Factory',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'eduardo-uchoa'},
-            'dateCreated': '2020-02-27',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt9351980/'},
-            'name': 'Some hypocrisy?',
-            'reviewBody': 'The United States has spent more than 100 years '
-                          'opening factories around the world to exploit cheap '
-                          'labor. In particular, in China. When the Chinese '
-                          'open a single factory in the United States paying '
-                          'more than the minimum wage set by the Americans '
-                          'themselves, they are the great explorers!',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '6',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'In post-industrial Ohio, a Chinese billionaire '
                             'opens a new factory in the husk of an abandoned '

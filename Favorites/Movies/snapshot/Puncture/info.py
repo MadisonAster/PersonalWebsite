@@ -52,42 +52,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTYzODIxNjAxNV5BMl5BanBnXkFtZTcwOTcxNzQzNg@@._V1_.jpg',
  'keywords': 'based on real people,based on real person,man,lawyer,needle',
  'name': 'Puncture',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'valleyjohn'},
-            'dateCreated': '2011-11-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1582248/'},
-            'name': 'A courtroom drama with no courtroom and no drama.',
-            'reviewBody': 'Described by Sky Movies as a thrilling courtroom '
-                          'drama , all i can think is that person who does the '
-                          "film descriptions for Sky ,can't have watched this "
-                          'film. Puncture has everything going for it. It has '
-                          'a Good cast and potentially a good story but '
-                          'directors Adam and Mark Kassen have made a real '
-                          'pigs ear of this one.\n'
-                          '\n'
-                          'This is the story of Mike Weiss , a talented lawyer '
-                          ', who with his partner , chose to take on the might '
-                          'of the drug companies and hospital administrators '
-                          'to get them to use a syringe that will save '
-                          'thousands of lives. The trouble is , Mike Weiss is '
-                          'partial to using needles himself as he has a bad '
-                          'drug habit.\n'
-                          '\n'
-                          'The Mistake they made with this film is they '
-                          'concentrated too much on Weiss and not enough on '
-                          'the battle with pharmaceutical companies. The film '
-                          'builds up the story to the point of an exciting '
-                          'court case then It just ends Finish,. No court case '
-                          '.Just a lazy bit of on screen information at the '
-                          "end describing what happened. It's as if the money "
-                          'ran out and the directors and cast just walked '
-                          'away.\n'
-                          '\n'
-                          "Puncture is a big disappointment and it's no "
-                          'surprise this was tucked away on a movie channel '
-                          'and not on the cinema.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'A David and Goliath law drama about a '
                             'drug-addicted lawyer who takes on a health supply '

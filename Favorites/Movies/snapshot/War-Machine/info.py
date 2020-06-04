@@ -44,61 +44,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTcyMzgwNDE1M15BMl5BanBnXkFtZTgwMDAzMDM0MjI@._V1_.jpg',
  'keywords': 'afghanistan,satire,counter insurgency,foreign affairs,soldier',
  'name': 'War Machine',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'SnoopyStyle'},
-            'dateCreated': '2017-05-27',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt4758646/'},
-            'name': 'ups and downs',
-            'reviewBody': 'Gen. Glen McMahon (Brad Pitt) is no non-sense '
-                          'soldier. He lives a Spartan life often away from '
-                          'his family. He and his team such as the always '
-                          'shouting Greg Pulver (Anthony Michael Hall) are '
-                          'called in to cleanup the Afganistan quagmire. He is '
-                          'told to push the needle and not request for more '
-                          'troops. Instead, he is driven to win and sees his '
-                          'way where everyone else has failed. He uses any '
-                          'means to get his way while not getting his meeting '
-                          'with Obama. He finds President Karzai (Ben '
-                          'Kingsley), an isolated corrupt leader. Media '
-                          'consultant Matt Little (Topher Grace) suggests '
-                          'getting him an article in Rolling Stones.\n'
-                          '\n'
-                          'This dark comedy is too real to be funny. If '
-                          'Strangelove actually happened, the absurd movie '
-                          'would be less fun. One is always reminded that real '
-                          'people died here and there because the character of '
-                          'McMahon is based on a real person. While there are '
-                          'interesting bits, the general sense of this movie '
-                          'is one of tired resignation.\n'
-                          '\n'
-                          "I don't know if it's the Rolling Stones reporter "
-                          "but I'm reminded of Almost Famous. In that movie, "
-                          "the reporter is the protagonist and he's the eyes "
-                          'with which the audience sees the story. The rock '
-                          'star is a subject who is slowly revealed. In this '
-                          'movie, we are given only the narration of reporter '
-                          'Sean Cullen for the most part. He shows up for a '
-                          'limited role later in the movie. McMahon is the '
-                          "protagonist and we're stuck with him for good and "
-                          'for ill.\n'
-                          '\n'
-                          'Of all the characters, the most compelling is the '
-                          "'confused' Marine Cpl. Billy Cole. His first scene "
-                          'with McMahon is devastating. His face is haunting. '
-                          'What he says resonates more than any other '
-                          'character. In the end, he is a minor character. His '
-                          'other scene is another compelling sequence as his '
-                          'squad goes into a hostile town. Again he is more '
-                          'compelling than anyone else and it is emotionally '
-                          'draining. This movie could have been great but '
-                          "McMahon can't be the protagonist. He is an absurd "
-                          'side character like Karzai in this movie.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '6',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'An absurdist war story for our times, '
                             'writer-director David Michod (Animal Kingdom) '

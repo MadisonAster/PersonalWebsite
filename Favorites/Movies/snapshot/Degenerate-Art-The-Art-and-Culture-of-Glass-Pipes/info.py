@@ -22,35 +22,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjAxNjgyMTAyOF5BMl5BanBnXkFtZTgwODUxMTA3NjE@._V1_.jpg',
  'keywords': 'glass pipe,documentarian',
  'name': 'Degenerate Art: The Art and Culture of Glass Pipes',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'snowlife8812'},
-            'dateCreated': '2013-01-22',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2123927/'},
-            'name': 'Very Good!!!',
-            'reviewBody': 'This documentary is a very well put together '
-                          'calibration of the history and evolution of blowing '
-                          'glass pieces. \n'
-                          '\n'
-                          "It's very dynamic and explains how the different "
-                          'techniques and styles evolved. \n'
-                          '\n'
-                          "To me it's a very highly recommended film that will "
-                          'show you some amazing art/bongs. \n'
-                          '\n'
-                          'Art is everything though, right? So bongs/pipes '
-                          'MUST be ART! Have a great 420 and take a nice bong '
-                          'hit for myself, as I will for you!\n'
-                          '\n'
-                          'I would give this movie a definite watch, if not '
-                          'own... So go buy it!\n'
-                          '\n'
-                          'It appeals not only to bud smokers but also to '
-                          'artists! Or glass-makers that want to improve their '
-                          'scope/talent!',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'url': '/title/tt2123927/'}

@@ -49,20 +49,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNzc2MzJmM2ItMjgzYy00MjgxLTljYjctZjJhYzM1ODFhMzU0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg',
  'keywords': 'anthology,seasonal anthology series,courtroom,jury,racism',
  'name': 'American Crime Story',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'onetruejewell1'},
-            'dateCreated': '2018-04-18',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2788432/'},
-            'name': 'Superb writing and acting!',
-            'reviewBody': 'Darren Criss as Andrew Cunanan just Amazing!!! The '
-                          'writing excellent!! The whole cast just '
-                          'mesmerizing! This series continues to surprise me!',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Watch the OFFICIAL TRAILER for The Assassination '
                             'of Gianni Versace: American Crime Story. The next '

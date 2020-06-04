@@ -48,34 +48,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg',
  'keywords': 'mockumentary,sitcom,cringe comedy,office,job',
  'name': 'The Office',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'kellypaul'},
-            'dateCreated': '2011-05-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0386676/'},
-            'name': 'Comparisons',
-            'reviewBody': 'I\'m from Scotland and loved the British "Office". '
-                          'But I adore the American version! Steve Carell '
-                          "leads a great cast and I'm not surprised it has "
-                          "lasted so long. I'm working my way through Series 3 "
-                          "and have series 4 and 5 to look forward to. It's "
-                          'amazing how much the writers can get into 20 '
-                          'minutes. I like it when there is a double episode. '
-                          'I too am so glad there is no laughter track (which '
-                          'has stopped me watching quite a few comedy shows). '
-                          'I have noticed in this third series that the camera '
-                          'can be very annoying when it whizzes from character '
-                          'to character - far too quickly. Completely '
-                          'unnecessary. Steve\'s "Michael" conveys so much '
-                          "about the character - he's full of himself but so "
-                          "vulnerable and anxious for friends. Rainn Wilson's "
-                          '"Dwight" is just brilliant. And I love the company '
-                          'name - "Dunder Mifflin"!',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for The Office: The Complete Series',
              'embedUrl': '/video/imdb/vi2686888217',

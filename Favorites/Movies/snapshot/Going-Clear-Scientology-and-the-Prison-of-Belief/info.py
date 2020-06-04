@@ -46,35 +46,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BZjYxYTA0MWQtYWViYi00YmRhLWEzNzctMDkwMGQ5ODFmM2FjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg',
  'keywords': 'dianetics,scientology,based on book,year 2013,e meter',
  'name': 'Going Clear: Scientology & the Prison of Belief',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'cgallo'},
-            'dateCreated': '2015-03-30',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt4257858/'},
-            'name': 'Effective, Gripping Interviews',
-            'reviewBody': 'I was involved with Scientology from 1978-1990 and '
-                          'encountered some of the human rights abuses that '
-                          'Alex Gibney exposed in his documentary. The Sea Org '
-                          'people, who sign Billion Year contracts, bore the '
-                          'brunt of the mistreatment and are well represented '
-                          'in this film. Most former members will know of '
-                          'details that were not included in the show, but the '
-                          'topics that became the focus received a more '
-                          'complete treatment as a result.\n'
-                          '\n'
-                          'The humanity of these survivors shown through in '
-                          'each interview and should evoke empathy in anyone '
-                          'willing to accept the truth in the story. I never '
-                          'felt that someone was embellishing or seeking '
-                          'attention; in fact, quite the opposite.\n'
-                          '\n'
-                          'A huge thank you to HBO for having the guts to air '
-                          'this and not back down.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "A documentary based on Lawrence Wright's book of "
                             'the same name. Scientology is laid bare by a film '

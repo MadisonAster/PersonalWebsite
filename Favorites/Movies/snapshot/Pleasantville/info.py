@@ -40,28 +40,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BYTRlYzk4NDktODE3Ni00YjFkLWFjYmUtNjg1MzdmYmFmOTJkXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg',
  'keywords': '1950s,trapped in tv,censorship,symbolism,rebellion',
  'name': 'Pleasantville',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'socratesadamo'},
-            'dateCreated': '2019-01-13',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0120789/'},
-            'name': 'Anyone Remember this One?',
-            'reviewBody': 'This is an old film from my childhood. It is about '
-                          'a boy who magically travels into the wonderful '
-                          'world of his favorite black and white TV show. '
-                          'There is plenty of fun to be had here and even a '
-                          'fun later performance from the late Don Knotts, '
-                          'co-star of one of MY favorite black and white TV '
-                          'show.\n'
-                          '\n'
-                          "Overall it's a good classic from the nineties, "
-                          'although sadly it seems to be mostly forgotten by '
-                          'now. Recommend.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer',
              'embedUrl': '/video/imdb/vi2979791129',

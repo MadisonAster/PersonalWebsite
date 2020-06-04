@@ -29,19 +29,4 @@
  'genre': 'Animation',
  'image': 'https://m.media-amazon.com/images/M/MV5BMWVmOWFjNmYtYmIzMy00ZTM0LWE2MGMtNDRjMDNmMTY4NzZhXkEyXkFqcGdeQXVyMjIwMTk3OTM@._V1_.jpg',
  'name': 'Party Legends',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'nina-74510'},
-            'dateCreated': '2018-12-08',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt5849156/'},
-            'name': 'An artistic spin on "Drunk History"',
-            'reviewBody': 'I think the only thing that would keep this from '
-                          "being a 10 is that i'm Not a fan of every art style "
-                          "or the story doesn't do it for me. Otherwise, it's "
-                          'a fun, trippy watch.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'url': '/title/tt5849156/'}

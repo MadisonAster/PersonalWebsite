@@ -43,30 +43,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTIzNTE0NjU4N15BMl5BanBnXkFtZTcwNjgyNDcyMQ@@._V1_.jpg',
  'keywords': 'heart surgery,blue baby syndrome,surgery,baby,heart',
  'name': 'Something the Lord Made',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'mdiggy'},
-            'dateCreated': '2004-06-05',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0386792/'},
-            'name': 'film as is should be',
-            'reviewBody': 'As a fan of Mos Def, as soon as i saw the preview '
-                          'for this movie i knew it would be quality stuff. '
-                          'The tempo and feeling of the movie were perfect, no '
-                          'over the top acting or unnecessary scenes. As '
-                          'someone stated earlier, the racial issues of the '
-                          'time were touched on perfectly but not focused on. '
-                          'Mos is a true renaissance man...he makes good '
-                          'music, plays bass guitar, does Broadway, as well as '
-                          'movies. He is slowly approaching superstar status, '
-                          'but is not chasing it as many do. I think this '
-                          'performance will certainly bring this talented '
-                          'performer the recognition he deserves. The sky is '
-                          'the limit for this guy.\n'
-                          '\n'
-                          'As an African-American screenwriter, it dismays me '
-                          'to always see "films" like soul plane and the like '
-                          'represent black film today. There are so many '
-                          'stories to be told, history and themes to be '
-                          'explored. This film made me proud.'},
  'url': '/title/tt0386792/'}

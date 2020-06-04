@@ -46,56 +46,6 @@
  'keywords': 'eyepatch,falling downhill,looking at oneself in a mirror,woman '
              "in a men's room,hollywood",
  'name': 'What Just Happened',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'TBJCSKCNRRQTreviews'},
-            'dateCreated': '2010-11-03',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0486674/'},
-            'name': 'Nothing interesting',
-            'reviewBody': 'A producer(DeNiro) with two ex-wives and families '
-                          'tries to get a British artsy director(Wincott) to '
-                          'change the ending of their most recent film, and '
-                          "Bruce Willis to shave off a beard(he's also gained "
-                          'weight, but no one seems to worry about him losing '
-                          '*that*) before he stars in a movie. The clock is '
-                          "ticking on both, and it's astounding just how "
-                          'little we care. Oh, and yes, that actually is the '
-                          "entire story. It certainly isn't enough for a "
-                          'feature. Maybe this should have been a TV pilot? '
-                          'There are several subplots, one more unresolved and '
-                          "utterly pointless than the next. I haven't read the "
-                          'memoirs that this is based upon. The acting is '
-                          'good, with the possible exception of Tucci(not sure '
-                          "what happened there). We've got real talent, but "
-                          "they can't reanimate the dead material they're "
-                          'given. There is barely anything funny in this at '
-                          'all. The handful of jokes are drawn out endlessly. '
-                          'Granted, Robert talking with Robin and "trying to '
-                          'be understanding" is amusing, and this can make you '
-                          'smile every now and then. On the whole, the '
-                          'punchline is that Hollywood is full of sex with '
-                          'underage girls, drugs and personal problems. '
-                          "Newsflash: We know. And it isn't delivered in any "
-                          'kind of fresh way. Maybe part of the issue is that '
-                          "these are in-jokes... we don't get them. This has "
-                          'been called indulgent and arrogant, and I '
-                          "completely agree. Why make a big flick that won't "
-                          'appeal to anyone not in the business? This is '
-                          "slow-paced and incredibly boring. It's too bad, "
-                          'because the editing and cinematography(with some '
-                          "hand-held camera) aren't bad. This is meant to be a "
-                          "satire... I'd go for S1m0ne over it any day. It's "
-                          "the worst I've seen by Levinson. There is a bunch "
-                          'of strong language, a bit of moderate, bloody '
-                          'violence and disturbing content and brief nudity in '
-                          'this. The DVD comes with a trailer. I recommend '
-                          'this only to the most forgiving of potential '
-                          'viewers. 5/10',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '5',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'This is the trailer for What Just Happened?, '
                             'directed by Barry Levinson.',

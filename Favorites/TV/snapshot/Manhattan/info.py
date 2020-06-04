@@ -39,34 +39,6 @@
  'keywords': '1940s,year 1944,year 1943,manhattan project,los alamos new '
              'mexico',
  'name': 'Manhattan',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'matthewkrussell1111'},
-            'dateCreated': '2014-07-29',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt3231564/'},
-            'name': 'Oppenheimer is no stoner....',
-            'reviewBody': 'I just watched the first episode over on infinity '
-                          'on demand and loved it.\n'
-                          '\n'
-                          'This series looks like it is going to be really '
-                          'good. The "Oppenheimer is a stoner" reviewer must '
-                          'be high himself to write that besides Oppenheimer '
-                          '"Everybody else is engaged in a horrible soap opera '
-                          'of sex, nudity, marital strife, alcoholism etc.." '
-                          'as if that is a bad thing in a drama. Duh! It is a '
-                          'drama after all. If you want historical fact read a '
-                          'book burn-out.\n'
-                          '\n'
-                          'What the series premiere does is introduce us to a '
-                          'dynamic cast and quickly develops interesting '
-                          'characters and plot. It is shot well, acted well, '
-                          'and paced fantastically. Should be a hit for '
-                          'WGN...whatever network that is.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'First look at Season 2 of Manhattan on WGN '
                             'America.',

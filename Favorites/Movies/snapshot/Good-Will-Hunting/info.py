@@ -44,47 +44,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg',
  'keywords': 'professor,genius,friend,mathematical genius,original story',
  'name': 'Good Will Hunting',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'harry-76'},
-            'dateCreated': '2000-06-25',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0119217/'},
-            'name': 'Two Pals Make Good in Hollywood',
-            'reviewBody': 'Matt Damon and Ben Affleck scored quite a success '
-                          'with their interesting and entertaining script.  '
-                          'The introduction and exposition sections are '
-                          'enormously engrossing, after which script peaks and '
-                          'rather coasts along the rest of the way.  Yet, the '
-                          'casting is so well done, and the acting at such '
-                          'good level, that interest is nicely maintained.\n'
-                          '\n'
-                          'What "Hunting" essentially consists of is some two '
-                          'dozen conversational scenes, bridged together with '
-                          'short transitions of physical activity.  What is '
-                          "rather remarkable is that one isn't aware of the "
-                          'dramatic limitations comprising the structure.  '
-                          'This is a real tribute to the cast, director, and '
-                          'of course, the script. While the basic situation is '
-                          'really quite far-fetched, it is made to seem '
-                          'plausible--again, the mark of good, convincing '
-                          'writing.  The story behind getting the script sold '
-                          "and produced on the terms of the writers' "
-                          "preferences is fascinating.  Still, one can't "
-                          'really call it luck, for both Damon and Affleck '
-                          '"paid their dues" -- and success did not just fall '
-                          'into their laps.  These are two talented young men, '
-                          'with perseverance; and how wonderful for them to '
-                          'have achieved such success while still youthful and '
-                          'full of vitality. \n'
-                          '\n'
-                          '"Good Will Hunting" is a good production, with '
-                          'solid craftsmanship in all departments -- thanks to '
-                          'the  creativity of Damon and Affleck.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer',
              'embedUrl': '/video/imdb/vi1575984665',

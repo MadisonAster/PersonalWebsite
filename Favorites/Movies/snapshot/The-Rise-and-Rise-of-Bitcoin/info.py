@@ -49,36 +49,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjE1NTc4OTAzMl5BMl5BanBnXkFtZTcwMjU0ODA0OQ@@._V1_.jpg',
  'keywords': 'computer',
  'name': 'The Rise and Rise of Bitcoin',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'hkinsley-139-670964'},
-            'dateCreated': '2014-10-21',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2821314/'},
-            'name': 'Lacked what I expected, for the best',
-            'reviewBody': 'I expected this movie to be a pump-you-up about the '
-                          'amazing-ness of super technology Bitcoin. Instead, '
-                          'what I got was a very down-to- earth representation '
-                          'of the true grassroots nature of the Bitcoin.\n'
-                          '\n'
-                          'There was actually zero focus on the money you can '
-                          'make by investing, or really any allusions to the '
-                          'fact that you could invest now and get rich. \n'
-                          '\n'
-                          "It wasn't a movie telling you about why Bitcoin is "
-                          'great, they showed you. \n'
-                          '\n'
-                          'Definitely a real "community" feel to the movie, no '
-                          'glamour, just the dirt, really. I liked it a lot. \n'
-                          '\n'
-                          'I really think the title "the Rise and Rise of '
-                          'Bitcoin" is more fitting to the actual '
-                          'infrastructure and community of Bitcoiners, having '
-                          'very little to do with the price.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for The Rise and Rise of Bitcoin',
              'embedUrl': '/video/imdb/vi567258393',

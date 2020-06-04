@@ -38,55 +38,6 @@
  'keywords': 'chinese history,japanese occupation of '
              'china,atrocity,battle,chinese',
  'name': 'Nanjing! Nanjing!',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ma-cortes'},
-            'dateCreated': '2010-04-14',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1124052/'},
-            'name': 'Gripping and intense  film depicting terrible deeds '
-                    'during  Japonese invasion in Nanjing',
-            'reviewBody': 'Big budget WWII epic , it happens when China is '
-                          'invaded by Japan at the onset of war and finds '
-                          'Japanese army surrounding city of Nanjing (1937). '
-                          'After that, at the city take place violations, '
-                          'mutilations, and massacres. Some prisoners are '
-                          'interred in a prison camp but later they are led to '
-                          'fire squad, scaffold and alive burying.\n'
-                          '\n'
-                          'Director deglamorizes war showing true horror and '
-                          "terrible events. It's a staggering evocation of the "
-                          'Chinese Holocausto in Nanjing , as the atrocities '
-                          'are depicted matter of factly as by-product of '
-                          'sheer Japanese evil. The opening twenty minutes '
-                          'graphic depiction the facing off is , on its own, '
-                          'magnificent. The film-maker Chuan Lu is nicknamed '
-                          'the Chinese Steven Spielberg for his spectacular '
-                          'and impressive productions. As the moving beginning '
-                          'results to be as stirring as ¨Saving private Ryan¨ '
-                          ', the developing of the movie regarding invasion '
-                          'China is partially similar to ¨Empire of the sun¨ '
-                          'and suffering of Chinese people bear remarkable '
-                          'resemblance to Jews of ¨Schlindler list¨ .The '
-                          'starring, Nakaizumi, and the rest of the cast are '
-                          'excellent , as the movie is powered by splendid '
-                          'performances in charge of Chinese and Japanese '
-                          'actors who during filming suffered some inevitable '
-                          'discussions. Filmed in perfect black and white by '
-                          'cameraman Cao Yu , reflecting appropriately the '
-                          'grim and rotten environment .Lu Chuan makes a '
-                          'breathtaking work which directs spectacularly with '
-                          'groundbreaking scenes in a heartbreaking '
-                          'context.Chuan dedicated about three years joining '
-                          'information and interviewing experts for that '
-                          'scenes would adequate to reality of events. This '
-                          'masterpiece finally garnered the world attention '
-                          'and respect that the story deserves, winning '
-                          'several prizes in various International Festivals.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A dramatization of the rape of Nanking in 1937.',
              'embedUrl': '/video/imdb/vi3417376537',

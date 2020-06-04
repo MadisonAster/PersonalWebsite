@@ -55,52 +55,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjIyOTg1NzU0Ml5BMl5BanBnXkFtZTcwMjA2OTY5Mw@@._V1_.jpg',
  'keywords': 'cia agent,year 1972,year 1985,year 1982,year 1992',
  'name': 'Fair Game',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'claudio_carvalho'},
-            'dateCreated': '2011-08-07',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0977855/'},
-            'name': 'Lives Destroyed by the Farce about the MDW in Iraq',
-            'reviewBody': 'Valerie Plame Wilson (Naomi Watts) is a woman with '
-                          'double life: she is the wife of the former '
-                          'Ambassador Joe Wilson (Sean Penn) and mother of two '
-                          'children. But she is also and efficient CIA '
-                          'Operations Officer working in the Nonproliferation '
-                          'Center and in charge of several operations.\n'
-                          '\n'
-                          'In 2003, when Bush administration manipulates the '
-                          'information relative to massive destruction weapons '
-                          'to justify the invasion of Iraq, Joe Wilson writes '
-                          'an article in the New York Times criticizing the '
-                          'government and telling that the intelligence '
-                          'research had been manipulated. In reprisal, the '
-                          "government leaks Valerie's identity to discredit "
-                          'Joe, affecting their professional and private lives '
-                          'and almost destroying their marriage.\n'
-                          '\n'
-                          '"Fair Game" is a bold film about the life of '
-                          'Valerie Plame Wilson, who has had her life '
-                          'destroyed by Bush administration in part of the '
-                          'farce about the existence of massive destruction '
-                          'weapons in Iraq to justify the invasion of that '
-                          'nation. But it seems that later the Wilson family '
-                          'wrote two books and won lawsuits against members of '
-                          'the government and they might have resolved their '
-                          'lives at least financially speaking.\n'
-                          '\n'
-                          'The film glances also at the lives of Iraqi '
-                          'scientists that trusted on Valerie and were '
-                          'murdered by the Iraqi secret service, but does not '
-                          'show the fate of the civilian population that had '
-                          'their country bombed and invaded due to a farce. My '
-                          'vote is seven.\n'
-                          '\n'
-                          'Title (Brazil): "Jogos de Poder" ("Power Game")',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'CIA operative Valerie Plame (Watts), who is '
                             'investigating the existence of Weapons of Mass '

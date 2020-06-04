@@ -49,49 +49,6 @@
  'keywords': 'husband wife relationship,crude humor,family '
              'relationships,violence,cult tv',
  'name': 'American Dad!',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'bellino-angelo2014'},
-            'dateCreated': '2018-09-30',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0397306/'},
-            'name': 'Truly one of the best animated sitcoms ever',
-            'reviewBody': "I have to admit that when I was younger I didn't "
-                          'cared for this show that much. Probably because the '
-                          'humour most of the time was more adult-friendly and '
-                          'not for kids. But in these last years I watched '
-                          'lots of episodes and I liked them. And I am proud '
-                          'of having given the show a chance.\n'
-                          '\n'
-                          'At first, it looks very similar to FAMILY GUY (the '
-                          'other great Seth McFarlane TV show), mainly because '
-                          'Stan Smith, although not selfish and loud as Peter '
-                          'Griffin, manages to be the perfect dad. While Roger '
-                          'the alien and Klaus the fish are much more similar '
-                          'to Brian and Stewie. The flashbacks and cultural '
-                          "references are almost absent and the episodes' "
-                          'plots are more non-interrupted than in the other '
-                          'show.\n'
-                          '\n'
-                          'The animation is very good, and the backgrounds are '
-                          'very warm, I mean, even more than the ones from '
-                          'FAMILY GUY. The theme song is the best part of the '
-                          'soundtrack, and no words can describe how much I '
-                          'love it. And the voice cast is good, especially '
-                          'Seth McFarlane as Stan Smith and Roger the alien '
-                          "(my favourite characters), and I find Klaus' German "
-                          'accent very funny.\n'
-                          '\n'
-                          'Overall, a great animated sitcom and I recommend it '
-                          'to everybody, and I am sure that if you love THE '
-                          'SIMPSONS, FAMILY GUY, FUTURAMA and SOUTH PARK '
-                          "you'll love this show too. It's very similar to all "
-                          'of them and perfect to watch with your family or '
-                          'friends.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for American Dad!: Volume Five',
              'embedUrl': '/video/imdb/vi2612763417',

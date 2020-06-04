@@ -47,37 +47,6 @@
  'keywords': 'fish,father son relationship,death of father,flashback,growing '
              'up',
  'name': 'Big Fish',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Crizmkodo'},
-            'dateCreated': '2013-10-10',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0319061/'},
-            'name': 'This movie reminds me story of me and my father, before '
-                    'he died on cancer',
-            'reviewBody': 'My father was a brilliant sculptor and a great '
-                          'visionary. When I was a kid, I never could explain '
-                          'what he was doing. I got it a month before his '
-                          'death when i was 26. This film filled my eyes with '
-                          'tears, because it reminded me him. he had a lot of '
-                          'ideas and brilliant and original ideas for '
-                          'improving the world, but for all his life he could '
-                          'not sell it to anyone, because those ideas filled '
-                          'his whole day. Literally. His whole apartment was '
-                          'filled with papers. Thank you for this movie. Thank '
-                          'you for the message. I would add a note that when '
-                          'we dream, we are escaping from the world of facts '
-                          'and truths. When my father said that if you think '
-                          'of anything in life, you have to write it down '
-                          'because what comes to your mind it never comes '
-                          "again it changed my life. Now I'm writing a book - "
-                          'a novel from environment of Mesopotamia and that '
-                          'just because my father was someone who believed in '
-                          'imagination and creative values\u200b\u200b.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A son tries to learn more about his dying father '
                             'by reliving stories and myths he told about his '

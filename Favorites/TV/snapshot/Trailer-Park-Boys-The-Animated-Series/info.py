@@ -36,23 +36,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BY2M1NjcwZmMtODZmZS00Y2JhLWFlM2YtZmUyY2UyNTY3MTg3XkEyXkFqcGdeQXVyMTkwNDUxOQ@@._V1_.jpg',
  'keywords': 'based on live action tv series',
  'name': 'Trailer Park Boys: The Animated Series',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'dbrewy'},
-            'dateCreated': '2019-04-02',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt9814900/'},
-            'name': 'The boys are still hanging strong.',
-            'reviewBody': "It's a modern day Bevis and Butthead meets TPB. I "
-                          'was halfway through the first episode when I found '
-                          'myself a little embarrassed at the fact I was '
-                          "enjoying it so much. Sure it's raunchy and "
-                          'disturbing, but what else would you expect from '
-                          'TPB?',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "Nova Scotia's favorite miscreants have always "
                             'been super sketchy. Now, carrying on from the '

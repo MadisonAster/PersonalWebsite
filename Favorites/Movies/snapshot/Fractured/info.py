@@ -41,20 +41,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BZTE0MWE4NzMtMzc4Ny00NWE4LTg2OTQtZmIyNDdhZjdiZmJhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg',
  'keywords': 'netflix,hospital,gas station,construction site,lab',
  'name': 'Fractured',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'MrFreddy'},
-            'dateCreated': '2019-10-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt4332232/'},
-            'name': 'Glad i didnt read the IMDB rating!',
-            'reviewBody': 'Because then i would probably skip this movie.\n'
-                          '\n'
-                          'Both my fiance and I really enjoyed this movie!',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Driving home after a tense holiday weekend with '
                             'his in-laws, Ray Monroe (Sam Worthington) pulls '

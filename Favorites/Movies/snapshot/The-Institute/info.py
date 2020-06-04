@@ -35,33 +35,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjE3MzQ2Nzk2M15BMl5BanBnXkFtZTcwODE0MDk3OA@@._V1_.jpg',
  'keywords': 'real life',
  'name': 'The Institute',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'be_a_klugman'},
-            'dateCreated': '2013-11-01',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2386327/'},
-            'name': 'What is real?',
-            'reviewBody': 'I saw this movie at the Mill Valley Film Festival '
-                          'last year and have thought about it a lot since '
-                          'then. From the start, the film has incredibly '
-                          'compelling visuals and soundtrack, but the '
-                          'interviews with members (?) seem pretty straight '
-                          'forward. As the movie continues though, it seems as '
-                          'though things start twisting and the information '
-                          'may or may not be "real." Are these people acting? '
-                          'Is this even what happened? It might all be fake, '
-                          'or it might all be real, or a beautiful mixture of '
-                          'fact and fiction. Regardless, it looks like it was '
-                          'a lot of fun to participate, and I love the idea of '
-                          'having things like this going on around you without '
-                          'your knowledge. I recommend watching the movie (I '
-                          'think you can get it on iTunes) and seeing if you '
-                          'can tell what is real -- if anything.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A documentary on the Jejune Institute, a '
                             'mind-bending San Francisco phenomenon where '

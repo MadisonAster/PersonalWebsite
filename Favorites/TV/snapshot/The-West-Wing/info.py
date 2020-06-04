@@ -36,39 +36,6 @@
  'keywords': 'dialogue driven,president,politics,american politics,ensemble '
              'cast',
  'name': 'The West Wing',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'inkslave'},
-            'dateCreated': '2004-05-21',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0200276/'},
-            'name': 'The Best. Period',
-            'reviewBody': 'This is the finest show ever produced for TV. Each '
-                          'episode is a triumph. The casting, the writing, the '
-                          'timing are all second to none. This cast performs '
-                          'miracles. \n'
-                          '\n'
-                          'The secret to this show is that it is, at heart, a '
-                          'comedy, even when tragic things are happening. That '
-                          'gives Martin Sheen, Allison Janney, Bradley '
-                          'Whitford, Richard Schiff et al. the room to work. '
-                          'And do they ever.\n'
-                          '\n'
-                          'It works because it is deep, the characters are '
-                          'well-drawn. Early in the first season, CJ gets a '
-                          'root canal and walks around for the rest of the '
-                          'episode with cotton stuffed in her mouth, yelling '
-                          'things like" The Pwesident must be bweefed!" This '
-                          'has to be seen to be believed. It had me literally '
-                          'on the floor, laughing until I feared I would hurt '
-                          "myself. I don't know how many shows have tried "
-                          'cheap stunts like that and they are just that, '
-                          'cheap. On "The West Wing" it works because we know '
-                          'CJ, we know how unlike her, and yet like her, that '
-                          "moment is. And Toby's slow-burn reaction is pitch "
-                          'perfect. \n'
-                          '\n'
-                          'Bravo.'},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi3802840601',
              'name': 'Trailer Season 1',

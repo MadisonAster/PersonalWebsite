@@ -39,26 +39,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BZTEwZTM3MzUtMzk3Yy00YWI4LWI1ZTktOTc1MmRjZWM5ZDhmXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg',
  'keywords': 'gladiator,gay,female nudity,violence,slave',
  'name': 'Spartacus: Blood and Sand',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'gdonaldson-86399'},
-            'dateCreated': '2020-01-06',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1442449/'},
-            'name': 'No need for a long review',
-            'reviewBody': 'The complete series is an absolute masterpiece. As '
-                          'a former Australia producer I am so proud of the '
-                          'most sincere work not only from the cast but also '
-                          'the crew. Based in New Zealand it brings a complete '
-                          'smorgasbord of the great talents from director, '
-                          'producers, cinematography to a unique editing style '
-                          'and I must impress upon the casting just perfect. '
-                          'To all involved you do yourselves proud and you '
-                          'bring credit to our industry. Job well done!',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Watch a preview of the penultimate episode.',
              'embedUrl': '/video/imdb/vi652322329',

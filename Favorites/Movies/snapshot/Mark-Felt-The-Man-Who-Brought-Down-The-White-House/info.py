@@ -52,26 +52,6 @@
  'keywords': 'whistleblower,father daughter relationship,mother daughter '
              'relationship,hippie,commune',
  'name': 'Mark Felt: The Man Who Brought Down the White House',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Indyrod'},
-            'dateCreated': '2018-03-06',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt5175450/'},
-            'name': 'For political junkies, this is a must-see......',
-            'reviewBody': 'Just watched this biography, drama about the man '
-                          'who worked for the FBI for 31 years, and was the '
-                          'informer they called "deep throat\' in the '
-                          'Watergate scandal, and downfall of a POTUS. Liam '
-                          'Neeson plays Mark Felt, and he does a superior job. '
-                          'If you are a political junkie like me, you will '
-                          'really like this movie, if not, you will probably '
-                          'be bored. But, not only very educational, I found '
-                          'it very good.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The story of Mark Felt, who under the name "Deep '
                             'Throat" helped journalists Bob Woodward and Carl '

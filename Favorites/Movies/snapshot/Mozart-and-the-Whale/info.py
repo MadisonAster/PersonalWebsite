@@ -46,32 +46,6 @@
  'keywords': "autism,asperger's syndrome,halloween costume,halloween "
              'party,love',
  'name': 'Mozart and the Whale',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'spiceman19'},
-            'dateCreated': '2005-12-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0392465/'},
-            'name': 'Sunday Afternoon Movie at its best',
-            'reviewBody': 'If you like Rainman or Benny and Joon you will '
-                          'enjoy this film. It is sentimental, moving and has '
-                          'all the usual gushy stuff a love story should have. '
-                          'Nevertheless I enjoyed it. I thought the adaptation '
-                          "of Autism especially Asperger's syndrome was very "
-                          "well done. If you don't expect too much and just "
-                          'sit back and look forward to some light '
-                          'entertainment then you will not be disappointed. As '
-                          'someone who works with adults with autism I am '
-                          'disappointed this has not been released everywhere '
-                          'as it depicts autism in a very different light. I '
-                          'would recommend that everyone at least gives it a '
-                          'go. Probably best described as a "chick flick" and '
-                          'the fact that Josh Hartnell plays the lead probably '
-                          'helps.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Sony Pictures Home '
                             'Entertainment',

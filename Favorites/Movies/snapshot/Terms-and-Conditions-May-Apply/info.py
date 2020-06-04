@@ -38,50 +38,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTQyNDc5NTUzOF5BMl5BanBnXkFtZTcwNzM0MTAzOQ@@._V1_.jpg',
  'keywords': 'internet,privacy,us patriot act,corporate policy,user agreement',
  'name': 'Terms and Conditions May Apply',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Shuggy'},
-            'dateCreated': '2013-08-04',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2084953/'},
-            'name': 'Important and frightening',
-            'reviewBody': 'This is an important and frightening film, about '
-                          'how Google, Amzaon, Flickr, Facebook, Twitter, '
-                          'Pinterest, Linkdin - and IMDb? - harvest our '
-                          'personal information and onsell it to the highest '
-                          "bidder, or to the government. How we don't read "
-                          'that wodge of text in capitals comprising "Terms '
-                          'and conditions" before we click "Accept" - nobody '
-                          'could, it would take a month per year for '
-                          'everything we sign. But even when that text is '
-                          'brief and written in plain English, it gives those '
-                          'corporations unprecedented power over our personal '
-                          'information - including the right to change the '
-                          'rules without telling us, to increase their power '
-                          'without limit and without asking again, and to keep '
-                          'it forever, even after we have "deleted" it. \n'
-                          '\n'
-                          'The film is entertaining, including how a seven '
-                          'year old boy was interrogated about something he '
-                          'had texted; how an Irishman on holiday in the US '
-                          'never got into the country but spent days in '
-                          'confinement instead, because he had used "destroy '
-                          'America" as a figure of speech in a tweet; how '
-                          'people planning a zombie parade during the Royal '
-                          'Wedding were arrested based on the social media '
-                          'planning; and how a TV crime writer was raided '
-                          'based on his Google searches. \n'
-                          '\n'
-                          'I saw this a few days after "We Steal Secrets: the '
-                          'story of Wikileaks". It is the better film, letting '
-                          'the facts speak for themselves more.\n'
-                          '\n'
-                          "And now I'm getting paranoid about what will happen "
-                          'to me for writing this....',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Admit it: you donÂ’t really read the endless '
                             'terms and conditions connected to every website '

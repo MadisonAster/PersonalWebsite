@@ -43,42 +43,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTI5MDI0NDAxOV5BMl5BanBnXkFtZTcwNzk4ODk3MQ@@._V1_.jpg',
  'keywords': 'intellectual property,ford,windshield wiper,automaker,engineer',
  'name': 'Flash of Genius',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'crownek'},
-            'dateCreated': '2009-08-21',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1054588/'},
-            'name': 'David v. Goliath',
-            'reviewBody': 'I cherish this movie; a lot of this is for personal '
-                          'reasons. The film is well done; Greg Kinnear really '
-                          'impressed me with this and little miss sunshine.\n'
-                          '\n'
-                          'I am a sales guy who sells to big companies. I '
-                          'recently gave ford a free education in a service we '
-                          'offer, and it took so much evangalizing, '
-                          'repetition, re-explanation and hitting them over '
-                          'the head. I was astonished that a business this big '
-                          "didn't have smarter people.\n"
-                          '\n'
-                          'Then, when we gave them our price and offer, they '
-                          'said "no thanks were going to build this in house '
-                          'rather than use you".........I felt a visceral '
-                          'connections to Bob Kearns.\n'
-                          '\n'
-                          'Suddenly, Ford is an expert on this. I would talk '
-                          'to anyone who would listen, and I put my blood into '
-                          'helping them improve their business. I have a new '
-                          'opinion of the buying and technology that Ford uses '
-                          'to run its operations. One of the reasons they '
-                          'might be the "least screwed up" of the auto makers" '
-                          'is their soul-less way of getting companies on '
-                          'their knees, and then kicking them down when you '
-                          'cry "uncle" for them.\n'
-                          '\n'
-                          'Sorry for blabbing. It just hurts to know we really '
-                          'wanted to help them , and help us make a buck in '
-                          'the process. And we were treated like dogs.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'This is the first trailer for Flash of Genius, '
                             'directed by Marc Abraham.',

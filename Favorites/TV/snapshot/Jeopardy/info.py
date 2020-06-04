@@ -40,32 +40,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BYmJjM2FhYTEtMjliYS00OThhLTk1NDgtNDYyNDJjNTNjY2NiXkEyXkFqcGdeQXVyODg3NDc1OTE@._V1_.jpg',
  'keywords': 'quiz show,non fiction,champion,tournament,host',
  'name': 'Jeopardy!',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'lee_eisenberg'},
-            'dateCreated': '2006-07-26',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0159881/'},
-            'name': 'I\'ll take "The Best Game Show Ever" for $1,000, Alex.',
-            'reviewBody': 'I guess that the reason that "Jeopardy!" is so '
-                          'great is that it really challenges you to think, '
-                          "and I've learned so many interesting facts from it. "
-                          'I hope to be a contestant one day. Obviously, Ken '
-                          "Jennings's winning streak was beyond impressive, "
-                          'and the "Celebrity Jeopardy!" spoofs on "Saturday '
-                          'Night Live" are priceless. But it all dates back to '
-                          "this show's premise of forming the answer as a "
-                          'question. It must be really fun coming up with the '
-                          'answers.\n'
-                          '\n'
-                          'I will say that the Clue Crew is unnecessary. But '
-                          'either way, I still say that this is the best game '
-                          'show ever. Alex Trebek is one heckuva host. There '
-                          'will never be another show like this.\n'
-                          '\n'
-                          'So which category to take now?',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'url': '/title/tt0159881/'}

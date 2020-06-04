@@ -45,37 +45,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BYzcyMjQzYjQtNTU2My00ZjQ1LWI4NGEtODVjM2UwYjU5NDAzL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg',
  'keywords': '2000s,2010s,animal in series title,bird in series title,toy',
  'name': 'Robot Chicken',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'J-bot6'},
-            'dateCreated': '2015-03-27',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0437745/'},
-            'name': 'Hit and miss',
-            'reviewBody': "When this show's skits are good, they're generally "
-                          'really good.\n'
-                          '\n'
-                          "However, there's an unfortunate tendency for shows "
-                          'like this to eventually degrade into unfunny '
-                          'territory. You can generally tell when the '
-                          'gross-out jokes start to outnumber the legitimately '
-                          'funny ones. This same issue plagued Aqua Teen '
-                          "Hunger Force as well. Likely it's a result of "
-                          'writers getting too used to each other in an '
-                          'insular environment with few trusted people to '
-                          'check or critique their work.\n'
-                          '\n'
-                          'Having said that, Robot Chicken is a fantastic show '
-                          'for people who know and love their pop culture '
-                          'references. Stop-motion is the ideal format and the '
-                          'patience of the animators is very much '
-                          'appreciated.\n'
-                          '\n'
-                          'Well worth a look.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Watch the Season 9 Trailer that "Robot Chicken" '
                             'brought to Comic-Con 2017.',

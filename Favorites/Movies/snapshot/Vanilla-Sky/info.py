@@ -50,29 +50,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BYzFlMTJjYzUtMWFjYy00NjkyLTg1Y2EtYmZkMjdlOGQ1ZGYwL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg',
  'keywords': 'dream,death,mask,nightmare,mental institution',
  'name': 'Vanilla Sky',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'fallinginsane'},
-            'dateCreated': '2004-09-13',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0259711/'},
-            'name': 'Made me think',
-            'reviewBody': '"Vanilla Sky" was a wonderfully thought out movie. '
-                          'Or rather, "Abre Los Ojos" was well thought out. I '
-                          'watched that movie late one night, excited about '
-                          "what was to come. I wasn't disappointed. By the end "
-                          "of the movie, I was awstruck. I couldn't get it off "
-                          'my mind. The whole idea of it just blew me away. '
-                          'The ending, was more of a surprise than Shyamalan '
-                          'could ever do. The plot line was also something '
-                          'that kept me interesting through and through. The '
-                          'cast, superb. It was an all around wonderful movie. '
-                          'The kind of movie you can watch again and again and '
-                          "always find something new. I've seen it four or "
-                          "five times and I'm always finding something new. "
-                          "It's a movie to keep you interested forever.",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'url': '/title/tt0259711/'}

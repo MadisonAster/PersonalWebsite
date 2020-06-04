@@ -42,35 +42,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BODZlYzc2ODYtYmQyZS00ZTM4LTk4ZDQtMTMyZDdhMDgzZTU0XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg',
  'keywords': 'anthology,serial killer,male objectification,supernatural,hotel',
  'name': 'American Horror Story',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'patstaciemcgue'},
-            'dateCreated': '2017-09-19',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1844624/'},
-            'name': 'Has drawn me back in',
-            'reviewBody': 'Season 7 - Cult. I will be completely honest, the '
-                          'first 2 episodes really turned me off. I figured '
-                          'this season was heading down the same path as '
-                          'Roanoke and perhaps worse with the political and '
-                          'social overtones. HOWEVER, I decided to keep '
-                          'watching. Things have turned around dramatically '
-                          'and I am now engaged in this season. It is '
-                          'ridiculous and unbelievable, but the characters are '
-                          'now starting to show themselves and several secrets '
-                          'are now out in the open. The show has been very '
-                          'good the past 3 episodes and has officially drawn '
-                          'me back in.\n'
-                          '\n'
-                          'I will say this... the 5th episode "Holes" is '
-                          "brutal. I've been watching horror for over 30 years "
-                          "and I can honestly say I haven't had a scene "
-                          'un-nerve me to the extent this one did. Watch and '
-                          "you'll see what I mean.",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The ninth season of "American Horror Story" '
                             'travels back to 1984 to celebrate slasher genre.',

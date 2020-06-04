@@ -48,37 +48,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjFmZGI2YTEtYmJhMS00YTE5LWJjNjAtNDI5OGY5ZDhmNTRlXkEyXkFqcGdeQXVyODAwMTU1MTE@._V1_.jpg',
  'keywords': 'heroin,vietnam,policeman,1970s,breasts',
  'name': 'American Gangster',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'lesleyharris30'},
-            'dateCreated': '2013-08-25',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0765429/'},
-            'name': 'Very Impressive Cast and Perfect Character Development,',
-            'reviewBody': 'American Gangster is a fantastic movie with a '
-                          'really well developed storyline and a very talented '
-                          'cast.Denzel Washington and Russel Crowe both '
-                          'matched their characters perfectly,which I was '
-                          "surprised with because they both didn't seem like "
-                          'characters they were use to playing,it also was a '
-                          'very different movie for Ridley Scott,and he did a '
-                          'very impressive job with it.The character '
-                          'development in this movie is practically '
-                          'perfect,you mostly follow Russel Crowe and Denzel '
-                          "Washington's characters,and I didn't feel like they "
-                          'left out a lot of information and really took their '
-                          'time letting use get to know these characters.I '
-                          'would highly recommend American Gangster to all '
-                          'fans of gangster crime films.\n'
-                          '\n'
-                          'Set during the seventies,Richie Roberts (Russel '
-                          'Crowe) will stop at nothing to bring down the '
-                          'massive drug business of the dangerous and highly '
-                          'wanted Frank Lucas (Denzel Washington).',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'American Gangster Trailer',
              'embedUrl': '/video/imdb/vi3216048409',

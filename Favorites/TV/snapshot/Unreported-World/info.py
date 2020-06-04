@@ -35,14 +35,4 @@
  'keywords': 'psychotronic series,current affairs,investigative '
              'journalism,conflict zone',
  'name': 'Unreported World',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'dencoja'},
-            'dateCreated': '2018-11-09',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0477545/'},
-            'name': 'Rubbish',
-            'reviewBody': "Should have left tonight's programme unreported, "
-                          'there was no news at all. Why did anybody think '
-                          'that was worth reporting.'},
  'url': '/title/tt0477545/'}

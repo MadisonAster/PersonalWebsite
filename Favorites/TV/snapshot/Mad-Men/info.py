@@ -38,28 +38,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjMwNzk5Nzg2OV5BMl5BanBnXkFtZTgwMjg1OTk1NDE@._V1_.jpg',
  'keywords': 'advertising,chain smoking,1960s,new york,drinking',
  'name': 'Mad Men',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'badenbakker'},
-            'dateCreated': '2018-11-03',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0804503/'},
-            'name': 'The serie that changed my life',
-            'reviewBody': "I only started watching Mad Man since it's "
-                          "available on Netflix, and I'm very happy I did. My "
-                          'most favourite serie ever - and I have a feeling it '
-                          'will remain that for a very long time. Apart from '
-                          "the spectacular 60's decors and the non predictable "
-                          "story lines, it's the topics and the development of "
-                          'the main characters that is showed in such a '
-                          "refined way, that I couldn't stop watching it. It "
-                          'is done so sophisticatedly, that the whole show has '
-                          'become one big pyschlogy lesson for me. One that '
-                          'offered me answers I was looking for. :)',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Watch a trailer for AMC\'s "Mad Men."',
              'embedUrl': '/video/imdb/vi69710105',

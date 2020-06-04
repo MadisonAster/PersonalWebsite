@@ -45,25 +45,6 @@
  'keywords': "female nudity,fraternity,girls' locker room,boy in girls' locker "
              'room,nude modeling',
  'name': "National Lampoon's Van Wilder",
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Filmfan-31'},
-            'dateCreated': '2002-04-07',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0283111/'},
-            'name': "Don't expect too much",
-            'reviewBody': 'This is yet another movie trying to capitalize off '
-                          'the gross-out factor among young adolescent males.  '
-                          'The only thing that really surprised me about this '
-                          'movie is Ryan Renolds ability to carry a movie by '
-                          'himself, as Tara Reid has proven herself once again '
-                          'to be a terrible actress.  There is maybe one or '
-                          'two really funny parts in this movie, the rest just '
-                          'comes off as immature sexual jokes.  Overall, the '
-                          "good parts don't outweigh the bad, and I wouldn't "
-                          'give it more than three or four stars.  Wait for it '
-                          "to come out on rental, which shouldn't be too "
-                          'long.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Artisan',
              'embedUrl': '/video/imdb/vi2644246809',

@@ -39,55 +39,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
  'keywords': 'anthology,satire,dystopian future,dystopia,netflix original',
  'name': 'Black Mirror',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'gogoschka-1'},
-            'dateCreated': '2015-04-28',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2085059/'},
-            'name': 'Fascinating mix of bleak sci-fi, drama, satire and black '
-                    'comedy',
-            'reviewBody': 'Amazing British anthology series with a very '
-                          'intriguing concept. The premise: taking '
-                          'contemporary phenomena (ranging from the wild '
-                          'popularity of talent shows on TV to the impact of '
-                          'social media and smartphones on our lives) as a '
-                          'starting point and speculate how such phenomena '
-                          'could/would evolve in the future. Each episode '
-                          'tells a different story with different protagonists '
-                          'and focuses on a different theme. Of course, the '
-                          "series doesn't explore the beneficial aspects or "
-                          'any positive trends - (where would the fun be in '
-                          'that?) - but clearly approaches its topics from a '
-                          'pessimistic, cynical point of view (hence the '
-                          "title). As the show's creator Charlie Brooker "
-                          '(\'Dead Set\') puts it: "...They (the different '
-                          'stories) are all about the way we live now – and '
-                          "the way we might be living in 10 minutes' time if "
-                          'we\'re clumsy."\n'
-                          '\n'
-                          'The resulting mix of bleak sci-fi, drama, satire '
-                          'and black comedy makes for highly intelligent '
-                          'Television and ranks among the most original and '
-                          "entertaining shows I've ever come across. The "
-                          'writing and directing are excellent and the cast '
-                          'includes such talented thesps as Domhnall Gleeson, '
-                          'Rory Kinnear, Toby Kebbell, Hayley Atwell, Jon '
-                          'Hamm, Jason Flemyng and Rupert Everett - to name '
-                          'but a few. Unique, fascinating and highly '
-                          'recommended. 9 stars out of 10.\n'
-                          '\n'
-                          'Favorite Films: '
-                          'http://www.imdb.com/list/ls054200841/\n'
-                          '\n'
-                          'Lesser-known Masterpieces: '
-                          'http://www.imdb.com/list/ls070242495/\n'
-                          '\n'
-                          'Favorite Low-Budget and B-Movies: '
-                          'http://www.imdb.com/list/ls054808375/\n'
-                          '\n'
-                          'Favorite TV-Shows reviewed: '
-                          'http://www.imdb.com/list/ls075552387/'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Two estranged college friends reunite in later '
                             'life, triggering a series of events that could '

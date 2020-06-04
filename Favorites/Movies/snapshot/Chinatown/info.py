@@ -47,55 +47,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BOGMwYmY5ZmEtMzY1Yi00OWJiLTk1Y2MtMzI2MjBhYmZkNTQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg',
  'keywords': 'neo noir,police,private detective,femme fatale,corruption',
  'name': 'Chinatown',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'stroggos'},
-            'dateCreated': '2017-08-26',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0071315/'},
-            'name': 'This movie got it all: perfectly paced study of human '
-                    'darkness',
-            'reviewBody': 'I knew CHINATOWN was hailed as the paragon of a '
-                          "film noir, and that's why I finally got down to "
-                          'watching it. However, despite having known about '
-                          "the movie for quite a while, I wasn't really "
-                          'prepared for just how dark it could be. The movie '
-                          'starts slowly, with a private detective taking on '
-                          'what looks like a routine case. But soon he finds '
-                          'himself enmeshed in a web of conspiracy, murder, '
-                          'lies and deceit. The plot is like a perfect machine '
-                          'that relentlessly moves towards a final resolution '
-                          'that is truly epic and truly soul-wrenching.\n'
-                          '\n'
-                          'In a recent New York Times piece, they called '
-                          'CHINATOWN "a meditation on evil", which is spot-on. '
-                          'Set in 1937, this movie is just all-round perfect, '
-                          'first and foremost how everything is connected '
-                          'within the grand structure of the movie, that is '
-                          'rich in themes (water, evil, trust, guilt, greed) '
-                          'and even richer in suspense, as the audience—just '
-                          'like our protagonist—tries to find out what is '
-                          'happening. The story is "complex" for sure, but '
-                          'it\'s not "complicated". Everything makes sense in '
-                          'the end and the complexity pays off big time.\n'
-                          '\n'
-                          'Besides the impeccable screenplay, everything else '
-                          'about this movie is perfect as well. Jack Nicholson '
-                          'and Faye Dunaway carry the movie with '
-                          "sophistication and dignity. Dunaway's stunning "
-                          'performance in particular fills every scene with an '
-                          'aura of mystery as you are trying to find out what '
-                          'her motives are. The set pieces are beautiful, the '
-                          'score is compelling; and camera-work and editing '
-                          'could not be any better. There is a reason this one '
-                          "is called a classic! So, if you're ready to delve "
-                          'deep into a richly layered exploration of the dark '
-                          "side of humanity—enjoy the ride. But don't expect "
-                          'to come back unscathed.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Theatrical Trailer from Paramount',
              'embedUrl': '/video/imdb/vi1220411673',

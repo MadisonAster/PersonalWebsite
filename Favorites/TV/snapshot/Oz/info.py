@@ -37,36 +37,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BYjY3N2M2YjgtZTFjZS00ODA1LWJjMDgtNDgxZDllZWFiMmYyXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg',
  'keywords': 'male rape,prison,italian,gay,aryan brotherhood',
  'name': 'Oz',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'girardi_is_god'},
-            'dateCreated': '2003-02-13',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0118421/'},
-            'name': 'The most underrated show on tv',
-            'reviewBody': "On HBO, all the Emmy's for hard core drama go to "
-                          "THE SOPRANOS, and I dont' think that's bad. It is a "
-                          'great show. But Oz is better. It might well be the '
-                          "best thing on television. It doesn't get the press "
-                          'of the Sopranos. And the other people who watch HBO '
-                          "(those who don't like all the violence) whould much "
-                          "rather watch Ferris Beuller's wife in SEX AND THE "
-                          'CITY, which I will NEVER watch. Oz is amazing '
-                          "because almost every charachter in it's sea of "
-                          'people is in some way a terrible human being. But '
-                          'the magic of this show is that these terrible '
-                          'people become understandable. They do terrible '
-                          "things, but they are not all bad. Ryan O'Rielly, "
-                          'for example, is a cold-blooded killer. But when it '
-                          'comes to his brother and doctor Nathan, and more '
-                          'recently the priest he befriended, he is a warm and '
-                          "caring person who's pain you empathize with. Oz "
-                          'takes murderers, rapists, thieves, and even a rich '
-                          'lawyer who ran down a young girl in a drunken '
-                          'stuper, and makes them likeable and forgivable. '
-                          "That's incredible.  And this show is incredible. It "
-                          'goes off the air soon for good, and I wish it had '
-                          'gotten the respect it deserved.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from HBO Home Video',
              'embedUrl': '/video/imdb/vi2476671257',

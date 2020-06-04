@@ -45,33 +45,4 @@
  'keywords': 'shared universe,actor reprises previous '
              'role,warrior,planet,bounty hunter',
  'name': 'The Chronicles of Riddick',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'mancunianfatman'},
-            'dateCreated': '2011-12-30',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0296572/'},
-            'name': 'underrated to the extreme',
-            'reviewBody': "what the hell ???? I've heard and read about so "
-                          'many people bitching and moaning at how much they '
-                          'dislike this movie as compared to pitch black, but '
-                          'honestly i think this one is fantastic (although '
-                          'undeniably pitch black was much better).\n'
-                          '\n'
-                          'Its basically the character Riddick from the pitch '
-                          'black movie in his own adventure fighting monsters '
-                          ', avoiding authorities and escaping a prison . in a '
-                          'nutshell thats what it is and thats what you get . '
-                          'people complained that this one strives too far '
-                          'from the feeling that the original pitch black gave '
-                          'us , but thats not necessarily a bad thing is it ? '
-                          'its a new take on an expanded universe created for '
-                          'the soul purpose of telling the story of this '
-                          'character.\n'
-                          '\n'
-                          "If you love pitch black then there's no reason you "
-                          "shouldn't lover this one. I feel it necessary to "
-                          'say that Vin Diesel being nominated for worst actor '
-                          'in this movie is scandalous. Top film bad critics - '
-                          'end of story!'},
  'url': '/title/tt0296572/'}

@@ -41,41 +41,6 @@
  'keywords': 'house arrest,screenwriter,fictional tv show,actress playing '
              'multiple roles,actor playing multiple roles',
  'name': 'The Nines',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'AllStarAlun'},
-            'dateCreated': '2008-10-01',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0810988/'},
-            'name': 'Interesting idea but ultimately disappointing',
-            'reviewBody': 'The Nines has some fantastic ideas and some really '
-                          'rather good performances (Melissa McCarthy is a '
-                          'constant joy throughout and Ryan Reynolds shows an '
-                          'impressive diversity for his acting league) '
-                          'however, after a promising start, loses its way as '
-                          'the story progresses.\n'
-                          '\n'
-                          'A film of three distinct parts in a Charlie Kaufman '
-                          '(Being John Malkovich, Eternal Sunshine of the '
-                          'Spotless Mind) style, The Nines deals with some '
-                          'seriously deep themes including philosophy, '
-                          'theology and betrayal. However, unlike Eternal '
-                          'Sunshine, the direction of John August (writer of '
-                          'Go and Big Fish) seems too straight and, dare I say '
-                          'it, Teen-like for such a film where a better choice '
-                          'of helm would have seem to be someone like David '
-                          'Lynch (Blue Velvet, Twin Peaks) or maybe Darren '
-                          'Aronofski (Pi, The Fountain). As it is the film '
-                          'progressively gets weirder and weirder and with it '
-                          'surrealism jars with the previous tone to the point '
-                          'it feels preposterous.\n'
-                          '\n'
-                          'Worth a watch and nice to see someone try something '
-                          'new but ultimately disappointing.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '6',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A troubled actor, a television show runner, and '
                             'an acclaimed videogame designer find their lives '

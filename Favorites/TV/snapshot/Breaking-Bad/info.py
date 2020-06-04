@@ -38,19 +38,6 @@
  'keywords': 'cancer,crystal meth,albuquerque new '
              'mexico,chemistry,methamphetamine',
  'name': 'Breaking Bad',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'bruhperson'},
-            'dateCreated': '2019-03-07',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0903747/'},
-            'name': "It's ok I guess",
-            'reviewBody': 'Re-Watched it 7 times and counting. I guess I liked '
-                          'it.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "Here's a look at the final eight episodes of "
                             'Breaking Bad, which premieres on Sunday, August '

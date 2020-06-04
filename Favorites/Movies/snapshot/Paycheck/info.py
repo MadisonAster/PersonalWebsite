@@ -48,49 +48,6 @@
  'keywords': 'time,pipe wrench,babe scientist,seeing the future,evil '
              'corporation',
  'name': 'Paycheck',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'applezoid'},
-            'dateCreated': '2004-01-01',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0338337/'},
-            'name': 'Better than I thought',
-            'reviewBody': 'I went in to this film with relatively low '
-                          'expectations. Other reviews I had read led me to '
-                          'believe that this was a cookie cutter, run of the '
-                          'mill, made for tv-esque amnesia story. Nothing '
-                          'could be further from the truth.\n'
-                          '\n'
-                          'The main plot of most amnesia types is trying to '
-                          'find out who they are and why someone erased their '
-                          'memory. With Paycheck, however, our protagonist '
-                          'already knows why his memory was erased, and since '
-                          "it's only been three years, he of course knows who "
-                          'he is.\n'
-                          '\n'
-                          'The plot device is that at the end of this little '
-                          "memory wipe he's supposed to be 92 million dollars "
-                          'plus richer. Imagine his surprise when he finds out '
-                          "he's forfeit the money, and instead mailed himself "
-                          'some apparently worthless junk. Oh, and the company '
-                          'that hired him is trying to kill him.\n'
-                          '\n'
-                          'This is what a Sci Fi movie should be, relying on '
-                          'an interesting premise, with future predictions '
-                          'based on current technology. Sci Fi is not space '
-                          'with explosions every five minutes.\n'
-                          '\n'
-                          'Although there are a few minor plot holes, I found '
-                          'the movie very engaging, and thought the acting was '
-                          'competent, to say the least. Those who enjoyed '
-                          "Minority Report might also like Paycheck. It's "
-                          'worth a look.\n'
-                          '\n'
-                          'bck',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Paramount Home '
                             'Entertainment',

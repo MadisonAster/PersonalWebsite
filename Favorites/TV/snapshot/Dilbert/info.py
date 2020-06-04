@@ -45,46 +45,6 @@
  'keywords': 'character name as series title,forename as series title,one word '
              'series title,man wears eyeglasses,cubicle',
  'name': 'Dilbert',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'garbagemanatee'},
-            'dateCreated': '2006-06-21',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0118984/'},
-            'name': 'One of the most underrated shows ever made.',
-            'reviewBody': 'Dilbert, the animated series, easily lives up to '
-                          'all expectations having come from the most popular '
-                          'comic strip in the world.\n'
-                          '\n'
-                          'Unlike most TV shows, animated or live action, '
-                          'Dilbert actually got better as it went on. It '
-                          'started out good, and became great. It has the same '
-                          "witty 'water-cooler' humor as the comic strip, as "
-                          "well as the traditional 'zaney' antics that most "
-                          'cartoons feature. Although it can be most '
-                          'appreciated by those who have either been a cubical '
-                          'worker, or have close friends or family that were, '
-                          'this show is just as entertaining to those who do '
-                          'not understand what the phrase "ISO 9000" means.\n'
-                          '\n'
-                          'This show could have, and should have, been a long '
-                          'running and successful animated series, just like '
-                          'the comic strip. However, it did not get national '
-                          "exposure (they didn't even air it in Saint Louis--I "
-                          'saw it for the first time in Chicago), and was '
-                          'never picked up by any major networks until Comedy '
-                          'Central featured it late in their Sunday night '
-                          'lineup for a few months. If the show had gotten a '
-                          'decent time-slot on a major network, and had '
-                          'actually been advertised....I think it could have '
-                          'continued on for many years to come.\n'
-                          '\n'
-                          'Hopefully it will make a comeback. Its easily one '
-                          'of the funniest shows ever made.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Sony Pictures Home '
                             'Entertainment',

@@ -41,30 +41,6 @@
  'keywords': 'sexual reference,sexual innuendo,animal as '
              'human,pedophile,derivative',
  'name': 'Family Guy',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'nixar55'},
-            'dateCreated': '2003-04-15',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0182576/'},
-            'name': 'One of the best animated series ever',
-            'reviewBody': 'Shame on Fox for mishandling this show! As with '
-                          '"Futurama", scheduling problems made this show '
-                          'impossible to find on a regular basis. But it was '
-                          'worth hunting down - this show is funny, surreal, '
-                          'and offensive. Wittier than South Park (and more '
-                          'un-PC, too) and more original plots than The '
-                          'Simpsons, this show is hysterical. This show is '
-                          'also primarily for twentysomething kids who can '
-                          '"get" the references to Big League Chew, Kool-Aid, '
-                          'and that episode of "Who\'s the Boss?" where Tony '
-                          'sees Angela naked in the shower. I could tell this '
-                          'show was scripted by people my age, and that made '
-                          "it even cooler to me. I can't wait to own all of "
-                          'the episodes on DVD. Watch it on Cartoon Network as '
-                          "part of their Adult Swim line-up if you're "
-                          "uncertain, but you'd have to be crazy not to love "
-                          'this show.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Watch a scene from the "Family Guy"/"Simpsons" '
                             'crossover, "Simpsons Guy".',

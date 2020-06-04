@@ -47,38 +47,6 @@
  'keywords': 'philosophy,lucid dreams,ukulele,watching television,lucid '
              'dreaming',
  'name': 'Waking Life',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'StellaLuna11'},
-            'dateCreated': '2002-08-19',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0243017/'},
-            'name': 'Fantastic Work of Film Art',
-            'reviewBody': 'Waking Life has broken new ground surrounding the '
-                          'idea of animation. Filming people, then having '
-                          'artists with different styles "animate" the '
-                          'recorded scenes was brilliant. The visuals are '
-                          'constantly changing, providing an aurora of sights '
-                          'that you can not take your eyes off of. Trippy? '
-                          'Yes, Burnt Out? No- This movie can not only be '
-                          'appreciated for the wild images, but for the '
-                          'story-line as well... On second thought-story-line '
-                          'might not be the right word. The actual "plot" of '
-                          'this movie can be seen as an hour and a half of the '
-                          'most interesting philosophy course one can find. '
-                          'The characters and conversations are deep, '
-                          'fascinating, and thought-provoking. You must see '
-                          'this movie more than once because it is almost '
-                          'impossible to absorb what you see and be able to '
-                          "fully appreciate the genius of the script.  I've "
-                          'seen it about 5 times and there are still some '
-                          'scenes I have yet to fully grasp. Sit back and '
-                          'treat your eyes and mind to the most stimulating '
-                          'film of the year.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from 20th Century Fox Home '
                             'Entertainment',

@@ -39,34 +39,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTRmYzNmOTctZjMwOS00ODZlLWJiZGQtNDg5NDY5NjE3MTczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg',
  'keywords': 'artificial intelligence,robot,android,based on film,theme park',
  'name': 'Westworld',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'timoverend83'},
-            'dateCreated': '2016-10-15',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0475784/'},
-            'name': 'Excellent',
-            'reviewBody': 'This show is so far perfect. The story is '
-                          'intriguing, the visuals are beautiful and the '
-                          'acting is incredible.\n'
-                          '\n'
-                          'The previous reviewer who said the violence is '
-                          'unnecessary has missed the point in my opinion. The '
-                          'violence is very much needed. It is there to make '
-                          'you feel uncomfortable, because it is that inner '
-                          'dark side and battle between good and evil (and '
-                          'more often than not the middle ground between) that '
-                          'is at the very epicenter of the human '
-                          'condition.This is what the show is often commenting '
-                          'on and this is what makes this show so interesting, '
-                          'thought provoking and ultimately entertaining.\n'
-                          '\n'
-                          'If it carries on in the same vein we will have a '
-                          'modern day classic on our hands.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'We all have our role to play. New episodes of '
                             'Westworld premiere Sundays at 9PM.',

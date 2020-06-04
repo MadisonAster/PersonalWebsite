@@ -48,63 +48,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTk0NDIwMDUxNl5BMl5BanBnXkFtZTcwMzY3MzIzMQ@@._V1_.jpg',
  'keywords': 'sexuality,orgasm,homosexuality,mpaa,filmmaker',
  'name': 'This Film Is Not Yet Rated',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'tomq5p'},
-            'dateCreated': '2007-01-24',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0493459/'},
-            'name': 'Necessary viewing',
-            'reviewBody': 'Since the Hays Code, filmmakers have had a lot more '
-                          'freedom over the content of their films. However, '
-                          'the MPAA ratings board still does exercise a '
-                          'certain de facto censorship power. Most people do '
-                          'not realize this. \n'
-                          '\n'
-                          '"This Film is not Yet Rated" exposes the '
-                          'arbitrariness, secrecy, and bias of the MPAA '
-                          'ratings board and makes the viewer question why '
-                          'movies receive the ratings they do. \n'
-                          '\n'
-                          'Kirby Dick puts together a nice cross-section of '
-                          'directors and "talking heads" who discuss the MPAA '
-                          "ratings board's biases when it comes to realism, "
-                          'sex, violence, gay themes, and other taboo issues '
-                          'in films. \n'
-                          '\n'
-                          'Dozens of major directors have had problems with '
-                          'the MPAA ratings board - they either received the '
-                          'NC-17 (or the old "X") rating or had to cut their '
-                          'films to meet the requirements of the ratings '
-                          'board. Some examples are: Kubrick, Tarantino, '
-                          'Lynch, Woo, Friedkin, Peckinpah, Aronofsky, and '
-                          'countless others. \n'
-                          '\n'
-                          'This film exposes the fact that the ratings board '
-                          'is made up of people who are given NO criteria and '
-                          'NO training for rating films, so they basically use '
-                          'their own personal (and obviously heavily biased) '
-                          'judgments to decide what rating a particular movie '
-                          'should receive.\n'
-                          '\n'
-                          'This is an important film because so few people '
-                          'realize how movies are rated in the U.S. Even fewer '
-                          'realize how problematic (biased, anti-democratic, '
-                          'non-transparent, not accountable) our system is. \n'
-                          '\n'
-                          'It is also well put together, so it is easier to '
-                          'watch than most documentaries. \n'
-                          '\n'
-                          'I would have liked to have heard more comparisons '
-                          'between the U.S. rating system and others '
-                          'worldwide, something that was only briefly touched '
-                          'upon. \n'
-                          '\n'
-                          '9 out of 10',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Theatrical Trailer from IFC',
              'embedUrl': '/video/imdb/vi3958767897',

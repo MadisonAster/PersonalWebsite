@@ -45,44 +45,6 @@
  'keywords': 'downsizing,porsche,corporate downsizing,bra,topless female '
              'nudity',
  'name': 'The Company Men',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Samiam3'},
-            'dateCreated': '2011-06-06',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1172991/'},
-            'name': 'Good business movie, very good',
-            'reviewBody': "I don't know much about business, but that doesn't "
-                          "mean it's hard to appreciate a good business movie. "
-                          'Despite a few dumbed down bits, The Company Men, '
-                          'comes with a feeling of authenticity with some '
-                          'heart and decent performances from everybody. That '
-                          'is good enough for me.\n'
-                          '\n'
-                          'In a hundred minutes, The Company Men gives us a '
-                          'small taste of what The recession did to American '
-                          'business. It does so in a way that favours '
-                          'character over making anti-corporate statements. '
-                          'The movie chooses to zoom in on the lives of three '
-                          'sales executives and how they deal with job loss.\n'
-                          '\n'
-                          "I've never been in love with Ben Affleck, but when "
-                          'he wants to, he can show some professionalism. In '
-                          'The Company Men he does just that, proving capable '
-                          'of hitting all the emotional notes when necessary, '
-                          'something I feel he missed in his previous film the '
-                          'Town.\n'
-                          '\n'
-                          'The Company Men is actually a rather sad movie. It '
-                          'is only a hundred minute in length, but it feels '
-                          'longer. There is a good amount of talk, but nothing '
-                          'ever feels too contrived, wasted or unnecessary. Is '
-                          'it a brilliant film? No, but I can safely recommend '
-                          'it.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A year in the life of three men trying to survive '
                             'a round of corporate downsizing at a major '

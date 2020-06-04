@@ -41,40 +41,6 @@
  'keywords': 'slapstick comedy,gross out comedy,political satire,absurd '
              'humor,parody',
  'name': "Seth MacFarlane's Cavalcade of Cartoon Comedy",
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'adampkalb'},
-            'dateCreated': '2017-09-22',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1295036/'},
-            'name': 'Comedy is very subjective.',
-            'reviewBody': "In 2008, Seth MacFarlane realized that Family Guy's "
-                          'revival and American Dad were not enough to help '
-                          'support his expensive lifestyle. Before The '
-                          'Cleveland Show, he made an entire 50-episode web '
-                          'series based on cutaway gags removed from Family '
-                          'Guy. Despite having the same professional TV '
-                          'animation budget as Family Guy, it does not have to '
-                          'abide by any network standards and it can have as '
-                          'many curse words as they want.\n'
-                          '\n'
-                          "I think most of this is okay if you're old enough "
-                          'to enjoy it. Some are funny, but there are also '
-                          'some disturbing shorts with blood, deaths, and '
-                          'there are also 2 shorts with poop and 2 shorts with '
-                          'nudity. It really depends on what sense of humor '
-                          'you have, but there are also a few shorts that are '
-                          'too cruel for most people to find them funny. My '
-                          'most favorite episodes were the Scotsman yelling at '
-                          'stupid movie characters, the gay knight, the glass '
-                          'house, Barry Gibb singing on the roller coaster, '
-                          'and 10 things you never hear, like "Stressed Eric '
-                          'is a comedic masterpiece!" That\'s just 1 I thought '
-                          "up myself. It wasn't 1 of those things they said.",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '6',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "Seth Macfarlane's Cavalcade Of Cartoon Comedy",
              'embedUrl': '/video/imdb/vi2862529561',

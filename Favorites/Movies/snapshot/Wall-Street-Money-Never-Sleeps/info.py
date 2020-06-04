@@ -54,47 +54,6 @@
  'keywords': 'finance industry,businessman,stocktrader,stockbroker,stock '
              'market',
  'name': 'Wall Street: Money Never Sleeps',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'M_Exchange'},
-            'dateCreated': '2010-09-24',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1027718/'},
-            'name': 'Great... Until The Third Act',
-            'reviewBody': 'I loved this movie until its final thirty minutes '
-                          'or so. During those thirty minutes you realize that '
-                          'Stone and his team of writers were searching '
-                          'desperately for a way to end the movie on a '
-                          'positive, hopeful note. We are left to plod along '
-                          'with them on this implausible track. Also, during '
-                          "the ending Gekko's daughter's character consistency "
-                          'is shot to hell and she appears as venal as the '
-                          'characters against whom she rails.\n'
-                          '\n'
-                          'Those moments are especially disappointing because '
-                          'I believed that this movie had the potential to be '
-                          "Stone's best film ever. Carey Mulligan and Michael "
-                          'Douglas in particular delivered great performances. '
-                          'Shia Lebeouf is "good enough." The writing is '
-                          'fairly unpredictable then everything seems to be '
-                          'tied into a nice bundle near the end. The problem '
-                          "was that Stone couldn't quite bring himself to put "
-                          'the bow on that bundle. He wanted to add a bit of '
-                          'glitter to it, which seemed gaudy and completely '
-                          'out of place.\n'
-                          '\n'
-                          'Bottom line: if this movie had ended on a somewhat '
-                          'dark note it would have reflected the reality of '
-                          'modern day Wall Street, and it would have made for '
-                          'a tighter, better movie.\n'
-                          '\n'
-                          "It's worth watching, and if you liked the first "
-                          "Wall Street it probably won't disappoint you. You "
-                          'might want to leave during its third act, though :)',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Emerging from a lengthy prison stint, Gordon '
                             'Gekko finds himself on the outside of a world he '

@@ -39,32 +39,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BYmMxNjM0NmItNGU1Mi00OGMwLTkzMzctZmE3YjU1ZDE4NmFjXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_.jpg',
  'keywords': 'afterlife,utopia,heaven,ethics,neighborhood',
  'name': 'The Good Place',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Narce'},
-            'dateCreated': '2016-09-28',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt4955642/'},
-            'name': 'A Good Place for a Good Show',
-            'reviewBody': "First off, I have loved Kristen Bell's work ever "
-                          'since the late, lamented Veronica Mars series. Like '
-                          'Buffy, she is the perky blonde who saves the world. '
-                          'And perhaps in this series, she will have to do the '
-                          'same - literally! The whole "look and feel" reminds '
-                          'me very much of Pushing Daisies - the saturated '
-                          'colours, the segues into absurdity, even the '
-                          "life-after-death motifs. And that's not a bad thing "
-                          '- Daisies was one of my top favourite shows.\n'
-                          '\n'
-                          'Ted Danson gets to put aside some of the gravitas '
-                          'that he had to bring to CSI, and return to his '
-                          'successful comedic abilities a la Cheers.\n'
-                          '\n'
-                          "I'm looking forward to seeing more.",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi3148002841',
              'name': 'The Good Place Trailer',

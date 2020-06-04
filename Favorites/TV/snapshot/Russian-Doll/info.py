@@ -47,33 +47,6 @@
  'keywords': 'stuck in a time loop,time loop,facing the past,cynical '
              'woman,jewish woman',
  'name': 'Russian Doll',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'bluesinab'},
-            'dateCreated': '2019-02-04',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt7520794/'},
-            'name': 'Amy Poehler and Natasha Lyonne 👏🏾👏🏾👏🏾👏🏾👏🏾👏🏾👏🏾👏🏾👏🏾',
-            'reviewBody': 'In semi-typical fashion it started a little slow in '
-                          'interest for me but I watched the first episode and '
-                          'said,"Ok, one more..." And then of course you get '
-                          'the obligatory, "Well, I HAVE to see what happens '
-                          'next.." which is followed by, "Well, who the hell '
-                          'is THIS character?" And then of course the reaction '
-                          'of, " Oh Hell Naw!" Which proceeds the ever '
-                          'popular, "ARE YOU KIDDING ME?!?" But then you get '
-                          'the "Oh I got this" episode. Only to be smacked by '
-                          'the " Whoa.... didn\'t see THAT coming" show. Which '
-                          'all is summed up with "More please.."\n'
-                          '\n'
-                          'bravo 👏🏾Netflix, Natasha Lyonne, Amy Poehler & '
-                          'Russian Doll 👏🏾👏🏾👏🏾👏🏾\n'
-                          '\n'
-                          '#BookOfJimmy',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Russian Doll: Season 1',
              'embedUrl': '/video/imdb/vi459521305',

@@ -41,28 +41,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjQwMTI0NzcyOF5BMl5BanBnXkFtZTgwNzkzMTg0NDE@._V1_.jpg',
  'keywords': 'internet,dark web,tor hidden service,silk road,cypherpunk',
  'name': 'Deep Web',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ggiulia'},
-            'dateCreated': '2018-01-14',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt3312868/'},
-            'name': 'One major contradiction?',
-            'reviewBody': 'The underlying message in this documentary is about '
-                          'seeking peace and avoiding violence... why do they '
-                          'interview and portray in a favourable way Cody '
-                          'Wilson, who, as far as I get it, is commercializing '
-                          'a DIY printable gun? Cody also speaks highly of '
-                          'Ross Ulbricht, whose goal seems to be eliminating '
-                          'the use of force in society. This contradicting '
-                          "aspect of the documentary I really didn't get. "
-                          "Having said this, Ulbricht's story seems "
-                          "heartwrecking and it doesn't sound like he had a "
-                          'fair trial.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '6',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A documentary that looks into the online black '
                             'market Silk Road and the arrest of its alleged '

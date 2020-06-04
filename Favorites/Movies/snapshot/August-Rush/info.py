@@ -51,35 +51,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNDIwNjE3NjU2NV5BMl5BanBnXkFtZTcwNTQ2NjQzMw@@._V1_.jpg',
  'keywords': 'baby,cellist,prodigy,rhapsody,genius',
  'name': 'August Rush',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'askjudyww'},
-            'dateCreated': '2007-11-22',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0426931/'},
-            'name': 'Cynics Need Not Apply',
-            'reviewBody': 'This is an urban fairy tale. If you go to AUGUST '
-                          'RUSH with the intention of poking holes in it, you '
-                          'can find little glitches and logic flaws. On the '
-                          'other hand, if you are looking for a movie that '
-                          'will sing to your soul (and show you some beautiful '
-                          'eye candy as a bonus), look no farther. The casting '
-                          'director and cinematographer should each get an '
-                          'award. This gem of a movie takes us on a journey, '
-                          'and the people we meet along the way are well worth '
-                          'the ticket price. \n'
-                          '\n'
-                          'A trio of beautiful performances form the heart of '
-                          'this film, although the secondary characters are '
-                          'also crisply compelling. A day after seeing it, I '
-                          'find that specific shots of their faces still glow '
-                          'in mind like pieces of a mosaic. And the music is a '
-                          'genuine addition, as it should be in a film of this '
-                          'kind. I was genuinely moved.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'August Rush Trailer',
              'embedUrl': '/video/imdb/vi380764441',

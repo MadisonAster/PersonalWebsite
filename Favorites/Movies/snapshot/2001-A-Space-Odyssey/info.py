@@ -49,45 +49,6 @@
  'keywords': 'monolith,star child,human versus computer,number in '
              'title,computer',
  'name': '2001: A Space Odyssey',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'tapioylinen'},
-            'dateCreated': '2000-02-07',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0062622/'},
-            'name': 'The Order of the Universe',
-            'reviewBody': 'I spent many a sleepless night after watching 2001. '
-                          'Not only because of the psychological horror (of '
-                          'which 2001 is a masterpiece) but also because of '
-                          'the way it brought me (a restless soul) some '
-                          'clarity to the way I observe the universe. It '
-                          'changed my way of thinking in a very profound way. '
-                          'And after reading the novel (by Arthur C. Clarke) I '
-                          'found myself once again inspired (a writer as I am) '
-                          'by the level of imagination.\n'
-                          '\n'
-                          'The Space Odyssey is not something one can just "go '
-                          'and see". One has to be ready for it, or it cannot '
-                          "be understood. In fact I don't think it can be "
-                          'understood at all, at least not all of it at once. '
-                          'It is a philosophical journey to the infinite and '
-                          "beyond, a masterpiece of it's genre and still after "
-                          '32 years technically quite impressive all the way '
-                          "to the powerful musical soundtrack featuring 'Also "
-                          "spracht Zarathustra' by Richard Strauss and 'Blue "
-                          "Danube' by Johann Strauss.\n"
-                          '\n'
-                          'Take all the time you want, but eventually you are '
-                          'going to have to see this film. If it can bring '
-                          'some order and understanding to the universe of a '
-                          'struggling artist like me, it can certainly do it '
-                          'for you as well.\n'
-                          '\n'
-                          "Or maybe I'm just plain crazy...",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Humanity finds a mysterious, obviously artificial '
                             'object buried beneath the Lunar surface and, with '

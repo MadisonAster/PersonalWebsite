@@ -63,57 +63,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNTk4NjBhZTUtN2MwMy00MzIyLWFhN2ItMmUwYzQ4MWQxODM3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg',
  'keywords': 'based on video game,profanity,disease,silver hair,phone',
  'name': 'Fainaru fantajî sebun adobento chirudoren',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'UberNoodle'},
-            'dateCreated': '2005-09-15',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0385700/'},
-            'name': 'Awesome spectacle and great adventure',
-            'reviewBody': 'Just watched it then. It is pretty damn awesome. '
-                          'The fights are fantastic and the magic is really '
-                          "cool! It's totally like a video-game in parts, with "
-                          'some amazing hand-to-hand combat in there.\n'
-                          '\n'
-                          'This film is for the fans: "To those who loved this '
-                          'world once before and spent time with its friends, '
-                          'gather again and devote your time..." Besides this '
-                          'ominous opening, the story was not very hard to '
-                          'follow, and Ihave never played a Final Fantasy '
-                          'game. I think it pays to be familiar with Role '
-                          'Playing Games in general; knowledge of the genre '
-                          'kinda helps you grasp some of it better. I think '
-                          'though that if you pay attention, and accept what '
-                          "the film throws at you, it's quite easy to "
-                          "understand. There is a lot that isn't explicitly "
-                          'explained, and if you demand that it should be then '
-                          'you will probably be confused and irritated.\n'
-                          '\n'
-                          'Watching the film is like being dropped into the '
-                          'middle of some grand saga, and having to put as '
-                          'much of the puzzle together as possible. I like '
-                          'that approach; you get caught up in the mystery and '
-                          'confusion that all the characters are going '
-                          'through. But like I said, just be accepting. If a '
-                          'weird red lion thing that talks, turns up and '
-                          'starts kicking ass and taking names, and the other '
-                          "characters just say he's an old friend, accept it "
-                          "and move on; you don't need a biopic flashback, or "
-                          'a tell-all sit-me-down. You are an observer here, '
-                          'of something beyond your experience and '
-                          'undestanding.\n'
-                          '\n'
-                          'So: fantastic graphics and animation, great voice '
-                          'acting, cool video game styled music, involving '
-                          'story and characters, and maybe some of the coolest '
-                          "fights you'll see in a while. It's worth seeing, "
-                          'and while it IS for the fans, it is perfectly '
-                          'accessible for people like me that have never '
-                          'played the games.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Blu-Ray trailer for this animated action film',
              'embedUrl': '/video/imdb/vi150209049',

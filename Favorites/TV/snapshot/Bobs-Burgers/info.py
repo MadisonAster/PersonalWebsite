@@ -43,28 +43,6 @@
  'keywords': '2010s,adult animation,black comedy,girl wears eyeglasses,male '
              'actor plays a female character',
  'name': "Bob's Burgers",
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'amesadamson-948-203220'},
-            'dateCreated': '2011-01-12',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1561755/'},
-            'name': 'Brilliant',
-            'reviewBody': 'I laughed my head off from the first minute until '
-                          'the end. I think the dry, real, banal, hilarious, '
-                          'humor is amazing. Best thing on TV since the '
-                          "Simpsons and Family Guy! Bravo! I can't wait for "
-                          'more! These writers and actors have nailed a '
-                          'reality like no others. I love the take it on the '
-                          "chin frustration. Right on. If you don't get "
-                          'it...you don\'t get it. If you do you know "its '
-                          'people"! i was convinced from the trailers that I '
-                          'would like it and I did. I waited for weeks for '
-                          'this show to come on, then when it did I was out of '
-                          'town and had to catch it on Hulu.com, fortunately. '
-                          "Great work Fox! I think if the network doesn't get "
-                          'the response they need or want there will be a huge '
-                          'following on the web.'},
  'trailer': {'@type': 'VideoObject',
              'description': "Series Trailer for Bob's Burgers",
              'embedUrl': '/video/imdb/vi3450714137',

@@ -42,32 +42,6 @@
  'keywords': 'planetary romance,shared universe,outer space,artificial '
              'intelligence,tattoo',
  'name': 'Caprica',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'katkoot-kate'},
-            'dateCreated': '2009-09-29',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0799862/'},
-            'name': 'Fraking amazing',
-            'reviewBody': 'I loved it, having been a fan of the original '
-                          'series, I have always wondered what the back story '
-                          "would be - it didn't fail to delight me. I also "
-                          "love the fact that apart from Eric Stoltz I didn't "
-                          'recognise one person - this is refreshing, much '
-                          'like BSG. It has introduced me to a whole wealth of '
-                          "new talent - can't wait for the series to start "
-                          'airing. Well done to Ronald D. Moore and team - '
-                          'excellent job. The special effects, dialogue and '
-                          'acting were all spot on, and I felt emotionally '
-                          'tied up in the storyline. I know there are purists '
-                          'out there that will probably disagree with my '
-                          'assessment, but I felt that Caprica was far '
-                          'superior to most of the Sci-Fi stuff produced in '
-                          'the last decade.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for Caprica: Season 1.0',
              'embedUrl': '/video/imdb/vi2855180569',

@@ -42,32 +42,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg',
  'keywords': 'scotland,revolt,england,legend,idealism',
  'name': 'Braveheart',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'MR_Heraclius'},
-            'dateCreated': '2020-02-24',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0112573/'},
-            'name': '"Every man dies, not every man really lives."',
-            'reviewBody': 'The Academy Award winning war epic Braveheart is an '
-                          'extraordinary film that set a new bar for the '
-                          'genre. The story follows a Scottish peasant named '
-                          "William Wallace who's pushed into leading a "
-                          'rebellion against the tyranny of English rule when '
-                          'his wife is murdered. Starring Mel Gibson, Patrick '
-                          'McGoohan, Sophie Marceau, and Brendan Gleeson, the '
-                          'film has a strong cast that delivers outstanding '
-                          'performances. Additionally, the battle sequences '
-                          'are remarkably gritty and violent, which adds to '
-                          'the authentic tone of the film. And, composer James '
-                          'Horner provides a sweeping and majestic score '
-                          "that's incredibly powerful. A groundbreaking film, "
-                          'Braveheart does an exceptional job at depicting '
-                          'both the valor and the horror of war.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi2874063641',
              'name': 'Official Trailer',

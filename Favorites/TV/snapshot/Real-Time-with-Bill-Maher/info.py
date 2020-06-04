@@ -35,18 +35,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BYzQ2MTM0MTUtZDQ0Yy00ZGM2LThkMmItNDdjMDRkMTZiMDlmXkEyXkFqcGdeQXVyODg3NDc1OTE@._V1_.jpg',
  'keywords': 'guest,witty host,social commentary,five word title,name in title',
  'name': 'Real Time with Bill Maher',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'pierpont75'},
-            'dateCreated': '2003-10-30',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0350448/'},
-            'name': 'Political views from a failed actor turned stand up comic',
-            'reviewBody': 'Complete waste of time. As predictable as those old '
-                          '"point/counterpoint" segments that ran on 60 '
-                          'Minutes. Maher was funnier before he began to '
-                          'actually think of himself as a pundit. To me, he '
-                          'just comes across as an arrogant bore.'},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi2030353177',
              'name': 'Season 16 Official Trailer',

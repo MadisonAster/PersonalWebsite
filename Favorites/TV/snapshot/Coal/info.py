@@ -32,19 +32,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjAyNzk0NDkxNV5BMl5BanBnXkFtZTgwMDA4NzcwMzE@._V1_.jpg',
  'keywords': 'coal,coal mining,west virginia',
  'name': 'Coal',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Loveunderlaw'},
-            'dateCreated': '2019-09-06',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1745045/'},
-            'name': 'A really great show, so sad to see no new seasons though!',
-            'reviewBody': 'This show was very realistic, my dad has coal '
-                          'miners in his family & they agreed with the show '
-                          'saying "it\'s very tough & dangerous work". It '
-                          'would be nice if they put it back on the air.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'url': '/title/tt1745045/'}

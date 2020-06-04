@@ -39,32 +39,6 @@
  'keywords': 'anthology series,2010s,fictional horror series,reference to '
              'candle cove,reference to creepypasta',
  'name': 'Channel Zero',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'afall-33599'},
-            'dateCreated': '2017-01-28',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt4820370/'},
-            'name': 'A Rare Treat- Great TV Show!',
-            'reviewBody': 'I have found that there are many movies and TV '
-                          'shows out there that go for a lot of shock factor '
-                          'through disturbing imagery/ plot devices and '
-                          'over-the-top gore. Because of these standards '
-                          'becoming more consistent it has become more '
-                          'difficult for me to find actually "scary" or '
-                          '"creepy" movies and TV shows vs just plain '
-                          'disturbing or shocking ones. Channel Zero (Candle '
-                          'Cove) immediately brought a creepy element into the '
-                          'story from episode 1 and carried it through to the '
-                          'end in what I have found was an altogether creepy, '
-                          'thrilling and actually scary story. SYFY knocked '
-                          'this one out of the park I cannot wait for season '
-                          '2. Take note, Ryan Murphy- this is what a REAL '
-                          'horror story looks like.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi2419570713',
              'name': 'Channel Zero Official Trailer',

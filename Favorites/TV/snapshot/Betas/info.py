@@ -38,33 +38,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTQxNTM1MTk2NF5BMl5BanBnXkFtZTgwNzA0ODY2MDE@._V1_.jpg',
  'keywords': 'friend',
  'name': 'Betas',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'tmcarroll'},
-            'dateCreated': '2013-12-06',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt3012184/'},
-            'name': 'Hilarious! Brilliant!',
-            'reviewBody': 'Finally someone has done a comedy series about '
-                          "Silicon Valley, and it's good! The show is sort of "
-                          'Entourage in Silicon Valley. Smart, savvy and '
-                          "hilarious! It's not perfect, but better than 95% of "
-                          "what you'll find on TV. \n"
-                          '\n'
-                          'The show has the same nervous energy that permeates '
-                          'Silicon Valley startup culture. The creators '
-                          'obviously did their homework. They get a lot right, '
-                          'though the drug references are overdone and at '
-                          'times silly. The characters are interesting, though '
-                          'sometimes over the top.\n'
-                          '\n'
-                          "The show is addicting. Can't wait for the next "
-                          'episode to be uploaded. Netflix and Hulu watch out, '
-                          'Amazon is in the game!',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Watch title sequence for the Amazon Studios '
                             'series "Betas".',

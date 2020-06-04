@@ -58,42 +58,6 @@
  'keywords': 'live action remake of anime,titan,giant,man eating giant,two '
              'parts',
  'name': 'Shingeki no kyojin',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ohiramine'},
-            'dateCreated': '2015-08-17',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2072230/'},
-            'name': 'Do yourself a favor and watch it with an open mind .. is '
-                    'not that bad',
-            'reviewBody': "Well let's start by saying that we all knew coming "
-                          'in that the movie was going to be different from '
-                          'the manga and the anime. The movie was supervised '
-                          'by Hajime Isayama the author. The story is similar '
-                          'but is its own story. The CGI of course is not like '
-                          'the Hollywood movies CGI but then again the budget '
-                          'for Japanese movies compared to Hollywood movies '
-                          'are lower. I think they did a decent job with the '
-                          'CGI and the story is not that bad. You have to go '
-                          'into this movie with an open mind and try not to '
-                          'compared to the manga. I laugh when I see people '
-                          'complaining that all the actors are Japanese and '
-                          'that they should be white ..These are the same '
-                          'people that talked trash about Dragon Ball '
-                          'Evolution. The ones that said " why did Hollywood '
-                          'destroyed my childhood? " .. well now they want '
-                          'Hollywood to make AOT... The acting was decent and '
-                          "I really can't wait for the second part. Let's not "
-                          'forget that a lot of movies that are based on books '
-                          'and novels are always change... people are crying '
-                          "for Hollywood to do it better ..well let's see what "
-                          'they are going to say once Lionsgate makes the '
-                          'Naruto live action movie since they got the right '
-                          'to it from what I read...',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '6',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The story of a world where most of humanity has '
                             'been destroyed by giants and where the last of '

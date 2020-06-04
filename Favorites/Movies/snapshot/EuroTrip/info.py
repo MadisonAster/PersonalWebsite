@@ -56,22 +56,6 @@
  'keywords': 'public nudity,nudist,nudity,incestuous kiss,female frontal '
              'nudity',
  'name': 'EuroTrip',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'tarynkstilwell'},
-            'dateCreated': '2019-05-16',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0356150/'},
-            'name': 'A cult classic at this point',
-            'reviewBody': 'Eurotrip may have been panned by critics, but most '
-                          'of my millennial friends hold it up as a classic '
-                          "raunch-com. It is truly hilarious. And you can't "
-                          'help but walk away from watching it while singing '
-                          '"Scotty doesn\'t know..."',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for EuroTrip',
              'embedUrl': '/video/imdb/vi2946826521',

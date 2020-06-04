@@ -41,30 +41,4 @@
  'keywords': 'alternative comedy,vulgarity,stand up comedian,shock '
              'humor,sexual humor',
  'name': 'Pretend Time',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'thrillerbooking'},
-            'dateCreated': '2011-06-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1721648/'},
-            'name': "Either you get it or you don't",
-            'reviewBody': "I've come to find that all GOOD shows don't get "
-                          'their due when they are aired and are then found to '
-                          'be groundbreaking years afterwords. Point in case, '
-                          "Family Guy. I'm sad to say this will be one of "
-                          "those shows that is AMAZING but will not get it's "
-                          "due until it's on netflix or something. I loved "
-                          'every episode and tuned in every week to see it. '
-                          "Keep on keepin' on Nick and this show is HILARIOUS! "
-                          'DONUTS MAKE US GO NUTS! and so many other instantly '
-                          "classic quotes that i fear won't be popular until "
-                          'way after the show is aired :( i love this show and '
-                          "wish and hope it doesn't get canceled or hasn't "
-                          'already been canceled. that would be yet another '
-                          "comedy central show they can before it gets it's "
-                          'chance. *sigh*',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'url': '/title/tt1721648/'}

@@ -53,30 +53,6 @@
  'keywords': 'rape,conspiracy,doomsday clock,false promise of the american '
              'dream,nihilist',
  'name': 'Watchmen',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'tobbe_aik_9'},
-            'dateCreated': '2019-09-04',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0409459/'},
-            'name': 'Not your typical comicbook movie',
-            'reviewBody': 'Christopher Nolan was right. This movie indeed came '
-                          'out too early.\n'
-                          '\n'
-                          'This movie not only shows us the pictures. But also '
-                          'the people behind them. What I love about Watchmen '
-                          "is that it's mature and basic study of how our "
-                          "society is structured. There's so many quotes that "
-                          'can be used in todays world. And with Zack Snyders '
-                          'visuals. It really blends well.\n'
-                          '\n'
-                          'I gotta say. People calling this movie "boring" are '
-                          "the ones watching 4 movies a year. And they're all "
-                          'action heavy blockbusters.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'When an ex-superhero is murdered, a vigilante '
                             'named Rorshach begins an investigation into the '

@@ -46,37 +46,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTYzZWE3MDAtZjZkMi00MzhlLTlhZDUtNmI2Zjg3OWVlZWI0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg',
  'keywords': 'arms dealer,prostitution,sex standing up,new york city,ukrainian',
  'name': 'Lord of War',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'OriginalMovieBuff21'},
-            'dateCreated': '2006-02-14',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0399295/'},
-            'name': 'Interesting film by a new starter, Andrew Niccol',
-            'reviewBody': 'Lord of War is about an arms dealer named Yuri '
-                          'Orlov who confronts the morality of his work while '
-                          'being chased by an Interpol agent. This is a very '
-                          'interesting film brought by director and writer of '
-                          'the film, Andrew Niccol (Gattaca). This is another '
-                          'great film of his that will boost up his career '
-                          'even more. Nicolas Cage puts up another great '
-                          'performance of the year and although his acting is '
-                          'very ostentatious, his narrating just like in The '
-                          'Weather Man, which came out a couple months later, '
-                          'is perfect. The dialogue is very good and the '
-                          "script couldn't be any better. Most of all, I "
-                          'clearly gave respect to Andrew Niccol, because '
-                          'honestly, he deserves the most credit out of any '
-                          'one who worked on the film. My hat goes off for '
-                          "him. Overall, great film of 2005 and I'll be paying "
-                          "more attention to Andrew Niccol's movies. I highly "
-                          'recommend it.\n'
-                          '\n'
-                          "Hedeen's Outlook: 8.5/10 ***+ B+",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for this action film starring Nicholas '
                             'Cage as a gun runner',

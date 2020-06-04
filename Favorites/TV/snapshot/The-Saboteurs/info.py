@@ -48,25 +48,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTU4NTU0NDc5OV5BMl5BanBnXkFtZTgwMjc0ODk1NTE@._V1_.jpg',
  'keywords': 'sabotage,physicist,nazi germany,resistance,world war two',
  'name': 'Kampen om tungtvannet',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'chbua'},
-            'dateCreated': '2019-11-22',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt3280150/'},
-            'name': 'Probably the best Norwegian TV series there has ever been',
-            'reviewBody': 'For us Scandinavians there is a lot of familiar '
-                          'faces in the cast. They really brought the big guns '
-                          'for this one. Casting is great, acting is superb '
-                          'and we all in all get the same from this series as '
-                          "we got from Max Manus, maybe even more. It's based "
-                          'upon what actually happened, with some artistic '
-                          'freedoms of course. But largely sticks to the '
-                          'story. If you can somewhat understand Norwegian or '
-                          'enjoy foreign cinema/tv series (not in english), '
-                          'you should definitely give this a try.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'url': '/title/tt3280150/'}

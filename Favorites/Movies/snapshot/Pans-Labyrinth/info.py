@@ -48,44 +48,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTU3ODg2NjQ5NF5BMl5BanBnXkFtZTcwMDEwODgzMQ@@._V1_.jpg',
  'keywords': 'fairy,hiding,maze,spain,labyrinth',
  'name': 'El laberinto del fauno',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ThreeSpoons82'},
-            'dateCreated': '2006-09-15',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0457430/'},
-            'name': 'Beautiful!',
-            'reviewBody': 'I saw this at this years FrightFest Film Festival '
-                          'in London and absolutely loved it.\n'
-                          '\n'
-                          'Guillermo was there to introduce it and you can '
-                          'tell it really is a film he loves and is passionate '
-                          'about.\n'
-                          '\n'
-                          'He referred to it as a sister movie to The Devils '
-                          'Backbone.\n'
-                          '\n'
-                          'Anyway . . . so the film starts and I must admit I '
-                          'was expecting a lot more of a fantasy film however '
-                          'it is more of a 70/30 split between historical era '
-                          'movie/fantasy fairytale.\n'
-                          '\n'
-                          "Don't let this put you off though, the film really "
-                          'is stunning and brilliantly acted. The little girl '
-                          'carries pretty much the whole film on her shoulders '
-                          'and does so with the skill of Atlas himself! \n'
-                          '\n'
-                          'The violence is graphic and the monsters are scary '
-                          'but it is probably one of the most gorgeous and '
-                          'personal films from a director for a long time!\n'
-                          '\n'
-                          "Give it a go if you can get to a screening, DON'T "
-                          'WAIT FOR DVD, it really does need to be seen on a '
-                          'big screen!',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi1876343321',
              'name': 'Tráiler [OV]',

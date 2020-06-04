@@ -47,31 +47,4 @@
  'keywords': 'secret agent,lynchian,psychological disintegration,reality vs '
              'fantasy,repressed homosexual',
  'name': 'Naked Lunch',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'George_W_Bush_Jr'},
-            'dateCreated': '2007-03-26',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0102511/'},
-            'name': 'Huh?',
-            'reviewBody': 'Somebody told me to watch this because it would '
-                          'help me understand people taking drugs. I think I '
-                          'would have to be on drugs to understand it though, '
-                          'or maybe read the book. Maybe that was there point? '
-                          'Somebody also told me it was based on a book. '
-                          'Obviuously not the bibel. Well, anyway, I guess '
-                          "that explains why I didn't understand it.\n"
-                          '\n'
-                          'Anyway, the movie is a comedy with a lot of scenes '
-                          'that remind me of my favoirite old time Walt Disney '
-                          'movies. There are typing talkwriters with flesh '
-                          'volcanoes for mouths and funny green aliens with '
-                          'slimy hoses coming out of their heads and European '
-                          "accents, and a lot of bugs. At least that's what I "
-                          'think.\n'
-                          '\n'
-                          "I wanted to leave after about an hour, but couldn't "
-                          'find my way out of the livingroom. I guess next '
-                          'time I will have to put together an exit strategy '
-                          'before I watch another weird one like this.'},
  'url': '/title/tt0102511/'}

@@ -61,50 +61,6 @@
  'keywords': 'train,perpetual winter,closed ecological system,population '
              'control,dystopia',
  'name': 'Snowpiercer',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'katycrit'},
-            'dateCreated': '2015-08-04',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1706620/'},
-            'name': "It's commentary, not plot holes.",
-            'reviewBody': 'I noticed that people seemed to rate this film '
-                          'either quite high or extremely low and reading the '
-                          'reviews, I can see that those who rated high and '
-                          'those who rated low were watching completely '
-                          'different movies. \n'
-                          '\n'
-                          'A huge part of the negative criticisms for this '
-                          'movie is the prevalence of plot holes. These are '
-                          'absolutely undeniable. The concept is far-fetched, '
-                          'the execution bizarre, and the upper class '
-                          'characters quite comical. The key to appreciating '
-                          'this film is understanding its purpose. Snowpiercer '
-                          'is clearly a social commentary, but going into it '
-                          'expecting a Hunger Games sort of dystopian social '
-                          'commentary, you are absolutely going to find it '
-                          'ridiculous.\n'
-                          '\n'
-                          'Instead, a much better genre match to this film '
-                          'would be Brazil. Its absurdity makes it even more '
-                          'horrifying. The fact that there is no true logic, '
-                          'the contrast between the dingy tail section and the '
-                          'bright colors and extravagance of the front, and '
-                          'the utter hopelessness of the plot make this movie, '
-                          'yes, bizarre to watch and difficult to relate to. '
-                          'However, the alienation of this world from ours '
-                          'brings out the social commentary and the cautionary '
-                          'tale within.\n'
-                          '\n'
-                          'Another up-side was the diversity presented in the '
-                          'train and the framing of women WITHOUT the male '
-                          'gaze! All in all, I was pleasantly surprised by '
-                          'this film and my only real criticism is that it was '
-                          'way too long.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'In a future where a failed global-warming '
                             'experiment kills off all life on the planet '

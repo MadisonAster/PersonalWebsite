@@ -50,29 +50,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg',
  'keywords': 'rivalry,illusion,obsession,magician,secret',
  'name': 'The Prestige',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'orko_dutta'},
-            'dateCreated': '2019-07-13',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0482571/'},
-            'name': 'Fantastic!',
-            'reviewBody': 'The final reveal in a magic trick is the most '
-                          'thrilling experience. So is that of this movie. The '
-                          'Prestige is a masterful exercise in storytelling '
-                          'with superb direction and powerful performances. I '
-                          'was floored by the deftness of how Nolan weaved and '
-                          'juxtaposed the non linear narrative so flawlessly. '
-                          'What makes this movie so incredible is that while '
-                          'it is indeed a movie about magicians (or '
-                          'illusionists) it is also a complex character study '
-                          'about how self destructive obsessions are with a '
-                          'sideline love story and a sci-fi twist - very '
-                          'unique.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Two stage magicians engage in competitive '
                             'one-upmanship in an attempt to create the '

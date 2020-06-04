@@ -43,30 +43,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTI4NjkxNjQyN15BMl5BanBnXkFtZTcwNzQ1NDgyMQ@@._V1_.jpg',
  'keywords': 'cover up,army,military,u.s. air force,u.s. army',
  'name': 'The Pentagon Wars',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'silverauk'},
-            'dateCreated': '2002-06-30',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0144550/'},
-            'name': 'The war for a good quality troopers-transport vehicle.',
-            'reviewBody': 'This movie could have been good to watch on a big '
-                          'screen.  The humor is good, the dialogues are fine '
-                          'and the actors never overact.  General Partridge '
-                          '(Kelsey Grammer) forgets that the business of war '
-                          'begins with providing good material to the troops. '
-                          'Colonel James Burton (Cary Elwes) knows this and he '
-                          'delivers a speech to the test-company that must '
-                          'make a demonstration of the Bradley troop '
-                          'transporter.  The senatorial commission cannot '
-                          'understand that the development costs of the '
-                          'vehicle lasted for 17 years and costed 14 billion '
-                          'dollars.  The hearings and questions of that '
-                          'commission provides one of the most humoristic '
-                          'scenes of the movie and are unsurpassed by other '
-                          'political movies.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'url': '/title/tt0144550/'}

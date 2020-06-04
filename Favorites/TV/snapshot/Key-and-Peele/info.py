@@ -44,37 +44,6 @@
  'keywords': 'sketch comedy,written by jordan peele,written by keegan michael '
              'key,2010s,comedy central',
  'name': 'Key and Peele',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'TopDawgCritic'},
-            'dateCreated': '2017-03-04',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1981558/'},
-            'name': 'Key and Peele make SNL look like the worst episode on '
-                    'Sesame Street',
-            'reviewBody': 'Key and Peele make SNL look like the worst episode '
-                          'on Sesame Street.\n'
-                          '\n'
-                          'If these two where put on earth to do this series '
-                          "and that's it, we've been blessed.\n"
-                          '\n'
-                          'This is top shelf comedic brilliance in every '
-                          'aspect. The quality of the skits is outstanding. '
-                          "I'm shocked how they fit so much entertainment in "
-                          '30 min. Yet it leaves me smiling all day. Even the '
-                          'extra actors in the skits have better acting skills '
-                          'than most of the hosts on SNL.\n'
-                          '\n'
-                          'Good days or bad days, these guys make me laugh.\n'
-                          '\n'
-                          'My only complaint is that I wish each episode was '
-                          'at least 60 min.\n'
-                          '\n'
-                          'And very sad this legendary series is over.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Key & Peele',
              'embedUrl': '/video/imdb/vi3583687961',

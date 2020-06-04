@@ -45,49 +45,4 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNjI0ODAxMDUwNl5BMl5BanBnXkFtZTcwMDU3MjE1MQ@@._V1_.jpg',
  'keywords': 'enron,corporation,accounting,accounting fraud,corporate crime',
  'name': 'Enron: The Smartest Guys in the Room',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'lee_eisenberg'},
-            'dateCreated': '2010-01-19',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1016268/'},
-            'name': 'corporate fraud reigns supreme',
-            'reviewBody': 'When Enron filed for bankruptcy at the end of 2001, '
-                          'it was a shock to most Americans. But as "Enron: '
-                          'The Smartest Guys in the Room" shows, it shouldn\'t '
-                          'have been. The documentary, narrated by Peter '
-                          "Coyote, traces the energy giant's origins - "
-                          "including CEO Ken Lay's childhood - to its rise as "
-                          'one of the largest corporations in the United '
-                          'States.\n'
-                          '\n'
-                          "What's really interesting is the intricacy of "
-                          "Enron's actions around the world, and how it pulled "
-                          'off all its shenanigans (aided, of course, by Kenny '
-                          "Boy's contributions to George W. Bush's first "
-                          "presidential campaign). Among Enron's more vicious "
-                          "acts was its manipulation of California's "
-                          'electricity in summer, 2001, and how Arnold '
-                          'Schwarzenegger let the company off the hook. Not to '
-                          "mention that Enron's collapse was accompanied by "
-                          "Lay's draining of the employees' retirement.\n"
-                          '\n'
-                          "Enron's downfall - followed over the next year by "
-                          'the implosions of Adelphia, WorldCom and Tyco - '
-                          'just goes to show the dangers of letting '
-                          'corporations run rampant. The whole way through, '
-                          'the documentary manages to be funny, just at the '
-                          'sight of what Enron was doing, abetted by Arthur '
-                          'Andersen.\n'
-                          '\n'
-                          'All in all, I definitely recommend "E:TSGITR".\n'
-                          '\n'
-                          'PS: In "Bowling for Columbine", Michael Moore '
-                          'proposed a TV show called "Corporate Cops" (based '
-                          'on "Cops!"), in which people like Ken Lay would get '
-                          'strip-searched.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'url': '/title/tt1016268/'}

@@ -55,47 +55,6 @@
  'keywords': 'time travel,temporal agent,time machine,time paradox,in love '
              'with oneself',
  'name': 'Predestination',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Jqn_Hgar'},
-            'dateCreated': '2014-11-26',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2397535/'},
-            'name': 'the little you know about it the better',
-            'reviewBody': "it's been a while since i've been this satisfied "
-                          "with a movie, it's compelling, thought provoking "
-                          'and extremely clever film that keeps you guessing '
-                          'to the last frame.\n'
-                          '\n'
-                          'excellent storytelling thanks for the great work '
-                          'from the directors/writers despite the low budget '
-                          'they pulled out a great movie with good production '
-                          'values, sets, costumes and special effects.\n'
-                          '\n'
-                          'powerhouse performances from the two leads Ethan '
-                          'Hawke as usual is a very serious actor though he '
-                          "haven't been in any good movies in the past few "
-                          "years but you can see that he's making a comeback "
-                          'with this one as well as this years magnificent '
-                          'BOYHOOD but his performance in PREDESTINATION is a '
-                          'very strong one because he had to handle such a '
-                          'very complicated character, same thing goes for '
-                          'Sarah Snook.\n'
-                          '\n'
-                          'the less i say about the plot the better, this is '
-                          'the kind of movies where you have focus throughout '
-                          'the whole runtime of it trying to figure out where '
-                          'is it going and any detail that you miss might ruin '
-                          "the whole experience for you but hey don't worry "
-                          "there's an explanation for everything here. \n"
-                          '\n'
-                          "this movie is one of this years' personal favorites "
-                          'as well as the indie of the year so far (still have '
-                          'to see BIRDMAN).',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A Temporal Agent is sent on an intricate series '
                             'of time-travel journeys designed to ensure the '

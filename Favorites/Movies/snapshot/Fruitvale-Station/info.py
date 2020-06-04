@@ -43,44 +43,6 @@
  'keywords': 'gay,friendship,reference to the pittsburgh steelers,ex '
              'convict,officer',
  'name': 'Fruitvale Station',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Red-125'},
-            'dateCreated': '2013-09-16',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2334649/'},
-            'name': 'Do you call 911 when the killer is a cop?',
-            'reviewBody': 'SPOILER: Fruitvale Station (2013) was written and '
-                          'directed by Ryan Coogler. Michael B. Jordan plays '
-                          'Oscar Grant III, an African-American man who was '
-                          'shot to death in the Fruitvale BART station on '
-                          'January 1st, 2009. The man who killed him was a '
-                          'police officer. The killer was convicted of '
-                          'involuntary manslaughter and served about two years '
-                          'in jail.\n'
-                          '\n'
-                          'The film follows Grant through his last day of '
-                          'life--December 31st, 2008. We watch as Grant '
-                          'interacts with his common-law wife, their young '
-                          'daughter, friends, relatives and strangers. Grant '
-                          'comes across as a basically decent man--flawed, '
-                          'undependable, but clearly in love with his family, '
-                          'his partner. and their little girl. \n'
-                          '\n'
-                          "It's hard to enjoy this film, because it's based on "
-                          'a truly tragic event, and we know how the story '
-                          'will end from the beginning of the movie. Still, '
-                          'Fruitvale Station is definitely worth seeing, '
-                          "because it reminds us that everyone's life is "
-                          'always at risk, but that the risks for young, '
-                          'African-American men are higher.\n'
-                          '\n'
-                          "The movie will work well on DVD. It's definitely "
-                          'worth seeking out and seeing.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The true story of Oscar, a 22-year-old Bay Area '
                             'resident, who crosses paths with friends, '

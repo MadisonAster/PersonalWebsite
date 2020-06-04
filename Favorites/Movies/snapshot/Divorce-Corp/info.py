@@ -50,44 +50,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTU2MzgxOTEzOF5BMl5BanBnXkFtZTgwNzAwNzg2MDE@._V1_.jpg',
  'keywords': 'social injustice,court,custody,marriage,feminism',
  'name': 'Divorce Corp',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'MartinHafer'},
-            'dateCreated': '2015-09-23',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2636456/'},
-            'name': 'Everyone contemplating divorce should see this FIRST.',
-            'reviewBody': 'I have never been divorced and have been happily '
-                          'married for almost 30 years, so I realize I am '
-                          'probably not the target audience for this film. '
-                          'However, if you, too, fall into a similar '
-                          "situation, it does not mean you shouldn't see "
-                          '"Divorce Corp"--in fact I think every American '
-                          'should as the film brings up many instances of '
-                          'judicial malfeasance that we SHOULD be aware of and '
-                          'which should make us angry. Imagine a court system '
-                          'with almost no oversight or right to appeal and '
-                          'whose aim is NOT a speedy resolution of family '
-                          'tragedies--whose ultimate aim, in many cases, is to '
-                          'bleed as much money from the divorcing couples as '
-                          "possible. And, imagine a system where what's best "
-                          'for the kids is sometimes unimportant. Welcome to '
-                          'the US family court system--where endless '
-                          'regulations, delays and costs practically bankrupt '
-                          'a person wanting a divorce. Learn about all this '
-                          'and more in this very hard hitting and interesting '
-                          'film. But also be prepared to finish the film '
-                          'feeling angry...\n'
-                          '\n'
-                          'And, by the way, if you are considering divorce, '
-                          'you may just want to watch this one first. After '
-                          'all, the idea of an easy, non- contested and '
-                          'inexpensive divorce is just about extinct and the '
-                          'acrimony that is to come is something to consider.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'An exposÃ© of the inner workings of the $50 '
                             'billion a year U.S. family law industry that '

@@ -55,34 +55,6 @@
  'keywords': 'vibrator,cheerleader,teen sex comedy,female '
              'masturbation,exchange student',
  'name': 'Not Another Teen Movie',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Shippmeister'},
-            'dateCreated': '2002-10-09',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0277371/'},
-            'name': 'oh yes, this is beautiful',
-            'reviewBody': 'Having seen 16 Candles, Pretty In Pink, Ferris '
-                          'Buelers Day off, The Breakfast Club and just about '
-                          'every film John Hughes ever made, I was able to '
-                          'appreciate this movie for all that it really is and '
-                          'make comparisons with the original. Absolute '
-                          'hilarity from the very beginning as it takes of 16 '
-                          'Candles except everybody remembers when, in this '
-                          'case, she would have wanted them too '
-                          'forget.(Vibrator incident) What follows is a slant '
-                          'on everything Hughes ever made "We are all just one '
-                          'big group here at John Hughes High, now everybody '
-                          'break off into smaller groups, take a good look at '
-                          'the people next to you, they will be your only '
-                          'friends for the next 4 years". this movie made me '
-                          'laugh and laugh, I dont know how some of my friends '
-                          "who haven't seen any Hughes movies except for "
-                          'Ferris Buellers Day Off would find some parts '
-                          'funny, but thats what you get for not watching fine '
-                          'movies, "Human recastranant!!!" Score: 9/10 (lost 1 '
-                          "point for the grandma kiss and the fact it didn't "
-                          'rip on Some Kind of Wonderful)'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Theatrical Trailer from Columbia Pictures',
              'embedUrl': '/video/imdb/vi547225881',

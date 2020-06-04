@@ -41,44 +41,6 @@
  'keywords': 'misanthropy,medical doctor,hospital,maverick doctor,cult '
              'favorite',
  'name': 'House M.D.',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Aiwe'},
-            'dateCreated': '2005-01-26',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0412142/'},
-            'name': 'Riot in the "House"!',
-            'reviewBody': 'This show is just a perfect riot, even though it is '
-                          'a drama. It is tightly-written, and there are at '
-                          'least as many layers to the characters as there are '
-                          'to the medical mysteries. The worst part about the '
-                          'show is having to wait a whole week for the next '
-                          'episode to air.\n'
-                          '\n'
-                          'The bickering and bantering among the doctors '
-                          'involved add an appreciable depth of humour and '
-                          'humanity as they work together to solve each case. '
-                          'The process they go through with each case shows '
-                          'the human fallibility of doctors as well as the '
-                          'fear and frustration of those waiting for the '
-                          'doctors to save their loved ones, and the show '
-                          'pokes fun at, justifies, argues against, dismisses '
-                          'and ultimately humanizes the arrogance for which '
-                          'doctors are infamous.\n'
-                          '\n'
-                          'The cast is absolutely fantastic - I just love how '
-                          'these people work together. They are absolutely '
-                          'real and human as their characters alternately '
-                          'combat and cooperate with each other. They are the '
-                          'reason the plots hang so well together. And Laurie '
-                          'is just supreme. The sarcasm, the barbs, the snide '
-                          'remarks, and even the insults are so ridiculously '
-                          'honest one has to laugh.\n'
-                          '\n'
-                          'Kudos to the casting people and the writers as well '
-                          'as the creator - this is one of the best shows '
-                          'ever. I hope it lives for many many seasons, and I '
-                          'can hardly wait to see where it leads!'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for House: Season Eight',
              'embedUrl': '/video/imdb/vi51488537',

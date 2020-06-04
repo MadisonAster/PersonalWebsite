@@ -40,29 +40,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjM5MzgzMjM3OF5BMl5BanBnXkFtZTgwMzQ2MzQwNzM@._V1_.jpg',
  'keywords': 'interactive movie,1980s,computer,gamebook,interactive',
  'name': 'Black Mirror: Bandersnatch',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'cjb_smith'},
-            'dateCreated': '2019-01-05',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt9495224/'},
-            'name': 'I think some here are completely missing the point',
-            'reviewBody': "It's very clever and very dark (but then Black "
-                          "Mirror always is). I do agree it's a bit "
-                          'prententious in places. Having now watched all of '
-                          'the 5 endings, and not without some exasperation, '
-                          'and yes repetition, the penny dropped that '
-                          'Bandersnatch is all about choices and the choices '
-                          'you think are under your control. The outcome is '
-                          'pretty bad no matter how you choose because the '
-                          'ultimate destiny is not in your hands. Choices in '
-                          'life are not always good versus bad. It asks more '
-                          'questions than it answers and while that might not '
-                          "be satisfactory to some, that's the whole point.",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'In 1984, a young programmer begins to question '
                             'reality as he adapts a sprawling fantasy novel '

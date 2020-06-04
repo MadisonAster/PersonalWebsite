@@ -51,25 +51,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BODg0YjAzNDQtOGFkMi00Yzk2LTg1NzYtYTNjY2UwZTM2ZDdkL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg',
  'keywords': 'whistleblower,tortuous interference,1990s,tobacco,cbs news',
  'name': 'The Insider',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'didi-5'},
-            'dateCreated': '2003-07-09',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0140352/'},
-            'name': 'Crowe and Pacino together',
-            'reviewBody': "Forget Russell Crowe's performance by numbers in "
-                          "'Gladiator' (good though that film was), and enjoy "
-                          'his acting talent here alongside Al Pacino.  Both '
-                          'men give inspired and classy masterclasses in how '
-                          "to put a character across. 'The Insider' is "
-                          'unusual, it is long and wordy (not often the case '
-                          'in modern movies), it has a superb soundtrack - '
-                          "'Sacrifice', in particular - and it makes you "
-                          'involved, makes you care.\n'
-                          '\n'
-                          'Curious, then, that a Roman epic outshone it.  A '
-                          'good epic, but not in the same class.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Touchstone Pictures',
              'embedUrl': '/video/imdb/vi1173618969',

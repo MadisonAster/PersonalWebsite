@@ -40,56 +40,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMzc5ODExODE0MV5BMl5BanBnXkFtZTgwNDkzNDUxMzI@._V1_.jpg',
  'keywords': 'surrealism,cannibalism,riot,pregnant woman,uninvited guest',
  'name': 'Mother!',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'matthewacollier'},
-            'dateCreated': '2017-09-16',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt5109784/'},
-            'name': "Aronofsky's mother! will be hated by many, but loved by a "
-                    'precious few',
-            'reviewBody': '100\n'
-                          '\n'
-                          'Horrifying. Just.. horrifying. Aronofsky really got '
-                          'me with this one. Not only did he manage to grab me '
-                          'on an intellectual level, but also on an emotional '
-                          'one. This movie is going to be hated by many, I '
-                          'know that now. But for me, this is, hands down, the '
-                          'movie of the year. Every shot, cut, and scream is '
-                          'perfectly constructed to make an immersive '
-                          "atmosphere that never relents in it's uncomfortable "
-                          'feeling, and the acting is seriously award worthy. '
-                          'Javier Bardem is absolutely wonderful, and Jennifer '
-                          'Lawrence... oh man... her performance is absolutely '
-                          "top notch. At first I couldn't quite relate to her "
-                          'character, but as the film progressed, her mindset '
-                          'became my mindset, and we essentially merged into '
-                          'one force of fear and terror that was absolutely '
-                          'unstoppable until the ending. I cannot praise her '
-                          'performance enough in this review. Her emotions '
-                          'leaked from every frame she was in, and it broke my '
-                          'heart and scared me witless the whole way through '
-                          "the film. Aronofsky's pacing is immaculate as well, "
-                          'the whole movie feeling not a second too slow or '
-                          'quick, the events rolling on naturally and in a way '
-                          'that felt very satisfying. The whole way through, I '
-                          'was riveted and invested by the acting and '
-                          "cinematography, which is definitely Aronofsky's "
-                          "best I've seen so far. The entire film is gripping, "
-                          'horrifying, heartbreaking, and absolutely '
-                          'wonderful. Nothing about this movie pulled me out '
-                          'of it. Watching this in a theater was like being in '
-                          'a bomb shelter while the world ended, every sound '
-                          'apocalyptic and every camera shake filling my view. '
-                          'If you can, watch this on the biggest screen you '
-                          'can with the best surround sound you can afford. If '
-                          'you only watch one movie this year, make it this '
-                          'one. This movie is incredible. This is why I study '
-                          'the movies.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "A couple's relationship is tested when uninvited "
                             'guests arrive at their home, disrupting their '

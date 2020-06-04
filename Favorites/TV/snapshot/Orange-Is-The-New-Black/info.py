@@ -40,35 +40,6 @@
  'keywords': 'prison gang,prison life,prison corruption,american '
              'prison,violence',
  'name': 'Orange Is the New Black',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'chuckylewin'},
-            'dateCreated': '2013-07-13',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2372162/'},
-            'name': 'Hilarious and dark.',
-            'reviewBody': 'This show is a seriously funny drama. \n'
-                          '\n'
-                          "If you like 'Weeds', 'Breaking Bad' or prefer your "
-                          'humour on the darker side, then give it a go... you '
-                          'will not be disappointed.\n'
-                          '\n'
-                          'Very few people create characters like Jenji '
-                          'Kohan... and it is the characters that make this '
-                          "show. Like 'Weeds', 'Orange' is fresh and original, "
-                          "and like 'Weeds' the lead character is tragically "
-                          'flawed and hilariously funny.\n'
-                          '\n'
-                          'Well done to Netflix on their latest production... '
-                          "'Hemlock Grove' is just weird, 'House of Cards' was "
-                          'hit and miss... but it looks like the third time is '
-                          'a charm. Bravo.\n'
-                          '\n'
-                          '(FYI: humour is how we Brits spell humor). :-)',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The epic conclusion of the series that changed '
                             'everything. "Orange Is the New Black"\'s final '

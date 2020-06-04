@@ -47,30 +47,6 @@
  'keywords': 'abusive boss,chef,restaurant,superiority complex,workplace '
              'bullying',
  'name': 'Burnt',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'xhidden99'},
-            'dateCreated': '2017-09-02',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2503944/'},
-            'name': 'Oh god another Bradley Cooper damaged genius bad boy '
-                    'movie',
-            'reviewBody': "Lemme guess he used to be great but 'threw it all "
-                          "away'. He's on a mission of personal redemption. "
-                          'Every one love hates him. He falls in love with his '
-                          'chief competition who of course hates him and '
-                          "adores him. He's substituted drugs and booze for "
-                          "being a colossal a-hole user of people because he's "
-                          'just that talented. He IS the most interesting man '
-                          'in the world. Before him no one ate food. Other '
-                          'than that this is movie where you hear Bradley '
-                          'speak pretty French where you watch people make and '
-                          "eat pretty good food and there's a lot and I mean a "
-                          'lot of histrionics.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '5',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for Burnt',
              'embedUrl': '/video/imdb/vi2849159193',

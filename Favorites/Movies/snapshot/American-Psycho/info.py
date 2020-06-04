@@ -49,30 +49,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg',
  'keywords': 'narcissism,materialism,serial murder,1980s,business card',
  'name': 'American Psycho',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'darth_sidious'},
-            'dateCreated': '2001-10-22',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0144084/'},
-            'name': 'Interesting, always interesting!',
-            'reviewBody': "By the end, I didn't know what to make of it, but "
-                          'now I understand the film much better. This film is '
-                          "must viewing, it brings out the truth about today's "
-                          'world - Nothing but material values matter, we live '
-                          'empty lives, we think empty thoughts, we are empty '
-                          'people, life is boring.\n'
-                          '\n'
-                          'Christian Bale is awesome, quality acting! Willem '
-                          "Dafoe was underused, I didn't think the support "
-                          'cast had the same quality material as Bale.\n'
-                          '\n'
-                          'The photography is stylish, very 80s gloss!\n'
-                          '\n'
-                          'The direction is terrific, wonderful camera work.\n'
-                          '\n'
-                          "Overall, see it, it's satire, black comedy, social "
-                          'commentary and more!'},
  'trailer': {'@type': 'VideoObject',
              'description': 'text os',
              'embedUrl': '/video/imdb/vi4060743449',

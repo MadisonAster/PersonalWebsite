@@ -34,20 +34,4 @@
  'keywords': 'six word series title,actor name in series title,2020s,woke,anti '
              'trump media',
  'name': 'The Late Show with Stephen Colbert',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'shawcarvetht'},
-            'dateCreated': '2019-01-02',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt3697842/'},
-            'name': 'Good snippets on YouTube.',
-            'reviewBody': 'I watch the 5-10 mins of monologues that get posted '
-                          'to YouTube regularly and love many of them. Always '
-                          'looking forward to the next one. Stephen is brill. '
-                          "I don't engage with the rest of the show - the "
-                          'music and interviews. Good stuff',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'url': '/title/tt3697842/'}

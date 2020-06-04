@@ -45,23 +45,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BODM0ZjA5ZGItMTJhZC00N2VjLWFjYTQtZjU4YmNkMWU5ZTcyXkEyXkFqcGdeQXVyODg3NDc1OTE@._V1_.jpg',
  'keywords': 'interview,1990s,2000s,2010s,2020s',
  'name': 'The Daily Show',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Jailynn'},
-            'dateCreated': '2000-06-10',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0115147/'},
-            'name': 'Jon Stewart is Great!',
-            'reviewBody': 'Jon Stewart has really picked this show up. I never '
-                          'liked it much when the other host was there, and I '
-                          'have watched it nearly every night since Jon '
-                          'started hosting.  I really like how he can deliver '
-                          'a joke and if it fails to generate a laugh, he can '
-                          'easily pick himself up and move on.  The '
-                          'correspondants are fantastic.  I get a kick out of '
-                          'all of them.  Those stories are wonderful.  If you '
-                          "haven't watched this before, my best comparison "
-                          'would be "Saturday Night Live\'s" Weekend Update.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'The Daily Show',
              'embedUrl': '/video/imdb/vi2072165401',

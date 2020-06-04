@@ -40,19 +40,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNjE3NzU0NDctZTZjMi00OGE2LWFiOWMtNGZhMjQ1MmViNzZlXkEyXkFqcGdeQXVyNDI3MDA5MDQ@._V1_.jpg',
  'keywords': 'climbing,rock climbing',
  'name': 'The Dawn Wall',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'gnvandijken'},
-            'dateCreated': '2020-01-15',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt7286916/'},
-            'name': 'Chills down my spine',
-            'reviewBody': 'What a wonderfull documentary. It really is an '
-                          'inspiring story. Absolutely worth the watch.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'In January, 2015, American rock climbers Tommy '
                             'Caldwell and Kevin Jorgeson captivated the world '

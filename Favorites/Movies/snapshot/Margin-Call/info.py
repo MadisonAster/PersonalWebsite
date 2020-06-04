@@ -45,48 +45,6 @@
  'keywords': 'financial crisis,financial disaster,capital '
              'management,investment fraud,21st century',
  'name': 'Margin Call',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'J. Ryan'},
-            'dateCreated': '2011-10-23',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1615147/'},
-            'name': 'Fantastic film, but not for everyone.',
-            'reviewBody': "It's difficult to review Margin Call. Those of us "
-                          'who were close to the events of 2008 will find '
-                          'something personal in the story-telling. Others may '
-                          'see it as more examples of greed and hubris. In any '
-                          'case, the following observations apply to both '
-                          'groups.\n'
-                          '\n'
-                          'The performances are top notch. Everyone from '
-                          'Zachary Quinto to Demi Moore brings their A-game. '
-                          'Even supporting characters are oddly fleshed out '
-                          'for a film with such an ensemble cast. Kevin Spacey '
-                          'and Paul Bettany give the performances of their '
-                          'careers, I think. Only the Jeremy Irons character '
-                          '(John Tuld, aka Dick Fuld) feels a bit over the '
-                          'top, while the rest are truly believable '
-                          'well-rounded depictions.\n'
-                          '\n'
-                          'Despite having good characters and amazing '
-                          'cinematography, the film lacks plot. The backdrop '
-                          "and setting are tense, but this doesn't feel like a "
-                          '"movie" in the traditional sense. There\'s no '
-                          'evolution of characters, no arcs, and the ending '
-                          'may leave some wanting. You can compare it to '
-                          'Michael Mann films where plot and pace are '
-                          'unconventional.\n'
-                          '\n'
-                          'Not sure how the film will perform commercially, '
-                          "given the material is esoteric. If you're a film "
-                          "buff (and enjoy great performances) or you've been "
-                          'in finance, this is a must-see. Other may likely '
-                          'pass.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A thriller that revolves around the key people at '
                             'a investment bank over a 24-hour period during '

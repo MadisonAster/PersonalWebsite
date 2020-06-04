@@ -47,54 +47,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTUyNDIyMTA4NV5BMl5BanBnXkFtZTgwODM2MDMxNjE@._V1_.jpg',
  'keywords': 'prisoner,guard,prison,psychology,university',
  'name': 'The Stanford Prison Experiment',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'paulijcalderon'},
-            'dateCreated': '2016-09-17',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0420293/'},
-            'name': "Don't go in for a casual watch",
-            'reviewBody': 'This was horrifying. Definitely not for everyone. '
-                          'Most horrifying thing is that this really happened. '
-                          "I don't even know where to start.\n"
-                          '\n'
-                          "The movie is well made and told. It's really "
-                          'claustrophobic and it will get under your skin. How '
-                          "horrible humans can be. There's no violence here, "
-                          'but the verbal abuse and the way people are treated '
-                          'and at the same time being watched by people who '
-                          'could have stopped it, is what makes this story the '
-                          'more haunting.\n'
-                          '\n'
-                          'The actors do a good job here. Those guards, man. '
-                          'This movie is gonna make you hate them and feel '
-                          "very sorry for the prisoners. It's all acting, but "
-                          'you really get a grudge against those guards. So, '
-                          'the movie did a good job on that. It gets you '
-                          'invested, but it at the end leaves a bad taste in '
-                          'your mouth. Nothing feel good about it. One thing '
-                          'it lacks is a main character. The first half is '
-                          'centered on Ezra Miller, but he disappears halfway '
-                          'through. I think it lost something when he was '
-                          'gone.\n'
-                          '\n'
-                          "It's a though one to watch and I don't think I need "
-                          'to watch it again. No, once was good enough. Maybe '
-                          'it can do good and remind you of the cruelty of us '
-                          'humans, and help stop these things from happening. '
-                          "But, it's not an experience for everyone like I "
-                          'said and the cruelty is almost overboard at times '
-                          'and a little over the top. I think it was trying to '
-                          'chock people too much.\n'
-                          '\n'
-                          'Horrifying, but well made and acted. It dwells too '
-                          "long on some of the most cruel moments and it's "
-                          "gonna make it hard to watch. So, don't go in for a "
-                          'casual watch. You gotta be prepared to watch it',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'It is the summer of 1971. Dr. Philip Zimbardo '
                             'launches a study on the psychology of '

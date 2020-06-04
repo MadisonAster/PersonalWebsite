@@ -50,36 +50,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg',
  'keywords': 'astronaut,saving the world,relativity,gravity,nasa',
  'name': 'Interstellar',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'frank-ancestor-hunter'},
-            'dateCreated': '2015-04-06',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0816692/'},
-            'name': 'Excellent Movie',
-            'reviewBody': 'I judge a movie by how long it takes me to realize '
-                          'I need the bathroom, how long the movie can hold my '
-                          'interest and how convincing the events unfolding '
-                          'are. Well, I watched this movie all the way through '
-                          'with no bathroom breaks. My interest was grabbed '
-                          'from the start and held all the way through. Being '
-                          'old enough, and lucky enough to have watched the '
-                          'premiere of 2001 A Space Odyssey - and viewed it '
-                          'several times since - of course I made comparisons, '
-                          'and there were a few, but this movie tells an '
-                          'excellent stand alone story that is both riveting '
-                          "and believable. I'm not going to give away any "
-                          'secrets but anyone who watches the last five '
-                          'minutes or so without a lump in their throat and a '
-                          "tear in their eye, well you're a critic, you're not "
-                          "enjoying the movie because you're too busy looking "
-                          'for bloopers and faults. Were there bloopers and '
-                          'faults? The darn movie was so riveting if there '
-                          "were any I didn't notice them!",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A group of explorers make use of a newly '
                             'discovered wormhole to surpass the limitations on '

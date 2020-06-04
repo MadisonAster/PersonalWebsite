@@ -45,33 +45,6 @@
  'keywords': 'face transplant,death of child,girl in panties,face ripped '
              'off,severed face',
  'name': 'Face/Off',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Special-K88'},
-            'dateCreated': '2002-02-14',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0119094/'},
-            'name': 'a great action experience',
-            'reviewBody': 'From director John Woo comes this exhilarating '
-                          'action movie that takes a deadly cat-and-mouse game '
-                          'to the next level! A tortured federal agent, '
-                          'haunted by a painful tragedy and obsessed with '
-                          "catching the slick sociopathic terrorist who's "
-                          'eluded him for years and years, is forced to take '
-                          'the face of his mortal enemy in order to acquire '
-                          'vital information. The daring plan quickly goes '
-                          'awry when he loses his own identity in the process, '
-                          'and discovers his arch-enemy is cohabiting with his '
-                          "family. Film's enjoyment depends on the viewer: "
-                          "you'll either condemn the story as absurd and "
-                          "far-fetched, or you'll buy into it and go along for "
-                          'this supercharged, over-the-top action '
-                          'extravaganza. Travolta and Cage are both '
-                          'extraordinarily good, and with Woo at the helm you '
-                          "know that you'd better hang on for dear life! "
-                          'Occasionally silly, with a plot that tosses '
-                          'credibility out the window, but still a helluva lot '
-                          'of fun. ***'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer',
              'embedUrl': '/video/imdb/vi3188700185',

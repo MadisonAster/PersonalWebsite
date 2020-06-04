@@ -38,31 +38,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMGQxZDEwZDctMjNkMi00YmIxLTgyN2MtYmJhYjEzZGY0NjljXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg',
  'keywords': 'kung fu,chosen one,martial arts,intentionally bad,hero',
  'name': 'Kung Pow: Enter the Fist',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ari-gronning'},
-            'dateCreated': '2006-05-17',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt0240468/'},
-            'name': 'Needs to be watched in the right mind-set',
-            'reviewBody': 'I first saw Kung-Pow on DVD with friends who had '
-                          'seen it in the theater and loved it. But they said '
-                          'that people had been walking out of the theater, '
-                          'lots of people. Despite this, I still watched. '
-                          'Everyone around me knew the jokes, and knew when to '
-                          "laugh. I quickly picked up on Oedekerk's sense of "
-                          'humor in this movie, and I ended up loving the '
-                          "movie. If it hadn't been for my friends, I could "
-                          'easily see myself hating this movie too.\n'
-                          '\n'
-                          'There are so many things that seem like mistakes, '
-                          'but are done *on purpose* by Oedekirk. If it looks '
-                          "like a mistake, it's probably a joke. After all, it "
-                          'is a spoof type movie.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from 20th Century Fox Home '
                             'Entertainment',

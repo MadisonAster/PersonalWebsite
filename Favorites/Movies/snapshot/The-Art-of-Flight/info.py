@@ -43,37 +43,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTc1NjUwMDU1MF5BMl5BanBnXkFtZTcwMzU5NjA4OA@@._V1_.jpg',
  'keywords': 'four word title,snowboarding,snowboard',
  'name': 'The Art of Flight',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'burgerboy231'},
-            'dateCreated': '2011-11-11',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt1646967/'},
-            'name': 'The Greatest Snowboard Epic Ever Created',
-            'reviewBody': '"The Art of Flight" is "The Odyssey" of snowboard '
-                          "movies. It's epic camera work makes even Warren "
-                          'Miller look like an amateur. Red Bull helps pull '
-                          'out all the stops, to produce the most wild '
-                          'documentation of the world of snowboarding out '
-                          'there.\n'
-                          '\n'
-                          'Travis Rice, John Jackson, and Mark "Lando" Landvik '
-                          'take the world of snowboarding to a new level in '
-                          'the opening scene alone, which sets the tone, and '
-                          "gives you a small taste of what's in store for the "
-                          'rest of the film.\n'
-                          '\n'
-                          'The crew even gives you a small inside look into '
-                          'their lives during the planning phases and cloudy '
-                          'down days that prevent filming.\n'
-                          '\n'
-                          "There's not not too much more that can be said "
-                          'about the film beyond "Epic" aside from watch the '
-                          "film. It's the only way to fully understand.\n"
-                          '\n'
-                          'Great sound track. Ground breaking film.\n'
-                          '\n'
-                          'The Art of Flight.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Snowboarder Travis Rice and his friends redefine '
                             'what is possible in the mountains. Experience the '

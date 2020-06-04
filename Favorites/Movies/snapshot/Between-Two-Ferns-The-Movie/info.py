@@ -47,20 +47,6 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BYzgyNzUyZjAtNDRiZS00MjQwLTgzMzQtZThhY2Y3YjFmYTc1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
  'keywords': 'celebrity guest,road trip,interview,celebrity,comedian',
  'name': 'Between Two Ferns: The Movie',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'bubbasumo-294-65311'},
-            'dateCreated': '2019-09-21',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt9398640/'},
-            'name': 'Skip to the end',
-            'reviewBody': 'The end credits are the funniest part. If you just '
-                          'skip all the "movie" parts and watch the 2 minute '
-                          "interviews you'll be better off.",
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '4',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Zach Galifianakis and his oddball crew take a '
                             'road trip to complete a series of high-profile '

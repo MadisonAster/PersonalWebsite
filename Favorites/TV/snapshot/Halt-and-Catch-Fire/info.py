@@ -38,20 +38,6 @@
  'keywords': '1980s,computer,female programmer,family relationships,computer '
              'programmer',
  'name': 'Halt and Catch Fire',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Leon-hopp'},
-            'dateCreated': '2019-02-17',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt2543312/'},
-            'name': 'One step above the rest...',
-            'reviewBody': "This is the first show I have seen, and I've seen "
-                          'plenty, where after binging all four seasons in two '
-                          'weeks, I just started all over again.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for Halt and Catch Fire',
              'embedUrl': '/video/imdb/vi1893839385',

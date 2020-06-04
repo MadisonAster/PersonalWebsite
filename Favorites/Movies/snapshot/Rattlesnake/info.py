@@ -41,20 +41,6 @@
  'keywords': 'single mother,roadtrip,rattlesnake bite,deal with the '
              'devil,sunset',
  'name': 'Rattlesnake',
- 'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'smledezma'},
-            'dateCreated': '2019-10-27',
-            'inLanguage': 'English',
-            'itemReviewed': {'@type': 'CreativeWork',
-                             'url': '/title/tt9257484/'},
-            'name': 'Nothing Special',
-            'reviewBody': 'Dull, lackluster. The ending is underwhelming. This '
-                          "is a movie to watch when you're extremely bored "
-                          'with nothing better to watch.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '4',
-                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'When a single mother accepts the help of a '
                             'mysterious woman after her daughter is bitten by '
