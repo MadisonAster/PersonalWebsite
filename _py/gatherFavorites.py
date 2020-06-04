@@ -106,7 +106,7 @@ def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
         Entry = None
         if itemurl in Entries.keys():
             Entry = Entries[itemurl]
-            EntryPath = Entry['EntryPath'].replace('W:/Portfolio/PersonalWebsite/', '')
+            EntryPath = Entry['EntryPath']
             if 'review' in Entry.keys():
                 del Entry['review']
         if itemurl not in Entries.keys() or UpdateAll:
@@ -125,10 +125,10 @@ def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
                 Item['EntryAdded'] = datetime.datetime.strftime(datetime.datetime.now(), '%m-%d-%Y')
             else:
                 Item['EntryURL'] = Entry['EntryURL'].replace('http://', 'https://').rstrip('/')
-                Item['EntryPath'] = Entry['EntryPath'].replace('W:/Portfolio/PersonalWebsite/', '')
-                Item['Entry_py'] = Entry['Entry_py'].replace('W:/Portfolio/PersonalWebsite/', '')
-                Item['Entry_json'] = Entry['Entry_json'].replace('W:/Portfolio/PersonalWebsite/', '')
-                Item['Entry_thumb'] = Entry['Entry_thumb'].replace('W:/Portfolio/PersonalWebsite/', '')
+                Item['EntryPath'] = Entry['EntryPath']
+                Item['Entry_py'] = Entry['Entry_py']
+                Item['Entry_json'] = Entry['Entry_json']
+                Item['Entry_thumb'] = Entry['Entry_thumb']
                 Item['EntryAdded'] = Entry['EntryAdded']
             if not os.path.exists(HtmlDir+EntryPath):
                 os.makedirs(HtmlDir+EntryPath)
