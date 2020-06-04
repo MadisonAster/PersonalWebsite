@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Logans-Run',
  'EntryURL': 'https://www.imdb.com/title/tt0074812',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Logans-Run/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Logans-Run/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Logans-Run/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Logans-Run/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -48,68 +47,42 @@
  'keywords': 'cat,biosphere,dystopia,nursery,ageism',
  'name': "Logan's Run",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ma-cortes'},
-            'dateCreated': '2012-03-05',
+            'author': {'@type': 'Person', 'name': 'GuyCC'},
+            'dateCreated': '2000-06-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0074812/'},
-            'name': 'Amusing and outlandish Sci-Fi about a domed city whose  '
-                    'inhabitants are obligated to die at 30',
-            'reviewBody': 'Popular and lavish Sci-Fi with some nice effects '
-                          'sequences with imaginative sets about a futuristic '
-                          'society where young people are allowed to live an '
-                          'unending pleasure until the age of thirty (though '
-                          'Michael York, Richard Jordan and Michael Anderson '
-                          'Jr. were all over 30 when they made the film) that '
-                          'are compelled to die , adapted from a novel by '
-                          'William F Nolan and George Clayton Jackson . 2274 '
-                          'some type of holocaust has decimated the earth, and '
-                          'the survivors sealed themselves into a '
-                          'computer-controlled bubble . To maintain the '
-                          'population balance, the computers that run the city '
-                          'have decreed that all people have to die at 30. '
-                          'This system is enforced by "sandmen" (Michael York '
-                          ', Richard Jordan) : black-clad cop operatives who '
-                          'terminate hunting "runners" ,those who try to live '
-                          'beyond 30. Logan, a sandman, whose job is to hunt '
-                          'fugitives , is sent on an assignment to find '
-                          '"sanctuary," which is a code- word used by the '
-                          'master computer to describe what it thinks is a '
-                          'place to which runners have been getting away. Then '
-                          'Logan nearing the limit searches desperately for a '
-                          'way to avoid mandatory extermination . As a day '
-                          'outside the bubble Logan along with Jessica (Jenny '
-                          'Agutter) discover new emotions .\n'
+            'name': 'And I Thought Turning 40 Was Supposed To Be the Bad '
+                    'Age....',
+            'reviewBody': 'I must admit that I should be ashamed as a sci-fi '
+                          "fan: I hadn't seen this film until recently, and I "
+                          'wanted to better understand the parody from "Free '
+                          'Enterprise".\n'
                           '\n'
-                          'This classic Sci-fi contains suspense , thrills , '
-                          'action , breathtaking production design and is '
-                          'pretty entertaining though with some feeble '
-                          'stereotypes . Impressive big-budgeted production by '
-                          'Saul David enhanced immeasurably by an enjoyable '
-                          'cast as Michael York , Jenny Agutter , Farrah '
-                          'Fawcett and special mention to great Peter Ustinov '
-                          '. Roscoe Lee Browne both voiced and performed Box '
-                          'the robot on-set. The unwieldy costume made it '
-                          'impossible for Browne to right himself if he fell '
-                          'over. Colorful and spectacular cinematography in '
-                          'Todd-Ao 35 by Ernest Laszlo . Rousing and evocative '
-                          'musical score by the maestro Jerry Goldsmith . '
-                          'Jerry uses a full orchestra with no electronic '
-                          'instruments when the action is outside of the city. '
-                          'When inside the city, his orchestra consists solely '
-                          'of strings, piano, and electronic instruments , the '
-                          'music at the beginning of the film during the '
-                          'credits does add the electronic instruments with '
-                          'the full orchestra though. Dated but effective '
-                          'miniatures about a domed city near Washington, D.C. '
-                          'It earned a special Academy Award for visual '
-                          'effects by Glen Robinson . The motion picture is '
-                          'originally directed by Michael Anderson . Rating : '
-                          'PG (Parents guide) for some nudism and violence. '
-                          'Good but overlong and some corny moments, '
-                          'worthwhile watching . Followed by a brief TV series '
-                          'with Gregory Harrison , Heather Menzies and Donald '
-                          'Moffat',
+                          'But I enjoyed the film.\n'
+                          '\n'
+                          'Watching this film against the more recent glut of '
+                          'sci-fi films, I have to say that they made them a '
+                          "little more original back in the 70's-80's, instead "
+                          'of everything being techno-computer-CG-spaceship '
+                          'fights.  A grim look at the downside of maintaining '
+                          'an "ideal", utopian society.  When you hit 30, you '
+                          'either have the option of willingly submitting '
+                          'yourself to be killed under a pretense of renewal, '
+                          'or having the Sandmen play with you before they go '
+                          'in for the kill.  Neither option seems really '
+                          'appealing.  But the idea of one of the killers '
+                          'having to face their mortality is an interesting '
+                          'idea.\n'
+                          '\n'
+                          'A little slow in places (but I did keep wanting to '
+                          'see what would happen next), and some of the '
+                          "special effects look really dated (even to '77's "
+                          '"Star Wars"), but the story holds up well, and '
+                          "it's an entertaining ride overall.\n"
+                          '\n'
+                          "It's truly a classic of the genre, and I wish I had "
+                          'seen it sooner.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '7',

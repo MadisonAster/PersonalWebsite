@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Donald-Trumps-The-Art-of-the-Deal-The-Movie',
  'EntryURL': 'https://www.imdb.com/title/tt5456120',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Donald-Trumps-The-Art-of-the-Deal-The-Movie/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Donald-Trumps-The-Art-of-the-Deal-The-Movie/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Donald-Trumps-The-Art-of-the-Deal-The-Movie/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Donald-Trumps-The-Art-of-the-Deal-The-Movie/thumb.jpg',
  'actor': [{'@type': 'Person',

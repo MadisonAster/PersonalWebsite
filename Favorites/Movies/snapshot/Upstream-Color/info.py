@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Upstream-Color',
  'EntryURL': 'https://www.imdb.com/title/tt2084989',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Upstream-Color/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Upstream-Color/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Upstream-Color/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Upstream-Color/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm2426419/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 30326,
+                     'ratingCount': 30328,
                      'ratingValue': '6.7',
                      'worstRating': '1.0'},
  'contentRating': 'Not Rated',
@@ -44,73 +43,64 @@
              'dialogue,caterpillar',
  'name': 'Upstream Color',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ClaytonDavis'},
-            'dateCreated': '2013-04-22',
+            'author': {'@type': 'Person', 'name': 'ferguson-6'},
+            'dateCreated': '2013-04-19',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2084989/'},
-            'name': 'A new and unconventional birth in American cinema is '
-                    'fathered by Shane Carruth...',
-            'reviewBody': 'The film opens up with a mystery, a subtle yet '
-                          'powerful imagery that focuses on the senses of '
-                          'seeing, hearing, and touching. A lavish score by '
-                          'writer/director/star Shane Carruth lays mindful and '
-                          'precise to capture the enigmatic nature of the '
-                          'film. A hybrid of science fiction that keeps the '
-                          'viewer at a distance but intrigued enough to stay '
-                          'on the ride, Carruth develops and writes a model of '
-                          'storytelling that will be appreciated in years to '
-                          'come. Hypnotic, and often places you into sensory '
-                          'overload, but its imaginative and intoxicating '
-                          'nature are completely unconventional and will '
-                          'inspire a new age of filmmakers to come forward. '
-                          'The synopsis of Upstream Color is as vague as the '
-                          'film itself. From IMDb: A man and woman are drawn '
-                          'together, entangled in the life cycle of an ageless '
-                          'organism. Identity becomes an illusion as they '
-                          'struggle to assemble the loose fragments of wrecked '
-                          "lives. I couldn't have come up with a better, more "
-                          'ambiguous line of description. Amy Seimetz dives '
-                          'head first into her role of Kris; first as a woman '
-                          'under the spell of sorts by the dominant yet '
-                          'awkwardly charming thief. Later, Seimetz, who '
-                          'reminds me of a more seasoned Brit Marling, '
-                          'envelops the essence of loss and disorientation. '
-                          'Her constant puzzlement that only heightens and '
-                          'becomes more clear as the film progresses, goes '
-                          "hand- in-hand with the film's obscure and "
-                          "melancholic ambiance. It's a brilliant breakthrough "
-                          'for the actress that will hopefully get her noticed '
-                          'by more high-profile projects. The multi-talented '
-                          'Shane Carruth also lends his hand as the Director '
-                          'of Photography and has a keen eye for angles that '
-                          'captures the bold and poignant temper. Carruth is a '
-                          'visible factor of success for the film. Taking cues '
-                          'and narrative notes from screenwriters like '
-                          'Christopher and Jonathan Nolan, and even more '
-                          'recently Zoe Kazan, Upstream Color plays like a '
-                          'lucrative blend of Memento (2001) and Ruby Sparks '
-                          '(2012) for the first half before making a dramatic '
-                          'switch. There are even moments where you can find '
-                          'hints of The Human Centipede (2009) believe it or '
-                          'not.\n'
+            'name': 'True Identity Theft',
+            'reviewBody': 'Greetings again from the darkness. This is no '
+                          'typical movie, so these will not be typical '
+                          'comments. In 2004, Shane Carruth became something '
+                          'of a cult hero with the Sundance Festival crowd '
+                          'when his debut film PRIMER won a Grand Jury Award. '
+                          'Nine years later, we get his follow-up ... the '
+                          'ultimate artsy, indie film for those who thrive on '
+                          'analysis and prefer to avoid a story ending wrapped '
+                          'up with a neat bow.\n'
                           '\n'
-                          'Sound mixing on the film is the first technical '
-                          'marvel of the year. Blends the fusion of music and '
-                          'the sounds of life, Upstream Color sets a new '
-                          'standard for independent cinema and with Shane '
-                          "Carruth's benchmark for science fiction screen "
-                          'writing, a dynamic dragon of sorts is created. '
-                          'Colorful, creepy, and poetically ingenious.\n'
+                          'These comments will not give you much, but I can '
+                          'tell you the screening had many viewers who left '
+                          'frustrated and confused. The fragmented narrative '
+                          'can be a bit disorienting and it avoids the usual '
+                          'staple of a resolution at the end. The audience '
+                          'knows more than the characters, yet the audience is '
+                          'baffled while the characters just continue on.\n'
                           '\n'
-                          'Shane Carruth is a talent to watch in the near '
-                          'future.\n'
+                          "The first segment of the film is when it's at its "
+                          'most traditional. We see Thief (Thiago Martins) '
+                          'perform some type of worm/parasite procedure that '
+                          'slowly brainwashes Kris (Amy Seimetz) or leads to '
+                          'mind control or loss of personality ... just '
+                          'depends how you prefer to describe it. We then see '
+                          'The Sampler (Andrew Sensenig) help her overcome '
+                          'thanks to a blood transfusion on his pig farm. Yes, '
+                          'really. Finally, Kris bonds with Jeff (Shane '
+                          'Carruth) as they seek to reassemble their lives and '
+                          're-discover themselves. Watching them bicker over '
+                          'who belongs to what memory is frightening and '
+                          'fascinating. It makes you question the definition '
+                          'of personal identity, and what if we lost that (or '
+                          'it was stolen).\n'
                           '\n'
-                          'Read More at The Awards Circuit '
-                          '(http://www.awardscircuit.com)',
+                          'Nature plays a huge role here, along with the '
+                          "connection to Thoreau's Walden. Many will use the "
+                          'term pretentious. Some will call it boring. Still '
+                          'others will be drawn in by the imagery and sound '
+                          '(or sometimes lack thereof). Shane Carruth does not '
+                          'fit Hollywood and neither do his films. He is a '
+                          'writer, producer, director, co-editor, '
+                          'cinematographer, and actor. He clearly has a love '
+                          'of the material and his choice of Amy Seimetz '
+                          'really makes the film work. She is outstanding (and '
+                          'also a filmmaker). The tired phrase "it\'s not for '
+                          'everyone" certainly applies here, but if you are a '
+                          'Terrence Malick fan or just enjoy being challenged '
+                          'by somewhat abstract themes, this one is worth a '
+                          'look.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A man and woman are drawn together, entangled in '

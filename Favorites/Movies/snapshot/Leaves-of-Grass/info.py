@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Leaves-of-Grass',
  'EntryURL': 'https://www.imdb.com/title/tt1151359',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Leaves-of-Grass/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Leaves-of-Grass/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Leaves-of-Grass/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Leaves-of-Grass/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -48,49 +47,126 @@
  'keywords': 'stabbed in the stomach,menorah,synagogue,crossbow,stoner comedy',
  'name': 'Leaves of Grass',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'grmagne'},
-            'dateCreated': '2009-09-17',
+            'author': {'@type': 'Person', 'name': 'pyrocitor'},
+            'dateCreated': '2009-09-15',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1151359/'},
-            'name': 'Funny but has some very implausible scenes',
-            'reviewBody': 'Ed Norton is great as always, playing two '
-                          'diametrically opposite but highly intelligent '
-                          'identical twins. One brother, Bill, is a professor '
-                          'of classical philosophy who has worked hard to '
-                          'eradicate his Oklahoma accent and fit into the '
-                          'world of east coast academia. The other, Brady, '
-                          'stills lives in Oklahoma and makes good money '
-                          'selling high-grade marijuana with his red-neck '
-                          'buddies. Brady tricks Bill into returning home for '
-                          'the first time in 2 decades so that Bill can be an '
-                          'alibi while Brady commits a crime in another city. '
-                          'Although Bill is furious and is tempted to fly back '
-                          'home immediately, he ends up staying a few extra '
-                          'days and visits his mother for the first time since '
-                          'childhood. He also meets Janet, played by Keri '
-                          'Russell, a beautiful, intelligent woman who can '
-                          "recites poetry while gutting a catfish. It's an "
-                          'enjoyable movie with quite a few surprise twists '
-                          'along the way.\n'
+            'name': 'Profound, poignant and hilarious with a commendably askew '
+                    'approach – an ideal character study',
+            'reviewBody': 'It is fascinating to see certain movies that '
+                          'achieve a specific balance between the familiar and '
+                          'the unique, a particular dynamic perfectly '
+                          'representative of writer/director/actor Tim Blake '
+                          "Nelson's Leaves of Grass. On the surface, the "
+                          "film's prevailing themes of family, reconciliation "
+                          "with one's roots and the tensions between "
+                          'educated/"upper" class and working/"lower" class '
+                          'are identifiable as those articulated in countless '
+                          'films and other cultural texts, suggesting just one '
+                          'more re-tread of the same material. At the same '
+                          'time, in an elusive sense, the particular angle the '
+                          'material is addressed feels somehow fresh and '
+                          'unique, making Leaves of Grass particularly '
+                          'vibrant, dynamic and compelling, both as a '
+                          'narrative and individual character study. \n'
                           '\n'
-                          'The strengths of the movie were excellent '
-                          'performances by Norton and Russell, and even '
-                          'director Tim Blake Nelson was great in the role of '
-                          'Bolger. This movie will probably do very well at '
-                          'the box office because of the big name cast plus '
-                          "some great dialogue and humour. I didn't love the "
-                          'ending though, because of too many coincidences and '
-                          'some implausible scenes near the finish. Also, '
-                          'there was an exploration of Christian-Jewish '
-                          'animosity which seemed like an awfully heavy theme '
-                          'to (briefly) deal with here in what is essentially '
-                          'a romantic-comedy. I almost gave this a 6, but the '
-                          'great acting is definitely worth at least an extra '
-                          'point and I bumped it up to a 7 out of 10.',
+                          'In its most distilled essence, the film charts a '
+                          'rampantly successful Ivy League philosophy '
+                          'professor (Norton) forced to return to and come to '
+                          'terms with his less than glamorous family ties in '
+                          'Tulsa, Oklahoma. Of course the narrative covers '
+                          'significantly more ground than that, particularly '
+                          'the professor being sucked into an ill-advised and '
+                          'hardly legal scheme by his madcap, drug dealer twin '
+                          'brother (also Norton), but Nelson returns so '
+                          'continuously to the aforementioned central themes '
+                          'that the increasingly complex plot surrounding them '
+                          'runs the risk of feeling somewhat besides the '
+                          'point, as enjoyable as it is. However, it is '
+                          'through evolving such a complex web of narrative '
+                          "that Nelson's film feels all the more unique, "
+                          'allowing him to tackle often covered themes with '
+                          'not only a more fresh and indirect approach, but '
+                          'also a great deal more authenticity. Each of the '
+                          "film's characters, as colourful and occasionally "
+                          'larger than life as they may be, feels strikingly '
+                          'real, making their actions and interactions within '
+                          'such a convoluted story alternatively more resonant '
+                          "and hilarious, as if each are playing the 'straight "
+                          "man' against an increasingly madcap story unfolding "
+                          'around them. \n'
+                          '\n'
+                          'With the same charming, powerful yet slightly kooky '
+                          'tone which pervades many of his acting '
+                          'performances, Nelson sets up his film in a '
+                          'wonderfully askew fashion, taking delight in '
+                          'veering right when the logical narrative '
+                          'progression would suggest left, and offering a fair '
+                          'share of surprise twists, including several jarring '
+                          'or downright uncomfortable bursts of serious '
+                          'intensity discordantly changing altering the '
+                          'generally breezy mood. However thematically '
+                          "familiar, the framework of Nelson's film does feel "
+                          'refreshingly unexpected, even if it does somewhat '
+                          'lose its momentum towards the end, trundling '
+                          'towards a denouement that feels somewhat '
+                          'under-thought or vaguely less than effective. '
+                          'Nonetheless, a lively musical score and crisp '
+                          'editing propel the film along at a generally steady '
+                          'pace, assuring that despite the rare stumbling, '
+                          "Nelson's film feels fundamentally alive, truthful "
+                          'and riotously enjoyable. \n'
+                          '\n'
+                          'But, as is common with such character-focused '
+                          'material, it is the cast that ultimately drives the '
+                          'story home. Nelson himself has admitted that he '
+                          'wrote the lead twin characters for Edward Norton, '
+                          'and it is impossible to imagine any other performer '
+                          'offering two such superbly nuanced, powerful and '
+                          'entertaining, not to mention fundamentally '
+                          'different characterizations within a single film, '
+                          'managing the rarely seen trick of playing off '
+                          'himself to perfection. Norton infuses so much life, '
+                          'passion and charisma of such varied sorts into both '
+                          'roles that it is easy to forget they are played by '
+                          'the same actor - a masterclass of acting propelling '
+                          'the emotional centre of the film, and almost '
+                          'singlehandedly making it merit viewing. Keri '
+                          'Russell is similarly fantastic, channeling her '
+                          'trademark sweet, down to earth charm into her '
+                          'performance as a reflective poet and teacher – her '
+                          'riverside philosophical musings make for some of '
+                          'the most quietly thought-provoking and enjoyable '
+                          'cinematic asides of quite some time. Tim Blake '
+                          'Nelson himself manages several laughs and sturdy '
+                          'emotional support as a stoic fellow marijuana '
+                          'grower, and Susan Sarandon offers raw and '
+                          'frequently hilarious emotional vulnerability as '
+                          "both Nortons' ex-hippie mother, forced to reflect "
+                          'on a life of questionable choices. Finally, in a '
+                          'tragically but necessarily brief role, Richard '
+                          'Dreyfuss is hilarious as a respectable Tulsa '
+                          'philanthropist with several shady ties to the less '
+                          'respectable underbelly of the community, making his '
+                          'few scenes shine with shrewd hilarity. \n'
+                          '\n'
+                          "Wacky yet poignantly credible, Nelson's film hits "
+                          'its stride through its melding of familiar content '
+                          'with unfamiliar approach, propelled by a careful, '
+                          'clever script and tremendously memorable '
+                          'characters. In an age filled with ambitious studio '
+                          'films making hefty grabs at easy emotion, it is a '
+                          'delight to witness cinema that manages something '
+                          'powerful, profound and incredibly enjoyable without '
+                          'obvious, clichéd emotional hooks of any sort, '
+                          'making Leaves of Grass without question worth a '
+                          'watch. \n'
+                          '\n'
+                          '-8/10',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'An Ivy League professor is lured back to his '

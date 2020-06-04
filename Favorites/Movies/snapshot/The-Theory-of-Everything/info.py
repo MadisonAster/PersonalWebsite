@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Theory-of-Everything',
  'EntryURL': 'https://www.imdb.com/title/tt2980516',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Theory-of-Everything/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Theory-of-Everything/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Theory-of-Everything/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Theory-of-Everything/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm6240141/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 385565,
+                     'ratingCount': 385570,
                      'ratingValue': '7.7',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -46,102 +45,58 @@
              'disease,cosmology,physicist',
  'name': 'The Theory of Everything',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jadepietro'},
-            'dateCreated': '2014-11-29',
+            'author': {'@type': 'Person', 'name': 'bbickley13-921-58664'},
+            'dateCreated': '2014-11-09',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2980516/'},
-            'name': 'Proof Positive',
-            'reviewBody': 'This film is highly recommended.\n'
+            'name': 'Great romantic movie about a brilliant man, ironically '
+                    'very little science',
+            'reviewBody': 'But it does tell an inspiring story about Stephen '
+                          "Hawking's personal struggle with his illness that's "
+                          'very uplifting.\n'
                           '\n'
-                          "You can certainly tell it's Oscar time when all the "
-                          'more dignified and personal projects inundate the '
-                          'movie houses in hopes of capturing the gold. For '
-                          'most of the other nine months, we get lesser '
-                          'efforts and big blockbuster spectacles to fill-in '
-                          "until late October arrives. Then, it's time to get "
-                          'serious about our cinema choices. The Theory of '
-                          'Everything is one such film. It carries its '
-                          'pedigree with style and class, even if it is a '
-                          'rather conventional biopic in disguise, with its '
-                          'main character suffering through a debilitating '
-                          'disease while finding the stamina to go on.\n'
+                          'The story of Stephen Hawking and his then wife '
+                          'Jane, apparently based on a book she wrote about '
+                          'it, which probability explains why there was not '
+                          "much science in the movie, not that I'm "
+                          'complaining, as it was a well played film about a '
+                          'difficult relationship.\n'
                           '\n'
-                          'With a very literate screenplay by Anthony McCarten '
-                          'and accomplished direction by James Marsh, the film '
-                          'tells the story of famed scientist Stephen Hawking '
-                          'and his battle with ALS. It also concentrates on '
-                          'his relationship with his supportive and loving '
-                          'wife, Jane.\n'
+                          "I didn't known Stephen and his wife actually met "
+                          'around the same time as he began to suffer from Lou '
+                          "Gehrig's Disease. Makes the whole concept that "
+                          'Hawking has three kids with this woman more '
+                          'interesting (something was working). Felicity Jones '
+                          'did a great job playing such a strong, patient, and '
+                          'compassionate woman, all well narrated in this '
+                          'movie. The difficulty Jane Hawking had being with a '
+                          'man getting trapped in his own body, played by '
+                          "Eddie Redmayne.I have herd of Hawking's "
+                          'surprisingly positive personality, not because of '
+                          'his condition, but because I expected his condition '
+                          'would make it hard to express any emotion. Redmayne '
+                          'did his research to express the struggle of Hawking '
+                          'on camera nicely (I keep forgetting The Hawking is '
+                          'a Brit).\n'
                           '\n'
-                          'Love will conquer all. Or so it should. But the '
-                          'horrors of this disease and the hardships they face '
-                          'seem unsurmountable. We see the couple meet, fall '
-                          'in love, marry, have children, and grow weary of '
-                          'each other. Stephen achieves adoration, fame, and '
-                          'fortune while Jane takes a back seat to her '
-                          'caregiver role and bringing up the family, amid the '
-                          'tears and frustration they face on a daily basis. '
-                          'One immediately empathizes with these characters '
-                          'due to their tragic situations.\n'
+                          'This movie turned out to be a great one about the '
+                          'time span of a relationship. Done more romantically '
+                          'than borderline soft-core flicks like Blue is the '
+                          'warmest color and 9 songs, and it was not as '
+                          'depressing as Blue Valentine. it was just a true '
+                          "take on a complex relationship taking it's toll, "
+                          'well performed by some brilliant actors.\n'
                           '\n'
-                          'The two leads are splendid and their acting is '
-                          'peerless. Felicity Jones plays Jane. Her role may '
-                          'be less showy and far more understated, but the '
-                          "actress is perfect at showing Jane's endurance and "
-                          'strength in the subtlest of ways. Eddie Redmayne is '
-                          'Stephen Hawking and his performance is literally '
-                          'trans-formative. (He must have learned his craft '
-                          'from tons of research about Hawking and creative '
-                          'influence from Daniel Day Lewis.) This is an '
-                          'impressive physical performance, from his black '
-                          'horn rimmed glasses to his walking cane and '
-                          'distorted posture. Both will receive well-earned '
-                          'accolades for their memorable work. Fine supporting '
-                          'work by Charlie Cox as Jonathan, their loyal '
-                          "friend, and Simon McBurney as Stephen's father add "
-                          'more clarity to the film.\n'
-                          '\n'
-                          'As with most biographical films, one sees the rise '
-                          'and fall of the protagonist before it arrives. This '
-                          'film follows that tries-and-true formula. But '
-                          "Marsh's direction compensates for the linear "
-                          'structure and predictability of the story. The '
-                          "director relies heavily on his actors' subtle "
-                          'actions to tell more about their characters than '
-                          'the mere words they speak. He also wisely shows '
-                          "Hawking's point of view by angling the camera range "
-                          'from a lower stance or keeping it stationary to '
-                          "reinforce the characters' immobility. The final "
-                          "scene, recapping Hawking's life in reverse, "
-                          "beautifully sums up Stephen's life full circle in "
-                          'the most visual of terms.\n'
-                          '\n'
-                          'But The Theory of Everything is foremost a love '
-                          'story. The film desperately wants to be a '
-                          'crowd-pleaser with an uplifting message of '
-                          'inspiration, even when the reality and truth of '
-                          'their actual lives is bleaker than it appears on '
-                          'screen. The film glosses over some factual content '
-                          'to play up the human drama of this pair of young '
-                          'lovers. It skillfully manipulates its audience to '
-                          'wallow in the heartbreak. Director Marsh '
-                          'successfully capture the pangs of young love and '
-                          'bittersweet romance in this emotionally involving '
-                          'film. \n'
-                          '\n'
-                          'The Theory of Everything is an immensely satisfying '
-                          'film with stand-out acting and skilled direction. '
-                          'The proof is right there on the screen, even if the '
-                          'facts are slightly askew. GRADE: B+\n'
-                          '\n'
-                          'Visit my blog at: www.dearmoviegoer.com\n'
-                          '\n'
-                          'ANY COMMENTS: Please contact me at: '
-                          'jadepietro@rcn.com',
+                          'If your looking to watch this movie to hear some '
+                          "science talk, that's not what the movie is really "
+                          'about, unless ironically convincing the world of '
+                          'his theories on time was really as easy as the '
+                          'movie makes it out for Hawking. Overall very '
+                          'enjoyable.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'At Cambridge, Stephen Hawking falls deeply in '

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/What-Just-Happened',
  'EntryURL': 'https://www.imdb.com/title/tt0486674',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/What-Just-Happened/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/What-Just-Happened/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/What-Just-Happened/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/What-Just-Happened/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -48,30 +47,54 @@
              "in a men's room,hollywood",
  'name': 'What Just Happened',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'shnizzedy'},
-            'dateCreated': '2008-10-30',
+            'author': {'@type': 'Person', 'name': 'TBJCSKCNRRQTreviews'},
+            'dateCreated': '2010-11-03',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0486674/'},
-            'name': 'I saw what just happened there.',
-            'reviewBody': 'The film is certainly enjoyable, and has several '
-                          'laugh-out-loud moments. However, like the film '
-                          'within the film, What Just Happened? feels too '
-                          'long. As a filmmaker myself, I really enjoyed this '
-                          'film, but I am afraid that much of the appeal will '
-                          'be missing in a general audience. A producer trying '
-                          "to change Bruce Willis' mind is pretty funny, but "
-                          'how funny is it to a non-producer or a '
-                          'non-Bruce-Willis? The performances, are, of course, '
-                          'outstanding. The entire cast is composed of nearly '
-                          'uncriticizable actors who are superb in any role '
-                          'they attempt. If you have an interest in how films '
-                          'come to be, this is a fun little flick. If you '
-                          "don't care about the behind-the-scenes, you may "
-                          'want to sit this one out.',
+            'name': 'Nothing interesting',
+            'reviewBody': 'A producer(DeNiro) with two ex-wives and families '
+                          'tries to get a British artsy director(Wincott) to '
+                          'change the ending of their most recent film, and '
+                          "Bruce Willis to shave off a beard(he's also gained "
+                          'weight, but no one seems to worry about him losing '
+                          '*that*) before he stars in a movie. The clock is '
+                          "ticking on both, and it's astounding just how "
+                          'little we care. Oh, and yes, that actually is the '
+                          "entire story. It certainly isn't enough for a "
+                          'feature. Maybe this should have been a TV pilot? '
+                          'There are several subplots, one more unresolved and '
+                          "utterly pointless than the next. I haven't read the "
+                          'memoirs that this is based upon. The acting is '
+                          'good, with the possible exception of Tucci(not sure '
+                          "what happened there). We've got real talent, but "
+                          "they can't reanimate the dead material they're "
+                          'given. There is barely anything funny in this at '
+                          'all. The handful of jokes are drawn out endlessly. '
+                          'Granted, Robert talking with Robin and "trying to '
+                          'be understanding" is amusing, and this can make you '
+                          'smile every now and then. On the whole, the '
+                          'punchline is that Hollywood is full of sex with '
+                          'underage girls, drugs and personal problems. '
+                          "Newsflash: We know. And it isn't delivered in any "
+                          'kind of fresh way. Maybe part of the issue is that '
+                          "these are in-jokes... we don't get them. This has "
+                          'been called indulgent and arrogant, and I '
+                          "completely agree. Why make a big flick that won't "
+                          'appeal to anyone not in the business? This is '
+                          "slow-paced and incredibly boring. It's too bad, "
+                          'because the editing and cinematography(with some '
+                          "hand-held camera) aren't bad. This is meant to be a "
+                          "satire... I'd go for S1m0ne over it any day. It's "
+                          "the worst I've seen by Levinson. There is a bunch "
+                          'of strong language, a bit of moderate, bloody '
+                          'violence and disturbing content and brief nudity in '
+                          'this. The DVD comes with a trailer. I recommend '
+                          'this only to the most forgiving of potential '
+                          'viewers. 5/10',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '5',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'This is the trailer for What Just Happened?, '

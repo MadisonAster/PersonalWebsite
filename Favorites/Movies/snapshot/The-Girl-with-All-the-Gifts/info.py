@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Girl-with-All-the-Gifts',
  'EntryURL': 'https://www.imdb.com/title/tt4547056',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Girl-with-All-the-Gifts/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Girl-with-All-the-Gifts/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Girl-with-All-the-Gifts/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Girl-with-All-the-Gifts/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0175916/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 51858,
+                     'ratingCount': 51860,
                      'ratingValue': '6.6',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -49,45 +48,34 @@
  'keywords': 'experiment,bitten by a zombie,feral child,scientist,cure',
  'name': 'The Girl with All the Gifts',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'billygoat1071'},
-            'dateCreated': '2016-11-26',
+            'author': {'@type': 'Person', 'name': 'moviebuffchick'},
+            'dateCreated': '2017-05-13',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4547056/'},
-            'name': 'Mind-Blowing',
-            'reviewBody': 'The atmosphere it builds, the eeriness of the '
-                          'children humming from the music score, how '
-                          'brilliantly orchestrated that opening scene or the '
-                          'entire first act was, are just everything you need '
-                          'to get excited on how things will unfold.\n'
+            'name': "Great zombie movie that's not really about zombies",
+            'reviewBody': "I'm really aggravated by people who think this was "
+                          'a "boring zombie movie" that "wasn\'t scary." '
+                          'Look... the movie is called THE GIRL WITH ALL THE '
+                          "GIFTS. It's a movie about a girl... who happens to "
+                          'be a zombie... and her desire to come to terms with '
+                          'who she is, and her right to live in spite of it. '
+                          "NO it's not full of scares and gory zombie kills... "
+                          "that's not what it's about. If you can appreciate a "
+                          'good story about a little girl who happens to be a '
+                          "zombie then you'll see the beauty in this film. "
+                          'There still GREAT zombie action though... It was '
+                          'very well done, had an excellent cast, and Sennia '
+                          'Nanua shined. \n'
                           '\n'
-                          'When the actual plot kicks in, it somewhat follows '
-                          'the familiar zombie/outbreak movie tropes, with '
-                          'them wandering around this rubble. The second act '
-                          "does slow things down, since the zombie's dynamics "
-                          'here are pretty standard. But the subtext is what '
-                          'keeps it more interesting. The whole setup is '
-                          'basically a metaphor on how we treat the next '
-                          "generation: we get Gemma Arterton's character who "
-                          'finds hope on the young infected girl, Melanie, '
-                          'while everyone else fears on how she and her kind '
-                          "could threaten their existence. It's a complex "
-                          'dilemma that makes it tough to predict how '
-                          'everything would turn out. The greatest feat of the '
-                          'directions is how it keeps its scenarios quite '
-                          'disorienting, especially with its music score, '
-                          "increasing its disorientation. It's amazing.\n"
+                          'Full commentary WITH spoilers on YouTube/Twitter '
+                          '@moviebuffchick1\n'
                           '\n'
-                          'And the movie ends with probably one of the '
-                          "cleverest punchlines I've seen in film. This movie "
-                          'is basically the I Am Legend movie done right. This '
-                          'movie is based on a book and contradicting to what '
-                          'I said, the readers claim that the ending of this '
-                          'movie was mishandled. I dunno in what way, but it '
-                          'makes me more curious about reading it. For now, I '
-                          'think The Girl With All the Gifts is mindblowing. '
-                          'If Glenn Close fighting a zombie is not enough for '
-                          'you to see it, I dunno what will.'},
+                          'https://youtu.be/wwm1nWFOwBI',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '9',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A scientist and a teacher living in a dystopian '
                             'future embark on a journey of survival with a '

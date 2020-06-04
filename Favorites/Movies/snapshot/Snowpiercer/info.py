@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Snowpiercer',
  'EntryURL': 'https://www.imdb.com/title/tt1706620',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Snowpiercer/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Snowpiercer/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Snowpiercer/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Snowpiercer/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -17,7 +16,7 @@
            {'@type': 'Person', 'name': 'Ed Harris', 'url': '/name/nm0000438/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 291610,
+                     'ratingCount': 291647,
                      'ratingValue': '7.1',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -63,63 +62,49 @@
              'control,dystopia',
  'name': 'Snowpiercer',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'harry_tk_yung'},
-            'dateCreated': '2013-12-06',
+            'author': {'@type': 'Person', 'name': 'katycrit'},
+            'dateCreated': '2015-08-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1706620/'},
-            'name': 'Fusion of art house and mainstream',
-            'reviewBody': "After graping the global movie universe's attention "
-                          'with "The host" (2006), Korean director Bong '
-                          'Joon-ho serves up his first offer in the English '
-                          'language with "Snowpiercer", a futuristic, sci-fi '
-                          'fable as well as a hybrid of art house and '
-                          'mainstream thriller.\n'
+            'name': "It's commentary, not plot holes.",
+            'reviewBody': 'I noticed that people seemed to rate this film '
+                          'either quite high or extremely low and reading the '
+                          'reviews, I can see that those who rated high and '
+                          'those who rated low were watching completely '
+                          'different movies. \n'
                           '\n'
-                          'The micro depiction of the macro human race is '
-                          'through the titular vehicle (literally meant) – a '
-                          'train that circles the post-apocalyptic world, a '
-                          'frozen hell resulted from the backfire of an '
-                          'over-executed maneuver in battling global warming. '
-                          'Secluded from the outer world, the survivors are '
-                          'stratified by social class, the highest at the '
-                          'front (a perpetual-motion engine) and the lowest at '
-                          'the back. The linear (in more ways than one) story '
-                          'is quite simple, the underprivileged bunch at the '
-                          'back fighting its way, car after car, all the way '
-                          'to the front to gain control of their own destiny. '
-                          'Through the allegory progression, the audience '
-                          'witnesses a rich pageantry of environments – rough '
-                          'workplace, lush greenhouse, giant aquarium, plush '
-                          'lounge, and more.\n'
+                          'A huge part of the negative criticisms for this '
+                          'movie is the prevalence of plot holes. These are '
+                          'absolutely undeniable. The concept is far-fetched, '
+                          'the execution bizarre, and the upper class '
+                          'characters quite comical. The key to appreciating '
+                          'this film is understanding its purpose. Snowpiercer '
+                          'is clearly a social commentary, but going into it '
+                          'expecting a Hunger Games sort of dystopian social '
+                          'commentary, you are absolutely going to find it '
+                          'ridiculous.\n'
                           '\n'
-                          'The impressive cast is well assembled. Chris Evans '
-                          'sheds his "All American" heartthrob image to play '
-                          'this perhaps his first heavy-weight role as an '
-                          'earthy leader of the revolution. John Hurt is the '
-                          'semi-disabled wise old man, a rich reservoir of '
-                          'knowledge. Other key members of the group include '
-                          'Jamie Bell as the young follower, Octavia Spencer '
-                          'as a mother searching for a missing child "drafted" '
-                          'by the ruling class for some obscure purpose, and '
-                          'Song Kang-ho as a Korean security expert. The '
-                          'show-stealing personas, however, are on the '
-                          'opposite side. Most delicious is Tilda Swinton, '
-                          'barely recognizable with ingenious makeup '
-                          '(essentially of a dental nature) playing the '
-                          'spokesperson for the dictator. Allison Pill (so '
-                          'impressive as Zelda Fitzgerald in "Midnight in '
-                          'Paris") is another manifestation of eccentricity, a '
-                          'pregnant kindergarten teacher, all sweetness until '
-                          'she produces a gun and starts shooting. The '
-                          'dictator is competently played by Ed Harris.\n'
+                          'Instead, a much better genre match to this film '
+                          'would be Brazil. Its absurdity makes it even more '
+                          'horrifying. The fact that there is no true logic, '
+                          'the contrast between the dingy tail section and the '
+                          'bright colors and extravagance of the front, and '
+                          'the utter hopelessness of the plot make this movie, '
+                          'yes, bizarre to watch and difficult to relate to. '
+                          'However, the alienation of this world from ours '
+                          'brings out the social commentary and the cautionary '
+                          'tale within.\n'
                           '\n'
-                          'The movie is quite long (a little over 2 hours) and '
-                          'does not hurry itself as most blockbuster thrillers '
-                          'would do. Instead, it takes its time with careful, '
-                          'well-crafted character development. But it does '
-                          "hold the audience's attention with excellent acting "
-                          'and artsy photography.'},
+                          'Another up-side was the diversity presented in the '
+                          'train and the framing of women WITHOUT the male '
+                          'gaze! All in all, I was pleasantly surprised by '
+                          'this film and my only real criticism is that it was '
+                          'way too long.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '8',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'In a future where a failed global-warming '
                             'experiment kills off all life on the planet '

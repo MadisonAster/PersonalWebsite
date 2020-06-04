@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Pirates-of-Silicon-Valley',
  'EntryURL': 'https://www.imdb.com/title/tt0168122',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Pirates-of-Silicon-Valley/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Pirates-of-Silicon-Valley/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Pirates-of-Silicon-Valley/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Pirates-of-Silicon-Valley/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -49,39 +48,52 @@
              'company',
  'name': 'Pirates of Silicon Valley',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Col-3'},
-            'dateCreated': '1999-06-22',
+            'author': {'@type': 'Person', 'name': 'andyetris'},
+            'dateCreated': '2003-04-02',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0168122/'},
-            'name': 'A very watchable geek history',
-            'reviewBody': 'As a geek in Silicon Valley I enjoyed this movie '
-                          'beyond my expectations. The makers of this movie '
-                          'seemed to agree with its protagonists that the '
-                          'evolution of the personal computer is a process '
-                          "that shaped the history of the world - and they're "
-                          "right. If you're not sitting in front of a Windows "
-                          "box or Mac right now, you're in the vast minority. "
-                          'The story of how Steve Jobs and Bill Gates amassed '
-                          'such wealth and power is an interesting one.\n'
+            'name': 'Awkward But Fascinating',
+            'reviewBody': 'This is an engaging historical-fiction look at the '
+                          'development of the famous computer companies Apple '
+                          'and Microsoft.  The performances are terrific, but '
+                          'the film suffers from trying to handle several main '
+                          'characters and cover a lot of historical events.  '
+                          'It is also unfortunate that there are three main '
+                          'characters all named "Steve."\n'
                           '\n'
-                          'Noah Wyle (Jobs) and Anthony Michael Hall (Gates) '
-                          'fit their characters to a T. Gates was portrayed '
-                          'just as I imagined him - smug, opportunistic and '
-                          'sneaky, but hardly villainous. Surprisingly, during '
-                          'this movie I was more sympathetic to Gates than to '
-                          'the brilliant but unstable Jobs who came across as '
-                          'arrogant and petulant.\n'
+                          '  The story is told from the perspective of Steve '
+                          'Wozniak (Joey Slotnik), who is portrayed as a '
+                          "gentle head and caring foil to Noah Wyle's "
+                          'brilliant but cruel portrayal of Steve Jobs, '
+                          "Wozniak's Apple co-founder.  Anthony Michael Hall "
+                          'obviously has a wonderful time playing the weaselly '
+                          'Bill Gates.\n'
                           '\n'
-                          'All in all, this was quite enjoyable for a '
-                          "tele-movie. If you're inclined towards the geeky "
-                          'yourself, and remember the early days of the PC '
-                          "biz, you'll probably find this movie quite "
-                          'educational.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
+                          '  The title is a pun referencing both the '
+                          'buccaneering style Jobs celebrated at Apple, and '
+                          "the idea of unethically 'pirating' the computer "
+                          "developments of other engineers.  The film's main "
+                          'point is that both Apple and Microsoft gained their '
+                          'key functionality, the image-based screen display '
+                          "of a computer system (GUI) and the 'mouse' pointing "
+                          "device, by 'pirating' the ideas. Apple swipes them "
+                          'from Xerox, then Microsoft swipes them from Apple.\n'
+                          '\n'
+                          '  This is a personality study and not a technical '
+                          'review, and while that may make it more accessible '
+                          "the film doesn't make it entirely clear why Jobs "
+                          'provides so much access to Gates and his crew '
+                          '(presumably Gates is supposedly modifying his '
+                          'computer language, BASIC, to work on the Apple?)\n'
+                          '\n'
+                          "  I'd have to know a lot more about Wozniak, Jobs, "
+                          'and Gates before judging them from this film, which '
+                          'is especially hard on Jobs.  Wyle portrays him as a '
+                          'selfish and arrogant adolescent, exploiting and '
+                          'manipulating friends and subordinates.  Altogether '
+                          'the film is worth watching, but bittersweet and '
+                          'possibly slanted.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from TBS',
              'embedUrl': '/video/imdb/vi1521418521',

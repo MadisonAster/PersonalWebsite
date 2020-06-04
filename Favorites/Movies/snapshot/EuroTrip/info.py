@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/EuroTrip',
  'EntryURL': 'https://www.imdb.com/title/tt0356150',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/EuroTrip/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/EuroTrip/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/EuroTrip/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/EuroTrip/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0922563/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 189622,
+                     'ratingCount': 189627,
                      'ratingValue': '6.6',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -58,45 +57,17 @@
              'nudity',
  'name': 'EuroTrip',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Killa_Cam'},
-            'dateCreated': '2004-08-17',
+            'author': {'@type': 'Person', 'name': 'tarynkstilwell'},
+            'dateCreated': '2019-05-16',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0356150/'},
-            'name': 'Excellent Absurd Comedy: Funnier Than American Pie',
-            'reviewBody': 'This movie is hilarious & a must see for those who '
-                          'like American Pie, Scary Movie, Senseless & similar '
-                          'types of comedies. Eurotrip uses almost every '
-                          'single cliché or stereotype regarding Europe & '
-                          'exaggerates it enormously in an unbelievably funny '
-                          'way.\n'
-                          '\n'
-                          'Surprisingly the acting, which is done mainly by '
-                          'unknown actors & actresses, is very good. As for '
-                          'Michelle Trachtenberg, she is just plain awesome. '
-                          'Her acting deserves real praise. Plus, the film '
-                          'features several pretty successful cameo '
-                          'appearances. Lucy Lawless as S&M dominatrix is '
-                          'particularly hilarious.\n'
-                          '\n'
-                          "Though the story itself can't be considered "
-                          'particularly original, the movie is interesting, '
-                          'cause of unstoppable flow of hilarious jokes. The '
-                          "theater was almost torn down with the viewers' "
-                          'laughter, when I watched the film. The scene with '
-                          'The Pope is an instant classic in my point of view, '
-                          "I haven't seen something this hilarious since the "
-                          'first Scary Movie came out. Some satirical aspects '
-                          'also take place in the movie: especially funny was '
-                          'the scene, when the characters arrive to a club in '
-                          "Slovakia & hear a techno remix of a song 'Scotty "
-                          "Doesn't Know'. Awesome moment.\n"
-                          '\n'
-                          'In general, I think the film is underrated. In my '
-                          'opinion it is better than the first & the second '
-                          'American Pie, the second Scary Movie & a great '
-                          'number of less famous comedies. Go see it & have '
-                          'fun.',
+            'name': 'A cult classic at this point',
+            'reviewBody': 'Eurotrip may have been panned by critics, but most '
+                          'of my millennial friends hold it up as a classic '
+                          "raunch-com. It is truly hilarious. And you can't "
+                          'help but walk away from watching it while singing '
+                          '"Scotty doesn\'t know..."',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '8',

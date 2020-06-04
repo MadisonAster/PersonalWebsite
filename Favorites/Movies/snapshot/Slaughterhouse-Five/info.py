@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Slaughterhouse-Five',
  'EntryURL': 'https://www.imdb.com/title/tt0069280',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Slaughterhouse-Five/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Slaughterhouse-Five/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Slaughterhouse-Five/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Slaughterhouse-Five/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -48,71 +47,43 @@
              'travel,world war two',
  'name': 'Slaughterhouse-Five',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'mstomaso'},
-            'dateCreated': '2007-06-14',
+            'author': {'@type': 'Person', 'name': 'mmoore18'},
+            'dateCreated': '2004-07-09',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0069280/'},
-            'name': "Vonnegut's Classic Through Roy Hill's Lens",
-            'reviewBody': 'The film Slaughterhouse 5 is a brilliantly '
-                          'portrayed interpretation of a great but typically '
-                          'multilinear novel by science fiction author Kurt '
-                          'Vonnegut. With all due respect to the literary '
-                          'critics, sci fi really is what Vonnegut most often '
-                          'wrote - whether or not it is viewed as allegory or '
-                          "even 'serious literature'. As such, it was not "
-                          'really made to convey the same messages,nor even '
-                          'the aesthetics of the book, but rather to convey '
-                          "the director's (and others on the creative team) "
-                          'impressions of the book.\n'
+            'name': 'Pleasantly Surprised',
+            'reviewBody': 'Like most of those who have posted before me, I am '
+                          'an avid Vonnegut fan and went into this movie with '
+                          'a guarded optimism that it would just be decent.\n'
                           '\n'
-                          "The book is also brilliant, but none of Vonnegut's "
-                          'work is easily adapted to the medium of film. Not '
-                          'quite the task Cronenberg took on when he directed '
-                          "Burrough's Naked Lunch, but very similar in "
-                          'method.\n'
+                          'But George Roy Hill did an excellent job conveying '
+                          'the overall feel of the book -- the time jumping '
+                          "was flawless and I didn't find it hard to follow at "
+                          'all. The actor who played Billy Pilgrim captured '
+                          "Billy's passive, calm and vaguely anti-social "
+                          "demeanor. Lazarro, Montana and Billy's wife are "
+                          'also well played. \n'
                           '\n'
-                          'S-5 exposes us to the life of Billy Pilgrim '
-                          '(Michael Sacks) and his many loves (his dog spot, '
-                          'his wife played by Holly Near and an actress played '
-                          'by Valerie Perrine), as he either blacks out and '
-                          'travels into the deep recesses of his memory '
-                          'experiencing the delusion of time travel or (as '
-                          'indicated by his occasional leaps forward in time), '
-                          "he actually has become 'unstuck in time.' Between "
-                          'trips back to Dresden during its WWII bombing and '
-                          'trips forward to the planet Tralfamador, it seems '
-                          'that Billy is constantly tripping. Yet he manages '
-                          'to build a successful and very normal American life '
-                          'despite his bizarre and uncontrollable time-travel '
-                          'habit. \n'
+                          'George Roy Hill had a knack for directing movies '
+                          'made from great books -- e.g., "The World According '
+                          'to Garp" -- and in the end, I was pleasantly '
+                          'surprised how well this movie turned out. \n'
                           '\n'
-                          'The film illustrates the non-linear manner in which '
-                          'the book is written by skipping from time to time '
-                          'in a seemingly random manner, but it manages to do '
-                          'so without losing focus on Pilgrim, who is, in fact '
-                          'always living in the present regardless of what '
-                          'time he happens to be experiencing. Fantastic '
-                          'directoral method!\n'
+                          'As far as the Vonnegut adaptations go (I know of '
+                          'four -- this one, "Mother Night," "Breakfast of '
+                          'Champions" and the god-awful "Slapstick") this one '
+                          'is the best of the bunch. \n'
                           '\n'
-                          'The film makes a lot of subtle, simple and very '
-                          'good points by making Billy - a quiet simple guy '
-                          'with an extraordinary set of circumstances in his '
-                          'life - a true hero simply because he is relatively '
-                          'nice, somewhat aloof, happy, and quite normal. '
-                          "Sacks' performance is spot-on.\n"
+                          "I've always wanted to see a movie version of "
+                          '"Sirens of Titan," but it\'ll probably never happen '
+                          '-- so "Slaughterhouse Five" is my only chance to '
+                          '"see" Trafalmadore. \n'
                           '\n'
-                          'This film is beautifully photographed, very well '
-                          'paced, perfectly directed and edited. The acting is '
-                          'all quite good, and comes from a well appointed '
-                          'cast mostly consisting of character actors. I was '
-                          "particularly impressed with Eugene Roche's "
-                          'excellent portrayal of Edgar Derby.\n'
-                          '\n'
-                          'Highly recommended for the art-house crowd and '
-                          'friends of intelligent sci fi.',
+                          'Recommended to any true Vonnegut fans. Other people '
+                          "probably won't appreciate it.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'url': '/title/tt0069280/'}

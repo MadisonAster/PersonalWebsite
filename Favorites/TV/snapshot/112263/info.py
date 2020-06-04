@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/112263',
  'EntryURL': 'https://www.imdb.com/title/tt2879552',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/112263/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/112263/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/112263/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/112263/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0177933/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 67667,
+                     'ratingCount': 67668,
                      'ratingValue': '8.2',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -40,41 +39,37 @@
  'keywords': 'time travel,historical event,year 1963,dallas texas,conspiracy',
  'name': '11.22.63',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'JohnLamberio'},
-            'dateCreated': '2016-03-03',
+            'author': {'@type': 'Person', 'name': 'modironak'},
+            'dateCreated': '2016-02-18',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2879552/'},
-            'name': 'Superb show, intriguing and beguiling with massive '
-                    'potential.',
-            'reviewBody': "I've rarely left reviews for TV shows, but this has "
-                          "me hooked with it's premise. The ability to change "
-                          'history, for the better. But each time you go back, '
-                          'history resets itself to the original timeline. And '
-                          'regardless of how long you stay in the past, when '
-                          'you come back...only 2 minutes will have passed in '
-                          'the present! Saving John F. Kennedy is the primary '
-                          'motive for "Mr Amberson" (Played impeccably by '
-                          'Franco). Yet will it result in a better world '
-                          'should he succeed? Massive questions and plenty of '
-                          'unpredictability. Franco is beset by a number of '
-                          "moral dilemma's, trying to make sense of doing a "
-                          'bad acts which will benefit the greater good. But '
-                          'the moment he comes close to changing the future, '
-                          'time itself pushes back in emphatic fashion.\n'
+            'name': 'Super Interesting and Must Watch !!',
+            'reviewBody': 'It has been a long time I have seen James Franco '
+                          'look so promising in a role. Last time when I saw '
+                          'him so good was in 127 Hours. He has done complete '
+                          'justice to the character in the premiere of this '
+                          'show and seems to be in his comfort zone. \n'
                           '\n'
-                          "Stephen King's fingerprints are all over this, a "
-                          "good thing. The usual King cliché's of it being set "
-                          'in Maine, centred around a divorcée/loner/Average '
-                          'Joe and some rather humorous dialogue apply, but '
-                          'only for a while as there is an underlying sense of '
-                          'unknown that draws the viewer in.\n'
+                          'As for the show, it does not waste any time to get '
+                          'into action. Franco plays role of Jake Epping, a '
+                          'High School Teacher, who unwillingly has to take up '
+                          'the task of traveling to the past and avoid '
+                          'assassination of JFK. Show is fast paced and keeps '
+                          'you engrossed all the time. You just keep wondering '
+                          'how the story will unfold and will Jake be able to '
+                          'prevent the assassination. \n'
                           '\n'
-                          'My fear with this series is that it will only be a '
-                          '1 season run, because the amount of narrative, plot '
-                          'and sheer depth of potential needs to be exploited '
-                          'fully over a number of seasons. But from the early '
-                          'going, 9.5/10.',
+                          'For the premiere, you do not see much of the acting '
+                          'of others as it revolves only around Franco and '
+                          'Cooper. But they both take you to a ride which '
+                          'should not end. Episode was 80mins long but I did '
+                          'not realize when the time flew by. Direction and '
+                          'screenplay is of high standards along with story '
+                          'which is very well thought of. \n'
+                          '\n'
+                          'I personally recommend you to watch the show and '
+                          'guarantee that you will not be disappointed.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

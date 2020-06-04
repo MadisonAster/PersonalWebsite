@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Westworld',
  'EntryURL': 'https://www.imdb.com/title/tt0475784',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Westworld/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Westworld/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Westworld/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Westworld/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0628601/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 401040,
+                     'ratingCount': 401051,
                      'ratingValue': '8.7',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -41,31 +40,29 @@
  'keywords': 'artificial intelligence,robot,android,based on film,theme park',
  'name': 'Westworld',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'letshaveagoodtm'},
-            'dateCreated': '2016-10-29',
+            'author': {'@type': 'Person', 'name': 'timoverend83'},
+            'dateCreated': '2016-10-15',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0475784/'},
-            'name': 'Outstanding dialog, acting and story line',
-            'reviewBody': 'Pay attention, this series explores some very '
-                          'subtle story lines. I was extremely impressed when '
-                          'they introduced the bicameral mind concept when '
-                          'considering consciousness. That is one of the more '
-                          'important concepts when considering the origins of '
-                          'consciousness. I hope they explore this idea in '
-                          'greater detail and especially its implications '
-                          'related to physics. It is rare indeed to have a '
-                          'fictional work undertake such a complex topic '
-                          'without trivializing it. I definitely have to '
-                          'compliment the writers for undertaking such a '
-                          'complex topic and I hope they continue to explore '
-                          'the implications.\n'
+            'name': 'Excellent',
+            'reviewBody': 'This show is so far perfect. The story is '
+                          'intriguing, the visuals are beautiful and the '
+                          'acting is incredible.\n'
                           '\n'
-                          'Again, IMDb thinks I should add additional lines to '
-                          'my review which is ridiculous. I have offered a '
-                          'clear and concise review and they want an arbitrary '
-                          'number of lines, what kind of idiot makes this a '
-                          'requirement?',
+                          'The previous reviewer who said the violence is '
+                          'unnecessary has missed the point in my opinion. The '
+                          'violence is very much needed. It is there to make '
+                          'you feel uncomfortable, because it is that inner '
+                          'dark side and battle between good and evil (and '
+                          'more often than not the middle ground between) that '
+                          'is at the very epicenter of the human '
+                          'condition.This is what the show is often commenting '
+                          'on and this is what makes this show so interesting, '
+                          'thought provoking and ultimately entertaining.\n'
+                          '\n'
+                          'If it carries on in the same vein we will have a '
+                          'modern day classic on our hands.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

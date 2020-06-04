@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Science-Of-Sleep',
  'EntryURL': 'https://www.imdb.com/title/tt0354899',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Science-Of-Sleep/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Science-Of-Sleep/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Science-Of-Sleep/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Science-Of-Sleep/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -48,37 +47,55 @@
              'relationship,giant hand',
  'name': 'La science des rêves',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'sundevil27'},
-            'dateCreated': '2006-01-25',
+            'author': {'@type': 'Person', 'name': 'Camera-Obscura'},
+            'dateCreated': '2007-01-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0354899/'},
-            'name': 'Dreamy Art Pic that requires multiple viewings',
-            'reviewBody': 'I just saw this at the Sundance Film Festival and '
-                          'feel compelled to saw a few things about the flick. '
-                          'This movie is so insanely good and just plain '
-                          'insane at the same time. The movie follows Gael '
-                          "Garcia's character as he moves back to his mothers "
-                          'home in Paris and finds himself falling for the '
-                          "girl across the hall. Gael's character experiences "
-                          'reality through dreams and the present, creating '
-                          'all sorts of confusion. The movie has some of the '
-                          'most unique props and eccentric animation pieces I '
-                          'have ever seen, but would you expect anything less '
-                          'from Gondry (Eternal Sunshine..). This movie really '
-                          "can't be described in truth but holds so much "
-                          'potential for multiple viewings as its so full of '
-                          'life and visual wonders for the eyes. Gael Garcia '
-                          'is just perfect in this role and is fascinating in '
-                          'gesture and laugh out loud funny when the script '
-                          'allows. I think you should definitely look forward '
-                          'to seeing this movie when it gets a wide release, '
-                          'its funny, its art, its pleasure for the eyes and a '
-                          'puzzle for the mind.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
+            'name': 'A cardboard and cellophane dream world',
+            'reviewBody': 'THE SCIENCE OF SLEEP (Michael Gondry - France/Italy '
+                          '2006).\n'
+                          '\n'
+                          "There's something magical about this wonderfully "
+                          'sweet romantic fantasy by Michael Gondry. A love '
+                          'story, emotionally rich with dazzling dream-like '
+                          'visuals, done the old-fashioned way with simple '
+                          'stop-motion animation techniques. We see Stéphane '
+                          'flying above his cardboard imagination of Paris and '
+                          'later, we see him sitting in the bathtub full of '
+                          "silver cellophane. It's Gondry's first film as "
+                          'writer-director after a two-feature partnership '
+                          'with Philip Kaufman. Not surprisingly, it feels a '
+                          'bit Kaufmanesque, as Gondry\'s previous "Eternal '
+                          'Sunshine of the Spotless Mind", but now dreams have '
+                          'replaced memory. \n'
+                          '\n'
+                          'Stéphane can hardly make the distinction between '
+                          'his own dreamworld and the outside reality and '
+                          "doesn't know a whole lot about love. For no "
+                          'apparent reason he lies to Stéphanie that he lives '
+                          'next door to her, which results in some comic '
+                          'situations. He also wants to be an inventor and so '
+                          "he gives her his 3-D glasses, 'but the world is "
+                          "already in 3-D', she replies. He is a man-child, "
+                          'unable to adjust himself to the everyday realities '
+                          'of the outside world. \n'
+                          '\n'
+                          'Ultimately the relationship between Stéphane and '
+                          'Stéphanie ends in a kind of stalemate, and so does '
+                          'the film itself. How do you end a film? With most '
+                          "films I can't wait till it's over, but here it "
+                          'seemed like the last twenty minutes got lost in the '
+                          'editing room. A very abrupt ending. The film might '
+                          'have a bit of an unsatisfying resolution, but '
+                          "Gondry creates magic here. It's the dreamworld that "
+                          'makes this rise above the level of just another '
+                          "romantic comedy, and it's funny, very funny. The "
+                          'breathtaking stop-motion animation is a feast for '
+                          'the eye and the sets and creations are wonderful to '
+                          'look at. The film had me in a permanent smile.\n'
+                          '\n'
+                          'Camera Obscura --- 8/10'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Warner Home Video',
              'embedUrl': '/video/imdb/vi4260954393',

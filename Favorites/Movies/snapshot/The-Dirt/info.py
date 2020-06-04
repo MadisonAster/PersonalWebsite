@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Dirt',
  'EntryURL': 'https://www.imdb.com/title/tt0800325',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Dirt/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Dirt/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Dirt/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Dirt/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm3206486/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 35686,
+                     'ratingCount': 35687,
                      'ratingValue': '7.0',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -61,22 +60,31 @@
  'keywords': 'junkie,poseur,soft rock,topless female nudity,squirting',
  'name': 'The Dirt',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'megavahinko'},
-            'dateCreated': '2019-03-22',
+            'author': {'@type': 'Person', 'name': 'gjrburbchic'},
+            'dateCreated': '2019-03-23',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0800325/'},
-            'name': 'Great movie even if your not a fan',
-            'reviewBody': 'I know some die-hard fans are gonna whine about how '
-                          'not everything in the movie was accurate but hey, '
-                          'neither was Bohemian Rhapsody (.. and look how well '
-                          'that went!). If you want historic accuracy, read a '
-                          'book. The Dirt was an ENTERTAINING two hours and '
-                          "hell, I enjoyed it even though I'm not the biggest "
-                          'fan of the Crüe. And would watch it again.',
+            'name': 'Exceeds Expectations',
+            'reviewBody': 'I went into this with extremely low expectations '
+                          'and was more than pleasantly surprised. The casting '
+                          'is near perfect. Machine Gun Kelly knocked it out '
+                          'of the park as Tommy Lee. Being a huge Crue fan in '
+                          "the 80's none of the material in this film is new "
+                          'to me and yes I was very aware of inconsistencies '
+                          'that were presumably done for theatrical and story '
+                          'telling purposes. None of that bothers me. To me, '
+                          "this is the right kind of awesomely cheesy. I'm "
+                          'impressed with the actors in this film. They '
+                          'inhabited the personas of Vince, Mick, Nikki, and '
+                          'Tommy really well. And I think that was the idea. '
+                          "Lastly, I've always resonated most with Nikki and "
+                          'seeing his childhood trauma depicted on the big '
+                          "screen was deeply moving. It's truly a miracle that "
+                          'guy is alive and well.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Based on the bestselling autobiography from '

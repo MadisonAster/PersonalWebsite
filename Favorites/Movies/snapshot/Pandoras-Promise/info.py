@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Pandoras-Promise',
  'EntryURL': 'https://www.imdb.com/title/tt1992193',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Pandoras-Promise/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Pandoras-Promise/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Pandoras-Promise/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Pandoras-Promise/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -43,59 +42,86 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTgyNDYxMzQxM15BMl5BanBnXkFtZTcwODQ0NTY0OQ@@._V1_.jpg',
  'name': "Pandora's Promise",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'djcm'},
-            'dateCreated': '2013-06-23',
+            'author': {'@type': 'Person', 'name': 'nebula-attack'},
+            'dateCreated': '2013-04-19',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1992193/'},
-            'name': 'A very important, thoughtful film',
-            'reviewBody': 'This film interviews several environmentalists and '
-                          'peace campaigners who have changed their mind on '
-                          'nuclear, and explores the reasons why they have '
-                          'changed their mind from "anti" to "pro". The film '
-                          "doesn't gloss over the disasters at Chernobyl and "
-                          'Fukushima; some of the speakers visit these '
-                          'locations in person and acknowledge their unease in '
-                          'a thoughtful way, but they also press on and '
-                          'discuss quantitatively whether people have been '
-                          'poorly informed about the actual dangers. The film '
-                          'is a myth-buster, which gives the open-minded '
-                          'viewer the chance to compare polemics with facts '
-                          'that the viewer can verify. The film makers take a '
-                          'radiation dose meter around the world, showing on '
-                          'screen the readings in capital cities, inside a '
-                          'nuclear power station, in aeroplanes, on a beach in '
-                          'Brazil (to which people flock for its natural '
-                          'radiation), near Fukushima, and near Chernobyl. '
-                          'Viewers who like me love numbers are advised to '
-                          'take a sheet of paper and pen to note down the '
-                          'readings at the beach, near Fukushima, and near '
-                          'Chernobyl. No doubt the main response to this film '
-                          'will be a brawl between "pro" and "anti" people, '
-                          'most of whom have not seen the film. They all need '
-                          'to calm down and watch this film. \n'
+            'name': "An Environmentalist's Dilemma - Rethinking Nuclear in the "
+                    'Global Warming Solution',
+            'reviewBody': 'I am an advocate of objectivity in public policy '
+                          'debates: Attacking the Nebula and breaking through '
+                          "the fog of misconceptions. I found Pandora's "
+                          'Promise an excellent film to re-ignite the dialog '
+                          'and cause people to re-examine their '
+                          'nuclear/anti-nuclear positions; hopefully with '
+                          'objectivity. The film will not likely convert one '
+                          'from an anti-nuclear bent to a pro-nuclear one—the '
+                          'topic is too complex and emotionally deep an issue '
+                          'and an hour and a half is too short a time for a '
+                          'real debate. But rather, the film should cause '
+                          'people to question the whether or not their beliefs '
+                          'are based on sound-bites or by evidence.\n'
                           '\n'
-                          'Some people compare this film with An Inconvenient '
-                          "Truth. I think Pandora's Promise is a better "
-                          'documentary. \n'
+                          'Environmentalists traditionally have been '
+                          'anti-nuclear particularly since nuclear pollution '
+                          'is such an emotionally frightening topic and not '
+                          'easy to put into context. It therefore is quite '
+                          'natural to believe that zero emissions is the right '
+                          'number. But as carbon dioxide, which was once '
+                          'considered a benign gas, enters into our public '
+                          'debate with greater concern and frequency, '
+                          'emissions of carbon dioxide, indeed any kind of '
+                          'emissions, become more and more relevant. This '
+                          "makes Pandora's Promise timely and relevant.\n"
                           '\n'
-                          'Contrary to what other reviewers say, it is not '
-                          '"propaganda by the nuclear industry" - only a '
-                          'couple of the people involved in the film were ever '
-                          'employed by the nuclear industry; most of the '
-                          'people interviewed are genuinely independent '
-                          'thinkers, mainly environmentalists, with no hidden '
-                          'agenda, who have taken the trouble to look at facts '
-                          'and data, and who have been willing to imagine that '
-                          'their opinions might be wrong. This is a trait to '
-                          'be admired. \n'
+                          'By presenting environmentalists who once were '
+                          'anti-nuclear but now see it a different way, and by '
+                          'interviewing some experts in the nuclear field, '
+                          'Robert Stone, takes us through a journey of '
+                          'discovery, as we see how some of the most common '
+                          'perceptions about nuclear power have little '
+                          'connection to solid reason. The overarching theme '
+                          'of the film is that when presented with facts and '
+                          'well-grounded research—i.e. objectivity—old '
+                          'anti-nuclear positions can be reversed. \n'
                           '\n'
-                          'See the film, study the facts, then decide. (And, '
-                          "incidentally, I should say the film's photography "
-                          'is great!)',
+                          'As I watched the film, I made a few notes about '
+                          'some of the information presented and afterward '
+                          'spent a bit of time on the researching some of the '
+                          'points presented. Largely, I found good '
+                          'corroboration and am comfortable saying the film '
+                          'fairly addressed some of the many nuclear myths '
+                          'perpetuated over time.\n'
+                          '\n'
+                          'While the film is largely balanced, it does succumb '
+                          'to the temptation of attacking an extreme position '
+                          'in making its case. A "60 Minutes"-type ambush of '
+                          'the vocal anti-nuke Helen Caldicott, making her '
+                          'look the fool is not debate. She is a side-show '
+                          'with unsupportable viewpoints. Attacking her only '
+                          'serves to make a nuclear advocate rejoice, but does '
+                          'little to inform a thinking anti-nuke. Another '
+                          'weakness in the film is a shallow and overly narrow '
+                          'handling of nuclear technology. The film dwells far '
+                          'too long on the integral fast reactor (IFR). The '
+                          'advantages and disadvantages of an IFR is in of '
+                          'itself a wide and broad topic which could take many '
+                          'hours and days to adequately explore. But there is '
+                          'no IFR in operation nor in construction today, so '
+                          'it seems quite odd when speaking about the merits '
+                          'of nuclear power, so much time was spent on a '
+                          'reactor design which is not part of the nuclear '
+                          'infrastructure.\n'
+                          '\n'
+                          'So, while there is a great deal more to debate and '
+                          "discuss on the topic of nuclear power, Pandora's "
+                          'Promise presents a great case for a renewed debate, '
+                          'particularly amongst those interested in energy and '
+                          'global climate changes.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A documentary about the history and future of '

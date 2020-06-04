@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Saturday-Night-Live',
  'EntryURL': 'https://www.imdb.com/title/tt0072562',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Saturday-Night-Live/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Saturday-Night-Live/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Saturday-Night-Live/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Saturday-Night-Live/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Don Pardo', 'url': '/name/nm0661094/'},
@@ -41,43 +40,56 @@
  'keywords': '20th century,21st century,1970s,2000s,2010s',
  'name': 'Saturday Night Live',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'culwin'},
-            'dateCreated': '2002-02-01',
+            'author': {'@type': 'Person', 'name': 'generationofswine'},
+            'dateCreated': '2019-01-20',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0072562/'},
-            'name': "It sucks now!  It's great again!",
-            'reviewBody': 'Every once in awhile I read reviews of SNL.  Almost '
-                          'never do the reviews say "it was OK".  Unless it is '
-                          'a review by a frequent viewer, they always say '
-                          'something like "SNL is great again!" or "SNL sucks '
-                          'now".  Usually these reviews are from people who '
-                          'never or rarely watch the show, and only remember '
-                          'it from 5, 10, 15 or even 20 years ago.  These '
-                          'types of reviews have been the same for as long as '
-                          'I can remember.  The periods that people now call '
-                          '"classic" frequently met with poor reviews at the '
-                          'time. \n'
+            'name': 'An Honest Review',
+            'reviewBody': 'It was good, then it was great, then it was good '
+                          'again and now it stinks.\n'
                           '\n'
-                          ' One thing to remember is that the show is an hour '
-                          'and a half, longer than most any other TV show.  It '
-                          'is hard to fill such a long show with consistently '
-                          'funny material.  It is also hard to make every '
-                          'episode funny. Therefore the show (like most shows) '
-                          'wavers between great and awful, depending on the '
-                          'sketch or episode you are watching at the moment.  '
-                          'To judge an entire series on one episode (or part '
-                          'of one) is a mischaracterization. \n'
+                          'As of 2018 The edginess is gone. There are no risks '
+                          'in the jokes. They all consist of two things, 1. '
+                          'Trump is bad. and 2. This was a thing, remember '
+                          'it?\n'
                           '\n'
-                          " I've watched SNL for most of its life, and "
-                          'although it has ranged from hilarious to horrible, '
-                          'I would say the average show is "pretty funny".  '
-                          "The bottom line:  there's nothing better to watch "
-                          'on Saturday night, so until there is, I will always '
-                          'watch SNL!',
+                          'Neither of those really work for me. Make fun of '
+                          'Trump all you want, but do it with a punch line. '
+                          'Most of the time they forget the punchline. Simply '
+                          'not liking him is NOT a punchline. You have to '
+                          'exaggerate something, make it satire, mock it in '
+                          "some way. I don't even care if it's a cruel "
+                          "mockery...so long as it doesn't seem like they are "
+                          'just stating an opinion.\n'
+                          '\n'
+                          'Opinions are NOT jokes.\n'
+                          '\n'
+                          'The same thing goes with their "remember this, this '
+                          'was a thing" jokes...\n'
+                          '\n'
+                          'They leave you sitting there waiting for them to '
+                          "say something funny about it. You're with them for "
+                          'a little while, "Yeah I remember it, go on..." then '
+                          'you realize that, no, that was the joke.\n'
+                          '\n'
+                          "That's not a joke, that's just asking me to "
+                          'remember something.\n'
+                          '\n'
+                          'Again, if they had a punch line, if they said '
+                          'something about what they were asking me to '
+                          "remember, then it might be funny...but they don't. "
+                          'The jokes are literally "this was a thing, laugh at '
+                          'it." and that\'s not funny. It has to be followed '
+                          'up with something.\n'
+                          '\n'
+                          'Like with Trump, an opinion is NOT a joke unless it '
+                          'is followed by something. The same thing with a '
+                          'memory, a memory is NOT a joke in and of itself. '
+                          'They both have to be followed by something',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '5',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Eddie Murphy returns to "Saturday Night Live." '

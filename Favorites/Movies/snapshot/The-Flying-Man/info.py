@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Flying-Man',
  'EntryURL': 'https://www.imdb.com/title/tt3018700',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Flying-Man/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Flying-Man/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Flying-Man/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Flying-Man/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Nick Smyth', 'url': '/name/nm1999952/'},
@@ -42,17 +41,16 @@
  'keywords': 'vigilante,night,police helicopter,news report,handgun',
  'name': 'The Flying Man',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'bvill-36857'},
-            'dateCreated': '2018-12-22',
+            'author': {'@type': 'Person', 'name': 'Kirpianuscus'},
+            'dateCreated': '2019-06-25',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3018700/'},
-            'name': 'The trailer had me searching high an low',
-            'reviewBody': "I'm not sure what happens to this it says in "
-                          'development if so it should get picked up it could '
-                          'even become a tv series',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
+            'name': 'good job',
+            'reviewBody': 'A simple story, good special effects, the idea of '
+                          'justice and, after Marvel universe, a not so '
+                          'strange character looking for do what it must be '
+                          'done. A good short film, with a powerfull end, with '
+                          'nice science to build the tension and dialogue. '
+                          'Short, good start for a new serie.'},
  'url': '/title/tt3018700/'}

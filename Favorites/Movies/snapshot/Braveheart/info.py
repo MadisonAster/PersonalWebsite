@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Braveheart',
  'EntryURL': 'https://www.imdb.com/title/tt0112573',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Braveheart/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Braveheart/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Braveheart/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Braveheart/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Mel Gibson', 'url': '/name/nm0000154/'},
@@ -19,7 +18,7 @@
             'url': '/name/nm0005171/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 933553,
+                     'ratingCount': 933558,
                      'ratingValue': '8.3',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -44,29 +43,27 @@
  'keywords': 'scotland,revolt,england,legend,idealism',
  'name': 'Braveheart',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'raidbers'},
-            'dateCreated': '2005-09-02',
+            'author': {'@type': 'Person', 'name': 'MR_Heraclius'},
+            'dateCreated': '2020-02-24',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0112573/'},
-            'name': 'Man vs King',
-            'reviewBody': 'This has to be one of the best movies I have ever '
-                          'seen. I recently purchased it and have watched it '
-                          'at least five times since then, and each time i '
-                          'pick up on things I did not see the other times. '
-                          'The fight scenes are great, the plot is both '
-                          'interesting and thought provoking, there is romance '
-                          'and comedy. This is a movie that any person can '
-                          'appreciate at some level. \n'
-                          '\n'
-                          'True, the historical content may have been '
-                          'distorted, but even though, this movie is meant for '
-                          'entertainment. It is not a history lesson caught on '
-                          'video.\n'
-                          '\n'
-                          'The acting is absolutely superb, this movie is '
-                          'guaranteed to have you on the edge of your seat for '
-                          'the entire three hours.',
+            'name': '"Every man dies, not every man really lives."',
+            'reviewBody': 'The Academy Award winning war epic Braveheart is an '
+                          'extraordinary film that set a new bar for the '
+                          'genre. The story follows a Scottish peasant named '
+                          "William Wallace who's pushed into leading a "
+                          'rebellion against the tyranny of English rule when '
+                          'his wife is murdered. Starring Mel Gibson, Patrick '
+                          'McGoohan, Sophie Marceau, and Brendan Gleeson, the '
+                          'film has a strong cast that delivers outstanding '
+                          'performances. Additionally, the battle sequences '
+                          'are remarkably gritty and violent, which adds to '
+                          'the authentic tone of the film. And, composer James '
+                          'Horner provides a sweeping and majestic score '
+                          "that's incredibly powerful. A groundbreaking film, "
+                          'Braveheart does an exceptional job at depicting '
+                          'both the valor and the horror of war.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

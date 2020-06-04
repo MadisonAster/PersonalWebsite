@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Oz',
  'EntryURL': 'https://www.imdb.com/title/tt0118421',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Oz/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Oz/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Oz/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Oz/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0935921/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 85734,
+                     'ratingCount': 85736,
                      'ratingValue': '8.7',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -39,51 +38,35 @@
  'keywords': 'male rape,prison,italian,gay,aryan brotherhood',
  'name': 'Oz',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'budmassey'},
-            'dateCreated': '2003-01-19',
+            'author': {'@type': 'Person', 'name': 'girardi_is_god'},
+            'dateCreated': '2003-02-13',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0118421/'},
-            'name': 'Its influence will elevate the level of television drama '
-                    'for years to come.',
-            'reviewBody': 'The stature of this program must be measured in the '
-                          'context of its format. These are not feature films, '
-                          'but one hour dramas, no different in concept or '
-                          'constraint from countless other network '
-                          'counterparts.  But, oh how different in result.\n'
-                          '\n'
-                          'Oz is not for everyone.  It is violent, lurid, '
-                          'obscene, profane and controversial.  Oz us narrated '
-                          'dramatically by a "Greek Chorus" of inmates who '
-                          'make insightful observations not just about Oz, but '
-                          'applicable to the outside world as well.  The '
-                          'talent, none of it marquee, is nonetheless the '
-                          'finest assembly of supporting actors an ensemble '
-                          'cast could hope for.\n'
-                          '\n'
-                          'In order to keep ratings up, the stories sometimes '
-                          'veer into the unbelievable, but the grit and '
-                          'reality are never gone for long.  Oz is also a '
-                          'bundle of irony.  Although it deals with '
-                          'homosexuality with insight and objectivity in every '
-                          'episode, it just as often bristles with gratuitous '
-                          'homoerotic overtone.  Despite the fact that it '
-                          'overflows with action and violence, it never '
-                          'mistakes kenesis for story.\n'
-                          '\n'
-                          'Sometimes, Oz borders on, and crosses well into, '
-                          'genius.  Its often surreal direction elevates '
-                          'otherwise base events to sublime levels.  Music, '
-                          'pacing, convoluted story lines careening and '
-                          'intersecting in ways that are at the same time '
-                          'graceful and clumbsy, just like real life.\n'
-                          '\n'
-                          'This is said to be the last season of Oz, and yet, '
-                          'only two seasons are on DVD.  With constant reruns '
-                          'and each episode being aired about a dozen times a '
-                          'week, you may be tired of this jewel anyway, but '
-                          'its influence will elevate the level of television '
-                          'drama for years to come.'},
+            'name': 'The most underrated show on tv',
+            'reviewBody': "On HBO, all the Emmy's for hard core drama go to "
+                          "THE SOPRANOS, and I dont' think that's bad. It is a "
+                          'great show. But Oz is better. It might well be the '
+                          "best thing on television. It doesn't get the press "
+                          'of the Sopranos. And the other people who watch HBO '
+                          "(those who don't like all the violence) whould much "
+                          "rather watch Ferris Beuller's wife in SEX AND THE "
+                          'CITY, which I will NEVER watch. Oz is amazing '
+                          "because almost every charachter in it's sea of "
+                          'people is in some way a terrible human being. But '
+                          'the magic of this show is that these terrible '
+                          'people become understandable. They do terrible '
+                          "things, but they are not all bad. Ryan O'Rielly, "
+                          'for example, is a cold-blooded killer. But when it '
+                          'comes to his brother and doctor Nathan, and more '
+                          'recently the priest he befriended, he is a warm and '
+                          "caring person who's pain you empathize with. Oz "
+                          'takes murderers, rapists, thieves, and even a rich '
+                          'lawyer who ran down a young girl in a drunken '
+                          'stuper, and makes them likeable and forgivable. '
+                          "That's incredible.  And this show is incredible. It "
+                          'goes off the air soon for good, and I wish it had '
+                          'gotten the respect it deserved.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from HBO Home Video',
              'embedUrl': '/video/imdb/vi2476671257',

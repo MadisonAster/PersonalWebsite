@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Legit',
  'EntryURL': 'https://www.imdb.com/title/tt2400391',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Legit/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Legit/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Legit/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Legit/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -39,60 +38,32 @@
  'keywords': 'friend',
  'name': 'Legit',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'joseph-brian2013'},
-            'dateCreated': '2013-02-04',
+            'author': {'@type': 'Person',
+                       'name': 'Heyhollysunshine-596-614222'},
+            'dateCreated': '2013-01-31',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2400391/'},
-            'name': 'Very funny show. 10/10',
-            'reviewBody': 'This show is genuinely hilarious. Like many of '
-                          'these mockumentary style shows or sitcoms they '
-                          'often start off a little slowly. (Not that this '
-                          'show could be described as a mockumentary as '
-                          'such)However, this review comes after episode 3 '
-                          "(Love) which is the best episode so far and I'm "
-                          'already falling in love with all the main '
-                          'characters. \n'
-                          '\n'
-                          'It has been said often of Legit that it has heart, '
-                          'it certainly does, it has oodles of soul perfectly '
-                          'balanced with gut busting laughter.\n'
-                          '\n'
-                          'Reminiscent of Curb your Enthusiasm Legit is '
-                          'cringe-worthy more often than not but you wont be '
-                          'able to look away. A bit like Parks & Rec it '
-                          "started slowly but didn't take long for me to feel "
-                          'great empathy for the main cast, you really want '
-                          'these guys to succeed. \n'
-                          '\n'
-                          'Its a little to early to dissect the characters, '
-                          "suffice it to say, Jim Jefferies' TV packaged "
-                          'portrayal of himself is a little out of step with '
-                          "the Jim Jefferies you'll experience on stage. "
-                          'Albeit the Jim in the TV show seems like a bit of a '
-                          'narcissist and/or sociopath to some extent, slowly '
-                          'going legit and becoming more empathic, which I '
-                          'suppose is the point of the somewhat vague premise. '
-                          "Nevertheless, it still works and it's fair to say "
-                          "the guy can act, He's no DJ Qualls in the acting "
-                          'department but I would give him a robust 7/10 '
-                          'notwithstanding.\n'
-                          '\n'
-                          'Jim manages to deliver his brand of shock value '
-                          'comedy, vulgarity and twisted tales without the '
-                          'unrelenting barrage of epithets and I think its a '
-                          'credit to him.\n'
-                          '\n'
-                          'It goes without saying that Legit will not be for '
-                          'everyone, Jim Jefferies is not considered one of '
-                          'the top dirty stand up comics for no reason.\n'
-                          '\n'
-                          "I'm not sure where this show is headed nor could I "
-                          "say it has much longevity but I'm going to enjoy "
-                          "the ride while it lasts. Why don't you join me.",
+            'name': 'If the rest of the series is half this funny this will be '
+                    'great!!',
+            'reviewBody': "Just stumbled on this show and I'm so glad I did! "
+                          "I'm not familiar with Jim Jeffries' comedy... Maybe "
+                          'that is a good thing, but this show is hilarious! '
+                          'If you want to see "masterful acting" go see Les '
+                          'Miserables or some crap like that. Wanna see funny? '
+                          "Watch this! No, it's not for the kiddies, but I "
+                          'just watched it on a Thursday night at about 10 PM. '
+                          'Responsible parents already have their kiddies '
+                          'tucked in bed by then, so if little Jane or Johnny '
+                          "is still up, don't blame TV programming for any "
+                          'problems. It might be obnoxious humor to some and '
+                          "if strong language offends you then perhaps it's "
+                          'best that you skip this show. As for me, I will '
+                          'check the schedule and eagerly await the next '
+                          'episode.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for Legit: The Complete First Season',

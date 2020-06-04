@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kung-Pow-Enter-the-Fist',
  'EntryURL': 'https://www.imdb.com/title/tt0240468',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kung-Pow-Enter-the-Fist/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kung-Pow-Enter-the-Fist/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kung-Pow-Enter-the-Fist/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kung-Pow-Enter-the-Fist/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -40,32 +39,29 @@
  'keywords': 'kung fu,chosen one,martial arts,intentionally bad,hero',
  'name': 'Kung Pow: Enter the Fist',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'dakotaj'},
-            'dateCreated': '2005-02-17',
+            'author': {'@type': 'Person', 'name': 'ari-gronning'},
+            'dateCreated': '2006-05-17',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0240468/'},
-            'name': 'You either love it or hate it -- and I loved it!!!!',
-            'reviewBody': 'I laughed so hard I could hardly breathe. This is '
-                          'one of the funniest films I have ever seen.\n'
+            'name': 'Needs to be watched in the right mind-set',
+            'reviewBody': 'I first saw Kung-Pow on DVD with friends who had '
+                          'seen it in the theater and loved it. But they said '
+                          'that people had been walking out of the theater, '
+                          'lots of people. Despite this, I still watched. '
+                          'Everyone around me knew the jokes, and knew when to '
+                          "laugh. I quickly picked up on Oedekerk's sense of "
+                          'humor in this movie, and I ended up loving the '
+                          "movie. If it hadn't been for my friends, I could "
+                          'easily see myself hating this movie too.\n'
                           '\n'
-                          "The Screen-It Our Take reviewer doesn't like "
-                          '"silly" humor. I do. My most common comments while '
-                          'watching: "That\'s SO STUPID!!" (when I could catch '
-                          'a breath from laughing) and "What was THAT??"\n'
-                          '\n'
-                          'There are no swear words, no realistic violence, '
-                          "and no sex scenes. It's just FUN!! My 13-year-old "
-                          'son & I rented it and watched it twice in one week. '
-                          'It was even funnier the second time.\n'
-                          '\n'
-                          'My husband hated it. He thought it was the most '
-                          '"un-funny" film he\'d ever seen.\n'
-                          '\n'
-                          'You either love it or hate it.',
+                          'There are so many things that seem like mistakes, '
+                          'but are done *on purpose* by Oedekirk. If it looks '
+                          "like a mistake, it's probably a joke. After all, it "
+                          'is a spoof type movie.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from 20th Century Fox Home '

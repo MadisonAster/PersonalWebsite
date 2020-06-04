@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Fountain',
  'EntryURL': 'https://www.imdb.com/title/tt0414993',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Fountain/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Fountain/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Fountain/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Fountain/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0000995/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 223464,
+                     'ratingCount': 223467,
                      'ratingValue': '7.2',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -54,87 +53,70 @@
  'keywords': 'tree,mayan,eternity,love,tree of life',
  'name': 'The Fountain',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'lagriff05'},
-            'dateCreated': '2007-10-04',
+            'author': {'@type': 'Person', 'name': 'MConley7'},
+            'dateCreated': '2007-10-15',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0414993/'},
-            'name': 'Beautiful and probably one of the best movies of the '
-                    'century',
-            'reviewBody': '...and here I shall attempt to review what will one '
-                          'day be a classic in the hopefully near future. The '
-                          "Fountain is many things. It's a touching film. It's "
-                          'not long, though, clocking in at around 80 or 90 '
-                          'minutes, but it does manage to pack in enough '
-                          'emotion to out-do every single lame, candy-assed '
-                          'Hollywood romance ever created, or almost. More '
-                          'movies should cut down their running times like '
-                          'this; because there is not a wasted moment in The '
-                          'Fountain from start to finish, despite the movie '
-                          'still moving at an gregariously slow pace. You '
-                          "won't find any blitzed, seizure-inducing "
-                          'cut-and-paste editing scenes here, and there are no '
-                          'epic explosions and battle scenes either. What you '
-                          'will find, though, is an entire treasure trove of '
-                          'realistic passion and jaw-dropping emotion, and '
-                          "that's the strong point of this movie. Nothing here "
-                          'feels contrived or derivative or fake at all - this '
-                          'is a story of a woman with a lot of love in her '
-                          'heart and a passion for life in general, and a man '
-                          'who would do anything to preserve the same love for '
-                          "all eternity. That's the Fountain.\n"
+            'name': 'Death is the Road to Awe',
+            'reviewBody': 'This is not a film for any one public. Americans, '
+                          'often ignorant of philosophy and mythology (by and '
+                          'large) would stumble awkwardly through much of the '
+                          'film, wondering what the hell is going on. Others '
+                          'still would prefer to call the film pretentious and '
+                          'drenched in metaphysical bull----. Woe it is to the '
+                          'archetypes. No one knows how to reach the '
+                          'elemental, the archetypal arena of human experience '
+                          'anymore; a fact proved by so many other reviewers '
+                          'penchant for searching for the "realism" within the '
+                          "movie. (cf. Roger Ebert's review; this is a "
+                          'thoroughly stupid and ignorant way of viewing such '
+                          'a film...it seems that the Divine Comedy would be '
+                          'cast aside today, because Dante does not describe '
+                          'Paradise in a "realistic" fashion. Which of course '
+                          'is worse than nonsense...its f---ing stupid.) \n'
                           '\n'
-                          "The Fountain is a simple movie. While at first it's "
-                          'repertoire of lazily abstract images and slow plot '
-                          'construction may seem intimidating and might even '
-                          'turn off the average moviegoer, a deeper voyage '
-                          "into The Fountain's layers reveals something not "
-                          'hard to comprehend at all. I mean, honestly, this '
-                          "film is a love story at it's core, there are no "
-                          "mind-bending plot twists and secret meanings. It's "
-                          'just a passionate, intricately woven romance about '
-                          'how far a man would go to let his love live on '
-                          "forever. If you're looking for super slick plot "
-                          'twists and drama, then look elsewhere, because The '
-                          'Fountain is not your typical modern flick at all. '
-                          "As I said, average moviegoers probably won't be "
-                          "able to get into this one. It's just too abstract "
-                          "and weird, and I won't blame anyone for disliking "
-                          "it on the basis of it's obvious inaccessibility. "
-                          'But regardless, the shimmering majesty of this '
-                          'movie is evident to those who are willing to try '
-                          "and find it. It's clear after the film sinks in - "
-                          'The Fountain is a straightforward and simple film '
-                          'disguised by multiple layers of artistic refinement '
-                          "and glorious imagery. Oh, it's not all clear cut "
-                          'for you, there is one other sticky point for some '
-                          'people - the fact that The Fountain takes place in '
-                          'three different time-spans all at once, weaving '
-                          'them together into a rich, complex tapestry of '
-                          'master-class storytelling. Yet somehow, despite the '
-                          'winding complexity of it all, The Fountain remains '
-                          'a pretty basic story once you get your head around '
-                          "it's eccentricities. Simplicity and complexity go "
-                          'hand in hand here to create a plethora of beauty '
-                          'and sorrow, a perfect oxymoron.\n'
+                          'The problem many people have with this film is that '
+                          'they see it as a story about two people, and not '
+                          'two archetypes that are elemental within human '
+                          'mythology (first man and first woman). It is '
+                          'interesting to note how Jackman becomes Western man '
+                          '(furious and daring, he hopes to reach beyond '
+                          "nature, to become a 'superman,' while not "
+                          'understanding that he is not simply a product of '
+                          'nature but very much a PART of nature) and Weisz '
+                          'becomes the embodiement of Eastern thought (her '
+                          'submission to the truth of nature (death) is not a '
+                          'submission, but an understanding of the tide of '
+                          'life, an understanding Tom, in all his '
+                          'embodiements, does not possess). I see a purity in '
+                          'the representation of first man and first woman, a '
+                          'purity that allows me to see the characters as '
+                          'archetypes that resemble the spiritual forces that '
+                          'have driven us for our eternity.\n'
                           '\n'
-                          "There's a very deep, broad contrast between the "
-                          "beautiful simplicity of the film's plot line and "
-                          'the absolutely jaw-dropping grandeur of the special '
-                          'effects and graphics utilized here. The directing '
-                          'here is through the roof, and the cinematography on '
-                          'display here is probably amongst the five or six '
-                          "best from any movie I've ever seen, if not the very "
-                          'top of the goddamn list. Just watch the last few '
-                          "minutes of the movie, and you'll understand. One of "
-                          'the things I really love about The Fountain is that '
-                          "it's beautiful and touching without trying to be "
-                          "anything it isn't. It's an honest film, and it does "
-                          'everything it wants to do effortlessly and '
-                          'flawlessly, with graceful, sweeping movements that '
-                          'etch a stunning caricature of rich, luscious '
-                          'aesthetics into an otherwise simple story. '
-                          'Marvelous.',
+                          'Ebert said that it is a standard critical practice '
+                          'not to create a fiction that was not implicit '
+                          'within the film; but with a film like The Fountain, '
+                          'there are so many interpretations and '
+                          'meanings...deep thoughts linger in me while I '
+                          'watch, an ocean of experiences that dwells inside '
+                          'me, calm and enveloping. Interpretaions can, in '
+                          'their own rights, be works of art, if what they '
+                          'interpret, in itself, is beautiful. I will not '
+                          'pretend that my interpretation is right, complete, '
+                          'or a work of art; but what I have seen and felt '
+                          'from this film has filled me with something I '
+                          'cannot describe--if the definition was not '
+                          'insufficient, I would call it God--yet so many pass '
+                          'by it with scorn and rolling eyes. I hope some will '
+                          'see in it what I have felt pass through so many '
+                          'times...or at least to understand, at the very '
+                          "least, that just because a movie doesn't touch you, "
+                          'it does not mean that your perception of the movie '
+                          'is, in itself, truth; it is merely an opinion like '
+                          'mine. On art there is no truth, except the pieces '
+                          'we craft ourselves.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Rattlesnake',
  'EntryURL': 'https://www.imdb.com/title/tt9257484',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Rattlesnake/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Rattlesnake/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Rattlesnake/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Rattlesnake/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm9722439/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 6550,
+                     'ratingCount': 6551,
                      'ratingValue': '4.6',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -43,50 +42,18 @@
              'devil,sunset',
  'name': 'Rattlesnake',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'TwistedContent'},
-            'dateCreated': '2019-10-25',
+            'author': {'@type': 'Person', 'name': 'smledezma'},
+            'dateCreated': '2019-10-27',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt9257484/'},
-            'name': 'Enjoyable but Underwhelming - A Somewhat Lousy Attempt',
-            'reviewBody': "Can't say I had exactly high hopes for this, but "
-                          "it's even more disappointing coming from the "
-                          'director whose previous movie (also a Netflix '
-                          'original) was the decent and effortful "1922". '
-                          '"Rattlesnake" knows exactly what it is, but it '
-                          "doesn't try to excel at it at all.\n"
-                          '\n'
-                          'For the most part "Rattlesnake" feels like an '
-                          'uninspiring slow-burn, a familiar tale of a '
-                          'familiar dilemma explored only vaguely as if the '
-                          'filmmakers behind this were uninvested and half '
-                          'asleep. You know when you start cleaning up your '
-                          "room but give up halfway through? That's how "
-                          '"Rattlesnake" felt like. Some of the qualities '
-                          'include a good main performance by Carmen Ejogo '
-                          '(who tries her best while portraying a character in '
-                          'search of any real personality), a story that holds '
-                          'potential (but instead chooses the uninventive, '
-                          'watered down approach) arguably good cinematography '
-                          '(which kinda wears down with time by just not '
-                          'changing, impressing, surprising) & an original '
-                          'score that goes from seemingly effective to either '
-                          "repetitive or feeling like it's been wasted on this "
-                          'movie. Both the script and the direction is bland '
-                          'and comes off as simply not very smart. The '
-                          "pacing's very even throughout and also very slow, "
-                          "it doesn't quite pick up at the end either.\n"
-                          '\n'
-                          'I believe "Rattlesnake" is a fine friday flick, but '
-                          "I can't put this anywhere above average, because in "
-                          'the end it feels more like just another filler for '
-                          'the mass market of movies on digital media than it '
-                          'feels like a sophisticated, well crafted and '
-                          'entertaining thriller/horror movie. My rating: '
-                          '5/10.',
+            'name': 'Nothing Special',
+            'reviewBody': 'Dull, lackluster. The ending is underwhelming. This '
+                          "is a movie to watch when you're extremely bored "
+                          'with nothing better to watch.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '5',
+                             'ratingValue': '4',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'When a single mother accepts the help of a '

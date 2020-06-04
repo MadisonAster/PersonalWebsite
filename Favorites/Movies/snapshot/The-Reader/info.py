@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Reader',
  'EntryURL': 'https://www.imdb.com/title/tt0976051',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Reader/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Reader/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Reader/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Reader/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0354198/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 225641,
+                     'ratingCount': 225643,
                      'ratingValue': '7.6',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -51,56 +50,38 @@
  'keywords': 'war crime,trial,secret,sex with a minor,nazi',
  'name': 'The Reader',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Michael Fargo'},
-            'dateCreated': '2009-01-04',
+            'author': {'@type': 'Person', 'name': 'jpm-onfocus'},
+            'dateCreated': '2008-12-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0976051/'},
-            'name': "A victim's guilt",
-            'reviewBody': 'The film is a series of profound moral '
-                          'dilemmas\x97while contrived by the author, they are '
-                          'fair questions\x97that resonate deeply in the 21st '
-                          'Century: The role of guilt in victims, '
-                          'perpetrators, individuals and collectively, as well '
-                          'as justice, forgiveness, redemption, shame and, of '
-                          'course, literacy and its role in Western thought.\n'
-                          '\n'
-                          'All this is a pretty heady mix for a film, but '
-                          'Stephen Daldry (as with "The Hours" ) makes '
-                          'literary conceit play very naturally here. David '
-                          "Hare's screenplay and the remarkable cinematography "
-                          'of the always remarkable Roger Deakins together '
-                          'with a sensitive score by Nico Muhly, this is '
-                          'indeed rarefied film-making. \n'
-                          '\n'
-                          'But the actors are what drag the audience into this '
-                          'story. David Kross is amazing as the young Michael '
-                          'who has to play a range of virginal innocent to '
-                          "wizened and bitter. It's the key role in the film, "
-                          "and we're all lucky he was found to play this role. "
-                          'And the ever confounding Kate Winslet. What an '
-                          'amazing career for this young actress! Running '
-                          'through a list of her credits, she has some of the '
-                          'best performances of the last decade: "Holy Smoke," '
-                          '"Eternal Sunshine\x85'
-                          '," "Iris," "Finding Neverland," "Little Children." '
-                          'But here she does something very different. Playing '
-                          'what amounts to a monster, we see that they too are '
-                          'human. Not many actresses could bring this off, but '
-                          'it may be her greatest accomplishment to date. \n'
-                          '\n'
-                          'Ralph Fiennes brings a continuity to the work David '
-                          "Kross begins, and there's a brief appearance by "
-                          'Lena Olin who commands the dignity the role '
-                          'deserves. \n'
-                          '\n'
-                          "I'm puzzled at the lukewarm reception to this film. "
-                          'I almost missed seeing it. And it turned out to be '
-                          'one of my favorite and the most heart-rending films '
-                          'of the year. All involved should be very proud.',
+            'name': 'Reading, Writing and the Wonderful Kate',
+            'reviewBody': 'David Hare wrote one of my favorite female '
+                          'characters in "Plenty", Meryl Streep brought her to '
+                          'life in the most extraordinary way. Here, Hare '
+                          'writes another power house female character. It '
+                          "doesn't have the intellectual aspirations of "
+                          '"Plenty" but there is also a form of mental illness '
+                          'in his character. Kate Winslet is magnificent. Her '
+                          'early scenes with the wonderful David Kross are '
+                          'filled with compelling, contradictory and totally '
+                          'believable undertones. My misgivings are to be '
+                          'pinned on Stephen Daldry, the director. His sins as '
+                          'a filmmaker start to become a sort of trade mark, '
+                          'visible and palpable in the moving "Billy Elliot" '
+                          'and the shattering "The Hours" I can\'t quite '
+                          'pinpoint what it is but in "The Reader" that '
+                          'element is more obvious than in the other two. '
+                          'Maybe it has to do with loftiness. There are '
+                          'moments so frustratingly long and slow here that he '
+                          'lost me in more than one occasion. In any case, the '
+                          'cast makes this film a rewarding experience. '
+                          'Besides Kate Winslet and David Kross. The tortured '
+                          'Ralph Finnes has a couple of wonderful moments as '
+                          'well as Bruno Ganz and Lina Olin in a dual role.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Post-WWII Germany: Nearly a decade after his '

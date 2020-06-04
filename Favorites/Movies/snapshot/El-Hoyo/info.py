@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/El-Hoyo',
  'EntryURL': 'https://www.imdb.com/title/tt8228288',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/El-Hoyo/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/El-Hoyo/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/El-Hoyo/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/El-Hoyo/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0117763/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 127490,
+                     'ratingCount': 127518,
                      'ratingValue': '7.0',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -58,62 +57,18 @@
  'keywords': 'hunger,prison,floor,cannibalism,inmate',
  'name': 'El hoyo',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'TwistedContent'},
-            'dateCreated': '2020-03-20',
+            'author': {'@type': 'Person', 'name': 'pesaresigiovanni'},
+            'dateCreated': '2020-03-22',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt8228288/'},
-            'name': 'Substantial and Compelling Allegory Horror',
-            'reviewBody': 'On a day of such big VOD releases like "The Hunt" '
-                          'and "The Invisible Man", the spirit and nature of '
-                          '"The Platform" pleasantly surprised me, truly. '
-                          'Netflix has scored a good one here, an intelligent, '
-                          'creative, dystopian Spanish horror cinema piece '
-                          "that has something to say, even if it's not exactly "
-                          'new. If You have enjoyed "Parasite", "Us", '
-                          '"Snowpiercer" or other thematically similar movies, '
-                          'this is a top notch companion piece.\n'
-                          '\n'
-                          '"The Platform" introduces us to Goreng, a good man '
-                          'with a strong moral compass & the place where he '
-                          'will spend many months, a challenging and corrupt '
-                          'place. That place can be best described with the '
-                          'official synopsis: "A vertical prison with one cell '
-                          'per level. Two people per cell. One only food '
-                          'platform and two minutes per day to feed from up to '
-                          'down. An endless nightmare trapped in The Pit." And '
-                          'a nightmare it is. We spend the hours, days and '
-                          'weeks with Goreng as he lives through many '
-                          "humanity's challenges, agendas and natures and "
-                          "through a system that mirrors the messed-up'ness of "
-                          'our own world, politically and socially. Director '
-                          'Galder Gaztelu-Urrutia is having a blast delivering '
-                          'a well-aimed allegory about the alarming and real '
-                          'inequality of our society, he has succeeded both '
-                          'philosophically and cinematically. The cast, every '
-                          'one of the characters, does an impressive job '
-                          'bringing this parable to life, with good character '
-                          'writing putting the dot on i. "The Platform", set '
-                          'in such a grim and claustrophobic environment, is '
-                          'visually pretty imprevise, well done '
-                          'cinematography, both practical and digital effects '
-                          "and just provides a high-tier overall look. There's "
-                          'a fair amount of violence as well, of the no-cheese '
-                          'kind. Last but not least, "The Platform" is carried '
-                          'back and forth with an atmospheric and effectively '
-                          'subtle original score.\n'
-                          '\n'
-                          '"The Platform" is as substantial and compelling as '
-                          "it is entertaining, in the 90 minutes there's "
-                          'enough interesting themes, characters and twists to '
-                          'get kicks out of. Smaller flaws include slower '
-                          'pacing in the second half, an ending that, I '
-                          'imagine, might feel too open for some, but all in '
-                          "all it's a horror movie worth seeing. My rating: "
-                          '8/10.',
+            'name': 'Great idea, good movie',
+            'reviewBody': 'The idea behind the plot is interesting and the '
+                          'movie is effective and powerful but the end left me '
+                          'a bit confused and disappointed.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Inside a vertical prison system, inmates are '

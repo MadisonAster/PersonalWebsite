@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Polar',
  'EntryURL': 'https://www.imdb.com/title/tt4139588',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Polar/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Polar/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Polar/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Polar/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
            {'@type': 'Person', 'name': 'Fei Ren', 'url': '/name/nm6699375/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 68708,
+                     'ratingCount': 68709,
                      'ratingValue': '6.3',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -46,39 +45,21 @@
              'comic,bare butt',
  'name': 'Polar',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'sahilgill19'},
-            'dateCreated': '2019-01-25',
+            'author': {'@type': 'Person', 'name': 'MR_Heraclius'},
+            'dateCreated': '2020-02-20',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4139588/'},
-            'name': "'Next' in Assassin's Genre!",
-            'reviewBody': 'The storyline is very simple, a top assassin named '
-                          'Mads(Duncan aka "The Black Kaiser") is settling '
-                          'into retirement whereas his former employer '
-                          'identify him as a liability to the firm. So he '
-                          'sends a group of ruthless killers (young assassins) '
-                          'to find and finish him. The movie is based on a '
-                          'graphic novel: "Polar: came from the cold". '
-                          "Although I've not read the comic but I can "
-                          'guarantee that the team has done justice with '
-                          'stylish action choreography and gun fights full of '
-                          'gore, contains brief nudity plus appealing '
-                          "cinematography and music add-on to make it 'next' "
-                          'in violent movie genre. The cast comprises of '
-                          'Katherine (Vivian), Vanessa (Camille) and equal '
-                          'amount of shares for Ruby(Sindy), Matt (Blut) and '
-                          'guest appearance from Knoxville (Michael). It is a '
-                          "must watch if you're fan of movies like John Wick, "
-                          'Punisher and Equalizer. Since it is based on a '
-                          'graphic novel , the one-liners are really awesome '
-                          'before the kill:\n'
-                          '\n'
-                          'Vivian: Heard you stopped smoking? The black '
-                          'Kaiser: "Figured, it wouldn\'t kill me"\n'
-                          '\n'
-                          "I don't know what critics are going to rate it but "
-                          'this movie has everything which can give a high '
-                          "dose of adrenaline rush. Just don't miss it!",
+            'name': 'Polar',
+            'reviewBody': 'The only exceptional thing about this film is Mads '
+                          'Mikkelsen, who is always worth watching. Otherwise, '
+                          'the film is mediocre, predictable, schmaltzy in '
+                          'parts, your typical beat-em-up shoot-em-up '
+                          'extravaganza, complete w/closeups of wounds and '
+                          'dead people. Too much money was spent for a '
+                          "mediocre movie. Surely Mikkelsen doesn't need the "
+                          'money this much, does he? He can afford to be more '
+                          'discriminating.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '7',

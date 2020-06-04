@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/American-Gangster',
  'EntryURL': 'https://www.imdb.com/title/tt0765429',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/American-Gangster/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/American-Gangster/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/American-Gangster/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/American-Gangster/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0000982/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 380748,
+                     'ratingCount': 380750,
                      'ratingValue': '7.8',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -50,41 +49,35 @@
  'keywords': 'heroin,vietnam,policeman,1970s,breasts',
  'name': 'American Gangster',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'AudioFileZ'},
-            'dateCreated': '2007-10-26',
+            'author': {'@type': 'Person', 'name': 'lesleyharris30'},
+            'dateCreated': '2013-08-25',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0765429/'},
-            'name': 'Keeps The Viewer Involved And Interested....Well Done.',
-            'reviewBody': 'The story about Frank Lucas is one that proves fact '
-                          'is more interesting than fiction. The fact that '
-                          'such a character really did exist yet I do not '
-                          'remember it certainly intrigues me. I guess I was '
-                          'just too young at the time it broke. Now '
-                          'approaching my later forties finds me longing to '
-                          'research it further after seeing this movie.\n'
+            'name': 'Very Impressive Cast and Perfect Character Development,',
+            'reviewBody': 'American Gangster is a fantastic movie with a '
+                          'really well developed storyline and a very talented '
+                          'cast.Denzel Washington and Russel Crowe both '
+                          'matched their characters perfectly,which I was '
+                          "surprised with because they both didn't seem like "
+                          'characters they were use to playing,it also was a '
+                          'very different movie for Ridley Scott,and he did a '
+                          'very impressive job with it.The character '
+                          'development in this movie is practically '
+                          'perfect,you mostly follow Russel Crowe and Denzel '
+                          "Washington's characters,and I didn't feel like they "
+                          'left out a lot of information and really took their '
+                          'time letting use get to know these characters.I '
+                          'would highly recommend American Gangster to all '
+                          'fans of gangster crime films.\n'
                           '\n'
-                          'I get the feeling Ridley Scott was amazed a person '
-                          'such as Frank Lucas was actually able to do what he '
-                          'did and live to tell about it. I certainly share '
-                          'that amazement. The care in which he tells the '
-                          "story serves it well. Though it's basically a "
-                          "gangster movie it's not particularly graphic in "
-                          "violence except in a few scenes. Even Denzel's and "
-                          "Russel's portrayals of the two central characters "
-                          'are not quite as dark as the usual more '
-                          'stereotypical gangster/cop persona...Still there is '
-                          'a sense of doom and danger ever present as the '
-                          'viewer knows neither law enforcement, government, '
-                          "or mafia will let this man's drug empire go on.\n"
-                          '\n'
-                          'To sum it up I believe this is an excellent telling '
-                          "of a true crime story. It's intriguing, "
-                          'entertaining, and certainly serves as a cautionary '
-                          'reminder to remain vigilant in combating drugs.',
+                          'Set during the seventies,Richie Roberts (Russel '
+                          'Crowe) will stop at nothing to bring down the '
+                          'massive drug business of the dangerous and highly '
+                          'wanted Frank Lucas (Denzel Washington).',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'American Gangster Trailer',

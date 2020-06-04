@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Lucifer',
  'EntryURL': 'https://www.imdb.com/title/tt4052886',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Lucifer/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Lucifer/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Lucifer/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Lucifer/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Tom Ellis', 'url': '/name/nm0255124/'},
@@ -19,7 +18,7 @@
             'url': '/name/nm2788229/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 195436,
+                     'ratingCount': 195439,
                      'ratingValue': '8.2',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -41,22 +40,42 @@
  'keywords': 'devil,female police detective,fallen angel,the devil,lapd',
  'name': 'Lucifer',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'kunagueroooooo'},
-            'dateCreated': '2018-05-14',
+            'author': {'@type': 'Person', 'name': 'depechemodelovercom'},
+            'dateCreated': '2019-05-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4052886/'},
-            'name': 'Devilishly good taste in humour',
-            'reviewBody': 'Unfortunately I found out yesterday that Lucifer '
-                          'has been cancelled. As light hearted shows go it '
-                          'was a winner, the whole cast went for it and did a '
-                          'great job. Lucy, Maze, Douche, Amenadiel, and Linda '
-                          'were flawless in their roles. Perhaps Chloe could '
-                          'have removed the big wooden pole from her backside '
-                          'a bit more often but hey, she looked good. Its '
-                          'strange how good shows like this get chopped and '
-                          'absolute rubbish like IZombie keeps getting renewed '
-                          'and its really really rubbish.',
+            'name': 'Thanks to Netflix Lucifer Is Bolder, Better, Bingeable',
+            'reviewBody': 'I have loved this show since day one, and an avid '
+                          'fan of all three of the prior season before Fox '
+                          'stupidly cancelled it, which actually was a gift. I '
+                          'was one of the fans that worked in the twitter '
+                          'campaign to help save the show,working along with '
+                          'the producers, writers, cast, crew and fans from '
+                          'around the world, with the hashtag #SaveLucifer '
+                          'making history, as Netflix was more than eager to '
+                          'give this show a fabulous new home. So now this '
+                          'series is even better, the new Season 4 just '
+                          'released May 8 2019 is so much more, despite only '
+                          '10 episodes, they are packed with action, drama,it '
+                          'is bolder, yet the humor in the show is still '
+                          'there, it is definitely the best season yet. For '
+                          'new viewers, do watch the first 3 seasons before '
+                          'the new one, as the characters history is important '
+                          'to this story. I am just finishing doing a binge '
+                          'watch for the third time and it just never gets '
+                          'old. Treasure of a show, great actors, good tight '
+                          'writing, great set designs, cool music throughout, '
+                          'and even a little nudity. What more can you want. '
+                          'Netflix, we need a season 5,6,7 and on. 2019 '
+                          'Update: After yet another fan campaign and good '
+                          'reviews for season 4 on Netflix, we got season 5, '
+                          'although it will be the last and we really wanted 6 '
+                          'seasons, But then Netflix listened, and gave the '
+                          'show twice the episodes for season 5, another win. '
+                          "Can't wait, the writers keep tweeting us the "
+                          'episode titles and have promised the best season '
+                          'yet.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Outlaw-King',
  'EntryURL': 'https://www.imdb.com/title/tt6679794',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Outlaw-King/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Outlaw-King/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Outlaw-King/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Outlaw-King/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Chris Pine', 'url': '/name/nm1517976/'},
@@ -19,7 +18,7 @@
             'url': '/name/nm6247071/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 54952,
+                     'ratingCount': 54953,
                      'ratingValue': '6.9',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -55,30 +54,60 @@
  'keywords': 'scotland,scottish independence,medieval,medieval times,warfare',
  'name': 'Outlaw King',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'chong_an'},
-            'dateCreated': '2018-09-08',
+            'author': {'@type': 'Person', 'name': 'Dannyboi94'},
+            'dateCreated': '2018-11-09',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt6679794/'},
-            'name': 'Netflix film deserves a big screen',
-            'reviewBody': 'The older generation of Scottish nobles tired of '
-                          'war and surrendered to the English King Edward, but '
-                          'the younger generation only surrendered '
-                          "reluctantly. After his father's death, Robert the "
-                          'Bruce (with a reasonable claim to the Scottish '
-                          'throne) led a rebellion, with multiple victories '
-                          'and losses, in battles small and big.\n'
+            'name': 'Great film, but should have been a 6 episode mini series',
+            'reviewBody': 'Outlaw King is one of the most visually '
+                          'breathtaking films of 2018, the cinematography, the '
+                          'set pieces, costume designs, are absolutely '
+                          'perfect. The story, based of a true event, is very '
+                          'engaging, and the film does a great job at making '
+                          'you route for Robert Bruce. However, the film feels '
+                          'like it should have been longer, which makes me '
+                          'believe that it should have been a mini series '
+                          'instead. The period in which this film takes place, '
+                          'was a major event in Scottish history, and they '
+                          'crammed it all within a 2 hour movie. Some of it '
+                          "works, and some of it doesn't.\n"
                           '\n'
-                          'There are too many minor Scottish leaders who '
-                          'joined the cause, only to be slaughtered in the '
-                          "battles. (I can't call them cannon fodder - cannons "
-                          'had yet to be invented.)\n'
+                          'The actors are all fantastic, Chris Pine was great '
+                          'as the Bruce, although I would have preferred '
+                          'Gerard Butler in the role, Pine gave a very '
+                          'convincing performance. Most of the other '
+                          "characters are very bland, and you don't get much "
+                          'time to spend with them, as they just stand in the '
+                          'background and do some cool stuff. Aaron Taylor '
+                          'Johnson however was the highlight of the film, and '
+                          'I wish we got to see more of him. He was insanely '
+                          'entertaining here, as a savage lunatic eager to '
+                          'avenge his family.\n'
                           '\n'
-                          'The film is spectacular on the big screen, '
-                          'especially the large-battle scenes. I saw it in a '
-                          '2000-seat theatre at the Toronto International Film '
-                          "Festival. I'm not sure it will translate well to "
-                          'TV, unless you have something like a 70-inch beast.',
+                          'Some reviews I have read have pointed out that the '
+                          'English are portrayed in a very negative manner, '
+                          'which is true. They are made to be evil in this '
+                          'film, burning castles, and slaughtering innocent '
+                          'people, but this film is as historically accurate '
+                          'as possible, and these events most likely took '
+                          'place. But like I said before, everything is '
+                          'crammed together quickly, if they had made a mini '
+                          'series they could have showed more of the story.\n'
+                          '\n'
+                          'The action scenes are brilliant in the Outlaw King, '
+                          'and you can tell that most of it was inspired by '
+                          'Braveheart, from the gore, to the realism. However '
+                          'I feel the movie put style over story and '
+                          'characters. I would watch it just for its visuals '
+                          'alone.\n'
+                          '\n'
+                          'The Outlaw King will disappoint fans wanting a new '
+                          'Braveheart, but history buffs, or hardcore movie '
+                          'goers will love this film for what it is, a good '
+                          'piece of entertaining visuals and action.\n'
+                          '\n'
+                          '7.7/10',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '8',

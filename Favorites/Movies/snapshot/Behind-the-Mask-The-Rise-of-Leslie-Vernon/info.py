@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Behind-the-Mask-The-Rise-of-Leslie-Vernon',
  'EntryURL': 'https://www.imdb.com/title/tt0437857',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Behind-the-Mask-The-Rise-of-Leslie-Vernon/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Behind-the-Mask-The-Rise-of-Leslie-Vernon/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Behind-the-Mask-The-Rise-of-Leslie-Vernon/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Behind-the-Mask-The-Rise-of-Leslie-Vernon/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -49,28 +48,27 @@
              'sex position',
  'name': 'Behind the Mask: The Rise of Leslie Vernon',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'kagyakusha'},
-            'dateCreated': '2007-04-25',
+            'author': {'@type': 'Person', 'name': 'oldboy15'},
+            'dateCreated': '2007-05-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0437857/'},
-            'name': 'GREAT Movie!',
-            'reviewBody': "I highly highly recommend this movie. It's a black "
-                          "comedy/mockumentary/horror movie that's bloody "
-                          "hilarious. I LOVED it. I can't recommend it "
-                          "enough!!! If you're a horror film junkie, or even "
-                          "if you're not (for example, my boyfriend doesn't "
-                          'particularly like horror films but is fond of '
-                          'intelligent comedy and was right beside me laughing '
-                          'for this one) you should DEFINITELY see this movie! '
-                          "It's so respectful of the genre at the same time "
-                          'that it plays with it... Nathan Baesel, who says he '
-                          "was inspired by Anthony Hopkins' Hannibal Lecter "
-                          'really pulls off charming and cheery -- not copying '
-                          'Lecter, but applying the influence to create a new '
-                          'and lovable serial killer (this is what makes him '
-                          "both funny AND creepy - it's impossible not to like "
-                          'him!).',
+            'name': 'Loved it, genius!',
+            'reviewBody': 'This film rocks sports fans. Its Man bites dog '
+                          'meets Halloween. Brilliant performances, great '
+                          'direction, very funny, inspired film making! Nathan '
+                          'Baesel was especially entertaining as the "Michael '
+                          'Mires" style character, keep an eye out for him in '
+                          'the future. And with appearances from Robert '
+                          'Englund, Scott Wilson, and Kane Hodder makes this '
+                          'an absolute must for any old school slasher fan. '
+                          'the only reason it did not get a 10 from me was the '
+                          "gore, it didn't need it but some hard core, well "
+                          'done Peter Jackson (braindead) style gore would '
+                          'have made this film one of the all time greats and '
+                          "been the proverbial icing on the cake. if you're a "
+                          'Rami, Jacksoon, Carpenter, Craven etc. fan then you '
+                          'MUST SEE THIS FILM!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

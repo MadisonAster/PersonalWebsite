@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Outlander',
  'EntryURL': 'https://www.imdb.com/title/tt3006802',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Outlander/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Outlander/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Outlander/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Outlander/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm5310225/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 111899,
+                     'ratingCount': 111908,
                      'ratingValue': '8.4',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -42,81 +41,34 @@
  'keywords': 'year 1743,scotland,female nudity,sex scene,scottish highlands',
  'name': 'Outlander',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'mcampbelljh1'},
+            'author': {'@type': 'Person', 'name': 'dariana-ro'},
             'dateCreated': '2014-08-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3006802/'},
-            'name': 'An excellent adaptation of the books for all us Outlander '
-                    'fans!',
-            'reviewBody': "I've recently been reading (actually listening to "
-                          'the audio-books) the Outlander series of books '
-                          'having completed 5 so far so when I saw the Starz '
-                          'TV series was coming out I just had to watch it. I '
-                          "must say I loved the Outlander books, but I'm not a "
-                          'fanatic when it comes to translating books to the '
-                          'screen they are very different mediums and thus can '
-                          "take on a different look and feel and that's OK "
-                          "with me. In this case, I don't think people who are "
-                          'would be disappointed anyway as the screen writers '
-                          'did an excellent job of translating the 1st part of '
-                          "the book to the screen (I've only seen the 1st "
-                          "episode but I'm already hooked so I'm sure I'll "
-                          'enjoy the rest). \n'
+            'name': 'Jesus H. Roosevelt Christ',
+            'reviewBody': 'I never read the books and never heard anything '
+                          "about this story before I saw the show. I don't "
+                          'know how close it comes to the books but as a show '
+                          'is absolutely fantastic.\n'
                           '\n'
-                          'I loved their choice of actors to take on the roles '
-                          'of Jamie, Claire, Frank and Dugan. Sam Heughan is '
-                          'perfect as Jamie Fraser (just the right bit of good '
-                          'looks and ruggedness one might expect in Jamie). '
-                          'Caitriona Balfe also seemed like a good choice for '
-                          'Claire (beautiful yet strong enough to carry the '
-                          "role). I think Frank/Jack Randall's portrayal by "
-                          'Tobias Menzies will also fit my vision of '
-                          'Frank/Jack and I think he can carry off both roles '
-                          'one as the wicked Jack and the other as the loving '
-                          'yet dull Frank (when compared to Jamie). And the '
-                          'Scottish actors like Graham McTavish (Dougal) will '
-                          'bring old Scotland to life on the screen for me. \n'
+                          'Everything was done right , actors , costumes, '
+                          'music and the scotsmen in kilts are so sexy . I am '
+                          'in love.\n'
                           '\n'
-                          'From the 1st episode I think they producers will '
-                          'not be shy to include the more sexual aspects of '
-                          'the Outlander books, as they do have this erotic '
-                          'element that actually makes the love between Claire '
-                          'and Jamie the driving force of their relationship '
-                          'which allows it to span centuries, even when they '
-                          "are no longer together. It's that love/passion for "
-                          "each other that keeps them alive in each other's "
-                          'heart and so far to the directors credit, they have '
-                          "not been shy about adding it. I'm looking forward "
-                          'to the Claire Jamie love scenes hopefully to '
-                          "come... I'm also going to enjoy the Scottish "
-                          'history and scenery, and loved the way they so far '
-                          "have included it in the TV series. It's going to be "
-                          'very interesting to me especially as my ancestors '
-                          'are Scottish.\n'
+                          'We have beautiful landscapes , music to match , '
+                          'time travel , an intelligent mature woman as a lead '
+                          'character and two attractive men that love her . I '
+                          'like the romance part and the history part. I like '
+                          'everything about this show.\n'
                           '\n'
-                          'I know Starz will be increasing its revenues with '
-                          "this series' fans all signing up just to see it. "
-                          'There must be millions of us around the world that '
-                          "love these books and I'm sure like me many of them "
-                          'will order the cable channel just to watch this. '
-                          "I'm very happy to see Starz did such a good job in "
-                          'bringing this to life on the screen. So rarely do '
-                          'we get a good adult drama on TV these days, and '
-                          "this will surely be that. I'm liking many of the "
-                          'original show Starz is offering this season like '
-                          'this and Black Sails, Strikback. Who ever is '
-                          'heading their creative development deserves a lot '
-                          'of credit for their selection of shows to produce. '
-                          'I think Starz is catching up to HBO and Showtime in '
-                          "it's original shows and might even surpass them if "
-                          'it keeps producing shows of this quality plus they '
-                          'have a much better selection of movies that the '
-                          "other channels. As a new Starz member, I'd "
-                          'recommend it to others.',
+                          "I wish they add some subtitles . I don't know how "
+                          'well native English speakers understand the Gaelic '
+                          'but English is not my native language and I could '
+                          'not understand a word in Gaelic.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi1308737305',

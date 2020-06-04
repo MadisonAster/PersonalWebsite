@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Congress',
  'EntryURL': 'https://www.imdb.com/title/tt1821641',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Congress/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Congress/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Congress/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Congress/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -51,58 +50,32 @@
              'plate',
  'name': 'The Congress',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ferguson-6'},
-            'dateCreated': '2014-04-13',
+            'author': {'@type': 'Person', 'name': 'MdlndeHond'},
+            'dateCreated': '2013-12-22',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1821641/'},
-            'name': 'Some Bad Choices',
-            'reviewBody': 'Greetings again from the darkness. As a fan of '
-                          "director Ari Folman's Oscar nominated Waiting for "
-                          'Bashir (2008), I was excited to see this one on the '
-                          'line-up at Dallas International Film Festival. '
-                          'While some will find The Congress a bit messy and '
-                          'difficult to follow, it certainly reinforces '
-                          "Folman's innovative and creative approach to story "
-                          'telling and filmmaking.\n'
+            'name': 'Beautifully executed doom Scifi',
+            'reviewBody': "It's two movies really the first part where you "
+                          'feel the impending doom set upon Robin Wright as '
+                          'she is caught between either professionally die off '
+                          'soon or make a deal that takes it all. \n'
                           '\n'
-                          'The first half of the movie is live action and the '
-                          'second half is animated. The best description I can '
-                          'offer is as a social commentary, not just on '
-                          'Hollywood, but society. While "Her" makes the case '
-                          'for virtual relationships, this movie makes the '
-                          'case for virtual everything else! Robin Wright '
-                          'plays Robin Wright, an aging movie star who is '
-                          'offered a chance to stay young and be popular '
-                          'forever. Just sign this contract, and Miramount '
-                          'Studios owns your complete public image. No more '
-                          'acting, just kick back and enjoy your money ... and '
-                          'watch what we do with your image and career.\n'
-                          '\n'
-                          'The cast is very strong, but the movie has a '
-                          'feeling of having been rushed through production '
-                          '... at least from the live action side. In addition '
-                          'to Ms. Wright, Danny Huston chews some scenery as a '
-                          'cut throat studio head. His blunt description of '
-                          'Ms. Wright\'s "bad choices" since The Princess '
-                          'Bride speak to not only many actors, but for many '
-                          'in the audience as well. Harvey Keitel plays the '
-                          'agent, Jon Hamm appears through voice only in the '
-                          'animated sequence, Kodi Smit-McPhee (Let Me In, The '
-                          "Road) plays Wright's son and central plot figure, "
-                          'and Sami Gayle plays his sister.\n'
-                          '\n'
-                          'Some will be reminded of A Scanner Darkly, and '
-                          'others of Cool World. The best this movie has to '
-                          'offer is not in its (creative) presentation, but '
-                          'rather in its ability to provoke thought about the '
-                          'look of future society and the impact of technology '
-                          '... as well as the whole issue of identity and what '
-                          "makes us who we are. It's a brain-scrambler if you "
-                          'stick with it.',
+                          'It so vividly explores the fine line between choice '
+                          'and the illusion of having one. The second part has '
+                          "a strong resemblance to Waking Life in it's "
+                          'psychedelic execution more than Waltz with Bashir. '
+                          'Existentialism, morality, Corporatocracy and the '
+                          'beautiful animation make this the most marvellous '
+                          'yet terrifying Sci-fi I have seen in ages. Watch '
+                          'Harvey Keitels monologue in the first half, it is '
+                          'outstanding. Robin Wright is as always amazing and '
+                          'gets extra kudos for playing herself in an '
+                          'alternate universe where her career has failed. It '
+                          'is all together a masterpiece.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'An aging, out-of-work actress accepts one last '

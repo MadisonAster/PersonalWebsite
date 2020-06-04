@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/El-Camino-A-Breaking-Bad-Movie',
  'EntryURL': 'https://www.imdb.com/title/tt9243946',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/El-Camino-A-Breaking-Bad-Movie/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/El-Camino-A-Breaking-Bad-Movie/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/El-Camino-A-Breaking-Bad-Movie/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/El-Camino-A-Breaking-Bad-Movie/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Aaron Paul', 'url': '/name/nm0666739/'},
@@ -17,7 +16,7 @@
             'url': '/name/nm1889973/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 164999,
+                     'ratingCount': 165001,
                      'ratingValue': '7.4',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -45,17 +44,22 @@
  'keywords': 'neo noir,happy ending,crystal meth,anti hero,violence',
  'name': 'El Camino: A Breaking Bad Movie',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ahmetkozan'},
+            'author': {'@type': 'Person', 'name': 'amazingkick'},
             'dateCreated': '2019-10-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt9243946/'},
-            'name': 'The Best: Breaking Bad',
-            'reviewBody': 'Breaking Bad is in my opinion the best series of '
-                          'all time. What about a motion picture? I was '
-                          "wondering. It's a very successful film. Nice to see "
-                          'Jesse Pinkman again, b*tch! I hope the film '
-                          'achieves the desired success. 8/10',
+            'name': 'People are expecting too much',
+            'reviewBody': 'Everyone thought that El Camino would be better or '
+                          "equal to Breaking Bad; but the thing is you can't "
+                          'surpass perfection. Breaking Bad is undoubtedly the '
+                          'best or at least one of the best TV series of all '
+                          "time. Just because it isn't better than BrBa "
+                          "doesn't mean it sucks. This film is Jesse's Felina. "
+                          'Wonderful cinematography, great acting, great '
+                          'directing by Gilligan and fan favorite characters '
+                          'return. It however has slow pacing but all in all '
+                          'is a solid film.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '8',

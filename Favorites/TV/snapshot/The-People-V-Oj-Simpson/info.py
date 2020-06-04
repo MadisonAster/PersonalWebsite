@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-People-V-Oj-Simpson',
  'EntryURL': 'https://www.imdb.com/title/tt2788432',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-People-V-Oj-Simpson/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-People-V-Oj-Simpson/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-People-V-Oj-Simpson/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-People-V-Oj-Simpson/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -51,19 +50,15 @@
  'keywords': 'anthology,seasonal anthology series,courtroom,jury,racism',
  'name': 'American Crime Story',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'UniqueParticle'},
-            'dateCreated': '2019-09-01',
+            'author': {'@type': 'Person', 'name': 'onetruejewell1'},
+            'dateCreated': '2018-04-18',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2788432/'},
-            'name': 'Spectacular Sarah Paulson deserved the Emmy she won!',
-            'reviewBody': 'I barely knew about the OJ Simpson scenario so '
-                          'everything about that is glorious while being '
-                          "outrageous! I'd like to see the second season for "
-                          "now I am the middle of season 1, it's quite "
-                          'enjoyable and intriguing. Ryan Murphy the '
-                          'creator/writer is a mastermind for many projects, I '
-                          'would definitely recommend this show.',
+            'name': 'Superb writing and acting!',
+            'reviewBody': 'Darren Criss as Andrew Cunanan just Amazing!!! The '
+                          'writing excellent!! The whole cast just '
+                          'mesmerizing! This series continues to surprise me!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

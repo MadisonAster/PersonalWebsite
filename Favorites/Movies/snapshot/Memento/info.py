@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Memento',
  'EntryURL': 'https://www.imdb.com/title/tt0209144',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Memento/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Memento/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Memento/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Memento/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Guy Pearce', 'url': '/name/nm0001602/'},
@@ -19,7 +18,7 @@
             'url': '/name/nm0095478/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 1085685,
+                     'ratingCount': 1085697,
                      'ratingValue': '8.4',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -47,38 +46,59 @@
              'overdose',
  'name': 'Memento',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'adamp-6'},
-            'dateCreated': '2002-01-31',
+            'author': {'@type': 'Person', 'name': 'quixoboy'},
+            'dateCreated': '2003-09-01',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0209144/'},
-            'name': 'watch it early so you can see something else afterward.',
-            'reviewBody': 'I saw "Memento" in the early afternoon, a fact for '
-                          'which I am thankful. Why?  Because it then '
-                          'proceeded to dominate the majority of my thoughts '
-                          'for the rest of the day.  That night I lay in bed, '
-                          'tossing and turning, my mind trying to wrap itself '
-                          'around the story, and I absolutely could not GO TO '
-                          'SLEEP!  \n'
+            'name': 'Addictive and fun to figure out',
+            'reviewBody': 'Christopher Nolan\'s "Memento" is truly a rare and '
+                          'exceptional achievement in modern filmmaking in '
+                          'that it manages to be new, fresh, hip, and exciting '
+                          'without ever tiring its audience out - unless '
+                          "you're walking into this film without the desire to "
+                          'participate and actively analyze the mysterious '
+                          'details.\n'
                           '\n'
-                          'I finally just gave up on sleep, got up around '
-                          'midnight, and watched "Election" to cleanse my '
-                          'palate.  Then I went back to bed and starting '
-                          'contemplating "Memento" AGAIN.  Finally, out of '
-                          'sheer exhaustion, I went to sleep.\n'
+                          "If that's the case, then this is DEFINITELY not a "
+                          'movie you should see. If, on the other hand, you '
+                          "are open-minded, creative, and alert, you'll "
+                          'definitely appreciate and get a kick out of this '
+                          'one. "Memento" is an old-fashioned "film noir"-type '
+                          'mystery thriller with an intriguing, ingenious '
+                          'twist: outfitting the entire film with a style that '
+                          "mirrors the protagonist's own mental condition "
+                          'while giving the poor viewer(s) his own perspective '
+                          'as well. It is masterfully filmed and edited in '
+                          'such a way that it is chronologically presented '
+                          'backwards (with two initially separate, parallel '
+                          'storylines - the main one, shot in colour, is the '
+                          'chronologically-backwards story with scenes that '
+                          'intercut with those of the other story, which is '
+                          'filmed more like a documentary, shot in black & '
+                          'white, and mostly takes place inside a motel room '
+                          'with the main character narrating, talking about '
+                          'the effects of his condition, etc.) While the '
+                          'average viewer may already be put off by such a '
+                          'complicated, confusing format, it is a very '
+                          'original premise that is well worth the struggle to '
+                          'figure out.\n'
                           '\n'
-                          'This is a movie that gets in your head and will not '
-                          'get out until you figure it all out.  And that can '
-                          'only be done with extensive internet research. '
-                          'Reading "Memento Mori", the short story upon which '
-                          'the movie is "based" helped, too.\n'
+                          'Acting is solid across the board, as is the '
+                          'writing, directing, etc., but special kudos must be '
+                          'extended to the very talented editor Dody Dorn, who '
+                          'successfully managed to put all of these fragments '
+                          'together and help them flow in a smooth, healthy '
+                          'manner that is not easy to pull off.\n'
                           '\n'
-                          '"Memento" is nothing short of a phenomenon.  And a '
-                          'brilliant one at that.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
+                          'One of the most "memorable" (sorry, couldn\'t help '
+                          "slipping in the bad joke) films you're likely to "
+                          'ever see, "Memento" is an instant classic due to '
+                          'its groundbreaking narrative style and impressive '
+                          'dramatic undertones. For those jaded moviegoers who '
+                          'seek something to keep them awake, interested, and '
+                          "constantly thinking, there couldn't be a better "
+                          'choice than this film.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Official Trailer',
              'embedUrl': '/video/imdb/vi3220356889',

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Bobs-Burgers',
  'EntryURL': 'https://www.imdb.com/title/tt1561755',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Bobs-Burgers/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Bobs-Burgers/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Bobs-Burgers/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Bobs-Burgers/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -45,39 +44,27 @@
              'actor plays a female character',
  'name': "Bob's Burgers",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'wrjfellows'},
-            'dateCreated': '2014-11-02',
+            'author': {'@type': 'Person', 'name': 'amesadamson-948-203220'},
+            'dateCreated': '2011-01-12',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1561755/'},
-            'name': "Bob's Burgers is a refreshing change of pace.",
-            'reviewBody': 'I am an avid fan of animated television, and have a '
-                          "massive appreciation for MacFarlane's Family Guy, "
-                          'American Dad and The Cleveland Show. And also The '
-                          'Simpsons and Futurama. While Groening and '
-                          'MacFarlane are cartoon tycoons currently dominating '
-                          "animated programming, Bob's Burgers is a pleasing, "
-                          'utterly enjoyable change.\n'
-                          '\n'
-                          'The pace and rapport of all the characters is one '
-                          'that is rare in any other cartoons. This pace is '
-                          'further backed up by the exceptional vocal '
-                          "performances and direction. Bob's monotonous "
-                          "exasperation at his children's outbursts is just "
-                          'hilarious. The script and dialogue of Tina, Gene '
-                          "and Louise is superb. Tina's voice, personally, I "
-                          'find extremely funny. The humour of a situation '
-                          'slowly evading Bob, mainly, is well accommodated by '
-                          'the episode lengths.\n'
-                          '\n'
-                          "I haven't laughed so hard at a comedy since that "
-                          'seen in The US Office where they all start singing '
-                          'staying alive by the bee gees to keep the beat for '
-                          'CPR of the practice dummy.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
+            'name': 'Brilliant',
+            'reviewBody': 'I laughed my head off from the first minute until '
+                          'the end. I think the dry, real, banal, hilarious, '
+                          'humor is amazing. Best thing on TV since the '
+                          "Simpsons and Family Guy! Bravo! I can't wait for "
+                          'more! These writers and actors have nailed a '
+                          'reality like no others. I love the take it on the '
+                          "chin frustration. Right on. If you don't get "
+                          'it...you don\'t get it. If you do you know "its '
+                          'people"! i was convinced from the trailers that I '
+                          'would like it and I did. I waited for weeks for '
+                          'this show to come on, then when it did I was out of '
+                          'town and had to catch it on Hulu.com, fortunately. '
+                          "Great work Fox! I think if the network doesn't get "
+                          'the response they need or want there will be a huge '
+                          'following on the web.'},
  'trailer': {'@type': 'VideoObject',
              'description': "Series Trailer for Bob's Burgers",
              'embedUrl': '/video/imdb/vi3450714137',

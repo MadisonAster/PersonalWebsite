@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Sneaky-Pete',
  'EntryURL': 'https://www.imdb.com/title/tt4200136',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Sneaky-Pete/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Sneaky-Pete/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Sneaky-Pete/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Sneaky-Pete/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -61,32 +60,35 @@
  'keywords': 'tv dinner,tire swing,pickpocket,road map,hitchhiking',
  'name': 'Pilot',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'meemindy'},
-            'dateCreated': '2015-09-05',
+            'author': {'@type': 'Person', 'name': 'yerlo'},
+            'dateCreated': '2015-08-09',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4200136/'},
-            'name': 'Love this show!',
-            'reviewBody': 'Love! Love! Love! This is the best show I have seen '
-                          'in a long time.\n'
+            'name': "I have been waiting for this show and didn't know it.",
+            'reviewBody': "It's a home run. Ribisi gets an Emmy. The show gets "
+                          'an Emmy--if they will produce more episodes in '
+                          "short order. Other than Major Crimes, we've had no "
+                          'new shows hold our interest (Battle Creek was '
+                          'canceled on us, as was Maxwell & King) so resorted '
+                          "to watching movies we've missed. Now Sneaky Pete. "
+                          'It got our attention in the first 5 minutes and '
+                          'held it. So often, we have to say, "Well, we\'ll '
+                          'watch the second episode and see if it goes '
+                          'anywhere." Better Call Saul worked like that, now '
+                          "we're waiting for the next season, but mostly it's "
+                          'been a drought for us. \n'
                           '\n'
-                          'Sneaky Pete has a very interesting plot. The show '
-                          'is something unique and fun. A lot takes place '
-                          'during this first episode. It certainly kept my '
-                          'attention and left me wanting for more.\n'
+                          "I've been so-so on Ribisi over the years. Really "
+                          "didn't like him in Boiler Room. But he has so "
+                          'matured as an actor that he carries this show. '
+                          'Perfection! (If he has an acting coach, we need '
+                          'that name.)\n'
                           '\n'
-                          'Many of the actors are familiar faces. All with '
-                          'great talent. \n'
-                          '\n'
-                          'This is a show I would highly recommend anyone. I '
-                          'am betting there is something about the characters '
-                          'that most would be able relate to.\n'
-                          '\n'
-                          'I truly hope Sneaky Pete is picked up as a series. '
-                          'I cannot wait to see more episodes! I am, '
-                          "admittedly, Sneaky Pete's new biggest fan.\n"
-                          '\n'
-                          'Keep it coming, Amazon!',
+                          'I like seeing the high rating here, and the one '
+                          'review being good and accurate. Now if Amazon will '
+                          'just deliver on the promise of the pilot, Sneaky '
+                          'Pete will absolutely be a hit.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

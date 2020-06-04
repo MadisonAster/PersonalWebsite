@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Jim-Jefferies-Show',
  'EntryURL': 'https://www.imdb.com/title/tt6987966',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Jim-Jefferies-Show/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Jim-Jefferies-Show/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Jim-Jefferies-Show/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Jim-Jefferies-Show/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -39,24 +38,25 @@
              'comedian,australian',
  'name': 'The Jim Jefferies Show',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'esmad3-216-475224'},
-            'dateCreated': '2019-03-25',
+            'author': {'@type': 'Person', 'name': 'kietas558'},
+            'dateCreated': '2017-06-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt6987966/'},
-            'name': 'Fraud',
-            'reviewBody': 'I like Jim Jefferies comedy, but this is twice now '
-                          'the show has been caught making complete hatchet '
-                          'jobs out of interviews. That includes cutting to '
-                          'match questions with different answers and '
-                          'reactions, basically rendering the interviews '
-                          "fraudulent. I can't see this show as anything but "
-                          "manipulation at this point, I've watched all the "
-                          'episodes but unless he addresses this directly very '
-                          'soon I wont be watching anymore.',
+            'name': 'Awesome writing!',
+            'reviewBody': 'I personally thought the first episode was really '
+                          'funny. All jokes were on sensitive topics but still '
+                          'hilarious, which shows some really brilliant '
+                          'writing. Jim as a host is doing just fine, laid '
+                          "back as usual, he's not forcing something out of "
+                          "him he knows he can't deliver. like impressions. "
+                          "Jim doesn't do impressions. which is fine, Im sure "
+                          'they can manage without them, John Oliver does '
+                          'terrible impressions as well. anyway, great show, '
+                          'really hope that it will be successful.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '1',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Jim Jefferies Show, The: Season 1',

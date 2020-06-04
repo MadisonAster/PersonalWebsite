@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Inside-The-Scientology-Center',
  'EntryURL': 'https://www.imdb.com/title/tt4967868',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Inside-The-Scientology-Center/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Inside-The-Scientology-Center/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Inside-The-Scientology-Center/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Inside-The-Scientology-Center/thumb.jpg',
  'actor': [{'@type': 'Person',

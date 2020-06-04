@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Archer',
  'EntryURL': 'https://www.imdb.com/title/tt1486217',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Archer/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Archer/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Archer/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Archer/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -17,7 +16,7 @@
             'url': '/name/nm0663177/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 131875,
+                     'ratingCount': 131878,
                      'ratingValue': '8.6',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -39,37 +38,29 @@
              'agent,fictional spy agency',
  'name': 'Archer',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'greendaylink'},
-            'dateCreated': '2010-02-06',
+            'author': {'@type': 'Person', 'name': 'Marinerman1979'},
+            'dateCreated': '2010-02-09',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1486217/'},
-            'name': 'Epic new comedy!',
-            'reviewBody': 'Archer is quite possibly the funniest show on '
-                          'television, rapid fire jokes about whore island, a '
-                          'hungry hungry hippo, and baby crazy ex girlfriends, '
-                          'all that plus the brilliance of stir Friday. I am a '
-                          'total TV alchoholic and this show is incredibly '
-                          'funny. Though there is a slight issue with the '
-                          'comedy, if you take yourself too seriously and or '
-                          "you can't laugh at sheer stupidity the show might "
-                          "not be for you. Anyways you won't know if you like "
-                          'the comedy or not without watching and episode '
-                          'yourself. So I strongly incourage everyone to sit '
-                          'down watch an episode or two and I bet you will be '
-                          'rolling on the floor due to the doucheness that is '
-                          'Sterling Archer. Alright Andy I know the fact that '
-                          'arrested development got canceled still hurts but '
-                          "it doesn't mean you should start bashing a "
-                          'different kind of comedy. Archer is incredibly '
-                          'funny, and yes it is basic raunchy humor, but it is '
-                          'the sheer ridiculousness of each situation that '
-                          'allows the comedy to turn in literal loll. so open '
-                          'your mind laugh at a Russian roulette joke and '
-                          'enjoy the brilliant stupidity that is Archer.',
+            'name': 'What an absolute treat.',
+            'reviewBody': 'This show caught me off guard. I dismissed it '
+                          'without giving it a chance at first, but then went '
+                          'ahead and watched it on demand. I am sure glad that '
+                          'I did. Archer is an over the top raunchy fest based '
+                          'on the doings of a supposed spy firm. You have '
+                          'Sterling, an insecure guy who thinks very little, '
+                          'does very many, and says just enough to keep us '
+                          'laughing...mainly because he is so stupid. You have '
+                          'Malory, an unhappy boss who loves an enemy, hates '
+                          "being Sterling's mom at times, and has shown more "
+                          'than once to be off her rocker. You then have '
+                          "Lana(L-a-n-a), Sterling's Ex who isn't over "
+                          'Sterling. She is also a no nonsense, ass whipping '
+                          'babe. This show nails it. I highly recommend it.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Brace for the thrust. Watch the official trailer '

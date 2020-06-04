@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Evil-Dead',
  'EntryURL': 'https://www.imdb.com/title/tt0083907',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Evil-Dead/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Evil-Dead/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Evil-Dead/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Evil-Dead/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0048260/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 180142,
+                     'ratingCount': 180143,
                      'ratingValue': '7.5',
                      'worstRating': '1.0'},
  'contentRating': 'NC-17',
@@ -44,64 +43,65 @@
              'dead',
  'name': 'The Evil Dead',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ametaphysicalshark'},
-            'dateCreated': '2007-05-11',
+            'author': {'@type': 'Person', 'name': 'KUAlum26'},
+            'dateCreated': '2009-10-31',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0083907/'},
-            'name': "You don't need a big budget to make an accomplished film",
-            'reviewBody': 'Sam Raimi\'s feature length debut "The Evil Dead" '
-                          'is truly one of the greatest horror films of all '
-                          'time and the start of a magnificently entertaining '
-                          'trilogy of hilarity and some real scares. Made on a '
-                          'budget of only $375,000, the film is surprisingly '
-                          'accomplished on a technical level. The effects, '
-                          "although they do look fake by today's standards, "
-                          'hold up a lot better than you might have expected, '
-                          'and the stop motion sequence at the end, which '
-                          'looks a lot faker than anything else in the movie, '
-                          'was accomplished for its time and budget.\n'
+            'name': 'A marvel what some college film students can do on a '
+                    'shoestring budget',
+            'reviewBody': 'SPOILER(S) POSSIBLE\n'
                           '\n'
-                          '"The Evil Dead" is about a group of young adults '
-                          'who travel to a cabin in the woods and discover a '
-                          "'book of the dead'. No prizes for guessing what "
-                          'happens next as each character is possessed (except '
-                          'for Ash) and disposed of via an intriguing variety '
-                          'of methods. Considering its budget, unknown '
-                          'director (at the time), and typical slasher plot '
-                          '"The Evil Dead" would almost certainly seem headed '
-                          'towards forgotten B-movie status, and yet it has '
-                          'stood the test of time and remains one of the most '
-                          'widely acclaimed horror films of all time. Why? '
-                          'It\'s simple. Although "The Evil Dead" is nowhere '
-                          "near as funny as its sequels, it's still a humorous "
-                          'self-satire while also being terrifying despite its '
-                          'age. This odd combination (only perfected in this '
-                          'film\'s sequels and "Creepshow") works because '
-                          'Raimi crafts a tense and moody environment, puts '
-                          'his characters in there, and then ruthlessly '
-                          'disposes of them, sometimes doing so several times '
-                          "for the same character. What's worse is that "
-                          "there's nowhere to go. Raimi creates a "
-                          'claustrophobic feeling in anyone watching, he wants '
-                          'you to think about being in a situation where '
-                          "you're trapped with nothing but death and "
-                          'destruction surrounding you. For most people, he '
-                          'probably succeeds. As far as acting goes, none of '
-                          'it is really very good but Bruce Campbell is '
-                          'instantly likable as Ash, who just has to be one of '
-                          'the most memorable horror film characters of all '
-                          'time.\n'
+                          'The first ever full-on film project by budding '
+                          'filmmakers Sam Raimi and Rob Tapert(then called '
+                          'Bobby Tapert)would prove to be a work of endurance '
+                          'and love and also one of the more entertaining '
+                          'horror films made in the eighties.\n'
                           '\n'
-                          'Gory, desolate, hopeless, and still funny, "The '
-                          'Evil Dead" is a horror masterpiece that isn\'t '
-                          'quite the strongest entry in the series, but is '
-                          'shockingly accomplished and entertaining despite '
-                          'its low budget and inexperienced cast and crew. '
-                          'This is a film everyone must see, along with its '
-                          'sequels. \n'
+                          'The plot is painfully simple: Five young adults '
+                          'from Michigan drive off into the woods for a '
+                          'camping vacation,using a seldom-used cabin as their '
+                          'haunt. They uncover a tape recorder and a '
+                          'crusty,dusty and blood-and-flesh-coated "Book of '
+                          'the Dead" or "Necromonicon",inadvertently incant '
+                          'the chant that awakes a limitless supply of '
+                          'malevolent spirits in the woods,and then one by one '
+                          'get picked off until a lone survivor is left to '
+                          "fight to escape. The story isn't much of an "
+                          "accomplishment:it's the whole physical undertaking "
+                          "that's the real accomplishment.\n"
                           '\n'
-                          '9/10'},
+                          'On a small budget that was probably getting smaller '
+                          "as the shoot continued(I don't know the exact "
+                          'amount of time of filming,but it probably lasted at '
+                          'least a year),the filmmakers and stars(all of '
+                          "'em,most famously budding star Bruce Campbell as "
+                          'the conflicted but can-do Ash)had to make the most '
+                          'of a limited set,claustrophobic settings,gallons of '
+                          'viscous fluids,endless supplies of cakey make-up,a '
+                          'limited amount of lighting(probably NOT an '
+                          'accident,there) and probably a mass-produced amount '
+                          'of fog to create something that has both the feel '
+                          'of a creepily eerie film about the undead and yet '
+                          'had the effects to back up the type of slasher '
+                          'horror pic that the producers were aiming for.\n'
+                          '\n'
+                          'The first of an intriguing trio of horror/comedy '
+                          'films that Raimi,Tapert,Campbell and company would '
+                          'crank out over a period of just under fifteen '
+                          "years(and,after seeing this film in full,I'm not "
+                          'sure if anyone involved originally intended to make '
+                          'any sequels),the atmosphere and noticeably cheap '
+                          'effects may turn-off your pickier horror film '
+                          'snobs,but anyone with a sense of adventure and high '
+                          'tolerance for gore will be reasonably pleased--if '
+                          'not greatly impressed--by this first effort film. A '
+                          'keeper,not a renter,not only for repeated viewing '
+                          'but also for the extras.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '9',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Five friends travel to a cabin in the woods, '
                             'where they unknowingly release flesh-possessing '

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Mother',
  'EntryURL': 'https://www.imdb.com/title/tt5109784',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Mother/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Mother/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Mother/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Mother/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0000201/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 180848,
+                     'ratingCount': 180850,
                      'ratingValue': '6.6',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -42,29 +41,51 @@
  'keywords': 'surrealism,cannibalism,riot,pregnant woman,uninvited guest',
  'name': 'Mother!',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Kimcritic'},
-            'dateCreated': '2017-09-18',
+            'author': {'@type': 'Person', 'name': 'matthewacollier'},
+            'dateCreated': '2017-09-16',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5109784/'},
-            'name': 'Mother Nature, and how we are killing ourselves.',
-            'reviewBody': 'A lot of the fake reviews here are from people with '
-                          'ignorant, political perspectives. They want you to '
-                          "hate someone's piece of art based on their own "
-                          'emotional issues toward an actor or idea.\n'
+            'name': "Aronofsky's mother! will be hated by many, but loved by a "
+                    'precious few',
+            'reviewBody': '100\n'
                           '\n'
-                          'The film is a true work of art, displaying US and '
-                          'OUR collective, destructive behavior, right in your '
-                          "face! Darren doesn't care what you or some critic "
-                          'thinks, he did this because he had to. We are '
-                          'killing ourselves and our MOTHER and this is an '
-                          'artful yet harsh, radical reminder of that.\n'
-                          '\n'
-                          'Watch this film so that more chances can be made in '
-                          "Hollywood. We are also killing our children's "
-                          'brains with all of the comic-book junk they usually '
-                          "make and artful films like this don't and won't get "
-                          'chances to be digested without support.',
+                          'Horrifying. Just.. horrifying. Aronofsky really got '
+                          'me with this one. Not only did he manage to grab me '
+                          'on an intellectual level, but also on an emotional '
+                          'one. This movie is going to be hated by many, I '
+                          'know that now. But for me, this is, hands down, the '
+                          'movie of the year. Every shot, cut, and scream is '
+                          'perfectly constructed to make an immersive '
+                          "atmosphere that never relents in it's uncomfortable "
+                          'feeling, and the acting is seriously award worthy. '
+                          'Javier Bardem is absolutely wonderful, and Jennifer '
+                          'Lawrence... oh man... her performance is absolutely '
+                          "top notch. At first I couldn't quite relate to her "
+                          'character, but as the film progressed, her mindset '
+                          'became my mindset, and we essentially merged into '
+                          'one force of fear and terror that was absolutely '
+                          'unstoppable until the ending. I cannot praise her '
+                          'performance enough in this review. Her emotions '
+                          'leaked from every frame she was in, and it broke my '
+                          'heart and scared me witless the whole way through '
+                          "the film. Aronofsky's pacing is immaculate as well, "
+                          'the whole movie feeling not a second too slow or '
+                          'quick, the events rolling on naturally and in a way '
+                          'that felt very satisfying. The whole way through, I '
+                          'was riveted and invested by the acting and '
+                          "cinematography, which is definitely Aronofsky's "
+                          "best I've seen so far. The entire film is gripping, "
+                          'horrifying, heartbreaking, and absolutely '
+                          'wonderful. Nothing about this movie pulled me out '
+                          'of it. Watching this in a theater was like being in '
+                          'a bomb shelter while the world ended, every sound '
+                          'apocalyptic and every camera shake filling my view. '
+                          'If you can, watch this on the biggest screen you '
+                          'can with the best surround sound you can afford. If '
+                          'you only watch one movie this year, make it this '
+                          'one. This movie is incredible. This is why I study '
+                          'the movies.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

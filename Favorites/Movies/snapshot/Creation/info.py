@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Creation',
  'EntryURL': 'https://www.imdb.com/title/tt0974014',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Creation/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Creation/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Creation/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Creation/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -17,7 +16,7 @@
            {'@type': 'Person', 'name': 'Guy Henry', 'url': '/name/nm0377844/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 13572,
+                     'ratingCount': 13573,
                      'ratingValue': '6.7',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -53,35 +52,48 @@
              'relationship,evolution,loss of daughter',
  'name': 'Creation',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'graham_dahlke333'},
-            'dateCreated': '2011-07-20',
+            'author': {'@type': 'Person', 'name': 'cliffhanley_'},
+            'dateCreated': '2009-09-24',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0974014/'},
-            'name': 'MIsunderstood & Ignorantly Viewed',
-            'reviewBody': 'Bettanny & Connelly beautifully act out this biopic '
-                          "on Charles Darwin. The movie focuses on Darwin's "
-                          'personal life and how it was effected by his '
-                          'scientific endeavours. I believe many viewers '
-                          'watched this movie with a pessimistic mindset '
-                          '(maybe brought on by their own religious beliefs). '
-                          'Some, I believe, were offended by any mention of '
-                          'evolution. However, this movie does not attempt to '
-                          'argue for or against religion in any way! Instead '
-                          'it centers around the inner battle of a brilliant '
-                          "man, who's ideas were revolutionary and scorned. \n"
+            'name': 'Slightly Gothic insight to Charles Darwin, the man.',
+            'reviewBody': 'As you sit there, quietly evolving, spare a thought '
+                          'for Charles Darwin. He was more than the venerable '
+                          'man with beard you may remember from your '
+                          'schoolbooks. He had a wife and children, and spent '
+                          'much of the long hiatus between writing his big '
+                          'theory and actually publishing it, coping with his '
+                          'wife, beautiful Emma, who, if she looked at all '
+                          'like actress Jennifer Connelly, was beautiful, but '
+                          'not at all ready to give up on God. She was also '
+                          "having to deal with Darwin's all-consuming guilt "
+                          'over the fatal illness of his eldest daughter, for '
+                          'which he seemed to have believed he was responsible '
+                          'in at least one way.\n'
                           '\n'
-                          'The movie gives a unique perspective into the life '
-                          'of Charles Darwin, and allows one to appreciate his '
-                          'works and convictions. This film is definitely '
-                          'worth seeing. The cinematography is well done, it '
-                          'is historically accurate, and the performances are '
-                          'sound.\n'
+                          "This, Charles Darwin's homelife, is colourfully "
+                          'evoked in the slightly Gothic new film, Creation. '
+                          'As it opens with a flashback to a failed attempt to '
+                          "steal 'savage' children from a Pacific island and "
+                          'take them home to convert them into Good '
+                          'Christians, it has us on its side from the start; '
+                          "even more as it nods to Francois Truffaut's "
+                          "'L'Enfant Sauvage'. Paul Bettany as the man himself "
+                          'is on-screen most of the time, like a contestant in '
+                          "the Channel Four 'big brother house' permanently in "
+                          'close-up. The way the story jumps backwards and '
+                          'forwards in time gives it the feeling of a ghost '
+                          "story too. And there are other pieces of Darwin's "
+                          'life we rarely get to think about, such as the '
+                          'relationship he built up with the female ape, '
+                          'stolen from her jungle family and living in '
+                          'solitary confinement in an English zoo until her '
+                          'death. \n'
                           '\n'
-                          'For one who wants to understand the man behind the '
-                          'theories, it is great! But you must see it, '
-                          'optimistically, as a focus on the MAN and not his '
-                          'theories.',
+                          "All in all, it's quite an emotional roller-coaster, "
+                          'although not at the expense of recreating the world '
+                          'of the late Victorians very convincingly.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '6',

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Grounded-The-Making-of-The-Last-Of-Us',
  'EntryURL': 'https://www.imdb.com/title/tt3397502',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Grounded-The-Making-of-The-Last-Of-Us/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Grounded-The-Making-of-The-Last-Of-Us/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Grounded-The-Making-of-The-Last-Of-Us/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Grounded-The-Making-of-The-Last-Of-Us/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -50,32 +49,27 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjM4NTcwMzMwMV5BMl5BanBnXkFtZTgwMzQ1NjAzMTE@._V1_.jpg',
  'name': 'Grounded: Making the Last of Us',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': '851222'},
-            'dateCreated': '2016-08-27',
+            'author': {'@type': 'Person', 'name': 'colorthekid'},
+            'dateCreated': '2019-05-31',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3397502/'},
-            'name': 'Excellent documentary about creation of a masterpiece',
-            'reviewBody': 'Greetings from Lithuania.\n'
+            'name': 'Behind The Masterpiece.',
+            'reviewBody': 'Grounded is a Behind The Scenes documentary that '
+                          'gives us a glimpse of how complex and challenging '
+                          'creating something adventurous and new can be.\n'
                           '\n'
-                          '"Grounded: Making the Last of Us" (2013) is a very '
-                          'insightful and intriguing documentary that shows '
-                          'how a VG masterpiece "The Last of Us"(2013) was '
-                          'born. It shows interviews with creator Neil '
-                          'Druckmann and other stuff from Naughty Dog - the '
-                          'developer that brought this masterpiece as well '
-                          'main cast talking about their characters as well '
-                          'very interesting scenes of how exactly some '
-                          'particular scenes were shoot at stage with live '
-                          'actors. As for, a one who played the game and still '
-                          'playing (and probably will be playing for more then '
-                          '4 times), this documentary was highly interesting, '
-                          "but be ware, if you haven't played it or haven't "
-                          "finished it, don't watch it as it has many "
-                          'spoilers, for all of the rest who loved the game, '
-                          'this is a must see.',
+                          'The Last Of Us was a bold project from the start '
+                          'and it really is amazing to see how it changed and '
+                          'took form, and became what I now believe to be one '
+                          'of the, if not, the best game of all time.\n'
+                          '\n'
+                          'It took direction, it took dedication, and it took '
+                          'a huge amount of talent coming from all ends. If '
+                          'you compress all of that into one project, you get '
+                          "a masterpiece, and that's exactly what we got.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'url': '/title/tt3397502/'}

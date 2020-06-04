@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Gamechangers',
  'EntryURL': 'https://www.imdb.com/title/tt4590930',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Gamechangers/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Gamechangers/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Gamechangers/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Gamechangers/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -40,77 +39,65 @@
  'keywords': 'docudrama',
  'name': 'The Gamechangers',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Prismark10'},
-            'dateCreated': '2015-09-16',
+            'author': {'@type': 'Person', 'name': 'Deadiron29'},
+            'dateCreated': '2015-09-18',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4590930/'},
-            'name': 'Liberty City',
-            'reviewBody': 'I have been playing arcade games since the late '
-                          '1970s. Computer games since the Home Computer '
-                          'revolution of the early 1980s and I bought a copy '
-                          'of GTA III for the Playstation 2. Despite this I do '
-                          'not consider myself as a gamer. However I am known '
-                          'to show my skills off to my kids every now and then '
-                          'to let them know that their old dad has a trick or '
-                          'two up his sleeve when it comes to Mortal Kombat or '
-                          'Virtua Fighter.\n'
+            'name': 'An entertaining take on one of the biggest controvercies '
+                    'regarding video-games',
+            'reviewBody': 'The debate about the effects of violent video-games '
+                          'on people had existed long before GTA (when Mortal '
+                          'Kombat was released it was the first time I '
+                          'personally heard about it) but, with GTA something '
+                          'changed that made the debate much more heated and '
+                          'aggressive. Conservatives all over the world were '
+                          'open arms about how these evil games were turning '
+                          'the children into potential killing machines. Jack '
+                          'Thompson although not the only one, was the more '
+                          'well known among these people.\n'
                           '\n'
-                          'What struck me about GTA III was the expansive '
-                          'almost free flowing game-play. You had missions to '
-                          'complete but you could just wander off and do '
-                          'something else. For the first time I felt '
-                          'video-games had made that leap forward more than '
-                          'the hype from console manufacturers going on about '
-                          'Emotion chips.\n'
+                          'The movie starts one day after the release of Vice '
+                          'City and spans across all the creative process and '
+                          'release of San Andreas. Within set time frames two '
+                          'plot lines are follow, the legal battle between '
+                          'Thompson and Rockstar, and the development of San '
+                          'Andreas. These plot lines flow nicely and never '
+                          'feel too slow-paced.\n'
                           '\n'
-                          'People might be surprised to discover that GTA is '
-                          'actually British created by two brothers, Sam and '
-                          'Dan Houser who in this BBC film are based in New '
-                          'York. Daniel Radcliffe plays Sam Houser, the Don '
-                          'Simpson obsessed visionary who wants to take gaming '
-                          'to the next level. He also comes across as brattish '
-                          'rather than a maverick.\n'
+                          'I was surprised at how balanced the film was, it '
+                          'does not takes any sides and does not portray '
+                          'Thompson as just an asshole, it shows a man who '
+                          'believes he is doing the right thing (whether or '
+                          'not is truly the right thing is for us to decide) '
+                          'And although this story does have objectively a '
+                          'winner at the end, the effort of presenting the '
+                          'event fairly and not in a one sided manner is '
+                          'something to applaud for.\n'
                           '\n'
-                          "After a shooting incident the game's developer "
-                          'Rockstar lock horns with Jack Thompson (Bill '
-                          'Paxton) a God fearing conservative lawyer on a '
-                          'moral crusade against rap and video-games and its '
-                          'insidious effects on kids.\n'
+                          'Daniel Radcliffe is good as Houser. I cannot say it '
+                          'is a remarkable performance. The same goes for '
+                          "Paxton's character although he projects a lot more "
+                          'energy into the role but, that has to do more with '
+                          'the way the character is written than anything else '
+                          'the supporting cast does the job but, there is no '
+                          'one particularly memorable.\n'
                           '\n'
-                          'Thompson struggles at court and is at risk of being '
-                          'disbarred but Rockstar rather ineptly or '
-                          'deliberately left hidden coding in one of their '
-                          'later version of GTA which brought them further '
-                          'trouble in the US courts.\n'
+                          'The influence of The Social Network in this movie '
+                          'cannot be denied and its one of the reason some '
+                          'people have criticized this film strongly, stating '
+                          'that is just a carbon copy of it is not. The '
+                          'influences are present in the tone of the movie '
+                          "but, saying it is a carbon copy of David Fincher's "
+                          'film is more than a stretch.\n'
                           '\n'
-                          'The problem with the film was it was too slight. '
-                          'The BBC received no cooperation from Rockstar who '
-                          'also enforced their trademark to not to allow them '
-                          'use the game footage. I think this was unwise of '
-                          'them.\n'
-                          '\n'
-                          'The film is based on true events but some scenes '
-                          'have been changed for dramatic effect. In short '
-                          'padded out to create tension where probably none '
-                          'existed.\n'
-                          '\n'
-                          'Like a lot of recent BBC one off films its '
-                          'noticeable that the 5 years licence fee is having '
-                          'an effect. Part of it just looked a little too '
-                          'cheap and low budget even though there was New York '
-                          'location shooting and it had a style of filming in '
-                          'parts to give it an immersive computer game '
-                          'setting.\n'
-                          '\n'
-                          'The makers hoped to create a buzz like the film The '
-                          'Social Network but here the battle about a moral '
-                          'crusader who uses grandstanding to destroy Rockstar '
-                          'felt overlong even at 90 minutes. Paxton also '
-                          'reminded me too much of the righteous character he '
-                          'played in his directorial debut, Frailty.',
+                          'All things considered, The Gamechangers is an '
+                          'entertaining TV movie about a controversial subject '
+                          'which remains still. I doubt it will be a classic '
+                          'by any means but, it does the job of telling the '
+                          'story in a fun an effective manner.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '5',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'url': '/title/tt4590930/'}

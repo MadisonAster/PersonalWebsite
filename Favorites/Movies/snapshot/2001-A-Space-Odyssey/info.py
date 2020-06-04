@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/2001-A-Space-Odyssey',
  'EntryURL': 'https://www.imdb.com/title/tt0062622',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/2001-A-Space-Odyssey/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/2001-A-Space-Odyssey/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/2001-A-Space-Odyssey/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/2001-A-Space-Odyssey/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0725220/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 579550,
+                     'ratingCount': 579557,
                      'ratingValue': '8.3',
                      'worstRating': '1.0'},
  'contentRating': 'G',
@@ -51,82 +50,40 @@
              'title,computer',
  'name': '2001: A Space Odyssey',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Manthorpe'},
-            'dateCreated': '2005-01-05',
+            'author': {'@type': 'Person', 'name': 'tapioylinen'},
+            'dateCreated': '2000-02-07',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0062622/'},
-            'name': 'A film of monolithic proportions.',
-            'reviewBody': 'A review I have put off for far too long....\n'
+            'name': 'The Order of the Universe',
+            'reviewBody': 'I spent many a sleepless night after watching 2001. '
+                          'Not only because of the psychological horror (of '
+                          'which 2001 is a masterpiece) but also because of '
+                          'the way it brought me (a restless soul) some '
+                          'clarity to the way I observe the universe. It '
+                          'changed my way of thinking in a very profound way. '
+                          'And after reading the novel (by Arthur C. Clarke) I '
+                          'found myself once again inspired (a writer as I am) '
+                          'by the level of imagination.\n'
                           '\n'
-                          'Bluntly, 2001 is one of the best science-fiction '
-                          'films made to date, if not the very best. Stanley '
-                          'Kubrick was a genius of a film maker and this is '
-                          'one of his very best works. And although it is '
-                          'misunderstood by many, and respectively underrated, '
-                          'it is considered one of the best films of all time '
-                          "and I'll have to agree. Back in 1968, no one had "
-                          'done anything like this before, and no one has '
-                          'since. It was a marvel of a special effects '
-                          'breakthrough back then, and seeing how the effects '
-                          'hold up today, it is no wonder as to why. The film '
-                          'still looks marvelous after almost forty years! '
-                          'Take note CGI people. Through the use of large '
-                          'miniatures and realistic lighting, Kubrick created '
-                          'some of the best special effects ever put on '
-                          'celluloid. This aspect alone almost single-handedly '
-                          'created the chilling void of the space atmosphere '
-                          'which is also attributed to the music and realistic '
-                          "sound effects. I can't think of another film where "
-                          "you can't here anything in space, like it is in "
-                          'reality. Not only is the absence of sound effects '
-                          'in space realistic, it is used cleverly as a tool '
-                          'to establish mood, and it works flawlessly.\n'
+                          'The Space Odyssey is not something one can just "go '
+                          'and see". One has to be ready for it, or it cannot '
+                          "be understood. In fact I don't think it can be "
+                          'understood at all, at least not all of it at once. '
+                          'It is a philosophical journey to the infinite and '
+                          "beyond, a masterpiece of it's genre and still after "
+                          '32 years technically quite impressive all the way '
+                          "to the powerful musical soundtrack featuring 'Also "
+                          "spracht Zarathustra' by Richard Strauss and 'Blue "
+                          "Danube' by Johann Strauss.\n"
                           '\n'
-                          'Aside from the magnificent display of ingenious '
-                          'special effects, there are other factors that play '
-                          'a part in establishing the feel of the film. The '
-                          'music played, all classical, compliment what the '
-                          'eyes are seeing and make you feel the significance '
-                          "of man's journey through his evolution from ape to "
-                          'space traveler.\n'
+                          'Take all the time you want, but eventually you are '
+                          'going to have to see this film. If it can bring '
+                          'some order and understanding to the universe of a '
+                          'struggling artist like me, it can certainly do it '
+                          'for you as well.\n'
                           '\n'
-                          'The story, while seemingly simple, is profound. '
-                          'Sequentially, several mysterious black monoliths '
-                          'are discovered and basically trigger certain events '
-                          'integral to the film. What are they? Where did they '
-                          'come from? What do they do? These are all questions '
-                          'one asks oneself while watching the story develop '
-                          'and is asked to find his own way. While most come '
-                          'away with a general idea of what took place in the '
-                          'story, each individual will have to decide what it '
-                          'means to them. Any way one decides to answer these '
-                          "question results in profound solutions. It's not "
-                          'left entirely up to interpretation, but in some '
-                          'aspects it is. Experience it for more '
-                          'clarification. The end result is quite chilling, no '
-                          'matter your personal solution.\n'
-                          '\n'
-                          'While it is a long film, and sometimes slows down, '
-                          'it has to be in order to accurately portray the '
-                          "journey of man. It's not a subject that would have "
-                          'faired well in a shorter film, faster paced '
-                          'feature. Those with short attention spans need not '
-                          'apply.\n'
-                          '\n'
-                          'Last but not least, is the epitome of a remorseless '
-                          'antagonist, HAL 9000, the computer. Never has a '
-                          'machine held such a chilling screen presence. Which '
-                          'reminds me, for a film with such profound ambition '
-                          'and execution, there is surprisingly little '
-                          "dialogue. Another sign of Kubrick's genius.\n"
-                          '\n'
-                          'All in all, one of the best films made to date and '
-                          'one of the very best science fiction films made. A '
-                          'personal favorite. Everyone must see this film at '
-                          'least once.\n'
-                          '\n'
-                          'Very highly recommended.',
+                          "Or maybe I'm just plain crazy...",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

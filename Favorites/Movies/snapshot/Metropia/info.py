@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Metropia',
  'EntryURL': 'https://www.imdb.com/title/tt0985058',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Metropia/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Metropia/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Metropia/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Metropia/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -66,55 +65,23 @@
  'keywords': 'cell phone ringtone,conspiracy,surveillance,metro,mind control',
  'name': 'Metropia',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Samiam3'},
-            'dateCreated': '2010-12-31',
+            'author': {'@type': 'Person', 'name': 'Kirpianuscus'},
+            'dateCreated': '2017-10-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0985058/'},
-            'name': 'Simple but fascinating',
-            'reviewBody': 'Take a trip to Europe in the year 2024. This is a '
-                          'dark age, where the automobile is no longer in use, '
-                          'replaced by a cross country subway system. The most '
-                          'popular product on the market (in fact pretty much '
-                          'the only item) is a shampoo manufactured with a '
-                          'secret mind controlling chemical, which the major '
-                          'corporations use to monitor the public in George '
-                          'Orwell fashion.\n'
-                          '\n'
-                          'In an age where animation can do anything, the '
-                          'decision to do almost nothing certainly stands out '
-                          'in film. Metropia is without doubt the bleakest '
-                          'animated feature I know; a murky institutional '
-                          'world, without a drop of color or sunshine, and '
-                          'everywhere we go is under lit. This makes enough '
-                          'sense when taking into account that this is a '
-                          'future where society is low on energy. \n'
-                          '\n'
-                          'Not everything however feels credible. The absence '
-                          'of people in great numbers is unusual. The few '
-                          'people who do wander in and out of frame are almost '
-                          'hollow shells. They have no soul, but more '
-                          'importantly they have no movement. Metropia uses '
-                          'the least amount of energy possible to give life to '
-                          'illustrations. To attempt to describe it is not '
-                          "impossible, but it's something that is better off "
-                          'seen for ones self. Metropia is a haunting '
-                          "experience. It's almost a ghost world, not just "
-                          'from the absence of sight, but from the absence of '
-                          'sound. Metropia makes effective use of silence in '
-                          'all the right places, accompanied by an effective, '
-                          'very new age score. \n'
-                          '\n'
-                          'As for the storyline, it is familiar, but not '
-                          "painfully so. It's similar to Brazil, which itself "
-                          "is the product of George Orwell's influence. The "
-                          'climax here feels a bit rushed, and easy, leaving '
-                          "Metropia a bit shorter than I think it should've "
-                          'been, but it remains an entertaining experiment.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
+            'name': 'a cold world',
+            'reviewBody': 'it could be a dark utopia. or only reflection of '
+                          'present. in fact, it is a portrait. for fears, '
+                          'searches, self definitions, paranoia, secrets, '
+                          'conspiracies and perception of life as a long and '
+                          'gray chain of day by day. in same measure, it is a '
+                          'kind of explanation. for hidden realities, for '
+                          'dreams and expectations, for the status of people '
+                          'as tools, for the reasons escaping to the '
+                          'predictability, so, a reflection support. one far '
+                          'to be bad because animation is always inspired form '
+                          'for remind basic truths.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Visually stunning trailer for this thriller',
              'embedUrl': '/video/imdb/vi3641640729',

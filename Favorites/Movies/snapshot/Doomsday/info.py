@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Doomsday',
  'EntryURL': 'https://www.imdb.com/title/tt0483607',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Doomsday/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Doomsday/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Doomsday/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Doomsday/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -48,51 +47,41 @@
  'keywords': 'quarantine,virus,wall,britain,contagion',
  'name': 'Doomsday',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ma-cortes'},
-            'dateCreated': '2009-08-22',
+            'author': {'@type': 'Person', 'name': 'angelynx-2'},
+            'dateCreated': '2008-03-22',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0483607/'},
-            'name': 'A futuristic movie full of kinetic energy and amazing '
-                    'stunt work',
-            'reviewBody': 'This thunderous picture begins in Great Britain, '
-                          '2007 . A deadly virus spreads causing hundreds of '
-                          'thousands infecting . The government evacuates '
-                          'people and builds an impregnable wall along with '
-                          'the Wall of Adriano, impeding the access . London, '
-                          '2035 recent time, the reaper virus breaks out '
-                          'again. Then , various authorities, P.M (Alexander '
-                          "Siddig) and Canaris(David O'Hara)decide to send a "
-                          'specialists team. Nelson(Bob Hoskins) assigns the '
-                          'dangerous mission to Major Eden (Rhona Mitra). She '
-                          'along with a crack group (Adrian Lester, Sean '
-                          'Petwee, among others)are urgently dispatched into '
-                          'quarantined Scotland to meet Doctor Kane (Malcolm '
-                          'McDowell)who allegedly has a cure. In the '
-                          "near-future Glascow city, they'll have to fight "
-                          'against cutthroats, a band of depraved crazies '
-                          'thirsty for blood and survive some battles '
-                          'to-the-death.\n'
-                          '\n'
-                          'This exciting movie is packed with noisy action, '
-                          'unbelievable car stunts, tension, thrills, chills, '
-                          'and lots of blood and gore, including '
-                          'throating-slit ,beheading, impaling and '
-                          'cannibalism. The story is a blend of classic Sci-Fi '
-                          'movies as ¨Escape from N.Y.¨, ¨27 Days/Weeks later¨ '
-                          'and of course ¨Mad Max¨, taking parts here and '
-                          'there. Thrilling musical score fitting to action by '
-                          'Tyler Bates. Colorful cinematography reflecting '
-                          'splendidly the Scotland outdoors in which resides '
-                          'the Doctor Kane and where he has built a medieval '
-                          'world. The motion picture is well directed by Neal '
-                          'Marshall (Descent, Dog soldiers) but with no '
-                          'originally because he has copied previous films. '
-                          'This remarkable action film appeal to science '
-                          'fiction buffs',
+            'name': 'Gonzo mix of Mad Max, Escape from NY and 28 Days Later',
+            'reviewBody': 'What an insane movie! I saw it in a criminally tiny '
+                          'Saturday afternoon audience (four people) and we '
+                          "all had a terrific time. Don't expect sense, great "
+                          'acting or original dialogue, just go for the kicks '
+                          'and enjoy. A totally deranged, over-the-top '
+                          'splatfest with hideous viral deaths galore, some of '
+                          'the best post-holocaust punk makeup and chase '
+                          "scenes since Road Warrior, brilliant use of 1980's "
+                          'dance music (Adam and the Ants, Frankie Goes to '
+                          'Hollywood--the placement of Siouxie and the '
+                          'Banshees\' "Spellbound" and a Fine Young Cannibals '
+                          'track at the punk barbecue is simply inspired), a '
+                          'coliseum battle-to-the-death, a bizarre interlude '
+                          'in a Scottish fiefdom that feels as if the movie '
+                          'took a fast detour into the Shire, and the coolest '
+                          "star turn by a UK car since Harry Potter's posse "
+                          'made one fly. All of it snapping and crackling with '
+                          'so much kinetic energy and wild creative freedom '
+                          "that it's hugely exhilarating. We were still "
+                          'giggling like maniacs an hour after the movie.=) '
+                          "It's just such fun to see a director decide to go "
+                          "full-speed over the edge like this. It's not great "
+                          'art, but trust me, if you enjoyed Mad Max: Beyond '
+                          'Thunderdome, Planet Terror, Escape from New '
+                          'York/L.A., and/or any recent zombie movie, you '
+                          "can't miss this one.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Doomsday Trailer',

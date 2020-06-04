@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Cavedigger',
  'EntryURL': 'https://www.imdb.com/title/tt2516860',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Cavedigger/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Cavedigger/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Cavedigger/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Cavedigger/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -38,26 +37,33 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTgyMTU0OTYxOV5BMl5BanBnXkFtZTgwNDUyNTEwMTE@._V1_.jpg',
  'name': 'Cavedigger',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'pamkoslow'},
+            'author': {'@type': 'Person', 'name': 'dbanks-194-630420'},
             'dateCreated': '2014-01-18',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2516860/'},
-            'name': 'I loved this film.',
-            'reviewBody': 'Cavedigger is a beautifully crafted short '
-                          'documentary about a little known artist with a very '
-                          'unique art form. The production values are superb. '
-                          'Beautifully shot in New Mexico, it presents the '
-                          'artists milieu as well as a look at the private '
-                          'life and inner workings of what goes on in very '
-                          "special man's mind. It was completely absorbing "
-                          'throughout. I was so taken with the sensitivity '
-                          'Jeffrey Karoff showed to the artist during the time '
-                          'he followed him around. I loved the the scenic '
-                          'shots of New Mexico as well as the beautiful '
-                          'presentation of his art pieces. All in all, it was '
-                          'one of the most sensitive representation of an '
-                          'artist and his work.',
+            'name': 'Fascinating doc about a fascinating artist',
+            'reviewBody': 'Cavedigger takes you on the journey of Ra Paulette, '
+                          'a singular, driven man whose art is creating caves '
+                          'in the sandstone hills of New Mexico.\n'
+                          '\n'
+                          'The word "caves" doesn\'t really do justice to what '
+                          'Ra creates, they are truly works of art that need '
+                          'to be seen, just as Cavedigger needs to be seen. It '
+                          "tells the tale of one man's need to express himself "
+                          'no matter the odds. His artistic goals sometimes '
+                          'run counter to those of his patrons, and his need '
+                          'to support his family, and his own race against '
+                          "time and age, working in an art form that's "
+                          'incredibly physically demanding. \n'
+                          '\n'
+                          'The documentary does a terrific job showing how and '
+                          'why this man is determined never to stop. He says '
+                          'that there may be an end to his need to create, but '
+                          "after watching this mesmerizing film, that's hard "
+                          "to imagine. For him, it's a spiritual journey, and "
+                          'Cavedigger itself is a journey into both the art he '
+                          'creates and the driven soul behind the art.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

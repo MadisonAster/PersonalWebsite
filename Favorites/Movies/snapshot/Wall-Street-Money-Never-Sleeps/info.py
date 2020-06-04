@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Wall-Street-Money-Never-Sleeps',
  'EntryURL': 'https://www.imdb.com/title/tt1027718',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Wall-Street-Money-Never-Sleeps/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Wall-Street-Money-Never-Sleeps/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Wall-Street-Money-Never-Sleeps/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Wall-Street-Money-Never-Sleeps/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -56,49 +55,45 @@
              'market',
  'name': 'Wall Street: Money Never Sleeps',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'chrichtonsworld'},
-            'dateCreated': '2010-10-26',
+            'author': {'@type': 'Person', 'name': 'M_Exchange'},
+            'dateCreated': '2010-09-24',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1027718/'},
-            'name': 'Unbelievable mess!',
-            'reviewBody': 'The first twenty minutes were very promising. Then '
-                          "it got boring. Extremely boring. There just isn't "
-                          'any plot. Gekko (Michael Douglas) getting together '
-                          'with his daughter maybe was touching for a moment. '
-                          'But the girl crying all the time got on my nerves. '
-                          'She is supposed to be an adult. In stead she is '
-                          'acting like a little child. I like Shia, but what '
-                          'on earth was he representing. At least Charlie '
-                          'Sheen as Bud Fox had a clear objective. (Speaking '
-                          'of which, his cameo as the guy we know from Two and '
-                          'a half men is so in contrast of the character Bud '
-                          'Fox that completely diminishes the first movie. I '
-                          'could not believe that they would make a parody of '
-                          "his role). Shia's character was a guy who was "
-                          'ambitious but stuck with his green energy project. '
-                          'While any men or woman with common sense would bail '
-                          'on it. No, it is the right thing do. Oh, please. '
-                          "Now, this isn't Shia's fault. But I blame Oliver "
-                          'Stone for this, what happened to you. He used to be '
-                          'brilliant. This movie is not even a good depiction '
-                          'of the economic crisis the world is in right now, '
-                          'so it is not even enlightening. If there was one '
-                          'thing you could count on it was how meticulous '
-                          'Oliver Stone was when it comes to history and '
-                          'actual topics. In this film that is completely '
-                          'absent.\n'
+            'name': 'Great... Until The Third Act',
+            'reviewBody': 'I loved this movie until its final thirty minutes '
+                          'or so. During those thirty minutes you realize that '
+                          'Stone and his team of writers were searching '
+                          'desperately for a way to end the movie on a '
+                          'positive, hopeful note. We are left to plod along '
+                          'with them on this implausible track. Also, during '
+                          "the ending Gekko's daughter's character consistency "
+                          'is shot to hell and she appears as venal as the '
+                          'characters against whom she rails.\n'
                           '\n'
-                          "I can't recommend this at all. In the first place "
-                          'there should have never been a sequel to Wall '
-                          'Street. That tale was ended. Secondly how is it '
-                          'possible that a sequel directed by Oliver Stone '
-                          'ruins the the spirit of the original one in every '
-                          'way it can. This is an incredible waste of time and '
-                          "celluloid. Don't bother.",
+                          'Those moments are especially disappointing because '
+                          'I believed that this movie had the potential to be '
+                          "Stone's best film ever. Carey Mulligan and Michael "
+                          'Douglas in particular delivered great performances. '
+                          'Shia Lebeouf is "good enough." The writing is '
+                          'fairly unpredictable then everything seems to be '
+                          'tied into a nice bundle near the end. The problem '
+                          "was that Stone couldn't quite bring himself to put "
+                          'the bow on that bundle. He wanted to add a bit of '
+                          'glitter to it, which seemed gaudy and completely '
+                          'out of place.\n'
+                          '\n'
+                          'Bottom line: if this movie had ended on a somewhat '
+                          'dark note it would have reflected the reality of '
+                          'modern day Wall Street, and it would have made for '
+                          'a tighter, better movie.\n'
+                          '\n'
+                          "It's worth watching, and if you liked the first "
+                          "Wall Street it probably won't disappoint you. You "
+                          'might want to leave during its third act, though :)',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '3',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Emerging from a lengthy prison stint, Gordon '

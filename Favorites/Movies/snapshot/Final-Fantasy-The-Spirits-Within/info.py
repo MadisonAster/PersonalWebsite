@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Final-Fantasy-The-Spirits-Within',
  'EntryURL': 'https://www.imdb.com/title/tt0173840',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Final-Fantasy-The-Spirits-Within/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Final-Fantasy-The-Spirits-Within/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Final-Fantasy-The-Spirits-Within/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Final-Fantasy-The-Spirits-Within/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0000609/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 79276,
+                     'ratingCount': 79278,
                      'ratingValue': '6.4',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -64,60 +63,92 @@
              'fire,scientist',
  'name': 'Final Fantasy: The Spirits Within',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'a2zol'},
-            'dateCreated': '2005-05-11',
+            'author': {'@type': 'Person', 'name': 'elison777'},
+            'dateCreated': '2001-07-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0173840/'},
-            'name': 'Not bad at all....',
-            'reviewBody': 'Wow, I guess there is SOME hope for video game '
-                          'adaptations. While not a direct translation of the '
-                          'Final Fantasy video game franchise, it is written '
-                          'by the series creator, whose name I cannot '
-                          'remember. On top of that, his video game company '
-                          'branched off into a film company (Square Pictures) '
-                          "just to go and make this movie. At least one can't "
-                          'complain about the handling of the material.\n'
+            'name': "Most will be impressed, some disappointed, but it's worth "
+                    'the price of a ticket for all...',
+            'reviewBody': "I've waited for this one for quite a while, as have "
+                          "most of Square's fans. There is a lot riding on "
+                          'this film, including the future direction of CG in '
+                          'movies, the proud heritage of a name brand, and the '
+                          'chance to release a worthwhile movie during a '
+                          'string of bad summer flicks.  So, does Final '
+                          "Fantasy live up to it's hype?\n"
                           '\n'
-                          'But the big question here is: Do these guys know '
-                          'anything about film-making? Maybe. Maybe not. Truth '
-                          "be told, they don't need to. The beauty of this "
-                          'movie is that it does something new. It blends the '
-                          'world of video game technology and storytelling '
-                          'with the art of film-making. It cuts corners on '
-                          'film-making, but its uniqueness makes up for it. I '
-                          "will admit that I'm a gamer, so I appreciate what "
-                          'was attempted here. What we get out of this movie '
-                          'is an impressive display of what animators and '
-                          'video game technology can do together. I know there '
-                          'are other CGI movies out there, but, unless I am '
-                          'mistaken, they have all followed the over-the-top '
-                          'cartoony path. This is where Final Fantasy stands '
-                          'out. The animation is swelling with reality. From a '
-                          'technical standpoint, this is a gem, and a reason '
-                          'at the least to give it a rent.\n'
+                          'Mostly.\n'
                           '\n'
-                          'The storyline is subject to much scrutiny though. '
-                          "It's not for everybody. This IS a film of Japanese "
-                          'origin, so anime fans will be right at home with '
-                          'it. For the mainstream audience, however, that '
-                          'remains to be decided. Although the script was '
-                          'revised to suit North American localization (and '
-                          'done very well might I add), it still is very '
-                          'Japanese in style, albeit with a bit less '
-                          "surrealism. It's fast-paced and a bit abstract at "
-                          'times, but it is coherent.\n'
+                          'First, the bad.  No, it has nothing to do with the '
+                          'games other than name, but then the majority of the '
+                          'storylines of the games had nothing to do with each '
+                          'other, either.  The plot is not necessarily '
+                          'original, with marauding aliens nearly vanquishing '
+                          'humanity while a desperate band of outsiders hold '
+                          'the key to winning (tired sci-fi, to be sure) and '
+                          "even the animation has it's faults, mostly with the "
+                          'mouth movements and a few emotions lacking, as the '
+                          'eyes and lips, and even hair had detail but '
+                          "no-one's cheeks or throats moved, giving the "
+                          'characters a bit of a puppetry feel at times.  The '
+                          'movement of humans in CG is still not quite fluid, '
+                          'but getting much better. Also, the movie slows down '
+                          'considerably during the last twenty or thirty '
+                          'minutes, which is perhaps necessary for the plot, '
+                          'but the change in pace was notable, even with the '
+                          "awe that the movie's end was aspiring too.\n"
                           '\n'
-                          'In the end, I would say that one should rent this '
-                          'just to see the technological achievement at the '
-                          "least. It's safe to say that all would agree with "
-                          'that point. Depending on the person, you may get '
-                          "into the storyline as well. Either way, you'll walk "
-                          'away with at least part of you satisfied.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
+                          'But enough nit-picking.\n'
+                          '\n'
+                          'The Good.  The imagery in this movie is startling, '
+                          "imaginative, complex, even awesome at times.  It's "
+                          'amazing that while the machines, vehicles, and '
+                          'mechanics in the movie are so realistic and '
+                          'detailed, so too are the organic forms such as the '
+                          'alien presence (sometimes seemingly more fluidly '
+                          'animated than the humans!) and the incredible '
+                          'landscapes.  It is obvious how much imagination '
+                          'went in to so many aspects of this movie.  The '
+                          'soundtrack, while not exceptional, is very '
+                          'complimentary and captures the dark feel with the '
+                          'fast action and triumphant climaxes.  The '
+                          'characters were distinct, like-able, and voiced '
+                          "very well (even if the digital mouths don't quite "
+                          'match up most of the time).  The emotional scenes, '
+                          'while certainly not perfect and a bit awkward, '
+                          'should be given grand credit for achieving the '
+                          "level they do convey.  If you let yourself go, it's "
+                          'not impossible to be entranced by all that this '
+                          'movie actually manages to pull off.  If nothing '
+                          'else, then the effects alone are worth seeing, if '
+                          'the somewhat hokey spiritual elements of the plot '
+                          'turn you off.  (If you consider the Force to be '
+                          "hokey, don't bother.)\n"
+                          '\n'
+                          'The Surprising.  Well, I was a bit put off by the '
+                          'simplistic way the characters would look at each '
+                          'situation and then spell it out to the audience, '
+                          'though there is more to the plot than casual sci-fi '
+                          'fare. Because of this, the dialogue was a bit goofy '
+                          'at times, but at least it usually fit the '
+                          "characters.  But every good thing you've heard "
+                          'about the quality of the CG work in this movie is '
+                          'true- it really is a site to behold, if nothing '
+                          'else than for the effects.  As I mentioned earlier, '
+                          'if you consider how much this movie is trying to '
+                          "do, it's amazing that it pulled off everything "
+                          'nearly as well as it does.\n'
+                          '\n'
+                          'So, I think that most will be pleased, some will '
+                          'critique it heavily on the negatives and not be as '
+                          'impressed, but the bottom line is that it is '
+                          'definitely worth seeing.  Quality work in most '
+                          'areas, even story and screenplay in my opinion '
+                          "(though that's certainly the most debatable point.) "
+                          'I left the theater without being disappointed, '
+                          'something I cannot say for the majority of cinema '
+                          'fare.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Theatrical Trailer from Columbia Tristar',
              'embedUrl': '/video/imdb/vi715587865',

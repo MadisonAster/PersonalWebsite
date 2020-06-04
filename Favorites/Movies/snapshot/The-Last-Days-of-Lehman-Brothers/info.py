@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Last-Days-of-Lehman-Brothers',
  'EntryURL': 'https://www.imdb.com/title/tt1495980',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Last-Days-of-Lehman-Brothers/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Last-Days-of-Lehman-Brothers/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Last-Days-of-Lehman-Brothers/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Last-Days-of-Lehman-Brothers/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -42,92 +41,51 @@
  'keywords': 'investment bank,ceo,financial crisis,secretary of the treasury',
  'name': 'The Last Days of Lehman Brothers',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'sol-kay'},
-            'dateCreated': '2010-06-12',
+            'author': {'@type': 'Person', 'name': 'cjevansaicp'},
+            'dateCreated': '2010-09-20',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1495980/'},
-            'name': 'This may well mean the end of civilization as we know it!',
-            'reviewBody': '***SPOILERS*** Heart pounding but true story of the '
-                          'collapses of one of the nations major banking '
-                          "intuitions Lehman Brothers. A bank that's been in "
-                          'business since before the American Civil War.\n'
+            'name': 'Right story, wrong audience',
+            'reviewBody': 'This was difficult to watch. It was, I believe, '
+                          'intended for outsiders. Unfortunately, only '
+                          'insiders would know the players without a score '
+                          'card. Not many casual viewers would have known that '
+                          '"Tim" was Tim Geithner; "Hank" was Hank Paulson, '
+                          'etc. Only Dick Fuld was identified and had I not '
+                          'read something about the period I would not have '
+                          'known who was being portrayed.\n'
                           '\n'
-                          "It's Friday afternoon September 12, 2008 and "
-                          "Lehman's Bros. CEO the by now on the verge of an "
-                          'emotional breakdown Dick Fuld, Corey Johnson, has '
-                          'until the end of this long and nerve wracking '
-                          'weekend to save his beloved company. Thats before '
-                          'it goes bust at the opening of trading on Monday, '
-                          'D-Day, September 15, 2008. With the biggest brains '
-                          'on Wall Street assembled in downtown Manhattan to '
-                          'save Lehman Bros. US Treasury Secretary Henry '
-                          '"Hank" Paulsen, James Cromwell, is to see that '
-                          'everything is done to keep Lehman Bros from going '
-                          'under the waves of red ink and toxic assets that it '
-                          'had accumulated over the last five years. That '
-                          'short of declaring a national emergency by the '
-                          'Presidet that would suspend trading that following '
-                          'and fateful Monday morning.\n'
+                          'It was also a great story told very poorly. There '
+                          'was a brief voiced-over introduction by an '
+                          'irrelevant character but, nothing nearly in depth '
+                          'enough to initiate the casual observer as to the '
+                          'historic nature of the Lehman Brothers bankruptcy. '
+                          'In fact, we enter the story well into the crisis. '
+                          'Again, insiders would not have cared but, the '
+                          'casual observer, the people who need to watch this, '
+                          'would not have understood the references to Bear '
+                          'Sterns, Fannie Mae or Freddie Mac without some '
+                          'introduction or "ramping up" to tie the threads '
+                          'together and put the event into perspective. As '
+                          'such, without the before (Bear Sterns, Fannie and '
+                          'Freddie) and the after (AIG, Wachovia, Morgan '
+                          'Stanley), the story is about one rich dude with a '
+                          'bad attitude trying to get a number of "suits" to '
+                          'help him out of a jam. In actuality, it was a '
+                          'serious event the full implications of which we '
+                          'will not know for many years. The fact that 47 '
+                          'percent of Americans think the Republicans would do '
+                          'a better job of running the economy indicates how '
+                          'little about the causes of this crisis main street '
+                          'really understands; they are ready to give the keys '
+                          'to the car back to the guys who ruined it in the '
+                          'first place.\n'
                           '\n'
-                          "It's at that meeting that the very unstable and "
-                          "outspoken Fuld wasn't allowed to attend, in order "
-                          'not to make things even worse then they already '
-                          "are, that's it's decided by Secretary Paulsen to "
-                          'bail out Lehman Bros. with private, from the '
-                          'bankers present, not government or tax payer '
-                          'money.\n'
-                          '\n'
-                          'As the hours tic away with Monday September 15, '
-                          '2008 about to dawn a ray of hope comes into the '
-                          'boardroom with British bank Barclay willing to buy '
-                          'up Lehman Bros at bargain basement prices. That '
-                          'would keep it from filing bankruptcy the following '
-                          "Monday with it's stock expected to plummet to "
-                          'practically zero per share! With everything going '
-                          "good for both Lehman Bros. and it's by now almost "
-                          'straight jacketed CEO Dick Fuld the deal falls '
-                          'through with the British Government refusing to '
-                          'back the Braclay/Lehman deal thus killing it: As '
-                          "well as Lehman Bros who's very existence depended "
-                          'on it!\n'
-                          '\n'
-                          'The Lehman Bros. collapse would set off a tidal '
-                          'wave of bankruptcies all throughout the financial '
-                          'world in the coming days weeks and months after its '
-                          "demise. This would not only put 25,000 of Lehman's "
-                          'employees out of work but evaporated its some 650 '
-                          'billion dollars, more then the GDP of many '
-                          'industrialized countries, in stock and real estate '
-                          'assets! The stock market together with Lehman Bros '
-                          'was the first to feel the effects of the Lehman '
-                          'Bros. collapse by it dropping over 500 points on '
-                          'September 15, 2008 the date that Lehman Bros. '
-                          'announced it was failing for bankruptcy. In the '
-                          'coming months millions of people in the financial '
-                          'world as well as in those companies dependent on '
-                          'Lehman Bros. loan and borrowing policies lost their '
-                          'jobs and business with the market dropping an '
-                          'astounding -53.8%, from 14164 to 6547, in just '
-                          'under 18 months! The worst Wall Street stock market '
-                          'drop in such a short period of time since the '
-                          "darkest days of the 1930's Great Depression!\n"
-                          '\n'
-                          'The sad thing about this major financial disaster '
-                          'that almost destroyed the banking institutions of '
-                          'the entire world is that the same John Paulsen who '
-                          'refused to bail out Lehman Bros. with government '
-                          'money and let It twist on the vine later, in less '
-                          'then two weeks, came up with this plan to save the '
-                          'US economy with almost a trillion dollars in what '
-                          "was mostly money that the government didn't have! "
-                          "In the end, as of now June 2010, Paulsen's and the "
-                          'US National Reserve policies did save and stabilize '
-                          'the US and the world economies but they came a bit '
-                          'too late, some two weeks too late, to save Lehman '
-                          'Bos!',
+                          'All in all --- important story directed at the '
+                          'wrong audience.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '2',
                              'worstRating': '1'}},
  'url': '/title/tt1495980/'}

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Team-America-World-Police',
  'EntryURL': 'https://www.imdb.com/title/tt0372588',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Team-America-World-Police/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Team-America-World-Police/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Team-America-World-Police/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Team-America-World-Police/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -48,25 +47,45 @@
  'keywords': 'arab stereotype,strong language,swearing,terrorist,puppetry',
  'name': 'Team America: World Police',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'docesfren-imdb'},
-            'dateCreated': '2005-04-08',
+            'author': {'@type': 'Person', 'name': 'FilmFan777'},
+            'dateCreated': '2004-10-09',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0372588/'},
-            'name': 'Fightin against the world stupidity',
-            'reviewBody': 'Yesterday I watched this amusing movie, and besides '
-                          'laughing, it made me think. As European, I wanted '
-                          "to argue in favor of TA that I don't consider that "
-                          'this made in particular against any country, if not '
-                          'against the stupidity that we are tolerating in our '
-                          'lives: manipulation informative, false rumors tried '
-                          'as news and ill wills among people and countries '
-                          'that are a total fallacy. And the fight of Parker '
-                          'and Stone, and the rest of the film team is '
-                          'positive: to remove our asses of the armchair while '
-                          'we laugh and also realize us that this it is the '
-                          'same and dear world for all of us. I believe that '
-                          'it deserves to view it with a wide open mind.'},
+            'name': "Irreverently Hysterical. 'No One' is safe!",
+            'reviewBody': "Just came back from a pre-screening and I 'Loved "
+                          "It' No, it's not for kids in the least, total adult "
+                          'humor. Helps a bit if your politically savvy and '
+                          'know a bit about the Hollywood political types, yet '
+                          'either way, if you like South Park type of humor, '
+                          'your in for a load full of laughs.\n'
+                          '\n'
+                          'They creatively took most every corny film shot you '
+                          'could think of, plenty of down right nasty '
+                          'language, marionettes getting shot and blown up in '
+                          'some pretty disgusting ways, parody songs that '
+                          'would make anyone blush, pop shots at world '
+                          'leaders, actors (big time), and anyone else you '
+                          'could think of and hit a home run with this as far '
+                          "as I'm concerned.\n"
+                          '\n'
+                          'I wont say anymore except that these guys did a '
+                          "great job with this idea and I think it's going to "
+                          'make a mint! If you take it all in humorous '
+                          'perspective and not personally, (have some fun with '
+                          'it), this movie can take the laugh breath right out '
+                          'of you. As it did the whole audience just within '
+                          'the first 15 minutes without even a chance for a '
+                          'second breath.\n'
+                          '\n'
+                          'Crude, rude, shrewd, corny, sexual, homophobic, '
+                          'nasty and irreverent will only begin to '
+                          'describe..."Team America World Police" I hope you '
+                          'enjoy it.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '8',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Paramount Home '
                             'Entertainment',

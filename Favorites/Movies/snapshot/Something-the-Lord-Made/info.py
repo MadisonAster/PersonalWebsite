@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Something-the-Lord-Made',
  'EntryURL': 'https://www.imdb.com/title/tt0386792',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Something-the-Lord-Made/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Something-the-Lord-Made/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Something-the-Lord-Made/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Something-the-Lord-Made/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -45,32 +44,29 @@
  'keywords': 'heart surgery,blue baby syndrome,surgery,baby,heart',
  'name': 'Something the Lord Made',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'answar7979'},
-            'dateCreated': '2004-06-01',
+            'author': {'@type': 'Person', 'name': 'mdiggy'},
+            'dateCreated': '2004-06-05',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0386792/'},
-            'name': 'So good that it leaves you wanting more',
-            'reviewBody': 'One of the earmarks of a great true story on film '
-                          "is that, when it's over, you find yourself wishing "
-                          'it had been longer and wanting to know more about '
-                          'the subject. This is definitely the case with '
-                          '"Something the Lord Made." I can\'t wait to do a '
-                          'little reading up on this very intriguing story! '
-                          'Alan Rickman as Alfred Blalock is excellent, as he '
-                          'always is, but the real pleasure is in watching Mos '
-                          'Def as Vivien Thomas. Through his lovely, subtly '
-                          'nuanced performance, we are able to truly '
-                          'appreciate this incredibly gifted and complex man. '
-                          'The writers did an excellent job of making the '
-                          "viewer aware of the racial climate in Viven Thomas' "
-                          'life; note the early scene in which Vivien and a '
-                          'friend are walking and talking, and each time some '
-                          'white people approach them on the sidewalk, they '
-                          'step aside and yield right of way without '
-                          'hesitation. And yet, there is no heavy-handedness '
-                          'or preachy air to these scenes. The racial '
-                          'injustices that Vivien Thomas endured are obvious, '
-                          'but the viewer is not clubbed over the head with '
-                          'them.'},
+            'name': 'film as is should be',
+            'reviewBody': 'As a fan of Mos Def, as soon as i saw the preview '
+                          'for this movie i knew it would be quality stuff. '
+                          'The tempo and feeling of the movie were perfect, no '
+                          'over the top acting or unnecessary scenes. As '
+                          'someone stated earlier, the racial issues of the '
+                          'time were touched on perfectly but not focused on. '
+                          'Mos is a true renaissance man...he makes good '
+                          'music, plays bass guitar, does Broadway, as well as '
+                          'movies. He is slowly approaching superstar status, '
+                          'but is not chasing it as many do. I think this '
+                          'performance will certainly bring this talented '
+                          'performer the recognition he deserves. The sky is '
+                          'the limit for this guy.\n'
+                          '\n'
+                          'As an African-American screenwriter, it dismays me '
+                          'to always see "films" like soul plane and the like '
+                          'represent black film today. There are so many '
+                          'stories to be told, history and themes to be '
+                          'explored. This film made me proud.'},
  'url': '/title/tt0386792/'}

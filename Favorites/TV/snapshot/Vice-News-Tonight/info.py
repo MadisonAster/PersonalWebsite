@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vice-News-Tonight',
  'EntryURL': 'https://www.imdb.com/title/tt6329790',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vice-News-Tonight/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vice-News-Tonight/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vice-News-Tonight/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vice-News-Tonight/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -36,34 +35,17 @@
  'keywords': 'show',
  'name': 'Vice News Tonight',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'DesiBaba'},
-            'dateCreated': '2019-07-04',
+            'author': {'@type': 'Person', 'name': 'radioconductor'},
+            'dateCreated': '2019-08-01',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt6329790/'},
-            'name': 'Excellent source of daily news stories from around the '
-                    'globe.',
-            'reviewBody': 'I love everything Vice, I almost exclusively '
-                          'consume my TV news from this show. I augment that '
-                          'with headlines from online newspapers. I love the '
-                          'global stories and the unique perspective this show '
-                          'brings. It has a stellar cast of correspondents -- '
-                          'I particularly enjoy news stories from Arielle, '
-                          'Ben, Dexter, Elle, Evan, Gianna, Hind Isobel, '
-                          'Thomas, and Krishna. But most of all I like the '
-                          'no-nonsense interviews by Michael Moynihan, love '
-                          'how he does not pander no matter what. I hope he '
-                          'gets his own show down the line! The only thing I '
-                          'dislike are the segments about musicians talking '
-                          'about their songs/music...I cannot stand these, '
-                          'most annoying/narcissistic group of people (next to '
-                          "politicians) I've ever seen who just love to talk "
-                          'about themselves. I hope that segment is killed off '
-                          'over time, may be that can be part of another show? '
-                          'Thank you for keeping this series going HBO and '
-                          'keep up the excellent work team!',
+            'name': 'VICE News',
+            'reviewBody': 'Iowa residents (right side of history-ers)* Check '
+                          'out my Instagram post about what the Dixie line '
+                          'actually is/was....',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'url': '/title/tt6329790/'}

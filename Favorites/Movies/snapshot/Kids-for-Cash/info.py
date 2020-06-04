@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kids-for-Cash',
  'EntryURL': 'https://www.imdb.com/title/tt2925642',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kids-for-Cash/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kids-for-Cash/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kids-for-Cash/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kids-for-Cash/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -43,30 +42,54 @@
  'keywords': 'scandal,home movie footage,archive footage,suicide,hanging judge',
  'name': 'Kids for Cash',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'michaelradny'},
-            'dateCreated': '2015-08-11',
+            'author': {'@type': 'Person', 'name': 'Tss5078'},
+            'dateCreated': '2016-06-30',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2925642/'},
-            'name': 'Sadists of Disturbing',
-            'reviewBody': 'Kids for Cash is a documentary that shows the '
-                          'horrific miss sentencing of several young American '
-                          'kids as a ploy for the judges receiving cash in '
-                          'hand by sending these kids to private detention '
-                          "centres. Throughout the documentary you can't help "
-                          'but feel for these kids who have had upwards of '
-                          'seven years of their life thrown away due to greed '
-                          'and selfishness of the authority figures. Though '
-                          'the documentary travels on both sides of the fence '
-                          '(between the judges fault and not the judges fault) '
-                          'the bulk of the film views the head judge as this '
-                          'overly conservative man who has only his own '
-                          'interests in hand. \n'
-                          '\n'
-                          'One great documentary and never gets boring. Though '
-                          'the documentary will polarise views of the '
-                          'situation, anyone who is interested in this case '
-                          'will be glad they had watched this gem.',
+            'name': 'The Ultimate Movie Review! - http://tss5078.blogspot.com '
+                    '- @tss5078',
+            'reviewBody': 'It is one of the most disturbing stories of just '
+                          'how greedy and corrupt people can truly be. In '
+                          '2000, Luzerne County Pennsylvania needed a new '
+                          "Juvenile detention facility, but couldn't afford "
+                          'it, so they privatized it. Leading the group that '
+                          'won the contract, were two of their own Juvenile '
+                          'court judges. That alone was a grey area, but not '
+                          'the issue. Soon, the judges learned that the more '
+                          'occupants the jail had, the more money the facility '
+                          'would receive from the state. So, despite the law, '
+                          'which requires juvenile offenders to be sentenced '
+                          'to the least restrictive environment possible, kids '
+                          'as young as thirteen, with no previous record, were '
+                          'being sent to JV for very minor offenses. As a '
+                          'result, the facility was receiving millions from '
+                          'the states, which the judges were embezzling. As '
+                          'the scandal unfolded, this documentary was filmed '
+                          'and shockingly, both judges agreed to be a part of '
+                          'it, claiming they were always tough on juvenile '
+                          'crime and had done nothing wrong. Judges never '
+                          'comment on cases and defendants are always advised '
+                          'not to talk to the media, but for some reason these '
+                          'judges did, and the way they justify their actions '
+                          'is truly sickening. There is even one scene where a '
+                          'mother confronts one of the judges outside of court '
+                          'house, holding a picture. She says to him, this is '
+                          'my son, he was fifteen when you put him in jail for '
+                          'drinking some beers and fighting with other teens. '
+                          'He served three years and within six months of '
+                          "being released he killed himself, and that's your "
+                          'fault. The judge could care less, it was truly '
+                          'amazing. The documentary is an eye opener and it '
+                          'follows the scandal through the family and '
+                          'offenders stories, through the investigation, right '
+                          'up through the trial and outcome, it really '
+                          'something to see. The whole thing really makes me '
+                          'wonder, if judges can be swayed that easily, just '
+                          'how corrupt is this country and how many truly '
+                          'innocent people are there sitting in jail or on a '
+                          'list somewhere, all because someone was paid to put '
+                          'them there?',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '8',

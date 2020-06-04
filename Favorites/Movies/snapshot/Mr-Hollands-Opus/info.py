@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Mr-Hollands-Opus',
  'EntryURL': 'https://www.imdb.com/title/tt0113862',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Mr-Hollands-Opus/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Mr-Hollands-Opus/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Mr-Hollands-Opus/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Mr-Hollands-Opus/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0001156/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 34656,
+                     'ratingCount': 34658,
                      'ratingValue': '7.3',
                      'worstRating': '1.0'},
  'contentRating': 'PG',
@@ -43,61 +42,73 @@
  'keywords': 'teaching,high school,1990s,deafness,high school teacher',
  'name': "Mr. Holland's Opus",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ccthemovieman-1'},
-            'dateCreated': '2006-03-09',
+            'author': {'@type': 'Person', 'name': 'drconcerts'},
+            'dateCreated': '2000-12-24',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0113862/'},
-            'name': 'Genuinely Nice Bio Film That Hits Mostly The Right Notes',
-            'reviewBody': 'This is simply a nice, dramatic story of a music '
-                          "teacher's life. Richard Dreyfuss plays the teacher, "
-                          '"Glenn Holland." It spans 30 years of his career '
-                          'with a tear-jerking ending. Endearing characters '
-                          'make it a memorable film.\n'
+            'name': 'Lighten Up, Folks.......',
+            'reviewBody': "It's a MOVIE!  I'm reading comments so vastly "
+                          'polarized to one extreme or another so as not to be '
+                          'believed.\n'
                           '\n'
-                          'The focus of the story is Dreyfuss and three '
-                          'students he gives special time to over the years. A '
-                          'big subplot involves the teacher and his '
-                          'hearing-impaired son. \n'
+                          "Okay, I am a musician.  I've been one on a "
+                          'professional level for over ten years, both as a '
+                          'writer and performer.  And I LOVED this movie '
+                          "(apologies to all those pretentious 'serious' "
+                          'musicians out there).  I enjoyed my theatrical '
+                          'viewing and I have watched my DVD several times.\n'
                           '\n'
-                          'The students are winningly played by Alicia Witt, '
-                          'who plays the sweet girl who goes on to become '
-                          'governor; Terrence Howard, a really nice kid who '
-                          'gets killed in Viet Nam, and Jean Louisa Kelly, the '
-                          'last and most memorable student perhaps, an '
-                          'extremely talented singer who goes on to a career '
-                          'in New York City.\n'
+                          "Is MR. HOLLAND'S OPUS musically accurate?  No, of "
+                          'course not, no more so than STAR TREK paying '
+                          'attention to factual science and the laws of '
+                          'physics. But for the most part, nobody other than '
+                          'most of us ego-driven, high horse bound musician '
+                          'types will ever know it.\n'
                           '\n'
-                          'Interwoven are some personal stories, particularly '
-                          "with Kelly's character, and with fellow teachers "
-                          '(Jay Thomas playing the most likable) and school '
-                          'administrators (Olympia Dukakis and William H. '
-                          'Macy). The most personal, of course, involves his '
-                          'hot-cold-hot relationship with his disabled son '
-                          '(played by three different actors as time passes.) '
-                          "Glenne Headly, meanwhile, plays Dreyfuss' wife.\n"
+                          'Designed to have a broad appeal outside the '
+                          'aforementioned musically inclined crowd?  Yes, but '
+                          'then so is nearly every movie to come out of '
+                          'Hollywood.  It has to be palatable to a certain '
+                          'degree, and I believe that the much maligned "Play '
+                          'the sunset" scene is far more entertaining than '
+                          'having Mr. Holland give us lengthy exposition on '
+                          'the proper articulation and technique that goes '
+                          'into playing a given instrument.\n'
                           '\n'
-                          'As you can see by this cast, this is a well-acted '
-                          'movie with the only flaw being the screenwriters '
-                          'unable, as Hollywood seems to be, to control their '
-                          'political bias by giving unwarranted cheap shots to '
-                          'Republican politicians who are pictured as being '
-                          'against the arts; atheist John Lennon almost '
-                          'deified in this film as one of the "heroes" of the '
-                          '20th century, plus a few more digs and plugs here '
-                          'and there, all with the normal Liberal bias.\n'
+                          'And if I hear one more poster scream about Mr. '
+                          "Holland's 'opus' only being ten minutes long (the "
+                          '"It took him a lifetime to write THIS?" mantra) I '
+                          "think I'll scream.  Did it ever occur to anybody "
+                          'that what we heard was only a small part of a much '
+                          'larger work?  Most classical and semi-classical '
+                          "pieces occur in (get ready) MOVEMENTS!  It's "
+                          'entirely possible that we only heard the prologue '
+                          'to a much larger piece.  Think outside the box, '
+                          'people.\n'
                           '\n'
-                          "Propaganda-aside, it's a genuinely nice film about "
-                          'people who succeed through dedication to their '
-                          'professions. The movie seemed to appeal to a wide '
-                          "audience. It's very manipulative, but it works. "
-                          "It's also a plug, if you will, for deaf children "
-                          'and the problems they face and the difficulties '
-                          'parents face in raising a kid with that disability.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
+                          'As for the quality of the piece itself, I found it '
+                          'to be acceptable, if not the most dynamic piece of '
+                          "work I've ever heard.  But seeing as how we had "
+                          'been hearing snippets of this piece THROUGHOUT THE '
+                          "MOVIE, I can't say that I was so overwhelmingly let "
+                          "down as some of our more 'educated and refined' "
+                          'musician types that have posted here.\n'
+                          '\n'
+                          'Sure, there were some flaws.  Ms. Headly is not the '
+                          'greatest actress in the world, and beside Dreyfuss '
+                          "she's downright embarrassing.  William Macy's "
+                          'character is so cliched that it warrants no further '
+                          'discussion.  The whole subplot with Rowena and her '
+                          'romantic interest in Mr. Holland ran about ten '
+                          'minutes too long.  And the ending bit where the '
+                          'arts funding gets cut seemed a little too '
+                          'political.\n'
+                          '\n'
+                          "But overall, a great film, surely one of Dreyfuss' "
+                          'best, and one of my favorite films.\n'
+                          '\n'
+                          "I'm a musician.  And I liked it.  So sue me...."},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Hollywood Pictures',
              'embedUrl': '/video/imdb/vi966459673',

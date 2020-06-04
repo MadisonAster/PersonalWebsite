@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Late-Show-with-Stephen-Colbert',
  'EntryURL': 'https://www.imdb.com/title/tt3697842',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Late-Show-with-Stephen-Colbert/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Late-Show-with-Stephen-Colbert/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Late-Show-with-Stephen-Colbert/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Late-Show-with-Stephen-Colbert/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -36,39 +35,19 @@
              'trump media',
  'name': 'The Late Show with Stephen Colbert',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'dvd123'},
-            'dateCreated': '2015-09-09',
+            'author': {'@type': 'Person', 'name': 'shawcarvetht'},
+            'dateCreated': '2019-01-02',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3697842/'},
-            'name': 'I Miss You, Stephen',
-            'reviewBody': "I've never had a poster of anyone on my wall. I "
-                          'went to a couple concerts in high school, like U2 '
-                          'and the Ramones, and had a shirt or two, but never '
-                          "wore them. I've always viewed that kind of "
-                          'celebrity worship as being kind of infantile. So '
-                          'when I do fall head over heels in love with a '
-                          "celebrity, it's kind of a big deal. And there's no "
-                          'celebrity, past or present, that I cherished as '
-                          'much as I cherished you.\n'
-                          '\n'
-                          "There's a guy on a late night talk show that looks "
-                          'like you, sounds like you and even has your name, '
-                          "but this doppelganger doesn't have your soul. This "
-                          'grinning, unconfrontational Stepford Wife is a '
-                          "hollow shell of you. You were punk rock, this guy's "
-                          'Disneyland. You changed the world. He sells some '
-                          'hummus.\n'
-                          '\n'
-                          "It's unbelievably difficult to imagine a life "
-                          'without you. I know that nothing lasts forever, so '
-                          'our time together was always going to come to an '
-                          'end, but it was a day I never wanted to see- and a '
-                          'day that came far too soon.\n'
-                          '\n'
-                          'I love you, I miss you.',
+            'name': 'Good snippets on YouTube.',
+            'reviewBody': 'I watch the 5-10 mins of monologues that get posted '
+                          'to YouTube regularly and love many of them. Always '
+                          'looking forward to the next one. Stephen is brill. '
+                          "I don't engage with the rest of the show - the "
+                          'music and interviews. Good stuff',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '5',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'url': '/title/tt3697842/'}

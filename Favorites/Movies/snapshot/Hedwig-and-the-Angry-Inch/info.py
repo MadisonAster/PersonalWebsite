@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hedwig-and-the-Angry-Inch',
  'EntryURL': 'https://www.imdb.com/title/tt0248845',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hedwig-and-the-Angry-Inch/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hedwig-and-the-Angry-Inch/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hedwig-and-the-Angry-Inch/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hedwig-and-the-Angry-Inch/thumb.jpg',
  'actor': [{'@type': 'Person',

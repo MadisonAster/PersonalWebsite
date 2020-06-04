@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kyle-Kinane-I-Liked-His-Old-Stuff-Better',
  'EntryURL': 'https://www.imdb.com/title/tt3973036',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kyle-Kinane-I-Liked-His-Old-Stuff-Better/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kyle-Kinane-I-Liked-His-Old-Stuff-Better/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kyle-Kinane-I-Liked-His-Old-Stuff-Better/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kyle-Kinane-I-Liked-His-Old-Stuff-Better/thumb.jpg',
  'actor': {'@type': 'Person', 'name': 'Kyle Kinane', 'url': '/name/nm2780278/'},

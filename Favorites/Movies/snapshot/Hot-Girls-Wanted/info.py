@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hot-Girls-Wanted',
  'EntryURL': 'https://www.imdb.com/title/tt4382552',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hot-Girls-Wanted/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hot-Girls-Wanted/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hot-Girls-Wanted/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hot-Girls-Wanted/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm6844809/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 15061,
+                     'ratingCount': 15064,
                      'ratingValue': '6.1',
                      'worstRating': '1.0'},
  'creator': [{'@type': 'Person',
@@ -46,32 +45,80 @@
              'sexuality,independent woman',
  'name': 'Hot Girls Wanted',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'marius-kimmel'},
-            'dateCreated': '2015-06-27',
+            'author': {'@type': 'Person', 'name': 'MartinHafer'},
+            'dateCreated': '2015-06-05',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4382552/'},
-            'name': 'Genre: 7/10   -    Total: 6/10',
-            'reviewBody': 'If you are interested in who the girls are you skip '
-                          'threw tumblr, youporn, redtube and so on this could '
-                          'be interesting to watch. The documentary tells you '
-                          'a bit about the young girls that do porn and why '
-                          'they do it. I was not really shocked about the '
-                          'girls and their life, that was pretty much what i '
-                          'expected. Sometimes i felt sorry for the teens, '
-                          'sometimes not so much. \n'
+            'name': 'Perhaps really, really dumb instead of being exploited in '
+                    'many cases.',
+            'reviewBody': 'When I saw that a new documentary just came out and '
+                          'it was gaining a lot of attention in social media, '
+                          'I assumed I knew what the film would be--about '
+                          'countless women being exploited by evil pimp-like '
+                          'guys. Well, the truth for the women in this picture '
+                          'was quite a bit different. Sad, but very '
+                          'different.\n'
                           '\n'
-                          'Summary:\n'
+                          'A camera crew somehow was allowed into a home owned '
+                          'by a young entrepreneur named Riley. Riley recruits '
+                          "girls 18-25 from Craigslist. However, he doesn't "
+                          'trick them in any way--he offers them airplane '
+                          'tickets to his home in Miami and they move there '
+                          'specifically to make porn. The home is filled with '
+                          "a half dozen or so aspiring 'actresses' and the "
+                          'crew interviews them and follows them on some of '
+                          'their jobs. They are there to have sex on camera '
+                          'and supposedly live an exciting life in the sun.\n'
                           '\n'
-                          'You watch porn and want to know a bit more about '
-                          'the work behind the cam? Feel free to watch "hot '
-                          'girls wanted".\n'
+                          'The part about all this that surprised me is that '
+                          'the film does NOT show strung-out drug addicts or '
+                          'illegal aliens forced into sex slavery. Instead, '
+                          'the girls seem to come from rather normal '
+                          'backgrounds and they want to be porn stars for fast '
+                          'money--bored girls with no thoughts about tomorrow. '
+                          'And, while I am sure some will find my words harsh, '
+                          'they seem incredibly vacuous and selfish. AIDS, '
+                          'pregnancy and the realities of the industry seemed '
+                          'irrelevant to these stars. They are simply out to '
+                          "have a good time and that's all that matters to "
+                          'them...end of story. This brings us to a major '
+                          "weakness in the film. You really don't care about "
+                          'these ladies because they all seemed to know '
+                          'exactly what they were getting into and they '
+                          "weren't very nice folks. They seem completely "
+                          'amoral and self-absorbed, so it really was hard to '
+                          'find much in the way of meaning to all this. As a '
+                          'father of two daughters, I was horrified by these '
+                          'women and their attitudes...but felt at least in '
+                          'these stories, they were involved with their eyes '
+                          'wide open...at least most of the time. The '
+                          'proliferation of rape and violence porn came as a '
+                          'surprise to me and some of them, as their fun lives '
+                          '(as they put it) stopped being fun when they were '
+                          'deliberately hurt or completely degraded in a few '
+                          'of the films. This part was a bit shocking as well '
+                          'as quite sad--and this was one case where I did '
+                          'feel for a couple of the girls, as they were raped '
+                          "or nearly raped to satisfy some guys' bizarre "
+                          'fantasies.\n'
                           '\n'
-                          'You are looking for some good, touching '
-                          'documentary? Skip it.',
+                          'Overall, this film is mildly interesting but overly '
+                          'long. I really think with some editing, it would '
+                          'have been a more impactful film. As it is, I just '
+                          "found myself a bit bored with some of the girls' "
+                          'stories, though I was at least happy to see that a '
+                          'few of them chose to leave this self-imposed life. '
+                          'Technically, the camera-work was okay and the '
+                          'viewing experience was much like watching a reality '
+                          'TV show as opposed to a typical documentary. '
+                          "Interestingly, the film's executive producer is "
+                          "Rashida Jones--yes, Quincy Jones' daughter and who "
+                          'played Ann on Parks and Recreation. You can watch '
+                          "it streaming on Netflix if you'd like.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Official Trailer',

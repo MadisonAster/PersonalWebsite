@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Limitless',
  'EntryURL': 'https://www.imdb.com/title/tt1219289',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Limitless/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Limitless/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Limitless/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Limitless/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0000134/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 514996,
+                     'ratingCount': 515003,
                      'ratingValue': '7.4',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -50,108 +49,73 @@
              'learning,intelligence',
  'name': 'Limitless',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'kunalkhandwala'},
-            'dateCreated': '2011-04-01',
+            'author': {'@type': 'Person', 'name': 'gradyharp'},
+            'dateCreated': '2011-07-21',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1219289/'},
-            'name': 'Witty, uncontrollable and imaginative',
-            'reviewBody': 'An aspiring writer struggling with his love life, '
-                          'an apartment in shambles, a wasteful lifestyle and '
-                          "a writer's block, is left hopeless after being "
-                          'dumped for his ineptitude. He then stumbles upon a '
-                          'past acquaintance who introduces him to an '
-                          'experimental drug that could change his life '
-                          'forever. The intriguing proposition of the story '
-                          'centers around this pharmaceutical experiment that '
-                          'optimizes brain usage to 100% from the meager 20% '
-                          'that we normally use. The problem, that we soon '
-                          'discover, is that supply is limited..... and '
-                          'restricted.\n'
+            'name': "Writer's Block: Two Forms",
+            'reviewBody': 'LIMITLESS is a film that you want to see succeed - '
+                          "an idea with 'limitless' possibilities, a setting "
+                          'that involves Wall Street (part of our core issue '
+                          'of economic chaos), some interesting camera work, '
+                          'and a a script that likes to make puns. The '
+                          'problems with the film is that is underdeveloped: '
+                          'main characters are rather two dimensional, cameo '
+                          'characters are walk-on parts without much purpose, '
+                          'and the script, such as it is, relies on voice-over '
+                          'cop out instead of intelligent dialogue. \n'
                           '\n'
-                          "Eddie (Bradley Cooper)'s attempts to write a novel "
-                          'go in vain and his inability to push himself to '
-                          'seek refinement is evident with his apartment, his '
-                          'relationship with his otherwise focused girlfriend '
-                          'and his dependent finances. At such a juncture, he '
-                          'stumbles upon his ex- brother-in-law who introduces '
-                          'an experimental designer drug that enhances brain '
-                          'functionality to harness all its potential. As he '
-                          "is then confronted by his landlord's wife who yaks "
-                          'at him for the pending rent, Eddie chooses an '
-                          'intelligent escape by taking one of the pills and '
-                          'then, whatever he has seen, heard, read or '
-                          'experienced in his life, is available to him as '
-                          'reference. Knowledge acquisition is rapid and so is '
-                          'its retention. Eddie soon discovers that he can '
-                          'achieve the impossible like Bruce Almighty and as '
-                          'greed takes over, he seeks to exploit the financial '
-                          'markets to make some astronomical gains. Overnight '
-                          'success draws inquisitive eyes of the ambitious and '
-                          'Eddie would need to maintain a low profile if he '
-                          "doesn't want to expose his secret to his phenomenal "
-                          'analytical abilities. Veteran investor Carl Loon '
-                          '(Robert De Niro) employs Eddie and gives him the '
-                          'incredible opportunity to make it to the big league '
-                          'in a very short time. Just when it all seems to be '
-                          'going his way, Eddie realizes that the pills have '
-                          'an adverse effect on his health and without a '
-                          'regular intake, he would almost lose his life. To '
-                          'add to that, he is pursued by a goon who now knows '
-                          'the secret to his supreme abilities and demands '
-                          'more pills for himself. \n'
+                          'Eddie Morra (Bradley Cooper attempting to break '
+                          'away from his guy roles in road show movies) is a '
+                          'wannabe writer - a man who has been attempting to '
+                          'write a novel for years but has not achieved one '
+                          'word on a page. He lives off his girlfriend Lindy '
+                          '(Abbie Cornish) who finally gives up on his mess of '
+                          'a life. Eddie moves into a filthy flat and he takes '
+                          'on the appearance of a street person until he '
+                          "encounters his ex-wife's (Anna Friel) brother "
+                          'Vernon (Johnny Whitworth) who gives Eddie a pill '
+                          'called NZT, a medication that is purportedly able '
+                          'to make the brain use 100% of its capacity '
+                          '(fragments of memory, encountered headlines, books '
+                          'slightly read etc all become immediately available '
+                          "to the 'patient'). Eddie, seeing his life going "
+                          'down the toilet, takes the pill and suddenly '
+                          'becomes multilingual, able to figure out number '
+                          'sequences at the gambling table, not only start but '
+                          'finish his novel, etc: in other words, a genius - '
+                          "for the 24 hour duration of the pill's effect. His "
+                          'changed life introduces him to, of course, the '
+                          'stock market where he makes it so big that he '
+                          'garners the attention of major player Carl Van Loon '
+                          '(Robert DeNiro) - along with the people involved '
+                          'with the now murdered Vernon who want the drug '
+                          'back: evil Gennady (Andrew Howard) and his thugs '
+                          "(Eddie Fernandez and Ray Siegle) a strange 'man in "
+                          "a tan coat' (Tomas Arana) et al. Eddie struggles "
+                          'through the transition, sells his novel, wins Lindy '
+                          'back, and some years later is running for New York '
+                          'Senator on his way to the Presidency of the United '
+                          'States. And that of course leads to the messy '
+                          'ending that began the film. \n'
                           '\n'
-                          'There is always some danger lurking around the '
-                          'corner in Limitless. Even though, the idea of an '
-                          'intelligence enhancing medication seems like the '
-                          'ultimate strength, one always feels restless and is '
-                          'aware of some form of imminent threat. It just '
-                          'seems too good to be true and that is primarily '
-                          'what grips you through this well paced '
-                          'screenplay. \n'
+                          "Based on the novel 'The Dark Fields' by Alan Glynn, "
+                          'the screenplay (full of holes perhaps due to the '
+                          "same writer's block as the main character's) is by "
+                          'Leslie Dixon and the film is directed by Neil '
+                          'Burger, a man with some creative ideas who '
+                          'concentrates on gimmicks more than plot and '
+                          'character development. And it does have some '
+                          'dazzling visual effects sequences, courtesy of Joe '
+                          'Willems, cinematographer and Connie Brink, Special '
+                          'Effects Coordinator. It is an obvious attempt to '
+                          'compete with the fast action films that make so '
+                          'much box office money, but it is flimsy and may be '
+                          'better off in the DVD category - a category in '
+                          'which it landed early for obvious reasons. \n'
                           '\n'
-                          'The film looks great with the camera speeding '
-                          'through the streets and the stunning views of New '
-                          "York city. The mood resembles that of Neil Burger's "
-                          "previous film, 'The Illusionist' and this one is "
-                          'equally intriguing, if not more. The background '
-                          "score is well suited to the film's pulsating "
-                          'situations. \n'
-                          '\n'
-                          'The beautiful Abbie Cornish plays the tense '
-                          'situations quite well and in confrontational scenes '
-                          'with Cooper, she emerges strong. Robert De Niro '
-                          'gets a Michael Douglas type role where he seems to '
-                          'enjoy throwing his power around. Good to see him '
-                          'threatening people around him because that is what '
-                          'he does best..... Bradley Cooper took complete '
-                          'advantage of the opportunity where he can play a '
-                          'definitive lead and he is quite convincing both as '
-                          'the struggling author and the coolest man in town '
-                          'with higher intelligence. \n'
-                          '\n'
-                          'Director Neil Burger keeps the momentum going while '
-                          'keeping us glued with suspense, action and twists. '
-                          'A novel idea is simplified in his execution and he '
-                          'makes it easy to absorb it as a reality right from '
-                          'the beginning. He does avoid superficial scenarios '
-                          'and unnecessary drama and chooses to portray the '
-                          'hardships that Eddie encounters while he possesses '
-                          'such power. Limitless entertains with the '
-                          'possibilities and the consequences of '
-                          'uncontrollable powers. However, in the end, it is '
-                          "no 'Inception' in story telling or concept and if "
-                          "you're in with unreal expectations, it will surely "
-                          'disappoint but due credit must be given to Neil '
-                          'Burger for a good execution of the concept that '
-                          "even in the end, doesn't fall flat on its face. \n"
-                          '\n'
-                          '\n'
-                          '* 8.081 on a scale of 1-10.\n',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
+                          'Grady Harp'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Limitless -- Super Bowl Spot',
              'embedUrl': '/video/imdb/vi2114755097',

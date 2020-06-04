@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Coal',
  'EntryURL': 'https://www.imdb.com/title/tt1745045',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Coal/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Coal/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Coal/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Coal/thumb.jpg',
  'actor': [{'@type': 'Person',

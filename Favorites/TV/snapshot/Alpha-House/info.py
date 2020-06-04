@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Alpha-House',
  'EntryURL': 'https://www.imdb.com/title/tt3012160',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Alpha-House/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Alpha-House/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Alpha-House/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Alpha-House/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -42,33 +41,36 @@
  'keywords': 'politics',
  'name': 'Alpha House',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'michael_weho'},
-            'dateCreated': '2014-10-24',
+            'author': {'@type': 'Person', 'name': 'angelawriter'},
+            'dateCreated': '2014-01-18',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3012160/'},
-            'name': 'Trudeau does have an agenda',
-            'reviewBody': 'I\'m now on the second season of "Alpha House" and '
-                          "it's as good if not better than the first. I "
-                          'noticed that some reviewers have said that the '
-                          'characters are Democrats playing Republicans but I '
-                          "don't think that is fair. I am old enough to "
-                          'remember when our political parties were not so '
-                          'beholding to outside money and that I had a sense '
-                          "that both parties were working in good faith. It's "
-                          'not that way now. Whatever, I enjoy this show '
-                          'because I see how it relates to how our '
-                          'politicians, GOP and Democrat, and the media work. '
-                          "But in a humorous vein. It's not overly cynical. I "
-                          'found myself admitting that I would vote for Biggs '
-                          'because he is reasonable. I believe that this is '
-                          'what Trudeau has in mind. The GOP has been taken '
-                          'over by right-wing extremist who answer only to big '
-                          'money, i.e. Koch Brothers. I hope it comes back for '
-                          'many seasons to come.',
+            'name': 'Fantastic writing and characters!',
+            'reviewBody': 'I love this show. I happened upon it accidentally. '
+                          'Amazon--what is up with that? You really need to '
+                          'promote this. The writing is fresh and witty and '
+                          'the characters are complicated, flawed, funny and '
+                          'oh so human. Actually, I am a partisan liberal and '
+                          'can actually smile sometimes now at the ugliness in '
+                          'DC See what a work of humorous fiction can do to '
+                          'make the world a better place?\n'
+                          '\n'
+                          'I have to say that I have always loved John Goodman '
+                          'and I find he is a wonderful character to humanize '
+                          'his house-mates. More than any of his fellow '
+                          'senators he seems accidental in his service--and '
+                          'probably the most honest. \n'
+                          '\n'
+                          'The production values are wonderful in Alpha House '
+                          'and the tone is sweet underneath. Everyone is just '
+                          'trying to get through the day with their own '
+                          'craziness. Wives, lovers, dogs,subcommittees, '
+                          'social media, sex, power and meme are hysterically '
+                          'dealt with. Bravo, Amazon.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Four Republican senators share the same D.C. '

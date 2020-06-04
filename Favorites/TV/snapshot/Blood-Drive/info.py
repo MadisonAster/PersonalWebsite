@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Blood-Drive',
  'EntryURL': 'https://www.imdb.com/title/tt4898282',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Blood-Drive/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Blood-Drive/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Blood-Drive/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Blood-Drive/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -38,25 +37,24 @@
  'keywords': 'grindhouse series,dystopia,exploding head,ex cop,car racing',
  'name': 'Blood Drive',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'joleree'},
-            'dateCreated': '2017-06-22',
+            'author': {'@type': 'Person', 'name': 'maverickz-33-530388'},
+            'dateCreated': '2017-07-05',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4898282/'},
-            'name': 'The perfect antithesis of prestige TV',
-            'reviewBody': 'Blood Drive is a show that was probably way '
-                          "overdue. I don't think I have ever seen something "
-                          'work so hard.....to be so bad....and turn out so '
-                          "good. If you've been a fan of the prestige TV of "
-                          'the last few years, think Hannibal, Game Of '
-                          'Thrones, The Wire, Deadwood, The Sopranos you get '
-                          'the picture. Turn off that part of your brain and '
-                          'try this. If you got what Tarantino and Rodriquez '
-                          'were going for with Grindhouse and then the Machete '
-                          'films, then this is a must.\n'
-                          '\n'
-                          'Its carnal, corny, carnage and its it meant to get '
-                          'a laughing WTF out of its viewers.',
+            'name': 'Call me sick, but I love it.',
+            'reviewBody': 'This show is NOT for everyone and I know a lot of '
+                          "people just won't get it, but as for me, I love it. "
+                          "At it's heart it is a Deathrace type show with all "
+                          'the campy gore of The Evil Dead franchise. If you '
+                          'are expecting to see a "normal" TV show where '
+                          'things are supposed to make sense, reserved acting, '
+                          'straight plots, and modern effects and '
+                          'cinematography, this this is NOT the show for you. '
+                          'If you like grind house movies, The Evil Dead '
+                          'franchise, or the death race movies (especially the '
+                          'original) then give this a shot. It really is a '
+                          'bloody disgusting good time.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

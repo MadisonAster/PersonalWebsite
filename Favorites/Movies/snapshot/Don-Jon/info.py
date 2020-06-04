@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Don-Jon',
  'EntryURL': 'https://www.imdb.com/title/tt2229499',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Don-Jon/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Don-Jon/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Don-Jon/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Don-Jon/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0001103/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 224223,
+                     'ratingCount': 224225,
                      'ratingValue': '6.5',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -47,55 +46,80 @@
              'relationship,pornography addict',
  'name': 'Don Jon',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'JustCuriosity'},
-            'dateCreated': '2013-03-12',
+            'author': {'@type': 'Person', 'name': 'MikeM1984'},
+            'dateCreated': '2013-12-23',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2229499/'},
-            'name': 'Joseph Gordon-Levitt delivers a Stinging Critique of '
-                    'Modern Relationships',
-            'reviewBody': 'Don Jon was very well-received in its regional '
-                          "premiere at the Paramount Theatre during Austin's "
-                          'SXSW Film Festival. The film was written, directed '
-                          'and starred Joseph Gordon-Levitt. He did a really '
-                          'fine job for his writing and directorial debut, but '
-                          'he may have been trying to do too much. The acting '
-                          'by Gordon-Levitt, Scarlett Johansson, Julianne '
-                          'Moore, Tony Danza, Glenne Headly, and Brie Larson '
-                          "is quite good. I think it is Gordon-Levitt's script "
-                          'that leaves something to be desired. His character '
-                          "Jon is a very successful ladies' man who is also "
-                          'heavily addicted to masturbating to internet porn – '
-                          'numerous times daily. Many people will find the '
-                          'film to be quite funny and enjoyable. However, the '
-                          "graphic use of porn will not be to everybody's "
-                          'taste and may be off-putting to viewers – '
-                          "particularly female viewers. I'm also wondering "
-                          'whether the extensive use of porn will lead to the '
-                          'MPAA giving it the kiss-of-death NC-17 rather than '
-                          'an R rating.\n'
+            'name': 'A 10 for the message if nothing else...',
+            'reviewBody': "(Somewhat Spoiler-y) I've dated an older woman, and "
+                          'in a lot of ways she tried to tell me the same '
+                          'things Esther tells Jon. In fact I remember a few '
+                          'distinctly similar interactions, so on that level '
+                          'the movie really spoke to me.\n'
                           '\n'
-                          "JGL's script is well-intentioned and he is trying "
-                          'to make the point that many people become so '
-                          'self-absorbed that they lose the ability to '
-                          'interact with others on a human level. Jon is '
-                          'deadened to real romance by his reliance on porn. '
-                          'His girlfriend has an overly romanticized view of '
-                          'relationships based on watching too many romantic '
-                          'movies. They are both so self-absorbed and selfish '
-                          "that they can't really build a real relationship. "
-                          'Still, it was often difficult to figure out what '
-                          "JGL's point was and in many ways became clearer "
-                          'listening to him during the Q&A after the film. JGL '
-                          'is attempting to raise profound issues about human '
-                          "relationships in the modern era, but he hasn't "
-                          'quite figured out how to do that as a writer and '
-                          'director. I expect that he is going to become as '
-                          'fine a director and writer as he already is an '
-                          'actor. He has a fine future ahead of him.',
+                          'I imagine one could say the movie relies on some '
+                          'clichés, just enough to satisfy the romance/comedy '
+                          'genre, but it uses them in very unique ways to tell '
+                          'a story that at least seems a little more real. '
+                          'Sort of like 500 Days (of Summer) on steroids. No '
+                          'pun intended. In fact it may be even safe to say '
+                          'that Don Jon is the next chapter in the 500 Days '
+                          'saga, albeit with a different character. Perhaps '
+                          'one made cynical by the events of JGL last romance '
+                          'comedy outing.\n'
+                          '\n'
+                          'Don Jon has graduated beyond puppy love, certainly, '
+                          'and onto full blown adult fun. But the movie is '
+                          'very biting, and sort of tears apart his '
+                          'self-serving agenda.\n'
+                          '\n'
+                          'A lot of people seem to be caught up in the "porn" '
+                          'aspect of the movie, but honestly the "porn" is a '
+                          'metaphor, no more important to the '
+                          'gym-tan-laundry-sexualized commercials.\n'
+                          '\n'
+                          'There are only two real female characters in the '
+                          "film: Esther, and Jon's "
+                          'quiet-except-for-one-powerful-line sister. The '
+                          'sister in fact almost makes the movie, as they use '
+                          'her small character to incredible effect.\n'
+                          '\n'
+                          'The movie does a nice job of tricking the audience '
+                          "into rooting for Jon and Barbara, of course it's "
+                          'all a ploy. They even set up Esther as a sort of '
+                          'antagonist. She is enticing yet feels all wrong for '
+                          'Jon. Older, sort of run down, maybe a bit of a '
+                          "predator of weak men, the movie isn't very clear "
+                          'about her at the start. She runs completely counter '
+                          'to the stereotypes of women as set up by the film. '
+                          'She is far from perfect, but Moore makes her '
+                          'believably beautiful. I truly doubt many other '
+                          "actresses could've sold this role in the way she "
+                          'did. While her age played right into the character '
+                          'she probably was right for the character for mostly '
+                          'other reasons.\n'
+                          '\n'
+                          "I don't think the movie is overall that "
+                          'outstanding. Many of the jokes fall flat, and some '
+                          'of it is tedious. In fact the vast majority of it '
+                          'could be considered filler, but the end is so '
+                          'incredible it does a great job of tying all these '
+                          'scenes together in a way that makes perfect sense '
+                          'and delivers a powerful message. Without completely '
+                          'ruining it the end embraces the typical cliché, but '
+                          "flips it on it's head. What results is a very "
+                          'mature version of what audiences have come to '
+                          'expect from these types of movies. The same, but '
+                          'also very different.\n'
+                          '\n'
+                          'I would expect JGL will have continued success as a '
+                          'Director and actor.\n'
+                          '\n'
+                          'The guy truly gets it.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Watch a TV spot for Don Jon.  A New Jersey guy '

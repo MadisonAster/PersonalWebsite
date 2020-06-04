@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Man-from-Earth',
  'EntryURL': 'https://www.imdb.com/title/tt0756683',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Man-from-Earth/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Man-from-Earth/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Man-from-Earth/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Man-from-Earth/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0186761/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 168611,
+                     'ratingCount': 168613,
                      'ratingValue': '7.9',
                      'worstRating': '1.0'},
  'contentRating': 'Not Rated',
@@ -41,31 +40,32 @@
  'keywords': 'single setting,dialogue driven,storytelling,cro magnon,professor',
  'name': 'The Man from Earth',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'phalanges1'},
-            'dateCreated': '2007-11-09',
+            'author': {'@type': 'Person', 'name': 'kristianystad'},
+            'dateCreated': '2007-11-07',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0756683/'},
-            'name': 'Educational',
-            'reviewBody': 'A seriously engaging film with a small twist at the '
-                          'end. Lots of small inputs of educational facts and '
-                          'figures but stay alert as they come quick and fast. '
-                          'I thought the mix of characters was excellent and '
-                          'the tale outstanding, but that is down to Bixby the '
-                          'writer. The acting was a little wooden but the '
-                          'story-line was fast enough (after a slightly slow '
-                          'start) to save dwelling on this. A sci-fi film with '
-                          'absolutely no special effects, relying solely on '
-                          'the story and a room-full of actors.\n'
+            'name': 'brilliant story',
+            'reviewBody': '...every so often you will see a film or hear a '
+                          'story that will take your breath away and leave you '
+                          'wondering...this is one of those stories.\n'
                           '\n'
-                          'A highly recommended film that needs some '
-                          'concentration and thought to fully appreciate, and '
-                          'that might even cause a tear if you become fully '
-                          'immersed. A nice change from the usual no-brainer '
-                          'special effects charged tear-aways.',
+                          'That said it is probably not for everyone. If you '
+                          "don't want your believes challenged you should "
+                          'probably stay away from this one. The film is all '
+                          'about the characters and their dialog, it is what '
+                          'makes or breaks the film, and I must say they did '
+                          'an excellent job, it kept me on the edge of my seat '
+                          'the whole time, wanting to hear more. All this '
+                          'topped with great acting makes this a film really '
+                          'worth seeing.\n'
+                          '\n'
+                          'It goes to show that you can make great films these '
+                          'days without explosions and killings...so simple '
+                          'yet so effective. Great movie!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Starz!',

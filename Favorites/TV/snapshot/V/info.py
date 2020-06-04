@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/V',
  'EntryURL': 'https://www.imdb.com/title/tt0085106',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/V/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/V/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/V/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/V/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0625664/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 12977,
+                     'ratingCount': 12978,
                      'ratingValue': '7.9',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -35,32 +34,28 @@
  'keywords': '1980s,tv mini series,alien,resistance,reptilian',
  'name': 'V',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Maniac-9'},
-            'dateCreated': '2012-01-29',
+            'author': {'@type': 'Person', 'name': 'Falcon-51'},
+            'dateCreated': '2000-03-15',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0085106/'},
-            'name': 'Definite undertones of how the Nazis gained power',
-            'reviewBody': "Other then small differences like the V's being "
-                          'aliens the way they assimilated power and conquered '
-                          "the earth is very similar to how the Nazi's took "
-                          "power of Germany in the 1930's.\n"
-                          '\n'
-                          "The V's like the Nazi's had a charismatic leader, "
-                          'brainwashing and propaganda in the media. Even the '
-                          'uniforms of the V soldiers is very similar to the '
-                          'storm trooper soldiers of the Nazi and they use the '
-                          'same Red and Black colors.\n'
-                          '\n'
-                          "Same way that the Nazi's used hope for the future "
-                          "to help influence the population the V's used a "
-                          'cure for things like cancer and other ailments. '
-                          "Early terrorist attacks on the V's were blamed on "
-                          "scientists in the same manner that the Nazi's did "
-                          'the same to communists. This miniseries shows '
-                          'society can be swayed by easy answers and charisma.',
+            'name': 'Hey, put that water back!',
+            'reviewBody': 'Made-For-TV movies of today are poorly acted, '
+                          'exaggerated and make you happy you have a remote '
+                          'control, so you can quickly change channels to '
+                          "X-Files reruns. However back in the 80's many TV "
+                          'movies were brilliant including this one. "V" takes '
+                          'you on an adventure where some aliens try to become '
+                          'friendly with humans and then rip us off. Except '
+                          "they're not after our silverware or jewelry they "
+                          "want the real important stuff like water, and I'm "
+                          'not talking about a couple gallons of Evian. I am '
+                          'talking about the entire world supply. Take time to '
+                          'enjoy a mini-series that will stand for all time. '
+                          'Great performances by all players. Kudos to Marc '
+                          'Singer.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'url': '/title/tt0085106/'}

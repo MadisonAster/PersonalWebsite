@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Yume',
  'EntryURL': 'https://www.imdb.com/title/tt0100998',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Yume/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Yume/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Yume/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Yume/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm7014801/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 22964,
+                     'ratingCount': 22965,
                      'ratingValue': '7.8',
                      'worstRating': '1.0'},
  'contentRating': 'PG',
@@ -50,48 +49,43 @@
              'relationship,sandal',
  'name': 'Yume',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'MrBiddle'},
-            'dateCreated': '2004-10-16',
+            'author': {'@type': 'Person', 'name': 'plumberguy66'},
+            'dateCreated': '2002-03-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0100998/'},
-            'name': 'Living is exciting',
-            'reviewBody': "Akira Kurosawa's insights on man's need to "
-                          'harmonize with nature, the costs of war and the bad '
-                          'fruits that nuclear power can bear. This is the '
-                          'first Kurosawa movie I have seen, but I can see how '
-                          'true it is that Kurosawa is a master of creating '
-                          'atmosphere in a film. Such as the dark, '
-                          'post-nuclear apocalyptic world of THE WEEPING '
-                          'DEMON. Or the very first episode when the little '
-                          'boy sees something he is not supposed to see in the '
-                          'forest.\n'
-                          '\n'
-                          "I found THE BLIZZARD rather strange, and you'll see "
-                          'a scary part when the mountainman is having his '
-                          'mirage of the beautiful woman who symbolizes the '
-                          "snowstorm. I'm not sure what the significance of "
-                          'the dog was in THE TUNNEL, but I guess it '
-                          'illustrates the fact that though he was the '
-                          'commander of Third Platoon , he felt like a coward '
-                          'because of his command, his men paid the price.... '
-                          "yet he is guilty of still being alive; he's afraid "
-                          'of the dog.\n'
-                          '\n'
-                          'It ends rather low key, but the last episode THE '
-                          'VILLAGE IN THE WATERMILLS is the most insightful '
-                          "and bold in expressing the movie's theme... of "
-                          'harmonizing with nature, and maybe harmonizing with '
-                          'ourselves.\n'
-                          '\n'
-                          'The procession displays the unity and the communal '
-                          'harmony that the villagers have. And it is the '
-                          'exact opposite of what is grieved about in MOUNT '
-                          'FUJI IN RED or THE WEEPING DEMON. The '
-                          'cinematography is just beautiful. The movie is '
-                          'beautiful and captivating. \n'
-                          '\n'
-                          "Akira Kurosawa's YUME is Grade A- 9/10"},
+            'name': 'Beautiful',
+            'reviewBody': 'Truly one of the most beautiful films I have ever '
+                          'seen.  I saw this film for the first time in 1993 '
+                          'and it was placed forever in my mind as one of my '
+                          'greatest cinematic experiences. I agree with what '
+                          'another reviewer said about this film, that it is '
+                          'not for everyone. It is very artistic in that the '
+                          'cinematography carries a lot of the story and some '
+                          'may become bored with it. Hollywood has a way of '
+                          'brainwashing a lot of viewers into needing a lot of '
+                          "dialog or action. If that's what you're after, you "
+                          'wont find it here. You have to use your brain for '
+                          'this one. This movie is Japanese and what little '
+                          'dialog there is, is in subtitled for the American '
+                          'viewer. So you may need to do a little reading. '
+                          'This is not simply a movie; it is several short, '
+                          'amazing stories that stem from the mind of Akira '
+                          'Kurosawa (a genius in my book). One is like a '
+                          'beautiful fairytale and another is a nightmarish '
+                          'fable and still another is a terribly haunting '
+                          'ghost story, there are others but all are done very '
+                          'well. This film needs to be seen in the letterbox '
+                          'format as it was intended. The cinematography, as I '
+                          'said earlier, contributes so much that it should be '
+                          "viewed completely. I really don't know what else to "
+                          'say about this movie except that if you have an '
+                          'artistic streak and like to see how movies can '
+                          'become art I would highly recommend Yume (Dreams).',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '8',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Warner Home Video',
              'embedUrl': '/video/imdb/vi105028633',

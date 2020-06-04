@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Lord-of-War',
  'EntryURL': 'https://www.imdb.com/title/tt0399295',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Lord-of-War/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Lord-of-War/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Lord-of-War/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Lord-of-War/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0005256/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 287689,
+                     'ratingCount': 287692,
                      'ratingValue': '7.6',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -48,56 +47,32 @@
  'keywords': 'arms dealer,prostitution,sex standing up,new york city,ukrainian',
  'name': 'Lord of War',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'opencad2'},
-            'dateCreated': '2005-09-16',
+            'author': {'@type': 'Person', 'name': 'OriginalMovieBuff21'},
+            'dateCreated': '2006-02-14',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0399295/'},
-            'name': 'Great Movie -- Similar to "The Godfather"',
-            'reviewBody': 'This was a great movie. Cage delivered on the '
-                          '"anti-hero" - a 21st century "Corleone". \n'
+            'name': 'Interesting film by a new starter, Andrew Niccol',
+            'reviewBody': 'Lord of War is about an arms dealer named Yuri '
+                          'Orlov who confronts the morality of his work while '
+                          'being chased by an Interpol agent. This is a very '
+                          'interesting film brought by director and writer of '
+                          'the film, Andrew Niccol (Gattaca). This is another '
+                          'great film of his that will boost up his career '
+                          'even more. Nicolas Cage puts up another great '
+                          'performance of the year and although his acting is '
+                          'very ostentatious, his narrating just like in The '
+                          'Weather Man, which came out a couple months later, '
+                          'is perfect. The dialogue is very good and the '
+                          "script couldn't be any better. Most of all, I "
+                          'clearly gave respect to Andrew Niccol, because '
+                          'honestly, he deserves the most credit out of any '
+                          'one who worked on the film. My hat goes off for '
+                          "him. Overall, great film of 2005 and I'll be paying "
+                          "more attention to Andrew Niccol's movies. I highly "
+                          'recommend it.\n'
                           '\n'
-                          'The locations were cool and "spectacular". From a '
-                          'visual standpoint this movie really does take you '
-                          'around the world. New York, Russia, Libya, Libera, '
-                          'etc. This movie is shot very, very well.\n'
-                          '\n'
-                          "The pacing of the movie is brisk, the scenes aren't "
-                          "morose. Like Platoon, this movie doesn't glamorize "
-                          'or demonize situations. A guy who sells weapons for '
-                          'a living meets some violent people in some violent '
-                          'places. The visual style is breathtaking . . . \n'
-                          '\n'
-                          'What I like best is, no characters in the movie are '
-                          '"romanticized". There are no "good guys". One could '
-                          'make the case that there are no "bad guys" as well '
-                          'I suppose. There are people who do bad things for '
-                          "reasons you don't understand. There are people who "
-                          'do nothing when they should do something for '
-                          "reasons you don't understand. Its a pretty accurate "
-                          'depiction of real life :)\n'
-                          '\n'
-                          'I think I might have rated the movie 8.5, if there '
-                          'were any other movies at all about this topic that '
-                          'were anywhere in its league. If you make a great '
-                          '"Legally Blond", that\'s nice. If you make a great '
-                          'movie about arms trading with a sold antihero and '
-                          'supporting characters, I figure you get "extra '
-                          'credit".\n'
-                          '\n'
-                          "I think you're a fool if you miss this movie. Its "
-                          'not about Iraq. Its not particularly political. '
-                          'This movie could have been made under any president '
-                          'in the last 100 years and been just as accurate. '
-                          'Its not particularly anti-gun. Its just about this '
-                          'guy who sells guns. \n'
-                          '\n'
-                          "On the other hand, don't take people to this movie "
-                          "if they can't handle violence or movies that aren't "
-                          'designed to make them "feel good" when they walk '
-                          'out. This is a good movie, its interesting, its '
-                          'intelligent, its important -- but its not Ferris '
-                          'Buellers Day Off or Spinal Tap.',
+                          "Hedeen's Outlook: 8.5/10 ***+ B+",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Russian-Doll',
  'EntryURL': 'https://www.imdb.com/title/tt7520794',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Russian-Doll/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Russian-Doll/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Russian-Doll/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Russian-Doll/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0039051/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 58974,
+                     'ratingCount': 58976,
                      'ratingValue': '7.9',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -49,22 +48,31 @@
              'woman,jewish woman',
  'name': 'Russian Doll',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'robbiefisher-22784'},
-            'dateCreated': '2019-02-01',
+            'author': {'@type': 'Person', 'name': 'bluesinab'},
+            'dateCreated': '2019-02-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt7520794/'},
-            'name': 'Wow. The critics got it right this time.',
-            'reviewBody': "I don't usually write reviews but I ended up "
-                          "staying up all night/morning watching this. I don't "
-                          "have much to say as I don't want to spoil anything. "
-                          'But the acting is great, the humour is great and '
-                          'the mystery is really interesting and will keep you '
-                          'interested from episode to episode. Highly '
-                          'recommend.',
+            'name': 'Amy Poehler and Natasha Lyonne 👏🏾👏🏾👏🏾👏🏾👏🏾👏🏾👏🏾👏🏾👏🏾',
+            'reviewBody': 'In semi-typical fashion it started a little slow in '
+                          'interest for me but I watched the first episode and '
+                          'said,"Ok, one more..." And then of course you get '
+                          'the obligatory, "Well, I HAVE to see what happens '
+                          'next.." which is followed by, "Well, who the hell '
+                          'is THIS character?" And then of course the reaction '
+                          'of, " Oh Hell Naw!" Which proceeds the ever '
+                          'popular, "ARE YOU KIDDING ME?!?" But then you get '
+                          'the "Oh I got this" episode. Only to be smacked by '
+                          'the " Whoa.... didn\'t see THAT coming" show. Which '
+                          'all is summed up with "More please.."\n'
+                          '\n'
+                          'bravo 👏🏾Netflix, Natasha Lyonne, Amy Poehler & '
+                          'Russian Doll 👏🏾👏🏾👏🏾👏🏾\n'
+                          '\n'
+                          '#BookOfJimmy',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Russian Doll: Season 1',

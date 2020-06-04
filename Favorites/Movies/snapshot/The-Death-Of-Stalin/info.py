@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Death-Of-Stalin',
  'EntryURL': 'https://www.imdb.com/title/tt4686844',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Death-Of-Stalin/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Death-Of-Stalin/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Death-Of-Stalin/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Death-Of-Stalin/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm2057859/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 78968,
+                     'ratingCount': 78970,
                      'ratingValue': '7.2',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -72,32 +71,54 @@
              'character,based on comic book',
  'name': 'The Death of Stalin',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'PipAndSqueak'},
-            'dateCreated': '2017-10-21',
+            'author': {'@type': 'Person', 'name': 'rogerdarlington'},
+            'dateCreated': '2017-11-02',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4686844/'},
-            'name': 'Gallows humour with hollow laughs',
-            'reviewBody': "There's no avoiding truths rapidly passed over in "
-                          'this depiction of chaos following the death of an '
-                          'evil dictator. Stalin had charm...to those who were '
-                          'not his subjects and were never a threat to his '
-                          'authority. He fooled many so-called intellectuals '
-                          'in the West but everyone around him knew the truth, '
-                          'and, most managed to tip-toe over eggshells in '
-                          'order to stay alive. To thrive in such an '
-                          'environment requires a certain kind of callous '
-                          'ruthlessness...perfectly depicted with suitable '
-                          'crass humour here. The cast is perfectly '
-                          'chosen...each very accomplished actor adding their '
-                          "particular star dust. There's more than a single "
-                          "sittings' content in this film which deserves "
-                          'another viewing. Impressive and engaging '
-                          'story-telling based on real life events. Bravo all.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
+            'name': 'Ultimately more chilling than comedic',
+            'reviewBody': 'This is not the film I was expecting. Knowing that '
+                          'it was both written and directed by the British '
+                          'Armando Iannucci who gave us the outrageous '
+                          'delights of "In The Loop", "The Thick of It" and '
+                          'Veep", I thought that I was going to encounter a '
+                          'full-blown, satirical comedy (and the trailer had '
+                          'confirmed this impression), but instead - while '
+                          'there are certainly plenty of laughs from a sharp '
+                          'script - this is an altogether darker work, full of '
+                          'foreboding, terror and casual slaughter, than I was '
+                          'anticipating. It is not just the tone that is '
+                          'off-kilter; the brilliant cast makes no attempt to '
+                          'effect a Russian accent but offers everything from '
+                          'a Yorkshire accent to an unashamedly American one.\n'
+                          '\n'
+                          'Several of the characters (the dictator himself '
+                          'played by Adrian McLoughlin) and his eventual '
+                          'successor Khruschev (Steve Buscemi) are known to '
+                          'everyone, but others - like war hero Zhukov (Jason '
+                          'Isaacs) and spy chief Beria (Simon Russell Beale) - '
+                          'will be less-known and still others - such as '
+                          'Malenkov (Jeffrey Tambor) and Molotov (Michael '
+                          'Palin) - will be unfamiliar to many viewers, so you '
+                          'need to be something of an enthusiast for Soviet '
+                          'history to pick up on all the allusions. And real '
+                          'historians will rightly challenge some of the '
+                          'detail because there are some major errors '
+                          '(although these might rather be deliberate '
+                          'distortions to enhance the plot). Iannucci has '
+                          'moved from contemporary Whitehall and Washington to '
+                          'take us to Moscow in 1953 but, if we were expecting '
+                          '"Carry On Up The Kremlin", we have something much '
+                          'more gut-wrenching and all the more effective.\n'
+                          '\n'
+                          'A few weeks before the release of this film, I was '
+                          'in Georgia and visited Gori, the town near where '
+                          'Stalin was born. The year after Khruschev denounced '
+                          'Stalin, a museum was opened in the town to venerate '
+                          "Stalin's leadership and essentially (and "
+                          'astonishingly) the messaging remains unchanged to '
+                          'this day. Oh, how I wish they could show this '
+                          'chilling movie at that museum.'},
  'trailer': {'@type': 'VideoObject',
              'description': "In the days following Stalin's collapse, his core "
                             'team of ministers tussle for control; some want '

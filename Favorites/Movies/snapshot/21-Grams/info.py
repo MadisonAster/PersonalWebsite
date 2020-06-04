@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/21-Grams',
  'EntryURL': 'https://www.imdb.com/title/tt0315733',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/21-Grams/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/21-Grams/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/21-Grams/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/21-Grams/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Sean Penn', 'url': '/name/nm0000576/'},
@@ -19,7 +18,7 @@
             'url': '/name/nm0396812/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 219824,
+                     'ratingCount': 219826,
                      'ratingValue': '7.7',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -43,46 +42,39 @@
  'keywords': 'panties,voyeur,sex in bed,red panties,fondling',
  'name': '21 Grams',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'paul2001sw-1'},
-            'dateCreated': '2007-11-23',
+            'author': {'@type': 'Person', 'name': 'Austin2LA'},
+            'dateCreated': '2004-01-19',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0315733/'},
-            'name': 'Structure over unity',
-            'reviewBody': "'21 Grams' tells of a number of loosely interlinked "
-                          'characters in an achronological fashion, jumping '
-                          'backwards and forwards over their stories. There '
-                          'can be reasons for doing this: for example, to '
-                          'reveal the plot in a way that offers an extra kick, '
-                          'or to enable the plot to conclude with a scene from '
-                          'the middle of the story that gains impact from the '
-                          "viewer's prior acquaintance with what happens next. "
-                          "Quentin Tarantino's 'Pulp Fiction' justified its "
-                          'own complex plot structure on both of these '
-                          "grounds. But in the case of this film, I couldn't "
-                          'see how telling the story in such a broken way was '
-                          'supposed to add anything; and the fact that most of '
-                          'the leading characters possess a death wish (or at '
-                          'least, very little will to go on living) hardly '
-                          'aided my emotional involvement. At times, the film '
-                          'appeared to be shaping into a story about the '
-                          'possibility (or otherwise) of redemption; but it '
-                          'never quite grew into anything more the harrowing '
-                          'tale of a number of people who suffer and (in some '
-                          'cases) die. The pretentious voice-over from Sean '
-                          "Penn's character that ends the film (and accounts "
-                          'for its title) felt to me like a desperate (and '
-                          'failed) attempt to inject some meaning into a movie '
-                          'strangely devoid of it.\n'
+            'name': 'Iñárritu delivers a film that may well live up to its '
+                    'hype and then some.',
+            'reviewBody': '21 Grams features performances by Sean Penn, '
+                          'Benecio Del Torro and Naomi Watts that are '
+                          'remarkable not only for their believability, but '
+                          'also for the range of gut wrenching emotion they '
+                          'bring to bear.  Telling his story almost violently '
+                          'out of sequence, Iñárritu makes no apology for '
+                          'presenting information in a manner that is often '
+                          'abrupt and/or confusing.  His choice to juxtapose a '
+                          'myriad of images to reveal the complexities and '
+                          'subtleties of the characters challenges the viewer '
+                          'even as it elevates the story.\n'
                           '\n'
-                          'That said, the acting is good, and the film is '
-                          'undoubtedly skilfully made. But "people die" is '
-                          'not, in itself, an adequate or interesting unifying '
-                          'theme.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
+                          ' Each of the three main characters faces a series '
+                          "of crises that unfold in the fullness of Iñárritu's "
+                          'version of time.  By so carefully painting '
+                          "characters' surroundings along with their reactions "
+                          'to the events that change their lives, lead '
+                          'characters are stripped to the bone.  The '
+                          'supporting cast is nothing short of miraculous '
+                          '(notably Clea Duvall, Charlotte Gainsborg and '
+                          'Melissa Leo) and completes a wonderfully complex '
+                          'series of portraits of the three main characters.\n'
+                          '\n'
+                          'Like few films in recent memory, 21 Grams fully '
+                          'reveals what it is to be human in the clutches of '
+                          "life's most challenging moments."},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer',
              'embedUrl': '/video/imdb/vi3383951641',

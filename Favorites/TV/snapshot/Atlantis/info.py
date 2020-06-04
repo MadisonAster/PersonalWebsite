@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Atlantis',
  'EntryURL': 'https://www.imdb.com/title/tt2705602',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Atlantis/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Atlantis/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Atlantis/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Atlantis/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Mark Addy', 'url': '/name/nm0004692/'},
@@ -44,49 +43,46 @@
              'character,pythagoras character',
  'name': 'Atlantis',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'patrycja-miljevic'},
-            'dateCreated': '2014-01-10',
+            'author': {'@type': 'Person', 'name': 'munchiehk'},
+            'dateCreated': '2013-09-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2705602/'},
-            'name': 'Stupid, but still fun',
-            'reviewBody': 'I decided to watch it because of Mark Addy, I '
-                          "didn't expect much, I suspected it would be as bad "
-                          'as "Robin Hood", and, well... Sometimes I come to '
-                          'think they spent all the funds for hiring him so '
-                          'they had nothing for special effects nor sets and '
-                          'locations.\n'
-                          '\n'
-                          'The mythology in the show is only a loose base of '
-                          'names, sometimes some motives, but if you want to '
-                          'learn about the Greek mythology - then not from '
-                          'here. All the characters are just thrown into one '
-                          'place and time, sometimes they have something in '
-                          "common with the mythology, usually it's only a "
-                          'name. But hey, these are not historic facts, they '
-                          'are myths, so I guess they based an adventure '
-                          "fairytale on other fairy tales, right? Don't get "
-                          "uptight about it, it's not about truth anyway.\n"
-                          '\n'
-                          "There's a lot of bad reviews here, I can see why, "
-                          "but most of these people haven't given the show a "
-                          'chance. The characters are actually not so idiotic '
-                          "as they seem, there's more to them than just the "
-                          'predictable stereotypes we get at the beginning, '
-                          'but they develop the way they are expected to '
-                          "develop, that's true. But in a world with movies "
-                          'like "Fast & Furious", "Twilight", countless crime '
-                          'series about good agents and bad terrorists, you '
-                          'really expect every medium budget production to be '
-                          'of great quality?\n'
-                          '\n'
-                          "To sum it all up, it's definitely not anywhere near "
-                          '"Game of Thrones" and such, but it\'s not so '
-                          'annoyingly stupid as "Robin Hood". It\'s just '
-                          'average, mindless entertainment.',
+            'name': 'Good, old fashioned fantasy adventure.',
+            'reviewBody': 'I watched this with some trepidation, as the show '
+                          'it is essentially replacing, Merlin, was a little '
+                          'silly for my tastes and the acting skills of '
+                          'several of the cast were not impressive, in my '
+                          'view. I am always delighted for my preconceptions '
+                          'to be proved inaccurate and in this instance, it '
+                          'has proved to be the case (touch wood). The show '
+                          'begins weakly, with minimal background on the lead '
+                          'character and we are thrown in (literally) at the '
+                          'deep end. Having watched the whole episode, I can '
+                          'understand now why this is so. Obviously, the '
+                          "mysteries of Jason's origins are destined to be "
+                          'revealed over the course of the series. The sets '
+                          'are gorgeous, especially the scenes filmed in '
+                          'Morocco. The acting is almost uniformly first rate, '
+                          'with Mark Addy (The Full Monty) and Robert Emms in '
+                          'particular standing out. The excellent Alexander '
+                          'Siddig (Deep Space Nine, Syriana) also appears, but '
+                          'his role in the first episode is small. I am sure '
+                          'that will change in future episodes. He is too good '
+                          'to waste on a minor part. This is good, old '
+                          'fashioned swords and monsters escapism done very '
+                          'well. Anyone looking for deeper meanings or '
+                          'historical accuracy will be sorely aggrieved, but '
+                          'that is very far from the point. This show could be '
+                          'everything that Merlin promised, but ultimately '
+                          'failed to deliver. If the rest of the series is '
+                          'anywhere as much fun, I will be watching Atlantis '
+                          'for a long time to come. Take a look and give it 15 '
+                          'minutes before you give up on it. It really picks '
+                          'up in a big way. Well done, BBC!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '5',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Atlantis',

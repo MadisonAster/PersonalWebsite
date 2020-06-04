@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Black-Mirror-Bandersnatch',
  'EntryURL': 'https://www.imdb.com/title/tt9495224',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Black-Mirror-Bandersnatch/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Black-Mirror-Bandersnatch/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Black-Mirror-Bandersnatch/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Black-Mirror-Bandersnatch/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm5219130/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 107204,
+                     'ratingCount': 107205,
                      'ratingValue': '7.2',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -42,36 +41,27 @@
  'keywords': 'interactive movie,1980s,computer,gamebook,interactive',
  'name': 'Black Mirror: Bandersnatch',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Rediith'},
-            'dateCreated': '2018-12-28',
+            'author': {'@type': 'Person', 'name': 'cjb_smith'},
+            'dateCreated': '2019-01-05',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt9495224/'},
-            'name': "A new experience, but that's about it",
-            'reviewBody': 'It never occurred to me that something like this '
-                          'would someday be tried. Kudos to Netflix for trying '
-                          'to push the boundaries of what is possible through '
-                          'this medium. That said, the whole thing felt like a '
-                          'game. A fascinating game because of the novelty, '
-                          'but I felt none of what usually a good film would '
-                          'elicit. Yes, there was a lot of anticipation of '
-                          'what would happen next, but overall, due to the '
-                          'frequent pauses to choose, there was no continuity '
-                          'or involvement in the story per se. Some of the '
-                          'choices too felt pretty childish. The idea that the '
-                          'character was actually feeling like he had no free '
-                          'will and felt compelled to do things as though '
-                          'someone (the viewer) was controlling him - well, it '
-                          'brings a smile the first time, but later, feels '
-                          'like something that perhaps a smoked-up teen would '
-                          'find mind boggling. Overall, yes, definitely '
-                          'something that people would be thrilled to watch '
-                          'and try, but I sincerely hope we do not have a lot '
-                          'of this type of interactive films - at least not at '
-                          'the expense of "normal" films.',
+            'name': 'I think some here are completely missing the point',
+            'reviewBody': "It's very clever and very dark (but then Black "
+                          "Mirror always is). I do agree it's a bit "
+                          'prententious in places. Having now watched all of '
+                          'the 5 endings, and not without some exasperation, '
+                          'and yes repetition, the penny dropped that '
+                          'Bandersnatch is all about choices and the choices '
+                          'you think are under your control. The outcome is '
+                          'pretty bad no matter how you choose because the '
+                          'ultimate destiny is not in your hands. Choices in '
+                          'life are not always good versus bad. It asks more '
+                          'questions than it answers and while that might not '
+                          "be satisfactory to some, that's the whole point.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'In 1984, a young programmer begins to question '

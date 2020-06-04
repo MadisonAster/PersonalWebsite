@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Margin-Call',
  'EntryURL': 'https://www.imdb.com/title/tt1615147',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Margin-Call/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Margin-Call/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Margin-Call/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Margin-Call/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -47,70 +46,47 @@
              'management,investment fraud,21st century',
  'name': 'Margin Call',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'JvH48'},
-            'dateCreated': '2011-10-17',
+            'author': {'@type': 'Person', 'name': 'J. Ryan'},
+            'dateCreated': '2011-10-23',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1615147/'},
-            'name': 'Perfect visualization of recent financial crisis, showing '
-                    'how people on all levels in the financial industry act '
-                    'and think',
-            'reviewBody': 'I saw this film as part of the Ghent filmfestival '
-                          '2011. Its announcement promised an inside view in '
-                          'the financial industry, and particularly how it '
-                          'could cause the recent financial crisis. And '
-                          'precisely this is what it did splendidly. I gave it '
-                          'a "very good"mark (5 out of 5) for the public prize '
-                          'competition when leaving the theater.\n'
+            'name': 'Fantastic film, but not for everyone.',
+            'reviewBody': "It's difficult to review Margin Call. Those of us "
+                          'who were close to the events of 2008 will find '
+                          'something personal in the story-telling. Others may '
+                          'see it as more examples of greed and hubris. In any '
+                          'case, the following observations apply to both '
+                          'groups.\n'
                           '\n'
-                          'I particularly liked the way they avoided the '
-                          'techno babble about financial products, from which '
-                          'we all learned the hard way to be paper constructs '
-                          'only, none of these related with things in the real '
-                          'world. The story also clearly illustrates that '
-                          'higher echelons in the financial industry do not '
-                          'under\xadstand those technicalities either, '
-                          "something we assumed all along but didn't dare to "
-                          'ask for confirmation.\n'
+                          'The performances are top notch. Everyone from '
+                          'Zachary Quinto to Demi Moore brings their A-game. '
+                          'Even supporting characters are oddly fleshed out '
+                          'for a film with such an ensemble cast. Kevin Spacey '
+                          'and Paul Bettany give the performances of their '
+                          'careers, I think. Only the Jeremy Irons character '
+                          '(John Tuld, aka Dick Fuld) feels a bit over the '
+                          'top, while the rest are truly believable '
+                          'well-rounded depictions.\n'
                           '\n'
-                          'Departing from the very different purposes and '
-                          'backgrounds of the main characters, the story line '
-                          'got us involved in the attempts of each of them to '
-                          'cope with the situation at hand. Though their job '
-                          'motivations may drastically differ from yours and '
-                          'mine, this film had no really distinct good and bad '
-                          'guys.\n'
+                          'Despite having good characters and amazing '
+                          'cinematography, the film lacks plot. The backdrop '
+                          "and setting are tense, but this doesn't feel like a "
+                          '"movie" in the traditional sense. There\'s no '
+                          'evolution of characters, no arcs, and the ending '
+                          'may leave some wanting. You can compare it to '
+                          'Michael Mann films where plot and pace are '
+                          'unconventional.\n'
                           '\n'
-                          'The main characters were properly introduced in the '
-                          'time-line when logically needed. We got the chance '
-                          'to know each of them, with their own coping '
-                          'behavior in this volatile environ\xadmeant, yet '
-                          'every\xadone bringing along his own human '
-                          'characteristics. In the process we also saw the '
-                          'golden chains to attach each of them to the '
-                          'company, making it virtually impossible to cut '
-                          'themselves loose from this line of work. We may '
-                          'call it greed, but it is a fact of life that '
-                          'everyone gets used to incoming cash flow, however '
-                          'large and unnecessary it may seem in our eyes. Once '
-                          'being there, it is logical to buy a bigger house '
-                          'and to send kids to expensive schools. After that '
-                          'there is no easy way back, and each one smoothly '
-                          'grows into a life style that is difficult to escape '
-                          'from.\n'
-                          '\n'
-                          'The story line as such is not that important, apart '
-                          'from the fact that it succeeds very well in tying '
-                          'all the above together. It also maintains a '
-                          'constant tension all the time. I consider both '
-                          'aspects an achievement in itself, since nothing '
-                          'really happens in terms of dead bodies, physical '
-                          'fights, and chasing cars. Only a few short scenes '
-                          'were shot outside, but all the rest happened in a '
-                          'standard office building. The final outdoor scene '
-                          "was a bit unexpected (I won't spoil it for you), "
-                          'but it shows that even bankers are human after '
-                          'all.'},
+                          'Not sure how the film will perform commercially, '
+                          "given the material is esoteric. If you're a film "
+                          "buff (and enjoy great performances) or you've been "
+                          'in finance, this is a must-see. Other may likely '
+                          'pass.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '9',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A thriller that revolves around the key people at '
                             'a investment bank over a 24-hour period during '

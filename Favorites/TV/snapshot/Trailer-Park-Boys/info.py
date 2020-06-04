@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Trailer-Park-Boys',
  'EntryURL': 'https://www.imdb.com/title/tt0290988',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Trailer-Park-Boys/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Trailer-Park-Boys/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Trailer-Park-Boys/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Trailer-Park-Boys/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -37,60 +36,45 @@
  'keywords': 'trailer park,poverty,group of friends,mockumentary,trailer home',
  'name': 'Trailer Park Boys',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'thor4923'},
-            'dateCreated': '2006-10-07',
+            'author': {'@type': 'Person', 'name': 'wonderland_ahead'},
+            'dateCreated': '2004-01-21',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0290988/'},
-            'name': 'Knock Knock...F%@k Off.',
-            'reviewBody': 'While I respect the opinions of those who '
-                          'criticized the show (not surprisingly the comments '
-                          'rated "least useful"), it appears that their views '
-                          "are so concrete that they just don't get it.\n"
+            'name': 'It grows on you',
+            'reviewBody': 'When I first left a review of this show I was '
+                          'fairly unimpressed with it. However, since then '
+                          "I've forced myself to watched the entire Seasons "
+                          '1-3 and I have to say it: man, was I wrong.\n'
                           '\n'
-                          'This brilliant series is not intended to reflect '
-                          'the "reality" of trailer park life in Nova Scotia, '
-                          'but is instead a wonderful artistic compilation of '
-                          'many extreme, bizarre, and mundane experiences that '
-                          'are interesting on an entertaining and (feigned) '
-                          'voyeuristic basis. There are operas, soap operas, '
-                          'space operas, and now "park operas". \n'
+                          'It grows on you. If you can get over the bad acting '
+                          "and the political incorrectness you'll find one "
+                          "hell of a show. As another reviewer said it's not "
+                          'an accurate reflection of life in a Nova Scotia '
+                          'trailer park: more like if you took the weirdest '
+                          'members of every trailer park in NS and put them '
+                          'together to dumb it up.\n'
                           '\n'
-                          'Consider how difficult it must be to act improv '
-                          'style not only on the set, but to act "in '
-                          'character" during all media interviews and public '
-                          'engagements, as is the expectation. Not many actors '
-                          'would have the commitment or stamina to carry this '
-                          'through for the benefit of the production image. '
-                          'Mike Smith, who plays the character Bubbles, '
-                          'apparently can only wear the thick glasses for 15 '
-                          'minutes at a time without extreme fatigue.\n'
+                          "Some of the funnier aspects I've found have been "
+                          "Ricky's constant mispronunciations (there are at "
+                          "least then in every episode), Mr Lahey's constant "
+                          'sh*t analogies, and, of course, Bubbles, who makes '
+                          'even the bad episodes worth watching.\n'
                           '\n'
-                          "Let's consider the acting quality and skill. Would "
-                          'Deniro or Pacino make this a better series? No! The '
-                          'charm is in the rough edges, the improv, the '
-                          'humility, and the belief that these are low rung '
-                          'thugs. It is totally believable and a credit to the '
-                          'acting and direction.\n'
+                          "If you give it a chance you won't have a single "
+                          'favourite episode; more like a collection of '
+                          "favorite moments pulled from each ep. Whether it's "
+                          'J-Roc\'s identity crisis ("I hate to admit it ... '
+                          'I\'m white"), Bubbles\' dragging a drunken Ricky '
+                          'home in the back of his go-cart, or the visit from '
+                          "the hysterically creepy Bible Pimp, there'll be at "
+                          'least something that makes you giggle whenever you '
+                          'think of it.\n'
                           '\n'
-                          'How is Canada or Nova Scotia being insulted if we '
-                          'recognize that this series is a parody and that we '
-                          'should not take it so seriously. According to the '
-                          'on-line polls I have viewed for TPB of the episodes '
-                          'to date, the average rating has been 9 out of 10. '
-                          'Most of those voting were from Canada followed by '
-                          'participants from the US, the UK, Australia, and '
-                          'New Zealand. We should be proud that we have had an '
-                          'impact on others, especially on those outside of '
-                          'our country. \n'
-                          '\n'
-                          'If given a chance, you will see how the brilliance '
-                          'shines through the layers of carefully placed sh#@. '
-                          'It is meant to look amateurish!',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
+                          'All that said, BBC America can look forward to a '
+                          'few letters of mixed reactions, and Comedy Central '
+                          'can start kicking themselves for not being the '
+                          'first to snatch it up.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Season 10 trailer for Trailer Park Boys on '
                             'Netflix.',

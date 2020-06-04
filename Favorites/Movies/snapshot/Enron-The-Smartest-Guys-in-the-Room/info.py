@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Enron-The-Smartest-Guys-in-the-Room',
  'EntryURL': 'https://www.imdb.com/title/tt1016268',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Enron-The-Smartest-Guys-in-the-Room/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Enron-The-Smartest-Guys-in-the-Room/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Enron-The-Smartest-Guys-in-the-Room/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Enron-The-Smartest-Guys-in-the-Room/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'John Beard', 'url': '/name/nm1933035/'},
@@ -47,97 +46,48 @@
  'keywords': 'enron,corporation,accounting,accounting fraud,corporate crime',
  'name': 'Enron: The Smartest Guys in the Room',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'EUyeshima'},
-            'dateCreated': '2008-04-17',
+            'author': {'@type': 'Person', 'name': 'lee_eisenberg'},
+            'dateCreated': '2010-01-19',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1016268/'},
-            'name': 'Unfettered Hubris Drives Intriguing Account of Enron '
-                    'Scandal',
-            'reviewBody': 'Even after reading Kurt Eichenwald\'s "Conspiracy '
-                          'of Fools: A True Story", I was not prepared for the '
-                          'near-Greek tragedy presented in this smartly '
-                          'produced documentary of the Enron scandal based on '
-                          'yet another book by journalists Bethany McLean and '
-                          'Peter Elkind. Directed by Andy Gibney, the 2005 '
-                          'film follows the complicated rise and fall of Enron '
-                          'in an easy-to-follow, chronological order since the '
-                          "mid-1980's, using actor Peter Coyote's lucid "
-                          'voice-over narration. Enron started as a '
-                          'moderate-sized Houston gas-pipeline company that '
-                          'grew exponentially, reaping benefits for '
-                          'shareholders and far more so for the Enron '
-                          'executive team for a long, uninterrupted stretch. '
-                          'Billions of dollars were collected due to '
-                          'speculative mark-to-market accounting techniques '
-                          'approved by the SEC, and Enron consequently became '
-                          "one of the world's largest natural-gas suppliers.\n"
+            'name': 'corporate fraud reigns supreme',
+            'reviewBody': 'When Enron filed for bankruptcy at the end of 2001, '
+                          'it was a shock to most Americans. But as "Enron: '
+                          'The Smartest Guys in the Room" shows, it shouldn\'t '
+                          'have been. The documentary, narrated by Peter '
+                          "Coyote, traces the energy giant's origins - "
+                          "including CEO Ken Lay's childhood - to its rise as "
+                          'one of the largest corporations in the United '
+                          'States.\n'
                           '\n'
-                          'What resonates most from this searing film is how '
-                          'circumstantially pathological the chief villains '
-                          'are in this true corporate morality story. While '
-                          'the infamous Ken Lay comes across as the corrupt '
-                          'figurehead we have already come to know through '
-                          "news reports, it's really Enron CFO Andy Fastow "
-                          '(dubbed appropriately "The Sorcerer\'s Apprentice") '
-                          'and especially President and COO Jeff Skilling, who '
-                          'are mercilessly exposed here. Skilling is portrayed '
-                          'as a brilliant leader and a corporate Darwinist, '
-                          'whose favorite book is Richard Dawkins\' "The '
-                          'Selfish Gene", which he apparently translated into '
-                          'a bloodless performance review policy that worked '
-                          'like a genetic algorithm for people. Employees were '
-                          'rated on a 1-5 scale based on the amount of money '
-                          'one made for the company. Skilling mandated that '
-                          "between 10-15% of employees had to be rated as 5's "
-                          '(worst). And to get a rating of 5 meant that one '
-                          'was immediately fired. This review process was '
-                          'dubbed "rank and yank". Such was a typical example '
-                          'of his survivalist thinking.\n'
+                          "What's really interesting is the intricacy of "
+                          "Enron's actions around the world, and how it pulled "
+                          'off all its shenanigans (aided, of course, by Kenny '
+                          "Boy's contributions to George W. Bush's first "
+                          "presidential campaign). Among Enron's more vicious "
+                          "acts was its manipulation of California's "
+                          'electricity in summer, 2001, and how Arnold '
+                          'Schwarzenegger let the company off the hook. Not to '
+                          "mention that Enron's collapse was accompanied by "
+                          "Lay's draining of the employees' retirement.\n"
                           '\n'
-                          'The corruption spread throughout the company, as '
-                          'Enron was responsible for, among other things, '
-                          'gaming the Northern California "rolling blackouts" '
-                          'in 2001, whereby the company profited as huge parts '
-                          'of the state were plunged into darkness. Citizens '
-                          'were threatened by a deregulation plan that '
-                          'essentially enabled a number of immoral Enron '
-                          'traders (led by Tim Belden) to place calls that '
-                          'drove up energy-market prices and took advantage of '
-                          'power-plant shutdowns. Of course, the Bush family '
-                          'dynasty does not come across unscathed in the Enron '
-                          'story and justifiably so according to their '
-                          'inextricable ties to Lay. Gibney effectively uses '
-                          'video footage from testimony at congressional '
-                          'hearings, as well as interviews with disillusioned '
-                          'former employees such as Mike Muckleroy and '
-                          'whistle-blower Sherron Watkins (who uses some '
-                          'effective pop culture references like "Body Heat" '
-                          'and Jonestown to get her points across).\n'
+                          "Enron's downfall - followed over the next year by "
+                          'the implosions of Adelphia, WorldCom and Tyco - '
+                          'just goes to show the dangers of letting '
+                          'corporations run rampant. The whole way through, '
+                          'the documentary manages to be funny, just at the '
+                          'sight of what Enron was doing, abetted by Arthur '
+                          'Andersen.\n'
                           '\n'
-                          'There are some amusing vignettes and images that '
-                          'tie some of the disparate elements together with '
-                          'excessive glibness. The documentary is best when it '
-                          'sticks to the facts, for this is one inarguable '
-                          'case where fact is truly stranger than fiction. '
-                          'Extras are plentiful on the 2006 DVD. Gibney '
-                          'provides an informative albeit verbose commentary '
-                          'track, and four deleted scenes, about twenty '
-                          'minutes in total, are included that become '
-                          "redundant with the film's portrayal of corporate "
-                          'malfeasance. There is also a fourteen-minute '
-                          'making-of featurette, as well as a "Where Are They '
-                          'Now?" snippet on the principals and three separate '
-                          'conversations with McLean and Elkind on how they '
-                          'got the story, how they validated their findings, '
-                          'and their enthusiastic reaction to the film. Other '
-                          'bonus materials include Gibney reading from scripts '
-                          'of skits performed at Enron and a Firesign Theater '
-                          "sketch about Enron's demise, as well as Fortune "
-                          'Magazine articles written by McLean and Elkind and '
-                          'a gallery of editorial cartoons.',
+                          'All in all, I definitely recommend "E:TSGITR".\n'
+                          '\n'
+                          'PS: In "Bowling for Columbine", Michael Moore '
+                          'proposed a TV show called "Corporate Cops" (based '
+                          'on "Cops!"), in which people like Ken Lay would get '
+                          'strip-searched.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'url': '/title/tt1016268/'}

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dave-Chappelle-Sticks--Stones',
  'EntryURL': 'https://www.imdb.com/title/tt10810424',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dave-Chappelle-Sticks--Stones/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dave-Chappelle-Sticks--Stones/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dave-Chappelle-Sticks--Stones/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dave-Chappelle-Sticks--Stones/thumb.jpg',
  'actor': {'@type': 'Person',
@@ -34,14 +33,24 @@
              'jackson,reference to r. kelly',
  'name': 'Dave Chappelle: Sticks & Stones',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'kiragu-42887'},
+            'author': {'@type': 'Person', 'name': 'harry-chapman2111'},
             'dateCreated': '2019-08-27',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt10810424/'},
-            'name': 'Masterpiece',
-            'reviewBody': 'Its been awhile since I saw someone navigate '
-                          'landmines with such mastery',
+            'name': 'Unapologetic, unafraid and God damn funny',
+            'reviewBody': 'Dave Chapelle flys in the face to controversy, '
+                          'producing comedy so refreshing in the current '
+                          'climate of censorious Woke-ness.\n'
+                          '\n'
+                          'He tackles on the nose topics, making the audience '
+                          'undulate between gasps and roaring with laughter!\n'
+                          '\n'
+                          'He evokes the best of Lenny Bruce, unapologetic, '
+                          'unbowed appreciating that everything is a topic for '
+                          'humour or nothing is.\n'
+                          '\n'
+                          'Take a bow.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

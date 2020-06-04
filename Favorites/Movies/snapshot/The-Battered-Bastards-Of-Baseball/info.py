@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Battered-Bastards-Of-Baseball',
  'EntryURL': 'https://www.imdb.com/title/tt3445270',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Battered-Bastards-Of-Baseball/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Battered-Bastards-Of-Baseball/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Battered-Bastards-Of-Baseball/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Battered-Bastards-Of-Baseball/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Todd Field', 'url': '/name/nm0276062/'},
@@ -36,32 +35,35 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjE0NDQwNTU2NF5BMl5BanBnXkFtZTgwNDg1MDUyMjE@._V1_.jpg',
  'name': 'The Battered Bastards of Baseball',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'bbrown8870'},
-            'dateCreated': '2014-09-16',
+            'author': {'@type': 'Person', 'name': 'Geeky Randy'},
+            'dateCreated': '2014-08-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3445270/'},
-            'name': 'Perfect documentary of the 1970s.  A delightful, '
-                    'educational watch.',
-            'reviewBody': 'The deliberate pace of this movie might not be to '
-                          'the taste of all viewers, but I found it riveting. '
-                          'It is a fascinating chapter of the history of '
-                          'Portland, Oregon (in fact the history of the entire '
-                          'Northwest) that has been brought back to life in an '
-                          'unforgettable way.\n'
+            'name': 'Geeky Randy',
+            'reviewBody': 'Documentary about Hollywood veteran Bing Russell '
+                          'creating the only independent baseball team in '
+                          'America at the time, operating without a Major '
+                          'League affiliation. From public tryouts to the '
+                          'in-your-face attitude, the 1973–1977 Portland '
+                          'Mavericks are a thrill to watch. Featuring '
+                          'interviews with Kurt Russell, Todd Field, Frank '
+                          '"The Flake" Peters, Joe Garza, Jim Bouton and Joe '
+                          "Garagiola. What's even more exciting than hearing "
+                          'about these underdogs win is hearing about Bing '
+                          'Russell going face-to-face with the powerful '
+                          'establishment of Major League Baseball and '
+                          "basically telling them that the only rules he'll "
+                          'play by are the rules of baseball. Nowadays, '
+                          'however, it feels a bit ironic that a guy like Bing '
+                          'Russell, the man who did it all for the love of the '
+                          'game which included practically giving the middle '
+                          'finger to the bureaucracy of sporting '
+                          'establishments, would be a New York Yankees fan.\n'
                           '\n'
-                          'The mix of current interviews of actual '
-                          'participants, contemporary interviews, news reels '
-                          'clips and professional editing cement the '
-                          'documentation. Truly Oscar worthy.\n'
-                          '\n'
-                          "You don't have to even LIKE baseball to sink "
-                          'yourself into this story. It will carry you. '
-                          'However, if you like the sport, if you have ever '
-                          'watched "Bonanza", ever heard of Lefty Gomez or '
-                          "know who Snake Plisskin is, you're in for a treat.",
+                          '***½ (out of four)',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'url': '/title/tt3445270/'}

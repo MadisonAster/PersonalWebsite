@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Divorce-Corp',
  'EntryURL': 'https://www.imdb.com/title/tt2636456',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Divorce-Corp/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Divorce-Corp/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Divorce-Corp/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Divorce-Corp/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -52,58 +51,42 @@
  'keywords': 'social injustice,court,custody,marriage,feminism',
  'name': 'Divorce Corp',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'paul-allaer'},
-            'dateCreated': '2014-01-28',
+            'author': {'@type': 'Person', 'name': 'MartinHafer'},
+            'dateCreated': '2015-09-23',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2636456/'},
-            'name': 'Revolting documentary will get under your skin',
-            'reviewBody': '"Divorce Corp." (2014 release; 93 min.) is a '
-                          'documentary that takes a closer look at the '
-                          'business of divorce in the US. Yes, business, as we '
-                          'are informed that this is a $50 billion/yr. '
-                          'industry, and the average divorce (including '
-                          'related child custody issues) costs $50,000. As the '
-                          'movie opens, we are introduced to a guy in '
-                          'Cincinnati who tells the tragic story of how his '
-                          'second wife, not long after they have a little boy, '
-                          'pulls the rug from under his feet and is able to '
-                          'not only ruin his finances and reputation but also '
-                          'to keep him from seeing his own son. As the movie '
-                          'progresses, we come to know others (in Memphis, '
-                          'Dallas, etc.) who have similar blood-boiling '
-                          'stories to tell. To tell you more specifics of the '
-                          'documentary would spoil your viewing experience, '
-                          "you'll just have to see it for yourself.\n"
+            'name': 'Everyone contemplating divorce should see this FIRST.',
+            'reviewBody': 'I have never been divorced and have been happily '
+                          'married for almost 30 years, so I realize I am '
+                          'probably not the target audience for this film. '
+                          'However, if you, too, fall into a similar '
+                          "situation, it does not mean you shouldn't see "
+                          '"Divorce Corp"--in fact I think every American '
+                          'should as the film brings up many instances of '
+                          'judicial malfeasance that we SHOULD be aware of and '
+                          'which should make us angry. Imagine a court system '
+                          'with almost no oversight or right to appeal and '
+                          'whose aim is NOT a speedy resolution of family '
+                          'tragedies--whose ultimate aim, in many cases, is to '
+                          'bleed as much money from the divorcing couples as '
+                          "possible. And, imagine a system where what's best "
+                          'for the kids is sometimes unimportant. Welcome to '
+                          'the US family court system--where endless '
+                          'regulations, delays and costs practically bankrupt '
+                          'a person wanting a divorce. Learn about all this '
+                          'and more in this very hard hitting and interesting '
+                          'film. But also be prepared to finish the film '
+                          'feeling angry...\n'
                           '\n'
-                          'Couple of comments: first, even though examples are '
-                          'pulled from across the country, the documentary as '
-                          'a whole is heavily California-focused, perhaps not '
-                          'a surprise since it seems California is on the '
-                          'cutting edge of many divorce/custody battle '
-                          'strategies (and they do mean "battle"). Second, '
-                          'what really gets under your skin is the vested and '
-                          'interlinked interest that EVERYONE involved except '
-                          'the families themselves, has to keep this '
-                          '"industry" going and growing. The documentary does '
-                          'a great job contrasting this with the situation in '
-                          '"Scandinavia" (mostly examples from Iceland, some '
-                          'from Sweden). Third, kudos to '
-                          'writer-producer-director Joe Sorge for bringing us '
-                          'this riveting, and revolting, assessment of '
-                          'divorce, and family courts in general.\n'
-                          '\n'
-                          'This movie showed up a few weekends ago on a single '
-                          'screen for all of Greater Cincinnati. I figured '
-                          "this wouldn't be playing long so I went to see it a "
-                          'few days ago. I had a private screening, as in: I '
-                          'was literally the only person in the theater. No '
-                          'matter, this is an excellent documentary. Whether '
-                          'you can check it out in the theater or on '
-                          'DVD/Blu-ray, "Divorce Corp." is HIGHLY RECOMMENDED!',
+                          'And, by the way, if you are considering divorce, '
+                          'you may just want to watch this one first. After '
+                          'all, the idea of an easy, non- contested and '
+                          'inexpensive divorce is just about extinct and the '
+                          'acrimony that is to come is something to consider.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'An exposÃ© of the inner workings of the $50 '

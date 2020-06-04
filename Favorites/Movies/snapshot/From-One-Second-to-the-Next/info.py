@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/From-One-Second-to-the-Next',
  'EntryURL': 'https://www.imdb.com/title/tt3108864',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/From-One-Second-to-the-Next/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/From-One-Second-to-the-Next/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/From-One-Second-to-the-Next/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/From-One-Second-to-the-Next/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -44,87 +43,33 @@
              'officer',
  'name': 'From One Second to the Next',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'hkauteur'},
-            'dateCreated': '2013-09-10',
+            'author': {'@type': 'Person', 'name': 'Mario64'},
+            'dateCreated': '2017-09-22',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3108864/'},
-            'name': 'HK Auteur Review - From One Second to the Next',
-            'reviewBody': 'The moment I read about this new documentary short '
-                          'from Werner Herzog, I thought, "A public service '
-                          'announcement video to warn people to never text '
-                          'while driving? Really?" It seems like a small hair '
-                          'ball of a problem that should already be common '
-                          "sense. Having watched the short, I realized that's "
-                          'precisely the problem, that texting while driving '
-                          'seems like a such a minor hiccup. It is not.\n'
+            'name': 'Very Moving Documentary Short',
+            'reviewBody': '"From One Second to the Next", by the renowned '
+                          'documentarian Werner Herzog, is a powerful short on '
+                          'the most tragic consequences resulting in people '
+                          'texting while driving. Herzog takes the subject '
+                          'that while serious may appear too general or '
+                          'simplistic a topic, and makes it a really personal, '
+                          'moving experience, showing both side of several '
+                          'very sad incidents. The interviews of both loved '
+                          'ones of victims, and of those whose texting caused '
+                          'tragedies (those who were willing to speak) are '
+                          'very powerful and moving.\n'
                           '\n'
-                          'The half-hour short covers the story of four '
-                          'accidents that have caused by texting while '
-                          'driving. One case has a child that is paralyzed for '
-                          'life and is currently on life support, caused by an '
-                          'accident from a teenage girl who was distracted '
-                          'from texting. There were no skid marks. She never '
-                          'saw him. Another case involves a man who killed two '
-                          'Amish children. The driver is now perpetually left '
-                          'to questioning himself what was so important about '
-                          "his text that couldn't wait. The other two cases "
-                          'was a family dealing with the monstrous medical '
-                          "bills from her mother's accident and a family "
-                          'losing her father. What really struck me was the '
-                          "last man who caused the accident, who wasn't able "
-                          'to recall the text message he sent after the '
-                          "accident happened. He couldn't remember why it was "
-                          'important.\n'
-                          '\n'
-                          'Herzog brings his brand of deep introspectiveness '
-                          'to the short, adding the much-needed seriousness '
-                          'this topic deserves. As the title suggests, life is '
-                          "connected by each second. It's in- between each "
-                          'seconds we must throw caution, because everything '
-                          'can change within a second. The most disturbing '
-                          'part for me was, my initial reaction was exactly '
-                          'the type of behavior this short was trying to warn '
-                          'against. It is not a hairball. It is not something '
-                          'to handle. Reading a text is not better than '
-                          'sending a text. There are human lives at stake. Do '
-                          'not text and drive. You just do not do it.\n'
-                          '\n'
-                          'Some statistics I found on texting while driving:\n'
-                          '\n'
-                          '\n'
-                          '* Texting while driving causes 1,600,000 accidents '
-                          'per year.\n'
-                          '\n'
-                          '\n'
-                          '\n'
-                          '* The minimal amount of time needed for a text is 5 '
-                          'seconds. If you are traveling at 88.5 km/hour (55 '
-                          'miles/hour), that would cover an entire football '
-                          'field without any attention paid to the road.\n'
-                          '\n'
-                          '\n'
-                          '\n'
-                          '* As of 2011, at least 23% auto collisions have '
-                          'involved cell phones. That amounts to 1.3 million '
-                          'car crashes.\n'
-                          '\n'
-                          '\n'
-                          '\n'
-                          '* 1 out of 5 drivers of all ages confess to surfing '
-                          'on the web while driving.\n'
-                          '\n'
-                          '\n'
-                          '\n'
-                          '* Text messaging is the longest eye-off-the-road '
-                          'time out of all the distracted driving activities. '
-                          'An accident is 23 times more likely to happen if '
-                          'you are text messaging.\n'
-                          '\n'
-                          '\n'
-                          'The documentary can be viewed on Youtube. The '
-                          'slogan to the AT&T campaign is "It can wait."\n'
-                          '\n'
-                          'For more reviews, please visit my film blog at '
-                          'http://hkauteur.wordpress.com/'},
+                          'Beyond all this is a dire warning to anyone who has '
+                          'this reckless habit to get away with it right away, '
+                          "and those haven't garnered it to make sure they "
+                          "don't start. No words which you can wait to say "
+                          'later—it can only take one word, an abbreviation of '
+                          'a few letters—can ever be worth the needless taking '
+                          'of a human life.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '9',
+                             'worstRating': '1'}},
  'url': '/title/tt3108864/'}

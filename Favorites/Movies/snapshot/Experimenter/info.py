@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Experimenter',
  'EntryURL': 'https://www.imdb.com/title/tt3726704',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Experimenter/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Experimenter/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Experimenter/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Experimenter/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -46,37 +45,58 @@
  'keywords': 'psychologist,electric shock,human behavior,milgram,experiment',
  'name': 'Experimenter',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'pjr235'},
-            'dateCreated': '2015-10-24',
+            'author': {'@type': 'Person', 'name': 'Shuggy'},
+            'dateCreated': '2015-08-01',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3726704/'},
-            'name': 'Fantastic',
-            'reviewBody': 'This movie gave a great insight into human nature '
-                          'and so did the experiments. Yes it was a tad slow '
-                          'but it only felt like that to me after I had '
-                          'watched it. I was immediately drawn in by the whole '
-                          'setup of the experiment and with the progression of '
-                          "the rest of them. This won't get anyone's heart "
-                          'pumping or racing but nonetheless I was glued to '
-                          'the screen with what this movie was trying to show '
-                          'me. I was so fascinated by the whole idea of it, '
-                          "that putting up with any of the 'slow' parts seemed "
-                          "quite easy. If you're in any way interested in "
-                          'human nature and how or why people could bring '
-                          "themselves to do certain things, you'll definitely "
-                          'appreciate this film.\n'
+            'name': 'An elephant?',
+            'reviewBody': 'For some reason I expected more of a documentary, '
+                          'so this docudrama nearly had me out the door, but '
+                          'the authoritative man in the grey lab coat '
+                          'persuaded me to stay.\n'
                           '\n'
-                          "I didn't know anything about this man or his "
-                          'experiments but I always wondered about the very '
-                          "same things he did in regards to the tragedy's he "
-                          'spoke of and others. How can people slaughter '
-                          'others or commit heinous acts, bring themselves to '
-                          'do these things and then simply claim they were '
-                          "only the messenger? I believe it's definitely worth "
-                          'a watch to anyone.',
+                          'It clearly, and to my understanding, accurately, '
+                          'lays out the format of the notorious Milgram '
+                          'Experiment, which is necessary for all that '
+                          'follows; the public and academic backlash, our '
+                          'involvement as we question whether we would behave '
+                          "like Milgram's subjects, and his own "
+                          'soul-searching. To be sure, he comes across as '
+                          'quite cold-hearted, and more self-doubt would have '
+                          'made a more interesting story. Instead, all of the '
+                          'doubt is carried by his colleagues and Wynona Ryder '
+                          'as his patient wife.\n'
+                          '\n'
+                          'The original experiment is well-enough represented '
+                          'that the re-creation of a TV series about it (with '
+                          'Kellan Lutz as a young William Shatner playing the '
+                          'Milgram character) has some amusingly obvious '
+                          'elements of parody, and hence self-parody of this '
+                          'film.\n'
+                          '\n'
+                          'The film has some unsettling features over and '
+                          'above the experiments themselves - scenes carried '
+                          'out in colour in front of poorly placed monochrome '
+                          'back-projections, and an elephant, yes, a real, if '
+                          'slightly out of focus elephant behind Peter '
+                          'Sarsgaard as he talks to the camera walking towards '
+                          "us along a university corridor. Why? If it's The "
+                          'Elephant In The Room, what are we not seeing? \n'
+                          '\n'
+                          'As Milgram points out, he and his experiment are '
+                          'treated with opprobrium, but the results are '
+                          'accepted, and serve their purpose. While the '
+                          'Holocaust is repeatedly invoked (including footage '
+                          'of the Eichmann trial), and Milgram twice mentions '
+                          'that his name is Hebrew for pomegranate (in fact '
+                          "it's not but milgrom is the Yiddish), an obvious "
+                          'ethical parallel is not mentioned: the Nazi '
+                          'experiments of killing prisoners with X-rays, which '
+                          'are still shown (usually on an opt-in basis) to '
+                          'medical students.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'url': '/title/tt3726704/'}

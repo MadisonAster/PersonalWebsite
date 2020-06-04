@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Poppy',
  'EntryURL': 'https://www.imdb.com/title/tt1458968',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Poppy/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Poppy/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Poppy/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Poppy/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -41,26 +40,27 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BODI3OTU0NDA2NV5BMl5BanBnXkFtZTcwMDg1MTIwNA@@._V1_.jpg',
  'name': 'Poppy',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'thewilberforces-1'},
-            'dateCreated': '2009-09-10',
+            'author': {'@type': 'Person', 'name': 'qcostard'},
+            'dateCreated': '2009-09-15',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1458968/'},
-            'name': 'Very affecting animation.',
-            'reviewBody': 'This film made me cry, which surprised me from a '
-                          'short animation. The characters at first looked '
-                          'slightly strange but I found myself very much '
-                          'pulled into their world. The World War One setting '
-                          'makes for very sparse and atmospheric animation. '
-                          'The sound design was very strong. The detail with '
-                          'the German language was very amusing. There a piece '
-                          'three-quarters of the way through where the main '
-                          'character is very hopeless and alone in the '
-                          'war-zone surrounded by death with a screaming baby. '
-                          'This was the bit that made me cry. The true story '
-                          'element gave me cause to gasp when the photograph '
-                          'of the actual soldier was revealed at the end. I '
-                          "wouldn't say that this is a film for children.",
+            'name': 'Saw this at Telluride FF.',
+            'reviewBody': 'It works beautifully. Cannot believe it was made by '
+                          "such a small handful of people. Let's face it - CGI "
+                          'creds usually go on longer than the film. It was '
+                          'refreshing to hear kiwi accents in a slick looking '
+                          'high quality context. Plenty of detail. The story '
+                          'is tight. The whole context of motion capture usage '
+                          'in adult stories is an interesting area - Beowulf '
+                          'and all that. Will be interesting to see where the '
+                          'technology goes over the next few years. I suppose '
+                          "there's the temptation with CGI and Motion Capture "
+                          'to turn things into unnecessary confections, but '
+                          'also the opportunity to show things that would be '
+                          'impossible to shoot. POPPY seems to tell a '
+                          'carefully thought out emotive story and the hi tech '
+                          'side is kept on a tight leash.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

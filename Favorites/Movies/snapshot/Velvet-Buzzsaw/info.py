@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Velvet-Buzzsaw',
  'EntryURL': 'https://www.imdb.com/title/tt7043012',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Velvet-Buzzsaw/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Velvet-Buzzsaw/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Velvet-Buzzsaw/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Velvet-Buzzsaw/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0836432/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 50209,
+                     'ratingCount': 50210,
                      'ratingValue': '5.7',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -42,29 +41,34 @@
              'horror,dark satire',
  'name': 'Velvet Buzzsaw',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Rendanlovell'},
-            'dateCreated': '2019-02-01',
+            'author': {'@type': 'Person', 'name': 'iconichorror-73302'},
+            'dateCreated': '2019-02-05',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt7043012/'},
-            'name': 'Huh',
-            'reviewBody': 'After Nightcrawler Dan Gilroy is a figure that I '
-                          'will permanently be interested in. Then came along '
-                          'Roman J Israel which was a frustrating experience. '
-                          'There was a lot of good in it but it seemed to '
-                          'relish being slow and unnecessarily wordy. Now we '
-                          'have Velvet Buzzsaw. A movie so plain, I had '
-                          'absolutely no response to. There is barely enough '
-                          'here to be upset about and nearly nothing to be '
-                          "wowed by. It's just so...bland. You'd think Jake "
-                          'gyllenhaal would be the main character but he '
-                          "isn't. In fact, no one is. It's Totally confused, "
-                          'strangely muddled, and tonally messy. It was almost '
-                          'as if the film was passing through my head as soon '
-                          'as it went in.',
+            'name': 'Unique but was not strong enough to become great.',
+            'reviewBody': 'Velvet Buzzsaw is one of the most unique and '
+                          "ambitious horror idea I've seen in awhile. The "
+                          'paranormal slaying artwork was cool and it was '
+                          'filled with people I wanted to see killed. The '
+                          'unfortunate part is that there was no really '
+                          'likable characters, the only one that got close was '
+                          'John Malkovich but there was not enough scenes to '
+                          'save it. The movie is good but I feel it is going '
+                          'to divide horror fans . There are plenty off '
+                          'beautiful scenes and art and I am really trying to '
+                          'figure out why there were so many shots of eyes I '
+                          "am positive I'm missing something from that and "
+                          "that's why I feel it wont be received well. it has "
+                          "a sense of wonder about it and people today don't "
+                          'like that, they want everything force feed. I '
+                          'recommend giving this one a couple viewings on face '
+                          'book and discover. I personally enjoyed the film '
+                          'but it did not do enough to make a great horror '
+                          'just a good one.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '5',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'After a series of paintings by an unknown artist '

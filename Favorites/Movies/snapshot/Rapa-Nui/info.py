@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Rapa-Nui',
  'EntryURL': 'https://www.imdb.com/title/tt0110944',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Rapa-Nui/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Rapa-Nui/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Rapa-Nui/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Rapa-Nui/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -52,29 +51,65 @@
  'keywords': '17th century,aboriginal western,easter island,statue,kiss',
  'name': 'Rapa Nui',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'm.cordell'},
-            'dateCreated': '2001-09-28',
+            'author': {'@type': 'Person', 'name': 'lnery'},
+            'dateCreated': '2011-05-06',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0110944/'},
-            'name': 'Gorgeous',
-            'reviewBody': 'The island itself is stunningly beautiful and the '
-                          'film makes good use of this, especially the race at '
-                          'the end which is compelling in its apparent '
-                          'difficulty for the actors. As for the accuracy of '
-                          'the film it is mainly based on guesswork, so the '
-                          'whole racial element is for the benefit of drama. '
-                          'What surprises me is that some of the other '
-                          'reviewers wonder how an advanced civilisation can '
-                          'be so racist! Take a look at your own society and '
-                          'wonder! As well as a love story there is a '
-                          'competitive element, and an explanation about what '
-                          'happened to the island. If Easter Island interests '
-                          'you this film will entertain. As for the nudity, '
-                          "don't be so prudish!",
+            'name': 'I have visited Rapa Nui',
+            'reviewBody': '... and I am very glad I did.\n'
+                          '\n'
+                          'I had not seen the movie prior to going there 6 '
+                          'months ago, for two reasons: people told me it was '
+                          'boring, and when I started watching it, I was '
+                          'bothered by the orangey hue of the movie.\n'
+                          '\n'
+                          "I'm glad that this time I persisted. By no means a "
+                          'classic, it certainly is entertaining, and the '
+                          'actions scenes are genuinely GOOD. \n'
+                          '\n'
+                          'I went to Rapa Nui because I was mesmerized with '
+                          'the idea of an ultra-isolated island where an '
+                          'ecological tragedy happened because of huge stone '
+                          'heads. In fact, I read extensively about the island '
+                          'before visiting it. The reading I recommend the '
+                          'most is Jared Diamond\'s book "Collapse", which '
+                          'draws from reputable scientific sources and Mr. '
+                          "Diamond's encyclopedic knowledge of geography and "
+                          'biology.\n'
+                          '\n'
+                          'I was hoping to find an island of archaeological '
+                          'interest. What I found was an open-air museum that '
+                          'exceeded all my expectations about archeology, and '
+                          'also a very pleasant and delightful place to '
+                          'visit.\n'
+                          '\n'
+                          'There is no crime. There is no pollution. The only '
+                          '(tiny) beach has white sand and blue water in a '
+                          'perfect temperature. The natives are incredibly '
+                          'nice and even the tourists were interesting '
+                          '(because, really, who goes there?). Now I have a '
+                          'toddler-sized moai in my living room and many '
+                          'wonderful pictures with stones, moai, sunsets, '
+                          'stones, blue sea, volcanoes, moai, and lots of more '
+                          'stones.\n'
+                          '\n'
+                          'And the trees? Around the only town, Hanga Roa, '
+                          'there are many of them! Traumatized with the '
+                          'haunting tale of environment destruction, people '
+                          'are starting to plant crops, and the hotels have '
+                          'beautiful gardens, and the whole town is shady and '
+                          "breezy because of all the trees. It's not all "
+                          'dryness and destruction.\n'
+                          '\n'
+                          "I also believe this movie is underrated. Don't go "
+                          'by the negative interviews! The orangey colors of '
+                          "the movie, though lamentable, don't detract from "
+                          'the overall experience, but if you can find a '
+                          'better copy, by all means do so.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Warner Home Video',

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Channel-Zero',
  'EntryURL': 'https://www.imdb.com/title/tt4820370',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Channel-Zero/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Channel-Zero/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Channel-Zero/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Channel-Zero/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -41,68 +40,30 @@
              'candle cove,reference to creepypasta',
  'name': 'Channel Zero',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'cmt571'},
-            'dateCreated': '2016-11-20',
+            'author': {'@type': 'Person', 'name': 'afall-33599'},
+            'dateCreated': '2017-01-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4820370/'},
-            'name': 'Solid, Frightening Experience',
-            'reviewBody': 'When I first heard that Syfy was making a show '
-                          'about creepypastas, I was skeptical at best, '
-                          'especially since I never found the story of Candle '
-                          'Cove to be scary; in fact, I viewed it as one of '
-                          'the weaker creepypastas out there. The few promos I '
-                          'saw intrigued me, though, so I gave the show a '
-                          "shot. I'm not sure whether that was the best or "
-                          'worse decision I have made about a TV series.\n'
-                          '\n'
-                          'This show genuinely disturbed me in ways I honestly '
-                          "didn't know were possible. I'd like to point out "
-                          'that I do not find horror movies even remotely '
-                          'scary--American, Japanese, or otherwise--and '
-                          '"horror" shows even less, so I was not expecting '
-                          'that Channel Zero would be the one to freak me out. '
-                          'A huge part of this is due to the production and '
-                          'direction of this series. Considering that the '
-                          'creator/one of the writers/producers of this show '
-                          'was also a writer and co-producer for the show '
-                          'Hannibal, looking back I can see parallels in both '
-                          'storytelling and pacing. Instead of having '
-                          'jump-scares every five seconds, Candle Cove used '
-                          'long, slow, drawn-out shots (sometimes painfully '
-                          'so) to build anticipation and force you to imagine '
-                          'what the heck could possibly be just out of the '
-                          'shot, or what was going to happen. I also have to '
-                          'give major credit to the props, costume, and makeup '
-                          'departments for crafting thoroughly terrifying, '
-                          'organic visuals that never felt clichéd. The acting '
-                          'was believable, even with the child actors, but '
-                          "there wasn't much chemistry between any of the "
-                          "characters. I'm not sure if this was intentional "
-                          "given the main character's backstory and what's "
-                          "going on in the story, but it's what I've elected "
-                          "to believe. While it felt odd, it wasn't "
-                          'distracting, but did make some interactions less '
-                          'intense or grounded than they probably should have '
-                          'been. At times it seemed like there were a lot of '
-                          "plot-points that didn't seem to lead anywhere, but "
-                          'ultimately the story wrapped itself up nicely, and '
-                          'explained nearly everything...albeit in the '
-                          'freakiest, most nerve-wracking way possible.\n'
-                          '\n'
-                          'Overall, the show was not perfect, but it was '
-                          "solid. I appreciated that it didn't resort to cheap "
-                          'horror scare tactics and tropes, and that it made a '
-                          'simple internet-urban-legend a dark, messed up show '
-                          'that got under my skin. If you enjoy traditional '
-                          'horror, this show might seem boring and '
-                          'anti-climactic, but if you can let yourself get '
-                          "sucked in and stick with it, then you'll probably "
-                          'be rewarded with some Grade-A, well-crafted '
-                          'nightmare fuel.',
+            'name': 'A Rare Treat- Great TV Show!',
+            'reviewBody': 'I have found that there are many movies and TV '
+                          'shows out there that go for a lot of shock factor '
+                          'through disturbing imagery/ plot devices and '
+                          'over-the-top gore. Because of these standards '
+                          'becoming more consistent it has become more '
+                          'difficult for me to find actually "scary" or '
+                          '"creepy" movies and TV shows vs just plain '
+                          'disturbing or shocking ones. Channel Zero (Candle '
+                          'Cove) immediately brought a creepy element into the '
+                          'story from episode 1 and carried it through to the '
+                          'end in what I have found was an altogether creepy, '
+                          'thrilling and actually scary story. SYFY knocked '
+                          'this one out of the park I cannot wait for season '
+                          '2. Take note, Ryan Murphy- this is what a REAL '
+                          'horror story looks like.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '5',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi2419570713',

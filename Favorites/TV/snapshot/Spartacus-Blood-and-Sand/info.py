@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Spartacus-Blood-and-Sand',
  'EntryURL': 'https://www.imdb.com/title/tt1442449',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Spartacus-Blood-and-Sand/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Spartacus-Blood-and-Sand/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Spartacus-Blood-and-Sand/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Spartacus-Blood-and-Sand/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm2213306/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 215894,
+                     'ratingCount': 215899,
                      'ratingValue': '8.5',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -41,31 +40,25 @@
  'keywords': 'gladiator,gay,female nudity,violence,slave',
  'name': 'Spartacus: Blood and Sand',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'melissalee1973'},
-            'dateCreated': '2010-01-26',
+            'author': {'@type': 'Person', 'name': 'gdonaldson-86399'},
+            'dateCreated': '2020-01-06',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1442449/'},
-            'name': 'Totally HOT!',
-            'reviewBody': 'Another great show out of New Zealand! Okay, so the '
-                          'language is a bit much but the battle sequences '
-                          'rock and Craig Parker as a nasty, Roman lusting for '
-                          "power, just works! There's a lot of blood but the "
-                          'effect is cool and it gives the show that graphic '
-                          "novel quality that we've enjoyed recently in films "
-                          'such as 300. Andy Whitfield plays a very raw and '
-                          'passionate Spartacus. Definitely not a show for the '
-                          'faint of heart or those who are easily offended by '
-                          'blood, sex or violence. Should we really expect '
-                          'less given that Roman Empire of that time was '
-                          'brutal? Folks looking for a history lesson need to '
-                          'tune in to the History Channel. This show is '
-                          'intended to be entertaining not a documentary so if '
-                          "it is historical fact you are looking for you're "
-                          'best to keep moving. If, however, you want to be '
-                          'entertained by raw masculinity of the gladiator '
-                          'from one of the most brutal eras in human history '
-                          'this show is definitely for you.'},
+            'name': 'No need for a long review',
+            'reviewBody': 'The complete series is an absolute masterpiece. As '
+                          'a former Australia producer I am so proud of the '
+                          'most sincere work not only from the cast but also '
+                          'the crew. Based in New Zealand it brings a complete '
+                          'smorgasbord of the great talents from director, '
+                          'producers, cinematography to a unique editing style '
+                          'and I must impress upon the casting just perfect. '
+                          'To all involved you do yourselves proud and you '
+                          'bring credit to our industry. Job well done!',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '10',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Watch a preview of the penultimate episode.',
              'embedUrl': '/video/imdb/vi652322329',

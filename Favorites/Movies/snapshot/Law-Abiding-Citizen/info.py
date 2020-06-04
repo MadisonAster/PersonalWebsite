@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Law-Abiding-Citizen',
  'EntryURL': 'https://www.imdb.com/title/tt1197624',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Law-Abiding-Citizen/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Law-Abiding-Citizen/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Law-Abiding-Citizen/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Law-Abiding-Citizen/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0000538/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 264109,
+                     'ratingCount': 264110,
                      'ratingValue': '7.4',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -44,35 +43,54 @@
  'keywords': 'justice,terrorism,deal,investigation,criminal mastermind',
  'name': 'Law Abiding Citizen',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'DivergentRunoff'},
-            'dateCreated': '2011-01-20',
+            'author': {'@type': 'Person', 'name': 'Bonesnap'},
+            'dateCreated': '2010-05-31',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1197624/'},
-            'name': "It's the Script That's Insane, Not the Characters",
-            'reviewBody': 'Law Abiding Citizen is about as close as a movie '
-                          'can come to being good while still having a '
-                          'ridiculously poor script. The acting from Gerard '
-                          'Butler and Jamie Foxx is fine, though not '
-                          'exceptional. Butler basically does a good job with '
-                          'a very inconsistent character. The production '
-                          'values are good, and the movie has a few nice gory '
-                          'scenes, although most of the outdoor scenes were so '
-                          'green-tinted that I suspect the entire movie may '
-                          'have taken place in the Matrix and I must therefore '
-                          'entirely forgive the plot holes.\n'
+            'name': 'An ending that works (for me)',
+            'reviewBody': 'Almost everyone agrees. Law Abiding Citizen is a '
+                          'great movie but the ending sucks.\n'
                           '\n'
-                          'The problem is, from start to finish, the movie is '
-                          'filled with silly plot inconsistencies, unresolved '
-                          'details, and twists that throw prior scenes into '
-                          'question. The characters also make decisions that '
-                          'seem incongruous with their professions, knowledge, '
-                          'and with reality. \n'
+                          'The problem is, with about 30 minutes to go, the '
+                          'movie wants us to stop cheering on Clyde (Gerry '
+                          'Butler) and suddenly start thinking of Nick (Jamie '
+                          "Foxx) as the hero. That's not going to work, the "
+                          'audience has just invested about 90 minutes of '
+                          'wanting Clyde to continue with his vengeance. Damn '
+                          'right too.\n'
                           '\n'
-                          'If you can enjoy a movie with a lot of bad writing, '
-                          "there's still a lot of movies I would recommend "
-                          'first, but Law Abiding Citizen is watchable at the '
-                          'very worst.'},
+                          'The plot should have continued to its logical '
+                          'conclusion. Clyde was trying to teach Nick a '
+                          'lesson, that the system was so broken that it could '
+                          'only be fixed by being destroyed first. Rather than '
+                          'the squeaky-Hollywood-ending-slop they served up, '
+                          "here's what should have happened...\n"
+                          '\n'
+                          'In the solitary confinement cell at the end, Jamie '
+                          "Foxx's character Nick should have taken the "
+                          'cell-phone from Clyde then remote-detonated the '
+                          'bomb at city hall, blowing up the mayor, the brass, '
+                          'the whole rotten system, then gone off to watch his '
+                          "daughter's cello recital.\n"
+                          '\n'
+                          'Now, that ending would have been really insane, but '
+                          'it would have taken the movie to its logical '
+                          "conclusion. Nick's conversion would have been "
+                          'complete. As an ending, it would be right up there '
+                          "with Jimmy Cagney at the end of White Heat, 'Made "
+                          "it Ma, top of the world!' Morally dubious, yes, but "
+                          'it would have given us a bona-fide classic. It '
+                          'would be rating 9.8 here on IMDb rather than this '
+                          'insipid seven-point-bleh.\n'
+                          '\n'
+                          'Oh, and the movie loses a point for Gerard Butler '
+                          'not using his own voice. Gerry is a Scot and has a '
+                          'fine Glasgow accent, he should use it.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '7',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A clip from the movie Law Abiding Citizen.',
              'embedUrl': '/video/imdb/vi1598816793',

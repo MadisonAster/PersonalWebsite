@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Worst-Jobs-in-History',
  'EntryURL': 'https://www.imdb.com/title/tt0423775',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Worst-Jobs-in-History/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Worst-Jobs-in-History/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Worst-Jobs-in-History/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Worst-Jobs-in-History/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -35,29 +34,27 @@
  'keywords': 'visit',
  'name': 'The Worst Jobs in History',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'switchkid0'},
-            'dateCreated': '2004-09-27',
+            'author': {'@type': 'Person', 'name': 'christmas327'},
+            'dateCreated': '2004-12-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0423775/'},
-            'name': 'Fantastic series from Four',
-            'reviewBody': 'One of the finer documentaries of recent years. '
-                          "Robinson's chummy, honest style of presenting makes "
-                          "the history real and accessible. I've seen three "
-                          'episodes, and hope there are more out there. '
-                          'There\'s an element of "Fear Factor" (Tony gags as '
-                          'he trods on wool cloth in a vat of stale human '
-                          'urine), and also some really revealing emotional '
-                          'moments, as in the "egg-gathering", and the '
-                          '"headsman".\n'
-                          '\n'
-                          'Most "history-rich" documentaries tend to leave a '
-                          'lot of viewers cold, being all facts, dates, and '
-                          'places. This series humanizes the history, and '
-                          'affords us an insight into the day-to-day struggle '
-                          'of common folks, such as ourselves.\n'
-                          '\n'
-                          "No matter how bad your job may be, I think it's "
-                          'easy to say that it doesn\'t compare to "The Worst '
-                          'Jobs in History".'},
+            'name': 'Fantastic!!',
+            'reviewBody': 'I most recently watched Tony Robinsons "Worst Jobs '
+                          'In History" and enjoyed it more than I can say. '
+                          "I've always thought due to past shows on these eras "
+                          'that I may have enjoyed living in these times, but '
+                          'with the reality shown on this documentary may have '
+                          'to recant my former wishes. The reality of these '
+                          'times although sobering, is at times too funny. '
+                          'Tony puts himself right into it, really great, I '
+                          'would watch it again and again. I would like to '
+                          'order it to watch with friends and family. I can '
+                          'see that much research went into the making of this '
+                          'documentary, and traveling. Do the people he '
+                          'interviewed live this or are they part of '
+                          'reenactments? Thank you so much to the producers, '
+                          'directors and Tony for this educational '
+                          "entertainment, why couldn't history class have been "
+                          'this way?'},
  'url': '/title/tt0423775/'}

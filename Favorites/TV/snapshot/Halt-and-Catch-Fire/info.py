@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Halt-and-Catch-Fire',
  'EntryURL': 'https://www.imdb.com/title/tt2543312',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Halt-and-Catch-Fire/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Halt-and-Catch-Fire/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Halt-and-Catch-Fire/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Halt-and-Catch-Fire/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Lee Pace', 'url': '/name/nm1195855/'},
@@ -40,59 +39,18 @@
              'programmer',
  'name': 'Halt and Catch Fire',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ramair350'},
-            'dateCreated': '2014-07-23',
+            'author': {'@type': 'Person', 'name': 'Leon-hopp'},
+            'dateCreated': '2019-02-17',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2543312/'},
-            'name': 'Top notch drama, excellent writing and acting, give it a '
-                    'chance',
-            'reviewBody': 'This is an incredibly intelligent drama on AMC, '
-                          'which in my opinion is better than Mad Men, and '
-                          'equal to some of the best dramas on this or any '
-                          'other network (including HBO).\n'
-                          '\n'
-                          'The acting is A+. The characters come off as real '
-                          'people, with real feelings, and complicated '
-                          'motivations. Again, these characters really "pop" '
-                          'with the same clarity as any of the other great '
-                          'dramatic TV shows.\n'
-                          '\n'
-                          'The sets (early 80s) are right on the money, and '
-                          'the writing is intelligent and clearly benefits '
-                          'from knowledge of those who lived and breathed the '
-                          'computer industry in the early 80s. But just like '
-                          "any of the great dramas, the show isn't really "
-                          'about computers (any more than Mad Men is about '
-                          'advertising, Friday Night Lights football, and so '
-                          'on). This is an original drama that really '
-                          'delivers, folks.\n'
-                          '\n'
-                          'I am incredibly upset at the lack of ratings. I '
-                          "feel that AMC perhaps didn't promote the show "
-                          'properly, or maybe launching in the summer was a '
-                          'miss. If AMC will give this show real legs with a '
-                          'season 2 renewal, without a doubt this will climb '
-                          'the ranks as one of the next great TV shows and '
-                          'will have a healthy run. Please give it a chance!\n'
-                          '\n'
-                          '*****\n'
-                          '\n'
-                          'UPDATE - much to my surprise and joy, the show '
-                          'shall return next summer for Season 2! Maybe there '
-                          'is a god after all ...\n'
-                          '\n'
-                          '*****\n'
-                          '\n'
-                          'UPDATE #2 - unbelievable; Season 3 has been '
-                          'ordered! THANK YOU AMC! I am a believer in the AMC '
-                          'network; they have the balls and bills to keep an '
-                          'excellent show going, despite viewership that is '
-                          'not exactly strong (but the passion of the viewers '
-                          "that turn in is quite high). Can't wait!",
+            'name': 'One step above the rest...',
+            'reviewBody': "This is the first show I have seen, and I've seen "
+                          'plenty, where after binging all four seasons in two '
+                          'weeks, I just started all over again.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for Halt and Catch Fire',

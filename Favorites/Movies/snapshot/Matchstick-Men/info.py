@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Matchstick-Men',
  'EntryURL': 'https://www.imdb.com/title/tt0325805',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Matchstick-Men/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Matchstick-Men/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Matchstick-Men/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Matchstick-Men/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -56,108 +55,36 @@
              'eyeglasses,crying man',
  'name': 'Matchstick Men',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'C22Man'},
-            'dateCreated': '2016-06-27',
+            'author': {'@type': 'Person', 'name': 'kieran-wright'},
+            'dateCreated': '2009-07-09',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0325805/'},
-            'name': 'Plenty of Swagger',
-            'reviewBody': 'Matchstick Men represents a pleasant change of pace '
-                          'for Ridley Scott. For a director known for doing '
-                          'films that are both large thematically and in '
-                          "scope, it's nice to see him tackle a film that has "
-                          'a simple premise which allows him to build the '
-                          'themes that he wants to discuss. Matchstick Men is '
-                          'a difficult film to categorise, as is the case for '
-                          'most con films. It has touches of dark comedy and '
-                          'pieces of crime thriller, plenty of drama without '
-                          'losing its quirkiness. It often plays out like a '
-                          'character study of a man who struggles to balance '
-                          'his dirty deeds with his mental issues. All of this '
-                          'delivered in a very free-flowing and vibrant way, '
-                          "much like the majority of Scott's work.\n"
-                          '\n'
-                          'At its core the film is about con man Roy Waller '
-                          'who suffers from serve OCD which become even worse '
-                          'once he loses his pills, shown in a scene that is '
-                          'both funny and sad where he spends a day cleaning '
-                          'his entire house. He then goes to see doctor who '
-                          'takes an interest in his life and wants to help him '
-                          'defeat his illness. Cage is the star centrepiece of '
-                          'the film. He also provides one of his best '
-                          'performances. In a way it is prefect casting, Cage '
-                          'has always been at his best playing edgy and '
-                          'jittery characters and here he gets a legitimate '
-                          'reason to act that way. His performance provides a '
-                          'surprising amount of sympathy as well as humour, he '
-                          'gets so into the character that his frequent ticks '
-                          'seem natural. \n'
-                          '\n'
-                          'The story develops further when it turns out Roy '
-                          'has a 14 year-old daughter called Angela who he '
-                          'decides to meet, which leads to him struggling to '
-                          'balance out both sides of his life. Enter Alison '
-                          "Lohman who is fantastic. It's hard to believe that "
-                          'she is playing a character ten years younger than '
-                          'she was at the time given how natural her '
-                          'performance is. She manages to capture the essence '
-                          'of what a character that age would be like, without '
-                          'detracting from the emotional weight and likability '
-                          'that she brings. I also think that Sam Rockwell '
-                          '(who I swear has never put in a subpar performance) '
-                          "deserves some praise for his role as Roy's "
-                          'confident business partner.\n'
-                          '\n'
-                          'It is tough to reveal much more about the plot '
-                          'without giving away pieces of information that '
-                          "might spoil its ending. Scott's direction is "
-                          'certainly a highlight, as usual with his films. It '
-                          'is possibly his most fluid film and he manages to '
-                          "convey Roy's breakdowns with his subtle use of the "
-                          'camera, whilst the frequent use of blue shade '
-                          'invokes the calmness of water which becomes '
-                          'something of a motif. From a visual standpoint the '
-                          "film reminded a lot of 'Catch Me If You Can' given "
-                          'its vibrancy and colour scheme. Adding to this is '
-                          'both the editing and the transitions which are '
-                          "seamlessly done. Hans Zimmer's score is also worth "
-                          'a mention, trading in his usually bombastic '
-                          'compositions for more jazzy and bass heavy pieces '
-                          'that fit the film perfectly.\n'
-                          '\n'
-                          'The only part of the film that left me cold was its '
-                          "climax and its eventual twist (which I won't "
-                          'reveal). For me the twist did disrupt a lot of the '
-                          "film's emotional and grounded aspects that had been "
-                          'developed excellently throughout. It brings a jolt '
-                          'that almost pushes you out of the film and instead '
-                          'of feeling that the twist transformed the film into '
-                          'something completely different, it simply felt like '
-                          'an unnecessary addition. I think the film would '
-                          'have been even stronger had it avoided said twist '
-                          'all together.\n'
-                          '\n'
-                          'Matchstick Men ends up feeling exactly like what '
-                          "Ridley Scott wants it to be. It's a film that "
-                          'blends multiple genres together and basically plays '
-                          'them off against the typical con man film style. It '
-                          'does go deeper than the story initially suggests, '
-                          'almost working as a psychological study of Roy and '
-                          'the building of his relationship with the daughter '
-                          'he never knew existed. On a surface level however, '
-                          'the film is constantly entertaining. Whether it is '
-                          'for the excellent acting, the charming central '
-                          "narrative, the tension building con or Scott's "
-                          "wonderful direction it doesn't really matter "
-                          'because all of these aspects blend with and play '
-                          "off of each other so well. I don't think the twist "
-                          "works, but it's a testament to the films strength "
-                          "that it isn't overly damaged by that. For me it's a "
-                          'film that is meant to be enjoyed on the surface, '
-                          'before you start to analyse what is underneath.',
+            'name': "Good vehicle for Cage's acting ability",
+            'reviewBody': 'After recently having the pleasure(?) of viewing '
+                          "one of Cage's latest offerings - 'Bangkok "
+                          "Dangerous', - I approached this one with a sense of "
+                          'confidence, as it already has such a great '
+                          'reputation. Ridley Scott - the renowned director of '
+                          'Bladerunner - has made a film of quite a different '
+                          'genre, so a real departure from his usual stuff, '
+                          'but I have to say he has come in with what I felt '
+                          'to be a very watchable film with some pretty '
+                          'complex characters thrown in. Nic Cage gets to '
+                          'display a good range of his acting skills. He '
+                          'really is the master of the facial tic as anyone '
+                          'thinking back to some of his earlier films (such as '
+                          "Vampyr's Kiss') will recall. To those who scoff at "
+                          'his recent choice of projects e.g. G-Force, just '
+                          'remember, he is an actor. You take the work while '
+                          'you can. Anyway, to summarise, for me, above all, '
+                          'this film was refreshing as all of the actors '
+                          'acquitted themselves really well. A polished piece '
+                          'of cinematography that I will definitely enjoy '
+                          'viewing again.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'hv-post',

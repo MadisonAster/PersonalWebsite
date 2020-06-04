@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Apex-The-Story-of-the-Hypercar',
  'EntryURL': 'https://www.imdb.com/title/tt4325400',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Apex-The-Story-of-the-Hypercar/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Apex-The-Story-of-the-Hypercar/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Apex-The-Story-of-the-Hypercar/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Apex-The-Story-of-the-Hypercar/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -44,18 +43,23 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BYWI1NGMxYjEtOWQ5My00NWY2LTlmMDEtZTBkNjYzZjZlYzI4XkEyXkFqcGdeQXVyNDI4ODczMDE@._V1_.jpg',
  'name': 'Apex: The Story of the Hypercar',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'krishnakoenigsegg'},
-            'dateCreated': '2018-11-16',
+            'author': {'@type': 'Person', 'name': 'skinwalker1-246-382559'},
+            'dateCreated': '2018-12-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4325400/'},
-            'name': 'Koenigsegg',
-            'reviewBody': "I respect Christian von koenigsegg he's like a "
-                          "einstein in hypercar world right now Can't believe "
-                          'a small swedish company is demolishing a company '
-                          'like Bugatti',
+            'name': 'Slow and Pretentious',
+            'reviewBody': 'Given this documentary is about the attainment of '
+                          'speed it somewhat ironic that the pacing of the '
+                          'direction was so slow. I made two attempts to watch '
+                          'this all the way through, but failed on both '
+                          'occasions. The interview soundbites showed a bunch '
+                          'of pretentious gits waxing lyrical, comparing the '
+                          'cars to "the iron man suit" and "God on earth". '
+                          "Some nice views of cars, so it doesn't rate a zero "
+                          '/ one.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '2',
                              'worstRating': '1'}},
  'url': '/title/tt4325400/'}

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Between-the-Folds',
  'EntryURL': 'https://www.imdb.com/title/tt1253565',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Between-the-Folds/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Between-the-Folds/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Between-the-Folds/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Between-the-Folds/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -43,29 +42,25 @@
  'keywords': 'scientist,paper,origami,art,artist',
  'name': 'Between the Folds',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Kenn-15'},
-            'dateCreated': '2008-09-02',
+            'author': {'@type': 'Person', 'name': 'ThingyBlahBlah3'},
+            'dateCreated': '2011-10-24',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1253565/'},
-            'name': 'A Creative Wonder',
-            'reviewBody': 'There are two creative wonders working here -- the '
-                          'incredible range of artists, scientists and people '
-                          'with vision from all over who have made origami a '
-                          'passion, an art, and a way into understanding their '
-                          'place in the world. The other creative wonder is '
-                          'the film itself, which takes us on a journey from a '
-                          'square of paper to the inside of the minds of '
-                          'creative artists. The film is, in some ways, a work '
-                          "of origami too, for it's folded into different "
-                          'sections, and the whole is even greater than the '
-                          'sum of its parts. If you can catch it at a film '
-                          "festival, don't miss it. And I'm sure this film, by "
-                          'a talented first-time filmmaker, will end up in '
-                          'other venues, win awards, and hopefully someday be '
-                          'available on DVD.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
+            'name': 'fascinating stuff, with one flaw',
+            'reviewBody': 'The documentary itself is very interesting. The '
+                          'interview subjects are fascinating and the work '
+                          "they do is amazing. You'll never look at a plain "
+                          'piece of paper the same way. My inner nerd was '
+                          'particularly interested in the math and engineering '
+                          "aspects of paper-folding, and it's always nice to "
+                          'be reminded that the great artists do their best '
+                          "work when they're working under restrictions.\n"
+                          '\n'
+                          'Alas, director Vanessa Gould inexplicably chose to '
+                          'narrate this herself, and her voice-over work is so '
+                          'annoying and affected that it just about submarines '
+                          'the whole thing. I had to watch it in small doses, '
+                          "even though it's only 50 minutes long. A good VO "
+                          'performer would have made all the difference.'},
  'url': '/title/tt1253565/'}

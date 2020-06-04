@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Betas',
  'EntryURL': 'https://www.imdb.com/title/tt3012184',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Betas/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Betas/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Betas/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Betas/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -40,27 +39,28 @@
  'keywords': 'friend',
  'name': 'Betas',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ThomDuflos'},
-            'dateCreated': '2014-05-12',
+            'author': {'@type': 'Person', 'name': 'tmcarroll'},
+            'dateCreated': '2013-12-06',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3012184/'},
-            'name': 'Freshnesh',
-            'reviewBody': 'Betas is fresh, dynamic and very realistic. Geeks '
-                          'will love it but not only them. If you are '
-                          'interested in good cultural references, and new '
-                          'technology you will like it. Imagine you have found '
-                          'an app which can change the world, what would you '
-                          'do ? Betas gives us an answer. The actors are all '
-                          'very good. The music is well chosen and fits '
-                          'perfectly to the story. This is very different from '
-                          'big bang theory even if the same public can watch '
-                          "both shows with the same interest. It's indeed a "
-                          'good comedy about friendship and the over connected '
-                          'youth which try to change the world. Some '
-                          'characters will make you think about the movies '
-                          'Jobs or The Social Network. You will witness many '
-                          'funny moments too.',
+            'name': 'Hilarious! Brilliant!',
+            'reviewBody': 'Finally someone has done a comedy series about '
+                          "Silicon Valley, and it's good! The show is sort of "
+                          'Entourage in Silicon Valley. Smart, savvy and '
+                          "hilarious! It's not perfect, but better than 95% of "
+                          "what you'll find on TV. \n"
+                          '\n'
+                          'The show has the same nervous energy that permeates '
+                          'Silicon Valley startup culture. The creators '
+                          'obviously did their homework. They get a lot right, '
+                          'though the drug references are overdone and at '
+                          'times silly. The characters are interesting, though '
+                          'sometimes over the top.\n'
+                          '\n'
+                          "The show is addicting. Can't wait for the next "
+                          'episode to be uploaded. Netflix and Hulu watch out, '
+                          'Amazon is in the game!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

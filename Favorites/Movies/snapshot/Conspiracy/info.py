@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Conspiracy',
  'EntryURL': 'https://www.imdb.com/title/tt0266425',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Conspiracy/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Conspiracy/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Conspiracy/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Conspiracy/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -44,46 +43,53 @@
  'keywords': 'holocaust,nazis,final solution,conference,ss',
  'name': 'Conspiracy',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'elizabeth-chesney'},
-            'dateCreated': '2005-03-15',
+            'author': {'@type': 'Person', 'name': 'Sfpsycho415'},
+            'dateCreated': '2005-02-23',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0266425/'},
-            'name': 'unflinchingly honest, horrifying, and ultimately sad',
-            'reviewBody': 'As a 4th generation American of German heritage, I '
-                          'have a deep interest in attempting to understand '
-                          'how a presumably cultured, educated, Christian '
-                          'society could become the Nazi nightmare of WWII.\n'
+            'name': 'One of the best WWII movies ever (and there is not a '
+                    'single gunshot!)--9/10',
+            'reviewBody': 'Conspiracy debuted on HBO in 2001 and centers on '
+                          'the infamous Wannsee conference, where fifteen '
+                          'high-ranking officials of Nazi Germany government '
+                          'and military devised the final solution of the '
+                          'Jewish problem in Europe. The meeting took place in '
+                          'a beautiful house in rural Germany, where food and '
+                          'wine were served, and ideas were born.\n'
                           '\n'
-                          'This film, as so eloquently stated by previous '
-                          'posters, is quite simply a cautionary tale for all '
-                          'of humanity. I have seen the film several times on '
-                          'HBO, and whenever it comes on, I feel compelled to '
-                          "drop what I'm doing and watch, again transfixed -- "
-                          'at the ability of our human brains to rationalize '
-                          'and deny even in the face of undebatable truths.\n'
+                          'This film is the best World War II era film i have '
+                          'ever seen, and one of the best movies i have seen, '
+                          'period. The cast is mostly unknown, but out-act any '
+                          'all-star cast Hollywood has ever produced. Kenneth '
+                          'Branaugh delivers an excellent performance as '
+                          'Heydrich, the head of the table at the meeting. He '
+                          'threatens people with a smile on his face, and '
+                          'barely bats an eye while speaking of killing '
+                          'thousands of people. Stanley Tucci is also great as '
+                          'the party-planner Eichmann, who set up the entire '
+                          'meeting, from the venue to the food to the topics. '
+                          'The way he counts the number of Jews that can be '
+                          'exterminated in a a given period of time is '
+                          'downright creepy. The cast also includes great '
+                          'turns by Colin Firth, a lawyer and professor who '
+                          'thinks the systematic slaughter of the Jews is bad '
+                          "for Germany's future, and Ian McNiece, who plays a "
+                          'hateful and witty official.\n'
                           '\n'
-                          'Any honest person watching the film must ask '
-                          'himself -- How would I respond if I were at that '
-                          'table? How would I respond if I were a German '
-                          'citizen in the Third Reich? Americans, I believe, '
-                          'right now in 2005 -- should look at this film as a '
-                          'warning. No -- we are not fascist Nazis -- not yet. '
-                          'But the groundwork is there. The propaganda, the '
-                          'denial of the facts and the demonization of our '
-                          'enemies. The blind nationalism. We are at a turning '
-                          'point in our country -- and we would be wise to '
-                          'look to history as a reminder of what can happen '
-                          'when we as human beings let fear, ego, and the lust '
-                          'for power dominate over all else.\n'
-                          '\n'
-                          'I will buy this DVD and share it with my family and '
-                          'friends.\n'
-                          '\n'
-                          'As long as people believe in absurdities then they '
-                          'will continue to commit atrocities.\n'
-                          '\n'
-                          '-- Bertrand Russell'},
+                          'The dialogue is smart, funny, and chilling, and '
+                          'contains some jabs at all sides of the biggest war '
+                          "in Earth's history. This is a great movie to show "
+                          'in a history class, before watching a bunch of war '
+                          'movies, or if you just have an interest in the war. '
+                          'It teaches a lot more about the time than Saving '
+                          'Private Ryan (great movie too, but really '
+                          'one-sided), and features the best acting this side '
+                          'of the Godfather.---9/10',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '9',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from HBO Home Video',
              'embedUrl': '/video/imdb/vi2042560793',

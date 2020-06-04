@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dead-Poets-Society',
  'EntryURL': 'https://www.imdb.com/title/tt0097165',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dead-Poets-Society/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dead-Poets-Society/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dead-Poets-Society/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dead-Poets-Society/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0001038/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 404140,
+                     'ratingCount': 404146,
                      'ratingValue': '8.1',
                      'worstRating': '1.0'},
  'contentRating': 'PG',
@@ -46,30 +45,26 @@
  'keywords': 'english teacher,professor,education,suicide,poet',
  'name': 'Dead Poets Society',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'FernAshes'},
-            'dateCreated': '2003-04-05',
+            'author': {'@type': 'Person', 'name': 'pompaj'},
+            'dateCreated': '2000-07-17',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0097165/'},
-            'name': 'Impressive.',
-            'reviewBody': "I'm impressed. It was an all around good film. "
-                          "Perhaps I'm biased - Robert Frost's poem, A Road "
-                          'Not Taken, was quoted - yet so many other things '
-                          'were as well.\n'
-                          '\n'
-                          "It's not about poetry. It's about how you look at "
-                          'the world. How you look, how others look... how you '
-                          'think, how you feel... and a warning to never, ever '
-                          'become conformist (though being conformist about '
-                          'walking is perhaps slightly exaggerated). Never '
-                          'become conformist - always make up your own mind.\n'
-                          '\n'
-                          'I liked the music, as well. The bag pipes give a '
-                          'certain special touch.\n'
-                          '\n'
-                          'I gave it an 8/10 - a high score for me.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
+            'name': 'A terrific film',
+            'reviewBody': "There's so much good about this movie. The first "
+                          'time I saw it I watched it solely for plot and I '
+                          "loved it. Now I've seen it again and watched Peter "
+                          "Weir's filming and timing which is also great. "
+                          "Robin Williams is a terrific actor when he's "
+                          'serious. He proved it in Good Will Hunting but he '
+                          'proved it first here. If you liked that movie and '
+                          'your liking it had something to do with Williams '
+                          'than you will like this one. The plot is about a '
+                          'number of students who are taught by Williams about '
+                          'life. They are taught how to enjoy themselves. This '
+                          'ends up causing great controversy among the heads '
+                          'of the school. The students are terrific and even '
+                          "the dialogue is great. This is a movie that I can't "
+                          'imagine anyone not liking. It is good in every '
+                          'way.'},
  'url': '/title/tt0097165/'}

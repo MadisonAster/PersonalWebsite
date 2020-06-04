@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/This-Film-Is-Not-Yet-Rated',
  'EntryURL': 'https://www.imdb.com/title/tt0493459',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/This-Film-Is-Not-Yet-Rated/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/This-Film-Is-Not-Yet-Rated/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/This-Film-Is-Not-Yet-Rated/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/This-Film-Is-Not-Yet-Rated/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Kirby Dick', 'url': '/name/nm0225269/'},
@@ -50,94 +49,58 @@
  'keywords': 'sexuality,orgasm,homosexuality,mpaa,filmmaker',
  'name': 'This Film Is Not Yet Rated',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'MaxBorg89'},
-            'dateCreated': '2006-08-23',
+            'author': {'@type': 'Person', 'name': 'tomq5p'},
+            'dateCreated': '2007-01-24',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0493459/'},
-            'name': 'Informative, cheeky and funny as hell!',
-            'reviewBody': 'Ever been curious about the American film rating '
-                          "system? Then Kirby Dick's This Film Is Not Yet "
-                          'Rated is perfect. It does to US censorship what '
-                          'Michael Moore has done to others: it makes everyone '
-                          "look like jackasses, mainly because that's what "
-                          'they really are.\n'
+            'name': 'Necessary viewing',
+            'reviewBody': 'Since the Hays Code, filmmakers have had a lot more '
+                          'freedom over the content of their films. However, '
+                          'the MPAA ratings board still does exercise a '
+                          'certain de facto censorship power. Most people do '
+                          'not realize this. \n'
                           '\n'
-                          'The film explains pretty early on, through South '
-                          'Park-style animation, what kind of rating a movie '
-                          'can get in the USA: G, PG, PG-13, R or NC-17. The '
-                          'last certificate is the most unpleasant one, as a '
-                          "film with that classification won't get a proper "
-                          "distribution. And it's that particular rating that "
-                          'Dick wants to dissect.\n'
+                          '"This Film is not Yet Rated" exposes the '
+                          'arbitrariness, secrecy, and bias of the MPAA '
+                          'ratings board and makes the viewer question why '
+                          'movies receive the ratings they do. \n'
                           '\n'
-                          'This documentary is divided into three sections: '
-                          'the largest one sees various filmmakers (Kimberly '
-                          'Pierce, John Waters, Kevin Smith) revealing the '
-                          "problems they've experienced because of the "
-                          'American ratings board, the MPAA (Motion Picture '
-                          'Association of America). The second section '
-                          "features the director's efforts to uncover the "
-                          'identities of the film raters. You see, the MPAA is '
-                          'supposedly composed of average American parents, '
-                          'doing a fair job. Then how come no one knows who '
-                          'these people are? As the investigation continues, '
-                          "we learn that one board member doesn't even have "
-                          "kids, while several others' offspring are already "
-                          "adults. So what's really going on?\n"
+                          'Kirby Dick puts together a nice cross-section of '
+                          'directors and "talking heads" who discuss the MPAA '
+                          "ratings board's biases when it comes to realism, "
+                          'sex, violence, gay themes, and other taboo issues '
+                          'in films. \n'
                           '\n'
-                          'The last part of This Film Is Not Yet Rated focuses '
-                          "on Dick's own censorship trouble, a really "
-                          'interesting version of the movie-within-a-movie '
-                          'gimmick: he sent a rough cut of the documentary to '
-                          'the MPAA, receiving the dreaded NC-17 (since '
-                          "there's some footage coming from other NC-rated "
-                          'films), and so we get to see his frustration as he '
-                          'tries to appeal the controversial decision.\n'
+                          'Dozens of major directors have had problems with '
+                          'the MPAA ratings board - they either received the '
+                          'NC-17 (or the old "X") rating or had to cut their '
+                          'films to meet the requirements of the ratings '
+                          'board. Some examples are: Kubrick, Tarantino, '
+                          'Lynch, Woo, Friedkin, Peckinpah, Aronofsky, and '
+                          'countless others. \n'
                           '\n'
-                          'The best part of the film is the first one I '
-                          'mentioned, mainly because we get to know the rules '
-                          'of the game a bit better. Apparently, any kind of '
-                          '"weird sex" is not welcome: oral sex (Boys Don\'t '
-                          'Cry), threesomes(The Dreamers, American Psycho), '
-                          'gay stuff (Mysterious Skin, Where The Truth Lies), '
-                          'female masturbation (Jersey Girl, a PG-13 movie, '
-                          'almost got an R just because Liv Tyler talks about '
-                          "it)... the list is quite long. Of course, you're "
-                          'better off if your film is endorsed by a major '
-                          "studio. That's why a glimpse of Maria Bello's pubic "
-                          'hair got independent film The Cooler an NC-17, '
-                          'while Sharon Stone doing much more in the '
-                          'audience-baiting Basic Instinct was "appropriate" '
-                          'enough to receive an R. No wonder most filmmakers '
-                          'hate the MPAA! Hell, we even find out that Trey '
-                          'Parker and Matt Stone deliberately put distasteful '
-                          'material in Team America just to make fun of the '
-                          'ratings board.\n'
+                          'This film exposes the fact that the ratings board '
+                          'is made up of people who are given NO criteria and '
+                          'NO training for rating films, so they basically use '
+                          'their own personal (and obviously heavily biased) '
+                          'judgments to decide what rating a particular movie '
+                          'should receive.\n'
                           '\n'
-                          'Another "funny" thing is, the NC-17 is only used '
-                          'against sex. No one ever says anything about '
-                          'on-screen violence. In fact, any movie can have the '
-                          "highest body count ever, and be rated R. If there's "
-                          'no blood, it might even get a PG-13. As people '
-                          'point out, all other countries have the exact '
-                          'opposite attitude, condemning violence rather than '
-                          'sex (I know, from personal experience, that most '
-                          'films rated NC-17 in the US are usually classified '
-                          '"15" or "16" in Europe, while excessive violence '
-                          'tends to lead to an "18").\n'
+                          'This is an important film because so few people '
+                          'realize how movies are rated in the U.S. Even fewer '
+                          'realize how problematic (biased, anti-democratic, '
+                          'non-transparent, not accountable) our system is. \n'
                           '\n'
-                          'As someone wisely says in this hilarious, poignant '
-                          "opus, ratings don't really matter. If it's a film a "
-                          'lot of people want to see, no rating in the world '
-                          "can damage it. If it's a film few people want to "
-                          'see, then no rating in the world will save it. That '
-                          "might be true (although I don't necessarily agree: "
-                          'the huge success of The Passion of the Christ was '
-                          'largely due to the rating controversies), but this '
-                          'movie also made me realize that I would definitely '
-                          'not want to be a member of the MPAA. Their criteria '
-                          'are too weird for normal people to understand.',
+                          'It is also well put together, so it is easier to '
+                          'watch than most documentaries. \n'
+                          '\n'
+                          'I would have liked to have heard more comparisons '
+                          'between the U.S. rating system and others '
+                          'worldwide, something that was only briefly touched '
+                          'upon. \n'
+                          '\n'
+                          '9 out of 10',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

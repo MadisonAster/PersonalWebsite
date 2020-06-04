@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/This-Is-What-Winning-Looks-Like',
  'EntryURL': 'https://www.imdb.com/title/tt10466466',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/This-Is-What-Winning-Looks-Like/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/This-Is-What-Winning-Looks-Like/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/This-Is-What-Winning-Looks-Like/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/This-Is-What-Winning-Looks-Like/thumb.jpg',
  'aggregateRating': {'@type': 'AggregateRating',

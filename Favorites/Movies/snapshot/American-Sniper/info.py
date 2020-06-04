@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/American-Sniper',
  'EntryURL': 'https://www.imdb.com/title/tt2179136',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/American-Sniper/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/American-Sniper/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/American-Sniper/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/American-Sniper/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm6518675/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 424400,
+                     'ratingCount': 424404,
                      'ratingValue': '7.3',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -58,21 +57,87 @@
  'keywords': 'assassin,violence,iraq war,sniper,mercenary',
  'name': 'American Sniper',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'MJB784'},
-            'dateCreated': '2018-05-21',
+            'author': {'@type': 'Person', 'name': 'Michael_Elliott'},
+            'dateCreated': '2015-02-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2179136/'},
-            'name': "Clint Eastwood's best war movie",
-            'reviewBody': 'It was extremely powerful and violent, but also '
-                          'entertaining because of its many realistic and '
-                          'stylish film techniques. The action scenes were '
-                          'frighteningly real and the use of sand and dirt '
-                          'swirling around the final combat scenes was art.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
+            'name': 'Top-Notch Directing and a Marvelous Lead Performance',
+            'reviewBody': 'American Sniper (2014) \n'
+                          '\n'
+                          '**** (out of 4)\n'
+                          '\n'
+                          'Thrilling, tense and dramatic telling of Chris '
+                          "Kyle's (Bradley Cooper) rise from a cowboy without "
+                          'much direction in his life to becoming the '
+                          'deadliest sniper in U.S. history.\n'
+                          '\n'
+                          'Director Clint Eastwood has made countless great '
+                          'movies in his career and even tackled the war drama '
+                          'in brilliant fashion with LETTERS FROM IWO JIMA. '
+                          'This film here could have been clichéd in so many '
+                          'ways but thankfully a director with such masterful '
+                          'direction can take a familiar story like war and '
+                          'its impact on someone and make it feel fresh, tight '
+                          'and original. Since movies began, the war genre has '
+                          'been one of the most popular and they continue to '
+                          'pump them out yearly so trying to find a fresh way '
+                          'to tell a story is always a challenge but Eastwood '
+                          'and company really pull it off.\n'
+                          '\n'
+                          "American SNIPER is certainly about the war but it's "
+                          'main focus is telling the story of this American '
+                          'hero. The main goal of the screenplay is to show '
+                          'people what a special person Kyle was and balancing '
+                          'his personal drama and the war stuff was so '
+                          'wonderfully done that both story lines contained '
+                          "some real drama and one wasn't overshadowed by the "
+                          "other. I think that's the most accomplished thing "
+                          'Eastwood does here. Making sure that the war at '
+                          'home is just as intense as the war in Iraq. Another '
+                          'major plus is that, on a technical level, the film '
+                          "is flawless as it contains some of the year's best "
+                          'cinematography, a touching music score and some of '
+                          'the best sound effects out there.\n'
+                          '\n'
+                          'The wartime scenes are all shot extremely well and '
+                          'I think the best thing about them is the feeling '
+                          'the director shows in the fact that these men are '
+                          'really in a trap not knowing where the next bullet '
+                          'is going to come from. The scenes of Kyle doing his '
+                          'job were full of tension as were the scenes where '
+                          "we get more gunfire. There's a sequence early on, "
+                          'highlighted in the trailer, were a kid possibly has '
+                          'a bomb and this here is perfectly handled. The '
+                          'ending is also incredibly intense and the terrific '
+                          'editing here really helps build up the tension of '
+                          'the combat zone.\n'
+                          '\n'
+                          'What really pushes the movie from the opening scene '
+                          'to the very last is the terrific performance by '
+                          "Cooper who turns in his greatest work to date. I'm "
+                          'not sure how many people could have predicted that '
+                          'Cooper, who was mostly playing comedy roles, would '
+                          "turn into such a fine dramatic actor but he's "
+                          'turning into one of the most dependable actors out '
+                          "there. He's simply wonderful here and manages to "
+                          'really come across as a tortured person. The film '
+                          'shows Kyle from various points in his life. His '
+                          'wild younger days. His rise through the Seals. Of '
+                          'course, some of the most talked about scenes deal '
+                          'with the depression and anxiety that starts to set '
+                          "in. We've seen many actors deal with the "
+                          '"struggling vet returning home" and Cooper manages '
+                          'to bring a real depth to the character.\n'
+                          '\n'
+                          "American SNIPER isn't going to end up being the "
+                          "best movie on 2014 but it's certainly a very "
+                          "impressive film. Technically it's quite sound and "
+                          "Eastwood once again proves why he's one of the "
+                          "greatest director's out there. As for Cooper's "
+                          "performance, it's certainly a terrific one and "
+                          'overall this is a great film that leaves the viewer '
+                          'with a lot to think about and be thankful for.'},
  'trailer': {'@type': 'VideoObject',
              'description': "Navy SEAL sniper Chris Kyle's pinpoint accuracy "
                             'saves countless lives on the battlefield and '

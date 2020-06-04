@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Tank-Man',
  'EntryURL': 'https://www.imdb.com/title/tt0872938',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Tank-Man/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Tank-Man/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Tank-Man/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Tank-Man/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -36,93 +35,32 @@
  'keywords': 'beijing china,tiananmen square beijing,economy,china',
  'name': 'The Tank Man',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Izualizm'},
-            'dateCreated': '2008-10-05',
+            'author': {'@type': 'Person', 'name': 't-82442'},
+            'dateCreated': '2018-07-26',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0872938/'},
-            'name': 'A well presented documentary, even though lacking some '
-                    'details and precisions',
-            'reviewBody': 'The Frontline delivers with this inspiring but at '
-                          'the same time depressing documentary on "The '
-                          'Tiananmen Massacre", or what many Chinese '
-                          'remembered as, "June 4th".\n'
-                          '\n'
-                          'Establishing the context from which the '
-                          'international icon, "the tank man" was originated, '
-                          'the documentary takes us through the event in the '
-                          'past, while notably tackles the issues in the '
-                          'present. Though lacking some details and pending '
-                          'some inaccuracies, it is well emphasized and well '
-                          'presented.\n'
-                          '\n'
-                          'There are some bits I would like to point out:\n'
-                          '\n'
-                          '1, When the first time troops are deployed to the '
-                          'city, citizens surround trucks and try to talk the '
-                          'soldiers out if it, they are not exactly in a '
-                          '"this-is-our-city-why-are-you-here-get-out" mindset '
-                          'as implied by the narrator, instead they try to '
-                          'soften the soldiers with the perception that the '
-                          'people and the army are an inseparable family. Only '
-                          'when you understand this "fish and water" mentality '
-                          'with regard to relationship between common people '
-                          'and soldiers, can you understand how much of a '
-                          'shock it was to all Chinese in the ensuing violence '
-                          'showdown.\n'
-                          '\n'
-                          '2, It is a fact that many (or most rather) young '
-                          "people in China today haven't a faintest idea what "
-                          'June 4th incident is, let alone "the tank man". But '
-                          'as far as I know many Peking University students '
-                          'know "June 4th", and some of them discuss the '
-                          'subject on BBS openly. It seemed "The tank man" is '
-                          'a more iconic figure to foreigners than to the '
-                          'Chinese, the censorship on this subject in China '
-                          'certainly contributed mostly to that, but there is '
-                          'more. To Chinese who are well aware of "June 4th", '
-                          "the picture of soldiers' head hanging on a tree or "
-                          'a street lamp, or the picture of a chunk of '
-                          'flattened meat on the ground, leaves an infinitely '
-                          'more vivid mark on Chinese hearts. To us, "June '
-                          '4th" is not about "the tank man", it was our '
-                          'reality, the only thing left for us is depression.\n'
-                          '\n'
-                          '3, As pointed out in some discussion boards, the '
-                          'search term "Tiananman Square" the producer uses on '
-                          'google to prove the point that Google.cn is heavily '
-                          'censored, are actually not effective. Firstly, '
-                          '"Tiananman Square" or more precisely "天安门" can mean '
-                          'many things other than "June 4th" to many Chinese, '
-                          "it is a place where a fair share of the country's "
-                          'significant events took place, it is also a major '
-                          'tourist attraction; Secondly and similarly, the '
-                          'term "June 4th" can mean many things other than '
-                          '"the tank man" to us. I would think EVEN without '
-                          'any censorship, searching "Tiananman Square" in '
-                          'Google.cn will yield very few, if any results with '
-                          '"the tank man\'s" picture on them. \n'
-                          '\n'
-                          'Some simple search on Google.cn can prove that. If '
-                          'anyone interested, you can copy and paste these '
-                          'search term and go to Google.cn to see for '
-                          'yourself: "89天安门广场事件" (\'89 Tiananmen incident\'), '
-                          '"64事件" (\'64 incident\'), and "六四" (\'64\').\n'
-                          '\n'
-                          'As you can see, even with its heavily censored '
-                          'state, Google.cn would yield results of more '
-                          'specific topics, as indicated by the pictures. "The '
-                          'tank man" just has less overall impact on us, '
-                          'compared to other horrifying pictures and stories.\n'
-                          '\n'
-                          'The documentary has its historical value as well as '
-                          "contemporary social value. Today's China still "
-                          'breeds the problems that can provoke the mass, it '
-                          'still provides the soil on which social unrest '
-                          'continues to spawn. I often quote, "Those who do '
-                          'not learn from the past, are doomed to repeat it".\n'
-                          '\n'
-                          'But have we learned? Would we?',
+            'name': "I'm a Chinese.I evaluate the vedio in my thought.",
+            'reviewBody': "In fact,many chinese young people didn't know "
+                          '64shijian(Chinese word).We search 64 in Baidu(the '
+                          'biggest tools like google in our country),the page '
+                          'jump to another content.The first time I heard 6.4 '
+                          "is in middle school.I'm 12 that time.My classmate's "
+                          'father attended the activity(not in Beijing) .Last '
+                          'year,my uncle talked with his friend when was '
+                          'driving car.He said,nearly all people who attend '
+                          "the 1989 was punished.They won't be trusted.Many "
+                          "company refused to accept them.Yes,it's real. "
+                          'However,the concludsions about farmers in vedio are '
+                          'wrong.The goverment pay much attention to '
+                          'education.To tell the truth,if some one want to go '
+                          "to school,most families can afford it!It's cheap to "
+                          "go to school. It's also not real about "
+                          'workers.13hours/Day?no hoilday?Nonexistent!At that '
+                          'time,my parents worked 8hours a day.Thay can get '
+                          'one day to have a rest per week.Sometimes,they need '
+                          'to work over time,but they could get extra money. '
+                          "Maybe we don't have enough democracy,but I'm OK!",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '8',

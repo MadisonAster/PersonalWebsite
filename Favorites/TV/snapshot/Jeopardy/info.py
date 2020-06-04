@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Jeopardy',
  'EntryURL': 'https://www.imdb.com/title/tt0159881',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Jeopardy/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Jeopardy/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Jeopardy/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Jeopardy/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -42,59 +41,31 @@
  'keywords': 'quiz show,non fiction,champion,tournament,host',
  'name': 'Jeopardy!',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'consortpinguin'},
-            'dateCreated': '2001-05-10',
+            'author': {'@type': 'Person', 'name': 'lee_eisenberg'},
+            'dateCreated': '2006-07-26',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0159881/'},
-            'name': 'The Greatest Quiz Show of All Time!',
-            'reviewBody': 'Over the course of more than 50 years of television '
-                          'history, there have been many game shows.  Some of '
-                          'them very good and some really awful. "Jeopardy" '
-                          'stands head and shoulders above any other game show '
-                          'ever made!\n'
+            'name': 'I\'ll take "The Best Game Show Ever" for $1,000, Alex.',
+            'reviewBody': 'I guess that the reason that "Jeopardy!" is so '
+                          'great is that it really challenges you to think, '
+                          "and I've learned so many interesting facts from it. "
+                          'I hope to be a contestant one day. Obviously, Ken '
+                          "Jennings's winning streak was beyond impressive, "
+                          'and the "Celebrity Jeopardy!" spoofs on "Saturday '
+                          'Night Live" are priceless. But it all dates back to '
+                          "this show's premise of forming the answer as a "
+                          'question. It must be really fun coming up with the '
+                          'answers.\n'
                           '\n'
-                          'The reason I like Jeopardy is that it challenges '
-                          'the contestants both in the studio and watching at '
-                          'home.  The questions are very intelligent and '
-                          'require some thought.  I consider myself pretty '
-                          'smart and well-educated and I find it challenging.  '
-                          'And it\'s very entertaining.  It does not "talk '
-                          'down" to any viewer.\n'
+                          'I will say that the Clue Crew is unnecessary. But '
+                          'either way, I still say that this is the best game '
+                          'show ever. Alex Trebek is one heckuva host. There '
+                          'will never be another show like this.\n'
                           '\n'
-                          "I don't get to watch Jeopardy very often because "
-                          "I'm so busy and don't watch a lot of TV. But we "
-                          'have had the home game for many years -- first as '
-                          'the board game, then as the DOS version computer '
-                          'game and now as the CD-ROM Windows 98/NT/2000 '
-                          'version with all the special effects.  I have '
-                          'played this game with my children who are now '
-                          'teenagers and find it very educational. Without '
-                          'trying you can actually learn things about history, '
-                          'geography, music, art, and many, many other '
-                          'topics.\n'
-                          '\n'
-                          'I like the college Jeopardy because it is geared '
-                          'for a younger generation and it is very challenging '
-                          'to the contestants. Middle aged folks like myself '
-                          'may not know all the new hip music and movies.  The '
-                          "only variant I don't like is Celebrity Jeopardy "
-                          'because, like "Hollywood Squares" they can be just '
-                          'too cute to stomach.  The "Saturday Night Live" '
-                          'parodies are a hoot!\n'
-                          '\n'
-                          ' Alex has been criticized by some of the other '
-                          'viewers but he keeps the show on track and on time, '
-                          'not an easy task.\n'
-                          '\n'
-                          "I don't think I'd have the nerve to personally be a "
-                          'contestant on the real TV show, but I enjoy '
-                          'blurting out the answers at home with my family, '
-                          'and I play the home game.\n'
-                          '\n'
-                          'Too many television shows are aimed at the "Lowest '
-                          'Common Denominator" of viewer, but Jeopardy is both '
-                          'entertaining and challenging to people even who '
-                          'have above average intelligence and education.  I '
-                          'think it is the BEST game show EVER!!!!'},
+                          'So which category to take now?',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '10',
+                             'worstRating': '1'}},
  'url': '/title/tt0159881/'}

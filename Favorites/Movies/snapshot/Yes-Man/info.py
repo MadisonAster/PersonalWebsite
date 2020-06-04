@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Yes-Man',
  'EntryURL': 'https://www.imdb.com/title/tt1068680',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Yes-Man/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Yes-Man/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Yes-Man/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Yes-Man/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Jim Carrey', 'url': '/name/nm0000120/'},
@@ -19,7 +18,7 @@
             'url': '/name/nm0383422/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 326450,
+                     'ratingCount': 326451,
                      'ratingValue': '6.8',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -53,90 +52,65 @@
              'potter costume',
  'name': 'Yes Man',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'saarvardi'},
-            'dateCreated': '2008-12-15',
+            'author': {'@type': 'Person', 'name': 'dead47548'},
+            'dateCreated': '2008-12-20',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1068680/'},
-            'name': 'Carrey is back with a bang. Yes! Yes! Yes!',
-            'reviewBody': "Being a teenager in the 1990's, I have to say I was "
-                          "never a big fan of Jim Carrey's mainstream "
-                          'performances in the movies that made him the star '
-                          'that he is today. Hits like Ace Ventura, Dumb & '
-                          'Dumber and Liar Liar left me mostly indifferent to '
-                          "Carrey's rather obscene personality. It was only "
-                          'when he shined in more complex roles like The '
-                          'Truman Show, Man on the Moon and eventually Eternal '
-                          'Sunshine of the Spotless Mind that I grew to '
-                          'respect the wide range of characters Carrey is able '
-                          'to bring to life.\n'
+            'name': 'Say yes!',
+            'reviewBody': 'Yes Man follows the same basic genre comedy '
+                          "structure that we've seen an endless amount of "
+                          'times in the past few years. The main character has '
+                          'a big problem, they work to solve that problem, the '
+                          'problem is solved and happy times are had. Then '
+                          'another problem arises as a result to the solution '
+                          'to the original problem. So everyone is sad. But '
+                          'then that problem is solved and everyone lives '
+                          "happily ever after. And there's a message about how "
+                          'to live your life sprinkled in there. For every '
+                          'single comedy in the past few years with that '
+                          "structure, I've gotten so bored by the time it's "
+                          'over because I just lose interest when the drama '
+                          "comes in during the third act. I either don't care "
+                          "about the characters or I don't care about the "
+                          'message.\n'
                           '\n'
-                          'Over recent years, Carrey continued doing his '
-                          'thing, moving from comedy to dramatic roles and '
-                          'vice versa. The problem is that all of the sudden '
-                          "he wasn't alone in the ring anymore, and countless "
-                          'other comedians have tried to slip into his shoes '
-                          'to various degrees of success. There was no place '
-                          'to deny it; Carrey was in need of a hit to '
-                          're-establish his place in the Hollywood sky.\n'
+                          'Every comedy except for this one. Not only did I '
+                          'care about the characters so much (thanks mostly to '
+                          'the performances from Jim Carrey and Zooey '
+                          'Deschanel who put a beautiful, free-spirited '
+                          'romance at the core of this seemingly typical '
+                          'comedy) that I was emotionally impacted during that '
+                          'predictable turn for the worse near the end, but '
+                          'the message of the film was actually something that '
+                          'I found relatable to my own life which is something '
+                          "I've never experience during these kind of "
+                          "comedies. I'm definitely a man who doesn't really "
+                          'live his life (as cheesy as that sounds) because I '
+                          'isolate myself by making excuses to just be alone '
+                          'and not be with anyone. As a result, I was '
+                          'definitely more invested in this film than I have '
+                          'been with other comedies of the same vein.\n'
                           '\n'
-                          'Cue the brand new comedy Yes Man, that finds Carrey '
-                          'once again in his favorite "What if...?" sub-genre. '
-                          'This time around, he plays Carl, a lonely divorcée '
-                          'that has somehow alienated even his best friend '
-                          "(portrayed successfully by Wedding Crasher's "
-                          'Bradley Cooper). Carl is stuck in a dead-end job at '
-                          'a bank, yearns for his ex-wife and spends his '
-                          'evenings watching rented DVDs... all by himself. '
-                          'When an old friend introduces him to a corny '
-                          'self-help program (lead by a hilarious Terrence '
-                          'Stamp) that persuades him to answer "yes" to every '
-                          "question thrown his way, Carl's life takes a "
-                          'dramatic turn.\n'
+                          "Add to all this the fact that it's completely "
+                          'hilarious throughout to the point where I have no '
+                          'hesitation in calling it the funniest movie of the '
+                          'year and easily the best straight comedy (not that '
+                          'there have been many good ones; three by my count). '
+                          'Plus, of course, Zooey Deschanel is absolutely '
+                          "infectious in every moment she's on screen "
+                          '(especially her lovely singing). I love her more '
+                          'than air, and this is just another example of why '
+                          'that love is justified. Call it fanboyism if you '
+                          "must, but she's my #2 of the year in supporting "
+                          'actress right now falling second only to the Cruz. '
+                          'In summation, do yourself a favor and say yes to '
+                          'this great comedy.\n'
                           '\n'
-                          'As expected, the new approach gets our hero into '
-                          'all kinds of wacky situations - such as spending a '
-                          'steamy morning with his horny elderly neighbor (!); '
-                          'meeting a potential Iranian wife through an online '
-                          'service; partying all night whilst drinking '
-                          'countless cans of Red-Bull and over excessively '
-                          'helping a homeless person. Luckily enough, it also '
-                          'introduces him to the extremely free-spirited '
-                          'Allison (portrayed by the ever-so-cute Zooey '
-                          'Dashnel).\n'
-                          '\n'
-                          "If you've seen the average Carrey comedy, you can "
-                          'probably guess how the plot unfolds from here on '
-                          'out, necessary complications included. The format '
-                          "is more or less the same of what we've been used to "
-                          'seeing Carrey perform in his comic outings, with '
-                          'the main idea being a modern moral story urging '
-                          'people to stop going through the motions of life '
-                          'and start seizing the day. But I digress. It seems '
-                          'as though years of perfecting his comic roles as '
-                          'well as starring in more "grown up" roles have '
-                          'tamed Carrey a bit. A lot of the arrogance and '
-                          'awkwardness revolving his earlier films seem to be '
-                          'missing this time out, and instead I could actually '
-                          'feel true emotion and heart in Yes Man. It seems as '
-                          'if this fact alone contributed greatly to the fact '
-                          'that most of the punch lines actually worked here '
-                          'and I found myself smiling for the larger part of '
-                          'the film.\n'
-                          '\n'
-                          'Some points that still managed to ruin some of the '
-                          'fun are: A. As mentioned above, the film was very '
-                          'predictable, and formulated at that. B. Carrey has '
-                          "definitely aged recently, and it's starting to "
-                          'show. The age gap between him and Dashnel left me '
-                          'feeling somewhat uncomfortable.\n'
-                          '\n'
-                          'However, all in all I had a great time with some '
-                          "excellent laughs - and at the end of the day that's "
-                          'what really counts (:',
+                          "I'm so sorry, I had to say it.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Yes Man - Trailer #2',

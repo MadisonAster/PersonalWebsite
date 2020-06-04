@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Children-of-Men',
  'EntryURL': 'https://www.imdb.com/title/tt0206634',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Children-of-Men/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Children-of-Men/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Children-of-Men/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Children-of-Men/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0000323/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 449899,
+                     'ratingCount': 449909,
                      'ratingValue': '7.9',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -60,51 +59,37 @@
  'keywords': 'long take,england,fertility,neo noir,allegory',
  'name': 'Children of Men',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'GregWolf'},
-            'dateCreated': '2006-09-22',
+            'author': {'@type': 'Person', 'name': 'blestang'},
+            'dateCreated': '2006-10-25',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0206634/'},
-            'name': 'Utterly transfixed',
-            'reviewBody': 'I went to see this movie without catching any '
-                          'reviews, expecting something rather depressing and '
-                          'underfunded.\n'
+            'name': 'a must see= brilliant and fresh',
+            'reviewBody': 'this film is one of the best things i have seen '
+                          "this year. It's an improbable cross between "
+                          '"Brazil" "a clockwork orange" and the video game '
+                          "HALF-LIFE2 (from which it borrows it's final "
+                          'sequences and use of on shot action-sequences) it '
+                          'manages to be both entertaining in the Hollywood '
+                          'way (with incredible action sequences and a very '
+                          'clever way of using digital effects) yet very sad '
+                          'and different with a very very dark and realistic '
+                          'overtone. No comic relief, no cartoon character '
+                          "bravery, only human behavior in it's best and most "
+                          'horrible way. This realistic overtone makes the '
+                          'main characters very engaging and moving. CLive '
+                          'owen (whose i have always disliked) is excellent as '
+                          'the man drowned into an adventure too big for him '
+                          '(sorry for my bad English)\n'
                           '\n'
-                          'Let me stop there and start again.\n'
+                          "It's the same kind of film than V for vendetta "
+                          '(both taking place in a futuristic fascist British '
+                          'society) different from the usual mainstrean studio '
+                          'teenager pleaser crap\n'
                           '\n'
-                          'This movie is a revelation from start to finish. A '
-                          'convincing future world, deftly conveyed with so '
-                          "many subtle signals that I'm sure it will benefit "
-                          'from further viewings. A completely "other" England '
-                          'which I was amazed to see realised in such detail. '
-                          'Clive Owen FINALLY has the heroic role we have been '
-                          'waiting for and is brilliant in it. Julianne Moore '
-                          "simply glows and I've never enjoyed Sir Michael "
-                          'Caine so much before. The soundtrack is beautifully '
-                          'eclectic. Aside from some excellent classical '
-                          "choices, there's an evocative and alternative "
-                          'Spanish take on "Ruby Tuesday" which is a signature '
-                          'on the film. Wait during the end titles to enjoy an '
-                          'excremental song from Jarvis Cocker.\n'
-                          '\n'
-                          'The movie grabbed my attention right from the '
-                          "start, and never let go. Initially, it's the "
-                          'differences of this future world that intrigue. '
-                          'Then, when the action starts, what I found really '
-                          'surprising was the freshness of direction that made '
-                          "me react to bullets and violence as if I'd never "
-                          "seen them in a movie before. If the script wasn't "
-                          'so wonderfully leavened with wit, it would be a '
-                          'grim and scary movie at times.\n'
-                          '\n'
-                          'Finally, the whole thing is lit brilliantly, from '
-                          'the authentic dim English days to the atmospheric '
-                          'ending.\n'
-                          '\n'
-                          'One to watch alongside "The Handmaid\'s Tale" some '
-                          'time....',
+                          'GO see it! help intelligent cinema',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'url': '/title/tt0206634/'}

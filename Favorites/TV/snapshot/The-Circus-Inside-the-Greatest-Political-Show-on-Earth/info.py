@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Circus-Inside-the-Greatest-Political-Show-on-Earth',
  'EntryURL': 'https://www.imdb.com/title/tt5351176',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Circus-Inside-the-Greatest-Political-Show-on-Earth/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Circus-Inside-the-Greatest-Political-Show-on-Earth/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Circus-Inside-the-Greatest-Political-Show-on-Earth/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Circus-Inside-the-Greatest-Political-Show-on-Earth/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -36,21 +35,25 @@
  'keywords': 'politics',
  'name': 'The Circus: Inside the Greatest Political Show on Earth',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'hognls-57954'},
-            'dateCreated': '2019-03-03',
+            'author': {'@type': 'Person', 'name': 'he88'},
+            'dateCreated': '2019-04-01',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5351176/'},
-            'name': 'Unimaginative and shallow',
-            'reviewBody': 'If you want to hear one side of the story this is '
-                          "for you. Biased reporting with nothing you haven't "
-                          'heard or seen before in the lame stream media. It '
-                          'would be refreshing to see an objective news show. '
-                          "Just another echo chamber type program. Don't waste "
-                          'your time.',
+            'name': 'The Non-Spin Machine',
+            'reviewBody': 'I really get a kick how those who get all their '
+                          '"Facts" from the Right Wing Spin Machine completely '
+                          "freak when they see reality. No! You won't find the "
+                          'fox spin here that supports everything the right '
+                          'does as though directed by god. Now if they stopped '
+                          'with their indignation long enough to actually pay '
+                          "attention...They'd see that the left isn't treated "
+                          'any easier, but then when you have a clown at the '
+                          'head of the right....Of course a show named "The '
+                          'Circus" will spend more time there...',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '4',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The Circus: Inside The Greatest Political Show On '

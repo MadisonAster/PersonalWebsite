@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Insatiable',
  'EntryURL': 'https://www.imdb.com/title/tt6487482',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Insatiable/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Insatiable/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Insatiable/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Insatiable/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -39,32 +38,21 @@
  'keywords': 'beauty pageant,teenage girl,weight loss,lawyer,high school',
  'name': 'Insatiable',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'dawn14847'},
-            'dateCreated': '2018-08-11',
+            'author': {'@type': 'Person', 'name': 'optimisticbeatlesfan'},
+            'dateCreated': '2018-08-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt6487482/'},
-            'name': "I don't understand what people's problems are",
-            'reviewBody': 'I found this to be funny, well written, and filled '
-                          'with fantastic actors. The storyline is original '
-                          'and deals with a lot of issues that other shows '
-                          "won't touch.  It seems that people saw the trailer "
-                          'and drew their own conclusions without actually '
-                          'watching it, and those that did watch took the '
-                          'choice to see what they wanted to see - they saw '
-                          "that a 'fat' girl was being bullied and had her "
-                          "problems solved by becoming 'thin', I saw a girl "
-                          'that lost the weight that society thought she '
-                          "should only to find that it didn't solve anything "
-                          'and actually things became worse, but as this is '
-                          'dealt with a dry sense of humour a lot of people '
-                          "didn't get this. \n"
-                          '\n'
-                          'If you liked Drop Dead Gorgeous than this is the '
-                          'show for you!',
+            'name': "It's alright",
+            'reviewBody': 'I feel that the user reviews and critic reviews are '
+                          'both very tainted with bias. Critics were very '
+                          'harsh, took every small detail and blew it up. '
+                          'Users gave it a perfect score just to spite the '
+                          "media. It's really just an okay show. It's a fun "
+                          'watch!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A coming of rage story: "Insatiable," starring '

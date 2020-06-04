@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Inside-Look-The-People-V-Oj-Simpson---American-Crime-Story',
  'EntryURL': 'https://www.imdb.com/title/tt6205862',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Inside-Look-The-People-V-Oj-Simpson---American-Crime-Story/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Inside-Look-The-People-V-Oj-Simpson---American-Crime-Story/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Inside-Look-The-People-V-Oj-Simpson---American-Crime-Story/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Inside-Look-The-People-V-Oj-Simpson---American-Crime-Story/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -36,146 +35,55 @@
  'keywords': 'behind the scenes,making of',
  'name': 'Inside Look: The People v. O.J. Simpson - American Crime Story',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'classicalsteve'},
-            'dateCreated': '2017-04-24',
+            'author': {'@type': 'Person', 'name': 'shaunvanhaelewijn'},
+            'dateCreated': '2018-01-21',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt6205862/'},
-            'name': 'The Latter Trial of the Century with Problematic Casting '
-                    'Choice',
-            'reviewBody': 'The People v. O.J. Simpson is a docudrama about one '
-                          'of the most publicized murder cases of the 20th '
-                          'century. The O.J. case itself offered no '
-                          'ground-breaking change or in the American legal '
-                          'system, such as Gideon v Wainwright (1966) in which '
-                          'the court ruled that a defendant deserved '
-                          'professional representation irrelevant of the '
-                          "crime, regardless of the defendant's ability to pay "
-                          'for representation. The public fascination of the '
-                          'O.J. Simpson and its exposure of racial tensions '
-                          'was more closely aligned with the Charles Lindbergh '
-                          "Kidnapping case of the 1930's whose conviction of a "
-                          'German immigrant also exposed ethnic distrust.\n'
+            'name': 'Almost perfect',
+            'reviewBody': 'What a shock when I saw how few reviews this got. '
+                          "My god, I wasn't even planning on doing any effort "
+                          'in writing one, but this drew me over the line.\n'
                           '\n'
-                          'The film stars Cuba Gooding as O.J. Simpson, and '
-                          'includes an outstanding supporting cast: John '
-                          'Travolta as Robert Shapiro, David Schwimmer as '
-                          'Robert Kardashian, Courtney B. Vance as Johnny '
-                          'Cochran, Sterling K. Brown as Christopher Darden, '
-                          'Sarah Paulson as Marcia Clark, and Bruce Greenwood '
-                          'as Gil Garcetti. The film brings us into the '
-                          'behind-the-scenes drama of this compelling episode '
-                          'in American legal theater. The film does an '
-                          'outstanding job of giving us, the audience, the '
-                          'juxtaposition between what was given to the '
-                          'American public and how the main players decided '
-                          'the material best to present to the press, the jury '
-                          'and the public at large. The film begins with '
-                          'footage from the Rodney King case and the ensuing '
-                          'race riots which erupted in Los Angels in the wake '
-                          'of the acquittal of law enforcement.\n'
+                          "I'm not a citizen of the USA, but as a European "
+                          "born in the '90's it's hard to not have heard about "
+                          'O.J. Simpson. But that does not mean I knew the '
+                          'full story. Occasionally I read something about it, '
+                          'but I never got the whole history. This show gave '
+                          'me that opportunity. And boy, what a ride it was. \n'
                           '\n'
-                          'The main narrative begins with the violent barking '
-                          'of a dog which attracts the attention of some '
-                          'late-night joggers in an upscale area of Los '
-                          'Angeles, Brentwood. The dogs barking leads to the '
-                          'discovery of two dead bodies laying in the outside '
-                          'porch of a house on Bundy Drive. They were '
-                          'identified as Nicole Brown Simpson, the owner of '
-                          'the house, and another friend, Ronald Goldman. '
-                          'Detectives arrived to the scene and were eventually '
-                          'informed that Nicole was the ex-wife of American '
-                          'Football and film actor O.J. Simpson (Gooding), '
-                          'nicknamed "The Juice". Simpson was in Chicago but '
-                          'then took a red-eye flight back to Los Angeles to '
-                          'learn more about the death of his ex-wife.\n'
+                          'There are few shows where the creators do so many '
+                          'things right. But there are two things in '
+                          'particular that stood out from all those other '
+                          'shows. The first one is the acting. John Travolta, '
+                          'when he comes in, he draws you right in to the '
+                          'show. This is easily his best acting role in his '
+                          'recent career. The narcissism, arrogance,... Just '
+                          "for his acting performance it's worth to watch this "
+                          'show. But also the other lead characters are '
+                          "amazing. I'm just not sure if I found Cuba Gooding "
+                          'Jr. the right O.J. Simpson. Perhaps not completely. '
+                          "Some things just didn't feel quite right with his "
+                          'performance. In the beginning I found his acting '
+                          'quite spot on. But during the trial that changed in '
+                          'my opinion. I cannot quite finger point exactly '
+                          'what it was. Just an offish feeling I guess.\n'
                           '\n'
-                          'Relatively quickly, a case is building against '
-                          'Simpson. His immediate friends and legal counsels, '
-                          'Robert Kardashian (Schwimmer) and Robert Shapiro '
-                          '(Travolta), begin to suspect that Los Angeles is '
-                          'planning to arrest and charge Simpson for the '
-                          "murders. They become the first of Simpson's legal "
-                          '"dream team" as it came to be called. On another '
-                          'front, we learn of an African-American attorney '
-                          'name of Johnny Cochran who had made a reputation '
-                          'for representing African-Americans against legal '
-                          'injustices. Cochran had also represented '
-                          'celebrities, notably Michael Jackson.\n'
+                          'The second thing that is done brilliant is the '
+                          'pacing. You never feel bored. Every episode has his '
+                          'little what-the-f**k moment. The way they mixed '
+                          "original footage with the footage of the show. It's "
+                          'done so well, as if you are back in 1995. \n'
                           '\n'
-                          'Cochran begins commenting on the O.J. Simpson case '
-                          'publicly, particularly on shows like "Larry King '
-                          'Live". Eventually, Cochran joins the team. The team '
-                          'at first is an odd mix of Kardashian, Shapiro and '
-                          'other white lawyers and assistants, and Cochran and '
-                          'his African-American lawyers and associates. The '
-                          'two sides seem at odds, and questions arise '
-                          'regarding who will represent Simpson as lead '
-                          'counsel. Simpson opts for Cochran to the dismay of '
-                          'the other white lawyers.\n'
-                          '\n'
-                          'Down in Los Angeles, Marcia Clark (Paulson) is '
-                          'putting together their case against Simpson which '
-                          'appears to be iron-clad. She wants to be lead '
-                          'prosecutor and she polls some African-American '
-                          'women and the results suggest that a white '
-                          'prosecutor could win their sympathy against an '
-                          'alleged wife-beater. However, Gil Garcetti '
-                          '(Greenwood) feels the prosecution looks too '
-                          '"white". The trial will be held in downtown Los '
-                          'Angeles, and there would undoubtedly be '
-                          'African-American jurors. They find a solution: they '
-                          'ask Christopher Darden (Brown) to join the '
-                          'prosecution. The court appoints Judge Lance Ito to '
-                          'hear the case, a Japanese-American who, some '
-                          'speculate, was assigned because he was neither '
-                          'white nor black.\n'
-                          '\n'
-                          'The trial begins, but something is not right with '
-                          'Mark Fuhrman (Steven Pasquale). He is brought into '
-                          'the trial because of a bloody glove he claims to '
-                          'have found on the O.J. Simpson property the night '
-                          'of the murders. However, through some investigative '
-                          'work, it is learned that Fuhrman is a racist and '
-                          'some new evidence emerges which proves it without a '
-                          'shadow of a doubt.\n'
-                          '\n'
-                          'Definitely a compelling series from beginning to '
-                          'end. So why 9 stars out of 10? There is one '
-                          'miscast: Cuba Gooding as O.J. Simpson. I will '
-                          'preface this to say I am great admirer of Gooding '
-                          'who has had some terrific performances. However, he '
-                          'was not a good choice for O.J. Simpson. I think the '
-                          'problem is that Gooding, unlike O.J. has a very '
-                          'strong personality and a high-pitched tenor voice. '
-                          'O.J. has a softer but resonant baritone voice and '
-                          'in interviews he always came off as very calm and '
-                          '"comfortable" in his own "skin". Not that the O.J. '
-                          "behind the scenes couldn't be fiery, but Gooding is "
-                          'almost too fiery, with a lot of whining and nervous '
-                          'angst which happens all the way through the film. '
-                          'Sometimes I found Gooding a bit over-the-top.\n'
-                          '\n'
-                          'Sadly, Gooding is just not a terribly convincing '
-                          'O.J. I felt like I kept seeing the actor rather '
-                          'than one of the biggest sports and media stars of '
-                          "all-time, and he comes off like he's still playing "
-                          'Rod Tidwell from "Jerry Maguire". Although they are '
-                          "both African-Americans, they really couldn't even "
-                          'pass as brothers, not even cousins. For one thing, '
-                          'Simpson would dwarf Gooding, and the former '
-                          "football star's head is rather ovular and nearly "
-                          "perfectly symmetrical while Gooding's is far more "
-                          'round and a little bit asymmetrical (not that one '
-                          "is better than the other). The issue is that we've "
-                          'seen O.J. so much, especially on television during '
-                          'the trial, that using an actor who physically bears '
-                          "almost no resemblance to the character he's playing "
-                          'can upset the production value. Certainly an A-, '
-                          'but not an A because of the miscast. Even Forest '
-                          'Whitaker would probably have been much closer to '
-                          'Simpson than Gooding. I saw too much of Gooding and '
-                          'not enough of Simpson.',
+                          'Why not a 10? I just completely missed the story of '
+                          'the family of the victims. I get it though... If '
+                          'you make this kind of show, you want to make a '
+                          "point. And you can't focus on everything. The story "
+                          'writers chose to concentrate on the influence of '
+                          'the media combined with the frustration of the '
+                          'Afro-American community. Which lead to a completely '
+                          'irrational outcome in this case, lead by emotions '
+                          'of a hurt community. Sad.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

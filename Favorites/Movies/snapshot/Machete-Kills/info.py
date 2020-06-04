@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Machete-Kills',
  'EntryURL': 'https://www.imdb.com/title/tt2002718',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Machete-Kills/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Machete-Kills/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Machete-Kills/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Machete-Kills/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -53,49 +52,29 @@
              'neck,woman murders a man,murderess',
  'name': 'Machete Kills',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'BA_Harrison'},
-            'dateCreated': '2013-12-17',
+            'author': {'@type': 'Person', 'name': 'theWBohlken'},
+            'dateCreated': '2013-11-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2002718/'},
-            'name': 'Move over, Speedy Gonzales!',
-            'reviewBody': "In Robert Rodriguez's Machete Kills, Danny Trejo's "
-                          'character—deadly Mexican secret agent Machete '
-                          'Cortez—is about as three-dimensional and grounded '
-                          'in realism as a Looney Tunes cartoon character '
-                          'tripping on peyote. For many, this move towards a '
-                          'crazier style with even more unbelievable '
-                          'splatstick violence will be a step too far, the '
-                          'live-action-cartoon style antics exceeding many '
-                          "people's willingness to suspend disbelief. However, "
-                          'those who can find their way safely past this '
-                          'potential stumbling block should have a whale of a '
-                          'time.\n'
+            'name': 'So dumb and over the top.... EXACTLY what i paid for!',
+            'reviewBody': 'I am a fan of the first one, I am a fan of '
+                          'Grindhouse and I love over the top movies. Going in '
+                          'to this I knew that it was going to be bloody, '
+                          'cheesy and awesome. It surprised me that this did '
+                          'not do as well as the first one or even close to '
+                          'it. The original was a tad more serious and had '
+                          'some really badass parts while this one was just '
+                          'non stop cheesy and Grindhouse-y. \n'
                           '\n'
-                          'Rodriguez directs proceedings with a carefree '
-                          'attitude and sense of fun that I found infectious, '
-                          'with all ideas—no matter how dumb they must have '
-                          'looked on paper—making their way into the final '
-                          'film. Thus, we have a Bond-style baddie in the form '
-                          'of megalomaniac Luther Voz (Mel Gibson), our hero '
-                          'killing numerous henchmen in a variety of creative '
-                          'ways, some innovative sci-fi weaponry, plenty of '
-                          'cool in-jokes for us movie geeks (I loved the '
-                          'visual reference to Mad Max II) and a bevy of '
-                          'lovely latino babes in sexy gear (including Alexa '
-                          'Vega in PVC and Michelle Rodriguez in tight, '
-                          'cleavage enhancing top). Hell, Rodriguez is having '
-                          "so much fun that he doesn't even care about the "
-                          'quality of his CGI, which only adds to the '
-                          'gleefully gaudy vibe.\n'
-                          '\n'
-                          'It all gets very silly, and with the next sequel '
-                          "featuring Machete in space, it's set to get a whole "
-                          "lot sillier; I for one will make sure I've booked "
-                          'my seat for the ride.\n'
-                          '\n'
-                          '7.5 out of 10, rounded up to 8 for being marginally '
-                          'more fun than the first one.',
+                          'If you saw the first one, you pretty much know what '
+                          'to expect and what the basic concept is. Just times '
+                          'that times ten and you have Machete Kills. It is '
+                          "just a movie where you sit and don't think about "
+                          'it. Let it all happen and enjoy it. That is, of '
+                          'course, you like action movies where the hero chops '
+                          'every bad guy up and Sofia Vergara with her bra '
+                          'machine gun.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '8',

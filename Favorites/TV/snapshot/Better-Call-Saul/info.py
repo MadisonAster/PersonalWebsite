@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Better-Call-Saul',
  'EntryURL': 'https://www.imdb.com/title/tt3032476',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Better-Call-Saul/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Better-Call-Saul/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Better-Call-Saul/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Better-Call-Saul/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0264579/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 294490,
+                     'ratingCount': 294496,
                      'ratingValue': '8.7',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -47,40 +46,34 @@
              'universe',
  'name': 'Better Call Saul',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'rainerraff-87519'},
-            'dateCreated': '2020-05-06',
+            'author': {'@type': 'Person', 'name': 'frewars'},
+            'dateCreated': '2015-02-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3032476/'},
-            'name': 'Saul definitely deserves love too from Breaking Bad fans.',
-            'reviewBody': 'One thing that stopped me from watching this movie '
-                          'is because I knew this show has nothing to do with '
-                          'Walter White, the man that makes Breaking Bad, '
-                          'Breaking Bad. I believe most people also think the '
-                          'same.\n'
-                          '\n'
-                          'Personally, after rewatching Breaking Bad few '
-                          'times, I have come to the conclusion that there is '
-                          'nobody in the show that I love from the beginning '
-                          'until the last second. What I like the most is the '
-                          'character development for all the important '
-                          'characters.\n'
-                          '\n'
-                          'Then? What does it have to do with Better Call '
-                          'Saul? I believe I love this show as much as '
-                          'Breaking Bad because of the exact reason. I REALLY '
-                          'love how every character behaves and develops in '
-                          'this show. What more fascinating is, this show has '
-                          'everything you like from Breaking Bad. Tension, '
-                          'emotions, atmosphere, character flaws, good '
-                          'antagonists, you name it. One other similarity this '
-                          'show has, this show gets better when it is closer '
-                          'to the end. (I know, it has not ended yet) You '
-                          "really don't want to miss every second of it.\n"
-                          '\n'
-                          'I can assure you, all Breaking Bad fans, your love '
-                          'to this show will be AT LEAST as big as your love '
-                          'to Breaking Bad. Easiest 10/10 after Breaking Bad.',
+            'name': 'This show has filled the Breaking Bad gap in my heart.',
+            'reviewBody': 'I loved every second of the first two episodes of '
+                          'Better Call Saul. We are beginning the season with '
+                          'many strings left untied but I have complete faith '
+                          'in all questions being answered. If you loved '
+                          'Breaking bad for all the reasons I did including '
+                          'the cinematography, music, scenery, characters and '
+                          'most of all the story line, then you will love '
+                          'this. I apologize for going slightly off topic but '
+                          'in looking back at the breaking bad episode with '
+                          'the fly in the lab, some people found that they did '
+                          'not enjoy this episode, I on the other hand loved '
+                          'it. I appreciate the pure genius of the directing '
+                          'that goes behind every minute of the show. I '
+                          'understand and respect that people are entitled to '
+                          'their own opinion but after reading the negative '
+                          'reviews given here about "Better Call Saul" all I '
+                          "can say is that they don't get it, and that is OK. "
+                          'It is worth a watch because if you end up enjoying '
+                          'the show you wont just like it, you will love it. '
+                          'This is the next life changing show that will '
+                          'become something you look forward to for many '
+                          "years. I am truly excited for what's to come.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

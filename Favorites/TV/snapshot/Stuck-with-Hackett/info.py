@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Stuck-with-Hackett',
  'EntryURL': 'https://www.imdb.com/title/tt2010667',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Stuck-with-Hackett/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Stuck-with-Hackett/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Stuck-with-Hackett/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Stuck-with-Hackett/thumb.jpg',
  'actor': {'@type': 'Person',

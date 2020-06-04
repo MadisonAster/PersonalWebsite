@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Union-The-Business-Behind-Getting-High',
  'EntryURL': 'https://www.imdb.com/title/tt1039647',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Union-The-Business-Behind-Getting-High/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Union-The-Business-Behind-Getting-High/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Union-The-Business-Behind-Getting-High/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Union-The-Business-Behind-Getting-High/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm5173656/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 7582,
+                     'ratingCount': 7581,
                      'ratingValue': '8.2',
                      'worstRating': '1.0'},
  'creator': [{'@type': 'Person',
@@ -45,58 +44,46 @@
  'keywords': 'cannabis,business,marijuana,weed,september 11 2001',
  'name': 'The Union: The Business Behind Getting High',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'zippyflynn2'},
-            'dateCreated': '2009-09-03',
+            'author': {'@type': 'Person', 'name': 'wreeah'},
+            'dateCreated': '2011-08-18',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1039647/'},
-            'name': 'Warning: The Following Film Contains Dangerous Truths and '
-                    'Will Lead to Rational Thinking and Outrage.',
-            'reviewBody': 'There are a variety of excellent films available '
-                          'that expose the idiocy, lies, hysteria and '
-                          'underlying self-serving and enormously profitable '
-                          'financial motivations behind drug prohibition in '
-                          'America, specifically the current War on Drugs, of '
-                          'which marijuana is the prime target. This is one of '
-                          'the best as it is one of the most comprehensive as '
-                          'well as nicely edited and thoughtfully produced.\n'
+            'name': 'A little one sided, but very good',
+            'reviewBody': 'Off the top, let me first say I was very '
+                          'entertained by this film and found it very '
+                          'informative and a little thought provoking. '
+                          'However, as a documentary, it has some issues.\n'
                           '\n'
-                          'This is not a stoner film, a statement of "I have a '
-                          'right to get to stoned and no one should infringe '
-                          'on this in and of itself", even though this is a '
-                          'perfectly valid argument if you believe at all in '
-                          'real freedom and the US Constitution. Rather, this '
-                          'is a documentary that exposes the horrific, '
-                          'astronomical price the US pays to continue the '
-                          'current marijuana prohibition.\n'
+                          "First, let me get the 'cons' out of the way. I will "
+                          'say the production values are low, however, some of '
+                          'the best documentaries are shot on shoe string '
+                          'budgets by people that really just have something '
+                          'they want to say! The music can be too prominent, '
+                          'monotonous, and a little irritating at times. It '
+                          "also doesn't fit the subject matter at points. "
+                          'Stock footage is a little over done, and over '
+                          'edited. Also, you really know right off the bad '
+                          'where the film makers stand on the subject matter! '
+                          'It can feel quite one sided at times, and can '
+                          'present some of the street people being interviewed '
+                          'as naive with uneducated points of view.\n'
                           '\n'
-                          'Sadly, this film will be, for the most part, '
-                          'preaching to the choir. Few who have opposing views '
-                          'will watch it and be swayed to examine the '
-                          'fallacies within their belief system. Not because '
-                          'of the presentation or production value of the '
-                          'statements within the film, but rather man and '
-                          "woman's ability to continue to believe the most "
-                          'ridiculous and destructive foolishness regardless '
-                          'of the amount of overwhelming logic and reality '
-                          'that contradicts their beliefs. The billions of '
-                          'those who feverishly practice religions of '
-                          'intolerance and other faith/magic based beliefs as '
-                          'well as many of the horrific conditions in America '
-                          'presently, such as the record setting Prisons for '
-                          'Profit system and other tragedies are ample proof '
-                          'as to the idiotic self and other destructive nature '
-                          'of so-called humanity.\n'
+                          'However, all that being said, there were a LOT of '
+                          'well made points that came up! The film makers take '
+                          'you inside the operations, and show you first hand '
+                          'how this world operates. He interviews some big '
+                          'names, and asks a lot of the big questions and '
+                          'covers a lot of areas that we never quite hear '
+                          'about.\n'
                           '\n'
-                          'Watch this film anyhow, whether it outrages you or '
-                          'just is another piece of evidence as further proof '
-                          "of man's and woman's squandered opportunity to have "
-                          'a great society. It is quite well done and will '
-                          'provide you food for thought, that is if you dare '
-                          'to think.',
+                          "Even if it's not the best documentary (and I'm not "
+                          'even sure how that standard could even be set...) '
+                          "this is one that you should take in! It'll be worth "
+                          'your time!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for The Union: The Business Behind '

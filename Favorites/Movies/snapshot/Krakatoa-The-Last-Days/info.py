@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Krakatoa-The-Last-Days',
  'EntryURL': 'https://www.imdb.com/title/tt0791318',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Krakatoa-The-Last-Days/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Krakatoa-The-Last-Days/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Krakatoa-The-Last-Days/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Krakatoa-The-Last-Days/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -49,28 +48,31 @@
  'keywords': 'volcano,docudrama,1880s',
  'name': 'Krakatoa: The Last Days',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'mram16'},
-            'dateCreated': '2006-06-25',
+            'author': {'@type': 'Person', 'name': 'terbu'},
+            'dateCreated': '2010-11-02',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0791318/'},
-            'name': 'Excellent',
-            'reviewBody': 'A fact-based account of the 1883 eruption of '
-                          'Krakatoa in the Sunda Strait near Java, an '
-                          'Indonesian island. The eruption and its effects '
-                          '(including tsunamis and a super-hot ash cloud) took '
-                          'over 36,000 lives. The story follows several '
-                          'characters throughout the ordeal, including a Dutch '
-                          'official, his family, and his native clerk; a ship '
-                          'captain, his passengers and crew; a lighthouse '
-                          'keeper and his family; and a Dutch scientist in '
-                          'Indonesia to study the regions volcanoes. Included '
-                          'are narrations from diaries and journals of the '
-                          'survivors. The special effects are pretty good for '
-                          'a film of its kind, and unlike most made-for-TV '
-                          'fare, this docudrama actually has some good acting.',
+            'name': 'Bad !!',
+            'reviewBody': "I'm Indonesian, this poor movie i ever watch. "
+                          'Foreign language part is not "Bahasa Indonesia" but '
+                          '"melayu" (malaysian) "javanese" people speaking '
+                          '"melayu" very strange dialect. The people around '
+                          "Krakatau's must be Sundanese not Javanese, west "
+                          'Java is Sundanese, very different between Sundanese '
+                          'and Javanese, both language and culture. \n'
+                          '\n'
+                          'See when earthquake happen what the people do?? '
+                          'very funny, no panic there! So i think this movie '
+                          'never make a survey about Indonesia situation and '
+                          'people.. \n'
+                          '\n'
+                          'Specially please understand the west Java people, '
+                          'Indonesia culture (note: Indonesia not Malaysia). '
+                          'When we watch this movie I feel strange with my '
+                          'country and culture.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '2',
                              'worstRating': '1'}},
  'url': '/title/tt0791318/'}

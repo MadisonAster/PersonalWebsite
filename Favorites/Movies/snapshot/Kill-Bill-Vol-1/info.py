@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kill-Bill-Vol-1',
  'EntryURL': 'https://www.imdb.com/title/tt0266697',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kill-Bill-Vol-1/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kill-Bill-Vol-1/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kill-Bill-Vol-1/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kill-Bill-Vol-1/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0000514/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 966022,
+                     'ratingCount': 966033,
                      'ratingValue': '8.1',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -52,40 +51,82 @@
  'keywords': 'revenge,bride,sword,female protagonist,martial arts',
  'name': 'Kill Bill: Vol. 1',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'davispittman'},
-            'dateCreated': '2018-02-28',
+            'author': {'@type': 'Person', 'name': 'Brent_P'},
+            'dateCreated': '2005-03-06',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0266697/'},
-            'name': 'Well made action film',
-            'reviewBody': "Kill Bill: Vol. 1 (2003) is a unique film. I've "
-                          'never seen anything quite like it. My commentary '
-                          'for this film is almost all positive. First off, '
-                          'the cast really blew me away, each and every actor '
-                          'did a great job with their respective roles. Uma '
-                          'Thurman is a terrific actress and she was '
-                          'definitely the right choice to play the lead '
-                          'character. Thurman commands this role and you are '
-                          "transfixed by her in every scene she's in. It's not "
-                          'just the action sequences that she is great in, '
-                          "she's just perfect for the role all around. And it "
-                          "wasn't just her that I loved, I also liked Vivica "
-                          'A. Fox, Daryl Hannah, and Lucy Lui. They all showed '
-                          'off their acting chops here, especially Fox, I '
-                          "personally loved her short time she's in the film. "
-                          'The writing is well done, I especially enjoyed '
-                          "Thurman's dialogue, the well written dialogue and "
-                          'the impressive way that she delivers that dialogue '
-                          'all comes together to make something great. I think '
-                          'most movie goers will enjoy this acclaimed movie, '
-                          "as long as they're not too conservative that is. I "
-                          'say that because the violence is truly graphic and '
-                          'very bloody, but in a strange way it kinda works '
-                          "for this one. I'm usually not a big fan of that, "
-                          'but here it works. Good job Tarantino! 8/10.',
+            'name': 'Instant classic, but not for all audiences.',
+            'reviewBody': "I know it's a couple years late, but I had to write "
+                          "a review for some of the few people that haven't "
+                          "seen one of my favorite and refreshing I've seen "
+                          'over the last few years. Kill Bill Vol. 1 is yet '
+                          "another quality film of Tarantino's short, but "
+                          'distinguished list.\n'
+                          '\n'
+                          'Kill Bill involves a nameless woman (Uma Thurman) '
+                          'who is slowing seeking revenge on her former hit '
+                          'squad the Viper Squad and her boss Bill (David '
+                          'Caradine.) Her former hit squad wronged her by '
+                          'gunning down her closest friends and family during '
+                          'her wedding and putting her into a coma while being '
+                          'pregnant. A few years later she awakens in a '
+                          'hospital, without child, and tries to track down '
+                          'each member of the squad. As the story progresses '
+                          '(through this film and the sequel), you find out '
+                          'who she really, why Bill wanted her dead and the '
+                          'fate of her daughter.\n'
+                          '\n'
+                          "The movie is really a combination of Tarantino's "
+                          "love for the 70's over-dramatized Kung-Fu movie era "
+                          'and story of revenge with rich dialog. Yes, this '
+                          'movie is violent, but in a cheesy way. This created '
+                          'some controversy and really had audiences stirred '
+                          'up, failing to realize it was supposed to be over '
+                          'the top without no sense of realism. Like I said, '
+                          'it was supposed to be a tribute more so than a '
+                          'gruesome action flick. With all cheesiness aside, I '
+                          'can understand how some people could feel a little '
+                          'woozy after seeing someone lose an arm and having 4 '
+                          'gallons of Kool-Aid red blood shoot out of the body '
+                          "like a whale's blow hole. What really makes this "
+                          'movie is Tarantino ability to make bad to mediocre '
+                          'actors seem like good ones, a smart and hilarious '
+                          'dialog and a good storyline. Of course, this is '
+                          'what he does in pretty much in all of his movies.\n'
+                          '\n'
+                          'There are various plot holes in the story, but we '
+                          'are really meant to ignore them unlike most movies. '
+                          'Just like the gory scenes, come to grips to the '
+                          'fact that the most of the implausibilities are '
+                          'there just to fill in the gaps of the movie. The '
+                          'movie also features a couple of classic Tarantino '
+                          'showdowns, including an unforgettable one with the '
+                          'Japanese infamous crime lord, O-Ren Ishii (Lucy '
+                          'Lui.) Once again, Tarantino puts his imagination at '
+                          'work again in his story telling by using some of '
+                          'his old techniques like jumping timelines and some '
+                          'new ones like adding Japanese animation for '
+                          'character backgrounds.\n'
+                          '\n'
+                          "I wouldn't really recommend this film to someone "
+                          'who is really not from the Pulp Fiction era. This '
+                          'film is really just homage to flicks that '
+                          'frequently appear on Sunday Samurai Showcase, '
+                          "revenge and Tarantino's continuous fascination with "
+                          'Uma Thurman. This film contains extreme violence '
+                          'and sometimes strange dialog coupled with some '
+                          "pretty good acting and directing. If you're not a "
+                          "fan of Tarantino's films, you should pass on this "
+                          "one because it is doesn't stray to far from his "
+                          'other stuff. If you like his other works, this is a '
+                          'must see due to its originality and quality. And, '
+                          "if you just don't like Tarantino himself, and find "
+                          "him annoying like everybody else, I don't blame you "
+                          "but it's still worth your while seeing.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'CT #1, post',

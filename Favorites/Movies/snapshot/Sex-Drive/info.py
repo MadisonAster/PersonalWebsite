@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Sex-Drive',
  'EntryURL': 'https://www.imdb.com/title/tt1135985',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Sex-Drive/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Sex-Drive/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Sex-Drive/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Sex-Drive/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0005188/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 81968,
+                     'ratingCount': 81970,
                      'ratingValue': '6.5',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -49,32 +48,55 @@
              'pubic hair,breasts',
  'name': 'Sex Drive',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'dt10111'},
-            'dateCreated': '2008-10-23',
+            'author': {'@type': 'Person', 'name': 'claudio_carvalho'},
+            'dateCreated': '2009-07-31',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1135985/'},
-            'name': 'Reasonable Coming Of Age Comedy',
-            'reviewBody': 'I couldn\'t bash "Sex Drive" in good faith. For a '
-                          'comedy of its type, and all of you know what I mean '
-                          'by this coming of age sort of comedy, it had a lot '
-                          "of slow parts that weren't funny, and needless "
-                          'sentimentality that only served to slow the movie '
-                          'down. However, when it was funny, it was super '
-                          'funny.\n'
+            'name': 'I Am Still Laughing',
+            'reviewBody': 'In the suburb of Chicago, the eighteen year-old Ian '
+                          '(Josh Zuckerman) is a naive and virgin teenager '
+                          'that is mocked by his homophobic brother Rex (James '
+                          'Marsden) and his schoolmates; his best friends are '
+                          'Felicia (Amanda Crew) and the wolf Lance (Clark '
+                          'Duke). When Ian meets a girl called Tasty (Katrina '
+                          'Bowden) in Internet, he writes many lies about '
+                          'himself; when she invites him to drive to '
+                          'Knoxville, Tennessee, to have sex with her, Ian '
+                          "steals Rex's GTO Judge 1969 and travels with Lance "
+                          'and Felicia. When they have trouble on the road '
+                          'with the car, the Amish Ezekiel (Seth Green) offers '
+                          'to help them in his community. Lance meets the '
+                          'Amish Mary (Alice Greczyn) and they fall in love '
+                          'for each other. During their travel, Ian and '
+                          'Felicia discover that their feelings are more than '
+                          'friendship and that Tasty is not who she told she '
+                          'is.\n'
                           '\n'
-                          'The ongoing gags were pretty notable, and '
-                          'performances were top notch, notably by Seth Green '
-                          'as the sarcastic Amish guy. This may reign as best '
-                          'sarcastic performance in any movie, ever. The '
-                          'energy between the various performers was right and '
-                          'helped execute most of the gags effectively. As I '
-                          'mentioned, I have complaints, but they are trivial. '
-                          'If you want some goofy humor to eat popcorn to, '
-                          'give it a shot.',
+                          'I am still laughing with "Sex Drive" since this '
+                          'movie is one of the funniest comedies that I have '
+                          'recently seen. There are many gross jokes, '
+                          'beautiful tits and girls and enjoyable characters. '
+                          'The cynical Seth Green is simply hilarious in the '
+                          'role of a sympathetic Amish. The scene when Ian is '
+                          'on the stage watching the dancers backstage while a '
+                          'pregnant girl is telling her sad story is so funny '
+                          'that I needed to stop the movie just to laugh. The '
+                          'last scene with Amanda Crew in the end of the '
+                          'credits is also very funny, and I believe many '
+                          'people probably lost this joke. If you are '
+                          'intellectual, or if you do not like this type of '
+                          'movie, please do not spend your time to write bad '
+                          'reviews in IMDb. I can not understand how a viewer '
+                          'can be surprised with the content of a comedy that '
+                          'begins the way "Sex Drive" does. Amanda Crew, '
+                          'Katrina Bowden, Alice Greczyn and all the female '
+                          'cast are incredibly gorgeous. My vote is eight.\n'
+                          '\n'
+                          'Title (Brazil): "Sex Drive"',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'This is the theatrical trailer for Sex Drive, '

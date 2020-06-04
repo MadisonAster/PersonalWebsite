@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Code-Monkeys',
  'EntryURL': 'https://www.imdb.com/title/tt1068683',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Code-Monkeys/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Code-Monkeys/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Code-Monkeys/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Code-Monkeys/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -37,44 +36,47 @@
  'keywords': 'game',
  'name': 'Code Monkeys',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'reiver102'},
-            'dateCreated': '2007-07-16',
+            'author': {'@type': 'Person', 'name': 'portnoys_disciple'},
+            'dateCreated': '2008-03-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1068683/'},
-            'name': 'Brilliant!!!',
-            'reviewBody': 'I barely heard anything about this show, but I '
-                          'happened to be watching G4 the night the series '
-                          'premiered, and I have to say I was stunned. This '
-                          'is, quite simply, the best video game related '
-                          'cartoon EVER. Every part of this show is a '
-                          'reference to videogames, from the health bar and '
-                          'score at the top of the screen, to the brief '
-                          '"PAUSE" message right before commercials (including '
-                          'the trademark pause ding like Mario games have). '
-                          'The humor is a lot like Aqua Teen Hunger Force, '
-                          "though the stories are more cohesive than ATHF's. "
-                          'The show has the visual style of an 8-bit game (a '
-                          'close comparison would be to the Rise of the '
-                          'Mushroom Kingdom series at VGDC.com, although '
-                          'stylistically it looks more like River City Ransom) '
-                          'However, this innocent presentation belies the '
-                          'highly offensive content, which includes plenty of '
-                          'swearing, lots of video game violence, and even one '
-                          'scene were one character paints his penis green '
-                          'after a hard night of partying. Yet, so much '
-                          'attention is put into little details, where '
-                          'hardcore gamers will notice many things from many '
-                          'old classic games and probably read into many '
-                          "things that casual viewers wouldn't even notice. If "
-                          'G4 ever needed a show to get them more attention '
-                          "from the masses, this would be it. Whether that's a "
-                          'good thing or not is yet to be seen, but I can say '
-                          'that Code Monkeys is brilliant and I hope it stays '
-                          'on the air for a long time.',
+            'name': 'Insert Credit (0/2)',
+            'reviewBody': "Alright, so I'm a kid of the 90s. I grew up on NES "
+                          'and SNES games, and the old 8-bit and 16-bit '
+                          'technology is just nostalgia to me. I loved it, and '
+                          "still do. Now that I'm in my upper teens, I am able "
+                          'to enjoy everything this show has to offer, and not '
+                          'just the appearance...although the appearance in '
+                          'and of itself is extremely enjoyable as well.\n'
+                          '\n'
+                          'The show rules, man. Inventive characters and good '
+                          'voice acting combined with out-of-the-park hilarity '
+                          'and a plethora of references to early gaming makes '
+                          'this show one of the absolute funniest I have ever '
+                          "seen. It's something that you don't have to be "
+                          'extremely in-tune with the gaming community to '
+                          'enjoy, and yet being part of it makes the show all '
+                          'the more enjoyable.\n'
+                          '\n'
+                          'Some people may not like it because of its odd and '
+                          'sometimes inappropriate humor, some may not like it '
+                          'because it reminds them of that one level that they '
+                          "just couldn't beat when they were an acne-infested "
+                          'junior in high school, dropping quarter after '
+                          'quarter into that dang machine to no avail. And '
+                          "some may not like it because they simply can't be "
+                          'pleased.\n'
+                          '\n'
+                          'Thankfully, I am not one of those people. This show '
+                          'gets a 10/10 for me. I certainly hope that they '
+                          'continue with the show and make more seasons of the '
+                          'fine, fine product that is Code Monkeys.\n'
+                          '\n'
+                          '*GAME OVER*',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Code Monkeys: Season One',

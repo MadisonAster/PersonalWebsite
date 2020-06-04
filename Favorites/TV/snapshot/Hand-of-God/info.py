@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Hand-of-God',
  'EntryURL': 'https://www.imdb.com/title/tt3973768',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Hand-of-God/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Hand-of-God/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Hand-of-God/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Hand-of-God/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -41,32 +40,32 @@
  'keywords': 'religion,hallucination,suicide,talking to god,rape victim',
  'name': 'Hand of God',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jane_hill-20569'},
-            'dateCreated': '2017-09-04',
+            'author': {'@type': 'Person', 'name': 'katish7'},
+            'dateCreated': '2014-08-30',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3973768/'},
-            'name': 'Excellent Show and Superb Acting',
-            'reviewBody': 'I was really surprised to see the negative reviews '
-                          'from the reviewers and Rotten Tomatoes. Of course, '
-                          'no show is right for every one, that is why we has '
-                          'thousands of different shows to watch but for me, '
-                          'this was a great show. Continued to keep my '
-                          'attention and made me want to watch the next '
-                          'episode immediately. Wonderful work from Ron '
-                          "Perlman and Dana Delaney (and I'm not a huge fan of "
-                          'hers). The supporting cast were very good as well.\n'
+            'name': 'The best pilot from Amazon yet',
+            'reviewBody': 'This was definitely the best pilot produced by '
+                          'Amazon so far in terms of quality of writing, '
+                          'acting and directing. Even just one of the best '
+                          'pilots all around. \n'
                           '\n'
-                          'I will admit there are parts of the show that drift '
-                          "off, are derivative and just all-around don't make "
-                          'sense, but those are small. In the end, the show is '
-                          'compelling, interesting and an excellent series.\n'
+                          'Acting is very convincing from all of the leads. '
+                          'The story is very engaging and keeps you on the '
+                          "edge. It makes you question the main character's "
+                          "sanity, but still sympathize with him. There're a "
+                          'lot of layers to the narrative, but it feels all '
+                          'connected. \n'
                           '\n'
-                          "It's a shame, there will be no season 3, it "
-                          'deserves it.',
+                          'Marc Foster and Ben Watkins delivered! \n'
+                          '\n'
+                          'I sincerely hope that Amazon will pick it up and '
+                          'produce the whole season with the same outstanding '
+                          'quality.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A morally-corrupt judge suffers a breakdown and '

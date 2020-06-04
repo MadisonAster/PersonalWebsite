@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Attack-on-Titan',
  'EntryURL': 'https://www.imdb.com/title/tt2072230',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Attack-on-Titan/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Attack-on-Titan/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Attack-on-Titan/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Attack-on-Titan/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -60,89 +59,40 @@
              'parts',
  'name': 'Shingeki no kyojin',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'billygoat1071'},
-            'dateCreated': '2015-08-12',
+            'author': {'@type': 'Person', 'name': 'ohiramine'},
+            'dateCreated': '2015-08-17',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2072230/'},
-            'name': 'Watered Down Humanity',
-            'reviewBody': 'Attack on Titan is recently one of the most popular '
-                          "manga/anime in a while, it wasn't nearly as rich as "
-                          'some of the greatest ones out there, however the '
-                          'material tackles a rather mature subtext, otherwise '
-                          'a really fascinating showcase of macabre in a '
-                          "larger scale. It's clearly destined to be a movie, "
-                          "it might as well fit in today's blockbuster trend "
-                          'of post-apocalyptic settings and revolution '
-                          "ordeals. But the movie's approach is rather "
-                          'standard in comparison. While it still wonderfully '
-                          'realizes the most grotesque moments of its source '
-                          'material, the characters are watered down with less '
-                          'interesting plights. Newcomers might find its '
-                          'premise intriguing, but what makes Attack on Titan '
-                          'interesting is hardly existent in this adaptation.\n'
-                          '\n'
-                          'How the main characters are introduced is painfully '
-                          'contrived. Like every piece of exposition is '
-                          'immediately crammed into that one long scene that '
-                          'is supposed to establish who they are and what '
-                          "their world is. The difference is it's not quite "
-                          "compelling. I personally don't mind changes from "
-                          'its source material; the protagonist, Eren, is '
-                          'basically now a slacker who is tired of living '
-                          'behind the colossal walls from the titans, instead '
-                          'of an aggressive kid with some sociopathic '
-                          "tendencies who vows for revenge. It's not "
-                          "necessarily horrible since they're still "
-                          "represented as unlikely heroes, but Eren's arc is "
-                          'basically just trying to win back his girl and '
-                          'living up to that image, it makes him look lousier. '
-                          'What makes this character originally interesting is '
-                          'the fact that he is a traumatized kid who is too '
-                          'full of himself, which eventually crosses the line '
-                          'of his humanity and morality. It may not be the '
-                          "friendliest role model you'll see from a hero, but "
-                          'it rather makes him more relatable.\n'
-                          '\n'
-                          'And that sounds more reasonable since this '
-                          "circumstance would really affect one's senses into "
-                          "insanity or paranoia. But in this movie, they're "
-                          'just verbally expressing their fears, sentiments '
-                          'and humor. The plot is ought to be followed through '
-                          'these characters, but most of them are single '
-                          'noted. They might as well exist in some YA where '
-                          "they're designed to be hormonally appealing. In the "
-                          "end, they're clearly just uninteresting. To its "
-                          'credit, the visuals are pretty cool. It may not be '
-                          "perfect or spectacular, but it's impressive enough "
-                          'to take these exciting moments into live action. '
-                          'There are some scenes that can be count as '
-                          'genuinely awesome, specifically the climax, even '
-                          'though it now seems to be quite senseless since '
-                          "they're taking this story to a different direction. "
-                          'Nevertheless, as long as these Titans and gore are '
-                          'on screen, there is some real pleasure to be '
-                          'taken.\n'
-                          '\n'
-                          'Attack on Titan, in spite of its scale and '
-                          'production, is surprisingly underwhelming. The '
-                          'filmmakers are clearly just following the '
-                          'conventional direction of adapting a popular '
-                          "material, more or less. Visually, it's appropriate "
-                          'to call it a fan service; because it indeed puts '
-                          'these big action where it belongs. But '
-                          'thematically, it is a letdown. Attack on Titan '
-                          "isn't only great for its creepy titans and cool "
-                          'gadgetry, in fact, these things are basically small '
-                          'compared to its surprising complexity within its '
-                          'characters. That is what I personally believe that '
-                          "makes this material great, and yet that's what the "
-                          "movie ended up altering. Therefore it's just a "
-                          'standard B-Movie. It can be mindless fun, but you '
-                          "won't find anything else to like in the end.",
+            'name': 'Do yourself a favor and watch it with an open mind .. is '
+                    'not that bad',
+            'reviewBody': "Well let's start by saying that we all knew coming "
+                          'in that the movie was going to be different from '
+                          'the manga and the anime. The movie was supervised '
+                          'by Hajime Isayama the author. The story is similar '
+                          'but is its own story. The CGI of course is not like '
+                          'the Hollywood movies CGI but then again the budget '
+                          'for Japanese movies compared to Hollywood movies '
+                          'are lower. I think they did a decent job with the '
+                          'CGI and the story is not that bad. You have to go '
+                          'into this movie with an open mind and try not to '
+                          'compared to the manga. I laugh when I see people '
+                          'complaining that all the actors are Japanese and '
+                          'that they should be white ..These are the same '
+                          'people that talked trash about Dragon Ball '
+                          'Evolution. The ones that said " why did Hollywood '
+                          'destroyed my childhood? " .. well now they want '
+                          'Hollywood to make AOT... The acting was decent and '
+                          "I really can't wait for the second part. Let's not "
+                          'forget that a lot of movies that are based on books '
+                          'and novels are always change... people are crying '
+                          "for Hollywood to do it better ..well let's see what "
+                          'they are going to say once Lionsgate makes the '
+                          'Naruto live action movie since they got the right '
+                          'to it from what I read...',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '5',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The story of a world where most of humanity has '

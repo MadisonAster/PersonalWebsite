@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Truman-Show',
  'EntryURL': 'https://www.imdb.com/title/tt0120382',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Truman-Show/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Truman-Show/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Truman-Show/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Truman-Show/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Jim Carrey', 'url': '/name/nm0000120/'},
@@ -17,7 +16,7 @@
             'url': '/name/nm0001187/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 895477,
+                     'ratingCount': 895488,
                      'ratingValue': '8.1',
                      'worstRating': '1.0'},
  'contentRating': 'PG',
@@ -40,39 +39,74 @@
              'show,controlled environment,deception',
  'name': 'The Truman Show',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'daveisit'},
-            'dateCreated': '2005-07-10',
+            'author': {'@type': 'Person', 'name': 'Mark1988'},
+            'dateCreated': '2007-04-09',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0120382/'},
-            'name': 'Lawn Mowing At Its Best',
-            'reviewBody': '"The Truman Show" owes a lot to the direction of '
-                          'Peter Weir. Weir refuses to pump out the movies in '
-                          'a search for extra dollars. Instead he chooses '
-                          'wisely and directs brilliantly. Just by looking at '
-                          'a list of his movies will surprise and even amaze '
-                          'you. So as you would imagine "The Truman Show" is '
-                          'another success.\n'
+            'name': 'One of the Most Original Films Ever Made',
+            'reviewBody': "'The Truman Show' epitomizes strong and original "
+                          'storytelling on screen. This film is emotionally '
+                          'engaging, didactic, witty, dramatic and very '
+                          'unique. For those unfamiliar with the concept, '
+                          'Truman Burbank has never left his ideal home town '
+                          "of Sea Haven. What he doesn't know is that his "
+                          'entire environment is a materialized set and he is '
+                          'the ignorant star of a reality TV show of epic '
+                          'proportions.\n'
                           '\n'
-                          'Truman Burbank has the perfect life, or so he '
-                          'thought until finally his life long suspicions '
-                          'about his world begin to unravel. Even though the '
-                          'idea for Truman is not totally original, it is '
-                          'thought provoking enough and allows the audience to '
-                          "wonder, what if? If you think this couldn't happen, "
-                          'just look back over the years at the stupidity of '
-                          'the human race and think again.\n'
+                          'Taking this entirely original concept, writer '
+                          'Andrew Niccol and director Peter Wier take the '
+                          'viewer into territory uncharted by anything in film '
+                          'history. Thus, the plot is entirely unpredictable '
+                          'but still flows along expertly. The tightness of '
+                          'the screenplay and the immaculate pacing of Peter '
+                          "Wier contribute largely to this film's brilliance.\n"
                           '\n'
-                          'Jim Carrey once again nails his role, as do the '
-                          'entire cast. It is rare he fails to perform at a '
-                          'level that perfectly complements the movie and its '
-                          'genre. This is something he does not receive enough '
-                          'credit for. Acting for a comical role or a more '
-                          'dramatic role requires no less effort for the '
-                          'performance to be spot on.',
+                          "The acting performances are amongst the best I've "
+                          'ever seen. Jim Carey is superb as Truman, '
+                          'effortlessly conveying his fears, desires and '
+                          'personality. Ed Harris is excellent as the '
+                          'reclusive creator of the production. In addition, '
+                          'the entire support cast appears synthetic enough to '
+                          'let the audience know they are "acting" for Truman '
+                          'but in some scenes let their "genuine" feelings '
+                          'shine through. The ensemble simply cannot be '
+                          'faulted. Carey was hardly done by not to get an '
+                          'Oscar nomination for his performance.\n'
+                          '\n'
+                          'The music and visuals are top notch. The '
+                          'cinematography has a reality TV feel that is clever '
+                          'but never intrusive. The shot selection is of the '
+                          "highest quality, particularly in the movie's final "
+                          'sequence. Muscially, this film is incredible. '
+                          'Phillip Glass is a dream on the piano, perfectly '
+                          'evoking the mood for each section of the narrative. '
+                          'The two combine excellently during the scene in '
+                          'which Truman breaks his routine for the first time. '
+                          'During the sequence, Truman makes subtle changes to '
+                          'the bland routine he follows compliantly every day. '
+                          'The emotion of the music when combined with the '
+                          "apparent simplicity of Truman's actions makes this "
+                          "scene one the most powerful I'v ever experienced.\n"
+                          '\n'
+                          'This film is an absolute gem. It effortlessly '
+                          'combines everything a classic film should have. It '
+                          'has comedy, drama, strong character development, '
+                          'atmosphere, originality, superb visuals, a superb '
+                          'score, tight writing, raises interesting moral '
+                          'questions as well as providing insight into the '
+                          'human condition. One cannot watch this spectacular '
+                          'film without wondering how a human would react when '
+                          'put in that kind of situation. It touches on our '
+                          'sense of adventure, desire for conformity and the '
+                          'courage we require to question the life we are '
+                          "presented with. 'The Truman Show' does all this in "
+                          'the most accessible and compelling fashion. One of '
+                          'the greatest films of our time.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Theatrical Trailer from Paramount',

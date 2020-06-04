@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Into-Eternity',
  'EntryURL': 'https://www.imdb.com/title/tt1194612',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Into-Eternity/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Into-Eternity/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Into-Eternity/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Into-Eternity/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -50,34 +49,33 @@
  'keywords': 'nuclear,storage,radiation,dump,underground',
  'name': 'Into Eternity: A Film for the Future',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'WillWong101'},
-            'dateCreated': '2012-04-03',
+            'author': {'@type': 'Person', 'name': 'AULhall'},
+            'dateCreated': '2011-08-13',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1194612/'},
-            'name': 'Beautiful, chilling, haunting, provocative',
-            'reviewBody': 'Even if you have no interest in where energy comes '
-                          'from or in nuclear technology, this documentary is '
-                          'so beautifully filmed and produced that there is '
-                          'enjoyment in just watching it.\n'
+            'name': 'A uniquely cool provocation of thought',
+            'reviewBody': "I don't believe I am exaggerating when I claim that "
+                          "this is one of the coolest works of film I've ever "
+                          "watched. It's a thought experiment packaged within "
+                          'a brilliantly paced, well directed, and aptly '
+                          'scored documentary. The subject matter is '
+                          'critically important to anyone with half an eye on '
+                          'the distant future, and writer/director Michael '
+                          'Madsen does not fail to put matters into '
+                          'perspective.\n'
                           '\n'
-                          'The core question posed by this documentary is: how '
-                          'do you warn countless future generations, for '
-                          '100,000 years to stay away from the radioactive '
-                          'waste? The documentary maker asks questions of the '
-                          'people involved. Their responses are often '
-                          'chilling.\n'
-                          '\n'
-                          'There is also some dark humor in it - the '
-                          'expressions on the faces of the nuclear power '
-                          'executives when asked what happens after hundreds '
-                          'or thousands of years have passed.\n'
-                          '\n'
-                          'An extremely important documentary for this moment '
-                          'in history. Everyone should watch this.',
+                          "This won't be for everyone, since it doesn't "
+                          'spoon-feed the viewer easy answers, nor does it '
+                          'cater at all to those with little imagination. But '
+                          'if you like thinking about topics that generally '
+                          'fall only under the scope of the science fiction '
+                          "genre, and you don't mind tackling questions that "
+                          'are both grand and open-ended, then this '
+                          'documentary will be time well spent.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A documentary on the safety of nuclear storage.',

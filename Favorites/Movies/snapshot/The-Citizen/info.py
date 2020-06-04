@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Citizen',
  'EntryURL': 'https://www.imdb.com/title/tt1942989',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Citizen/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Citizen/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Citizen/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Citizen/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -47,30 +46,34 @@
  'keywords': 'city',
  'name': 'The Citizen',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'vv-web'},
-            'dateCreated': '2013-11-14',
+            'author': {'@type': 'Person', 'name': 'slake09'},
+            'dateCreated': '2013-11-15',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1942989/'},
-            'name': 'great',
-            'reviewBody': 'this movies is the best Arab life story in USA i '
-                          "ever see. it's really important to understand that "
-                          'not all Arab immigrant or Muslim are terrorist , we '
-                          'all humans live in same planet , respect each other '
-                          "and religion . I don't care what other's believes "
-                          "or what's their religion as long as they are good "
-                          "to me i'll be good to them and even better . I hope "
-                          'that someday people start respect each other for '
-                          "their moral not for their skin or religion .I'ts "
-                          'great movie for you Khaled el Nabawi you did great '
-                          '. this movies is the best Arab life story in USA i '
-                          'ever see this movies is the best Arab life story in '
-                          'USA i ever see this movies is the best Arab life '
-                          'story in USA i ever see this movies is the best '
-                          'Arab life story in USA i ever see',
+            'name': 'Good, but too much of a cliché',
+            'reviewBody': 'An immigrant from Lebanon arrives here on September '
+                          '10th, 2001. You can imagine what happens to him; '
+                          'pretty much everything you can think of.\n'
+                          '\n'
+                          'I wanted to like this movie, but it was too much of '
+                          'a cliché for me. Nothing unexpected happened; the '
+                          'bad guys were all bad, the good guys were all good, '
+                          "the Lebanese immigrant didn't make a wrong step. If "
+                          'only life were like that.\n'
+                          '\n'
+                          'Despite everything bad happening to him, he rises '
+                          'above it all and is determined to live the American '
+                          'dream. Nothing gets him down.\n'
+                          '\n'
+                          'Nevertheless, I did watch the whole thing which was '
+                          'rare for something I had never heard of before, and '
+                          'I enjoyed it. It was a feel-good movie, which I '
+                          'also enjoyed. Sometimes I, or anyone, needs some of '
+                          'that.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A drama centered on Ibrahim, an Arab immigrant '

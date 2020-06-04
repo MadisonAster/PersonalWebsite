@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Black-Jesus',
  'EntryURL': 'https://www.imdb.com/title/tt3589872',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Black-Jesus/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Black-Jesus/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Black-Jesus/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Black-Jesus/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -45,30 +44,41 @@
  'keywords': 'satire,religion,jesus in title,color in title,two word title',
  'name': 'Black Jesus',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Twcreconv2'},
-            'dateCreated': '2014-08-14',
+            'author': {'@type': 'Person', 'name': 'braceyclint01'},
+            'dateCreated': '2014-08-13',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3589872/'},
-            'name': 'Not for the uptight.',
-            'reviewBody': 'This show is hilarious. Regardless of the uptight '
-                          "people who've been criticizing the bold and the "
-                          'funny since GTA was a top down game, this show is a '
-                          "hit. I honestly can't figure out what they're more "
-                          'offended by considering many shows have made fun of '
-                          'Jesus and in this case I believe the race-card may '
-                          'be justified. This show is hilarious and has a '
-                          'great cast. What if Jesus smoked hemp and was '
-                          "Black? We don't know and in this day and age it's "
-                          'not uncommon for satire to be made from this. '
-                          'Regardless of what he does, Black Jesus still '
-                          'teaches love. Adult swim rarely gets live-action '
-                          'shows that I like, this one I enjoy thoroughly. If '
-                          'you cant handle the fact the television "goes '
-                          'there" nowadays turn the set off.',
+            'name': 'Nothing to get upset about',
+            'reviewBody': 'Black Jesus is nothing to be upset about, and yet '
+                          'Hardcore Religious Freaks will.\n'
+                          '\n'
+                          'The show is funny, and I got a good few laughs out '
+                          "of it. It's humor isn't for everyone, but you can "
+                          'tell unlike some Live Action Adult Swim Shows, this '
+                          'one has effort in the writing, the casting, and '
+                          "uses the Location to it's fullest. It was a good "
+                          'Pilot that made me want to see more.\n'
+                          '\n'
+                          "It's a good way to show that it's OK to laugh at "
+                          'certain things, especially Religion. Black Jesus is '
+                          'Harmless, and I will continue to watch it. I think '
+                          "if Jesus Christ were here, he'd learn to take a "
+                          'good rib at himself, so other people should too. '
+                          'People will still complain and say negative things, '
+                          'but I will just take it as what it is, something '
+                          'that can be enjoyed, laughed at, and not taken in a '
+                          "harmful way. It's not a show meant to attack "
+                          "religions, it's not a show meant for Children "
+                          "clearly, so in the end, it's just harmless fun to "
+                          'me.\n'
+                          '\n'
+                          "Smoke, Drink, Chill, and don't get so worked up "
+                          "over it. Black Jesus is a Comedy I can't wait to "
+                          'see more of.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A TV series finds Jesus living in present day '

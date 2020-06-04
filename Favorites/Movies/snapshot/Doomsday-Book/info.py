@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Doomsday-Book',
  'EntryURL': 'https://www.imdb.com/title/tt2297164',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Doomsday-Book/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Doomsday-Book/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Doomsday-Book/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Doomsday-Book/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Doona Bae', 'url': '/name/nm0046277/'},
@@ -43,46 +42,80 @@
  'keywords': 'robot,asteroid,artificial intelligence,end of the world,ceo',
  'name': 'In-lyu-myeol-mang-bo-go-seo',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'zetes'},
-            'dateCreated': '2013-10-06',
+            'author': {'@type': 'Person', 'name': 'paul_haakonsen'},
+            'dateCreated': '2013-08-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2297164/'},
-            'name': 'All three segments are pretty weak',
-            'reviewBody': 'An anthology of apocalyptic sci-fi. Kind of. The '
-                          'film as a whole is infuriatingly confusing in its '
-                          'conception and execution. The first segment, '
-                          'directed by Pil-Sung Yim (of the Korean Hansel & '
-                          'Gretel movie), is the part that can be definitively '
-                          'labeled horror. Tainted beef turns people into '
-                          'zombies. The film has some decent comic moments, '
-                          "but it never really goes anywhere. Plus, I'm "
-                          'absolutely sick of zombies. The third segment, also '
-                          'directed by Yim, concerns a gigantic pool ball from '
-                          'space on a collision course with Earth. Turns out a '
-                          'young girl accidentally ordered an alien attack on '
-                          'the planet. This segment is so absolutely bizarre, '
-                          'I have no idea what they were going for. It is, at '
-                          'least, a bit amusing even if baffling. Bae Doon-Na '
-                          'appears at the very end of this segment, in the '
-                          'last ten minutes of the movie, and director Bong '
-                          'Joon-Ho also appears. The middle segment, directed '
-                          'by Kim Jee-Woon, cannot be considered horror at '
-                          'all. It concerns a robot which has achieved '
-                          'enlightenment and is considered by his fellow monks '
-                          'to be the reincarnation of Buddha. His makers are '
-                          'incensed at the idea, though, and wish to destroy '
-                          'him. This starts off as the most interesting '
-                          'segment, but as it goes on it gets lost in endless '
-                          'dialogue. Kim is a great action filmmaker and has '
-                          'no ability to make abstract concepts interesting. '
-                          "It's the most boring segment of the film, "
-                          'unfortunately. The one thing I can say for the film '
-                          'as a whole is that it always looks fantastic. Even '
-                          "when it's dull, which is often, it's always pretty.",
+            'name': 'Three very different tales...',
+            'reviewBody': 'I sat down to watch "Doomsday Book" without having '
+                          'a single clue what it was about, and decided to '
+                          'give it a go simply because it was a Korean movie. '
+                          'And now having seen this movie, I will have to say '
+                          'that this was a different experience in many ways.\n'
+                          '\n'
+                          'First of all, this is not a single movie, but a '
+                          'movie comprised of three different short stories, '
+                          'that are independent upon one another, and dealing '
+                          'with very different subjects.\n'
+                          '\n'
+                          'The first segment, titled "A Brave New World" (8 '
+                          'out of 10 rating) was without a doubt the best of '
+                          'the three segments (in my personal opinion). Both '
+                          'story-wise and also entertainment-wise. It is about '
+                          'a man who contracts a strange disease from eating '
+                          'tainted meat, and ends up turning into a zombie. It '
+                          'was a different approach to the zombie genre, but '
+                          'all together a very good one. I thoroughly enjoyed '
+                          'this segment, because it was nicely made, a fresh '
+                          'new take of the zombie genre, and also proved to be '
+                          'the better of the three segments. Great make-up and '
+                          'great effects, a well worthy Korean addition to the '
+                          'zombie vault.\n'
+                          '\n'
+                          'Segment two, titled "The Heavenly Creature" (5 out '
+                          'of 10 rating) is about robots having a major part '
+                          'in the life of humans, to the extend where they are '
+                          'so much integrated part of life and structure that '
+                          'they might start to become a threat to mankind. In '
+                          'a Buddhist monastery, an older robot model have '
+                          'found spiritual and religious enlightenment. Well, '
+                          'I will say that the director here had come up with '
+                          'an interesting concept. However, this particular '
+                          'segment turned out to be a little bit too heavy on '
+                          'the ethics and morals, compared to the other two '
+                          'segments. And as such, it turned out to be somewhat '
+                          'of a hard pill to swallow. Aside from that, then '
+                          'the segment was well constructed and nicely filmed, '
+                          'and the robots were quite amazing.\n'
+                          '\n'
+                          'The third and final segment, titled "Happy '
+                          'Birthday" (4 out of 10 rating) was without a doubt '
+                          'the most odd and bizarre of the three segments. It '
+                          'is about a young girl who orders an 8-ball on the '
+                          'Internet for her father, but as luck would have it '
+                          'a 10 kilometer wide meteor is heading towards '
+                          'Earth, threatening to end life as we know it. It '
+                          'turns out that the meteor is the 8-ball ordered by '
+                          "the girl. Yeah, odd story, isn't it? The segment "
+                          'itself was nicely edited and nicely filmed, but the '
+                          'story was just too strange to fully wrap your head '
+                          'around and embrace it for what it was. It sort of '
+                          'felt a little bit out of place in the segments.\n'
+                          '\n'
+                          'I suppose there is a little bit of something for '
+                          'everybody in these three segments, and we would all '
+                          'individually have our different favorite and least '
+                          'favorite of the segments. However, they all do '
+                          'bring something unique and outstanding to the '
+                          'enjoyment of the movie.\n'
+                          '\n'
+                          'For an Asian movie, then "Doomsday Book" was a bit '
+                          'out of the ordinary. As a collective rating, then I '
+                          'would rate the entire movie a 6 out of 10 stars.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '5',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailers for Doomsday Book',

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Saboteurs',
  'EntryURL': 'https://www.imdb.com/title/tt3280150',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Saboteurs/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Saboteurs/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Saboteurs/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Saboteurs/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm1047726/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 6015,
+                     'ratingCount': 6016,
                      'ratingValue': '8.0',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -50,29 +49,24 @@
  'keywords': 'sabotage,physicist,nazi germany,resistance,world war two',
  'name': 'Kampen om tungtvannet',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'marciama'},
-            'dateCreated': '2017-07-26',
+            'author': {'@type': 'Person', 'name': 'chbua'},
+            'dateCreated': '2019-11-22',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3280150/'},
-            'name': 'It would be much better if condensed into a <3 hours film',
-            'reviewBody': 'I was thinking "what a good movie material" when I '
-                          'saw the documentary about this particular part of '
-                          'the WW2 history, and I was happy to find this '
-                          'series. The production is good, both casting and '
-                          'filming are unsatisfactory, especially given the '
-                          'facts that the true history itself and the natural '
-                          'environment for filming have much more to offer '
-                          'than the final product itself. The worst is that, '
-                          'it drags too long. Te history/story would make a '
-                          'great movie, or even a long-er movie, but '
-                          "definitely not a 6 hours series, it's slow and "
-                          'filled in with unnecessary scenes that are not even '
-                          'enticing nor enriching. All in all, a bit '
-                          'disappointed, feel as if a good movie material got '
-                          'spoiled.',
+            'name': 'Probably the best Norwegian TV series there has ever been',
+            'reviewBody': 'For us Scandinavians there is a lot of familiar '
+                          'faces in the cast. They really brought the big guns '
+                          'for this one. Casting is great, acting is superb '
+                          'and we all in all get the same from this series as '
+                          "we got from Max Manus, maybe even more. It's based "
+                          'upon what actually happened, with some artistic '
+                          'freedoms of course. But largely sticks to the '
+                          'story. If you can somewhat understand Norwegian or '
+                          'enjoy foreign cinema/tv series (not in english), '
+                          'you should definitely give this a try.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'url': '/title/tt3280150/'}

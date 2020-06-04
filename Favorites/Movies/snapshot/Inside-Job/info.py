@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Inside-Job',
  'EntryURL': 'https://www.imdb.com/title/tt1645089',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Inside-Job/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Inside-Job/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Inside-Job/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Inside-Job/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Matt Damon', 'url': '/name/nm0000354/'},
@@ -48,50 +47,51 @@
  'keywords': 'money,us dollars,iceland,interview,recession',
  'name': 'Inside Job',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'crappydoo'},
-            'dateCreated': '2010-07-10',
+            'author': {'@type': 'Person', 'name': 'bobbobwhite'},
+            'dateCreated': '2010-10-26',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1645089/'},
-            'name': 'A wake-up call of macroeconomic proportions',
-            'reviewBody': 'Inside Job belongs to a genre of new documentaries, '
-                          'like The Cove, Dear Zachary and Bowling For '
-                          'Columbine, that are not only made to document the '
-                          'background of a phenomenon but also to encourage '
-                          'people to do something about it. Dividing itself '
-                          "into five sections of a 'report', the film looks at "
-                          'the background and effect of the recession and its '
-                          'effect on politics, the world, society, the '
-                          'economy, public welfare, education, the present and '
-                          'the near and distant future.\n'
+            'name': 'Documentary makes its points without dramatizing them',
+            'reviewBody': 'Matt Daman narrates this Wall '
+                          'Street/Washington-bashing documentary on the '
+                          'economic meltdown and why it happened, with '
+                          'excellent fact-based analysis and easily understood '
+                          'graphics to illustrate same. The case was well made '
+                          'and indisputable by anyone of even modest '
+                          'intelligence, even Tea Party members. On second '
+                          'thought, maybe not them.\n'
                           '\n'
-                          'Inside Job is undeniably motivational and does well '
-                          'to extract the hypocrisies and selfishness of the '
-                          'main perpetrators and other persons linked with the '
-                          'crisis. Indside Job depicts the global financial '
-                          'from only one perspective and does not give due '
-                          'weighting to the alternate point of view. Of '
-                          'course, it does not help that the main protagonists '
-                          'involved in the entire affair are obviously missing '
-                          'from this documentary, a fact that is rubbed on to '
-                          'the audience time and again.\n'
+                          "Even though it didn't get the interview "
+                          'cooperation(duh)of many of the filthy rich top tier '
+                          'culprits who greatly helped cause the meltdown, it '
+                          'had enough interviews with second tier players '
+                          'making fools of themselves to effectively show how '
+                          'incredibly sold out some people can get when the '
+                          'chance for big dollars shows up, even high ranked '
+                          'educators and deans in some of our most prestigious '
+                          'colleges who willingly compromised their own '
+                          "schools' reputations for money. The film showed "
+                          'that they too are no better than mere puppets of '
+                          'filthy rich power mongers when shown the color of '
+                          'big money.\n'
                           '\n'
-                          'On the flip side, economics, being a head scratcher '
-                          'for several budding commerce students by nature, '
-                          'the spoken narrative of figures and key personnel '
-                          'could perhaps have been better explained with a '
-                          'clearer use of graphics. However since the film '
-                          'makers are not lecturers it would be too much to '
-                          'expect them to be aware of the concepts of '
-                          'pedagogy.\n'
-                          '\n'
-                          'Well crafted and edited, Inside Job is a good '
-                          'introduction to the cause and effect of the '
-                          'financial crisis, it falls just short of being the '
-                          'definitive version. It is a good watch nevertheless '
-                          'and provides sufficient food for thought and plenty '
-                          'of opportunity for future cocktail party '
-                          'discussion.',
+                          'The indirect but overriding point made most well in '
+                          'this film is that filthy rich business people and '
+                          'crooked politicians are turning America into a '
+                          'society where greedy money power rules over '
+                          'anything and everyone no matter that terrible '
+                          'society-busting crimes are committed to do it, and '
+                          'that greedy riches are fast becoming the end-all '
+                          'and be-all for a growing number of unspeakably '
+                          'dishonest people, and that these sleazebags are '
+                          'uncaring about any fairness, decency, honesty, '
+                          'compassion, duty and honor that built this country '
+                          'into what it once was but no longer is. And, that '
+                          'Washington is a willing partner in all of it and '
+                          'that American citizens no longer have any legal '
+                          'protection or relief from their predatory ways that '
+                          'are leading this country into the abyss.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '8',

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/When-They-See-Us',
  'EntryURL': 'https://www.imdb.com/title/tt7137906',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/When-They-See-Us/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/When-They-See-Us/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/When-They-See-Us/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/When-They-See-Us/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm2532658/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 74106,
+                     'ratingCount': 74120,
                      'ratingValue': '8.9',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -42,22 +41,34 @@
  'keywords': 'agitprop,new york city,central park,rape accusation,1980s',
  'name': 'When They See Us',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'punkndrublic7542'},
-            'dateCreated': '2019-06-02',
+            'author': {'@type': 'Person', 'name': 'rebeccarage-11322'},
+            'dateCreated': '2019-06-01',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt7137906/'},
-            'name': 'Moved me to tears',
-            'reviewBody': 'The acting in this series especially by the '
-                          'kids/young adults really pulled me in. I havent '
-                          'gotten this emotional watching anything in a long '
-                          'time. The last episode had me in tears multiple and '
-                          'I hope viewers withhold judgment till they see the '
-                          'whole thing. This is still so relevant 30 years '
-                          'later.',
+            'name': 'A hard watch but a must watch.',
+            'reviewBody': 'This was an uncomfortable but necessary watch. I '
+                          'was very familiar with the case, even more so that '
+                          'I actually thought but to see it acted out and shot '
+                          'so tremendously was gut wrenching. Sadly injustice '
+                          'has been and will be part of life until the end of '
+                          "time, undoubtedly there's people fighting through "
+                          "it right now. I've seen quite a few negative "
+                          'reviews that this is just a puppet show to stomp on '
+                          "Trump and if that's your belief fine, but in my "
+                          'view facts speak for themselves and I knew about '
+                          'Trumps involvement in this case before this series, '
+                          "but there's no doubt the writer/director really "
+                          'wanted that message out there. Putting all '
+                          "politics, corruption and media aside, it's a truly "
+                          'harrowing, gut wrenching story about how five '
+                          'normal BOYS, lost their freedom, youth and '
+                          'innocence and how all of them including the victim '
+                          'never saw justice served correctly. A hard watch '
+                          'but a must watch.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Based on a true story that gripped the country, '

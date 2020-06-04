@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Degenerate-Art-The-Art-and-Culture-of-Glass-Pipes',
  'EntryURL': 'https://www.imdb.com/title/tt2123927',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Degenerate-Art-The-Art-and-Culture-of-Glass-Pipes/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Degenerate-Art-The-Art-and-Culture-of-Glass-Pipes/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Degenerate-Art-The-Art-and-Culture-of-Glass-Pipes/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Degenerate-Art-The-Art-and-Culture-of-Glass-Pipes/thumb.jpg',
  'aggregateRating': {'@type': 'AggregateRating',

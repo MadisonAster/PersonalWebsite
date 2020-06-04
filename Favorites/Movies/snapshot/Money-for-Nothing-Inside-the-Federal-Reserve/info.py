@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Money-for-Nothing-Inside-the-Federal-Reserve',
  'EntryURL': 'https://www.imdb.com/title/tt2752724',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Money-for-Nothing-Inside-the-Federal-Reserve/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Money-for-Nothing-Inside-the-Federal-Reserve/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Money-for-Nothing-Inside-the-Federal-Reserve/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Money-for-Nothing-Inside-the-Federal-Reserve/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -40,108 +39,66 @@
  'keywords': 'economic history,economic power,loan,investment,currency',
  'name': 'Money for Nothing: Inside the Federal Reserve',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jasonray-82834'},
-            'dateCreated': '2015-07-16',
+            'author': {'@type': 'Person', 'name': 'amarbdmi'},
+            'dateCreated': '2014-02-16',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2752724/'},
-            'name': 'Essentially the FED made a documentary about the FED',
-            'reviewBody': 'This was very disappointing. Every talking head and '
-                          'expert in this "documentary" have a vested interest '
-                          'in the continuation of the FED. This does not '
-                          'equate to a well rounded documentary, this is what '
-                          "we call propaganda kids. It's like Monsanto making "
-                          'a "cutting edge no holds bar" documentary '
-                          'about...well...Monsanto. \n'
+            'name': 'tangential Summary',
+            'reviewBody': 'the best Documentary on the topic are the money '
+                          'master and Money As Debt,i assume the producer At '
+                          "least have seen them but they haven't.\n"
                           '\n'
-                          "The blatant fraud of the Fed can be seen in it's "
-                          "name: It's no more federal than Federal Express and "
-                          'it has no reserves, it just prints all the money it '
-                          'wants without any accountability or backing. A '
-                          'federal Reserve note (dollar bill) has no more '
-                          'significance than if I printed a dollar from my '
-                          'computer. This worthless money is then loaned to '
-                          'our government at a 6% interest rate and we pay the '
-                          'bill.! There is no ballot measure that we voted on, '
-                          'there is no say what-so-ever from the people, the '
-                          'government can borrow all they want from the FED '
-                          'and have no accountability to the people. How in '
-                          'the hell does this make it good for the people?! '
-                          'They create money out of thin air and charge '
-                          "interest from it! That's fraud! \n"
+                          'for the part where money was created，Borrowing is '
+                          'the major way ，when someone Borrow from bank where '
+                          'does the money come from，does it came from your '
+                          "Account? i don't think so . if this was the case "
+                          "you will notice. does it come from bank's money? i "
+                          "don't think so ,they need it for the Bonus. in fact "
+                          "it's money from nowhere created by the bank, it's a "
+                          'Obligation that bank has to pay the Borrower in '
+                          'exchange for the the Promise that the Borrower will '
+                          "pay back more, yes it's that twisted, for instance "
+                          'the Borrower spend the money and the money usually '
+                          "end up in some Account in the bank, bank's "
+                          "Assets(everyone's saving plus the Borrower's "
+                          'Promise) and its liability (Obligation to pay '
+                          'Depositor and the Borrower) both increase ,and as '
+                          "long as the bank's Assets is greater than its "
+                          'liability ,the came can continue forever.\n'
                           '\n'
-                          'The president of the US does in fact choose who '
-                          'runs the Fed, but guess what the film "forgot" to '
-                          'mention? The Fed gives the president a list of '
-                          "people to choose from! Ha! Bet you didn't know "
-                          'that? \n'
+                          'as for the fed which is a Private bank with its own '
+                          'share holders just as the Central Bank of the '
+                          'United Kingdom, it is responsible for the Creation '
+                          'of U.S. dollar. the Borrower is US government. \n'
                           '\n'
-                          'The Federal Reserve is far more harmful than this '
-                          'documentary makes it out to be. \n'
+                          'as for Greenspan who has been Praised a lot by the '
+                          'movie (at least by the people they Interview) is '
+                          'not the Reason for the U.S. economy to be '
+                          'Prosperity in 1990. the true Reason is that sucker '
+                          'like china gone dollar-Fever , they pumping '
+                          'low-cost merchandise into US in exchange for green '
+                          'paper which keep the Cost of Living low while '
+                          'Destroy the manufacturing industry of US thus free '
+                          'the whole Country to work in Financial sector which '
+                          'Attract suckers all over the world to Invest in its '
+                          'Stock market. lots of Big shot Appear in the movie, '
+                          "but it didn't help, because they only help "
+                          'Themselves\n'
                           '\n'
-                          'The FED can single handedly crush our entire system '
-                          'if they wanted to, think about it. Why would this '
-                          "EVER be a good thing. It's no different then the "
-                          'medieval kings back in Europe. \n'
+                          'in the end they try to Summary that the wallstreet '
+                          'did what they did because fed made the money easy '
+                          'and the fed did what they did because they are '
+                          'simply unware of the Consequence of their Behavior, '
+                          'which is so not true, anyone with a basic Knowledge '
+                          'of Economy knows what would happen if the Leverage '
+                          'was too high\n'
                           '\n'
-                          '"If the American people ever allow private banks to '
-                          'control the issue of their currency, first by '
-                          'inflation, then by deflation, the banks and '
-                          'corporations that will grow up around them will '
-                          'deprive the people of all property until their '
-                          'children wake up homeless on the continent their '
-                          'Fathers conquered...I believe that banking '
-                          'institutions are more dangerous to our liberties '
-                          'than standing armies... The issuing power should be '
-                          'taken from the banks and restored to the people, to '
-                          'whom it properly belongs." -Thomas Jefferson-\n'
-                          '\n'
-                          'The Fed also prints money out of thin air then '
-                          'lends it to dozens of counties around the world '
-                          'through organizations such as the International '
-                          'Monetary Fund and the World Bank. This creates a '
-                          'massive inflation cycle and an outrageous bill for '
-                          'the American tax payers children to pay back when '
-                          'other countries default. Inflation is a tax, make '
-                          'no mistake about it. If your dollar is worth 20 '
-                          "cents less than it was it's no different than an "
-                          'increase of income tax by 20%. The only difference '
-                          'is, borrowing from the FED is not out in the open '
-                          "like an income tax, it's in the background and "
-                          'mostly all Americans never catch onto this. Since '
-                          'the creation of the Federal Reserve System, 90%!! '
-                          'of our dollar has been eaten away by inflation! \n'
-                          '\n'
-                          '"Permit me to issue and control the money of a '
-                          'nation, and I care not who makes its laws!"\n'
-                          '\n'
-                          'Oh and another thing, the 12 member banks of the '
-                          'FED creates no safeguards against centralization. '
-                          'They are simply franchises of the same owner. All '
-                          'rules and regulations are passed down from the top '
-                          '(the Federal Reserve bank of New York). They are '
-                          'only there as an illusion of a non centralized '
-                          'bank, think about it; can the Federal Reserve bank '
-                          'in San Francisco issue a different interest rate '
-                          "than the one in NY? Of course not, they're all "
-                          'attached and they all act in unison. \n'
-                          '\n'
-                          'Everyone should look into The Bank of North Dakota, '
-                          'the only state-owned bank in the nation. They have '
-                          'no debt and have been unbelievably successful. This '
-                          'is the direction we need to head, we should obey '
-                          'and respect the 10th amendment and decentralize '
-                          'almost everything, let states take back what rights '
-                          'they use to have. This is the point of the United '
-                          'STATES was it not? Independent states that can '
-                          'independently succeed on their own. Do we really '
-                          'want this country to turn into The United '
-                          'Federation of America, a country without '
-                          "independent states who's sole rule maker comes from "
-                          "Washington DC? I don't.",
+                          'a better choose of Documentary on Financial crisis '
+                          'would be inside job and meltdown by cbc',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '1',
+                             'ratingValue': '5',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for Money for Nothing: Inside the Federal '

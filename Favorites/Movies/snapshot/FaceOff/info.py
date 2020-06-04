@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/FaceOff',
  'EntryURL': 'https://www.imdb.com/title/tt0119094',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/FaceOff/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/FaceOff/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/FaceOff/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/FaceOff/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0005273/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 340371,
+                     'ratingCount': 340373,
                      'ratingValue': '7.3',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -47,64 +46,32 @@
              'off,severed face',
  'name': 'Face/Off',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Libretio'},
-            'dateCreated': '2000-01-26',
+            'author': {'@type': 'Person', 'name': 'Special-K88'},
+            'dateCreated': '2002-02-14',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0119094/'},
-            'name': "Woo's US breakthrough: A triumph!",
-            'reviewBody': 'FACE/OFF \n'
-                          '\n'
-                          'Aspect ratio: 2.39:1 (Panavision)\n'
-                          '\n'
-                          'Sound formats: Dolby Digital / DTS\n'
-                          '\n'
-                          'This magnificent thriller represents director John '
-                          "Woo's triumphant return to the kind of "
-                          'hyperkinetic, emotionally charged film-making which '
-                          'made him such a hot property in the first place. '
-                          'Following the artistic bankruptcy of his first two '
-                          'Hollywood projects, this one is a marriage of '
-                          'high-octane movie-making and mind-twisting '
-                          "narrative complexities. It's also one of the few "
-                          'American action movies which manages to strike a '
-                          'balance between crowd-pleasing set-pieces and '
-                          'domestic interludes, and renders them equally '
-                          'important. John Travolta and Nicolas Cage are '
-                          'perfectly matched as hero/villain (and vice '
-                          'versa!), whilst heavyweight theatre actress Joan '
-                          'Allen provides the narrative with much of its '
-                          "dramatic backbone in the role of Travolta's wife "
-                          '(the scene in which she is first confronted with '
-                          "her husband in Cage's body is almost identical to a "
-                          "similar scene in Terence Fisher's FRANKENSTEIN MUST "
-                          'BE DESTROYED [1969]). \n'
-                          '\n'
-                          'Technically, the film is a blast, and Woo stages '
-                          'the action highlights with a visual grace and '
-                          'dexterity that is often breathtaking to behold. The '
-                          'climactic speedboat battle is probably the finest '
-                          "set-piece of Woo's career to date, and the script "
-                          'is overflowing with visual and thematic ironies '
-                          'that underscore the action highlights. In fact, the '
-                          'production has arguably more dramatic resonance '
-                          'than any other Hollywood blockbuster of the 1990s, '
-                          'but the dictates of American commercialism mean '
-                          'that Woo is only able to skate over the emotional '
-                          'surface of his characters and their moral dilemmas. '
-                          'The two main protagonists are much too cold and '
-                          "heartless to fully engage the audience's "
-                          "sympathies, and there's nothing here that matches "
-                          'the scorching human drama of, say, BULLET IN THE '
-                          'HEAD (1990). But for all that, FACE/OFF dares to go '
-                          'deeper than your average Hollywood action picture. '
-                          "It's clever, witty and thrilling, and it manages to "
-                          'accomplish the difficult task of feeding the brain '
-                          'whilst entertaining the eye.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
+            'name': 'a great action experience',
+            'reviewBody': 'From director John Woo comes this exhilarating '
+                          'action movie that takes a deadly cat-and-mouse game '
+                          'to the next level! A tortured federal agent, '
+                          'haunted by a painful tragedy and obsessed with '
+                          "catching the slick sociopathic terrorist who's "
+                          'eluded him for years and years, is forced to take '
+                          'the face of his mortal enemy in order to acquire '
+                          'vital information. The daring plan quickly goes '
+                          'awry when he loses his own identity in the process, '
+                          'and discovers his arch-enemy is cohabiting with his '
+                          "family. Film's enjoyment depends on the viewer: "
+                          "you'll either condemn the story as absurd and "
+                          "far-fetched, or you'll buy into it and go along for "
+                          'this supercharged, over-the-top action '
+                          'extravaganza. Travolta and Cage are both '
+                          'extraordinarily good, and with Woo at the helm you '
+                          "know that you'd better hang on for dear life! "
+                          'Occasionally silly, with a plot that tosses '
+                          'credibility out the window, but still a helluva lot '
+                          'of fun. ***'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer',
              'embedUrl': '/video/imdb/vi3188700185',

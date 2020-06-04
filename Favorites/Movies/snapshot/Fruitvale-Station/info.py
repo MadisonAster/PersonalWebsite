@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fruitvale-Station',
  'EntryURL': 'https://www.imdb.com/title/tt2334649',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fruitvale-Station/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fruitvale-Station/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fruitvale-Station/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fruitvale-Station/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0243806/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 72123,
+                     'ratingCount': 72125,
                      'ratingValue': '7.5',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -45,72 +44,42 @@
              'convict,officer',
  'name': 'Fruitvale Station',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'generationfilm'},
-            'dateCreated': '2013-06-18',
+            'author': {'@type': 'Person', 'name': 'Red-125'},
+            'dateCreated': '2013-09-16',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2334649/'},
-            'name': 'Fruitvale Station- A Solid Debut Feature Slightly '
-                    'Debilitated by an Idealized Narrative but Effective in '
-                    'Minimalist Technical Choices and Careful Pacing',
-            'reviewBody': 'Seldom do we remember in our desensitized 24-hour '
-                          'news society that behind every headline, every '
-                          'momentary tragedy, and every affected victim '
-                          "there's always a personable human story that "
-                          'reveals the true layers of heartbreak once exposed '
-                          'for all to grasp, understand, and mourn. One '
-                          'example in particular of modern headline tragedy '
-                          'was the senseless,unwarranted shooting of 22-year '
-                          'old Oscar Grant by police officers at the Fruitvale '
-                          'BART station that reinvigorated a debate on '
-                          'prejudice and a call for civil rights that '
-                          'unfortunately lead to some violent protests in the '
-                          'aftermath. This heated headline event is the '
-                          "subject of 26-year old filmmaker Ryan Coogler's "
-                          'debut feature entitled Fruitvale Station that is a '
-                          'relatively solid first film depicting the '
-                          'importance of family, the rarity of second chances, '
-                          'and the difficulty of responsibility leading up the '
-                          'inevitable heartbreaking event that is heavily '
-                          'dependent on performances rather than strong '
-                          "narrative substance. What's meant by the word solid "
-                          "is that this isn't an immaculate film without flaws "
-                          'and deserving of infinite praise because it '
-                          'contains a great deal of manipulative narrative '
-                          'tricks, an overly positive dramatization of its '
-                          'protagonist, and absolutely zero new insight on the '
-                          'societal issues involved or a genuine message to '
-                          'take away beyond its sad and rather plain '
-                          'recreation of actual events. Instead of delving '
-                          'deep into the obvious flaws of Oscar Grant, ranging '
-                          'from an ill temper, relationship cheating, and drug '
-                          'peddling, Coogler sets out to overly forgive these '
-                          'foibles making Grant a martyr instead of a palpable '
-                          'human being representing how no one deserves his '
-                          'tragic fate no matter their past, present, or '
-                          'potential future. However, Fruitvale Station does '
-                          'demonstrate that strong acting performances coupled '
-                          'with a careful execution of technical choices from '
-                          'a new energetic developing talent in Ryan Coogler '
-                          'can make an effective and emotional film. Most of '
-                          'the positives within the film are located in the '
-                          'light dramatic touch of the hand-held camera work, '
-                          'the intimate settings, and the strong acting, '
-                          'especially a star turning performance from Michael '
-                          'B. Jordan who carries the tragic weight of the film '
-                          "on his shoulders. Though Coogler's debut feature "
-                          "might possess an idealized portrayal of his film's "
-                          'subject Oscar Grant as well as some blanketed '
-                          'assumptions on justice there is a great deal of '
-                          'admirable qualities that makes it a dramatically '
-                          'riveting and socially tragic depiction of true '
-                          'events.\n'
+            'name': 'Do you call 911 when the killer is a cop?',
+            'reviewBody': 'SPOILER: Fruitvale Station (2013) was written and '
+                          'directed by Ryan Coogler. Michael B. Jordan plays '
+                          'Oscar Grant III, an African-American man who was '
+                          'shot to death in the Fruitvale BART station on '
+                          'January 1st, 2009. The man who killed him was a '
+                          'police officer. The killer was convicted of '
+                          'involuntary manslaughter and served about two years '
+                          'in jail.\n'
                           '\n'
-                          'Read more: http://wp.me/py8op-zQ; More reviews: '
-                          'Generationfilm.net',
+                          'The film follows Grant through his last day of '
+                          'life--December 31st, 2008. We watch as Grant '
+                          'interacts with his common-law wife, their young '
+                          'daughter, friends, relatives and strangers. Grant '
+                          'comes across as a basically decent man--flawed, '
+                          'undependable, but clearly in love with his family, '
+                          'his partner. and their little girl. \n'
+                          '\n'
+                          "It's hard to enjoy this film, because it's based on "
+                          'a truly tragic event, and we know how the story '
+                          'will end from the beginning of the movie. Still, '
+                          'Fruitvale Station is definitely worth seeing, '
+                          "because it reminds us that everyone's life is "
+                          'always at risk, but that the risks for young, '
+                          'African-American men are higher.\n'
+                          '\n'
+                          "The movie will work well on DVD. It's definitely "
+                          'worth seeking out and seeing.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The true story of Oscar, a 22-year-old Bay Area '

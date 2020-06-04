@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fat-Head',
  'EntryURL': 'https://www.imdb.com/title/tt1333994',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fat-Head/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fat-Head/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fat-Head/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fat-Head/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -46,64 +45,30 @@
  'keywords': 'fast food,obesity,food',
  'name': 'Fat Head',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'desdinovah'},
-            'dateCreated': '2009-05-07',
+            'author': {'@type': 'Person', 'name': 'RT Firefly'},
+            'dateCreated': '2016-09-09',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1333994/'},
-            'name': 'Very Well Made Film',
-            'reviewBody': 'I had a lot of questions and problems with the '
-                          '"science" of Super Size Me and evidently, Tom '
-                          'Naughton did, too. By refusing to accept the junk '
-                          'science about junk food, Naughton effectively and '
-                          'entertainingly digs up the skinny on fat and how '
-                          'folks get that way.\n'
+            'name': 'If you can suffer through the bad attempts at comedy, '
+                    'this film is otherwise excellent.',
+            'reviewBody': 'A fantastic documentary with some real eye opening '
+                          'material, but the bad comedy, ug. Tom, leave the '
+                          'comedy to the pros. It would have been a much more '
+                          'enjoyable viewing/learning experience had it just '
+                          'been straight forward the entire way through. A '
+                          'must watch for excellent information on nutrition '
+                          'and how easily government and other fields can go '
+                          'astray. \n'
                           '\n'
-                          'I had a lot of similar dieting experiences as the '
-                          'ones he relates to in the film, and my own research '
-                          'discovered a lot of what is revealed in Fat Head '
-                          '(the cooked data behind the Lipid Theory, the '
-                          'methodological flaws in the CDC Obesity report, '
-                          "etc.). But whereas I'm a lazy bastard who was "
-                          "content to learn that no, my body's NOT broken (but "
-                          'rather the Expert Ideas on how it should work are), '
-                          'Naughton went the extra mile and got health '
-                          'professionals and scientists to state on the record '
-                          'just why everything you think you know about fat '
-                          'and nutrition is wrong.\n'
-                          '\n'
-                          'He never strays into the waters of conspiracy '
-                          'theory but hints at what COULD be the reason so '
-                          'many health professionals pushed a flawed agenda '
-                          'for so long.\n'
-                          '\n'
-                          'As another user noted, the production values are '
-                          'not ILM-standard. So what? This film is all about '
-                          "the information and the manner in which it's "
-                          "presented is less important than what it's "
-                          "presenting. I suggest if you're really pressed for "
-                          'high quality funny animation, you throw on a Bakshi '
-                          'DVD and watch that. If you want animation that '
-                          'clearly and concisely conveys information, then the '
-                          'animation in Fat Head will do ya just fine.\n'
-                          '\n'
-                          "I'm sure a lot of folks will NOT be happy with the "
-                          'info in this film. My question is, are they angry '
-                          "because it's wrong and harmful (and the evidence "
-                          "suggests it's not) or because it dares question the "
-                          'tribal notions of Fat and Sugar BAD!? I suspect '
-                          'option number two and bruised egos will do more to '
-                          'stir up their wrath than any problems with the '
-                          'information in Fat Head.\n'
-                          '\n'
-                          "Well, that's their problem. Let 'em wallow in the "
-                          'horrors of Crap Veganism while the rest of us eat '
-                          "what nature programmed us to eat. I'm an omnivore "
-                          "and damned proud of it! Now if you'll excuse me, "
-                          "I'm up a for a nice brisk walk to KFC for a "
-                          'three-piece meal of Original Recipe...',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
+                          'This film came out in 2009 and the information in '
+                          'it did not hit the mainstream until around 2014 or '
+                          'so. In my observations there is no other field in '
+                          'the world as fraught with misinformation as '
+                          'nutrition. Most people just seem to make things up '
+                          'and/or adopt ideas that suit their image. Very '
+                          'little is understood about nutrition, but this '
+                          'movie takes a very scientific and un-opinionated '
+                          'approach. I appreciated that, a rare trait in a '
+                          'documentary now days.'},
  'url': '/title/tt1333994/'}

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Knuckleball',
  'EntryURL': 'https://www.imdb.com/title/tt2343601',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Knuckleball/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Knuckleball/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Knuckleball/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Knuckleball/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -41,45 +40,39 @@
  'keywords': 'baseball,professional sports,boston red sox,fenway park',
  'name': 'Knuckleball!',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'joncheskin'},
-            'dateCreated': '2016-10-01',
+            'author': {'@type': 'Person', 'name': 'michael-palmer-nyc'},
+            'dateCreated': '2012-04-26',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2343601/'},
-            'name': 'Weirdly Profound',
-            'reviewBody': 'Knuckleball! is a sports documentary that follows '
-                          'the lives of Tim Wakefield and RA Dickey, two '
-                          'knuckleball pitchers, during the 2011 baseball '
-                          'season. More than this, however, it is a story '
-                          'about the strange life of being a knuckleball '
-                          'pitcher, and goes into some depth, about the '
-                          'history and interesting personalities of '
-                          'knuckleballers over the years.\n'
+            'name': "Great sports doc about baseball's true underdogs",
+            'reviewBody': 'Knuckleball tells the story of baseball pitchers '
+                          'Tim Wakefield of the Red Sox and R.A. Dickey of the '
+                          'Mets as they go through the travails of the 2011 '
+                          'Major League Baseball season. In the process, '
+                          'viewers gain insight into the mechanics, the lore, '
+                          'and the history of the fluxiest of baseball '
+                          'pitches.\n'
                           '\n'
-                          'Knuckleball! is a movie that seems like it should '
-                          'be boring, but it is actually a wonderful human '
-                          'story of following a dream and finding improbable '
-                          'success. Knuckleballers, as the movie explains, are '
-                          'people borne of desperation--they see the end of '
-                          'their careers before them and conclude that, rather '
-                          'than quitting, they have to do something. They find '
-                          'their solution through a practice that at once '
-                          'gains them acceptance but also turns them into '
-                          'something of an outcast. We root for them because '
-                          'we appreciate people who can carve an '
-                          'unconventional path, and in watching them we feel '
-                          'like maybe we imperfect people have a chance also '
-                          'to make it in this world.\n'
+                          'Wakefield in particular comes across as a likable '
+                          'straight-shooter who developed this pitch to '
+                          'salvage his hopes of making it to and staying in '
+                          'the Bigs. Dickey follows in the footsteps of Wake, '
+                          'and seems poised to carry the torch for knucklers '
+                          'into the 21st century. With great interviews and '
+                          'insights from Charlie Hough, Phil Niekro, and Jim '
+                          'Bouton, we learn that knuckleball pitchers are a '
+                          'small, proud fraternity who pass their wisdom down '
+                          'the line to keep the art of the knuckleball alive '
+                          'in an age of flamethrowers and the need for speed.\n'
                           '\n'
-                          'As a result, this movie is weirdly profound. For '
-                          'all of you who find the alternate path, this movie '
-                          'is for you. Watch it and cheer on the everyman, as '
-                          'he floats it up to the plate at 60 miles per hour '
-                          "and watches the world's most intimidating sluggers "
-                          'go up in smoke.',
+                          'The art and chaos of the pitch itself lends itself '
+                          'well to the big screen, and for baseball fans and '
+                          'for anyone who loves to root for the underdog, '
+                          'Knuckleball definitely delivers.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "A documentary that showcases baseball's most "

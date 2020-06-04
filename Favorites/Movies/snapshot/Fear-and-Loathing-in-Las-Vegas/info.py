@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fear-and-Loathing-in-Las-Vegas',
  'EntryURL': 'https://www.imdb.com/title/tt0120669',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fear-and-Loathing-in-Las-Vegas/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fear-and-Loathing-in-Las-Vegas/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fear-and-Loathing-in-Las-Vegas/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fear-and-Loathing-in-Las-Vegas/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0324672/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 252064,
+                     'ratingCount': 252069,
                      'ratingValue': '7.6',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -57,51 +56,35 @@
  'keywords': 'drugs,hallucination,1970s,lawyer,journalist',
  'name': 'Fear and Loathing in Las Vegas',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'hansler'},
-            'dateCreated': '2003-01-10',
+            'author': {'@type': 'Person', 'name': 'daveisit'},
+            'dateCreated': '2005-07-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0120669/'},
-            'name': 'An excellent literary adaptation - and sooo much more...',
-            'reviewBody': 'This movie polarizes the audience like few before: '
-                          "while of course, there's people who like it and "
-                          "people who don't like it for any movie, 'Fear and "
-                          "Loathing in Las Vegas' either excites or almost "
-                          "repulses it's critics, and I dare to say that most "
-                          'of the negative responses are based on ignorance, '
-                          'or even fear, of introducing psychedelic '
-                          'experiences into mainstream culture.\n'
+            'name': 'Slippery Mice',
+            'reviewBody': 'This is far from your everyday movie, and only for '
+                          'those with a deep appreciation for the diversity of '
+                          'film-making, or fans of Hunter S. Thompson. This '
+                          'does not mean those mentioned will enjoy it, '
+                          'although definitely respect the attempt. I '
+                          'personally found it fascinating. To portray a '
+                          'permanently drug induced state to the big screen '
+                          'was done with creativity and subtle humour. You '
+                          'could expect nothing less from director Terry '
+                          'Gilliam who has played such a massive role in the '
+                          'brilliant and original Monty Python works. \n'
                           '\n'
-                          "Personally, i regard 'Fear and Loathing in Las "
-                          "Vegas' as one of my absolute favorites, definitely "
-                          'in my top 10, and possibly even top 3. One of the '
-                          'many outstanding characteristics, besides a '
-                          'flawless performance from its main actors, '
-                          'excellent direction, and maybe the greatest '
-                          'achievement, one of the few literary adaptations '
-                          "that don't have you leave the cinema with "
-                          'disappointment, is the visual interpretation of the '
-                          'influence of LSD and other psychedelica. Though it '
-                          "has been tried many times, in 'Fear and Loathing in "
-                          "Las Vegas' it has been done in a way that in my "
-                          "opinion deserves an Academy Award like 'Best Visual "
-                          "Interpretation', were there one like that (btw, "
-                          'number 2 in my psychedelic charts is, '
-                          "interestingly, a scene from 'The Simpsons', episode "
-                          "809, 'El Viaje de Nuestro Jomer (The Mysterious "
-                          "Voyage of Homer)', where Homer eats super-spicy "
-                          'chili made from Guatemalan chili peppers grown by '
-                          'mental patients- that causing him an incredibly '
-                          "accuratel realized 'trip').\n"
-                          '\n'
-                          'Well, I guess up until now you, the reader, can '
-                          'guess that I am one of those that loved the movie, '
-                          'and think it to be a mile stone in cinematographic '
-                          "history, along with 'Apocalypse Now', 'Pulp "
-                          "Fiction' or 'The Matrix'.",
+                          "Having never read any of Hunter S. Thompson's work, "
+                          'I get the impression that justice is done for the '
+                          'adaptation to the big screen. An absolutely quality '
+                          'cast must be credited for this, ensuring a natural '
+                          'performance is achieved. Las Vegas which features '
+                          'strongly throughout the movie seems to be so '
+                          'appropriate when dealing with this subject matter, '
+                          'they just seem to go hand in hand.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Three Reasons Criterion Collection Trailer for '

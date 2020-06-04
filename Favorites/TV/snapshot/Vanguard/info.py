@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vanguard',
  'EntryURL': 'https://www.imdb.com/title/tt2016109',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vanguard/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vanguard/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vanguard/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vanguard/thumb.jpg',
  'actor': [{'@type': 'Person',

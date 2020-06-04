@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Banshee',
  'EntryURL': 'https://www.imdb.com/title/tt2017109',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Banshee/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Banshee/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Banshee/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Banshee/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -43,24 +42,14 @@
  'keywords': 'man with no name,pennsylvania,thief,tough girl,double life',
  'name': 'Banshee',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'tashandpeter'},
-            'dateCreated': '2019-12-17',
+            'author': {'@type': 'Person', 'name': 'RobScott-13'},
+            'dateCreated': '2020-03-17',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2017109/'},
-            'name': 'Bring back banshee!!!',
-            'reviewBody': 'This has to be the best series ever made by a mile. '
-                          'I love the handmaids tale, pesky blinders etc... '
-                          'but they have nothing on this. Terrible, shocking '
-                          'series run for 12 seasons and you only give us 4 '
-                          'theres many ways you could tell a story and give us '
-                          'more. You stopped and told us theres an exciting '
-                          'new series to look forward to warrior? Have you '
-                          "seen you're reviews for that, granted its mixed but "
-                          "you're talking 8 thousand? Look at bansher we want "
-                          'more Netflix, hulu... bring this back please '
-                          'cinemax are clearly cutting their nose off to spite '
-                          'their face',
+            'name': 'Underrated!',
+            'reviewBody': 'Banshee is one of the most underrated tv shows of '
+                          "all-time! It's fantastic!",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

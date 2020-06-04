@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Black-Sails',
  'EntryURL': 'https://www.imdb.com/title/tt2375692',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Black-Sails/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Black-Sails/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Black-Sails/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Black-Sails/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm2090702/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 88504,
+                     'ratingCount': 88509,
                      'ratingValue': '8.2',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -42,40 +41,36 @@
  'keywords': 'pirate,bare breasts,pistol,musket,treasure',
  'name': 'Black Sails',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'RoswellAlien'},
-            'dateCreated': '2014-01-24',
+            'author': {'@type': 'Person', 'name': 'darkstar007'},
+            'dateCreated': '2015-03-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2375692/'},
-            'name': 'Starz Really Outdid Themselves Here!',
-            'reviewBody': 'Wow this show is amazing! The opening scene is '
-                          "absolutely brilliant one of the best opening's I "
-                          'have ever seen in a show before. The whole pilot is '
-                          'done extremely well plenty of Action which they '
-                          'really did well here. Character development is done '
-                          'really really good without going overboard which I '
-                          'was surprised. The setting and locations were '
-                          'absolutely amazing! It is exactly what I would have '
-                          'pictured back in the days of the Pirates. Story '
-                          'might be a bit confusing for some though you will '
-                          "understand it in the end. Honestly I really can't "
-                          "praise this show enough it's one of the best Pilots "
-                          "I have ever seen but then again I don't watch much "
-                          'TV. I really look forward to seeing this series to '
-                          'go on. I will be watching this every Saturday '
-                          "night. I recommend this to everyone that's looking "
-                          'for a good show. Absolutely brilliant 10/10\n'
+            'name': 'Like fine wine it gets better with age',
+            'reviewBody': 'To tell the truth there were many times in the '
+                          'first season that I almost stopped watching this '
+                          'show. But I stuck with it and boy was it ever '
+                          'rewarding. Season 1 was pretty slow to me sometimes '
+                          'boarder line uneventful. I know a few people that '
+                          'stopped watching after season one because of this. '
+                          'But Season 2 has been explosive. Probably one of '
+                          'the best seasons of a TV show out there and it was '
+                          'all due to the character development from the first '
+                          'season.\n'
                           '\n'
-                          '*Edit* 2/16/14- Just finished episode 4 and I am '
-                          'still enjoying this series a lot. I am really '
-                          'looking forward to the rest of the season.\n'
+                          'During season 2 I found myself consistently '
+                          'updating my rating of this show. I initially had it '
+                          'scored a 6 out of 10. Now have it a solid 9. I '
+                          "can't wait for the next season. \n"
                           '\n'
-                          "*Edit* 3/17/14- I rather enjoyed Black sail's "
-                          'season 1 a lot and I am looking forward to seeing '
-                          'the second season.',
+                          'If you are planing to watch this show. Stick with '
+                          'it through some of the long drawn out scenes in '
+                          'season 1 and you will be rewarded immensely.\n'
+                          '\n'
+                          'This is defiantly another winner for starz',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Season 4 trailer for "Black Sails" on Starz.',

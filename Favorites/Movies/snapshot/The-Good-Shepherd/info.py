@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Good-Shepherd',
  'EntryURL': 'https://www.imdb.com/title/tt0343737',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Good-Shepherd/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Good-Shepherd/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Good-Shepherd/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Good-Shepherd/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Matt Damon', 'url': '/name/nm0000354/'},
@@ -44,63 +43,58 @@
  'keywords': 'cia,year 1962,year 1960,year 1958,year 1947',
  'name': 'The Good Shepherd',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'kajmel'},
-            'dateCreated': '2006-12-14',
+            'author': {'@type': 'Person', 'name': 'deanmasters'},
+            'dateCreated': '2006-12-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0343737/'},
-            'name': 'Great Intense Movie',
-            'reviewBody': "If you're out to see a movie soon, this is one that "
-                          'should be on the top of your list. An all-star cast '
-                          "and an intriguing story isn't all that this movie "
-                          'has. It has some great performances from both Matt '
-                          'Damon and Angelina Jolie that are likely to get '
-                          'some award nominations.\n'
+            'name': "Finally a film that doesn't assume you're an idiot",
+            'reviewBody': 'After enduring trailer after trailer with endless '
+                          'stings of explosions, ridiculous CG-assisted stunts '
+                          'and mindless action, I felt very rewarded with an '
+                          'intelligent and intriguing film that defies the '
+                          'status quo of bigger and louder is better. \n'
                           '\n'
-                          "I won't give any spoilers, I'll just give my "
-                          'background and overall opinion. When I saw the '
-                          'commercials, I thought it seemed interesting, but '
-                          'not interesting enough to get me out of my seat '
-                          "right now to go see it. It just didn't seem to have "
-                          'anything totally different than other movies, other '
-                          'than the combination of actors. Since I just got to '
-                          "see it anyway, I realized that it's one of those "
-                          'movies that ends up being better than you think it '
-                          'would be.\n'
+                          "The Good Sheperd doesn't insult your intelligence, "
+                          'it stimulates it, sometimes confuses it, and forces '
+                          'you to look several layers beneath the surface. It '
+                          'feels like a throwback to another era of films when '
+                          'the complexity of a character was of greater '
+                          'importance than spectacle. \n'
                           '\n'
-                          'Matt Damon, as always, plays a good serious guy '
-                          "who's smart, savvy, and dedicated to his job. It "
-                          'kind of reminded me of his characters in The '
-                          "Departed and the Bourne Identity, except it's in a "
-                          'different situation and setting. His performance in '
-                          'this role was very fitting and believable.\n'
+                          "De Niro took a page from his producer's best work, "
+                          'Francis Ford Coppola, emulating films like The '
+                          'Godfather, The Conversation and Apacalypse Now. The '
+                          'drama rises not from the usual blatant conventional '
+                          'devices but rather by raising questions because of '
+                          "what we're not told and not shown. It requires a "
+                          'great deal of courage to use this style as films '
+                          'have gravitated more and more toward assuming the '
+                          'average moviegoer is of substandard intelligence. '
+                          'The scope of the film is enormous, yet the point of '
+                          'view is narrowly focused to be seen through the '
+                          'eyes of one man. There are a dozen of subplots, but '
+                          'all are carefully tied into the through-line of the '
+                          "story to match the main character's progression. \n"
                           '\n'
-                          'Angelina Jolie surprisingly worked well with this '
-                          'role. In the commercials I thought she was a little '
-                          "too wild compared to Matt Damon's calm character, "
-                          'but she really brought out the emotion of a wife '
-                          "who felt shut out and didn't have a complete "
-                          'relationship with and understanding of her '
-                          'husband.\n'
+                          'The film may require some understanding of American '
+                          'history from WWII through the Kennedy '
+                          'administration. It starts with the later years of '
+                          'the story, The Bay of Pigs debacle, and traces the '
+                          'steps that lead to it, one of the more embarrassing '
+                          'moments in the history of U.S. foreign policy. I '
+                          "found it a bit annoying that Matt Damon's "
+                          'character, Edward Wilson, barely seemed to age in '
+                          'the film while others around him did (the best way '
+                          "to determine his age is whether he's wearing "
+                          "wire-rimmed or horn-rimmed glasses), but it didn't "
+                          'ruin the film for me. \n'
                           '\n'
-                          'Robert DeNiro of course was great. It was a nicely '
-                          'added touch to an already good movie.\n'
-                          '\n'
-                          "While I wouldn't say it's as factual as the History "
-                          'Channel, I think the subject of the movie does put '
-                          'good insight on the history of the CIA. I think '
-                          'people who are into government/politics and history '
-                          'would like the storyline. It does focus quite a bit '
-                          'on his family relationship and how it is affected '
-                          "by his job in the CIA, and I'm sure any couple who "
-                          'has been in a similar situation would understand '
-                          'it.\n'
-                          '\n'
-                          'Overall, the movie was better than I thought and I '
-                          'would recommend it to movie-goers, especially those '
-                          'who like suspense and any of the main characters.',
+                          'Overall though, definitely one of the best films of '
+                          '2006. A rare film that makes you want to think and '
+                          'understand, rather than forget.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'url': '/title/tt0343737/'}

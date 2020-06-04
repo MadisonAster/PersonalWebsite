@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Laundromat',
  'EntryURL': 'https://www.imdb.com/title/tt5865326',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Laundromat/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Laundromat/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Laundromat/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Laundromat/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm11046604/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 38501,
+                     'ratingCount': 38504,
                      'ratingValue': '6.3',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -48,28 +47,32 @@
              'villain,evil banker',
  'name': 'The Laundromat',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'rogorman-1'},
-            'dateCreated': '2019-10-18',
+            'author': {'@type': 'Person', 'name': 'Dying-Atheist'},
+            'dateCreated': '2019-10-26',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5865326/'},
-            'name': 'Enjoyable exposé of offshore banking',
-            'reviewBody': 'This is an enjoyable, funny, exposing portrayal of '
-                          'the corrupt system of offshore accounts and how '
-                          'some apparently disconnected events share links '
-                          "back to the corruption at work. Maybe it shouldn't "
-                          'be funny because this is an infuriating reality '
-                          'that could be fixed if...well, if legislators were '
-                          'themselves not corrupt. Yes, the telling of the '
-                          'tale is not done in a totally conventional '
-                          'straight-forward linear way. But it is easy to '
-                          'follow and amusing, even as you feel you should be '
-                          'angry. And of course you realise that this film '
-                          "won't change a thing. But it is well made and "
-                          'acted.',
+            'name': "Guess who doesn't want you to see this movie?",
+            'reviewBody': 'A little bit of virtue signaling here, but if these '
+                          "folks don't speak the truth, who will?\n"
+                          '\n'
+                          "I found the film better than I'd imagined. It has a "
+                          'refreshing style for sure and maybe watched by a '
+                          'lot of folks who need the truth put forth to be in '
+                          'this entertaining format. The title of the movie '
+                          'was not an attractive lure, though for me, and I '
+                          'almost passed watching it.\n'
+                          '\n'
+                          'So who will not want you to watch this film? The '
+                          'twenty-first-century versions of those who have '
+                          'ruled all the human peasant and slave populations '
+                          'of the world since Homo Sapiens evolved. The same '
+                          'people who are employed by those at the top. They '
+                          'want to keep you under their feet. The "worker '
+                          'bees" that write the nasty reviews.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "'The Laundromat' follows a group of journalists "

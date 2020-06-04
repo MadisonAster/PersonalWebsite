@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Arrival',
  'EntryURL': 'https://www.imdb.com/title/tt2543164',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Arrival/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Arrival/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Arrival/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Arrival/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Amy Adams', 'url': '/name/nm0010736/'},
@@ -19,7 +18,7 @@
             'url': '/name/nm0836121/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 565871,
+                     'ratingCount': 565879,
                      'ratingValue': '7.9',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -48,36 +47,45 @@
              'short story',
  'name': 'Arrival',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'SilentEyes_'},
-            'dateCreated': '2017-02-13',
+            'author': {'@type': 'Person', 'name': 'CalRhys'},
+            'dateCreated': '2016-11-21',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2543164/'},
-            'name': 'No CGI overkill, just some fine acting and directing',
-            'reviewBody': 'Denis Villeneuve is without a doubt an upcoming '
-                          "director and I can't wait to see Blade Runner 2049. "
-                          "Prisoners, Sicario and now Arrival (haven't seen "
-                          'Enemy yet, or some of his earlier work). Denis '
-                          'knows how to capture the tension. It is almost the '
-                          'strongest point of all of his films. Minimal use of '
-                          'computer generated images, and main focus on story, '
-                          'characters, acting and thrilling scenes. Back on '
-                          'IMDb board, I have noticed a lot of people calling '
-                          'Arrival a boring movie. So many hypocrites these '
-                          'days. People trying to point out every possible '
-                          'flaw to look and sound smarter while at the same '
-                          'time hailing far worse movies. Calling it boring '
-                          'and slow while at the same time complaining no '
-                          'originality in Hollywood, only giant CGI laser '
-                          'explosions extravaganza. Go watch Independence Day. '
-                          'In Arrival there is no action, no explosions, just '
-                          'some amazing acting performances combined with good '
-                          'directing, editing and cinematography. There was '
-                          'not a single moment I felt bored.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
+            'name': "Denis Villeneuve's magnum opus!",
+            'reviewBody': 'Prior to approaching this film, a word of warning '
+                          'that it is what many like to call a "thinking '
+                          'person\'s sci-fi". If you\'re going to watch this, '
+                          'I beg that you dedicate your utmost attention to '
+                          'it, as it is truly one rewarding experience, one of '
+                          'the smartest, most well-constructed science fiction '
+                          "marvels of recent years. 'Arrival' is Villeneuve's "
+                          'magnum opus.\n'
+                          '\n'
+                          "Firstly, to put your mind at ease, I won't be "
+                          'analysing the plot, thus avoiding the use of '
+                          'spoilers. This decade, Villeneuve has crafted some '
+                          "fantastic works of art in the form of 'Prisoners', "
+                          "'Sicario' and now this science fiction gem, and "
+                          "here's hoping his career further develops with more "
+                          'movie masterpieces coming our way. In a world where '
+                          'mysteries remain and the possibility of '
+                          'extraterrestrial life still stands unanswered, '
+                          "'Arrival' approaches this with it's cliché-free "
+                          'take on the genre.\n'
+                          '\n'
+                          'The relatively unknown Bradford Young provides the '
+                          'film with some of the most stunning cinematography '
+                          'ever conceived, taking advantage of the twilight '
+                          'hour to give the film its somewhat unique look, '
+                          'supported magnificently by Icelandic composer '
+                          'Jóhann Jóhannsson whose score is both haunting and '
+                          "beautiful. If you're someone looking for a "
+                          'science-fiction tale that keeps you guessing and '
+                          'thinking throughout, with fantastic performances, '
+                          'cinematography, music and near-flawless direction, '
+                          "then 'Arrival' is the film for you. The masterpiece "
+                          'of 2016!'},
  'trailer': {'@type': 'VideoObject',
              'description': 'A linguist is recruited by the military to assist '
                             'in translating alien communications.',

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Caprica',
  'EntryURL': 'https://www.imdb.com/title/tt0799862',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Caprica/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Caprica/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Caprica/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Caprica/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -44,38 +43,27 @@
              'intelligence,tattoo',
  'name': 'Caprica',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'dangermous'},
-            'dateCreated': '2010-02-25',
+            'author': {'@type': 'Person', 'name': 'katkoot-kate'},
+            'dateCreated': '2009-09-29',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0799862/'},
-            'name': 'story telling at its best well almost anyway',
-            'reviewBody': 'This is real character and story driven drama at a '
-                          'level that shames most of what we see on TV at the '
-                          'mo.\n'
-                          '\n'
-                          "I was impressed right from the start. Don't be put "
-                          'off if your not a sci fi nut (like me...) This '
-                          'could be happening on earth, the fact that its in '
-                          'another galaxy just makes the show more '
-                          'interesting. there are no space ships or laser guns '
-                          "(None yet anyway) So far I've seen up to s01 e04 "
-                          "and I'm gripped and wondering whats going to happen "
-                          'next as there are so many possibilities.\n'
-                          '\n'
-                          'The cast play there roles with pasion. Eric stoltz '
-                          'is especially strong.\n'
-                          '\n'
-                          "This show really stands alone well, it doesn't "
-                          'matter if you watched BSG or not, in fact they are '
-                          "quite different. I've read some negative reviews "
-                          'from sci fi geeks who expected less drama and more '
-                          'aliens and ray guns etc but I would say ignore '
-                          'them.\n'
-                          '\n'
-                          'This is a really positive start to a show. Lets '
-                          "hope they don't cann it after 1 or 2 seasons like "
-                          'they normally do with good shows these days.',
+            'name': 'Fraking amazing',
+            'reviewBody': 'I loved it, having been a fan of the original '
+                          'series, I have always wondered what the back story '
+                          "would be - it didn't fail to delight me. I also "
+                          "love the fact that apart from Eric Stoltz I didn't "
+                          'recognise one person - this is refreshing, much '
+                          'like BSG. It has introduced me to a whole wealth of '
+                          "new talent - can't wait for the series to start "
+                          'airing. Well done to Ronald D. Moore and team - '
+                          'excellent job. The special effects, dialogue and '
+                          'acting were all spot on, and I felt emotionally '
+                          'tied up in the storyline. I know there are purists '
+                          'out there that will probably disagree with my '
+                          'assessment, but I felt that Caprica was far '
+                          'superior to most of the Sci-Fi stuff produced in '
+                          'the last decade.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '8',

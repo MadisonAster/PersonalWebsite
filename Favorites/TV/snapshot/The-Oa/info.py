@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Oa',
  'EntryURL': 'https://www.imdb.com/title/tt4635282',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Oa/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Oa/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Oa/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Oa/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0000481/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 84823,
+                     'ratingCount': 84826,
                      'ratingValue': '7.9',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -45,20 +44,20 @@
              'power,psychotronic series',
  'name': 'The OA',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'lovbunni'},
-            'dateCreated': '2019-08-17',
+            'author': {'@type': 'Person', 'name': 'nextgenerationsweden'},
+            'dateCreated': '2019-08-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4635282/'},
-            'name': 'Bring back the OA season 3 please!',
-            'reviewBody': 'One of the best moving shows I have ever watched. '
-                          'You have got to pay close attention to watching it. '
-                          "It's one of those shows that if you look away for a "
-                          "few minutes you'll lose track of what's going on. "
-                          "It's a wonderful show.",
+            'name': 'Cancelled by Netflix, WHY?',
+            'reviewBody': 'How come Netflix is choosing to cancel this show? '
+                          'Its make no sense at all. Great show, with great '
+                          'storytelling, a "magic feeling" you get when '
+                          'whatching it (as long as you take the show for what '
+                          'it is). Hope some other network pick it up.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'OA successfully jumps dimensions but finds '

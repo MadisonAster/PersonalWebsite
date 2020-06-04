@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Unreported-World',
  'EntryURL': 'https://www.imdb.com/title/tt0477545',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Unreported-World/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Unreported-World/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Unreported-World/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Unreported-World/thumb.jpg',
  'actor': [{'@type': 'Person',

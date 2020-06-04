@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Once-Upon-A-Time',
  'EntryURL': 'https://www.imdb.com/title/tt1843230',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Once-Upon-A-Time/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Once-Upon-A-Time/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Once-Upon-A-Time/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Once-Upon-A-Time/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -43,23 +42,39 @@
  'keywords': 'fairy tale,curse,magical realism,good versus evil,2010s',
  'name': 'Once Upon a Time',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'allisonnp'},
-            'dateCreated': '2018-08-25',
+            'author': {'@type': 'Person', 'name': 'unityhimym'},
+            'dateCreated': '2018-11-21',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1843230/'},
-            'name': 'The first few seasons were the best!',
-            'reviewBody': 'Seasons 1-3 were excellent! I could not stop '
-                          'watching. Then 4-6 came along, and I thought they '
-                          'were pretty decent but definitely worse than the '
-                          'first three. I think that the show could have just '
-                          'ended after season 6 but nope... They had to make a '
-                          'terrible 7th season\n'
-                          '\n'
-                          'Overall though, this show is great',
+            'name': "Don't watch all the seasons",
+            'reviewBody': 'A very interesting concept for a show, the first '
+                          'season was rather interesting and had an compelling '
+                          'storyline. The way the fairytale world is mixed '
+                          'with the real world is beautiful. The main '
+                          'characters in the first season, regina and emma, '
+                          'are interesting and the storyline is wrapped up '
+                          'nicely by the end of the season. In the second '
+                          'season, there is a lot of character development and '
+                          'more fairytales are connected with the characters, '
+                          'again done beautifully, fairytales are intertwined, '
+                          'resulting in an exciting storyline. In the third '
+                          'season, new characters are introduced and they '
+                          'travel to new locations. This season is overall '
+                          'less compelling than the first and second season, '
+                          'and slower-paced, but still enjoyable to watch. '
+                          'Although the first half of season 4 still shows '
+                          'some enjoyable content, this is the turning point '
+                          'for the series, after this it seems like show was '
+                          'just going on for the sake of going on. Season 5 '
+                          "isn't gripping at all and it feels like they just "
+                          'ran out of ideas. Season 6 is a weaker version of '
+                          'season 5 and season 7 is just plain boring. Watch '
+                          'no further than the first 3 seasons, and maybe give '
+                          'season 4 a shot.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Watch the Season 7 Comic-Con Trailer for "Once '

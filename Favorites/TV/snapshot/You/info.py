@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/You',
  'EntryURL': 'https://www.imdb.com/title/tt7335184',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/You/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/You/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/You/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/You/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm5634768/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 124170,
+                     'ratingCount': 124176,
                      'ratingValue': '7.8',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -45,24 +44,18 @@
  'keywords': 'bookstore,obsessive love,stalker,new york,obsession',
  'name': 'You',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'hemk-25799'},
-            'dateCreated': '2019-12-28',
+            'author': {'@type': 'Person', 'name': 'sam-braco'},
+            'dateCreated': '2018-09-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt7335184/'},
-            'name': 'You & You 2',
-            'reviewBody': 'First Season was intriguing and spend some time on '
-                          'development hence a bit slow. Second Season is '
-                          'amazing takes the show to a new level. Penn Badgley '
-                          'the lead actor is good in both seasons but in '
-                          'season 2 his character is completely overtaken by '
-                          'Victoria Pedretti. Her character is just amazing, '
-                          "she's is a great actress, and she did full justice "
-                          'to Love Quinn. If at all season 3 comes i would '
-                          'want to watch it for Victoria Pedretti. Go watch it',
+            'name': 'Freaking. Excellent.',
+            'reviewBody': 'Great acting. Inventive storytelling. Truly '
+                          "unsettling and underlyinglg creepy. I can't wait to "
+                          'see where this show goes.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "Meet Will Bettelheim. He's not your regular Joe. "

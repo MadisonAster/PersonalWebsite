@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Hitchhikers-Guide-to-the-Galaxy',
  'EntryURL': 'https://www.imdb.com/title/tt0371724',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Hitchhikers-Guide-to-the-Galaxy/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Hitchhikers-Guide-to-the-Galaxy/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Hitchhikers-Guide-to-the-Galaxy/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Hitchhikers-Guide-to-the-Galaxy/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0221046/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 183038,
+                     'ratingCount': 183039,
                      'ratingValue': '6.8',
                      'worstRating': '1.0'},
  'contentRating': 'PG',
@@ -50,51 +49,81 @@
  'keywords': 'hyperspace,robot,cow,norway,male alien',
  'name': "The Hitchhiker's Guide to the Galaxy",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'mjluk'},
-            'dateCreated': '2005-04-27',
+            'author': {'@type': 'Person', 'name': 'didi-5'},
+            'dateCreated': '2005-04-29',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0371724/'},
-            'name': 'What has all the fuss been about?',
-            'reviewBody': 'First, let me start by saying that this is a funny '
-                          'film.\n'
+            'name': 'Yes and No',
+            'reviewBody': "I've just come back from seeing this film and I "
+                          "have to say I'm in two minds about it. Having grown "
+                          'up with the TV series, the radio series, and the '
+                          'books (in that order), I have certain '
+                          "preconceptions and expectations about Hitchhiker's "
+                          "that this film didn't always deliver.\n"
                           '\n'
-                          'Like many others, I suspect, I was worried by the '
-                          'MJ Simpson negative review, but having seen the '
-                          "film I can't really understand what all the fuss "
-                          'was about.\n'
+                          'The bits that worked really well - the dolphin song '
+                          "and dance number at the beginning ('So Long And "
+                          'Thanks For All The Fish), and their return to the '
+                          'remodelled Earth at the end; the journey Arthur and '
+                          'Slartibartfast take through the factory floor at '
+                          'Magrathea and the Earth Mk II (the creation of the '
+                          'oceans, the Himalayas, etc.); the Vogon '
+                          'bureaucratic centre / job centre (where the '
+                          'original TV series Marvin waits in line!); the '
+                          'planet where the travellers are attacked by mean '
+                          'looking rubber spade things; and the bits with the '
+                          'Guide itself - new animations, updated from the '
+                          '(excellent) hand-done ones on TV.\n'
                           '\n'
-                          'Personally, I am very happy that this version '
-                          "contains the new material. I don't want to sit in "
-                          'the cinema watching a line by line copy of the '
-                          'radio play, book, or TV series. Each of those stand '
-                          'by their own merit, and each were good largely '
-                          'because of the new material they contained.\n'
+                          'Casting was hit and miss for me - Martin Freeman '
+                          'was OK but was not my idea of Arthur Dent (perhaps '
+                          'Dent will be forever Simon Jones for those who '
+                          'saw/heard him first - here he is a cameo as the '
+                          'Ghostly Image warning the Heart of Gold not to '
+                          'approach the mystery planet). Mos Def was just '
+                          'wrong as Ford Prefect - too American, too trendy.\n'
                           '\n'
-                          'I think the cast did an excellent job, and although '
-                          "Zaphod wasn't quite how I pictured him, Sam "
-                          'Rockwell brought a freshness to the part which '
-                          'largely works. His portrayal of Zaphod as a guy who '
-                          '"thinks he is cool", rather than "is cool" works '
-                          'pretty well, and once you get over the southern '
-                          'drawl, he soon settles as a character. Ford is '
-                          'beautifully played, as are all the major '
-                          'characters.\n'
+                          'Zooey Deschanel was the perfect Trillian - you can '
+                          'believe this girl is an astrophysicist (although '
+                          'the line which tells you that is cut). Sam Rockwell '
+                          'as Zaphod. No! He was really irritating me right '
+                          'from his first appearance although by the time Ford '
+                          'was squeezing lemons into his brain to make him '
+                          'think the character got funnier. The two heads are '
+                          'hopeless but perhaps an improvement on a '
+                          'shoulder-mounted rubber one.\n'
                           '\n'
-                          'Admittedly, some of the criticisms that were voiced '
-                          'by Simpson have some justification, but most were '
-                          'simply overstated to support his general vitriolic '
-                          'attack on the "purity" of the film.\n'
+                          'Others are very good in smaller parts - Bill Nighy '
+                          'as Slartibartfast, John Malkovich as new character '
+                          'Humma Kavula, Steve Pemberton as Mr Prosser, and of '
+                          'course the voice-only talent (Bill Bailey, Helen '
+                          'Mirren, Alan Rickman, and Stephen Fry as the '
+                          'Book).\n'
                           '\n'
-                          "In summary, go to see this film and don't worry.\n"
+                          'What I missed the most were favourite lines - the '
+                          "whole 'Beware of the Leopard' sequence from the "
+                          'beginning between Arthur Dent and Mr Prosser; the '
+                          "'Please enjoy your trip through this door' perky "
+                          'personality doors on the Heart of Gold; the '
+                          "'turning into a penguin' and 'monkeys writing "
+                          "Hamlet' sequence; and the 'trouble with my "
+                          "lifestyle' section on Magrathea.\n"
                           '\n'
-                          "I'm looking forward to the DVD and I have all my "
-                          'fingers crossed for a sequel.\n'
+                          'To make up for it the special effects are very good '
+                          'and there are lots of new creatures such as the '
+                          'jewel encrusted crab and the tiny running robot. '
+                          'The Vogons look good as well.\n'
                           '\n'
-                          'Martin',
+                          'The film itself has a happy ending which is at odds '
+                          'with the book and all other adaptations - it also '
+                          'ends at a different point to both radio and TV '
+                          'series, just as the characters are off to the '
+                          'Restaurant at the End of the Universe. Does this '
+                          'mean there will be sequels?',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "Trailer for The Hitchhiker's Guide to the Galaxy "

@@ -46,12 +46,6 @@ def GetEntries(OutputDir, UsePy=False):
         else:
             with open(EntryPath+'/entry.json', 'rb') as file:
                 Entry = json.loads(file.read())
-        Entry['EntryPath'] = EntryPath
-        Entry['Entry_py'] = EntryPath+'/info.py'
-        Entry['Entry_php'] = EntryPath+'/info.php'
-        Entry['Entry_json'] = EntryPath+'/entry.json'
-        Entry['Entry_thumb'] = EntryPath+'/thumb.jpg'
-        Entry['EntryURL'] = Entry['EntryURL'].replace('http://', 'https://').rstrip('/')
         Entries[Entry['EntryURL']] = Entry
     return Entries
 
@@ -125,20 +119,16 @@ def GetIMDB(url, OutputDir, UpdateAll=True):
                 Item['EntryURL'] = itemurl
                 Item['EntryPath'] = EntryPath
                 Item['Entry_py'] = EntryPath+'/info.py'
-                Item['Entry_php'] = EntryPath+'/info.php'
                 Item['Entry_json'] = EntryPath+'/entry.json'
                 Item['Entry_thumb'] = EntryPath+'/thumb.jpg'
                 Item['EntryAdded'] = datetime.datetime.strftime(datetime.datetime.now(), '%m-%d-%Y')
             else:
-                Item['EntryURL'] = Entry['EntryURL']
+                Item['EntryURL'] = Entry['EntryURL'].replace('http://', 'https://').rstrip('/')
                 Item['EntryPath'] = Entry['EntryPath']
                 Item['Entry_py'] = Entry['Entry_py']
-                Item['Entry_php'] = Entry['Entry_php']
                 Item['Entry_json'] = Entry['Entry_json']
                 Item['Entry_thumb'] = Entry['Entry_thumb']
                 Item['EntryAdded'] = Entry['EntryAdded']
-                if os.path.exists(Item['Entry_php']):
-                    os.remove(Item['Entry_php'])
             if not os.path.exists(EntryPath):
                 os.makedirs(EntryPath)
             Entry = Item #Overwrite possibly existing Entry reference here to update data
@@ -148,13 +138,6 @@ def GetIMDB(url, OutputDir, UpdateAll=True):
             with open(Entry['Entry_thumb'], 'wb') as file:
                 file.write(jpg.read())
     WriteEntries(Entries)
-    
-    #OutputPath = OutputDir+'/index'+str(i)+'.html'
-    #print('OutputPath', OutputPath)
-    #with open(OutputPath, 'w') as file:
-    #    #file.write(jsonscript.prettify())
-    #    file.write(pformat(jsonobj))
-            
 
 def GetGoodReads(url, OutputDir):
     ExistingEntries = os.listdir(OutputDir)

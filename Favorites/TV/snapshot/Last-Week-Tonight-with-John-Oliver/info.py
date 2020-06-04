@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Last-Week-Tonight-with-John-Oliver',
  'EntryURL': 'https://www.imdb.com/title/tt3530232',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Last-Week-Tonight-with-John-Oliver/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Last-Week-Tonight-with-John-Oliver/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Last-Week-Tonight-with-John-Oliver/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Last-Week-Tonight-with-John-Oliver/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0534115/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 74662,
+                     'ratingCount': 74667,
                      'ratingValue': '8.9',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -36,37 +35,34 @@
  'keywords': 'news satire,woke,2010s,anti trump media,trump hate',
  'name': 'Last Week Tonight with John Oliver',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'blowfly13'},
-            'dateCreated': '2014-06-04',
+            'author': {'@type': 'Person', 'name': 'a_imdb-314-8359'},
+            'dateCreated': '2014-07-20',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3530232/'},
-            'name': 'intelligent, fair, and hilarious',
-            'reviewBody': 'Loved John Oliver on Community and love him on this '
-                          "show. He's intelligent and sarcastic, and somehow "
-                          'manages to make topics that are completely horrific '
-                          "(e.g., the U.S. government's actions) not "
-                          'thoroughly depressing. I love how he will make fun '
-                          'of ANY political party; so many shows just spend '
-                          'their time panning Republicans, losing half the '
-                          'country as a result. Oliver must be a libertarian, '
-                          'because he very fairly simply makes fun of anyone '
-                          'who is doing something stupid, regardless of '
-                          'political affiliation. This is something that '
-                          'cannot be said of the unbearable John Stewart, or '
-                          'SNL, for example, but can be said of the awesome '
-                          'Lewis Black as well.\n'
-                          '\n'
-                          'I also like his way of poking fun at the U.S. - '
-                          "it's not condescending or rude, it's just good "
-                          'humored teasing. The segment in which he shows the '
-                          'globe with countries marked as Not the U.S. is '
-                          'priceless.\n'
-                          '\n'
-                          "Oliver's topics are well chosen, and his take on "
-                          'them is unique. I greatly hope HBO will continue '
-                          "this show as it's the best comedy late night hosted "
-                          'whatever genre you call this currently on TV.',
+            'name': 'A refreshing, cosmopolitan alternative to the Daily Show',
+            'reviewBody': "As someone utterly disillusioned by Jon Stewart's "
+                          'dogmatic chauvinism, I am so utterly relieved a '
+                          'talent as intelligent and insightful as John Oliver '
+                          'has been given the opportunity to have what is '
+                          'essentially a more educated, dialectical version of '
+                          'the Daily Show. Stoners reminiscing about Half '
+                          'Baked can keep TDS as their main source of news but '
+                          'at least now those of us willing to hear a '
+                          'different perspective on US issues and considerably '
+                          'more (and better) commentary on international '
+                          'affairs can at least have a weekly bit of '
+                          "entertainment. Only advice: Jon Oliver's audience "
+                          'is de facto more educated than TDS and we do not '
+                          'always need to laugh out loud to appreciate a '
+                          'segment, John Oliver does not need to mimic Jon '
+                          "Stewart's fear of silence and desperately reach out "
+                          'for trite laughs and non sequitur dick jokes '
+                          "whenever something isn't met with gut bursting "
+                          'laughter; America has youtube and getting high '
+                          'while watching Aqua Teen Hunger Force for that; '
+                          "sometimes being informative isn't (and does not "
+                          'need to be) outrageously funny.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

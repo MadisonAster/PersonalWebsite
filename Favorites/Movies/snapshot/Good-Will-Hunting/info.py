@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Good-Will-Hunting',
  'EntryURL': 'https://www.imdb.com/title/tt0119217',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Good-Will-Hunting/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Good-Will-Hunting/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Good-Will-Hunting/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Good-Will-Hunting/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0001745/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 825696,
+                     'ratingCount': 825703,
                      'ratingValue': '8.3',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -46,46 +45,46 @@
  'keywords': 'professor,genius,friend,mathematical genius,original story',
  'name': 'Good Will Hunting',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Eight Two'},
-            'dateCreated': '2000-06-18',
+            'author': {'@type': 'Person', 'name': 'harry-76'},
+            'dateCreated': '2000-06-25',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0119217/'},
-            'name': 'The Real Best Picture of 1997',
-            'reviewBody': 'While everyone took sides with L.A. Confidential '
-                          "(for it's Old Hollywood flair and tight-as-a-girdle "
-                          "plot arc) or Titanic (for it's generally "
-                          'inescapable, juggernaut-like aura) as the Best '
-                          'Picture of 1997, it seems that too many people '
-                          'overlook Good Will Hunting for what it was:  a '
-                          'timeless little opus that managed to make South '
-                          'Boston look romantic and happened to make Ben '
-                          'Affleck and Matt Damon some of the most deserving '
-                          'superstars in recent memory.\n'
+            'name': 'Two Pals Make Good in Hollywood',
+            'reviewBody': 'Matt Damon and Ben Affleck scored quite a success '
+                          'with their interesting and entertaining script.  '
+                          'The introduction and exposition sections are '
+                          'enormously engrossing, after which script peaks and '
+                          'rather coasts along the rest of the way.  Yet, the '
+                          'casting is so well done, and the acting at such '
+                          'good level, that interest is nicely maintained.\n'
                           '\n'
-                          'Because before they were anybody, they were just '
-                          'the writers of this tale of a reluctant human being '
-                          'named Will Hunting, a mathematical genius who wore '
-                          'the guise of a hoodlum, and all of the sudden '
-                          'obstacles he had to take on to truly step in to '
-                          'manhood.  Among these obstacles were a '
-                          'straight-forward shrink who outright dared Will to '
-                          'bulls*** him (played by Robin Williams, who got his '
-                          'overdue Oscar for it), a brilliant M.I.T. professor '
-                          'who felt it his own personal redemption to put '
-                          "Will's mind to great use somehow (Stellan "
-                          'Skarsgård, who never fails to steal nearly every '
-                          "scene he's in), and a girl who doesn't understand "
-                          'why the boy she loves so much cannot love her.\n'
+                          'What "Hunting" essentially consists of is some two '
+                          'dozen conversational scenes, bridged together with '
+                          'short transitions of physical activity.  What is '
+                          "rather remarkable is that one isn't aware of the "
+                          'dramatic limitations comprising the structure.  '
+                          'This is a real tribute to the cast, director, and '
+                          'of course, the script. While the basic situation is '
+                          'really quite far-fetched, it is made to seem '
+                          'plausible--again, the mark of good, convincing '
+                          'writing.  The story behind getting the script sold '
+                          "and produced on the terms of the writers' "
+                          "preferences is fascinating.  Still, one can't "
+                          'really call it luck, for both Damon and Affleck '
+                          '"paid their dues" -- and success did not just fall '
+                          'into their laps.  These are two talented young men, '
+                          'with perseverance; and how wonderful for them to '
+                          'have achieved such success while still youthful and '
+                          'full of vitality. \n'
                           '\n'
-                          'It was these obstacles that made Will Hunting such '
-                          'a complex character: while he was a genius at the '
-                          'definite (math), he was a bit of a moron at the '
-                          'indefinite (human relationships).  His rough-edged '
-                          'exterior was simply a cry for help, and the process '
-                          'of which the obstacles in his life realized that '
-                          'and attempted *to* help him was nothing short of '
-                          'extraordinarily touching.'},
+                          '"Good Will Hunting" is a good production, with '
+                          'solid craftsmanship in all departments -- thanks to '
+                          'the  creativity of Damon and Affleck.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '8',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer',
              'embedUrl': '/video/imdb/vi1575984665',

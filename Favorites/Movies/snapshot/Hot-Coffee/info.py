@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hot-Coffee',
  'EntryURL': 'https://www.imdb.com/title/tt1445203',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hot-Coffee/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hot-Coffee/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hot-Coffee/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hot-Coffee/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -38,38 +37,55 @@
  'keywords': 'coffee,legal,media,justice,tort reform',
  'name': 'Hot Coffee',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ayochristian'},
-            'dateCreated': '2011-06-28',
+            'author': {'@type': 'Person', 'name': 'babaji'},
+            'dateCreated': '2011-04-23',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1445203/'},
-            'name': "One of the best documentaries I've ever seen",
-            'reviewBody': "This film is much more than a Mcdonald's hot coffee "
-                          'spill.\n'
+            'name': 'Well done but needs more balance',
+            'reviewBody': 'I saw Hot Coffee at the San Francisco Film Festival '
+                          'last night (4/22/2011). Trial lawyer Saladoff has '
+                          'done well with this debut documentary feature and '
+                          'the case studies were presented well.\n'
                           '\n'
-                          'Just like in Inside Job, I was completely unaware '
-                          'of some of the horrendous things big companies get '
-                          'away with.\n'
+                          'That being said, I think it needs greater balance '
+                          'in order to work as a serious statement. The '
+                          'subjects of tort reform and mandatory arbitration '
+                          'are her targets in directing this film. 4 cases are '
+                          'presented supporting her thesis that they are '
+                          'damaging to democracy and not supportive to the '
+                          'masses who are looking for accountability when '
+                          'treated badly by corporations.\n'
                           '\n'
-                          'Also, flabbergasted once again with our '
-                          'government.\n'
+                          'I am not defending tort reform or mandatory '
+                          "arbitration because I don't know enough about the "
+                          'issues or the subject. After seeing this movie, I '
+                          'feel the same way, in fact I feel a thirst to hear '
+                          'from the other side as this film had me feeling '
+                          'manipulated by cherry picked cases and '
+                          "emotionalism. I don't doubt that there will "
+                          'sometimes be harm done to the individual by '
+                          'corporations but there are also "opportunistic" '
+                          'cases brought forth by individuals when the '
+                          'situation calls for it. There was no addressing '
+                          'this in the film and no explication of what happens '
+                          'to professionals such as doctors when they are, '
+                          'perhaps, unjustly accused by individuals.\n'
                           '\n'
-                          'Arbitration, Tort Reform, and U.S. Chamber of '
-                          "Commerce, I've heard these terms before but never "
-                          'knew what kind of serious harm they are capable '
-                          'of. \n'
+                          'Saladoff\'s claim is that the "other side\'s" story '
+                          "has been told for the past 25 years. I don't feel I "
+                          'know that story well enough and would have '
+                          'appreciated more background of why tort reform and '
+                          'mandatory arbitration exist in the first place and, '
+                          'perhaps, even a story or two where their existence '
+                          "may have worked in everybody's favor.\n"
                           '\n'
-                          'This film thoroughly paints a picture.\n'
-                          '\n'
-                          'The only ones who would give this film a bad '
-                          'rating/review are the ones who are pro arbitration '
-                          'and tort reform. The ones who would allow a young '
-                          'woman to get raped, force her to do nothing about '
-                          'it, and not allow her the opportunity for a proper '
-                          'trial due to mandatory arbitration which she was '
-                          'not properly informed of when she got hired.',
+                          'When all was said and done, the film painted a dire '
+                          'situation for and effectively raised strong emotion '
+                          'against, tort reform and mandatory arbitration. I '
+                          'felt a trifle manipulated in the process.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'url': '/title/tt1445203/'}

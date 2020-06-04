@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Manhattan',
  'EntryURL': 'https://www.imdb.com/title/tt3231564',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Manhattan/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Manhattan/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Manhattan/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Manhattan/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -41,29 +40,32 @@
              'mexico',
  'name': 'Manhattan',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'sdrinella'},
-            'dateCreated': '2015-11-18',
+            'author': {'@type': 'Person', 'name': 'matthewkrussell1111'},
+            'dateCreated': '2014-07-29',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3231564/'},
-            'name': 'Seems Like a Lot of Shark Jumping',
-            'reviewBody': 'I started out as a big fan of this show, partly for '
-                          'the science, whether or not it was accurate '
-                          'relative to history. And I was prepared to put up '
-                          'with the soap opera, "Dallas" qualities. But, I\'ve '
-                          'become increasingly dissatisfied with the prurient '
-                          'and, mostly, implausible story lines. The writers '
-                          'seem to have dedicated themselves to fabricating '
-                          'multiple subplots that they think will dazzle in '
-                          'complexity........flashbacks, dream '
-                          'sequences........not to speak of eavesdropping and '
-                          "other tired devices. (I'm waiting for amnesia.) To "
-                          "me it's turned into a mess, and I've begun to have "
-                          'this visual image 4 or 5 Fonzies lined up on water '
-                          "skis. Sadly, I've decided to tune out.",
+            'name': 'Oppenheimer is no stoner....',
+            'reviewBody': 'I just watched the first episode over on infinity '
+                          'on demand and loved it.\n'
+                          '\n'
+                          'This series looks like it is going to be really '
+                          'good. The "Oppenheimer is a stoner" reviewer must '
+                          'be high himself to write that besides Oppenheimer '
+                          '"Everybody else is engaged in a horrible soap opera '
+                          'of sex, nudity, marital strife, alcoholism etc.." '
+                          'as if that is a bad thing in a drama. Duh! It is a '
+                          'drama after all. If you want historical fact read a '
+                          'book burn-out.\n'
+                          '\n'
+                          'What the series premiere does is introduce us to a '
+                          'dynamic cast and quickly develops interesting '
+                          'characters and plot. It is shot well, acted well, '
+                          'and paced fantastically. Should be a hit for '
+                          'WGN...whatever network that is.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'First look at Season 2 of Manhattan on WGN '

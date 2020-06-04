@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Hateful-Eight',
  'EntryURL': 'https://www.imdb.com/title/tt3460252',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Hateful-Eight/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Hateful-Eight/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Hateful-Eight/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Hateful-Eight/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0324658/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 490315,
+                     'ratingCount': 490326,
                      'ratingValue': '7.8',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -45,33 +44,35 @@
  'keywords': 'murder,bounty hunter,blizzard,blood vomiting,projectile vomiting',
  'name': 'The Hateful Eight',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'AvramSMH'},
-            'dateCreated': '2016-03-05',
+            'author': {'@type': 'Person', 'name': 'vaivhav'},
+            'dateCreated': '2015-12-30',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3460252/'},
-            'name': '8/10',
-            'reviewBody': "Even tho i was expecting more action, I've found "
-                          'myself at the edge of my seat at times. The '
-                          'characters were nicely developed. The dialogue was '
-                          'as expected from a Tarantino movie. The story is 3 '
-                          'hours long, it takes place mostly in a one single '
-                          "room and it's still not boring. That's something "
-                          "not everyone can do. All of the actors we're "
-                          'perfect for their roles and the acting was great as '
-                          'well as the character design, all of the characters '
-                          'were memorable and well written. The movie is '
-                          'divided into chapters in most of which a small '
-                          'twist takes place that makes you more interested in '
-                          'the movie. I enjoyed the film but my biggest flaws '
-                          'were the length and the spontaneous introduction of '
-                          "a narrator mid- movie, that was a pretty 'out of "
-                          "nowhere' lazy way to develop the back story, but oh "
-                          'well, Tarantino is known for making risks and doing '
-                          'crazy sh*t',
+            'name': 'Go for it. Ignore the haters. Tarantino entertainment to '
+                    'the core!',
+            'reviewBody': 'This is a short review I am forced to write after '
+                          'noticing the critics and the haters. Hateful Eight '
+                          'is another Tarantino masterpiece. It may be similar '
+                          "to his previous movies, but great directors don't "
+                          'come often and in a single life they can make only '
+                          'so many films. Now if Tarantino decides to make '
+                          "another 'Tanrantino' western with all the fine work "
+                          'thrown in as in his other films, I am no one no '
+                          'complain. This guy is a legend and I am privileged '
+                          'to see the handful of movies he will make in his '
+                          'lifetime. Even if he makes similar movies a dozen '
+                          'times, I would still watch it, cause this guy knows '
+                          'filmmaking at its finest. Hateful Eight is a '
+                          'blizzard of fine acting, fine dialogue, humor, '
+                          'darkness, snow and that incredible eye for '
+                          'perfection and storytelling. \n'
+                          '\n'
+                          'Go damn watch it and be prepared to be a told a '
+                          'western story Tarantino style.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'In post-Civil War Wyoming, bounty hunters try to '

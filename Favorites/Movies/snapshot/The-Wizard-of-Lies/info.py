@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Wizard-of-Lies',
  'EntryURL': 'https://www.imdb.com/title/tt1933667',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Wizard-of-Lies/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Wizard-of-Lies/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Wizard-of-Lies/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Wizard-of-Lies/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm2080557/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 20576,
+                     'ratingCount': 20577,
                      'ratingValue': '6.8',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -56,40 +55,44 @@
  'keywords': 'financial fraud,financier,ponzi scheme,fraudster,fraud',
  'name': 'The Wizard of Lies',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'levybob'},
-            'dateCreated': '2017-05-26',
+            'author': {'@type': 'Person', 'name': 'JuvenileHumor'},
+            'dateCreated': '2017-05-20',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1933667/'},
-            'name': 'I wanted more',
-            'reviewBody': 'I wanted more, more of how Bernie Madoff became the '
-                          'man we meet in this film. When we meet him he is '
-                          'already rotten. He is mere months away from his '
-                          'arrest.\n'
+            'name': "John Kennedy-Eby's movie pick of the day on HBO",
+            'reviewBody': '"In a world full of lies, the most dangerous ones '
+                          'are those we tell ourselves." - Diana Henriques\n'
                           '\n'
-                          "There is in Robert DeNiro's portrayal little or "
-                          'nothing to like or empathize with. Or care about. '
-                          'What we have is a true sociopath who is found out '
-                          'early in the film, which forces us to see nothing '
-                          'but the devastation left in his wake.\n'
+                          'On March 12, 2009, Bernard Madoff pleaded guilty to '
+                          '11 federal felonies and admitted to turning his '
+                          'wealth management business into a massive Ponzi '
+                          'scheme.\n'
                           '\n'
-                          'This is my way of saying there is no story arc. '
-                          'There are no surprises. What flashbacks there are '
-                          'show Madoff in his personal life but always at his '
-                          'worst.\n'
+                          'But to describe STUPID, would be the Security '
+                          'Exchange Commission. Madoff said he could have been '
+                          'caught in 2003, but the bumbling Inspector '
+                          "Clouseau's never asked the right questions.\n"
                           '\n'
-                          "Michelle Pheiffer as Madoff's wife has a small rand "
-                          "unconvincing role. And like her husband, I couldn't "
-                          'care less about her fate. As for the Madoff sons, '
-                          'to some degree this is more their story than anyone '
-                          "else's. And to the degree that I learned quite a "
-                          'bit about them, the film deserves credit.\n'
+                          '"I was astonished" says Madoff. "They never even '
+                          'looked at my stock records. If investigators had '
+                          'checked with The Depository Trust Company, it '
+                          "would've been easy for them to see. If you're "
+                          "looking at a Ponzi scheme, it's the first thing you "
+                          'do."\n'
                           '\n'
-                          'But that is not enough to warrant its viewing.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '6',
-                             'worstRating': '1'}},
+                          'Yes, Bernard Madoff is and will always be a '
+                          "dishonest thieving criminal (he's currently serving "
+                          'a life sentence at The FCC Butner in North '
+                          'Carolina). However, when the sh-- hit the fan in '
+                          '2008 (largely due to the BUSH Administration), the '
+                          'banks and Insurance Companies were actually '
+                          'rewarded with a 700 billion dollar bail out (which '
+                          'was eventually "paid" back at virtually ZERO '
+                          'percent interest)\n'
+                          '\n'
+                          'The moral of the story; When there is GREED, '
+                          "there's always more than just 1 BAD GUY."},
  'trailer': {'@type': 'VideoObject',
              'description': 'The story of Bernie Madoff and his Ponzi scheme.',
              'embedUrl': '/video/imdb/vi42121497',

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Cabin-in-the-Woods',
  'EntryURL': 'https://www.imdb.com/title/tt1259521',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Cabin-in-the-Woods/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Cabin-in-the-Woods/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Cabin-in-the-Woods/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Cabin-in-the-Woods/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0469823/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 361547,
+                     'ratingCount': 361553,
                      'ratingValue': '7.0',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -51,39 +50,51 @@
              'panties,lovecraftian,oral sex',
  'name': 'The Cabin in the Woods',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'aaronoshea58-403-119530'},
-            'dateCreated': '2012-08-19',
+            'author': {'@type': 'Person', 'name': 'LBSRmcr'},
+            'dateCreated': '2012-11-01',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1259521/'},
-            'name': 'Did you see the film I saw ?',
-            'reviewBody': "I don't know why people are saying that this film "
-                          'was an abomination and advising others not to see '
-                          'it, because it has all if the element required in a '
-                          'fantastic horror.\n'
+            'name': 'An anti-horror horror movie',
+            'reviewBody': 'This film is a horror movie that is poking fun at '
+                          "horror movies and movies in general. So if you're "
+                          'looking for a film that you can cradle a scared '
+                          'lady-friend to, this is not the one. \n'
                           '\n'
-                          'For me it re-ignited the flame in what was a dying '
-                          'genre, being poisoned by numerous of extremely bad '
-                          "films. Not only did it make it's way into my "
-                          'favorite horrors of all time, but it makes me have '
-                          'faith that people can once again create a true '
-                          'horror. Now there are only remakes of horrors, ( '
-                          'Friday the 13th, A Nightmare on Elm Street ....) or '
-                          'prequels, ( Prometheus ).\n'
+                          "To anyone who has watched Southpark's Britney "
+                          'Spears episode you will know the parallel that Matt '
+                          'Stone & Trey Parker drew between our modern culture '
+                          'glorifying and then using celebrities up as an '
+                          'ancient sacrifice to the gods to ensure a good '
+                          'harvest. This movie does the same- by creating a '
+                          'reality TV type scenario that the main characters '
+                          'walk into. But it takes it a step further, in '
+                          'showing how the horror movie clichés (joker, jock, '
+                          'slut, nerd and virgin) can be seen as a more '
+                          'elaborate version of this kind of sacrifice ; and '
+                          'horror is the genre that supplies an endless stream '
+                          'of blood to satisfy this ancient need. \n'
                           '\n'
-                          "This movie is full of twists and turns you don't "
-                          "know what way it's going to go. It's smart, funny, "
-                          'gory and sexy with fantastic acting by all the '
-                          'cast. I was on the edge of my seat hungry for '
-                          'more.\n'
+                          'But the characters are so much more than clichés- '
+                          'in the movie they actually are noticing how they '
+                          'are falling/being cast into these roles and being '
+                          'less and less human, less and less themselves. That '
+                          'in itself has me tipping my hat to the writers. '
+                          'Joss Whedon you clever beast!\n'
                           '\n'
-                          'Overall, I rated this movie a 10 because it '
-                          "deserved it. This was one of the best films I've "
-                          "seen in a very long time and is one that I'll be "
-                          'watching over and over again.',
+                          "As to it not being pure horror- that's the point of "
+                          'the movie. I was enjoying the commentary that the '
+                          'narrative made while it developed and because i '
+                          "didn't know where it was heading and why things "
+                          'were happening, it kept me on edge and interested '
+                          'to the very end. \n'
+                          '\n'
+                          'At one point I was sitting there thinking - wow '
+                          'this movie must have been so much fun to make! It '
+                          'was definitely fun to watch.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Five friends go for a break at a remote cabin in '

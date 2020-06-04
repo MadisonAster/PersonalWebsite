@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Breaking-Bad',
  'EntryURL': 'https://www.imdb.com/title/tt0903747',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Breaking-Bad/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Breaking-Bad/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Breaking-Bad/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Breaking-Bad/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -17,7 +16,7 @@
             'url': '/name/nm1336827/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 1359295,
+                     'ratingCount': 1359318,
                      'ratingValue': '9.5',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -40,26 +39,14 @@
              'mexico,chemistry,methamphetamine',
  'name': 'Breaking Bad',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'agatt-87232'},
-            'dateCreated': '2019-05-20',
+            'author': {'@type': 'Person', 'name': 'bruhperson'},
+            'dateCreated': '2019-03-07',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0903747/'},
-            'name': 'Since GOT is over, this is Officially the Greatest show '
-                    'ever made',
-            'reviewBody': 'I was waiting to see how GOT ended. It should be '
-                          'the greatest but they failed miserably in the '
-                          'finale season especially the last 3 (mainly the '
-                          'finale) episode.\n'
-                          '\n'
-                          'Writers need to take notes and be more like '
-                          'breaking bad. They had they ending planned out from '
-                          "the begging. They didn't try and build a massive "
-                          'brand or following behind the show and extend their '
-                          'seasons to do so. They stuck with their plan and '
-                          'created the greatest show we may ever see.\n'
-                          '\n'
-                          'Thank you for existing.',
+            'name': "It's ok I guess",
+            'reviewBody': 'Re-Watched it 7 times and counting. I guess I liked '
+                          'it.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Rigor-Mortis',
  'EntryURL': 'https://www.imdb.com/title/tt2771800',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Rigor-Mortis/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Rigor-Mortis/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Rigor-Mortis/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Rigor-Mortis/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0150796/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 5330,
+                     'ratingCount': 5329,
                      'ratingValue': '6.3',
                      'worstRating': '1.0'},
  'contentRating': 'Not Rated',
@@ -42,68 +41,58 @@
  'keywords': 'possession,haunted,shaman,supernatural fight,psychotronic film',
  'name': 'Geung see',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'gregsrants'},
-            'dateCreated': '2013-09-14',
+            'author': {'@type': 'Person', 'name': 'ASouthernHorrorFan'},
+            'dateCreated': '2014-05-15',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2771800/'},
-            'name': 'Stylish but hollow and ultimately unsatisfying',
-            'reviewBody': 'Being picked for the Toronto International Film '
-                          "Festival's Midnight Madness Series with your first "
-                          'ever feature film is an achievement unto itself. '
-                          'But that is exactly what Hong Kong pop '
-                          'star-turned-director, Juno Mak finds himself with '
-                          'his first film, Rigor Mortis.\n'
+            'name': 'My Review Of "Rigor Mortis"',
+            'reviewBody': '"Rigor Mortis" is Hong Kong\'s call-back to new '
+                          'resurgence of horror/fantasy. Billed as a feature '
+                          'film inspired by a popular the popular Vampire '
+                          "films of the 80's. this movie gives us a dark, "
+                          'wondrous nightmare. Starring Anthony Chan, Siu-Ho '
+                          'Chin, Kara Hui, Hoi-Pang Lo, Richard Ng, and Hee '
+                          'Ching Paw. The plot revolves around an ex actor on '
+                          'a downward spiral, longing for death, who moves '
+                          'into an apartment tower where realm of supernatural '
+                          'and humanity are entwined. \n'
                           '\n'
-                          'Described as a tribute to the horror-comedy series '
-                          'Mr. Vampire, Rigor Mortis takes its audience to an '
-                          'apartment complex where aging actor Chin Sui-Ho '
-                          'finds himself moping after the loss of his wife and '
-                          'son. Ghosts and spirits are already known to loiter '
-                          'the halls of the building, but when a grieving '
-                          'resident attempts a ritual to bring her husband '
-                          'back from the dead the residents are forced to '
-                          'confront the evil of the supernatural including a '
-                          'vampire like creature that terrorizes the '
-                          'residents.\n'
+                          '"Rigor Mortis" offers a fantastical fantasy world '
+                          'of horror, drama and Hong Kong action. The story is '
+                          'multi-layered with lives tangled in a hellish fate. '
+                          'There are elements of melodrama and gore that move '
+                          'in a wonderful ballet of emotion and carnage. I '
+                          'feel that the story works as a modern retelling of '
+                          'some ancient Chinese fable, the concepts and '
+                          'character development seem so complex and powerful '
+                          'that it just screams of morality wisdom from the '
+                          'past. Either way it is a tale that embraces both '
+                          'the old supernatural beliefs and contemporary style '
+                          "that proves Hong Kong's dominance over this blended "
+                          'fantasy/horror genre. \n'
                           '\n'
-                          'Filled with some remarkable effects complimenting '
-                          'the very dark and dreary setting of the depraved '
-                          'building, Rigor Mortis is pea soup thick with '
-                          'atmosphere. Asian cinema has always been the front '
-                          'runners in bringing ghost stories to the masses '
-                          '(Dark Water, Ju-on, Ringu), and director Juno Mak '
-                          'has surrounded himself with a top effects team to '
-                          'bring his creatures to life.\n'
-                          '\n'
-                          'Unfortunately, the visuals are not enough to save '
-                          'the film from the mediocrity pool. The script is '
-                          'slow in getting to the goods and its complexity '
-                          "reminded us of Timur Bekmambetov's Night Watch – a "
-                          'glorious looking film that got lost among its '
-                          'effects. The indulgence is particularly evident in '
-                          "the film's finale which includes a wonderful fight "
-                          'between our protagonist, the vampire like creature '
-                          'and two ghostly twins.\n'
-                          '\n'
-                          'Fans of the Mr. Vampire series may end up '
-                          'scratching their heads wondering where the comedic '
-                          'punch from their series has gone as Rigor Mortis '
-                          'has hardly two laughs to share from credits to '
-                          "credits. It's as serious as a heart-attack even if "
-                          'the EKG indicates it only to be a mild one. '
-                          "Suicides, rape and even the placement of harm's way "
-                          'of a small boy are some of the serious overtones '
-                          'that engulf the moods of the film. Usually such '
-                          'melancholy is exactly what the horror doctor '
-                          'orders, but Rigor Mortis plays more like a '
-                          'psychedelic bad dream than a viable horror film '
-                          'worthy of our recommendation.\n'
-                          '\n'
-                          'www.killerreviews.com',
+                          'The special effects and soundtrack utilized in '
+                          '"Rigor Mortis" is top notch. The sounds are creepy, '
+                          'often creating a dark atmosphere of desperation '
+                          'scene after scene. The sets where depressing, '
+                          'lifeless tombs of fading lives that would send '
+                          "chills up Takashi Shimizu and Clive Barker's backs. "
+                          '"Rigor Mortis" uses some pretty spectacular CGI and '
+                          'practical effects for the fantasy and horror '
+                          'elements. Epic visual moments weave into the film '
+                          'in true whimsical opulence while the blood soaked '
+                          'gore combined with the chilling horror scenes '
+                          'create a nightmare fantasy that captivates and '
+                          'entertains. Just based on "Rigor Mortis" as an '
+                          "independent entity untethered from it's "
+                          'inspiration, homages and such I found this to be '
+                          'one of the best horror/fantasy films that I have '
+                          'ever seen. "Rigor Mortis" is Juno Mak\'s '
+                          'masterpiece and a must see film!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '5',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for Rigor Mortis',

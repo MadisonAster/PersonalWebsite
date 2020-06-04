@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Waking-Life',
  'EntryURL': 'https://www.imdb.com/title/tt0243017',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Waking-Life/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Waking-Life/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Waking-Life/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Waking-Life/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0927812/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 59361,
+                     'ratingCount': 59362,
                      'ratingValue': '7.8',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -49,52 +48,33 @@
              'dreaming',
  'name': 'Waking Life',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Spamlet'},
-            'dateCreated': '2003-03-19',
+            'author': {'@type': 'Person', 'name': 'StellaLuna11'},
+            'dateCreated': '2002-08-19',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0243017/'},
-            'name': 'A film for passionate thinkers.',
-            'reviewBody': 'This is one of the most thought provoking films '
-                          "I've ever seen. It's also visually stunning and "
-                          'perfectly acted: every single one of these people '
-                          'seem to be just giving their own opinions as if you '
-                          'were overhearing/having a meaningful conversation '
-                          'with them. \n'
-                          '\n'
-                          'We can chalk this up to the genius of Linklater who '
-                          'over the years has shown not only the pretentiously '
-                          'humorous coffee house crowd cliches but also the '
-                          'searching, often deeply insightful side of our '
-                          'generation that the media overlooked when we were '
-                          'dubbed slackers. In films he has written: "Slacker" '
-                          'and "Before Sunrise" and in his films of stage '
-                          'plays Bogosian\'s brilliant, Chekhovian "SubUrbia" '
-                          'and the faintly melodramatic "Tape", Linklater has '
-                          'always been fascinated with the question of what we '
-                          'should doing with our lives. Our responsibility is '
-                          'to contribute something lasting and meaningful to '
-                          'our society. But what exactly is that? Where and '
-                          'when should I do it? Who with? How do I know if '
-                          "I've really found it? Why is it so important again, "
-                          'anyway?\n'
-                          '\n'
-                          ' I saw this movie for the first time late last '
-                          'night and 5 minutes before it started I had fallen '
-                          "asleep and was hoping I'd be able to make it all "
-                          'the way through the film. From the first frame I '
-                          'was riveted and completely awake and remained so '
-                          'even after it was over; contemplating all the '
-                          'myriad viewpoints the film had thrown at me.\n'
-                          '\n'
-                          'This movie is so exciting and bursting with ideas '
-                          "that I'm going to buy the DVD as soon as I possibly "
-                          'can and watch it over and over trying to absorb it '
-                          'all.\n'
-                          '\n'
-                          'See this film. It will remind you of how thrilling '
-                          'it is to be an active thinking, feeling member of '
-                          'the human race.',
+            'name': 'Fantastic Work of Film Art',
+            'reviewBody': 'Waking Life has broken new ground surrounding the '
+                          'idea of animation. Filming people, then having '
+                          'artists with different styles "animate" the '
+                          'recorded scenes was brilliant. The visuals are '
+                          'constantly changing, providing an aurora of sights '
+                          'that you can not take your eyes off of. Trippy? '
+                          'Yes, Burnt Out? No- This movie can not only be '
+                          'appreciated for the wild images, but for the '
+                          'story-line as well... On second thought-story-line '
+                          'might not be the right word. The actual "plot" of '
+                          'this movie can be seen as an hour and a half of the '
+                          'most interesting philosophy course one can find. '
+                          'The characters and conversations are deep, '
+                          'fascinating, and thought-provoking. You must see '
+                          'this movie more than once because it is almost '
+                          'impossible to absorb what you see and be able to '
+                          "fully appreciate the genius of the script.  I've "
+                          'seen it about 5 times and there are still some '
+                          'scenes I have yet to fully grasp. Sit back and '
+                          'treat your eyes and mind to the most stimulating '
+                          'film of the year.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

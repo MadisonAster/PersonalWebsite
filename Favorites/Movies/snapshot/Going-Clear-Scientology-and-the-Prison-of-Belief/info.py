@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Going-Clear-Scientology-and-the-Prison-of-Belief',
  'EntryURL': 'https://www.imdb.com/title/tt4257858',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Going-Clear-Scientology-and-the-Prison-of-Belief/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Going-Clear-Scientology-and-the-Prison-of-Belief/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Going-Clear-Scientology-and-the-Prison-of-Belief/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Going-Clear-Scientology-and-the-Prison-of-Belief/thumb.jpg',
  'actor': [{'@type': 'Person',

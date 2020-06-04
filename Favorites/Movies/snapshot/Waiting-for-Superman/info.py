@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Waiting-for-Superman',
  'EntryURL': 'https://www.imdb.com/title/tt1566648',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Waiting-for-Superman/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Waiting-for-Superman/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Waiting-for-Superman/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Waiting-for-Superman/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -48,82 +47,49 @@
              'california,woodside california',
  'name': "Waiting for 'Superman'",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'richard-1787'},
-            'dateCreated': '2010-10-19',
+            'author': {'@type': 'Person', 'name': 'Ryan_MYeah'},
+            'dateCreated': '2011-02-06',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1566648/'},
-            'name': 'This movie should be mandatory viewing for all Americans',
-            'reviewBody': "Yes, a 10. This movie is spectacular. I can't "
-                          'remember the last time I got so caught up in a '
-                          'documentary.\n'
+            'name': 'Repetitious and not that shocking at points, but the '
+                    "build up of the film's five case studies is powerful.",
+            'reviewBody': "Waiting for 'Superman' is a documentary from Davis "
+                          "Guggenheim, the director of 2006's An Inconvenient "
+                          'Truth, that examines the faults and labyrinthine '
+                          "bureaucratics of America's educational government, "
+                          'a government more interested in protecting the jobs '
+                          'and pay salaries of lazy educators in public '
+                          'schools, rather than properly educating the average '
+                          'child.\n'
                           '\n'
-                          'This movie seeks to do two things, 1) to show how '
-                          'bad bad public education in this country is and to '
-                          'suggest some of the reasons (the two teachers '
-                          'unions, the administrative bureaucracy, etc.); 2) '
-                          'to suggest a solution.\n'
+                          "The film isn't all that shocking. I admire the "
+                          'format, and the presentation of the film, but '
+                          'problems with the education of American children '
+                          'have been a highly publicized matter, especially a '
+                          'few of the points of which Guggenheim presents. At '
+                          "times it even feels like he's stating the obvious, "
+                          'and even repetitious in regards to sub-par school '
+                          'houses he points fingers at.\n'
                           '\n'
-                          'It does 1) in a devastatingly powerful fashion. '
-                          'There are other reasons for the poor quality of '
-                          'some American education that he does not broach, '
-                          'like the stupid training given by mediocre and bad '
-                          'schools of education, low teacher certification '
-                          'standards in some states, the danger of leaving it '
-                          'up to principals to hire teachers when some of them '
-                          'have no interest in or understanding of education, '
-                          'etc. But going into all of that would have made '
-                          'this movie hours and hours long. Still probably '
-                          'very interesting, but impractical as a commercial '
-                          'venture.\n'
+                          "But the film's strongest impact comes from the case "
+                          'studies of five children, who show strong '
+                          'potential, but their parents struggle to set them '
+                          'up with the necessary education, placing them at '
+                          'the mercy of lotteries that determines the lucky '
+                          'few who get to attend successful charter schools. '
+                          'Their build-up is near impeccable, leading up to '
+                          "the film's emotionally powerful third act. A third "
+                          'act that, afterwards, is complimented perfectly by '
+                          '"Shine", a beautiful end credits song by John '
+                          "Legend, and overall one of the film year's very "
+                          'best original songs.\n'
                           '\n'
-                          '2) it does well also, but the viewer needs to sit '
-                          'back afterward and think through exactly what is '
-                          'being proposed as a solution. That solution is a '
-                          'certain sort of education now being offered in '
-                          'certain (not all, by any means) urban charter '
-                          'schools that function free of all the obstacles '
-                          '(bureaucracy, school boards, teachers unions, etc.) '
-                          'that block change in regular public schools. But '
-                          'the students in those charter schools are all there '
-                          'because their parents/guardians made the effort to '
-                          'get them there.\n'
-                          '\n'
-                          'In other words, superlative teaching works with '
-                          'students who have support at home. This is '
-                          "wonderful, but it's not either a surprise or a "
-                          'miracle. It sounds like a magnificent way of '
-                          'educating the children of caring and concerned '
-                          "parents/guardians who can't flee the inner city to "
-                          'the better schools of the suburbs. But it does not '
-                          'address the problem of what is to be done with all '
-                          'the students who are children/wards of individuals '
-                          "who don't give a damn about their education.\n"
-                          '\n'
-                          'That is probably the subject of another film.\n'
-                          '\n'
-                          'This one, meanwhile, is magnificent, from first '
-                          'moment to last. The lottery scenes near the end are '
-                          'perhaps the most enthralling, but it is all very '
-                          'good.\n'
-                          '\n'
-                          'I kid you not. Every American should have to see '
-                          'this movie.\n'
-                          '\n'
-                          'P.S. I notice that there are some scathing reviews '
-                          'of this movie on here. Remember in reading them '
-                          'that WfS pulls no punches: it goes after the AFT '
-                          'and NEA with a vengeance, and those two '
-                          'organizations will no doubt do whatever they can to '
-                          'discredit this movie. Beware anything that comes '
-                          'from them, therefore. Bill Gates has long said that '
-                          'those two organizations are two of the biggest '
-                          'roadblocks to educational reform in this country. '
-                          "This movie documents that, and those unions won't "
-                          'take that lying down.',
+                          "It isn't perfect, but I'm gonna give Waiting for "
+                          "'Superman' *** out of ****",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'This documentary follows a handful of promising '

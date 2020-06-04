@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Citizenfour',
  'EntryURL': 'https://www.imdb.com/title/tt4044364',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Citizenfour/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Citizenfour/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Citizenfour/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Citizenfour/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -43,83 +42,88 @@
              'surveillance,nsa,edward snowden',
  'name': 'Citizenfour',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'mlwehle'},
-            'dateCreated': '2014-10-27',
+            'author': {'@type': 'Person', 'name': 'ferguson-6'},
+            'dateCreated': '2014-11-20',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4044364/'},
-            'name': 'Solid, Powerful',
-            'reviewBody': 'I thought Citizenfour was quite powerful as a '
-                          "humanizing portrayal of Snowden. I didn't learn "
-                          'anything new particularly about NSA programs, since '
-                          "I've been reading each story I come across, but the "
-                          'film quite effectively transported me into '
-                          "Snowden's hotel room in Hong Kong and into "
-                          'conversations with Snowden, Greenwald, Poitras and '
-                          'MacAskill. Snowden comes off as a completely '
-                          'responsible, quite sincere, thoughtful young man. '
-                          'He very clearly and explicitly says that he does '
-                          'not want to be the story, and one believes him. '
-                          'Whereas Assange can impress people as narcissistic '
-                          "and Bradley/Chelsea Manning's sexual confusion was "
-                          'only one of a number of facets which distracted '
-                          'from Cablegate, Snowden sounds like a young '
-                          'Ellsberg – very intelligent and well-spoken.\n'
+            'name': 'Walk a Mile in his Shoes',
+            'reviewBody': 'Greetings again from the darkness. Edward Snowden. '
+                          'You know the name and you know the story. Hero of '
+                          'the People or Enemy of the State? Ultimate Patriot '
+                          'or a double-spy for the Russians? Protected as a '
+                          'Whistle-Blower or Guilty of Treason? Chances are '
+                          'you long ago made up your mind on how you view Ed '
+                          '(his stated name preference). \n'
                           '\n'
-                          "Poitras's style was interesting, I thought. The "
-                          'camera a number of times holds for lengthy periods '
-                          'on fairly static shots of architecture, which '
-                          'served to impress the viewer with the monolithic, '
-                          "pervasive nature of the NSA's networks. There's a "
-                          'long disorienting shot out the window of a train at '
-                          'night or going through a tunnel, which draws you '
-                          "into the dark network Snowden's revealing.\n"
+                          'In January 2013, Snowden contacted documentarian '
+                          'Laura Poitras via an anonymous email name '
+                          '"Citizenfour". By June, the two were meeting in a '
+                          'Hong Kong hotel along with journalist Glenn '
+                          'Greenwald. What follows is a mesmerizing look at '
+                          'the actual footage shot of Greenwald interviewing '
+                          'Snowden. This is Ed Snowden before the media storm. '
+                          'This is Ed Snowden continually proclaiming that he '
+                          'is not the story, and he is trusting Greenwald to '
+                          'determine what documents are fit for public '
+                          'release. He voices concern about jeopardizing '
+                          'national security, while at the same time being '
+                          'adamant about exposing the immense and widespread '
+                          'governmental tracking of digital movements by '
+                          'millions of people \x85'
+                          ' most with no known ties to terrorism.\n'
                           '\n'
-                          'The film successfully touches on a number of '
-                          'different aspects of the surveillance state, '
-                          'bringing in the idea that when we talk about '
-                          '"privacy" we\'re talking about security, about our '
-                          'constitutional right to freedom from unlawful '
-                          'search and seizure. I think this is a hard sell for '
-                          "too many viewers. I don't fault the film here. I "
-                          'saw it with a friend who was a few minutes late '
-                          "because she was watching the Giants' game. In "
-                          'discussing the movie afterward she questioned just '
-                          'how important some of the issues raised were. '
-                          'Greenwald and others speak passionately about the '
-                          'dangers of the surveillance state, but my date '
-                          "pointed out that she can't feel much fear that the "
-                          'NSA is going to be breaking down her door because '
-                          "of anything she's said on the phone or in e-mail. "
-                          'My own experience is that friends and colleagues on '
-                          "the one hand self-censor and don't mention "
-                          'politics, drugs, Bittorrent use, etc. in e-mail or '
-                          'social media for fear of the all-knowing eye, or on '
-                          'the other hand seem oblivious to any danger – why '
-                          'worry about Google programmatically reading every '
-                          'single e-mail sent or received, if it means free '
-                          'e-mail and potentially more accurate search results '
-                          'when shopping? Snowden at one point convincingly '
-                          "says he doesn't think it is possible for anyone no "
-                          'matter how brilliant and educated to individually '
-                          'fight all the electronic surveillance systems in '
-                          "existence. We're told of the multitude of methods "
-                          'of surveillance and repeatedly shown NSA officials '
-                          'blatantly lying to Congress about their existence. '
-                          'The lack of accountability for this last has been '
-                          'personally troubling to me – I remember Watergate '
-                          'and Iran-Contra – how is it that the heads of the '
-                          'NSA can with impunity flat out lie to Congress '
-                          'about spying on American citizens? What will '
-                          'viewers come away with when walking out of the '
-                          "theater after Citizenfour? I'm wondering how many "
-                          'will see it as a call to action, and how many as a '
-                          "well-executed depiction of Edward Snowden's "
-                          'experience, which may not be seen as intersecting '
-                          'our own.',
+                          'The timeline is public record, so the core of the '
+                          'film is really an intimate look at the man who, '
+                          'acutely aware of the coming fallout, proceeded with '
+                          'pulling the curtain back on NSA actions that he '
+                          'deemed inappropriate. Ms. Poitras structures the '
+                          'film as a thriller, and it will certainly cause '
+                          "tension in every viewer. We can't help but put "
+                          "ourselves in Snowden's shoes. Would we feel the "
+                          'need to go public with proof? Who would we tell? '
+                          'How would we tell them? Would we be willing to '
+                          'release our name, knowing it could put everyone we '
+                          'love in danger? Would we be prepared to watch our '
+                          'President publicly call us out as unpatriotic and a '
+                          'danger to the nation? These questions are '
+                          'impossible for us to answer, but add weight to the '
+                          "scenes of Snowden answering Greenwald's questions "
+                          'while Ms. Poitras works the camera.\n'
+                          '\n'
+                          'One of the more interesting points made in the '
+                          'movie is that what we once termed individual '
+                          'freedom and liberties, is now couched as privacy. '
+                          'We have come to expect our privacy, and certainly '
+                          "don't appreciate our government digging through our "
+                          'emails, search history, texts and phone calls. But '
+                          'how to balance the individual "right" to privacy '
+                          "with the government's need to collect intelligence "
+                          "in the name of national security? That's the key "
+                          'question, and one with no clear answer.\n'
+                          '\n'
+                          'Regardless of your opinion on Snowden and his '
+                          'actions, the film presents him as an idealist '
+                          'believing he is doing the right thing. Most of this '
+                          'occurs before the media firestorm, but we do see '
+                          'the anticipated fallout. Once Snowden goes into '
+                          'hiding, we witness Greenwald becoming the face and '
+                          'voice of the cause. He is a talented journalist and '
+                          "exceptional speaker, and doesn't back down from the "
+                          'reaction of those who stand accused. \n'
+                          '\n'
+                          'The film allows us to take notice of the personal '
+                          'attacks on Snowden as an attempt discredit his '
+                          'documentation. Making Snowden the story distracted '
+                          'the media and the general public from the real '
+                          "issue. It's a fascinating film that will surely "
+                          'make you uncomfortable and cause re-evaluation of '
+                          'the chain of events. You may not change your mind, '
+                          'but you will most certainly have a better '
+                          'understanding of the human side.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A documentarian and a reporter travel to Hong '

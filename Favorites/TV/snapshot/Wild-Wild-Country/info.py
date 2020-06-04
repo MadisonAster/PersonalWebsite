@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Wild-Wild-Country',
  'EntryURL': 'https://www.imdb.com/title/tt7768848',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Wild-Wild-Country/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Wild-Wild-Country/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Wild-Wild-Country/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Wild-Wild-Country/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm9716640/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 21442,
+                     'ratingCount': 21443,
                      'ratingValue': '8.2',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -36,19 +35,30 @@
              'rajneesh',
  'name': 'Wild Wild Country',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'arpitha-33851'},
-            'dateCreated': '2018-08-08',
+            'author': {'@type': 'Person', 'name': 'SamJohnson1'},
+            'dateCreated': '2018-03-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt7768848/'},
-            'name': 'Brilliant',
-            'reviewBody': 'Unbiased documentory.. biggest cult in this world '
-                          'is Christianity..They are fine with converting and '
-                          'invading all countries but scared to death when a '
-                          'small commune came in and built their city from '
-                          'scratch ..converted barren land to farm land ..I '
-                          'hope they have a broader and open mind and come out '
-                          'of their cucoon and let others live peacefully..',
+            'name': "Orwell's brilliant Animal Farm in real life",
+            'reviewBody': 'To understand why utopias do not work this provides '
+                          'a fascinating real life example. \n'
+                          '\n'
+                          'A guru who chooses not to speak and allows his '
+                          'followers to take control - Sheela is a brilliant '
+                          'mix of artful aggression and disingenuousness. Her '
+                          'lack of enlightenment by the end is bizarre. The '
+                          'whole purpose of following Osho was supposedly to '
+                          'gain enlightenment. Will the day ever come when she '
+                          'recognises that her need for power created only '
+                          'chaos? \n'
+                          '\n'
+                          'Human nature in all its frailty plays out on film - '
+                          'everyone should see this - and read Animal Farm, '
+                          'which predicted it all decades ago. Slightly '
+                          "overlong which is the only reason it doesn't get 10 "
+                          'stars - but worth staying with as it truly gets '
+                          'weird halfway through.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

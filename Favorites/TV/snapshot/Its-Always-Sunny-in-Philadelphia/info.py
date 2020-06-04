@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Its-Always-Sunny-in-Philadelphia',
  'EntryURL': 'https://www.imdb.com/title/tt0472954',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Its-Always-Sunny-in-Philadelphia/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Its-Always-Sunny-in-Philadelphia/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Its-Always-Sunny-in-Philadelphia/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Its-Always-Sunny-in-Philadelphia/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0647698/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 182096,
+                     'ratingCount': 182101,
                      'ratingValue': '8.8',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -48,51 +47,28 @@
              'philadelphia,philadelphia',
  'name': "It's Always Sunny in Philadelphia",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jellyneckr'},
-            'dateCreated': '2005-08-21',
+            'author': {'@type': 'Person', 'name': 'goldiemcg'},
+            'dateCreated': '2005-08-15',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0472954/'},
-            'name': 'The best show currently on cable TV!',
-            'reviewBody': 'I have said it before, but one of the joys of '
-                          'summer is watching summer shows , knowing that they '
-                          "aren't being given even the slightest chance of "
-                          'survival. In most cases, these shows are being '
-                          'deservingly dumped in the summer because most of '
-                          'them are terrible. Surprisingly, "It\'s Always '
-                          'Sunny in Philadelphia", which premiered earlier '
-                          'this month, is not terrible. Even though it seemed '
-                          'like it might have been, it ended up being one of '
-                          'the better shows to come along so far in the 2000s. '
-                          'The show is about four friends who own a bar in '
-                          "Philadelphia. At first glance, it doesn't seem like "
-                          'anything special. The owning a bar scenario has '
-                          'been done several times before in a variety of '
-                          'other sitcoms including "Cheers" and the recently '
-                          'canceled "Grounded For Life". However, since the '
-                          'show is more clever and much funnier than the '
-                          'previous sitcoms who have used the device, one can '
-                          'forgive the lack of originality.\n'
-                          '\n'
-                          'What makes "It\'s Always Sunny in Philadelphia" '
-                          'better than any other of the sitcoms that are on '
-                          'today is the clever writing. The writing on sitcoms '
-                          'these days is beyond awful. The writing on "It\'s '
-                          'Always Sunny in Philadelphia" is great. In fact, if '
-                          "the show doesn't receive an Emmmy nomination for "
-                          'writing, there is no justice in the world. The '
-                          'three episodes that have aired so far have been '
-                          'incredibly well written and unlike with most '
-                          "sitcoms, the dialogue doesn't seem like typical "
-                          'sitcom dialogue. The dialogue comes across as '
-                          'natural as opposed to coming across as forced like '
-                          'on network sitcoms and other cable comedies. The '
-                          'writers are also the stars and executive producers '
-                          'of the show, which gives them almost complete '
-                          "control. Let's hope the writing staff doesn't "
-                          'change. I\'d give "It\'s Always Sunny in '
-                          'Philadelphia" 9/10. It\'s one of the best shows one '
-                          'is ever likely to see on cable.'},
+            'name': 'Always Sunny - Always Funny',
+            'reviewBody': 'The show is great! I love the edgy humor and how '
+                          "they're addressing everyday issues and finding the "
+                          'hilarity in them. I think what I enjoy the most is '
+                          "that they're not tip-toeing around issues, gay, "
+                          "abortion, underage drinking (no, they're not "
+                          "promoting these, they're just addressing them). The "
+                          'way they have the real life situations and the true '
+                          'reactions within a set of friends sets this show '
+                          "apart (Seinfeld anyone?)...there's no following the "
+                          'lives of multi-millionaire brats as lead characters '
+                          "(fill in the blank for that show, there's only "
+                          'about 5 on air right now), none of the worn out '
+                          '"the city is going to blow up unless you catch the '
+                          'bad guy in 5 minutes" plot lines...it\'s real '
+                          'situations and almost everyone can relate...and '
+                          'laugh at.'},
  'trailer': {'@type': 'VideoObject',
              'description': "Season 11 teaser for It's Always Sunny in "
                             'Philadelphia on FXX.',

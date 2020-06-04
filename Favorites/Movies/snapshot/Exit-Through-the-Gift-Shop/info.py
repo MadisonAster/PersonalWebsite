@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Exit-Through-the-Gift-Shop',
  'EntryURL': 'https://www.imdb.com/title/tt1587707',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Exit-Through-the-Gift-Shop/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Exit-Through-the-Gift-Shop/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Exit-Through-the-Gift-Shop/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Exit-Through-the-Gift-Shop/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Banksy', 'url': '/name/nm2612991/'},
@@ -19,7 +18,7 @@
             'url': '/name/nm4565713/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 61012,
+                     'ratingCount': 61014,
                      'ratingValue': '8.0',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -36,89 +35,68 @@
  'keywords': 'street artist,graffiti artist,art,west bank,political statement',
  'name': 'Exit Through the Gift Shop',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'thesubstream'},
-            'dateCreated': '2010-05-10',
+            'author': {'@type': 'Person', 'name': 'audiopearl'},
+            'dateCreated': '2010-09-13',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1587707/'},
-            'name': "Fake, real, some weird combo. It doesn't matter much, "
-                    'which is... unique',
-            'reviewBody': 'Exit Through the Gift Shop, the first film directed '
-                          'by reclusive street-art legend Banksy, is a little '
-                          "puzzle-box of a documentary. It's perfectly "
-                          'designed and pitched to be enjoyable on multiple '
-                          'levels: on one as an entertaining, illuminating '
-                          'mini-history of "street art" and on another - one '
-                          'entirely more convoluted and entertaining - as a '
-                          'light-hearted "up yours" to both street artists and '
-                          'their patrons.\n'
+            'name': 'See No Evil but Laughing Cavlierly!',
+            'reviewBody': "I'd heard of the film but must admit to watching it "
+                          "with no expectation whatsoever, so there's no point "
+                          "in me saying I wasn't disappointed as I had no "
+                          'expectation BUT I was immediately enchanted and '
+                          'absolutely hypnotised by this fantastic tale that '
+                          'weaves fact with fiction.\n'
                           '\n'
-                          "Ostensibly (to take the film's word for it) "
-                          "Banksy's film came about when he, as the premiere "
-                          '21st Century graffiti art darling, was approached '
-                          'by Thierry Guetta, a French-born Los Angeleno. '
-                          'Guetta wanted to make a documentary about street '
-                          'art, and Banksy was the last major figure whose '
-                          'participation he felt he needed, as an affable '
-                          'personality, a love of video cameras and a chance '
-                          'relationship to Invader, a French street-art '
-                          'pioneer who networked with other artists like '
-                          'Shepard Fairey, had left Guetta with hundreds of '
-                          'hours of footage documenting the birth of the art.\n'
+                          'Banksy blurred and blacked-out next to a monkey '
+                          'head with no eyes under glass...superb! A yuppie '
+                          'pop attack that given half a chance a yuppie would '
+                          "probably buy as art or media...AND then Banksy's "
+                          'effected voice...oh my giddy aunt...I almost poohed '
+                          'my pants with laughter...AND WHAT DOES HE DO? He '
+                          'proceeds to play slightly dumb and remote allowing '
+                          'those that he is having a poke at to continue BEING '
+                          'dumb and remote. You, Banksy mate (not that it '
+                          'matters to you) gained my respect straight away! '
+                          "HERE is a genuine film that IS 'STREET ART'.\n"
                           '\n'
-                          'After tracking Banksy down and shooting him '
-                          'working, Guetta retired to the cutting room. He '
-                          'emerged months later and showed it to Banksy. He '
-                          "didn't like the film, a couple of minutes of which "
-                          'are excerpted and are plainly terrible, and offered '
-                          "to take over Guetta's doc while Guetta returned to "
-                          'Los Angeles to turn himself into a street art '
-                          'sensation, named "Mr. Brainwash" or MBW. '
-                          'Transforming overnight from an affable, helpful '
-                          'documentarian to a one-man hype-monster artiste, '
-                          "MBW's enormous spraypaint cans, TV monsters and "
-                          'Warhol-style send-ups captured the attention of the '
-                          'LA art crowd, who spent over a million bucks on his '
-                          'stuff, much to the chagrin of Fairey and Banksy. '
-                          "Guetta's film about Banksy changes into Banksy's "
-                          'film about Guetta and street art, and the rise of a '
-                          'new unfortunate talent.\n'
+                          'But the real star of the piece --- as created by '
+                          'Banksy --- is Thierry Guetta...F**king Genius! A '
+                          'superb caricature for the modern age...not only is '
+                          'he a Warhol baby BUT he seems to be the actual '
+                          'mistake that Warhol made during a dodgy can of soup '
+                          "in HIS fifteen minutes of madness! If he's really "
+                          "like he is portrayed then he's a passionate groupie "
+                          'at best without any artistic ability '
+                          'whatsoever...unless art has become project '
+                          "management (...AND to be honest I'm not sure "
+                          'whether Banksy is really making THAT point BUT hey '
+                          "I'm one measly member of the stupid masses...) "
+                          "Hell, it doesn't matter as Guetta does a good deal "
+                          'of his talking whilst overlooked by a portrait of '
+                          'the Laughing Cavalier...whose heady hairstyles he '
+                          'seems to emulate...so consciously or subconsciously '
+                          'he is laughing at us whilst laughing at the '
+                          'character he creates...everything is so '
+                          'manufactured that it is almost stencilled in a way '
+                          'that STREET ART never was BUT in a way that the '
+                          'mass market bullsh*t IS! What can I say but this is '
+                          'a portrayal of a distorted art market and the plain '
+                          'meaninglessness of pop-art? Now that everyone can '
+                          'have their fifteen minutes of fame I guess the '
+                          "thing to de-construct is fame itself...and that's "
+                          'what Banksy does here...and has been doing since he '
+                          "marked his first wall...I could go on but it'd "
+                          "waste your time with my idiocy and isn't that what "
+                          "this film is about?! Take a leaf out of Banksy's "
+                          'Beckett-like debut (not only has he Waited for '
+                          'Godot HE stencilled him)--- Think for yourself and '
+                          'create your own reality! \n'
                           '\n'
-                          "Except, as I and a lot of other folks believe, it's "
-                          "all made up. It's a hoax, it has to be, it's too "
-                          'hilariously perfect to be anything but. Banksy, as '
-                          'a street artist, has seen the perception of his '
-                          'works - by design temporary, and by design '
-                          'defacements - change from graffiti into art that '
-                          'needs preservation, that is cut out from walls and '
-                          'sold. Banksy, in making Exit Through the Gift Shop '
-                          'with Fairey and Guetta has found a way to deface, '
-                          'scrawl over and heap lighthearted disdain all over '
-                          'both himself and the people who snap up his art.\n'
-                          '\n'
-                          "It's spectacular, it's brilliant and all the more "
-                          "so in that it's still a documentary, still a record "
-                          "of events. It's not artificial, not a mockumentary "
-                          'in the way that Spinal Tap is. MBW exists, having '
-                          'been created by Guetta or Banksy or both, and the '
-                          'film documents his arrival. Exactly who it is that '
-                          "arrives is the film's mystery.\n"
-                          '\n'
-                          'Exit Through the Gift Shop captures the birth of a '
-                          'prank, an elaborate, entertaining gotcha that fits '
-                          "perfectly in Banksy's nose-tweaking, "
-                          'politically-aware, cheeky body of work. Moreover, '
-                          "the film doesn't rely on any rug-snapping-out to "
-                          "really work. It works if it's true, it works if "
-                          "it's not, because it's a construction that's above "
-                          "all entertaining. It's a glimpse, anyway, of a "
-                          "world that's built at night, by streetlight, one "
-                          "that's fascinating even if it is in the middle of "
-                          "pulling the wool over our eyes. It's genius, plain "
-                          'and (not so very much at all) simple.',
+                          'Definite must watch for everyone in my opinion.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The story of how an eccentric French shop keeper '

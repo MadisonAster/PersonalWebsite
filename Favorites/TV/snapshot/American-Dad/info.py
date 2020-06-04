@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/American-Dad',
  'EntryURL': 'https://www.imdb.com/title/tt0397306',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/American-Dad/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/American-Dad/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/American-Dad/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/American-Dad/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm1484134/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 113021,
+                     'ratingCount': 113022,
                      'ratingValue': '7.3',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -51,34 +50,48 @@
              'relationships,violence,cult tv',
  'name': 'American Dad!',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Stonedwithoutdope'},
-            'dateCreated': '2005-11-10',
+            'author': {'@type': 'Person', 'name': 'bellino-angelo2014'},
+            'dateCreated': '2018-09-30',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0397306/'},
-            'name': "Wasn't expecting too much. I underestimated this show.",
-            'reviewBody': 'I was expecting this to just be a family guy clone '
-                          'with different character, This is more than that, '
-                          'its hilarious. The characters and humor are on the '
-                          'same sort of level as family guy but Seth McFarlane '
-                          'managed to work his magic and create a whole new '
-                          'different level of humor and wit for this show '
-                          'which sets itself apart from family guy.\n'
+            'name': 'Truly one of the best animated sitcoms ever',
+            'reviewBody': "I have to admit that when I was younger I didn't "
+                          'cared for this show that much. Probably because the '
+                          'humour most of the time was more adult-friendly and '
+                          'not for kids. But in these last years I watched '
+                          'lots of episodes and I liked them. And I am proud '
+                          'of having given the show a chance.\n'
                           '\n'
-                          'A secret service FBI agent, prone to overreacting '
-                          'must find a way to use his skills to help his '
-                          'family and their new illegal alien housemate with '
-                          'basic troubles in life. Problem is sometimes it '
-                          'proves too much with hilarious results.\n'
+                          'At first, it looks very similar to FAMILY GUY (the '
+                          'other great Seth McFarlane TV show), mainly because '
+                          'Stan Smith, although not selfish and loud as Peter '
+                          'Griffin, manages to be the perfect dad. While Roger '
+                          'the alien and Klaus the fish are much more similar '
+                          'to Brian and Stewie. The flashbacks and cultural '
+                          "references are almost absent and the episodes' "
+                          'plots are more non-interrupted than in the other '
+                          'show.\n'
                           '\n'
-                          "Remember this isn't a kid's show and I guess thats "
-                          'what makes this and family guy so special. They can '
-                          'put in all the added toilet humor it needs and the '
-                          'writers seem to know how to do it perfectly. The '
-                          'characters are great but the main character Stan '
-                          'Smith stands out above all the rest (With their '
-                          'alien friend coming in a close second). Anyone who '
-                          'wants a laugh, drop everything and watch this.'},
+                          'The animation is very good, and the backgrounds are '
+                          'very warm, I mean, even more than the ones from '
+                          'FAMILY GUY. The theme song is the best part of the '
+                          'soundtrack, and no words can describe how much I '
+                          'love it. And the voice cast is good, especially '
+                          'Seth McFarlane as Stan Smith and Roger the alien '
+                          "(my favourite characters), and I find Klaus' German "
+                          'accent very funny.\n'
+                          '\n'
+                          'Overall, a great animated sitcom and I recommend it '
+                          'to everybody, and I am sure that if you love THE '
+                          'SIMPSONS, FAMILY GUY, FUTURAMA and SOUTH PARK '
+                          "you'll love this show too. It's very similar to all "
+                          'of them and perfect to watch with your family or '
+                          'friends.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '9',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for American Dad!: Volume Five',
              'embedUrl': '/video/imdb/vi2612763417',

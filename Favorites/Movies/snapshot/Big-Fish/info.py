@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Big-Fish',
  'EntryURL': 'https://www.imdb.com/title/tt0319061',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Big-Fish/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Big-Fish/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Big-Fish/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Big-Fish/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0001448/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 404764,
+                     'ratingCount': 404767,
                      'ratingValue': '8.0',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -49,51 +48,36 @@
              'up',
  'name': 'Big Fish',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Low Man'},
-            'dateCreated': '2004-08-08',
+            'author': {'@type': 'Person', 'name': 'Crizmkodo'},
+            'dateCreated': '2013-10-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0319061/'},
-            'name': 'Lying as an Art Form',
-            'reviewBody': 'What do you say about this movie?\n'
-                          '\n'
-                          'I am at a total loss to describe it.  The concept '
-                          'itself, a son tries to come to terms with his dying '
-                          'father that he knows nothing about but an enormous '
-                          "catalog of unbelievable stories, doesn't sound very "
-                          'promising.  It sounds like a tired old formula, and '
-                          'I expected such when the rental started playing\n'
-                          '\n'
-                          "It's not.\n"
-                          '\n'
-                          'Werewolves, giants, witches, siamese twins, bank '
-                          'robbers, hidden cities, sirens, etc. are all '
-                          'present in the fantasy, but they seem unremarkably '
-                          'to be part of the life of an otherwise ordinary '
-                          'traveling salesman.  Whether they really are or not '
-                          "is never made completely clear, but that's the "
-                          'rub.\n'
-                          '\n'
-                          'I once read a review by Harlan Ellison in which the '
-                          'main point was how a well told lie illuminates the '
-                          'truth in far better clarity than a simple '
-                          'recitation of the facts ever can.  At one point in '
-                          'the film, the questing son remarks to his '
-                          "bed-ridden father that he's heard all of his "
-                          'stories thousands of times, and he has know idea '
-                          "who his father really is.  The father's reply is, "
-                          "`I've never been anybody but me from the day I was "
-                          "born. If you don't know who I am, that's your "
-                          "failing, not mine.'  Later investigations make the "
-                          "point clearer.  I'll bet Ellison loved this movie. "
-                          'It is an extraordinary lie.\n'
-                          '\n'
-                          "Did I like the film?  You bet.  It's Tim Burton's "
-                          'best work without a doubt. Is it for everybody?  '
-                          'Probably not.  Many will find it confusing and '
-                          'pointless, but good fantasy is like that.  All I '
-                          "can say is, relax and let it happen.  You won't "
-                          'regret it.'},
+            'name': 'This movie reminds me story of me and my father, before '
+                    'he died on cancer',
+            'reviewBody': 'My father was a brilliant sculptor and a great '
+                          'visionary. When I was a kid, I never could explain '
+                          'what he was doing. I got it a month before his '
+                          'death when i was 26. This film filled my eyes with '
+                          'tears, because it reminded me him. he had a lot of '
+                          'ideas and brilliant and original ideas for '
+                          'improving the world, but for all his life he could '
+                          'not sell it to anyone, because those ideas filled '
+                          'his whole day. Literally. His whole apartment was '
+                          'filled with papers. Thank you for this movie. Thank '
+                          'you for the message. I would add a note that when '
+                          'we dream, we are escaping from the world of facts '
+                          'and truths. When my father said that if you think '
+                          'of anything in life, you have to write it down '
+                          'because what comes to your mind it never comes '
+                          "again it changed my life. Now I'm writing a book - "
+                          'a novel from environment of Mesopotamia and that '
+                          'just because my father was someone who believed in '
+                          'imagination and creative values\u200b\u200b.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '9',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A son tries to learn more about his dying father '
                             'by reliving stories and myths he told about his '

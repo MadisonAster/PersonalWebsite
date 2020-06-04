@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Swearnet-The-Movie',
  'EntryURL': 'https://www.imdb.com/title/tt2380564',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Swearnet-The-Movie/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Swearnet-The-Movie/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Swearnet-The-Movie/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Swearnet-The-Movie/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Mike Smith', 'url': '/name/nm1034266/'},
@@ -47,32 +46,34 @@
              'orgasm',
  'name': 'Swearnet: The Movie',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ericstevenson'},
-            'dateCreated': '2018-09-19',
+            'author': {'@type': 'Person', 'name': 'navinramaswaran'},
+            'dateCreated': '2014-09-02',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2380564/'},
-            'name': 'We have a record holder!',
-            'reviewBody': 'This film is said here to be rated NC-17 and it '
-                          'certainly deserves it. Apart from the fact that '
-                          "there's nudity, it has more uses of the f-word than "
-                          'any other film in history. Well, in the English '
-                          'language at least. It took me a long time to count '
-                          'every one of them. I counted 911, but there were '
-                          'said to be as many as 935. It is rather satisfying '
-                          'to see Carrot Top and Tom Green get beat up.\n'
+            'name': 'A fun film with heart',
+            'reviewBody': "I haven't seen a single episode of the Trailer Park "
+                          'Boys and went into Swearnet knowing only little '
+                          'about the 3 Canadian goofballs - Robb Wells, John '
+                          'Paul Tremblay and Mike Smith. Coming out of '
+                          'Swearnet, I can confidently say I am a fan! '
+                          'Although in this flick, the boys play "themselves" '
+                          'and not their fictional characters from the TV '
+                          'show, the push-the-envelope humour and brisk pacing '
+                          'of the film showed a lot of heart amongst the '
+                          'consistent comedy. The movie was well-cast overall '
+                          'and although the Tom Green - Carrot Top bit got '
+                          'slightly too much at times, everyone played their '
+                          'parts wonderfully. \n'
                           '\n'
-                          "So besides that, there's not much else to say about "
-                          'this movie. It certainly has its funny moments, but '
-                          'is more or less not very interesting in itself. I '
-                          "couldn't get a feel for these characters or "
-                          'anything. It just seemed to be an excuse to be the '
-                          'most profane movie in history. Obviously, this '
-                          "isn't for people who are easily offended in really "
-                          'any way. The main plot involves a race of some '
-                          "kind, but it's hard to really care. **",
+                          "Well shot and directed, you're sure in for a good "
+                          'time. A nice way to spend 100 minutes in the '
+                          'cinema. \n'
+                          '\n'
+                          "I'm looking forward to hitting up the Trailer Park "
+                          'Boys TV show next!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '5',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'url': '/title/tt2380564/'}

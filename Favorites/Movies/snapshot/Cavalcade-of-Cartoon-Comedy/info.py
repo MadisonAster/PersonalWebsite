@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Cavalcade-of-Cartoon-Comedy',
  'EntryURL': 'https://www.imdb.com/title/tt1295036',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Cavalcade-of-Cartoon-Comedy/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Cavalcade-of-Cartoon-Comedy/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Cavalcade-of-Cartoon-Comedy/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Cavalcade-of-Cartoon-Comedy/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -43,32 +42,38 @@
              'humor,parody',
  'name': "Seth MacFarlane's Cavalcade of Cartoon Comedy",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'karnajj'},
-            'dateCreated': '2009-05-16',
+            'author': {'@type': 'Person', 'name': 'adampkalb'},
+            'dateCreated': '2017-09-22',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1295036/'},
-            'name': 'Vulgar and unfunny',
-            'reviewBody': 'I would never pay for such a thing. The gags are '
-                          'not even funny. Some of the clips are just '
-                          'characters giving their opinions on old movies.\n'
+            'name': 'Comedy is very subjective.',
+            'reviewBody': "In 2008, Seth MacFarlane realized that Family Guy's "
+                          'revival and American Dad were not enough to help '
+                          'support his expensive lifestyle. Before The '
+                          'Cleveland Show, he made an entire 50-episode web '
+                          'series based on cutaway gags removed from Family '
+                          'Guy. Despite having the same professional TV '
+                          'animation budget as Family Guy, it does not have to '
+                          'abide by any network standards and it can have as '
+                          'many curse words as they want.\n'
                           '\n'
-                          'Sorry Seth, there are enough critics on the web, I '
-                          "don't need to know which movies you didn't like "
-                          "when you were a teenager in the 80's.\n"
-                          '\n'
-                          "You are trying to sell this junk by saying it's "
-                          "more vulgar than Family Guy. But, vulgarity doesn't "
-                          "mean funny at all. There's got to be something more "
-                          'than that.\n'
-                          '\n'
-                          "I am really glad that I didn't pay for this trash. "
-                          "And we really don't need to know your opinion about "
-                          'everything. If you absolutely need to give it '
-                          'anyway, try to do it in a funny way.',
+                          "I think most of this is okay if you're old enough "
+                          'to enjoy it. Some are funny, but there are also '
+                          'some disturbing shorts with blood, deaths, and '
+                          'there are also 2 shorts with poop and 2 shorts with '
+                          'nudity. It really depends on what sense of humor '
+                          'you have, but there are also a few shorts that are '
+                          'too cruel for most people to find them funny. My '
+                          'most favorite episodes were the Scotsman yelling at '
+                          'stupid movie characters, the gay knight, the glass '
+                          'house, Barry Gibb singing on the roller coaster, '
+                          'and 10 things you never hear, like "Stressed Eric '
+                          'is a comedic masterpiece!" That\'s just 1 I thought '
+                          "up myself. It wasn't 1 of those things they said.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '1',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "Seth Macfarlane's Cavalcade Of Cartoon Comedy",

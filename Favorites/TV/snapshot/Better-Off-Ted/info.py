@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Better-Off-Ted',
  'EntryURL': 'https://www.imdb.com/title/tt1235547',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Better-Off-Ted/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Better-Off-Ted/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Better-Off-Ted/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Better-Off-Ted/thumb.jpg',
  'actor': [{'@type': 'Person',

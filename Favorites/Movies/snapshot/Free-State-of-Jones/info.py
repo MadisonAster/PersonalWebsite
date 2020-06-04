@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Free-State-of-Jones',
  'EntryURL': 'https://www.imdb.com/title/tt1124037',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Free-State-of-Jones/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Free-State-of-Jones/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Free-State-of-Jones/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Free-State-of-Jones/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -53,46 +52,107 @@
              'carrying a man',
  'name': 'Free State of Jones',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jsaus63304'},
-            'dateCreated': '2016-06-25',
+            'author': {'@type': 'Person', 'name': 'anthonyleewatkins'},
+            'dateCreated': '2016-07-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1124037/'},
-            'name': 'Much better than the critics would have you believe',
-            'reviewBody': 'I have always enjoyed movies based on actual events '
-                          'or real people, so I was anticipating going to see '
-                          'this movie. I did a little research on the history '
-                          'it depicts and it was a part of the Civil War that '
-                          'I knew nothing about. I was quite disappointed when '
-                          'the reviews came out and most of the critics rated '
-                          'it very low. If you are looking for a war drama '
-                          'that is non stop action with lots of battles, '
-                          'massive explosions and bloody scenes from start to '
-                          'finish, you will be disappointed. If you like a '
-                          'movie that has good writing, an actual story and '
-                          'good acting, you will like it.\n'
+            'name': 'A true story about the muddiness of Southern Bravery and '
+                    'Corruption and the disheartening Truth about Race and '
+                    'Racism',
+            'reviewBody': 'FREE STATE OF JONES, A REVIEW AND A COUPLE OF '
+                          'ASIDES\n'
                           '\n'
-                          'The movie starts pretty much like any Civil War '
-                          'movie with battles, death and bloody bodies, but it '
-                          'progresses past that to the point where some people '
-                          'rebel against the Confederacy for the atrocities '
-                          'they commit against the southern farmers. The story '
-                          'is well told with some actual dates and facts '
-                          'flashed on the screen from time to time which sort '
-                          'of gives it the feel of a documentary. It helps '
-                          'keep things in perspective without being '
-                          'intrusive.\n'
+                          'My father grew up in Soso, Mississippi. My mother '
+                          'passed away in January of this year. So when the '
+                          'movie came out, and he said he thought he would '
+                          'like to see it, I offered to go with him. He liked '
+                          'that, so today, on my parents 62nd wedding '
+                          'anniversary, which we did not mention, but I am '
+                          'certain was on his mind as much as mine, we went.\n'
                           '\n'
-                          'If I had anything to complain about, it would be '
-                          'then length and scope of the film. The movie ran '
-                          'about 2-1/2 hours. At about 2 hours, I thought it '
-                          'was over but then it moved into the Klan, voting '
-                          'intimidation and general mistreatment of the freed '
-                          'slaves as well as having a 100 year tie in to '
-                          'future generation. It was as if they tried to jam '
-                          'these events in to make it more politically '
-                          'acceptable to Hollywood. I just felt that they went '
-                          'beyond what the movie was actually to be about.',
+                          'The Movies of Lake Worth is in a little strip '
+                          'shopping center out near the Florida Turnpike. It '
+                          'was nice that I could pull up near the curb and let '
+                          'my 84 year old father out with his walker. Nicer '
+                          'still that the walk to the theater where it was '
+                          'showing was the first door inside. The rows were '
+                          'spacious so he could even push the walker in front '
+                          'of him, and we sat.\n'
+                          '\n'
+                          'My father has often talked about the Knight N___gs, '
+                          'of course being an old white man from Mississippi, '
+                          "he uses the word. Funny thing, he doesn't use the "
+                          '"N-word" in conversation, but i guess because the '
+                          'community held the Knights in a "Special" place, '
+                          'this was the title he knows to call them by. He '
+                          'recently told me that his mother, born in 1910 was '
+                          'picking black berries or strawberries and she and '
+                          'her family stopped at the Knight house to get '
+                          'water. That was apparently the only time anyone in '
+                          'his family had anything to do with the Knights.\n'
+                          '\n'
+                          'The movie does a good job of not sugar coating '
+                          'anything, from the battlefield scenes to the trial '
+                          'for interracial marriage (shades of the gay '
+                          'marriage struggle in Mississippi today), to the '
+                          'killings of both white and black folks. The saddest '
+                          'part of the story is how a handful of runaway '
+                          'slaves helped Newton and then many more whites, but '
+                          'in all too common southern white fashion, the white '
+                          'folks, when the war was over and the deserters were '
+                          'safe, they turned on the blacks, even the ones who '
+                          'had saved their lives.\n'
+                          '\n'
+                          'I know the British, the Belgians, the Germans, and '
+                          '100 other countries, including the US Army has been '
+                          'guilty of equally disappointing human behavior, but '
+                          'this is a story about my people. Some of the people '
+                          'on both sides of the story are probably my '
+                          'ancestors. I know some fought in the Civil War, as '
+                          'confederates. Some probably hid out in the swamp '
+                          'and then betrayed those who helped them when it was '
+                          'time to bring Mississippi out of the dark.\n'
+                          '\n'
+                          "The movie doesn't shy away, it doesn't spare "
+                          'anybody. There are two things I wonder about '
+                          'though.\n'
+                          '\n'
+                          'Knight comes off as being nearly a saint. Maybe he '
+                          'was. Really, with the exception of Rachel and '
+                          "Moses, the Black folks don't have a lot of "
+                          'leadership. Again, maybe because of the times, they '
+                          "didn't, maybe it was understood the being Black and "
+                          '"uppity" was a good way to get killed. I just '
+                          'wonder if it was as much the brave smart white '
+                          'Newt, or if he took a bit of opportunity. Or, more '
+                          'likely, Hollywood has a big bankable white male '
+                          'star and they wanted to give him even more glory '
+                          'than the story had.\n'
+                          '\n'
+                          "I don't know. The whole Free State of Jones is a "
+                          'history so hard to find much truth in. In fact, '
+                          'Mississippi is a place to find much truth in. It is '
+                          'my birth state, but I find more heartache than joy '
+                          'in it. I enjoyed the time with my dad, and it was '
+                          'interesting to see some kind of truth about a '
+                          'bizarre piece of history we have a tangential '
+                          'connection to.\n'
+                          '\n'
+                          'My father\'s only comment was, "Some people say it '
+                          'was so bad back than, but it was." I think he is '
+                          'right about that.\n'
+                          '\n'
+                          'I was disappointed the theater 100% white people, '
+                          'and with the exception of a 20 something young man '
+                          'and woman who could have been his young mother or '
+                          "older girlfriend, everybody was closer to my dad's "
+                          'age than even my 56 years.\n'
+                          '\n'
+                          'If you are interested in an unvarnished view of '
+                          'parts of American history that you may not know '
+                          'much about, go see the movie. It was well done. It '
+                          'might even be close to the truth.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '8',

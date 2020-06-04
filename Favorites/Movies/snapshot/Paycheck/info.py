@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Paycheck',
  'EntryURL': 'https://www.imdb.com/title/tt0338337',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Paycheck/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Paycheck/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Paycheck/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Paycheck/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -50,57 +49,47 @@
              'corporation',
  'name': 'Paycheck',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'mstomaso'},
-            'dateCreated': '2005-08-03',
+            'author': {'@type': 'Person', 'name': 'applezoid'},
+            'dateCreated': '2004-01-01',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0338337/'},
-            'name': 'Better than expected action / sci fi flick',
-            'reviewBody': 'Philip K Dick wrote many stories which seemed to '
-                          'have great film potential. I never thought of this '
-                          'as one of them.\n'
+            'name': 'Better than I thought',
+            'reviewBody': 'I went in to this film with relatively low '
+                          'expectations. Other reviews I had read led me to '
+                          'believe that this was a cookie cutter, run of the '
+                          'mill, made for tv-esque amnesia story. Nothing '
+                          'could be further from the truth.\n'
                           '\n'
-                          'I have seen Ben Affleck in a number of films, and '
-                          'felt that he was good in a few, OK in most, and '
-                          'positively annoying in some.\n'
+                          'The main plot of most amnesia types is trying to '
+                          'find out who they are and why someone erased their '
+                          'memory. With Paycheck, however, our protagonist '
+                          'already knows why his memory was erased, and since '
+                          "it's only been three years, he of course knows who "
+                          'he is.\n'
                           '\n'
-                          'I saw the horrible, misleading trailers.\n'
+                          'The plot device is that at the end of this little '
+                          "memory wipe he's supposed to be 92 million dollars "
+                          'plus richer. Imagine his surprise when he finds out '
+                          "he's forfeit the money, and instead mailed himself "
+                          'some apparently worthless junk. Oh, and the company '
+                          'that hired him is trying to kill him.\n'
                           '\n'
-                          'The soundtrack was simply bad.\n'
+                          'This is what a Sci Fi movie should be, relying on '
+                          'an interesting premise, with future predictions '
+                          'based on current technology. Sci Fi is not space '
+                          'with explosions every five minutes.\n'
                           '\n'
-                          'So, needless to say, I went into Paycheck with very '
-                          'low expectations.... and I was pleasantly '
-                          'surprised.\n'
+                          'Although there are a few minor plot holes, I found '
+                          'the movie very engaging, and thought the acting was '
+                          'competent, to say the least. Those who enjoyed '
+                          "Minority Report might also like Paycheck. It's "
+                          'worth a look.\n'
                           '\n'
-                          'Affleck plays a talented reverse-engineer, who sees '
-                          'the possibilities in new technology, and is able to '
-                          'carry it through to fruition. He takes on '
-                          'top-secret jobs and has his memory erased upon the '
-                          'completion of each. He decides to take on a project '
-                          'big and profitable enough to allow him to retire '
-                          'comfortably for the rest of his life. He completes '
-                          'the project, goes through the memory erasure, and '
-                          'then starts to discover what he has done, and, '
-                          'pursued by corporate hit men and the police, tries '
-                          'to recover his memory. Uma Thurmond, a biologist he '
-                          'had fallen in love with, is one of the memories he '
-                          'wants to recover, and also a target. \n'
-                          '\n'
-                          'Paycheck is more of an action film than a sci fi '
-                          'flick. The plot serves the action, as do the '
-                          'somewhat one-dimensional characters. And there is '
-                          'so little chemistry between Affleck and Thurmond '
-                          'that the romantic subplot is almost just a '
-                          'distraction. Despite these flaws, I spent an '
-                          'evening being thoroughly entertained by this '
-                          'rehashing of the usual technology-run-amok / '
-                          'knowledge-is-power story. This film is very '
-                          'Hollywood, and uses a lot of slick and clichéd '
-                          'camera-work, but nevertheless tells a good story '
-                          'and does it well enough.',
+                          'bck',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Paramount Home '

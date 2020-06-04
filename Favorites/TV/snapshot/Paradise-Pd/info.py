@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Paradise-Pd',
  'EntryURL': 'https://www.imdb.com/title/tt8235236',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Paradise-Pd/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Paradise-Pd/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Paradise-Pd/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Paradise-Pd/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -42,26 +41,29 @@
  'keywords': 'cop,cop comedy,adult cartoon,netflix original,ineptitude',
  'name': 'Paradise PD',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ssvfolder-1'},
-            'dateCreated': '2020-03-13',
+            'author': {'@type': 'Person', 'name': 'cranyy'},
+            'dateCreated': '2018-08-31',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt8235236/'},
-            'name': 'Good show, yet still tries too hard',
-            'reviewBody': 'Nowadays every adult cartoon show tries to find '
-                          'their niche. Some achieve truly iconic status, such '
-                          'as Rick and Morty, Family guy or Southpark. Most of '
-                          "others can't get there, so they keep on trying new "
-                          'things. It feels as this show niche is being '
-                          'anti-PC (which is good), shock humor, which mainly '
-                          "focused on sex stuff. While it's still decent and "
-                          'gives you a few laughs, sometimes it feels as they '
-                          'try too hard to get some shock-laughs, even when it '
-                          "doesn't feel as they should be there. There is a "
-                          'clear decline in quality from season 1, yet I would '
-                          'like to see what will happen further down the road.',
+            'name': 'Just like Brickleberry and its great',
+            'reviewBody': 'I used to love Brickleberry, and this show is very, '
+                          'very similar, just instead of a national park its a '
+                          'police department, and by Golly, I am a big fan of '
+                          'heavily offensive shows. But alas Brickleberry got '
+                          'canceled only after 3 seasons, which seems to be '
+                          'the cutoff age for such shows (see Drawn '
+                          'Together...) Sooo, my fear is this show, being '
+                          'equally offensive, will again not last for very '
+                          "long, even though its on Netflix, who aren't as "
+                          'concerned with the outrage of snowflakes as TV '
+                          'stations. \n'
+                          '\n'
+                          'But other than that, its a pretty fun show - '
+                          'offensive, hella funny, so I wholeheartedly '
+                          'recommend it.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'url': '/title/tt8235236/'}

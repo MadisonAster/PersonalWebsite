@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Gattaca',
  'EntryURL': 'https://www.imdb.com/title/tt0119177',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Gattaca/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Gattaca/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Gattaca/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Gattaca/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0000683/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 272996,
+                     'ratingCount': 272998,
                      'ratingValue': '7.8',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -42,29 +41,58 @@
  'keywords': 'genetics,future,space travel,urine sample,paraplegic',
  'name': 'Gattaca',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'froster6'},
-            'dateCreated': '2004-12-01',
+            'author': {'@type': 'Person', 'name': 'Andrew-162'},
+            'dateCreated': '2000-02-01',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0119177/'},
-            'name': 'Simply one of the most beautiful movies ever conceived!!!',
-            'reviewBody': 'I will keep this short. This is most certainly one '
-                          'of the best films of all time. Script is wonderful, '
-                          'cinematography brilliant, Actors perform to a T, '
-                          'and the underlying message is one that all mankind '
-                          'should take to heart, for this great movie about '
-                          'human perseverance and will, and how real a '
-                          'situation in the world like this could be. 10 out '
-                          "of 10 bottom line. If you don't see this movie you "
-                          'will be committing a crime against yourself. Also '
-                          'the relationship between Vincent and Gerome and his '
-                          'brother is brought together perfectly and well '
-                          'developed. For that matter all of the characters in '
-                          'this film bring a little something different to the '
-                          'table that you will see very rarely in any film.',
+            'name': "The most underrated movie of the 90's",
+            'reviewBody': 'This movie is incredible--yet the only ones who '
+                          'seemed to like it when it came out are the type '
+                          'whose favorite movie is "True Lies". It became '
+                          'critically ignored, which I can not understand at '
+                          'all. The themes of this movie-of '
+                          'superiority/inferiority, of identity, of destiny, '
+                          "they're all there. For those of you that haven't "
+                          'seen this movie, it is about a eutopian society '
+                          'where the highest ranks work at a space program '
+                          'named Gattaca. Vincent (Ethan Hawke) has wanted to '
+                          'work there since he was a child, but since his '
+                          'parents did not "pre-order" him, he was born '
+                          'inferior (a 99 % chance of heart failure by the age '
+                          'of 30, physical and mental problems, etc. ) to his '
+                          '"ordered" brother Antoine. Vincent has always seen '
+                          'something in a rival in his brother, because his '
+                          "brother is their dad's favorite, and he seems to "
+                          "have everything going for him. Vincent's job is as "
+                          'a janitor at Gattaca, with the hope that he will '
+                          'get in some day, but all the have to do is get a '
+                          "fingerprint of Vincent's, or a blood sample, or "
+                          'anything, and they know all about him, his profile, '
+                          'his life expectancy, etc. No one will hire Vincent '
+                          'because he is so liable to damage. One day, though, '
+                          'he hires someone to turn his identity into '
+                          "Eugene's, (Jude Law) an olympic-swimming, high "
+                          'potential winner who has everything you would need '
+                          'to get anywhere-except he comes back from a trip a '
+                          'paralyzed cripple from the waist down. So Vincent '
+                          "makes a deal with Eugene-Vincent gets Eugene's "
+                          'identity if Vincent pays the rent and gives him a '
+                          'companion. Everything works to plan, and Vincent '
+                          "borrows Eugene's fingerprints, blood samples, "
+                          'haircut, even urine samples. He even meets Irene '
+                          '(Uma Thurman) a sexy female worker at Gattaca who '
+                          'takes a shine to Vincent (who she thinks is '
+                          'Eugene). Until one day......\n'
+                          '\n'
+                          'Gattaca is a great visual movie (it was nominated '
+                          'for the best art direction oscar but lost to '
+                          'Titanic), rides strong on very good performances by '
+                          'Ethan Hawke and Jude Law, and is definitely worth '
+                          'seeing.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Sony Pictures Home '

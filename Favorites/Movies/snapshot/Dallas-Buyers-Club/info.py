@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dallas-Buyers-Club',
  'EntryURL': 'https://www.imdb.com/title/tt0790636',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dallas-Buyers-Club/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dallas-Buyers-Club/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dallas-Buyers-Club/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dallas-Buyers-Club/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm0001872/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 425001,
+                     'ratingCount': 425005,
                      'ratingValue': '8.0',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -49,31 +48,35 @@
  'keywords': 'hiv,gay community,homophobia,drugs,hiv positive',
  'name': 'Dallas Buyers Club',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'majic-5'},
-            'dateCreated': '2013-12-07',
+            'author': {'@type': 'Person', 'name': 'PWNYCNY'},
+            'dateCreated': '2013-11-26',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0790636/'},
-            'name': 'Two shining performances',
-            'reviewBody': 'Other reviewers have ably reviewed this film, so '
-                          "I'll just say that this small gem is the best film "
-                          "I've seen so far this year. Both lead actors give "
-                          'sparkling performances, and in scenes where they '
-                          'share the screen, you might need sunglasses to '
-                          'handle the sun-bright intensity.\n'
-                          '\n'
-                          'Of note is that this entire film was shot in only '
-                          '23 days and Leto, in particular, said in an '
-                          "interview on the Daily Show, that he didn't have "
-                          'much time to rehearse, making the performance even '
-                          'more impressive. The only detraction was Jennifer '
-                          'Garner. She barely projects the authority of a '
-                          'nurse, let alone a doctor, even though female '
-                          "doctors in the 70's (and maybe today) were "
-                          'second-class citizens.',
+            'name': 'Outstanding movie about important themes.',
+            'reviewBody': 'This movie is wonderful. It contains all the '
+                          'elements of a great movie. It has a strong script, '
+                          'excellent acting, compelling themes and terrific '
+                          'cinematography. This movie contains what is '
+                          "probably Matthew McConaughey's best performance. He "
+                          'carries the movie. He is in just about every scene. '
+                          'The movie deals with several themes - AIDS, '
+                          'terminal illness, government regulations, response '
+                          'to crisis, change of life issues, homosexuality, '
+                          'promiscuity, personal responsibility, and '
+                          'capitalism. All these themes are treated '
+                          'forthrightly.After watching this movie, one should '
+                          'come away with a better understanding and '
+                          'appreciation of the issues raised. But although the '
+                          'movie touches on themes that have political '
+                          'implications, it is first and foremost a drama. '
+                          'Although the movie takes some literary license, '
+                          'such as frank depictions of sickness and drug '
+                          'abuse, none of it is gratuitous. That is, it adds '
+                          'to the story.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi2069674777',

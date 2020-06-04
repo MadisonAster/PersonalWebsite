@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Silicon-Valley',
  'EntryURL': 'https://www.imdb.com/title/tt2575988',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Silicon-Valley/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Silicon-Valley/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Silicon-Valley/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Silicon-Valley/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0771414/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 119276,
+                     'ratingCount': 119281,
                      'ratingValue': '8.5',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -47,35 +46,35 @@
  'keywords': 'computer,startup,satanist,business rivalry,computer nerd',
  'name': 'Silicon Valley',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'alexeykorovin'},
-            'dateCreated': '2014-04-18',
+            'author': {'@type': 'Person', 'name': 'SnoopyStyle'},
+            'dateCreated': '2019-12-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2575988/'},
-            'name': 'Hilarious',
-            'reviewBody': 'As a programmer and an app entrepreneur myself I '
-                          'absolutely liked the first 2 episodes so far. I '
-                          'hope this will be a great series overall. \n'
+            'name': 'fun with heart',
+            'reviewBody': "Richard Hendricks (Thomas Middleditch), Nelson 'Big "
+                          "Head' Bighetti (Josh Brener), Bertram Gilfoyle "
+                          '(Martin Starr), and Dinesh Chugtai (Kumail '
+                          'Nanjiani) are poor working programmers struggling '
+                          'to build the next big thing, Piped Pipper. Erlich '
+                          'Bachman (T.J. Miller) is the arrogant homeowner who '
+                          'sees himself as incubator for new programmers with '
+                          "10% interest. Richard and Big Head's day job is "
+                          'working for Hooli under self-important CEO Gavin '
+                          'Belson (Matt Ross). Monica Hall (Amanda Crew) works '
+                          'for VC Peter Gregory and later awkwardly cold '
+                          "Laurie Bream (Suzanne Cryer). Donald 'Jared' Dunn "
+                          '(Zach Woods) realizes the potential of Piped Pipper '
+                          'and shows it to Gavin Belson.\n'
                           '\n'
-                          "Btw I also like other Mike Judge's works: the "
-                          'Beavis & Butthead cartoon series and the Idiocracy '
-                          'movie.\n'
-                          '\n'
-                          "I've never been to California and never worked for "
-                          'Google or Apple but I know this western IT culture '
-                          'pretty well, and the series makes good laugh of it. '
-                          'The main character should have taken 10 million :) '
-                          'Now the whole series will be about how he gets '
-                          'trampled over and over by the vultures of '
-                          'capitalism. Should be fun to watch.\n'
-                          '\n'
-                          "On a side note, it's great to see movies finally "
-                          'catching up with the new realities of life. '
-                          'Facebook, Twitter, Instagram - these words now play '
-                          'a vital role in lives of the vast share of the '
-                          "world's population, but movie directors have been "
-                          'far from these areas until now. Good work Mike, '
-                          'keep it coming! :)',
+                          'This is a fun show about the new Titans and the new '
+                          'Greek tragedies. These are flawed yet loveable '
+                          "characters. Middleditch portrays Richard's self "
+                          'doubt and insistent vision perfectly. Gilfoyle and '
+                          "Dinesh are a perfect comedy duo. It's a new world "
+                          "and we're only living in it. Other than a minor "
+                          "road bump that is T.J. Miller's personal problem, "
+                          'Mike Judge has created the next Office Space.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

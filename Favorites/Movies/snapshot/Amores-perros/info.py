@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Amores-perros',
  'EntryURL': 'https://www.imdb.com/title/tt0245712',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Amores-perros/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Amores-perros/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Amores-perros/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Amores-perros/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -45,31 +44,39 @@
              'perspectives,nonlinear timeline',
  'name': 'Amores perros',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'LanaKane'},
-            'dateCreated': '2001-04-23',
+            'author': {'@type': 'Person', 'name': 'WriterDave'},
+            'dateCreated': '2003-06-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0245712/'},
-            'name': 'Masterpiece!!',
-            'reviewBody': 'This movie is a must-to-see if you can get over the '
-                          "'subtitles' fact. (I didn't have no problems with "
-                          'it because I understand Spanish). Personally I was '
-                          'really impressed by the quality, perfection, and '
-                          'superb acting of this Mexican movie. The movie '
-                          'consists of three different stories connected by '
-                          'one sole incident. Sometimes you will see the same '
-                          "scene from a different point of view. Or you'll see "
-                          'an out of place scene that will make sense later '
-                          'on. The script was exquisite, very loyal to the '
-                          'culture. The direction was brilliant keeping us '
-                          'interested from beginning to end. And the '
-                          'performances were excellent, so natural and real '
-                          'that you felt as if they were people you knew. Be '
-                          "aware there's extreme violence in this movie, and "
-                          'even though there were kids in the theater I went '
-                          "to, this is not a family movie. I don't recommend "
-                          'it for children if you are a responsible parent. '
-                          'This movie deserves an award.'},
+            'name': 'Doggie Holocaust makes for Best Mexican Film Ever',
+            'reviewBody': "Some people just won't want to sit through this "
+                          'film because of the overtly graphic and disturbing '
+                          'dog fighting scenes, which is ironic, because most '
+                          "people don't seem to mind the graphic violence "
+                          'involving the people in this film. Others simply '
+                          "won't watch it because of the subtitles. This is a "
+                          'shame, since this is by far the best film I have '
+                          'ever seen come out of Mexico (far better and more '
+                          'complex than the comparably immature "Y Tu Mama '
+                          'Tambien"). Here we get an intertwining tale '
+                          'involving dog fights, petty gangsters, a tragically '
+                          'injured model, a cheating husband, an abused '
+                          'teenage wife, and a homeless hit man. As you might '
+                          'expect the homeless hit man becomes the soul of the '
+                          'film, and the dogs serve as a link, reminding us of '
+                          'the violence we inflict upon each other and nature, '
+                          'and the fractured relationships we think beyond '
+                          'repair, but are actually more resilient than we '
+                          'could ever imagine. Brilliantly directed with a '
+                          'great soundtrack and a bigger heart than you might '
+                          'initially perceive, "Amores Perros" is a deep, '
+                          'thought-provoking and utterly enthralling film that '
+                          'you will not soon forget.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '9',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Original trailer - do not delete without '
                             'contacting gamazoa -',

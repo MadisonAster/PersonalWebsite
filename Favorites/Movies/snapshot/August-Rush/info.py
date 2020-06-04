@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/August-Rush',
  'EntryURL': 'https://www.imdb.com/title/tt0426931',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/August-Rush/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/August-Rush/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/August-Rush/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/August-Rush/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -53,34 +52,33 @@
  'keywords': 'baby,cellist,prodigy,rhapsody,genius',
  'name': 'August Rush',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Jesusgrl792488'},
-            'dateCreated': '2007-11-07',
+            'author': {'@type': 'Person', 'name': 'askjudyww'},
+            'dateCreated': '2007-11-22',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0426931/'},
-            'name': 'A brilliant movie.',
-            'reviewBody': 'This was an absolutely brilliant movie. I saw it at '
-                          'the special premiere to the Grammy Recording '
-                          "Academy members a the WB studios in Burbank. It's "
-                          'an absolutely amazing story with a brilliant cast '
-                          'and a soundtrack that will blow you away. '
-                          'Apparently, both Freddie Highmore, keri '
-                          'russell,Jonathan Rhys Meyers learned most of the '
-                          'songs and played/sang them themselves, which is '
-                          'very impressive once you see the movie. John from '
-                          'five for fighting wrote a few songs on the '
-                          'soundtrack as well. Music is the common thread that '
-                          'keeps the entire movie together and completes it '
-                          'into the masterpiece of a movie that it is. '
-                          'Although at times, there may seem like there are '
-                          'gaps in the story line/character development, the '
-                          'point of this is that the music is what '
-                          'communicates those hidden details of the '
-                          'movie.Overall, this film is a masterpiece that '
-                          'should be cherished by music-lovers everywhere.',
+            'name': 'Cynics Need Not Apply',
+            'reviewBody': 'This is an urban fairy tale. If you go to AUGUST '
+                          'RUSH with the intention of poking holes in it, you '
+                          'can find little glitches and logic flaws. On the '
+                          'other hand, if you are looking for a movie that '
+                          'will sing to your soul (and show you some beautiful '
+                          'eye candy as a bonus), look no farther. The casting '
+                          'director and cinematographer should each get an '
+                          'award. This gem of a movie takes us on a journey, '
+                          'and the people we meet along the way are well worth '
+                          'the ticket price. \n'
+                          '\n'
+                          'A trio of beautiful performances form the heart of '
+                          'this film, although the secondary characters are '
+                          'also crisply compelling. A day after seeing it, I '
+                          'find that specific shots of their faces still glow '
+                          'in mind like pieces of a mosaic. And the music is a '
+                          'genuine addition, as it should be in a film of this '
+                          'kind. I was genuinely moved.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'August Rush Trailer',

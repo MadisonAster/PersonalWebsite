@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Futurama',
  'EntryURL': 'https://www.imdb.com/title/tt0149460',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Futurama/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Futurama/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Futurama/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Futurama/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Billy West', 'url': '/name/nm0921942/'},
@@ -19,7 +18,7 @@
             'url': '/name/nm0534134/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 207333,
+                     'ratingCount': 207334,
                      'ratingValue': '8.4',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -42,30 +41,48 @@
  'keywords': 'alien,robot,delivery boy,future,doctor',
  'name': 'Futurama',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Aaron1375'},
-            'dateCreated': '2003-03-10',
+            'author': {'@type': 'Person', 'name': 'Baldrick44'},
+            'dateCreated': '2004-10-13',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0149460/'},
-            'name': 'I actually like it better than The Simpsons',
-            'reviewBody': "Don't get me wrong, I like the Simpsons, but there "
-                          'is just something about Futurama that I like more.  '
-                          'It irks me to see people who hate this show and are '
-                          "glad it is cancelled.  If you don't like a show "
-                          "just don't watch it...to many shows have gotten a "
-                          'premature axe these days mainly cause television '
-                          "networks haven't realized no show is going to have "
-                          'the ratings of shows from the past.  I am sure to '
-                          'all those who hated the show, there have been shows '
-                          'you liked that have been cancelled as well.  This '
-                          'one about a pizza boy frozen and waking up in the '
-                          'future was for me quite enjoyable.  Which is the '
-                          'kiss of death right there, because if I like a '
-                          'show, it usually does get cancelled and it usually '
-                          'does have a pretty good following, but for some '
-                          'reason the networks still somehow think all shows '
-                          'should average 20 or more million viewers or its a '
-                          'failure.'},
+            'name': 'The best cartoon series on TV ever',
+            'reviewBody': 'I loved Futurama when it was TV and I always find '
+                          'myself watching it on my DVD player ( I have all 4 '
+                          'series ). I think the thing that carries it above '
+                          "other cartoons ( and it's not like I don't like the "
+                          'Simpsons or Family Guy ) is the wonderful mix of '
+                          'characters. Dimwitted Phillip J. Fry, who has '
+                          'trouble constructing a coherent sentence and '
+                          'whenever he attempts to say something profound it '
+                          'invariably ends up flying back in his face. Turanga '
+                          'Leela, a outcast amongst outcasts, who when not '
+                          'brushing off Fry is captaining the ship between '
+                          'planets while wondering about her own origins. '
+                          'Bender, a wisecracking, gambling chain-smoking '
+                          'robot that is on the crew of the ship for no '
+                          'apparent reason apart from bumming around. Dr '
+                          'Zoidberg, a penniless joke of a medical '
+                          'practionioner that has no friends and seems to '
+                          'ignite hostility for just being him. Hermes Conrad, '
+                          'a Rastafarian bureaucrat who when not limboing for '
+                          'his nation is filing and shredding with an '
+                          'obsessive fever. Professor Hubert J. Farnsworth, '
+                          'whose wonderous inventions are perhaps only '
+                          'eclipsed by his seemingly growing amorality towards '
+                          'almost all living things. Amy Wong, the daughter of '
+                          'the rich Wong family and as such finds herself '
+                          'slightly naive about things that are deeper than '
+                          'hair gel and nail polish. Add to this the military '
+                          'hijinks of Zapp Brannigan and his long-suffering '
+                          'lieutenant Kif Croker as well as thespian robot '
+                          'Calculon, Warlord alien Lur and President Nixon as '
+                          'well as others and I think you have a group of '
+                          'characters that all have their own quirks and flaws '
+                          'to add to a very funny show.\n'
+                          '\n'
+                          'I only hope that they have enough sense to put it '
+                          'back on again.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from 20th Century Fox Home '
                             'Entertainment',

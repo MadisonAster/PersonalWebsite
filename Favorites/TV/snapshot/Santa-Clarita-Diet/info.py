@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Santa-Clarita-Diet',
  'EntryURL': 'https://www.imdb.com/title/tt5580540',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Santa-Clarita-Diet/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Santa-Clarita-Diet/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Santa-Clarita-Diet/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Santa-Clarita-Diet/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm1711114/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 53370,
+                     'ratingCount': 53371,
                      'ratingValue': '7.8',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -42,18 +41,20 @@
              'relationships',
  'name': 'Santa Clarita Diet',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ashleyfreis'},
-            'dateCreated': '2019-05-12',
+            'author': {'@type': 'Person', 'name': 'asl_han'},
+            'dateCreated': '2019-05-14',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5580540/'},
-            'name': "Don't cancel!!",
-            'reviewBody': 'This is an amazingly hilarious show!! Very upset '
-                          "it's being cancelled. Makes me want to cancel "
-                          'Netflix subscription',
+            'name': "DON'T CANCEL THE SHOW!",
+            'reviewBody': 'It is weirdly the best comedy show that I have seen '
+                          'for a long time. It makes me laugh out loud while '
+                          "disgusted at the same time. It doesn't deserve to "
+                          'be canceled in its 3rd season at all. Especially '
+                          'like this.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'True love never dies? "Santa Clarita Diet" Season '

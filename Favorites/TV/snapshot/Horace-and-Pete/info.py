@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Horace-and-Pete',
  'EntryURL': 'https://www.imdb.com/title/tt5425186',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Horace-and-Pete/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Horace-and-Pete/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Horace-and-Pete/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Horace-and-Pete/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Louis C.K.', 'url': '/name/nm0127373/'},
@@ -35,58 +34,59 @@
  'keywords': 'web series,bar,character name in title',
  'name': 'Horace and Pete',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'fball114'},
-            'dateCreated': '2016-02-10',
+            'author': {'@type': 'Person', 'name': 'mikem-35771'},
+            'dateCreated': '2016-02-29',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5425186/'},
-            'name': 'Quality tragedy',
-            'reviewBody': "It seems to me that one of Louis CK's strengths is "
-                          'the authentic nature of the dialogue. Given the '
-                          'quality of the actors in this thing, it makes for '
-                          'some captivating viewing.\n'
+            'name': 'Perfect casting, beautiful script, wonderful  all-around',
+            'reviewBody': 'What an incredible piece of art by Louis CK. There '
+                          'are very few movies or shows that have managed to '
+                          'captivate me the way this series has. It does an '
+                          'excellent job of presenting different perspectives '
+                          'on beliefs, morals and ideals and really bringing '
+                          'to conscious thought the internal struggles we all '
+                          'deal with but often fail to realize everyone else '
+                          'is dealing with in different ways as well. This is '
+                          'definitely not a comedy although it can be funny at '
+                          'times. The still camera shot style of filming makes '
+                          'it feel like a theatrical drama and it is very '
+                          'raw.\n'
                           '\n'
-                          'I found the bar-discussion about politics, etc, to '
-                          'be very entertaining and well-paced. It was almost '
-                          'a little Aaron- Sorkinesque and I loved it. Also '
-                          'amazing to see how up-to-date it is?! Talk about '
-                          'fresh material. I thought the accountant-bit was '
-                          'funny.\n'
+                          'I think opinions will be rather polarizing, with '
+                          'artfully minded, highly empathetic personality '
+                          'types really appreciating the show and everyone '
+                          'else being bored by it. There is so much subtle, as '
+                          'well as not so subtle brilliance present but the '
+                          'subtleties really make the show and I think they '
+                          "might be missed by a lot of Louis CK's general "
+                          'audience. The show is slow paced, utilizes lots of '
+                          'long shots of dialogue and could only be pulled off '
+                          'with top notch scripting, casting and acting, and '
+                          'it absolutely nails it in all these departments.\n'
                           '\n'
-                          'The main plot about the family was engaging and '
-                          'managed to pull me in. It was depressing and dark, '
-                          'but still somehow not exhausting to watch. I am not '
-                          "actually a big fan of Louie's darker episodes, I "
-                          "don't have the patience or the inclination to spend "
-                          'my time being challenged and depressed. I want it '
-                          'to be funny and entertaining. But even so, I watch '
-                          'and value the darker Louie episodes, and I watched '
-                          'and enjoyed this. As I said, there is this '
-                          'theater-like presentation and at the same time '
-                          'feels so authentic! When Buscemi says "and you give '
-                          'our whiskey to this stranger" (or something), I get '
-                          'the feeling that the characters have had their own '
-                          'thoughts and feelings while our attention was '
-                          'diverted.\n'
+                          'Each episode is produced and released in the same '
+                          'week, which is pretty incredible. This means that '
+                          'episodes can adapt to and discuss very current '
+                          'events which often makes the topics of discussion '
+                          'much more interesting. The downside is that such a '
+                          'short production cycle sometimes results in '
+                          'somewhat raw editing, but I find that sometimes '
+                          'adds to the charm. I think producing this '
+                          'particular show in this way was a brilliant call by '
+                          'Louis CK and the pros far outweigh the cons.\n'
                           '\n'
-                          "It's fun to see Louis use these very typical, "
-                          'almost cliché transitions (walking down the stairs '
-                          "to change scenes, etc) and making it work? It's "
-                          'very well made. I loved the diegetic music, '
-                          'watching Alda establish his presence by reacting to '
-                          'it.\n'
-                          '\n'
-                          'There is no laughter-track or audience referencing '
-                          'at all. You are totally left to your own devices as '
-                          'a viewer, to laugh or dislike at your own '
-                          "discretion. It's kind of artistic, in that it "
-                          'challenges you to like it or shove off?\n'
-                          '\n'
-                          "While I wasn't enjoying watching it, as it was sad "
-                          'and not my typical kind of thing, I am glad that I '
-                          "did. It's great watching something this well made.",
+                          "If you watch the first episode and don't like it, "
+                          "don't expect it to get any better. If you watch the "
+                          'first episode and like it, they keep getting better '
+                          'and draw you in more and more as you learn more '
+                          'details of the characters lives and back-stories. '
+                          "This really is a masterpiece showcase of Louie CK's "
+                          'talents. It may just go down as one of the most '
+                          'underrates shows ever but I hope it gains the '
+                          'recognition it deserves.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'url': '/title/tt5425186/'}

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Founder',
  'EntryURL': 'https://www.imdb.com/title/tt4276820',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Founder/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Founder/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Founder/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Founder/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0004802/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 112726,
+                     'ratingCount': 112735,
                      'ratingValue': '7.2',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -47,65 +46,89 @@
  'keywords': 'f word,swindle,burger,franchising,ambition',
  'name': 'The Founder',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'rockman182'},
-            'dateCreated': '2017-02-05',
+            'author': {'@type': 'Person', 'name': 'eddie_baggins'},
+            'dateCreated': '2016-11-24',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4276820/'},
-            'name': 'The Founder (2017)',
-            'reviewBody': 'This film is not really what you expect it to be. '
-                          'Upon first glance at the trailer you would think '
-                          'its the story of the founder of McDonalds who comes '
-                          'from nothing and works hard to start a global fast '
-                          "food chain. That's really not what this was about. "
-                          'I would say this film is quite unique; I never '
-                          'expected the roots of a popular fast food chain to '
-                          "get a film. I'd be lying if I said I wasn't "
-                          "intrigued to see the film though. Overall, I'd say "
-                          'its a mixed bag with a stronger first section than '
-                          'second.\n'
+            'name': 'Keaton shines in this fascinating biopic',
+            'reviewBody': 'For many the thought nowadays of takeaway food is '
+                          'but a convenience we all enjoy (some more than '
+                          'others) but at one stage during human history the '
+                          'very idea of having your burger, fries and ice-cold '
+                          'Coke ready in mere seconds was a novelty that began '
+                          'sweeping the nation of America before taking over '
+                          'the world as we now know it today. \n'
                           '\n'
-                          'Michael Keaton plays Ray Kroc, a down out of luck '
-                          'milk shake mixer salesman, who one day stumbles '
-                          'upon a restaurant owned by the McDonald brothers. '
-                          'This restaurant innovative service where orders are '
-                          'made in 30 seconds or less, through the technical '
-                          'setup of equipment, staff, and assembly line-like '
-                          'practices. Kroc becomes enamored with the idea of '
-                          'fast food chains and eventually sets into motion '
-                          'multiple stores around the country, much to the '
-                          'brothers behest. Kroc is not a lovable guy at all, '
-                          'if anything he is an extremely selfish, '
-                          'self-motivated snake who betrays his partners and '
-                          'family. Keaton is perfectly fine in this yet again '
-                          'continuing his acting resurgence.\n'
+                          'A staple for over 60 years, McDonalds restaurants '
+                          'are a mainstay of everyday life, a reliable source '
+                          'of cheeseburger delicacies, crispy French fries and '
+                          'refreshing beverages that continue to supply the '
+                          'goods to those both young and those young at heart. '
+                          'When consuming McDonalds however, its unlikely many '
+                          'of us have ever truly considered where this '
+                          'establishment was born from and thankfully for all '
+                          'us, the story is a real doozy. \n'
                           '\n'
-                          'There is betrayal and greed at every turn, thus the '
-                          "films marketing doesn't prepare you for the type of "
-                          'greedy character seen in Kroc. It is what it is and '
-                          'this is probably how many business men get ahead in '
-                          'life. It was interesting to hear the McDonald '
-                          'brothers story and seeing just how the first store '
-                          'started up. As stated earlier, the film starts off '
-                          'very engaging but goes through lapses of being '
-                          'uninteresting despite being in an unfamiliar place '
-                          'from a storytelling perspective.\n'
+                          "It's often the case these days that high profile, "
+                          'well-marketed biopics are reliable as a Big Mac '
+                          "(you always know what you're going to get) but John "
+                          "Lee Hancock's film is imbedded with both an energy "
+                          'and pace that elevates it above the usual bio-fair '
+                          'and with another awards worthy turn from Michael '
+                          'Keaton as its centrepiece, this enthralling slice '
+                          'of history is a fabulously entertaining ride tinged '
+                          "in nostalgic 1950's vibes and garnished with a "
+                          'quick- smart script from The Wrestler screenwriter '
+                          'Robert D. Siegel. \n'
                           '\n'
-                          "I wasn't sure if this was going to be one of the "
-                          'Oscar season pictures but after seeing it I can see '
-                          "why it isn't because it becomes too generic and "
-                          "doesn't really offer much worth talking about "
-                          "besides a story that may be shocking to people. I'm "
-                          'not really sure if its a film we needed but at the '
-                          'very least you may be interested to see the history '
-                          'of probably the most recognizable fast food chain '
-                          'in the world. They should rename this film The '
-                          'Thief.\n'
+                          'Capturing the time, place and allurement of this '
+                          'mankind changing business model, The Founder does a '
+                          'great job of transporting us back in time as we '
+                          'ride alongside struggling salesman Ray Kroc, whose '
+                          'eyes are opened when he comes across the McDonald '
+                          'brothers, whose business model of "fast food" '
+                          'finally gives Ray the chance his so longed for all '
+                          'his life, to make a buck and then some. \n'
                           '\n'
-                          '6.5/10',
+                          "Keaton's performance as Kroc is quite the feat. His "
+                          'a genuinely cold and calculated character but as '
+                          'the film begins we are happy to see him put in the '
+                          'hard yards as his franchise model of stores takes '
+                          "off but as the brand grows so does Kroc's ego and "
+                          "Keaton's performance morphs naturally as it does in "
+                          'fascinating and unexpected ways.\n'
+                          '\n'
+                          'Come the films later stages, the real feat of '
+                          "Keaton's turn comes into the spotlight and what "
+                          "we're left with is a layered character brought to "
+                          "life by the performer, whether it's in comical "
+                          'situations or brutally raw moments shared with '
+                          'lawyers, Keaton is on fire here and while his ably '
+                          'supported by the likes of Nick Offerman and John '
+                          'Carroll Lynch as the unfortunate McDonald brothers '
+                          'Dick and Mac, The Founder is founded off the back '
+                          "of Keaton's turn and whilst unlikely that this film "
+                          'will find itself in to many awards categories, '
+                          'Keaton is looming as a key player in the upcoming '
+                          'awards season.\n'
+                          '\n'
+                          'The Founder is one of those rare biopics that grabs '
+                          "you from the get-go and doesn't let up. \n"
+                          '\n'
+                          'A well shot, scored and acted studio film that '
+                          'tells a story worth telling (plus one of the best '
+                          "advertisements McDonald's has never paid for), The "
+                          'Founder offers a fascinating insight into the '
+                          "beginnings of the McDonald's brand that also gives "
+                          'us an equally fascinating real life figure and '
+                          'another chance for the career revival of Michael '
+                          'Keaton to continue on its merry way. \n'
+                          '\n'
+                          '4 milkshake sachets out of 5',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Ray Kroc, a struggling salesman from Illinois, '

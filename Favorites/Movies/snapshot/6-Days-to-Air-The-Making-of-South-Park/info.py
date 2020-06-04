@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/6-Days-to-Air-The-Making-of-South-Park',
  'EntryURL': 'https://www.imdb.com/title/tt2076781',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/6-Days-to-Air-The-Making-of-South-Park/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/6-Days-to-Air-The-Making-of-South-Park/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/6-Days-to-Air-The-Making-of-South-Park/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/6-Days-to-Air-The-Making-of-South-Park/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -37,38 +36,35 @@
  'keywords': 'making of,countdown,television show,number in title',
  'name': '6 Days to Air: The Making of South Park',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Michael_Elliott'},
-            'dateCreated': '2012-07-29',
+            'author': {'@type': 'Person', 'name': 'gavin6942'},
+            'dateCreated': '2012-09-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2076781/'},
-            'name': "Very Good Even If You're Not a Fan of the Series",
-            'reviewBody': '6 Days to Air: The Making of South Park (2011) \n'
+            'name': 'A Look Inside the South Park Studio',
+            'reviewBody': 'This documentary is pretty much exactly what it '
+                          'says: a look inside the studio and how a small '
+                          'group of dedicated people are able to bring a '
+                          'cartoon to your home each week with only days to go '
+                          'from scratch to screen.\n'
                           '\n'
-                          '*** 1/2 (out of 4) \n'
+                          'My biggest disappointment is the length of this '
+                          'thing. Clearly it was designed to fit within an '
+                          'hour of television, but I would think they could '
+                          'have put more for those who did not watch the '
+                          'original run (I saw it on Netflix, for example). '
+                          'There was not much discussion of the movies these '
+                          'guys made, and how films like "Cannibal the '
+                          'Musical" fit into the story of Parker and Stone.\n'
                           '\n'
-                          'Fun documentary with the title referring to how '
-                          'long it takes the South Park group to come up with '
-                          'their ideas, write the dialogue, do the animation '
-                          'and get the finish product on the air. I think it '
-                          'goes without saying but this is mainly going to '
-                          "appeal to South Park fans, although I'm someone who "
-                          "hasn't watched the shows in ages yet it still kept "
-                          'me entertained and reminded me what a funny show it '
-                          'actually is. I really enjoyed seeing all of the '
-                          "behind the scenes stuff that's gone over as it "
-                          'really lets you in to see how tough the job '
-                          'actually is. Some of the best stuff happens in the '
-                          "writer's room where they discuss how for every one "
-                          'great idea they have a hundred bad ones. We see how '
-                          'they come up with the ideas, work them out and how '
-                          'they ultimately decide on whether or not to use '
-                          'them. From here we see the vocal work that has to '
-                          "be done and then of course there's the animation. "
-                          'The episode the guys are working on here is the one '
-                          'where Cartman keeps saying his mother is "screwing" '
-                          'him. Trey Parker and Matt Stone are both '
-                          'interviewed throughout the process and we also get '
-                          'a brief history of how the show started and their '
-                          'trip to the Oscars.'},
+                          'That aside, I think it was a good peak at how these '
+                          'guys work, and it is interesting to see Bill Hader '
+                          'in on the fun, too. I knew some episodes were made '
+                          'last minute, but I was not aware that the show '
+                          'consistently worked that way. It is an amazing '
+                          'feat.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '7',
+                             'worstRating': '1'}},
  'url': '/title/tt2076781/'}

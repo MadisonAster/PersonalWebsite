@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Robot-Chicken',
  'EntryURL': 'https://www.imdb.com/title/tt0437745',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Robot-Chicken/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Robot-Chicken/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Robot-Chicken/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Robot-Chicken/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Seth Green', 'url': '/name/nm0001293/'},
@@ -47,26 +46,36 @@
  'keywords': '2000s,2010s,animal in series title,bird in series title,toy',
  'name': 'Robot Chicken',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'hobojos'},
-            'dateCreated': '2005-04-03',
+            'author': {'@type': 'Person', 'name': 'J-bot6'},
+            'dateCreated': '2015-03-27',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0437745/'},
-            'name': 'One of the funniest shows on TV',
-            'reviewBody': 'I first saw this show in the corner of a Glory Days '
-                          'Bar&Grill while I was watching the NCAA tournament. '
-                          'Even without the volume I could tell that it would '
-                          'be a show worth watching. The first thing that I '
-                          'saw was Mr. Rogers standing in front of the train '
-                          'set going through his house. He called one of the '
-                          'stage hand boys to come to him because something '
-                          'was off on the train and then he took the kids head '
-                          'and stuffed it into a little lake by the train '
-                          'track and said in his calm voice, I TOLD YOU TO FIX '
-                          "THIS. If that isn't great TV I don't know what is. "
-                          'I just watched a new episode tonight called a piece '
-                          'of action, and it was just as good as the rest. I '
-                          "can't wait for this show to come to DVD."},
+            'name': 'Hit and miss',
+            'reviewBody': "When this show's skits are good, they're generally "
+                          'really good.\n'
+                          '\n'
+                          "However, there's an unfortunate tendency for shows "
+                          'like this to eventually degrade into unfunny '
+                          'territory. You can generally tell when the '
+                          'gross-out jokes start to outnumber the legitimately '
+                          'funny ones. This same issue plagued Aqua Teen '
+                          "Hunger Force as well. Likely it's a result of "
+                          'writers getting too used to each other in an '
+                          'insular environment with few trusted people to '
+                          'check or critique their work.\n'
+                          '\n'
+                          'Having said that, Robot Chicken is a fantastic show '
+                          'for people who know and love their pop culture '
+                          'references. Stop-motion is the ideal format and the '
+                          'patience of the animators is very much '
+                          'appreciated.\n'
+                          '\n'
+                          'Well worth a look.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '7',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Watch the Season 9 Trailer that "Robot Chicken" '
                             'brought to Comic-Con 2017.',

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Pi',
  'EntryURL': 'https://www.imdb.com/title/tt0138704',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Pi/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Pi/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Pi/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Pi/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0366466/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 166250,
+                     'ratingCount': 166251,
                      'ratingValue': '7.4',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -60,54 +59,37 @@
  'keywords': 'cult film,the letter pi,go,mathematician,headache',
  'name': 'Pi',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'quixoboy'},
-            'dateCreated': '2003-10-05',
+            'author': {'@type': 'Person', 'name': 'cultovone'},
+            'dateCreated': '1999-11-09',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0138704/'},
-            'name': 'Genius!',
-            'reviewBody': 'I have yet to come even close to fully appreciating '
-                          'the sheer artistry and complexity of Darren '
-                          "Aronofsky's stunning mathematical/sci-fi thriller, "
-                          '"Pi". Watching this film, one can tell from the '
-                          'subdued effects, grainy black-and-white filter, and '
-                          'guerrilla-style filmmaking that this must be a '
-                          'low-budget independent film - NOT to try and '
-                          'downplay its impact, as many independent films can '
-                          'clearly surpass any typical Hollywood movie, in '
-                          'terms of style and subject matter.\n'
+            'name': 'Finding God through the ancient language of Mathematics',
+            'reviewBody': 'Pi is the oddest, hippest, most chilling account of '
+                          'the descent into the abyss.\n'
                           '\n'
-                          '"Pi" is a perfectly concrete example of how the '
-                          'relative absence of special effects, explosions, '
-                          'etc. can still help create an engaging, and '
-                          'thoroughly unique viewing experience. Overflowing '
-                          'with intensity and hyperkinetic camerawork, this is '
-                          'a frightening roller-coaster ride of a film; '
-                          'despite clocking in at less than 90 minutes, "Pi" '
-                          'is by no means short on resonance - but rather '
-                          'leaves a heavy feeling of exuberance and '
-                          'fascination with the material that lasts long after '
-                          "it's finished. At the same time, though, people who "
-                          "aren't as open-minded to more obscure, abstract "
-                          'films like this would be, I think, surprised. This '
-                          'is not as complicated or bewildering a film as I '
-                          'had expected. If one can be able to focus intently '
-                          "on the story, the result is rewarding, and doesn't "
-                          'provide for much head-scratching. Its style seems '
-                          'rather modern, rather hip...at times it reminded me '
-                          'of "The Matrix" (which, ironically, was released '
-                          'the FOLLOWING year) what with its slick techno '
-                          'musical score and its flashy opening credits.\n'
+                          'Following mathematical clues derived from an '
+                          'analysis of the stock market, Maximillian Cohen '
+                          'begins his descent into madness as he attempts to '
+                          'discover the nature of everything through the '
+                          'peculiar numerical entity known as Pi.\n'
                           '\n'
-                          'To shy away from this film simply because of its '
-                          'math content is to be completely shallow and '
-                          'ignorant. The way it handles the material is a '
-                          "whole lot more interesting than you'd probably "
-                          'think. Like "A Beautiful Mind", "Pi" is an instant '
-                          'classic that serves to re-awaken my erratic '
-                          "interests in my poorest subject, mathematics. It's "
-                          "original, it's interesting, and above all - "
-                          'genius.'},
+                          'Thrilling enough, but then combine with generous '
+                          'amounts of Kaballistic mysticism, black and white '
+                          'footage and a soundtrack like an audible fractal, '
+                          'and you have a sensory snare which drags you along '
+                          "for the ride into Max's impending breakdown.\n"
+                          '\n'
+                          'Obsession has never been so exciting.\n'
+                          '\n'
+                          'Pi is an utterly gut-wrenching, mind expanding '
+                          'phenomema. If you have ever wondered about the '
+                          'universe, God or the nature of insanity, Pi will '
+                          "take you where you don't want to go.",
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '9',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Artisan',
              'embedUrl': '/video/imdb/vi1904214297',

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Cashback',
  'EntryURL': 'https://www.imdb.com/title/tt0460740',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Cashback/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Cashback/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Cashback/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Cashback/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -19,7 +18,7 @@
             'url': '/name/nm2931729/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 81490,
+                     'ratingCount': 81491,
                      'ratingValue': '7.2',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -45,28 +44,53 @@
              'vagina,labia',
  'name': 'Cashback',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ira2004'},
-            'dateCreated': '2006-07-11',
+            'author': {'@type': 'Person', 'name': 'volkstuintje'},
+            'dateCreated': '2007-05-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0460740/'},
-            'name': 'A rare film that really stands out!',
-            'reviewBody': 'Having seen the film a few times, I can really say: '
-                          "'I don't think there is a person out there who "
-                          "wouldn't enjoy watching this great piece. It's a "
-                          'formula that works beautifully. It is cool - '
-                          'without being pretentious. It is beautiful and sexy '
-                          '- without being cheesy. Very few films touch a '
-                          'chord in you. This film certainly does that. I '
-                          'think, those individuals who express a lot of '
-                          'negativity towards the film - have issues. Deal '
-                          'with them first - then watch the film. Being a '
-                          'regular cinema visitor and very familiar with the '
-                          'standard of films we get fed, I can happily and '
-                          'confidently confirm that this film is a gem that '
-                          'really shines!',
+            'name': '"You just have to see that love is wrapped in beauty and '
+                    'hidden away in between the seconds of your life. If you '
+                    'don\'t stop for a minute, you might miss it"',
+            'reviewBody': 'You find the most beautiful films when you least '
+                          'expect it. Yesterday I went to the Sneak Preview in '
+                          "the local cinema and I came out happier then I've "
+                          'been in weeks. Cashback is an odd combination of '
+                          'teen comedy and romance and the best thing is that '
+                          'it works! The story involves around Ben, an art '
+                          'student. He just had a rough (literally and '
+                          'figurative) break-up with Suzy. Ben has problems to '
+                          "forget Suzy. He can't sleep anymore and is "
+                          'emotionally broken. To speed up the eight hours he '
+                          'used to sleep, he starts working night shifts at '
+                          "Sainsbury's. The film follows Ben's process of "
+                          'dealing with his broken heart, while he is working '
+                          'with his silly colleagues.\n'
+                          '\n'
+                          'Effectively the film also tells the story about '
+                          "Ben's past which shows how his fascination with the "
+                          'female body began and how those things formed the '
+                          'way he thinks about things now. While working in '
+                          'the supermarket he likes to freeze time, to capture '
+                          'the beauty of little things, and to draw pictures '
+                          'of the (naked) female customers.\n'
+                          '\n'
+                          'This film is not about sex and teen jokes as some '
+                          'people probably will say. It is about having a '
+                          'broken heart, finding new love, finding someone '
+                          'that is the perfect other half of you. It is about '
+                          'beauty. The scenes where everything but Ben is '
+                          'frozen and he walks around the store drawing the '
+                          'portraits of the women just strike the right chord. '
+                          'Sean Ellis did a great job to make those scenes '
+                          "look that perfect. It's his ode to the female "
+                          'body.\n'
+                          '\n'
+                          'All I can say is that everybody should go and see '
+                          "this film. It's the best thing I've seen in a long, "
+                          'long time.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'url': '/title/tt0460740/'}

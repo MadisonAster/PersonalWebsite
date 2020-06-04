@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Bicentennial-Man',
  'EntryURL': 'https://www.imdb.com/title/tt0182789',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Bicentennial-Man/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Bicentennial-Man/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Bicentennial-Man/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Bicentennial-Man/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -53,33 +52,34 @@
  'keywords': 'robot,breaking a figurine,goofball,slapstick,android',
  'name': 'Bicentennial Man',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'nlebay'},
-            'dateCreated': '2005-01-02',
+            'author': {'@type': 'Person', 'name': 'hokanu127'},
+            'dateCreated': '2004-02-13',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0182789/'},
-            'name': 'More Depth than Appears on the Surface',
-            'reviewBody': 'Most people who have seen this movie are of the '
-                          'opinion that it was average at best. Indeed there '
-                          'is no complicated plot, no big action scenes and a '
-                          "predictable ending but there is a Story. It's "
-                          'Andrew with his Box of Chocolats, simply going '
-                          'through life searching for what eludes him and what '
-                          'we generally take for granted - humanity. The '
-                          'characters along the way are well acted - in '
-                          'particular the robot creator and his ditsy '
-                          "assistant. This movie is a tear jerker as Andrew's "
-                          'friends come and go and lifetimes pass him by '
-                          'without him really comprehending it all. The only '
-                          'real failings were the large gaps in time and how '
-                          "Andrew came about - but then it's difficult to "
-                          'compress 200 years into 1 1/2 hours. If you enjoyed '
-                          "Azimov's books as much as I did, then this movie is "
-                          'for you. Far better in my opinion than IA or I '
-                          'Robot who also took their cues from Azimov.',
+            'name': 'A good well-paced touching movie',
+            'reviewBody': 'This movie surprised me. Having been a fan of Issac '
+                          'Asimov for many years I thought that this '
+                          'adaptation with Chris Columbus at the helm would be '
+                          'terrible. I was wrong. Some may complain that this '
+                          'movie is too long and slow, but I would wager that '
+                          'their attention spans are somewhat lacking. If you '
+                          'are looking for a high action movie with robots '
+                          'then you have come to the wrong place. If you are '
+                          'looking for a sci-fi based romantic comedy about '
+                          'the personal growth of one man...er robot, then '
+                          'this is the movie. The comedy was well written and '
+                          'well played, appropriately placed in each moment. '
+                          'AS for the character of Andrew(Robin Williams), '
+                          'though he is supposed to be a robot you really '
+                          'connect with his character and sense his growth '
+                          'over time. Unlike A.I. his character learns and '
+                          'grows and has real not fabricated emotional '
+                          'attachments. I give this movie an 8 or 9. Very '
+                          'good.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Theatrical Trailer from Touchstone Pictures',

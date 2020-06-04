@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Company-Men',
  'EntryURL': 'https://www.imdb.com/title/tt1172991',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Company-Men/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Company-Men/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Company-Men/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Company-Men/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0725648/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 42649,
+                     'ratingCount': 42650,
                      'ratingValue': '6.7',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -47,73 +46,43 @@
              'nudity',
  'name': 'The Company Men',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'bob the moo'},
-            'dateCreated': '2012-09-29',
+            'author': {'@type': 'Person', 'name': 'Samiam3'},
+            'dateCreated': '2011-06-06',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1172991/'},
-            'name': 'The cast do well but it is a very tough sell and it '
-                    "doesn't quite manage it",
-            'reviewBody': 'This was a timely film given that the subject '
-                          'matter is the effect on men of losing their jobs '
-                          'and, as a result, their feelings of worth, their '
-                          'status within the world and to a certain extent '
-                          'their identity. It is not only timely in fact but '
-                          'it also had the potential to be very smart in '
-                          'regards the characters and the commentary on the '
-                          'challenges that start with money problems but go '
-                          'much deeper. To a certain extent the film manages '
-                          'to do this because it is at its best when it allows '
-                          'the characters to simply be on the screen and '
-                          'struggling with their situations, but there is a '
-                          'generalness to it that prevents it being '
-                          'consistently engaging and smart.\n'
+            'name': 'Good business movie, very good',
+            'reviewBody': "I don't know much about business, but that doesn't "
+                          "mean it's hard to appreciate a good business movie. "
+                          'Despite a few dumbed down bits, The Company Men, '
+                          'comes with a feeling of authenticity with some '
+                          'heart and decent performances from everybody. That '
+                          'is good enough for me.\n'
                           '\n'
-                          'The nature of the characters is a big part of it – '
-                          'perhaps not for everyone but for most viewers the '
-                          'problems of laid off executives may not be the '
-                          'easiest subject to care too much about. I know '
-                          'ultimately they are all people, but the problems of '
-                          'those having to give up Ferraris or no longer being '
-                          'able to maintain the lavish lifestyle they once had '
-                          'is not the most accessible of things; and it is a '
-                          'problem that it never quite shakes off because '
-                          'again of this general approach. The characters are '
-                          'interesting still though and it is a decent stab at '
-                          'seeing the struggle of becoming unemployed after '
-                          "many years working, it just doesn't do it well "
-                          'enough. The main character comes over as arrogant '
-                          'and ungrateful for too long – it is necessary at '
-                          'first but later on it becomes grating as it '
-                          'combines with his own decision to live to the '
-                          'maximum of his means rather than being a little '
-                          'more modest and saving some of his large income. '
-                          'The older characters get away with this a bit more '
-                          'since their stories tend to be more about the '
-                          'emotional impact rather than events and this does '
-                          'buy the film some good material but not enough to '
-                          'make up for the weaknesses in its central '
-                          'character.\n'
+                          'In a hundred minutes, The Company Men gives us a '
+                          'small taste of what The recession did to American '
+                          'business. It does so in a way that favours '
+                          'character over making anti-corporate statements. '
+                          'The movie chooses to zoom in on the lives of three '
+                          'sales executives and how they deal with job loss.\n'
                           '\n'
-                          'The cast help this a lot, even though they are '
-                          'nearly too distracting by how many famous faces '
-                          'there are. Affleck has the most time but does the '
-                          'least with it as he never manages to make a person '
-                          'from his situation and only just stops being '
-                          'annoying in time for a sentimental conclusion. '
-                          'Jones and Cooper are much better in their roles and '
-                          'they have more of the heart to play. Bello, '
-                          'Costner, Nelson and others are good in support; '
-                          'Walker is sadly only notable for how much weight he '
-                          'has put on since I first saw him in Oz.\n'
+                          "I've never been in love with Ben Affleck, but when "
+                          'he wants to, he can show some professionalism. In '
+                          'The Company Men he does just that, proving capable '
+                          'of hitting all the emotional notes when necessary, '
+                          'something I feel he missed in his previous film the '
+                          'Town.\n'
                           '\n'
-                          'The Company Men had potential to explore the male '
-                          'characters in a way that minimizes the distraction '
-                          "of their previous incomes however it doesn't quite "
-                          'manage it. The cast mostly do well but the central '
-                          'concept is too focused on events and too focused on '
-                          "an upbeat conclusion that the subject doesn't "
-                          'really merit.'},
+                          'The Company Men is actually a rather sad movie. It '
+                          'is only a hundred minute in length, but it feels '
+                          'longer. There is a good amount of talk, but nothing '
+                          'ever feels too contrived, wasted or unnecessary. Is '
+                          'it a brilliant film? No, but I can safely recommend '
+                          'it.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '8',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A year in the life of three men trying to survive '
                             'a round of corporate downsizing at a major '

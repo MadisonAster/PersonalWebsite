@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Deep-Web',
  'EntryURL': 'https://www.imdb.com/title/tt3312868',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Deep-Web/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Deep-Web/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Deep-Web/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Deep-Web/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -43,30 +42,23 @@
  'keywords': 'internet,dark web,tor hidden service,silk road,cypherpunk',
  'name': 'Deep Web',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'kosmasp'},
-            'dateCreated': '2017-01-22',
+            'author': {'@type': 'Person', 'name': 'ggiulia'},
+            'dateCreated': '2018-01-14',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3312868/'},
-            'name': 'Silk Road',
-            'reviewBody': 'Not heading to the Wizard of Oz, although I guess '
-                          'you will see a lot of colorful things if you go '
-                          "down that road. Actually it's a site where people "
-                          'sold drugs. But it was more than that. Sticking it '
-                          'to the man, making the public aware of how '
-                          'vulnerable we all are and how our privacy is being '
-                          'squashed everyday.\n'
-                          '\n'
-                          'Unfortunately it is actually more concerned of '
-                          'uncovering the Silk Road thing and the trial that '
-                          'commenced out of it, than diving into the deep '
-                          '(web). So the title may feel a bit misleading, '
-                          'nevertheless an intriguing movie to watch. So if '
-                          'you are not too obsessed about learning what the '
-                          'Deep Web is (it might be too technical anyway), '
-                          'this movie delivers as a documentary. Some '
-                          "questions raised are really important! Let's see "
-                          'where we go from here ...',
+            'name': 'One major contradiction?',
+            'reviewBody': 'The underlying message in this documentary is about '
+                          'seeking peace and avoiding violence... why do they '
+                          'interview and portray in a favourable way Cody '
+                          'Wilson, who, as far as I get it, is commercializing '
+                          'a DIY printable gun? Cody also speaks highly of '
+                          'Ross Ulbricht, whose goal seems to be eliminating '
+                          'the use of force in society. This contradicting '
+                          "aspect of the documentary I really didn't get. "
+                          "Having said this, Ulbricht's story seems "
+                          "heartwrecking and it doesn't sound like he had a "
+                          'fair trial.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '6',

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vice',
  'EntryURL': 'https://www.imdb.com/title/tt2782710',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vice/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vice/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vice/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vice/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -34,35 +33,41 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BYjU4OWM0NzktMmM1NS00ZWJiLWExNGEtYWFjZDdmMmRlNTdlXkEyXkFqcGdeQXVyNzEyMTk4Mzk@._V1_.jpg',
  'name': 'Vice',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'nickdanzinger'},
-            'dateCreated': '2013-07-10',
+            'author': {'@type': 'Person', 'name': 'gaboonviper-605-441518'},
+            'dateCreated': '2013-05-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2782710/'},
-            'name': 'Spectacular',
-            'reviewBody': 'I have been a fan of Vice for a few years now and '
-                          "I've always enjoyed their online videos. If you "
-                          'have spare time, I would highly recommend checking '
-                          'out their website or youtube channel. The special '
-                          'on the North Korean work camps in Russia and their '
-                          'videos taken in Columbia are particularly '
-                          'interesting. \n'
+            'name': 'Unpolished view of the extremes in the world.',
+            'reviewBody': 'There are two kinds of programs on T.V. at any '
+                          'given moment. Entertainment: which tends to either '
+                          'dumb down, or completely distort reality. And News: '
+                          'which is painted so objective and distant it gives '
+                          'no clues about the human motivation behind it all.\n'
                           '\n'
-                          'With that said, the Vice team really took it to '
-                          'another level with the HBO series. Just watching '
-                          'the show is invigorating, from the topics covered '
-                          'to the exotic locations to the people they managed '
-                          'to get interviews with. Everything just comes '
-                          'together perfectly. With all the amazing content '
-                          'found in these short 10 episodes, it saddens me '
-                          'that most of the Western world is more concerned '
-                          'with celebrity bulls---. \n'
+                          "Vice is nothing like anything I've ever watched. "
+                          "It's a documentary of the extremes in the world as "
+                          "they are now, and they aren't pretty. It's not so "
+                          'much objective as it is honest.\n'
                           '\n'
-                          'Do yourself a favour and enjoy the first season. '
-                          "You won't regret it!",
+                          "You get a glimpse of how it's really like living in "
+                          'places and situations they make movies about. '
+                          'Suddenly Afghanistan, China, rebellious Europe, and '
+                          "small-town USA aren't mystical places where things "
+                          "are completely backwards. It's just people who live "
+                          'in circumstances that are impossible. Circumstances '
+                          'where you and I would do exactly the same things as '
+                          "they are, if we didn't know how things could be.\n"
+                          '\n'
+                          'What I love most about this show, is the rawness. '
+                          "It's not trying to be a piece of art. It's not "
+                          "trying to spoon-feed you with their view. It's just "
+                          'trying to show you how it is.\n'
+                          '\n'
+                          "It's refreshing.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Vice: Basketball Diplomacy',

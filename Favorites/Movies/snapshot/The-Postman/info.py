@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Postman',
  'EntryURL': 'https://www.imdb.com/title/tt0119925',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Postman/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Postman/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Postman/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Postman/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0931404/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 67103,
+                     'ratingCount': 67106,
                      'ratingValue': '6.1',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -51,67 +50,77 @@
              'name as title',
  'name': 'The Postman',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'A-Ron-2'},
-            'dateCreated': '2000-02-19',
+            'author': {'@type': 'Person', 'name': 'fcfig'},
+            'dateCreated': '2004-11-30',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0119925/'},
-            'name': 'Well... I am glad to see that I am not the only person '
-                    'who liked this film',
-            'reviewBody': 'I truly do NOT understand why The Postman was '
-                          'attacked as viscously as it was by the film media '
-                          '(there films much more worthy of the Golden '
-                          'Raspberry Awards in 1997).  I loved this film and '
-                          'was very impressed with the loving amount of '
-                          'dedication that it demonstrates on the part of the '
-                          'actors, writers and director.  This was a GOOD '
-                          'movie: it had a strong and intelligent story; '
-                          'excellent and interesting characters; and real feel '
-                          'for the post-Apocalypse genre.  I felt that Kevin '
-                          "Costner's everyman act worked beautifully in this "
-                          'film and created a sense of reality for the '
-                          'character and of his situation. \n'
+            'name': 'Not as horrible as all that',
+            'reviewBody': '"The Postman" is one of those films that has become '
+                          'almost synonymous with the concept of "lousy, '
+                          'awful, horrible, terrible, stinking mess of a '
+                          'movie." Like "Plan 9 from Outer Space," "Ishtar," '
+                          'or "Gigli," it is sometimes invoked in this manner '
+                          'on Internet message boards or in chatter between '
+                          'friends. But is "The Postman" truly such a horrible '
+                          'disaster? I would argue that its bad reputation is '
+                          'overdone.\n'
                           '\n'
-                          ' As far as the sci-fi novel by David Brin, this '
-                          'film exceeded it in every way possible.  Where Brin '
-                          'had to rely on cheezy sci-fi standards (like '
-                          'supersoldiers) to resolve his story, this film does '
-                          'using only two men, both frauds, and both with '
-                          'radically different understandings of what '
-                          'constitutes a proper society.  That is what made '
-                          'this film great (and I rarely use the term great), '
-                          'that this film was essentially an examination of '
-                          'America and what America means.  It was a parable '
-                          'of sorts about the types of men Americans are and '
-                          'what they are capable of (notice that the head '
-                          'bad-guy had a traditional, classical education, '
-                          'while Costner did not; he appreciated these things '
-                          'but they were not at the center of his belief '
-                          'system... I wonder why).  \n'
+                          'Make no mistake, this movie is no "Citizen Kane." '
+                          'There is no way, by any stretch of the imagination, '
+                          'that this could be called a "great" movie. But '
+                          'every week B-movies that are orders of magnitude '
+                          'worse come out. What is it about this one that '
+                          'accounts for its enduring lousy reputation? This in '
+                          'itself is an interesting question.\n'
                           '\n'
-                          'While I do not agree with every aspect of this film '
-                          "(I am a Medievalist and a Platonist, so I don't "
-                          'necessarily feel the same way about the Western '
-                          'Canon that the film-maker may have), I still find '
-                          'it to be a beautiful reflection on the psyche of '
-                          'the American everyman.  America has a tradition of '
-                          'rejecting the absolutist ideals of the past in '
-                          'favor of the pragmatic relativism of today, and I '
-                          'think that this film is a parable of the divorce of '
-                          'America from the traditions of Europe.  \n'
+                          'Part of the answer has to do with Kevin Costner. It '
+                          'is hard to imagine now, but at one time (especially '
+                          'in the wake of "Dances with Wolves") his reputation '
+                          'in Hollywood was towering and unassailable. Costner '
+                          'squandered his mega-star status with a series of '
+                          'expensive yet mediocre duds such as this one, and '
+                          'in the end "The Postman\'s" crime is not that it is '
+                          'a truly terrible movie, but that it is simply a '
+                          "not-great movie that deflated the public's hopes "
+                          'and expectations of what Kevin Costner film should '
+                          'be. The curse of too-high expectations. \n'
                           '\n'
-                          'Overall, this is a complex and entertaining film '
-                          'and I highly recommend it to anyone interested in '
-                          'examinations of American culture and tradition, '
-                          'perhaps as a double feature with Citizen Cane (I am '
-                          'not, however, claiming that the Postman was as good '
-                          'a film as Citizen Cane, only that they have a '
-                          'similar theme... what does it mean to be an '
-                          'American?).',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
+                          'The worst aspect of this movie is its occasional '
+                          'pomposity and self-importance, derived from '
+                          "Costner's own enormous mid-90s ego, and it is easy "
+                          'to laugh at the final scene or various dramatic '
+                          'sequences with swirling symphonic music and '
+                          'glistening slo-mo shots. But if you can get beyond '
+                          'this and look at the movie as just a somewhat '
+                          'entertaining way to pass a few hours, it really '
+                          "isn't that bad, especially if you are a fan of the "
+                          '"dark future" genre of films. Will Patton in '
+                          'particular provides a good, convincing performance, '
+                          'as do a number of other minor characters.\n'
+                          '\n'
+                          'And the world of "The Postman" -- a decayed, '
+                          'post-apocalyptic, decentralized\n'
+                          '\n'
+                          'America where the federal government has collapsed '
+                          '-- is interesting in its own right. Remember, this '
+                          'film was borne of the early/mid 1990s, a time that '
+                          'gave us Timothy McVeigh, anti-government sentiment, '
+                          'Waco, and fear about "militias." There was a sense '
+                          'in the air that America could possibly disintegrate '
+                          'and fragment into local areas battling each other '
+                          'in the long run. This world view seems very alien '
+                          'in the post-9-11 era, where there is much more of a '
+                          'consciousness of being an American, "rallying '
+                          'around the flag," and the role of the federal '
+                          'government as a powerful military force, for good '
+                          'or for ill. Nowadays fear of outsiders and '
+                          'terrorism has largely replaced fears of internal '
+                          'anarchy and domestic unraveling. "The Postman" '
+                          'reminds us that not so long ago America envisioned '
+                          'its dark possible futures in a very different way '
+                          'than it currently does, and this in itself is '
+                          'instructive and worth pondering.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Miramax',
              'embedUrl': '/video/imdb/vi1861746969',

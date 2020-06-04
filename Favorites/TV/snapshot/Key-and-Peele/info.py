@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Key-and-Peele',
  'EntryURL': 'https://www.imdb.com/title/tt1981558',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Key-and-Peele/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Key-and-Peele/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Key-and-Peele/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Key-and-Peele/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -46,30 +45,35 @@
              'key,2010s,comedy central',
  'name': 'Key and Peele',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'junkion9'},
-            'dateCreated': '2012-07-15',
+            'author': {'@type': 'Person', 'name': 'TopDawgCritic'},
+            'dateCreated': '2017-03-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1981558/'},
-            'name': "Clever and Ahead of it's time",
-            'reviewBody': 'I was a bit afraid when I saw the teasers but blown '
-                          'away by the production value! Comedy is not just '
-                          'something to make you laugh. Comedy has levels to '
-                          'it watching Key & Peele I saw tragedy, Irony and '
-                          'humanity. There have been very few thought '
-                          'provoking comedy shows that have made me copy and '
-                          'paste youtube links and mail them to my friends. '
-                          'Key & Peele have somewhat tedious dialogs about '
-                          'their humdrum lives (sorry guys) But their comedic '
-                          'insights are brilliantly creative and should be '
-                          'revisited as ongoing themed webseries. I swear '
-                          'Jordan Peele is so dedicated to his scenes that his '
-                          'focus alone makes me laugh. This show is incredible '
-                          'and I search for new episodes of it in my comedy '
-                          'central on demand. Keep up the good work guys',
+            'name': 'Key and Peele make SNL look like the worst episode on '
+                    'Sesame Street',
+            'reviewBody': 'Key and Peele make SNL look like the worst episode '
+                          'on Sesame Street.\n'
+                          '\n'
+                          'If these two where put on earth to do this series '
+                          "and that's it, we've been blessed.\n"
+                          '\n'
+                          'This is top shelf comedic brilliance in every '
+                          'aspect. The quality of the skits is outstanding. '
+                          "I'm shocked how they fit so much entertainment in "
+                          '30 min. Yet it leaves me smiling all day. Even the '
+                          'extra actors in the skits have better acting skills '
+                          'than most of the hosts on SNL.\n'
+                          '\n'
+                          'Good days or bad days, these guys make me laugh.\n'
+                          '\n'
+                          'My only complaint is that I wish each episode was '
+                          'at least 60 min.\n'
+                          '\n'
+                          'And very sad this legendary series is over.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Key & Peele',

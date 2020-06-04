@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Rise-and-Rise-of-Bitcoin',
  'EntryURL': 'https://www.imdb.com/title/tt2821314',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Rise-and-Rise-of-Bitcoin/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Rise-and-Rise-of-Bitcoin/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Rise-and-Rise-of-Bitcoin/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Rise-and-Rise-of-Bitcoin/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -51,24 +50,31 @@
  'keywords': 'computer',
  'name': 'The Rise and Rise of Bitcoin',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'nima1981'},
+            'author': {'@type': 'Person', 'name': 'hkinsley-139-670964'},
             'dateCreated': '2014-10-21',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2821314/'},
-            'name': 'Global awakening ...',
-            'reviewBody': 'I watched this movie when it first aired officially '
-                          'at the House of Blues in Chicago prior to the 2014 '
-                          'Bitcoin conference there. I felt bursts of '
-                          'melancholy, joy and, yes, pride throughout the '
-                          'entire film. Daniel literally traveled the world '
-                          'and was there with some of the earliest Bitcoin '
-                          'pioneers and RECORDED it all. Nobody else has done '
-                          'that! This is a truly unique piece of history that '
-                          "you CANNOT miss, whether you're into Bitcoin or "
-                          'not. I truly believe that it will be remembered, '
-                          'talked about, and referenced for eternity or '
-                          'something close to it. Magnificent!!',
+            'name': 'Lacked what I expected, for the best',
+            'reviewBody': 'I expected this movie to be a pump-you-up about the '
+                          'amazing-ness of super technology Bitcoin. Instead, '
+                          'what I got was a very down-to- earth representation '
+                          'of the true grassroots nature of the Bitcoin.\n'
+                          '\n'
+                          'There was actually zero focus on the money you can '
+                          'make by investing, or really any allusions to the '
+                          'fact that you could invest now and get rich. \n'
+                          '\n'
+                          "It wasn't a movie telling you about why Bitcoin is "
+                          'great, they showed you. \n'
+                          '\n'
+                          'Definitely a real "community" feel to the movie, no '
+                          'glamour, just the dirt, really. I liked it a lot. \n'
+                          '\n'
+                          'I really think the title "the Rise and Rise of '
+                          'Bitcoin" is more fitting to the actual '
+                          'infrastructure and community of Bitcoiners, having '
+                          'very little to do with the price.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

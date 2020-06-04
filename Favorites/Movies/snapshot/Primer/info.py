@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Primer',
  'EntryURL': 'https://www.imdb.com/title/tt0390384',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Primer/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Primer/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Primer/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Primer/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm0881420/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 94674,
+                     'ratingCount': 94676,
                      'ratingValue': '6.9',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -44,30 +43,38 @@
              'timeline,invention,independent film',
  'name': 'Primer',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ghartwig'},
-            'dateCreated': '2007-08-26',
+            'author': {'@type': 'Person', 'name': 'wervyn'},
+            'dateCreated': '2005-08-16',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0390384/'},
-            'name': 'Very scientific, yet haunting',
-            'reviewBody': "There's something about this one. I just watched it "
-                          "three times straight through, and that's not "
-                          "normal. As a film, it's technically fine (music, "
-                          'direction, camera), even though it\'s an "amateur" '
-                          'production. I take some issue with the editing, '
-                          'however as it relates to the story-telling. Part of '
-                          "why I had to watch it a few times is that I wasn't "
-                          'figuring out what was going on. Portions were hard '
-                          'to follow or just not spelled out when they needed '
-                          "to be. I don't need hand-holding, but there's a lot "
-                          'of technical information to absorb in this one and '
-                          'I wish a few scenes were a bit more clear. But that '
-                          'adds mystery, I guess.\n'
-                          '\n'
-                          'I found the dialog to be extremely believable and '
-                          'it made me really believe that this could be '
-                          "something actually happening. That's part of what "
-                          'makes it haunting for me, I guess.',
+            'name': "For those who don't want movies to do their thinking for "
+                    'them.',
+            'reviewBody': 'An extremely intriguing and initially confusing '
+                          'tale of causality and human failings, Primer made '
+                          'me think of a much more technically minded Donnie '
+                          'Darko--and the temporal contortions are about ten '
+                          'times more complicated. This movie is obviously not '
+                          'for the casual viewer who sees movies as a strictly '
+                          'one-way experience. Primer requires a willingness '
+                          'to engage it as it conveys a carefully constructed '
+                          'puzzle of events that are not necessarily '
+                          'chronological. And it requires the audience to make '
+                          'the necessary leaps of intuition and deduction to '
+                          "put that puzzle together. It probably doesn't help "
+                          'that the language and tone of the movie is '
+                          'extremely technical, filmed and directed to capture '
+                          'the true-to-life mannerisms and speech of two '
+                          'college physics graduate students. But if you can '
+                          'grasp the premise presented in the introduction, '
+                          'you should be able to follow the movie up until the '
+                          'point where it leaves you in the dust near the end, '
+                          'wondering, as Abe, "How?". You realize that what '
+                          'you have seen is significant, but the full scope of '
+                          'it eludes you. And that makes the subsequent '
+                          're-watching and investigation and ultimate '
+                          'realization of the true nature of the puzzle all '
+                          'the more rewarding.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '8',

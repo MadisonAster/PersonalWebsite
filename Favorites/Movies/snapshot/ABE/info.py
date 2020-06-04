@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/ABE',
  'EntryURL': 'https://www.imdb.com/title/tt2883236',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/ABE/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/ABE/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/ABE/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/ABE/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Sam Hoare', 'url': '/name/nm2397390/'},

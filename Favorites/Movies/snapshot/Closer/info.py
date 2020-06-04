@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Closer',
  'EntryURL': 'https://www.imdb.com/title/tt0376541',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Closer/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Closer/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Closer/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Closer/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -45,39 +44,62 @@
  'keywords': 'love triangle,adultery,pubic hair,stripper,pole dance',
  'name': 'Closer',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'The Davii'},
-            'dateCreated': '2004-12-03',
+            'author': {'@type': 'Person', 'name': 'OverAnalysisBoy'},
+            'dateCreated': '2005-01-30',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0376541/'},
-            'name': 'The three years of my divorce wrapped into two hours',
-            'reviewBody': 'While I thought the characters were interesting, I '
-                          'found it very difficult to watch, as my own '
-                          'marriage disintegrated in a fashion too familiar to '
-                          'these characters. The lies, the half-truths, the '
-                          'inability to distinguish truth from lie after being '
-                          'told so many lies. I could completely relate to the '
-                          'characters in this movie.\n'
+            'name': 'Flawed and cold, but sharp and haunting.',
+            'reviewBody': "I've seen Closer described as a cinematic triumph, "
+                          "but it's precisely not. The film wears its "
+                          'theatrical origins on its sleeve, and the presence '
+                          'of the camera is mostly irrelevant.\n'
                           '\n'
-                          'Though I could laugh with it, it was nevertheless '
-                          "painful to watch. I couldn't recommend this movie "
-                          'to anyone except my ex-. Even then, I have trouble '
-                          "believing she's understand any part of it.\n"
+                          'It also fails in a more subtle way. Initially, I '
+                          'watched four apparently amoral people, devoid of '
+                          'depth or shame, being clever at each other in '
+                          'increasingly hurtful and exploitative ways, and my '
+                          "mind rebelled. This can't be right, I thought, "
+                          "people don't talk like this. Hell, people don't "
+                          '*act* like this.\n'
                           '\n'
-                          'This particular film was more like a documentary '
-                          'shot without the shaky hand-held camera. But, like '
-                          'the still photographs the movie mocks as being '
-                          'false, Closer allows only glimpses of the truth '
-                          'behind the myriad lies.\n'
+                          'Then the light dawned. The characters seemed '
+                          "inhuman because they are. They aren't people at "
+                          "all, they're philosophical positions. When they "
+                          "talk, they're not talking. They're saying the "
+                          'things that people only dare think, asking the '
+                          'questions that haunt anyone whose relationship has '
+                          "gone horrifically pear-shaped. This isn't the story "
+                          "of four people and four relationships, it's an "
+                          'attempt to compress everything the author believes '
+                          'about human relationships into a film and bend it '
+                          'into a story. It feels artificial because it is.\n'
                           '\n'
-                          'I want to be entertained at a movie and I cannot '
-                          "think of a single person to whom I'd recommend this "
-                          'movie. It was very well acted, scripted, and '
-                          'executed on all parts. But it was more painful than '
-                          'pleasant or enlightening.',
+                          'With that realisation, I actually began to enjoy '
+                          'it, because Closer is a very clever film. I wish I '
+                          'could disagree with more of it, because many of the '
+                          'things it has to say about human relationships are '
+                          "painfully true. Every mistake you've ever made in a "
+                          "relationship is in here, and it's guaranteed to "
+                          "make you squirm at least once. It's also blackly "
+                          'funny in many places.\n'
+                          '\n'
+                          'Without exception, the performances are fantastic, '
+                          "with the honours going to Natalie Portman's "
+                          'emotionally scarred escapist who wears lies like '
+                          "they were armour, and Clive Owen's brutal, "
+                          'perceptive, and ultimately absolutely human dirty '
+                          'doctor.\n'
+                          '\n'
+                          'Be warned! The marketing campaign may lead you to '
+                          "think it's a comforting rom-com, but it's not. I "
+                          "wouldn't advise going with your partner unless "
+                          "you're rock-solid. You may leave asking some "
+                          'uncomfortable questions, and wondering how well you '
+                          'really know them...',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for Closer',

@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Daily-Show',
  'EntryURL': 'https://www.imdb.com/title/tt0115147',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Daily-Show/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Daily-Show/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Daily-Show/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Daily-Show/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -21,7 +20,7 @@
             'url': '/name/nm1056659/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 43935,
+                     'ratingCount': 43936,
                      'ratingValue': '8.4',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -47,36 +46,22 @@
  'keywords': 'interview,1990s,2000s,2010s,2020s',
  'name': 'The Daily Show',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'tRiVi8L'},
-            'dateCreated': '2003-01-23',
+            'author': {'@type': 'Person', 'name': 'Jailynn'},
+            'dateCreated': '2000-06-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0115147/'},
-            'name': 'One of the funniest shows on TV.',
-            'reviewBody': "From Jon Stewart's zany wit to Stephen and Steven's "
-                          "outrageous sarcasm, to Lewis Black's volcanic "
-                          "sardonic rants, to Mo Rocca's clever political "
-                          'satire, to the sly, subtle, absurd humor from '
-                          'regulars such as Tolan, Woods, Walls, Helms, '
-                          'Corddry, Harris, et al. ... this wonderful, unique, '
-                          'insightful, and unbelievably hilarious tv show is '
-                          'truly a delight to watch.\n'
-                          '\n'
-                          'For many young adults, the complex truths and '
-                          'shades of grey in this new "adult world" tend to be '
-                          'oversimplified and broadly painted by the ratings '
-                          'crazed popular News Media.  It is a relief and a '
-                          'comfort to view a program to poke fun and point out '
-                          'the underlying absurdity of it all.  Understand, '
-                          'this show does not preach, and its intentions are '
-                          'first, and foremost, to crack jokes and promote '
-                          'laughter.  But in an era when lowbrow, kitschy '
-                          'humor and shock seem to be the easiest path to '
-                          'laughter, it is a pleasure and a blessing to have '
-                          'such a smart, witty, and insightful show as this '
-                          'one.\n'
-                          '\n'
-                          'Not to be missed.'},
+            'name': 'Jon Stewart is Great!',
+            'reviewBody': 'Jon Stewart has really picked this show up. I never '
+                          'liked it much when the other host was there, and I '
+                          'have watched it nearly every night since Jon '
+                          'started hosting.  I really like how he can deliver '
+                          'a joke and if it fails to generate a laugh, he can '
+                          'easily pick himself up and move on.  The '
+                          'correspondants are fantastic.  I get a kick out of '
+                          'all of them.  Those stories are wonderful.  If you '
+                          "haven't watched this before, my best comparison "
+                          'would be "Saturday Night Live\'s" Weekend Update.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'The Daily Show',
              'embedUrl': '/video/imdb/vi2072165401',

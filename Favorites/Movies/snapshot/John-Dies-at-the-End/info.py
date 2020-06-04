@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/John-Dies-at-the-End',
  'EntryURL': 'https://www.imdb.com/title/tt1783732',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/John-Dies-at-the-End/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/John-Dies-at-the-End/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/John-Dies-at-the-End/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/John-Dies-at-the-End/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -49,31 +48,27 @@
              'drug,bullet time',
  'name': 'John Dies at the End',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Fluke_Skywalker'},
-            'dateCreated': '2013-07-11',
+            'author': {'@type': 'Person', 'name': 'zentist-563-976986'},
+            'dateCreated': '2013-01-02',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1783732/'},
-            'name': 'An ambitious mess',
-            'reviewBody': "'John Dies at the End' is like the Matrix. One "
-                          'cannot be told what it is. They must see it for '
-                          'themselves. Veering wildly between inspired and '
-                          'tedious, it ultimately comes off like a (very) '
-                          'strange mish-mash of better and more coherent films '
-                          "like 'Ghostbusters', 'Dude, where's my car?', 'Bill "
-                          "& Ted's Excellent Adenture', 'Big Trouble in Little "
-                          "China' and the TV show 'Supernatural'.\n"
-                          '\n'
-                          "Director Don Coscarelli ('Phantasm', 'The "
-                          "Beastmaster', 'Bubba Ho-Tep') is the king of quirky "
-                          "cult cinema, and he's certainly in his element "
-                          'here. But the increasingly odd plot mechanics at '
-                          "play in 'John' are beyond even his skill to corral "
-                          'into something approaching entertainment.\n'
-                          '\n'
-                          "'John Dies at the End' is not a good film, but it's "
-                          'so *odd* that I feel I have to recommend it for the '
-                          'experience alone.',
+            'name': 'It runs of out steam after a good start',
+            'reviewBody': 'Like many independent movies, this one has a '
+                          'interesting idea at its base and some fairly decent '
+                          'acting but runs out of steam far too early. The end '
+                          'is almost Austin Powers like (i.e. silly). The '
+                          'technical quality fairly good but it is never able '
+                          'to get over the weak story line in the second part '
+                          "of the movie. I imagine Paul Giamatti's involvement "
+                          'was to lend a bit of credibility to the project. '
+                          'However, it is fairly clear that his scenes were '
+                          'shot in a single day (all are in the same Chinese '
+                          'restaurant), so the result is actually the reverse '
+                          'since the commercial motive of the casting is so '
+                          'evident. To sum up, they had me interested at the '
+                          'start and hopeful in the middle but bored and '
+                          'disappointed at the end.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '5',

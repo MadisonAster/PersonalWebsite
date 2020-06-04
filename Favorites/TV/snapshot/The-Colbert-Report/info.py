@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Colbert-Report',
  'EntryURL': 'https://www.imdb.com/title/tt0458254',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Colbert-Report/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Colbert-Report/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Colbert-Report/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Colbert-Report/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -47,36 +46,53 @@
              'title,surname in series title',
  'name': 'The Colbert Report',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'DrFilmFalm'},
-            'dateCreated': '2005-10-19',
+            'author': {'@type': 'Person', 'name': 'speckled10'},
+            'dateCreated': '2009-05-29',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0458254/'},
-            'name': 'This show is surprisingly awesome!',
-            'reviewBody': 'Colbert is right when he says that he has balls. He '
-                          "says things on his show that Jon Stewart doesn't "
-                          'have the balls to say for example: the "Better Know '
-                          'a District" in which he interviewed Jack Kingston.\n'
+            'name': 'Thank the heavens for Colbert ...',
+            'reviewBody': 'Where do I begin with Stephen Colbert and the '
+                          'report - quite simply it has revived my spirits '
+                          'that the world we live in can still bring to us a '
+                          'show and a person who can deliver what no-one else '
+                          'in any media can. \n'
                           '\n'
-                          '"So you were raised in Ethiopia?" "No I only lived '
-                          'there till I was 2 so I don\'t remember much." '
-                          '"What was it like being raised in Ethiopia?" Just '
-                          'some of the stuff he says gets me rolling. He then '
-                          'went on to call the man an African American and ask '
-                          'how it helps him to be an African American in '
-                          'congress and how he helps the working class.\n'
+                          'Incredibly funny, sharp, incisive, clever, biting '
+                          "the adjectives are endless. Colbert's brilliance is "
+                          '- as others have put it - the fake punch. '
+                          'Pretending to oppose his interviewees while '
+                          'actually pointing the sharp end at the corruption & '
+                          'evils of the world that we live in right now.\n'
                           '\n'
-                          'I also love "The Word" which is basically a moment '
-                          'for him to completely tear apart the issue of the '
-                          'night. Always on the side are random "pointers" '
-                          'that always have some funny connotation to them. '
-                          'Overall so far this show seems to be a resounding '
-                          'success and I hope it continues down this great '
-                          'path. I still love the Daily Show and think Comedy '
-                          'Central did what the fans wanted. Many fans wanted '
-                          'the Daily Show to be extended to an hour so this '
-                          'pretty much is what they wanted if not better.\n'
+                          'Stephen promotes Science, Space Travel, '
+                          'Environmental Awareness, Equality & '
+                          'Racial/Religious tolerance (he is the *ONLY* '
+                          'pro-catholic non-Christian-bashing person in any '
+                          'form of mainstream media anywhere on the planet '
+                          'right now). And he manages all this and many more '
+                          'positive messages with his incredibly funny, '
+                          'self-absorbed on-screen persona that rightfully has '
+                          "the audience in stitches when they're not on their "
+                          'feet cheering. \n'
                           '\n'
-                          'In the end the truth is that Stephen Colbert is '
-                          'awesome and his show is too.'},
+                          'I proudly bought my C.O.L.B.E.R.T. patch at NASA '
+                          'Kennedy Space Center (so good I had to buy two!) '
+                          'and will wear & display them to anyone who will '
+                          'notice, and try to tell as many people as I can to '
+                          'watch this show. \n'
+                          '\n'
+                          'So Heroes - you are all officially mobilized to '
+                          'Code-Sierra-Alpha, and spread the WORD to everyone '
+                          'about the greatest satirical show in the history of '
+                          'television !!\n'
+                          '\n'
+                          'Long live Stephen. Stephen for President. Stephen '
+                          'for Pope. Stephen for King. etc...\n'
+                          '\n'
+                          'Adrian',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '10',
+                             'worstRating': '1'}},
  'url': '/title/tt0458254/'}

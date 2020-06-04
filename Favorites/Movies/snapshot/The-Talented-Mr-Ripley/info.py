@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Talented-Mr-Ripley',
  'EntryURL': 'https://www.imdb.com/title/tt0134119',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Talented-Mr-Ripley/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Talented-Mr-Ripley/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Talented-Mr-Ripley/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Talented-Mr-Ripley/thumb.jpg',
  'actor': [{'@type': 'Person', 'name': 'Matt Damon', 'url': '/name/nm0000354/'},
@@ -45,91 +44,100 @@
  'keywords': 'nudity,italy,sociopath,male frontal nudity,neo noir',
  'name': 'The Talented Mr. Ripley',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'The_Void'},
-            'dateCreated': '2004-12-19',
+            'author': {'@type': 'Person', 'name': 'nathan19'},
+            'dateCreated': '2000-01-03',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0134119/'},
-            'name': 'Envigorating and effective masterpiece',
-            'reviewBody': 'When it comes to naming the best films of the '
-                          "1990's, The Talented Mr. Ripley hardly ever gets a "
-                          "mention. This is one of cinema's greatest "
-                          'mysteries; how can a film as well made, constantly '
-                          'intriguing and brilliantly conceived as this one '
-                          'constantly get passed over? And in favour of many '
-                          'under deserving films as well? Really strange. '
-                          "Almost as big a mystery as the one I've just "
-                          'mentioned is the web of intrigue created here. '
-                          'Through deep, complex characters and situations '
-                          'rich with double meaning, Anthony Minghella has '
-                          "turned Patricia Highsmith's original novel into a "
-                          'cinematic masterpiece. The talented Matt Damon '
-                          'stars as the talented man of the title that is '
-                          'offered $1000 to travel to Italy to try and return '
-                          'Dickie; the rich and spoilt son of a millionaire. '
-                          'What follows is a complex, disturbing and '
-                          'fascinating expose of a man ingratiating himself '
-                          'into the lives of Dickie, his girlfriend Marge and '
-                          'high society on the whole...\n'
+            'name': "Duality makes this film an heir to Hitchcock's classics.",
+            'reviewBody': 'Duality -- the ability to be one person in a '
+                          'certain situation, and another in another -- is the '
+                          'underlying and pervading theme of "The Talented Mr. '
+                          'Ripley."  It is a theme that sparks the central '
+                          'conflict of the picture, that influences each of '
+                          "the main character's decisions and actions.  Each "
+                          'character in the film is either pretending to be '
+                          'something else, or playing directly to a '
+                          'superficial identity.  The film unravels each of '
+                          "the character's motivations for doing so, and in so "
+                          'doing strips away the layers of reality we '
+                          'construct for ourselves.  Characters either uncover '
+                          'the explicit duality of their lives (Cate '
+                          "Blanchette's willingness to admit that she travels "
+                          'under another name), or have it uncovered for them '
+                          '(Tom Ripley). When each character is laid bare, '
+                          'when each character is most fully themselves, when '
+                          'each character stops acting and pretending, they '
+                          'are undone.\n'
                           '\n'
-                          'The main reason why The Talented Mr. Ripley works '
-                          "so well is that it's central characters are deep "
-                          'labyrinths that beg to explored and analysed. Every '
-                          'scene is rich with double meaning and character '
-                          'interactions that exist under the surface of the '
-                          'drama we are seeing on screen. The character of Tom '
-                          'Ripley is a true masterpiece of characterisation '
-                          'indeed. This sociopath, that would rather be "a '
-                          'pretend somebody than a real nobody" is a myriad of '
-                          'contradictions and muddled personalities. His '
-                          'actions are always amoral and through his lies and '
-                          "deception, it is obvious that he doesn't care at "
-                          'all for anyone around him. However, despite this; '
-                          'we are still able to feel for him through his '
-                          'tribulations. The story is told in such a way that '
-                          'it is difficult to feel for any of the other '
-                          'characters and all of our sympathies lie with the '
-                          'talented Tom Ripley. This puts the audience in a '
-                          "strange situation, as we're used to hating the "
-                          'antagonist and feeling for the protagonist, but '
-                          "this film turns that on it's head, and to great "
-                          'effect.\n'
+                          'The film presents a main character who does his '
+                          'best to pursue another life -- but he cannot '
+                          'ultimately follow through with it.  We are trapped '
+                          "by who we are, aren't we?  Gwyneth tries to become "
+                          "Dickie's ideal woman, to avoid asking him to settle "
+                          'down, but she cannot -- she wants the home and the '
+                          'family.  This is her undoing -- she weeps in the '
+                          'film, "I must have pressured him".  Dickie can\'t '
+                          'escape the fact that he loves the nightlife -- that '
+                          'he strays, that his attention only lasts as long as '
+                          'the diversion. He says he will marry Gwyneth, but '
+                          'we know that his eye can never stop roaming. This '
+                          "is his undoing.  Dickie's pal -- superficially "
+                          'polite, while snide and arrogant at the same time '
+                          '-- is much smarter than he appears, which leads to '
+                          'his undoing as well.  When each of the characters '
+                          'lets their guard down and becomes who they are, it '
+                          'destroys them.  Each of the characters has a tragic '
+                          'flaw that they try to ignore, or play to, a flaw '
+                          'which undoes the perfect lives they all pursue.\n'
                           '\n'
-                          "The film is helped implicitly by the fact that it's "
-                          'one of the most professionally made films ever to '
-                          'make it onto the screen. Every scene, every action, '
-                          'every line uttered is done with the greatest '
-                          'assurance and nothing at all in the film appears to '
-                          'be there by accident or out of place. The way that '
-                          'the characters interact with each other and their '
-                          'surroundings is always believable and we never '
-                          'question anything that is shown on screen. Anthony '
-                          "Minghella's direction is more than solid, and this "
-                          'is helped by the stunning photography, courtesy of '
-                          "1950's Italy. Many a film has benefited from "
-                          "Italy's landscape, and this is one of them. This is "
-                          "all great, but it's the performances that put the "
-                          'final finishing touch on this amazing masterclass '
-                          'of film-making. As mentioned, the talented Mr Damon '
-                          'takes the lead role and completely makes it his '
-                          'own. He often gets coupled with his friend, Ben '
-                          'Afleck, when it comes to acting; but this is very '
-                          "unfair as Damon is one of today's brightest stars. "
-                          'Jude Law and Gwyneth Paltrow make up the other two '
-                          "leads. I'm not the biggest fan of either of these "
-                          'two stars, but both, like Damon, give performances '
-                          'here that will always be associated with their '
-                          'personalities. Cate Blanchett has a small role, but '
-                          'the real plaudits for the smaller performances go '
-                          'to the brilliant Phillip Seymour Hoffman, who '
-                          "steals every scene he's in.\n"
+                          'The ironic twist is that Tom Ripley is the catalyst '
+                          'for all of this -- yet, his tragic flaw is that he '
+                          'has no flaw.  While each of the main characters has '
+                          'an identity they are running from, Ripley HAS no '
+                          'identity to speak of. He starts out pretending, and '
+                          'he pretends through the entire film.  Who IS Tom '
+                          'Ripley?  Even Tom himself wants to know.  One would '
+                          'think that this would enable him to become the '
+                          'perfect actor -- when you paint on a blank canvas, '
+                          'one would think you can paint anything.  But even '
+                          'Tom, blank as he is, distills down to someone -- '
+                          'even if it is a blank canvas, a "real nobody."  And '
+                          'it is not only himself he is unsure of -- it is the '
+                          'entire world around him.  Among his first lines in '
+                          'the film is a line uttered while listening to a '
+                          'jazz record -- he mumbles to himself, "Can\'t tell '
+                          'if it\'s a woman or a man."  It is this uncertainty '
+                          'that informs the world he sees, and how he relates '
+                          'to it.  Is Tom gay or straight?  Is he evil or '
+                          "good?  Even Tom doesn't know.\n"
                           '\n'
-                          'The Talented Mr. Ripley is one stunning piece of '
-                          "film. Ignore the people that don't consider this "
-                          "one of the 1990's greatest achievements; they are "
-                          'wrong. The film is a masterpiece of tense '
-                          'situations, great characterisation and professional '
-                          'film-making. And I refuse to hear otherwise.',
+                          'The film points out that we cannot run from our own '
+                          'darker half.  We are all tempted to become someone '
+                          'else -- anyone who has been made fun of in school, '
+                          'who has longed for the life of the rich and famous, '
+                          'can identify with this The enemy is not without, it '
+                          'is within.  It is this same duality which haunted '
+                          "and tormented so many of Hitchock's characters, "
+                          'most notably (but not exclusively) Norman Bates in '
+                          '"Psycho."  "The Talented Mr. Ripley" is a worthy '
+                          'heir to that film classic in its ability to get the '
+                          'audience to sympathize and empathize with Tom.  We '
+                          'feel his love for Dickie Greenleaf -- we feel his '
+                          'frustration at being shut out of his life -- we '
+                          'feel the awkwardness of being trapped in a '
+                          'situation that was never intended.  As we watched '
+                          "Marion Crane's car pause in the swamp and waited "
+                          'breathlessly, perversely hoping it would sink and '
+                          "allow Norman's mother to get away with murder, so "
+                          'too we watch Tom Ripley descend into darkness, and '
+                          'when the cops arrive at his hotel, we wait '
+                          'breathlessly with Tom, hoping he will get away.\n'
+                          '\n'
+                          'Duality is present within us all... and while we '
+                          'are taught "to thine own self be true," in this '
+                          'film it is only when we are true to ourselves, that '
+                          'true pain comes.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

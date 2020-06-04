@@ -4,7 +4,6 @@
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Klondike',
  'EntryURL': 'https://www.imdb.com/title/tt2761630',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Klondike/entry.json',
- 'Entry_php': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Klondike/info.php',
  'Entry_py': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Klondike/info.py',
  'Entry_thumb': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Klondike/thumb.jpg',
  'actor': [{'@type': 'Person',
@@ -37,62 +36,34 @@
  'keywords': 'tv mini series,set in canada,yukon territory,canadian content',
  'name': 'Klondike',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'larshevn'},
-            'dateCreated': '2015-01-04',
+            'author': {'@type': 'Person', 'name': 'spoonerdk'},
+            'dateCreated': '2014-01-21',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2761630/'},
-            'name': 'A victim of its own ambition',
-            'reviewBody': 'Klondike is one of those series I picked up because '
-                          'it looks fascinating, with a somewhat unorthodox '
-                          'setting. With gold digging as the historical '
-                          'background, you assume that this is what the series '
-                          'will also be about mostly - aside from all the '
-                          'frauds and the harsh climate. Alas, everything '
-                          'seems to be addressed only once throughout the '
-                          "series, because there isn't time to remind the "
-                          "viewer what's so perilous about the environment, "
-                          "and what's at stake. Instead the show aims to be a "
-                          'classical Western story featuring cold weather. \n'
-                          '\n'
-                          'The gold digging itself is also left completely out '
-                          "of the story. While I wouldn't want to watch a 6 "
-                          "hour series about digging gold, it's striking that "
-                          'a 20 page chapter of "The Life and Times of Scrooge '
-                          'McDuck" is more detailed in the process of '
-                          'extracting gold, than a 6 hour series produced by '
-                          "Discovery. At times it's easy to forget that the "
-                          'show is even taking place in Klondike, and not just '
-                          'any saloon in Santa Fe.\n'
-                          '\n'
-                          'Despite a good crew of actors, the characters are '
-                          'one-dimensional and there is little room for any '
-                          'character development. Although some of the '
-                          "characters undergo transitions, there's no "
-                          'development - they simply go from A to B while not '
-                          'giving the viewer any credible reason for their '
-                          'transition. The same goes for the relationships '
-                          'between the characters. Some characters that take '
-                          'up a lot of screen time are even completely '
-                          'redundant, and a waste of the precious time of a 6 '
-                          'episode mini-series. I can think of at least two '
-                          'subplots, without which the show would have lost '
-                          'virtually nothing, while gaining both time and '
-                          'coherence. \n'
-                          '\n'
-                          '"Klondike" bit off more than it could chew. A '
-                          'mini-series of 6 episodes is not equipped to deal '
-                          'with profound questions on the true value of gold, '
-                          'while also dealing with the position of females, '
-                          'the suppression of Native Americans, the '
-                          'presence/absence of hope and God, and so on. \n'
-                          '\n'
-                          'This series could and should have been a lot '
-                          'better.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '4',
-                             'worstRating': '1'}},
+            'name': 'Yuck',
+            'reviewBody': 'Very disappointing. Too many nonsensical story '
+                          'lines which detract from what a mini series on this '
+                          'subject could be. The script was weak, the dialogue '
+                          'was not of the era, the costumes were 21st century '
+                          'and some things just did not make sense or were '
+                          'completely unbelievable. Somebody needed to do a '
+                          'little more research on the subjects. When our hero '
+                          'fell out of the boat into the river, in the first '
+                          'episode, he would have probably died from '
+                          'hypothermia before the wolves even chased him. In '
+                          'the second episode our heroine could have reported '
+                          'the killing she witnessed to the Royal Canadian '
+                          'Mounted Police rather than let her competitor '
+                          'lumber mill operator continue to threaten the town. '
+                          'This series is a good example of how Hollywood can '
+                          'take a great subject and throw it right in the mud. '
+                          'I almost lost my stomach when the story line went '
+                          'so far as to interject antisemitism, race issues '
+                          "and women's suffrage into a show which I dialed in "
+                          'to be entertained. I watch TV not to be manipulated '
+                          'by the social engineers but to enjoy a good story. '
+                          "I don't think I can watch the third episode."},
  'trailer': {'@type': 'VideoObject',
              'description': 'Klondike',
              'embedUrl': '/video/imdb/vi3498884377',
