@@ -22,11 +22,15 @@ def main():
     GamesDir = 'Favorites/Games/snapshot'
     BookmarksDir = 'Favorites/Bookmarks/snapshot'
     
-    GetIMDB(GetURLs.GetFavoriteTVURL(), HtmlDir, TVDir)
-    GetIMDB(GetURLs.GetFavoriteMoviesURL(), HtmlDir, MoviesDir)
-    #GetGoodReads(GetURLs.GetFavoriteBooksURL(), BooksDir)
-    #GetRawg(GetURLs.GetFavoriteGamesURL(), GamesDir)
-    #GetFirefox(GetURLs.GetFavoriteBookmarksURL(), BookmarksDir)
+    if int(datetime.datetime.strftime(datetime.datetime.now(), '%d')) == 1: #UpdateAll every 1st of the month
+        UpdateAll = True
+    else:
+        UpdateAll = False
+    GetIMDB(GetURLs.GetFavoriteTVURL(), HtmlDir, TVDir, UpdateAll=UpdateAll)
+    GetIMDB(GetURLs.GetFavoriteMoviesURL(), HtmlDir, MoviesDir, UpdateAll=UpdateAll)
+    #GetGoodReads(GetURLs.GetFavoriteBooksURL(), HtmlDir, BooksDir, UpdateAll=UpdateAll)
+    #GetRawg(GetURLs.GetFavoriteGamesURL(), HtmlDir, GamesDir, UpdateAll=UpdateAll)
+    #GetFirefox(GetURLs.GetFavoriteBookmarksURL(), HtmlDir, BookmarksDir, UpdateAll=UpdateAll)
     pass
 
 def GetEntries(OutputDir, UsePy=False):
@@ -95,8 +99,6 @@ def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
     #print('GetIMDB!', url, HtmlDir, OutputDir)
     #match = soup.find('div', class_='footer')
     #for match in soup.find_all('div', class_='footer')
-    if int(datetime.datetime.strftime(datetime.datetime.now(), '%d')) == 1:
-        UpdateAll = True
     
     Entries = GetEntries(HtmlDir+OutputDir)
     URLList = GetIMDBListData(url)
@@ -147,21 +149,31 @@ def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
         
     WriteEntries(HtmlDir, Entries)
 
-def GetGoodReads(url, OutputDir):
+def GetGoodReads(url, HtmlDir, OutputDir, UpdateAll=False):
+    #print('GetIMDB!', url, HtmlDir, OutputDir)
+    #match = soup.find('div', class_='footer')
+    #for match in soup.find_all('div', class_='footer')
+    if int(datetime.datetime.strftime(datetime.datetime.now(), '%d')) == 1:
+        UpdateAll = True
+    
+    #Entries = GetEntries(HtmlDir+OutputDir)
+    #URLList = GetIMDBListData(url)
+    #TestData(Entries, URLList)
+    
+    #ExistingEntries = os.listdir(OutputDir)
+    #html = getAndSanitize(url)
+    
+    #with open(OutputDir+'/index.html', 'w') as file:
+    #    file.write(html)
+
+def GetRawg(url, HtmlDir, OutputDir, UpdateAll=False):
     ExistingEntries = os.listdir(OutputDir)
     html = getAndSanitize(url)
     
     with open(OutputDir+'/index.html', 'w') as file:
         file.write(html)
 
-def GetRawg(url, OutputDir):
-    ExistingEntries = os.listdir(OutputDir)
-    html = getAndSanitize(url)
-    
-    with open(OutputDir+'/index.html', 'w') as file:
-        file.write(html)
-
-def GetFirefox(url, OutputDir):
+def GetFirefox(url, HtmlDir, OutputDir, UpdateAll=False):
     ExistingEntries = os.listdir(OutputDir)
     html = getAndSanitize(url)
     
