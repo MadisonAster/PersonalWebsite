@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 import requests
 
 import GetURLs
+import ffmpegScripts
 
 def main():
     #scanURL(GetURLs.GetFavoriteTVURL_Old(),TVDir)
@@ -141,6 +142,13 @@ def GetIMDB(url, OutputDir, UpdateAll=False):
             jpg = urllib.urlopen(Entry['image'])
             with open(Entry['Entry_thumb'], 'wb') as file:
                 file.write(jpg.read())
+        streamdict = ffmpegScripts.ffmpeg_getStream(Entry['Entry_thumb'])
+        width = int(streamdict['width'])
+        height = int(streamdict['height'])
+        if width != 150 or height != 225:
+            print('resize required!', width, height)
+            ffmpegScripts.ResizeImage(Entry['Entry_thumb'], 150, 225)
+        
     WriteEntries(Entries)
 
 def GetGoodReads(url, OutputDir):

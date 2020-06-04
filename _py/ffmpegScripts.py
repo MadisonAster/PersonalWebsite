@@ -1,4 +1,4 @@
-import sys, re
+import os, sys, re
 import subprocess
 import datetime
 
@@ -17,7 +17,7 @@ def ffmpeg_getStream(filePath):
     streamInfo = proc.stdout.read()
     proc.stdout.close()
 
-    streamInfo = streamInfo.split('\r\n')
+    streamInfo = str(streamInfo).split('\\r\\n')
     for i in reversed(range(len(streamInfo))):
         if '=' not in streamInfo[i]:
             streamInfo.pop(i)
@@ -28,6 +28,18 @@ def ffmpeg_getStream(filePath):
         streamDict[line[0]] = line[1]
         
     return streamDict
+
+def ResizeImage(FilePath, width, height):
+    FilePath = FilePath.replace('\\','/')
+    streamdict = ffmpeg_getStream(FilePath)
+    owidth = int(streamdict['width'])
+    oheight = int(streamdict['height'])
+    TempPath = FilePath.rsplit('/',1)[0]+'/old_'+FilePath.rsplit('/',1)[-1]
+    os.rename(FilePath, TempPath)
+    ffmpegStr = "ffmpeg -i "+TempPath+" -vf scale="+str(width)+":"+str(height)+" "+FilePath
+    subprocess.call(ffmpegStr)
+    os.remove(TempPath)
+    
 
 def getItemStream(filePath):
     #Takes: filePath as valid sequence or video file path
