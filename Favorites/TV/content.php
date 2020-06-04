@@ -52,11 +52,11 @@ foreach ($TVdirs as &$dir){
             echo "    <br/>\n";
         };
         
-        #if ($infoArray['Added'] != 'NA' ){
-        #    echo "    Added:\n";
-        #    echo "    ".$infoArray['Added']."\n";
-        #    echo "    <br/>\n";
-        #};
+        if ($infoArray['EntryAdded'] != 'NA' ){
+            echo "    Added:\n";
+            echo "    ".$infoArray['EntryAdded']."\n";
+            echo "    <br/>\n";
+        };
         
         if ($infoArray['datePublished'] != 'NA' ){
             echo "    Released:\n";
