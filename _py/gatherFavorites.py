@@ -26,9 +26,9 @@ def main():
         UpdateAll = True
     else:
         UpdateAll = False
-    GetIMDB(GetURLs.GetFavoriteTVURL(), HtmlDir, TVDir, UpdateAll=UpdateAll)
-    GetIMDB(GetURLs.GetFavoriteMoviesURL(), HtmlDir, MoviesDir, UpdateAll=UpdateAll)
-    #GetGoodReads(GetURLs.GetFavoriteBooksURL(), HtmlDir, BooksDir, UpdateAll=UpdateAll)
+    #GetIMDB(GetURLs.GetFavoriteTVURL(), HtmlDir, TVDir, UpdateAll=UpdateAll)
+    #GetIMDB(GetURLs.GetFavoriteMoviesURL(), HtmlDir, MoviesDir, UpdateAll=UpdateAll)
+    GetGoodReads(GetURLs.GetFavoriteBooksURL(), HtmlDir, BooksDir, UpdateAll=UpdateAll)
     #GetRawg(GetURLs.GetFavoriteGamesURL(), HtmlDir, GamesDir, UpdateAll=UpdateAll)
     #GetFirefox(GetURLs.GetFavoriteBookmarksURL(), HtmlDir, BookmarksDir, UpdateAll=UpdateAll)
     pass
@@ -149,16 +149,19 @@ def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
         
     WriteEntries(HtmlDir, Entries)
 
+def GetGoodReadsListData(url):
+    URLList = []
+    
+    return URLList
+
 def GetGoodReads(url, HtmlDir, OutputDir, UpdateAll=False):
     #print('GetIMDB!', url, HtmlDir, OutputDir)
     #match = soup.find('div', class_='footer')
     #for match in soup.find_all('div', class_='footer')
-    if int(datetime.datetime.strftime(datetime.datetime.now(), '%d')) == 1:
-        UpdateAll = True
     
-    #Entries = GetEntries(HtmlDir+OutputDir)
-    #URLList = GetIMDBListData(url)
-    #TestData(Entries, URLList)
+    Entries = GetEntries(HtmlDir+OutputDir)
+    URLList = GetGoodReadsListData(url)
+    TestData(Entries, URLList)
     
     #ExistingEntries = os.listdir(OutputDir)
     #html = getAndSanitize(url)

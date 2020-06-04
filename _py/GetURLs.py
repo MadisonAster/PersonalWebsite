@@ -1,7 +1,3 @@
-def GetFavoriteTVURL_Old():
-    return 'http://www.primewire.ag/favorites/lolmuly'
-def GetFavoriteMoviesURL_Old():
-    return 'http://www.primewire.ag/watched/lolmuly'
 def GetFavoriteTVURL(pages=2):
     return 'https://www.imdb.com/list/ls098367816/?sort=list_order,asc&st_dt=&mode=detail&page=1'
 def GetFavoriteMoviesURL(pages=8):
