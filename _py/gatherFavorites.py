@@ -14,16 +14,16 @@ import ffmpegScripts
 def main():
     #scanURL(GetURLs.GetFavoriteTVURL_Old(),TVDir)
     #scanURL(GetURLs.GetFavoriteMoviesURL_Old(),MoviesDir)
-    htmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0]
+    HtmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0].replace('\\','/')
     
-    MoviesDir = htmlDir+'Favorites/Movies/snapshot/'
-    TVDir = htmlDir+'Favorites/TV/snapshot/'
-    BooksDir = htmlDir+'Favorites/Books/snapshot/'
-    GamesDir = htmlDir+'Favorites/Games/snapshot'
-    BookmarksDir = htmlDir+'Favorites/Bookmarks/snapshot'
+    MoviesDir = 'Favorites/Movies/snapshot/'
+    TVDir = 'Favorites/TV/snapshot/'
+    BooksDir = 'Favorites/Books/snapshot/'
+    GamesDir = 'Favorites/Games/snapshot'
+    BookmarksDir = 'Favorites/Bookmarks/snapshot'
     
-    GetIMDB(GetURLs.GetFavoriteTVURL(), TVDir)
-    GetIMDB(GetURLs.GetFavoriteMoviesURL(), MoviesDir)
+    GetIMDB(GetURLs.GetFavoriteTVURL(), HtmlDir, TVDir)
+    GetIMDB(GetURLs.GetFavoriteMoviesURL(), HtmlDir, MoviesDir)
     #GetGoodReads(GetURLs.GetFavoriteBooksURL(), BooksDir)
     #GetRawg(GetURLs.GetFavoriteGamesURL(), GamesDir)
     #GetFirefox(GetURLs.GetFavoriteBookmarksURL(), BookmarksDir)
@@ -46,13 +46,13 @@ def GetEntries(OutputDir, UsePy=False):
         Entries[Entry['EntryURL']] = Entry
     return Entries
 
-def WriteEntries(Entries):
+def WriteEntries(HtmlDir, Entries):
     for Entry in Entries.values():
-        with open(Entry['Entry_json'], 'wb') as file:
-            print('Writing', Entry['Entry_json'])
+        with open(HtmlDir+Entry['Entry_json'], 'wb') as file:
+            print('Writing', HtmlDir+Entry['Entry_json'])
             file.write(bytes(json.dumps(Entry), 'utf-8'))
-        with open(Entry['Entry_py'], 'wb') as file:
-            print('Writing', Entry['Entry_py'])
+        with open(HtmlDir+Entry['Entry_py'], 'wb') as file:
+            print('Writing', HtmlDir+Entry['Entry_py'])
             file.write(bytes(pformat(Entry), 'utf-8'))
 
 def GetIMDBListData(url):
@@ -93,12 +93,12 @@ def SanitizeTitle(Title):
             Result += '-'
     return Result
 
-def GetIMDB(url, OutputDir, UpdateAll=False):
-    print('GetIMDB!', url, OutputDir)
+def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
+    print('GetIMDB!', url, HtmlDir, OutputDir)
     #match = soup.find('div', class_='footer')
     #for match in soup.find_all('div', class_='footer')
     
-    Entries = GetEntries(OutputDir)
+    Entries = GetEntries(HtmlDir+OutputDir)
     URLList = GetIMDBListData(url)
     TestData(Entries, URLList)
     
@@ -106,7 +106,7 @@ def GetIMDB(url, OutputDir, UpdateAll=False):
         Entry = None
         if itemurl in Entries.keys():
             Entry = Entries[itemurl]
-            EntryPath = Entry['EntryPath']
+            EntryPath = Entry['EntryPath'].replace('W:/Portfolio/PersonalWebsite/', '')
             if 'review' in Entry.keys():
                 del Entry['review']
         if itemurl not in Entries.keys() or UpdateAll:
@@ -125,27 +125,27 @@ def GetIMDB(url, OutputDir, UpdateAll=False):
                 Item['EntryAdded'] = datetime.datetime.strftime(datetime.datetime.now(), '%m-%d-%Y')
             else:
                 Item['EntryURL'] = Entry['EntryURL'].replace('http://', 'https://').rstrip('/')
-                Item['EntryPath'] = Entry['EntryPath']
-                Item['Entry_py'] = Entry['Entry_py']
-                Item['Entry_json'] = Entry['Entry_json']
-                Item['Entry_thumb'] = Entry['Entry_thumb']
+                Item['EntryPath'] = Entry['EntryPath'].replace('W:/Portfolio/PersonalWebsite/', '')
+                Item['Entry_py'] = Entry['Entry_py'].replace('W:/Portfolio/PersonalWebsite/', '')
+                Item['Entry_json'] = Entry['Entry_json'].replace('W:/Portfolio/PersonalWebsite/', '')
+                Item['Entry_thumb'] = Entry['Entry_thumb'].replace('W:/Portfolio/PersonalWebsite/', '')
                 Item['EntryAdded'] = Entry['EntryAdded']
-            if not os.path.exists(EntryPath):
-                os.makedirs(EntryPath)
+            if not os.path.exists(HtmlDir+EntryPath):
+                os.makedirs(HtmlDir+EntryPath)
             Entry = Item #Overwrite possibly existing Entry reference here to update data
         Entries[Entry['EntryURL']] = Entry
-        if not os.path.exists(Entry['Entry_thumb']):
+        if not os.path.exists(HtmlDir+Entry['Entry_thumb']):
             jpg = urllib.urlopen(Entry['image'])
-            with open(Entry['Entry_thumb'], 'wb') as file:
+            with open(HtmlDir+Entry['Entry_thumb'], 'wb') as file:
                 file.write(jpg.read())
-        streamdict = ffmpegScripts.ffmpeg_getStream(Entry['Entry_thumb'])
+        streamdict = ffmpegScripts.ffmpeg_getStream(HtmlDir+Entry['Entry_thumb'])
         width = int(streamdict['width'])
         height = int(streamdict['height'])
         if width != 150 or height != 225:
             print('resize required!', width, height)
-            ffmpegScripts.ResizeImage(Entry['Entry_thumb'], 150, 225)
+            ffmpegScripts.ResizeImage(HtmlDir+Entry['Entry_thumb'], 150, 225)
         
-    WriteEntries(Entries)
+    WriteEntries(HtmlDir, Entries)
 
 def GetGoodReads(url, OutputDir):
     ExistingEntries = os.listdir(OutputDir)
