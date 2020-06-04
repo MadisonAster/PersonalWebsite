@@ -1,4 +1,4 @@
-import os, sys, re
+import os, sys, re, platform
 import subprocess
 import datetime
 
@@ -13,7 +13,7 @@ def ffmpeg_getStream(filePath):
     
     ffmpegStr = 'ffprobe "'+filePath+'" -v quiet -show_streams'
     
-    proc = subprocess.Popen(ffmpegStr, stdout=subprocess.PIPE)
+    proc = subprocess.Popen(ffmpegStr, stdout=subprocess.PIPE, shell=True)
     streamInfo = proc.stdout.read()
     proc.stdout.close()
 
@@ -37,7 +37,7 @@ def ResizeImage(FilePath, width, height):
     TempPath = FilePath.rsplit('/',1)[0]+'/old_'+FilePath.rsplit('/',1)[-1]
     os.rename(FilePath, TempPath)
     ffmpegStr = "ffmpeg -i "+TempPath+" -vf scale="+str(width)+":"+str(height)+" "+FilePath
-    subprocess.call(ffmpegStr)
+    subprocess.call(ffmpegStr, shell=True)
     os.remove(TempPath)
     
 
