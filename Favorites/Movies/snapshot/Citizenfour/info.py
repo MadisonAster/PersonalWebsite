@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2015-08-24',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Citizenfour',
  'EntryURL': 'https://www.imdb.com/title/tt4044364',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Citizenfour/entry.json',

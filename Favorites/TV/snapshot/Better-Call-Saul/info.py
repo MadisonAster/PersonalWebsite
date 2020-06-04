@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-02-11',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Better-Call-Saul',
  'EntryURL': 'https://www.imdb.com/title/tt3032476',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Better-Call-Saul/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-02-19',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Truman-Show',
  'EntryURL': 'https://www.imdb.com/title/tt0120382',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Truman-Show/entry.json',

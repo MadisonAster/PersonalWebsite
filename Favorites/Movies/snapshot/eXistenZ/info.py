@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-06-07',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/eXistenZ',
  'EntryURL': 'https://www.imdb.com/title/tt0120907',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/eXistenZ/entry.json',

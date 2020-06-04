@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-02-19',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Beach',
  'EntryURL': 'https://www.imdb.com/title/tt0163978',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Beach/entry.json',

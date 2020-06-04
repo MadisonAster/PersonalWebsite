@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2017-02-20',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Arrival',
  'EntryURL': 'https://www.imdb.com/title/tt2543164',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Arrival/entry.json',

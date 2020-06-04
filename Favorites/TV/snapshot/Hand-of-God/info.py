@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-09-07',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Hand-of-God',
  'EntryURL': 'https://www.imdb.com/title/tt3973768',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Hand-of-God/entry.json',

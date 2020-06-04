@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-02-23',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fat-Head',
  'EntryURL': 'https://www.imdb.com/title/tt1333994',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fat-Head/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2013-12-15',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Mob-City',
  'EntryURL': 'https://www.imdb.com/title/tt2176609',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Mob-City/entry.json',

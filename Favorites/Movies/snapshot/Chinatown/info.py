@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-02-24',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Chinatown',
  'EntryURL': 'https://www.imdb.com/title/tt0071315',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Chinatown/entry.json',

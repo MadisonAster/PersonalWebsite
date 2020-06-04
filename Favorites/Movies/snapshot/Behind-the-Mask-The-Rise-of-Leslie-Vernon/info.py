@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2016-10-23',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Behind-the-Mask-The-Rise-of-Leslie-Vernon',
  'EntryURL': 'https://www.imdb.com/title/tt0437857',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Behind-the-Mask-The-Rise-of-Leslie-Vernon/entry.json',

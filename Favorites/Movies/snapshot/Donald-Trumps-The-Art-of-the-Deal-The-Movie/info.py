@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2016-02-21',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Donald-Trumps-The-Art-of-the-Deal-The-Movie',
  'EntryURL': 'https://www.imdb.com/title/tt5456120',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Donald-Trumps-The-Art-of-the-Deal-The-Movie/entry.json',

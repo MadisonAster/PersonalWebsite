@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '06-03-2020',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/In-The-Tall-Grass',
  'EntryURL': 'https://www.imdb.com/title/tt4687108',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/In-The-Tall-Grass/entry.json',

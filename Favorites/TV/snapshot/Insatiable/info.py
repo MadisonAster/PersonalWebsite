@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '06-03-2020',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Insatiable',
  'EntryURL': 'https://www.imdb.com/title/tt6487482',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Insatiable/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2015-01-18',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Guarantee',
  'EntryURL': 'https://www.imdb.com/title/tt3843254',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Guarantee/entry.json',

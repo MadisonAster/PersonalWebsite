@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-02-19',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/American-Psycho',
  'EntryURL': 'https://www.imdb.com/title/tt0144084',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/American-Psycho/entry.json',

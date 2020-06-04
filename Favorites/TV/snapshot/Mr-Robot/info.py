@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-07-11',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Mr-Robot',
  'EntryURL': 'https://www.imdb.com/title/tt4158110',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Mr-Robot/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2014-12-19',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Degenerate-Art-The-Art-and-Culture-of-Glass-Pipes',
  'EntryURL': 'https://www.imdb.com/title/tt2123927',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Degenerate-Art-The-Art-and-Culture-of-Glass-Pipes/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2016-09-03',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Night-Of',
  'EntryURL': 'https://www.imdb.com/title/tt2401256',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Night-Of/entry.json',

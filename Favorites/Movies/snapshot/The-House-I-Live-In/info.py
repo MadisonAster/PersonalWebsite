@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-02-19',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-House-I-Live-In',
  'EntryURL': 'https://www.imdb.com/title/tt2125653',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-House-I-Live-In/entry.json',

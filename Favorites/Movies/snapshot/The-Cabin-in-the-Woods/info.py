@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2014-11-02',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Cabin-in-the-Woods',
  'EntryURL': 'https://www.imdb.com/title/tt1259521',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Cabin-in-the-Woods/entry.json',

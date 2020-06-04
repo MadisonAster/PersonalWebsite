@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVEpisode',
+ 'EntryAdded': '2015-08-08',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Sneaky-Pete',
  'EntryURL': 'https://www.imdb.com/title/tt4200136',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Sneaky-Pete/entry.json',

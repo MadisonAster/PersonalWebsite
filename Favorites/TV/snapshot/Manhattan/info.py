@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-07-15',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Manhattan',
  'EntryURL': 'https://www.imdb.com/title/tt3231564',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Manhattan/entry.json',

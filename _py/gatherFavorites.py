@@ -112,12 +112,13 @@ def GetIMDB(url, OutputDir, UpdateAll=False):
     TestData(Entries, URLList)
     
     for itemurl in URLList:
+        Entry = None
         if itemurl in Entries.keys():
             Entry = Entries[itemurl]
             EntryPath = Entry['EntryPath']
         if itemurl not in Entries.keys() or UpdateAll:
             Item = GetIMDBItemData(itemurl)
-            if itemurl not in Entries.keys():
+            if Entry == None:
                 EntryPath = OutputDir+'/'+SanitizeTitle(Item['name'])
                 EntryPath = EntryPath.replace('\\','/').replace('//','/')
             Item['EntryURL'] = itemurl
@@ -126,6 +127,22 @@ def GetIMDB(url, OutputDir, UpdateAll=False):
             Item['Entry_php'] = EntryPath+'/info.php'
             Item['Entry_json'] = EntryPath+'/entry.json'
             Item['Entry_thumb'] = EntryPath+'/thumb.jpg'
+            Item['EntryAdded'] = datetime.datetime.strftime(datetime.datetime.now(), '%m-%d-%Y')
+            if Entry != None:
+                if 'EntryURL' in Entry.keys():
+                    Item['EntryURL'] = Entry['EntryURL']
+                if 'EntryPath' in Entry.keys():
+                    Item['EntryPath'] = Entry['EntryPath']
+                if 'Entry_py' in Entry.keys():
+                    Item['Entry_py'] = Entry['Entry_py']
+                if 'Entry_php' in Entry.keys():
+                    Item['Entry_php'] = Entry['Entry_php']
+                if 'Entry_json' in Entry.keys():
+                    Item['Entry_json'] = Entry['Entry_json']
+                if 'Entry_thumb' in Entry.keys():
+                    Item['Entry_thumb'] = Entry['Entry_thumb']
+                if 'EntryAdded' in Entry.keys():
+                    Item['EntryAdded'] = Entry['EntryAdded']
             if not os.path.exists(EntryPath):
                 os.makedirs(EntryPath)
             Entry = Item #Overwrite possibly existing Entry reference here to update data

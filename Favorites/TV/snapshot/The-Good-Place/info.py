@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '06-03-2020',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Good-Place',
  'EntryURL': 'https://www.imdb.com/title/tt4955642',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Good-Place/entry.json',

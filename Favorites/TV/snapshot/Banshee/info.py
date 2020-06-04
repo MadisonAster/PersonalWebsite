@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2013-03-11',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Banshee',
  'EntryURL': 'https://www.imdb.com/title/tt2017109',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Banshee/entry.json',

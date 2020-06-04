@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2014-10-09',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Rise-and-Rise-of-Bitcoin',
  'EntryURL': 'https://www.imdb.com/title/tt2821314',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Rise-and-Rise-of-Bitcoin/entry.json',

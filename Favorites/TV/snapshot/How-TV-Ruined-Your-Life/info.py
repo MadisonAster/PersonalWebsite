@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-11-17',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/How-TV-Ruined-Your-Life',
  'EntryURL': 'https://www.imdb.com/title/tt1827733',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/How-TV-Ruined-Your-Life/entry.json',

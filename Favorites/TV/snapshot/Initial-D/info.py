@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2013-02-23',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Initial-D',
  'EntryURL': 'https://www.imdb.com/title/tt0385426',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Initial-D/entry.json',

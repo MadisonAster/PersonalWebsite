@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2015-01-18',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/American-Sniper',
  'EntryURL': 'https://www.imdb.com/title/tt2179136',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/American-Sniper/entry.json',

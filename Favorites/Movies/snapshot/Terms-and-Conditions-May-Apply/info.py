@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-08-18',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Terms-and-Conditions-May-Apply',
  'EntryURL': 'https://www.imdb.com/title/tt2084953',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Terms-and-Conditions-May-Apply/entry.json',

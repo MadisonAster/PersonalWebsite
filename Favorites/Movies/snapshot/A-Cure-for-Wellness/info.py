@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2017-05-27',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/A-Cure-for-Wellness',
  'EntryURL': 'https://www.imdb.com/title/tt4731136',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/A-Cure-for-Wellness/entry.json',

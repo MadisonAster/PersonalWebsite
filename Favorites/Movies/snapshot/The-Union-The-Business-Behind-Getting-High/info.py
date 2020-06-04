@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-02-24',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Union-The-Business-Behind-Getting-High',
  'EntryURL': 'https://www.imdb.com/title/tt1039647',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Union-The-Business-Behind-Getting-High/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-01-17',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/12-Monkeys',
  'EntryURL': 'https://www.imdb.com/title/tt3148266',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/12-Monkeys/entry.json',

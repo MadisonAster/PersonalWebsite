@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2016-02-16',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/112263',
  'EntryURL': 'https://www.imdb.com/title/tt2879552',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/112263/entry.json',

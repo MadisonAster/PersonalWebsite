@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-02-23',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fear-and-Loathing-in-Las-Vegas',
  'EntryURL': 'https://www.imdb.com/title/tt0120669',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Fear-and-Loathing-in-Las-Vegas/entry.json',

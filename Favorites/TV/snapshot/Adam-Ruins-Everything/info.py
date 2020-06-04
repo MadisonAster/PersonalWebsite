@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2016-11-24',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Adam-Ruins-Everything',
  'EntryURL': 'https://www.imdb.com/title/tt5034326',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Adam-Ruins-Everything/entry.json',

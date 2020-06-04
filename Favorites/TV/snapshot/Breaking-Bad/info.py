@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2011-08-19',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Breaking-Bad',
  'EntryURL': 'https://www.imdb.com/title/tt0903747',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Breaking-Bad/entry.json',

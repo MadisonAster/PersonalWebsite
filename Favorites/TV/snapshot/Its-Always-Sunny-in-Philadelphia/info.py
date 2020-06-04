@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2013-02-23',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Its-Always-Sunny-in-Philadelphia',
  'EntryURL': 'https://www.imdb.com/title/tt0472954',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Its-Always-Sunny-in-Philadelphia/entry.json',

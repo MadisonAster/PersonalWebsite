@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2011-11-09',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Unreported-World',
  'EntryURL': 'https://www.imdb.com/title/tt0477545',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Unreported-World/entry.json',

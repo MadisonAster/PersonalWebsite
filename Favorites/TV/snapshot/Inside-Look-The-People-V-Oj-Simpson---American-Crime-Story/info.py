@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '06-03-2020',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Inside-Look-The-People-V-Oj-Simpson---American-Crime-Story',
  'EntryURL': 'https://www.imdb.com/title/tt6205862',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Inside-Look-The-People-V-Oj-Simpson---American-Crime-Story/entry.json',

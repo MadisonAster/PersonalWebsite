@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-12-14',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Breakthrough',
  'EntryURL': 'https://www.imdb.com/title/tt4622776',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Breakthrough/entry.json',

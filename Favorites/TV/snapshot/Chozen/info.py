@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2014-01-21',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Chozen',
  'EntryURL': 'https://www.imdb.com/title/tt3221268',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Chozen/entry.json',

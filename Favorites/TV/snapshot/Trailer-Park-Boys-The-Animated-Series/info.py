@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '06-03-2020',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Trailer-Park-Boys-The-Animated-Series',
  'EntryURL': 'https://www.imdb.com/title/tt9814900',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Trailer-Park-Boys-The-Animated-Series/entry.json',

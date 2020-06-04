@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2011-11-09',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Robot-Chicken',
  'EntryURL': 'https://www.imdb.com/title/tt0437745',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Robot-Chicken/entry.json',

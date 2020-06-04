@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2011-08-19',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Colbert-Report',
  'EntryURL': 'https://www.imdb.com/title/tt0458254',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Colbert-Report/entry.json',

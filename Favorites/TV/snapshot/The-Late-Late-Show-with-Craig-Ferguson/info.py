@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2011-10-08',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Late-Late-Show-with-Craig-Ferguson',
  'EntryURL': 'https://www.imdb.com/title/tt0437729',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Late-Late-Show-with-Craig-Ferguson/entry.json',

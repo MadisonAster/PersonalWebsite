@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '06-03-2020',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Outlander',
  'EntryURL': 'https://www.imdb.com/title/tt3006802',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Outlander/entry.json',

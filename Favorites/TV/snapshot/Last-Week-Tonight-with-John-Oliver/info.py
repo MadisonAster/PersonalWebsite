@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2014-10-08',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Last-Week-Tonight-with-John-Oliver',
  'EntryURL': 'https://www.imdb.com/title/tt3530232',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Last-Week-Tonight-with-John-Oliver/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVEpisode',
+ 'EntryAdded': '2014-09-16',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Tank-Man',
  'EntryURL': 'https://www.imdb.com/title/tt0872938',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Tank-Man/entry.json',

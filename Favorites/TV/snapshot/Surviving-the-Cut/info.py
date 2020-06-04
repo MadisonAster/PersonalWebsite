@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2011-08-21',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Surviving-the-Cut',
  'EntryURL': 'https://www.imdb.com/title/tt1711419',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Surviving-the-Cut/entry.json',

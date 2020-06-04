@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-08-14',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Worst-Jobs-in-History',
  'EntryURL': 'https://www.imdb.com/title/tt0423775',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Worst-Jobs-in-History/entry.json',

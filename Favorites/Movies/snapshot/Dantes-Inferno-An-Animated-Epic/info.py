@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'CreativeWork',
+ 'EntryAdded': '2013-06-30',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dantes-Inferno-An-Animated-Epic',
  'EntryURL': 'https://www.imdb.com/title/tt1401113',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dantes-Inferno-An-Animated-Epic/entry.json',

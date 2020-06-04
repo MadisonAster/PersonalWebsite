@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2013-06-25',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Your-Pretty-Face-Is-Going-to-Hell',
  'EntryURL': 'https://www.imdb.com/title/tt2362694',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Your-Pretty-Face-Is-Going-to-Hell/entry.json',

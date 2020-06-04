@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2014-09-09',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Assassination-of-Jesse-James-by-the-Coward-Robert-Ford',
  'EntryURL': 'https://www.imdb.com/title/tt0443680',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Assassination-of-Jesse-James-by-the-Coward-Robert-Ford/entry.json',

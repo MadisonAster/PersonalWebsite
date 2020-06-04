@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-06-17',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/National-Security',
  'EntryURL': 'https://www.imdb.com/title/tt2466786',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/National-Security/entry.json',

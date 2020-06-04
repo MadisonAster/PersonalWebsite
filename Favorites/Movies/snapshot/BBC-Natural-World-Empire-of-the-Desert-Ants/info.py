@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVEpisode',
+ 'EntryAdded': '2011-09-24',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/BBC-Natural-World-Empire-of-the-Desert-Ants',
  'EntryURL': 'https://www.imdb.com/title/tt2496528',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/BBC-Natural-World-Empire-of-the-Desert-Ants/entry.json',

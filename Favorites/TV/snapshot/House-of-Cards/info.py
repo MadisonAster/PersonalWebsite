@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2013-02-23',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/House-of-Cards',
  'EntryURL': 'https://www.imdb.com/title/tt1856010',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/House-of-Cards/entry.json',

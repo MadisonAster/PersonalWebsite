@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2011-08-19',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Family-Guy',
  'EntryURL': 'https://www.imdb.com/title/tt0182576',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Family-Guy/entry.json',

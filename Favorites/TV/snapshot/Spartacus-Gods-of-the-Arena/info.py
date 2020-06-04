@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2011-10-18',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Spartacus-Gods-of-the-Arena',
  'EntryURL': 'https://www.imdb.com/title/tt1758429',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Spartacus-Gods-of-the-Arena/entry.json',

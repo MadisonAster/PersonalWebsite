@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2011-08-19',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/House-MD',
  'EntryURL': 'https://www.imdb.com/title/tt0412142',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/House-MD/entry.json',

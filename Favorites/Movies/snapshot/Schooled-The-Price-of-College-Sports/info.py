@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2015-08-27',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Schooled-The-Price-of-College-Sports',
  'EntryURL': 'https://www.imdb.com/title/tt3057718',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Schooled-The-Price-of-College-Sports/entry.json',

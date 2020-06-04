@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-09-04',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Penn-Teller-Bullshit',
  'EntryURL': 'https://www.imdb.com/title/tt0346369',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Penn-Teller-Bullshit/entry.json',

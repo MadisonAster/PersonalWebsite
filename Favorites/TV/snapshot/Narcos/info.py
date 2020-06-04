@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-08-30',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Narcos',
  'EntryURL': 'https://www.imdb.com/title/tt2707408',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Narcos/entry.json',

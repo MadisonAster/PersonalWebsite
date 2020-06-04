@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2014-07-02',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Tales-from-the-Organ-Trade',
  'EntryURL': 'https://www.imdb.com/title/tt2518924',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Tales-from-the-Organ-Trade/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2013-12-27',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Legit',
  'EntryURL': 'https://www.imdb.com/title/tt2400391',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Legit/entry.json',

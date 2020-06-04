@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2013-02-25',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/V',
  'EntryURL': 'https://www.imdb.com/title/tt0085106',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/V/entry.json',

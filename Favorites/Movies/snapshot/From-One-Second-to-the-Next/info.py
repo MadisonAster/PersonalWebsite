@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-12-19',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/From-One-Second-to-the-Next',
  'EntryURL': 'https://www.imdb.com/title/tt3108864',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/From-One-Second-to-the-Next/entry.json',

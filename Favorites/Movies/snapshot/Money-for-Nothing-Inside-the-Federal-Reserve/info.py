@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2016-09-14',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Money-for-Nothing-Inside-the-Federal-Reserve',
  'EntryURL': 'https://www.imdb.com/title/tt2752724',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Money-for-Nothing-Inside-the-Federal-Reserve/entry.json',

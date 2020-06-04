@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2015-03-31',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Going-Clear-Scientology-and-the-Prison-of-Belief',
  'EntryURL': 'https://www.imdb.com/title/tt4257858',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Going-Clear-Scientology-and-the-Prison-of-Belief/entry.json',

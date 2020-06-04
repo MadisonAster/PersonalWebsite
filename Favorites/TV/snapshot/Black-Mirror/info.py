@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-03-29',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Black-Mirror',
  'EntryURL': 'https://www.imdb.com/title/tt2085059',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Black-Mirror/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-06-30',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/This-Film-Is-Not-Yet-Rated',
  'EntryURL': 'https://www.imdb.com/title/tt0493459',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/This-Film-Is-Not-Yet-Rated/entry.json',

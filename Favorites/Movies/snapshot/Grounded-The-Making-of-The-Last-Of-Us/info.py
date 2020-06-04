@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'CreativeWork',
+ 'EntryAdded': '2013-08-26',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Grounded-The-Making-of-The-Last-Of-Us',
  'EntryURL': 'https://www.imdb.com/title/tt3397502',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Grounded-The-Making-of-The-Last-Of-Us/entry.json',

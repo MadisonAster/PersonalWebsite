@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '06-03-2020',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Suits',
  'EntryURL': 'https://www.imdb.com/title/tt1632701',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Suits/entry.json',

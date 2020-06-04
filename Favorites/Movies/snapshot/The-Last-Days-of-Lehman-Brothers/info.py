@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2011-12-31',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Last-Days-of-Lehman-Brothers',
  'EntryURL': 'https://www.imdb.com/title/tt1495980',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Last-Days-of-Lehman-Brothers/entry.json',

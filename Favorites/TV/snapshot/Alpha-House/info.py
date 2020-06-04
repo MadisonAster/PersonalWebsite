@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2013-12-15',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Alpha-House',
  'EntryURL': 'https://www.imdb.com/title/tt3012160',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Alpha-House/entry.json',

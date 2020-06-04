@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-02-24',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/What-Dreams-May-Come',
  'EntryURL': 'https://www.imdb.com/title/tt0120889',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/What-Dreams-May-Come/entry.json',

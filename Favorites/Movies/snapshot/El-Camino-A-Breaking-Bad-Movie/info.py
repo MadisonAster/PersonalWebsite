@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '06-03-2020',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/El-Camino-A-Breaking-Bad-Movie',
  'EntryURL': 'https://www.imdb.com/title/tt9243946',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/El-Camino-A-Breaking-Bad-Movie/entry.json',

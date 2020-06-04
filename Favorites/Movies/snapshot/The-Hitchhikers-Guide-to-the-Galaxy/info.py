@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-06-07',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Hitchhikers-Guide-to-the-Galaxy',
  'EntryURL': 'https://www.imdb.com/title/tt0371724',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Hitchhikers-Guide-to-the-Galaxy/entry.json',

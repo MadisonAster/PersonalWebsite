@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2013-06-29',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vanguard',
  'EntryURL': 'https://www.imdb.com/title/tt2016109',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vanguard/entry.json',

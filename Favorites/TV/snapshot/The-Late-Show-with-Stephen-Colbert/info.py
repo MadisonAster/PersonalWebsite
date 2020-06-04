@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-09-14',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Late-Show-with-Stephen-Colbert',
  'EntryURL': 'https://www.imdb.com/title/tt3697842',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Late-Show-with-Stephen-Colbert/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2014-08-21',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/John-Dies-at-the-End',
  'EntryURL': 'https://www.imdb.com/title/tt1783732',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/John-Dies-at-the-End/entry.json',

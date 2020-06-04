@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-12-22',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Perfume-The-Story-of-a-Murderer',
  'EntryURL': 'https://www.imdb.com/title/tt0396171',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Perfume-The-Story-of-a-Murderer/entry.json',

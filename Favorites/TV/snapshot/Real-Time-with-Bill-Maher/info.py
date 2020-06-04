@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2016-02-12',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Real-Time-with-Bill-Maher',
  'EntryURL': 'https://www.imdb.com/title/tt0350448',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Real-Time-with-Bill-Maher/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-07-27',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Jeopardy',
  'EntryURL': 'https://www.imdb.com/title/tt0159881',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Jeopardy/entry.json',

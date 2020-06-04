@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-06-30',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Sophie-Scholl-Die-letzten-Tage',
  'EntryURL': 'https://www.imdb.com/title/tt0426578',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Sophie-Scholl-Die-letzten-Tage/entry.json',

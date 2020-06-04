@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-02-23',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Final-Fantasy-The-Spirits-Within',
  'EntryURL': 'https://www.imdb.com/title/tt0173840',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Final-Fantasy-The-Spirits-Within/entry.json',

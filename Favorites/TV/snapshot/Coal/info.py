@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2013-03-17',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Coal',
  'EntryURL': 'https://www.imdb.com/title/tt1745045',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Coal/entry.json',

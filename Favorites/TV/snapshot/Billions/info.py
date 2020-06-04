@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2016-01-27',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Billions',
  'EntryURL': 'https://www.imdb.com/title/tt4270492',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Billions/entry.json',

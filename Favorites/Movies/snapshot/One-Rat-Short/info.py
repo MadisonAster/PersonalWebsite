@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2014-12-09',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/One-Rat-Short',
  'EntryURL': 'https://www.imdb.com/title/tt0818125',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/One-Rat-Short/entry.json',

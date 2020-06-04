@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2013-12-21',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Atlantis',
  'EntryURL': 'https://www.imdb.com/title/tt2705602',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Atlantis/entry.json',

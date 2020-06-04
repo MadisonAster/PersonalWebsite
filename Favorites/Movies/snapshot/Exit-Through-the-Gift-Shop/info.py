@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2016-11-28',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Exit-Through-the-Gift-Shop',
  'EntryURL': 'https://www.imdb.com/title/tt1587707',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Exit-Through-the-Gift-Shop/entry.json',

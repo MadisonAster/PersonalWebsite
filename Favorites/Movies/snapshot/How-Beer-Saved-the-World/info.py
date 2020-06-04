@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-02-19',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/How-Beer-Saved-the-World',
  'EntryURL': 'https://www.imdb.com/title/tt1832368',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/How-Beer-Saved-the-World/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-06-30',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/How-to-Make-Money-Selling-Drugs',
  'EntryURL': 'https://www.imdb.com/title/tt1276962',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/How-to-Make-Money-Selling-Drugs/entry.json',

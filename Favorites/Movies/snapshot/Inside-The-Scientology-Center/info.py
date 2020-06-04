@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'CreativeWork',
+ 'EntryAdded': '2014-04-03',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Inside-The-Scientology-Center',
  'EntryURL': 'https://www.imdb.com/title/tt4967868',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Inside-The-Scientology-Center/entry.json',

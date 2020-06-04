@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-01-26',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Black-Sails',
  'EntryURL': 'https://www.imdb.com/title/tt2375692',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Black-Sails/entry.json',

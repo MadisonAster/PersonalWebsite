@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-07-27',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Humans',
  'EntryURL': 'https://www.imdb.com/title/tt4122068',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Humans/entry.json',

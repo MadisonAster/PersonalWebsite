@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2013-02-23',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Code-Monkeys',
  'EntryURL': 'https://www.imdb.com/title/tt1068683',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Code-Monkeys/entry.json',

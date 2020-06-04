@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-02-24',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Wall-Street-Money-Never-Sleeps',
  'EntryURL': 'https://www.imdb.com/title/tt1027718',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Wall-Street-Money-Never-Sleeps/entry.json',

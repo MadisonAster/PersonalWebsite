@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2016-03-12',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Horace-and-Pete',
  'EntryURL': 'https://www.imdb.com/title/tt5425186',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Horace-and-Pete/entry.json',

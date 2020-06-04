@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '06-03-2020',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Russian-Doll',
  'EntryURL': 'https://www.imdb.com/title/tt7520794',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Russian-Doll/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-02-19',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Star-Wars-Episode-IV-A-New-Hope',
  'EntryURL': 'https://www.imdb.com/title/tt0076759',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Star-Wars-Episode-IV-A-New-Hope/entry.json',

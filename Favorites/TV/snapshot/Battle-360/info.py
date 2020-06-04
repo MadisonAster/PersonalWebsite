@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2014-09-22',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Battle-360',
  'EntryURL': 'https://www.imdb.com/title/tt1194698',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Battle-360/entry.json',

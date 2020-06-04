@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '06-03-2020',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Three-Billboards-Outside-Ebbing-Missouri',
  'EntryURL': 'https://www.imdb.com/title/tt5027774',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Three-Billboards-Outside-Ebbing-Missouri/entry.json',

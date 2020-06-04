@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'CreativeWork',
+ 'EntryAdded': '2014-05-18',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Third-and-the-Seventh',
  'EntryURL': 'https://www.imdb.com/title/tt3321150',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Third-and-the-Seventh/entry.json',

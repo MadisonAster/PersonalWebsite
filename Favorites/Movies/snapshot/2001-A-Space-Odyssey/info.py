@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-02-24',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/2001-A-Space-Odyssey',
  'EntryURL': 'https://www.imdb.com/title/tt0062622',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/2001-A-Space-Odyssey/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2016-09-14',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Enron-The-Smartest-Guys-in-the-Room',
  'EntryURL': 'https://www.imdb.com/title/tt1016268',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Enron-The-Smartest-Guys-in-the-Room/entry.json',

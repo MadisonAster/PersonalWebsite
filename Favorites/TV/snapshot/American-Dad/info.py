@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-01-30',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/American-Dad',
  'EntryURL': 'https://www.imdb.com/title/tt0397306',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/American-Dad/entry.json',

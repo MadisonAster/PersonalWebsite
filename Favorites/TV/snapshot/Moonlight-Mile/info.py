@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-08-17',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Moonlight-Mile',
  'EntryURL': 'https://www.imdb.com/title/tt1485405',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Moonlight-Mile/entry.json',

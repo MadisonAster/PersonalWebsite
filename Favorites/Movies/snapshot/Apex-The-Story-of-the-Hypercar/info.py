@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2016-11-05',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Apex-The-Story-of-the-Hypercar',
  'EntryURL': 'https://www.imdb.com/title/tt4325400',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Apex-The-Story-of-the-Hypercar/entry.json',

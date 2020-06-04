@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2011-08-19',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Tosh0',
  'EntryURL': 'https://www.imdb.com/title/tt1430587',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Tosh0/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-01-22',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Nightly-Show-with-Larry-Wilmore',
  'EntryURL': 'https://www.imdb.com/title/tt3722332',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Nightly-Show-with-Larry-Wilmore/entry.json',

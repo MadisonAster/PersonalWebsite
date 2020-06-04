@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-07-05',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Pirates-of-Silicon-Valley',
  'EntryURL': 'https://www.imdb.com/title/tt0168122',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Pirates-of-Silicon-Valley/entry.json',

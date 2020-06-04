@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-12-12',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/ABE',
  'EntryURL': 'https://www.imdb.com/title/tt2883236',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/ABE/entry.json',

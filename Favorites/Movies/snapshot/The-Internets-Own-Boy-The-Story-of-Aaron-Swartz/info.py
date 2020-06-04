@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2014-07-01',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Internets-Own-Boy-The-Story-of-Aaron-Swartz',
  'EntryURL': 'https://www.imdb.com/title/tt3268458',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/The-Internets-Own-Boy-The-Story-of-Aaron-Swartz/entry.json',

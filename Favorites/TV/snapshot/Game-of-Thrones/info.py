@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2011-08-19',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Game-of-Thrones',
  'EntryURL': 'https://www.imdb.com/title/tt0944947',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Game-of-Thrones/entry.json',

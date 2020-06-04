@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-02-20',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/EuroTrip',
  'EntryURL': 'https://www.imdb.com/title/tt0356150',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/EuroTrip/entry.json',

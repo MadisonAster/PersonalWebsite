@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2013-06-30',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Caprica',
  'EntryURL': 'https://www.imdb.com/title/tt0799862',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Caprica/entry.json',

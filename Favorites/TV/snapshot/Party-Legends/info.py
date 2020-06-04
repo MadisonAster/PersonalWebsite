@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2016-08-13',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Party-Legends',
  'EntryURL': 'https://www.imdb.com/title/tt5849156',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Party-Legends/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-02-24',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/One-Flew-Over-the-Cuckoos-Nest',
  'EntryURL': 'https://www.imdb.com/title/tt0073486',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/One-Flew-Over-the-Cuckoos-Nest/entry.json',

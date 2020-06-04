@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2012-02-20',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Archer',
  'EntryURL': 'https://www.imdb.com/title/tt1486217',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Archer/entry.json',

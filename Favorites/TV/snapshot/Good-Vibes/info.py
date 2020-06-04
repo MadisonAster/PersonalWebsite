@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2012-03-10',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Good-Vibes',
  'EntryURL': 'https://www.imdb.com/title/tt1701982',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Good-Vibes/entry.json',

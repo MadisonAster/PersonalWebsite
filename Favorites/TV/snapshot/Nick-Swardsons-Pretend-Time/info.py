@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2011-10-06',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Nick-Swardsons-Pretend-Time',
  'EntryURL': 'https://www.imdb.com/title/tt1721648',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Nick-Swardsons-Pretend-Time/entry.json',

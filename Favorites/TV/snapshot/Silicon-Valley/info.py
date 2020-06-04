@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-05-25',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Silicon-Valley',
  'EntryURL': 'https://www.imdb.com/title/tt2575988',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Silicon-Valley/entry.json',

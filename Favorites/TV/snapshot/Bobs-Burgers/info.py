@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-01-26',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Bobs-Burgers',
  'EntryURL': 'https://www.imdb.com/title/tt1561755',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Bobs-Burgers/entry.json',

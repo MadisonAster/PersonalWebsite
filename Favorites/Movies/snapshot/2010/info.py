@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2014-09-12',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/2010',
  'EntryURL': 'https://www.imdb.com/title/tt0086837',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/2010/entry.json',

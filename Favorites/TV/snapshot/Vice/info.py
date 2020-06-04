@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2013-06-29',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vice',
  'EntryURL': 'https://www.imdb.com/title/tt2782710',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Vice/entry.json',

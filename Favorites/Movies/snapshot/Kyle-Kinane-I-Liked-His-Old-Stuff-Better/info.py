@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'CreativeWork',
+ 'EntryAdded': '2015-01-24',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kyle-Kinane-I-Liked-His-Old-Stuff-Better',
  'EntryURL': 'https://www.imdb.com/title/tt3973036',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Kyle-Kinane-I-Liked-His-Old-Stuff-Better/entry.json',

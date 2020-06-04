@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'CreativeWork',
+ 'EntryAdded': '06-03-2020',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dave-Chappelle-Sticks--Stones',
  'EntryURL': 'https://www.imdb.com/title/tt10810424',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Dave-Chappelle-Sticks--Stones/entry.json',

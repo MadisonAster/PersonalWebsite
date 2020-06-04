@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2016-01-27',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Circus-Inside-the-Greatest-Political-Show-on-Earth',
  'EntryURL': 'https://www.imdb.com/title/tt5351176',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Circus-Inside-the-Greatest-Political-Show-on-Earth/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-06-07',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Mechanical-Universe-and-Beyond',
  'EntryURL': 'https://www.imdb.com/title/tt0396993',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/The-Mechanical-Universe-and-Beyond/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2014-11-09',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Is-the-Man-Who-Is-Tall-Happy-An-Animated-Conversation-with-Noam-Chomsky',
  'EntryURL': 'https://www.imdb.com/title/tt1817287',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Is-the-Man-Who-Is-Tall-Happy-An-Animated-Conversation-with-Noam-Chomsky/entry.json',

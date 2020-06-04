@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2013-09-06',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Oz',
  'EntryURL': 'https://www.imdb.com/title/tt0118421',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Oz/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2011-09-24',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Stuck-with-Hackett',
  'EntryURL': 'https://www.imdb.com/title/tt2010667',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Stuck-with-Hackett/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2015-08-24',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/City-of-Life-and-Death',
  'EntryURL': 'https://www.imdb.com/title/tt1124052',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/City-of-Life-and-Death/entry.json',

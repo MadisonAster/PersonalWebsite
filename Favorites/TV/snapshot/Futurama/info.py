@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2011-08-19',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Futurama',
  'EntryURL': 'https://www.imdb.com/title/tt0149460',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Futurama/entry.json',

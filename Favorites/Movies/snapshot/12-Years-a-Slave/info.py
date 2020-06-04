@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-11-10',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/12-Years-a-Slave',
  'EntryURL': 'https://www.imdb.com/title/tt2024544',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/12-Years-a-Slave/entry.json',

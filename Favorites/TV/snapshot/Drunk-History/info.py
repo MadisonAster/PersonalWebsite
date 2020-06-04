@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2015-01-18',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Drunk-History',
  'EntryURL': 'https://www.imdb.com/title/tt2712612',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Drunk-History/entry.json',

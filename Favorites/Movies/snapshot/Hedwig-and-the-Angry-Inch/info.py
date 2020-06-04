@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'Movie',
+ 'EntryAdded': '2013-02-23',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hedwig-and-the-Angry-Inch',
  'EntryURL': 'https://www.imdb.com/title/tt0248845',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/Movies/snapshot/Hedwig-and-the-Angry-Inch/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2013-02-24',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Better-Off-Ted',
  'EntryURL': 'https://www.imdb.com/title/tt1235547',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Better-Off-Ted/entry.json',

@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '06-03-2020',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Paradise-Pd',
  'EntryURL': 'https://www.imdb.com/title/tt8235236',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Paradise-Pd/entry.json',

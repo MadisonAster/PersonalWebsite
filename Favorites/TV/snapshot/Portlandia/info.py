@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2014-06-01',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Portlandia',
  'EntryURL': 'https://www.imdb.com/title/tt1780441',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Portlandia/entry.json',

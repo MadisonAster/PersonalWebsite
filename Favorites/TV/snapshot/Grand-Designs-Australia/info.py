@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '2012-12-02',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Grand-Designs-Australia',
  'EntryURL': 'https://www.imdb.com/title/tt1677691',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Grand-Designs-Australia/entry.json',

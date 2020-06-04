@@ -1,5 +1,6 @@
 {'@context': 'http://schema.org',
  '@type': 'TVSeries',
+ 'EntryAdded': '06-03-2020',
  'EntryPath': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Mad-Men',
  'EntryURL': 'https://www.imdb.com/title/tt0804503',
  'Entry_json': 'W:/Portfolio/PersonalWebsite/Favorites/TV/snapshot/Mad-Men/entry.json',
