@@ -19,7 +19,7 @@
             'url': '/name/nm0396812/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 219810,
+                     'ratingCount': 219824,
                      'ratingValue': '7.7',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -43,58 +43,45 @@
  'keywords': 'panties,voyeur,sex in bed,red panties,fondling',
  'name': '21 Grams',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'HardKnockLife210'},
-            'dateCreated': '2004-12-20',
+            'author': {'@type': 'Person', 'name': 'paul2001sw-1'},
+            'dateCreated': '2007-11-23',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0315733/'},
-            'name': 'A Small Taste of Tragedy and Beauty',
-            'reviewBody': 'When lives collide, often no one is around to '
-                          'witness the effects of the collision. Alejandro '
-                          'González Iñárritu, however, has captured the '
-                          'profound effects in 21 Grams. How much does life '
-                          'weigh? Iñárritu may not answer that question '
-                          'directly, but he does indirectly answer the '
-                          'question darkly and beautifully in 21 Grams.\n'
+            'name': 'Structure over unity',
+            'reviewBody': "'21 Grams' tells of a number of loosely interlinked "
+                          'characters in an achronological fashion, jumping '
+                          'backwards and forwards over their stories. There '
+                          'can be reasons for doing this: for example, to '
+                          'reveal the plot in a way that offers an extra kick, '
+                          'or to enable the plot to conclude with a scene from '
+                          'the middle of the story that gains impact from the '
+                          "viewer's prior acquaintance with what happens next. "
+                          "Quentin Tarantino's 'Pulp Fiction' justified its "
+                          'own complex plot structure on both of these '
+                          "grounds. But in the case of this film, I couldn't "
+                          'see how telling the story in such a broken way was '
+                          'supposed to add anything; and the fact that most of '
+                          'the leading characters possess a death wish (or at '
+                          'least, very little will to go on living) hardly '
+                          'aided my emotional involvement. At times, the film '
+                          'appeared to be shaping into a story about the '
+                          'possibility (or otherwise) of redemption; but it '
+                          'never quite grew into anything more the harrowing '
+                          'tale of a number of people who suffer and (in some '
+                          'cases) die. The pretentious voice-over from Sean '
+                          "Penn's character that ends the film (and accounts "
+                          'for its title) felt to me like a desperate (and '
+                          'failed) attempt to inject some meaning into a movie '
+                          'strangely devoid of it.\n'
                           '\n'
-                          '21 Grams tells the story of three lives brought '
-                          'together by tragedy: the life of a very sick man '
-                          '(Penn), a mother who has lost much (Watts), and a '
-                          'Christian who has recently reformed his ways (Del '
-                          'Toro). Really, these characters and their '
-                          'once-"simple" lives are the focus of this film, and '
-                          'all three characters are mysterious and deep. Each '
-                          'of the three actors gives an excellent performance, '
-                          'but it is Watts who stands out in all her angst. '
-                          'All of them deserved Academy Award nominations, and '
-                          "Penn would've received one along with Watts and Del "
-                          'Toro if not for his incredible performance in '
-                          'Mystic River.\n'
-                          '\n'
-                          "Arriaga's screenplay is incredible too, leaving the "
-                          'outcome inexplicable enough to be real and to make '
-                          "sense. Santaolalla's score is odd enough to fit the "
-                          'dark atmosphere that pervades the film, and stick '
-                          "around for the credits to hear Dave Matthews' "
-                          "fitting conclusion. Also, Prieto's and Procopio's "
-                          'cinematography is gritty enough to depict the '
-                          'unbearable anguish of the characters.\n'
-                          '\n'
-                          'I would praise the direction as well, except that I '
-                          'do have one complaint regarding it. It is often so '
-                          'choppy and irregular that it causes the story to '
-                          'lose a tiny bit of its impact. Perhaps this '
-                          'choppiness fits the film too, but to me it was '
-                          'distracting.\n'
-                          '\n'
-                          'Yet you should definitely check this one out for a '
-                          'sorrowful picture of torment, disgust, and a '
-                          'strange beauty.\n'
-                          '\n'
-                          'Final Grade: A.',
+                          'That said, the acting is good, and the film is '
+                          'undoubtedly skilfully made. But "people die" is '
+                          'not, in itself, an adequate or interesting unifying '
+                          'theme.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer',

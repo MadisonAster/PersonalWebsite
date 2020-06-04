@@ -21,7 +21,7 @@
             'url': '/name/nm0275835/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 657472,
+                     'ratingCount': 657568,
                      'ratingValue': '8.9',
                      'worstRating': '1.0'},
  'contentRating': 'Approved',
@@ -46,67 +46,57 @@
  'keywords': 'jury,dialogue driven,courtroom,single set production,trial',
  'name': '12 Angry Men',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Thelightbulb'},
-            'dateCreated': '2005-09-22',
+            'author': {'@type': 'Person', 'name': 'misha-wilkin'},
+            'dateCreated': '2003-03-17',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0050083/'},
-            'name': 'If you only ever see one Black and White movie, make this '
-                    'it.',
-            'reviewBody': 'I watched this film for the first time, when it was '
-                          "shown at about 1 o'clock in the morning. I made an "
-                          'effort to see it as it is rated as one of the best '
-                          'movies ever made, however I must admit that I '
-                          "watched it with a sense of reluctance as I'm not a "
-                          'great one for old "classics". This film blew me '
-                          'away however; how ignorant can I be about old '
-                          'films? How many other pre-1960s gems are there out '
-                          "there that I haven't seen? What strikes me most "
-                          'about this film is how progressive it is for its '
-                          'day. Indeed the issues this film makes about '
-                          'American society of the 1950s, still ring true for '
-                          'western society today. This film concerns twelve '
-                          'jurors debating the sentence of an 18 year old '
-                          'Puerto Rican boy who on the face of it, has no real '
-                          'alibi. However one man, played brilliantly by Henry '
-                          'Fonda, is ill-at ease putting a young boy to death '
-                          'without even debating his case, much to the despair '
-                          'of the other jurors. What follows is a brilliant '
-                          'piece of film making, slowly revealing many of the '
-                          "juror's complex characters to the audience as they "
-                          "react to Fonda's concerns with their own mix of "
-                          'metal scars, prejudices and insecurities. What '
-                          'especially struck me about this film is how '
-                          'ordinary most of the characters are, none of the '
-                          'jurors are shown to be especially bad men, indeed '
-                          'most are portrayed as honest everyman type people. '
-                          'The use of ordinary characters is the films '
-                          'master-stroke because as one by one they begin to '
-                          'question their initial instincts, the flaws of '
-                          'society that have let this Puerto Rican boy down '
-                          'are presented to the audience. Tragically it '
-                          'appears that many of the issues that were beginning '
-                          'to be discussed in the 1950s have only got worse. '
-                          'For me there is one immortal comment in this film: '
-                          'one of the jurors, a man in his 50s says that the '
-                          'youths of today have no respect and have changed so '
-                          'much for the worse since his day. How ironic is it '
-                          'that some grumpy old men of today who may not even '
-                          'of have been born when this films was made, still '
-                          'say exactly the same thing? Finally a quick look at '
-                          'the cast shows that Fonda aside many of the cast '
-                          'were only moderately successful after this film. I '
-                          "think that's a shame as everyone of these actors is "
-                          'excellent and plays their part in making it one of '
-                          'the best films of all time. However within the cast '
-                          'there are a couple of treats; look out for Jack '
-                          'Klugman (Quincy) and John Fieldler who is the voice '
-                          "of many of Disney's characters such as Piglet. I "
-                          'urge you all, if you have not yet seen this film, '
-                          'please do so now.',
+            'name': 'A Classic not to be Missed',
+            'reviewBody': 'The plot of12 Angry Men revolves around the murder '
+                          'trail of a Latino boy who is accused of killing his '
+                          'father. The conviction of the boy would mean a '
+                          "death sentence and the destiny of the boy's life is "
+                          'in the hands of twelve male jurors of ranging '
+                          'personalities. The case seems open and shut with a '
+                          'murder weapon and several witnesses to place the '
+                          'boy at the scene of the crime. For eleven of the '
+                          'jurors the decision is apparent that the boy is '
+                          'guilty but for one juror, Mr. Davis (Henry Fonda), '
+                          "the boy's life should entail some discussion to "
+                          'eliminate any reasonable doubt the jurors may have. '
+                          'As the film progresses the personalities of the '
+                          'jurors become apparent and many underlying issues '
+                          'influence the guilty decision chosen by the '
+                          'majority of the jurors.\n'
+                          '\n'
+                          'The underlying issues are the complexity of the '
+                          'personalities of the jurors and the reasons why '
+                          'they have the motivation to feel and act the way '
+                          'they do. As the case unfolds further, more is '
+                          'learned about each juror individually. The '
+                          'personalities range from being a short-tempered '
+                          'loud mouth to a straight- laced accountant who '
+                          'never breaks a sweat. As the movie progresses much '
+                          'more is learned of the characters that exposes the '
+                          "intricacy of human nature and people's different "
+                          'personality traits.\n'
+                          '\n'
+                          ' This film is an excellent example of movie making '
+                          'that does not require elaborate sets to entertain '
+                          'the viewer. The majority of the film takes place in '
+                          'a jury room with the men never leaving the room '
+                          'from their deliberation responsibilities. The cast '
+                          'and dialogue make this film memorable and the film '
+                          'has some clear moral issues that are addressed. The '
+                          'main issue is that not everything is as it seems. '
+                          'With further analysis the understanding of a '
+                          'situation becomes more concrete enabling the men to '
+                          "make a solid decision that affects a young man's "
+                          'life. 12 Angry Men is a classic film that should '
+                          'not be missed.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Three Reasons Criterion trailer',

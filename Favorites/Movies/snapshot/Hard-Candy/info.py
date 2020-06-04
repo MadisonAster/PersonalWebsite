@@ -17,7 +17,7 @@
             'url': '/name/nm1230874/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 150876,
+                     'ratingCount': 150879,
                      'ratingValue': '7.1',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -41,30 +41,39 @@
              'predator,online dating',
  'name': 'Hard Candy',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'skippy_the_nazgul'},
-            'dateCreated': '2006-04-02',
+            'author': {'@type': 'Person', 'name': 'ekiza23'},
+            'dateCreated': '2005-10-18',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0424136/'},
-            'name': 'See it. . . see it NOW!',
-            'reviewBody': 'I saw the trailer for Hard Candy when I went to see '
-                          "Hostel (which sucked, but we'll not get into that). "
-                          "I was immediately drawn to it. It's suppose to come "
-                          'out April 14th but it came through with the Central '
-                          'Florida Film Festival two weeks early. I could have '
-                          'waited and paid less and got a better seat, but oh '
-                          'my god, even with a crap view I was blown away.\n'
+            'name': 'Excellent movie, but be aware it may be disturbing by the '
+                    'subject of it.',
+            'reviewBody': 'This is a film about a girl of 14 years old and a '
+                          '32 years old guy. It is a movie about Hayley (more '
+                          'than excellent Ellen Page) and Jeff, about '
+                          'pedophilia and about how a pedophile must feel. Or '
+                          "maybe it is only a history of vengeance. You won't "
+                          'know until the end of the film. It sure is a '
+                          'difficult subject for a movie, but the script is '
+                          'excellently profiled in the psychological horror '
+                          'and does not turn to be obscene or anything than '
+                          'can visually or verbally hurt the sensibility of '
+                          'anyone. It is more like disturbing to hear a '
+                          'teenage girl speak how she does, and it is '
+                          'fascinating how your feelings will go from one '
+                          'character to the other during the movie until you '
+                          'realize that no matter what the end is, everyone is '
+                          'guilty of something and it is not to us, humans, to '
+                          'decide what bad actions can be justified by other '
+                          'bad actions.\n'
                           '\n'
-                          'The cinematography was masterful, the acting was '
-                          'spectacular, the dialogue was a little awkward in '
-                          'pints but never really faltered, and the plot! You '
-                          'would think a movie consisting of 2 characters in a '
-                          'house would have it moments of tediousness, but not '
-                          'at all. So many psychological thrills it will set '
-                          'your mind a boggling.',
+                          'Try on it, and be open-minded.\n'
+                          '\n'
+                          "Sorry about any orthographic mistake, I'm not used "
+                          'to English writing.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Theatrical Trailer from Lionsgate',

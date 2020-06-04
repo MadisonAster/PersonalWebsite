@@ -47,23 +47,37 @@
              'series title,man wears eyeglasses,cubicle',
  'name': 'Dilbert',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Op_Prime'},
-            'dateCreated': '2001-05-08',
+            'author': {'@type': 'Person', 'name': 'TOMNEL'},
+            'dateCreated': '2006-07-24',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0118984/'},
-            'name': 'Curse you U.P.N.',
-            'reviewBody': 'The show was a non stop laugh riot, much like the '
-                          'comic strip. The show perfectly captured the spirit '
-                          'of the comic strip, which is why it was so good. '
-                          'Unfortunately, the show got axed and taken off the '
-                          "air. Despite what people who didn't like the show "
-                          'would say, it was not cancelled because of the '
-                          'writing. Lousy programming is what really did the '
-                          'show in. When U.P.N. moved the series to that '
-                          "terrible time slot for it's second season, ratings "
-                          'dropped hard and fast. The show really was worth '
-                          'watching.'},
+            'name': 'One of the best cartoons around, definitely the best '
+                    'theme song.',
+            'reviewBody': 'Stars: Daniel Stern as Dilbert. Chris Elliot as '
+                          'Dogbert. Kathy Griffin as Alice. Gordon Hunt as '
+                          'Wally. Larry Miller as the Boss. Jackie Hoffman as '
+                          'Dilmom. Tom Kenny as Ratbert and Ashook. Jim Wise '
+                          'as Loud Howard. Jason Alexander as Catbert. Maurice '
+                          'La Marche as the Trash Man.\n'
+                          '\n'
+                          'This was one of those gem shows that for some '
+                          'reason only picked up a select cult audience. '
+                          'Because of that it was canceled, even though it was '
+                          'a great show. It was about workaholic Dilbert and '
+                          'his life in his cubicle. His closest friends are '
+                          "Dogbert, his talking pet dog that's smarter than "
+                          'him, Alice and Wally, his buddies from work and the '
+                          'mysterious trashman who always disappears after '
+                          'giving advice. I highly recommend you buy the DVD '
+                          'because this was a great show, and its a shame only '
+                          '2 seasons were produced.\n'
+                          '\n'
+                          'My rating: 9 out of 10. 30 episodes. TV PG.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '9',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Sony Pictures Home '
                             'Entertainment',

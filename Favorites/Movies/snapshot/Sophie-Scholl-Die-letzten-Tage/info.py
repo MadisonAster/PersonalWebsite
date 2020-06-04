@@ -21,7 +21,7 @@
             'url': '/name/nm0309404/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 25918,
+                     'ratingCount': 25917,
                      'ratingValue': '7.6',
                      'worstRating': '1.0'},
  'contentRating': 'Not Rated',
@@ -44,47 +44,35 @@
  'keywords': 'resistance,anti nazi,gestapo,nazi,student',
  'name': 'Sophie Scholl - Die letzten Tage',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'avidadollars'},
-            'dateCreated': '2005-10-23',
+            'author': {'@type': 'Person', 'name': 'mute_e'},
+            'dateCreated': '2005-03-01',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0426578/'},
-            'name': 'How would YOU make Sophie Scholl?',
-            'reviewBody': "As a person who spent many years 'making art', I "
-                          'could not be more amazed reading some of the '
-                          "comments. I've just been to a preview of Sophie "
-                          'Scholl in Manchester, England; and I am not only '
-                          'glad that this movie has been made, but also that '
-                          'it is done at the time when young people are '
-                          "happier to do 'whatever' rather than have any "
-                          'principles.\n'
+            'name': 'Very convincing presentation of German history',
+            'reviewBody': 'OK, first of all. This movie is absolutely not like '
+                          '"the Downfall" (Der Untergang). Sophie Scholl is '
+                          'way more demanding and exacting. Now, 3 days after '
+                          "I've seen this movie, I still got a feeling of "
+                          'guilt and concernment in my stomach. In my opinion '
+                          'Sophie Scholl is due to its precision more like a '
+                          '(replayed) documentary movie than a Drama, which '
+                          'makes it even more "shocking". This is for sure no '
+                          "light entertainment, and those, that don't like "
+                          'long conversations or even are not interested in '
+                          'history, should not watch this movie. This is the '
+                          "main reason, why Sophie Scholl won't make the "
+                          'transatlantic heap, because it\'s too "special". '
+                          "It's a part of German history and requires a "
+                          'willingness to cope with it.\n'
                           '\n'
-                          'There is no point debating historical accuracy. As '
-                          'it followed from the Q&A session with Marc '
-                          'Rothemund following the preview, not only the '
-                          'filming took place at the original locations that '
-                          'are still there, but the crew went at great length '
-                          "doing things 'right', including getting the weather "
-                          'reports for February 1943. Yes, there is this '
-                          "strange feeling of looking at the film's title, "
-                          'which sounds like the title for a documentary. But '
-                          "then I didn't gather the impression that "
-                          "Rothemund's goal was to poeticise the story of "
-                          'Sophie Scholl. I think it is quite enough that in '
-                          'Germany she is perceived as a martyr. What Sophie '
-                          'Scholl - Die Letzten Tage does successfully is it '
-                          'shows a person behind the image, a young girl '
-                          '(younger than myself), who was prepared to die for '
-                          'her idea, but desperately loved life.\n'
-                          '\n'
-                          'I read critical comments, and mine was in part '
-                          'sparked by them. Far from trying to debate their '
-                          "correctness, I'll do exactly what I always do on "
-                          'these occasions. Guys, those of you who decide to '
-                          'write next dismissive drag, instead tell us how you '
-                          "would direct in Rothemund's place. Or how would you "
-                          'act in place of Julia Jentsch? If you have really '
-                          "valid suggestions, we'll all be happy to hear.",
+                          'Marc Rothemund does a very good job on directing '
+                          'this movie, and Julia Jentsch is very convincing. '
+                          "While watching this movie you don't have the "
+                          "feeling that the story is 60 years ago and can't "
+                          "touch you. It makes you feel like you're in the "
+                          "thick of it. And that's why I give a 9/10. Great "
+                          'Movie.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

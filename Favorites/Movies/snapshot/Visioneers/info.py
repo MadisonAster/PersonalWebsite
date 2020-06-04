@@ -43,35 +43,51 @@
  'keywords': 'exploding body,happiness,corporate,satire,one word title',
  'name': 'Visioneers',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'chapsmack'},
-            'dateCreated': '2009-08-15',
+            'author': {'@type': 'Person', 'name': 'reuben-18'},
+            'dateCreated': '2012-07-17',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0833557/'},
-            'name': 'The future of us office folk',
-            'reviewBody': 'I guess my review is kind of biased - if I had '
-                          'never seen the Hangover, I would have probably not '
-                          'enjoyed the movie as much as I did. Somehow ZG '
-                          'seems to be exuding the right kind of vibes for '
-                          'this year or something. Visoneers reminded me of a '
-                          'plethora of American movies - Hudsucker, Brazil, '
-                          '1984 - all mixed into one in a somewhat subdued, '
-                          "indie approach. If you haven't seen any of those "
-                          'movies this movie would strike you odd as it is one '
-                          'to convey a meaning much similar to the J-horror of '
-                          'Kurosawa. Considering the strangeness of the movie '
-                          'I expected the end to be somewhat living up to it, '
-                          'but this is where it kind of veers back to '
-                          'normality which I think may have been done for a '
-                          'proper distribution. If you want to watch it for ZG '
-                          'or have a penchant for movies that make you think '
-                          'go ahead full steam, otherwise just wait for the '
-                          "next ZG one, now that he's almost famous. For "
-                          'attempting to make a movie like this and picking ZG '
-                          'before he was famous, this movie gets my 7/10.',
+            'name': 'Darker than you might think.',
+            'reviewBody': 'Trailers are strange beasts that often hugely '
+                          "misrepresent the tone of a film. I'm not sure if I "
+                          'enjoy the mischievous manipulation involved, or '
+                          'hate the mistrust that it generates. A little of '
+                          'both, I guess.\n'
+                          '\n'
+                          'Visioneers is one such example: the trailer comes '
+                          'across as a fairly light-hearted, quirky romantic '
+                          'comedy.\n'
+                          '\n'
+                          'In reality, however, this film deserves to sit '
+                          'beside 1984 and Blade Runner as dark and disturbing '
+                          'visions of dystopian futures. While it starts out '
+                          "with the uncomfortable humor you'd expect from a "
+                          'Zach Galifianakis film, the atmosphere of '
+                          'oppression builds over the course of the movie to '
+                          'become almost unbearable. This film makes Requiem '
+                          "for a Dream seem like an episode of 'friends'. The "
+                          'central character, George, lives robotically both '
+                          'in his dull office job and at home in a loveless '
+                          'marriage. The world around him is full of deadpan '
+                          'absurdities, a parody of drab offices and mid life '
+                          'crises, with an undercurrent of hopelessness that '
+                          'rings a little too true to sit comfortably.\n'
+                          '\n'
+                          'The way the theme of dreams is turned into a '
+                          'literal threat is done with obvious self-awareness, '
+                          'but it comes across like a bad cinematic pun. Its '
+                          'more carefully constructed distortions of reality '
+                          'are where it really shines, with its vapid '
+                          'self-help infomercials, eccentric mentor figures, '
+                          'and the mega-corporation as a cult. And the way '
+                          'George seems to communicate through much of the '
+                          'movie semi-telepathically instead of verbally may '
+                          'be strange and unsettling, but also mesmerizing. '
+                          'Thoroughly worth watching.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for this dark comedy',

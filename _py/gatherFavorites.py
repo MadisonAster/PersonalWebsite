@@ -102,7 +102,7 @@ def SanitizeTitle(Title):
             Result += '-'
     return Result
 
-def GetIMDB(url, OutputDir, UpdateAll=False):
+def GetIMDB(url, OutputDir, UpdateAll=True):
     print('GetIMDB!', url, OutputDir)
     #match = soup.find('div', class_='footer')
     #for match in soup.find_all('div', class_='footer')
@@ -117,32 +117,28 @@ def GetIMDB(url, OutputDir, UpdateAll=False):
             Entry = Entries[itemurl]
             EntryPath = Entry['EntryPath']
         if itemurl not in Entries.keys() or UpdateAll:
+            print('Downloading', itemurl)
             Item = GetIMDBItemData(itemurl)
             if Entry == None:
                 EntryPath = OutputDir+'/'+SanitizeTitle(Item['name'])
                 EntryPath = EntryPath.replace('\\','/').replace('//','/')
-            Item['EntryURL'] = itemurl
-            Item['EntryPath'] = EntryPath
-            Item['Entry_py'] = EntryPath+'/info.py'
-            Item['Entry_php'] = EntryPath+'/info.php'
-            Item['Entry_json'] = EntryPath+'/entry.json'
-            Item['Entry_thumb'] = EntryPath+'/thumb.jpg'
-            Item['EntryAdded'] = datetime.datetime.strftime(datetime.datetime.now(), '%m-%d-%Y')
-            if Entry != None:
-                if 'EntryURL' in Entry.keys():
-                    Item['EntryURL'] = Entry['EntryURL']
-                if 'EntryPath' in Entry.keys():
-                    Item['EntryPath'] = Entry['EntryPath']
-                if 'Entry_py' in Entry.keys():
-                    Item['Entry_py'] = Entry['Entry_py']
-                if 'Entry_php' in Entry.keys():
-                    Item['Entry_php'] = Entry['Entry_php']
-                if 'Entry_json' in Entry.keys():
-                    Item['Entry_json'] = Entry['Entry_json']
-                if 'Entry_thumb' in Entry.keys():
-                    Item['Entry_thumb'] = Entry['Entry_thumb']
-                if 'EntryAdded' in Entry.keys():
-                    Item['EntryAdded'] = Entry['EntryAdded']
+                Item['EntryURL'] = itemurl
+                Item['EntryPath'] = EntryPath
+                Item['Entry_py'] = EntryPath+'/info.py'
+                Item['Entry_php'] = EntryPath+'/info.php'
+                Item['Entry_json'] = EntryPath+'/entry.json'
+                Item['Entry_thumb'] = EntryPath+'/thumb.jpg'
+                Item['EntryAdded'] = datetime.datetime.strftime(datetime.datetime.now(), '%m-%d-%Y')
+            else:
+                Item['EntryURL'] = Entry['EntryURL']
+                Item['EntryPath'] = Entry['EntryPath']
+                Item['Entry_py'] = Entry['Entry_py']
+                Item['Entry_php'] = Entry['Entry_php']
+                Item['Entry_json'] = Entry['Entry_json']
+                Item['Entry_thumb'] = Entry['Entry_thumb']
+                Item['EntryAdded'] = Entry['EntryAdded']
+                if os.path.exists(Item['Entry_php']):
+                    os.remove(Item['Entry_php'])
             if not os.path.exists(EntryPath):
                 os.makedirs(EntryPath)
             Entry = Item #Overwrite possibly existing Entry reference here to update data

@@ -19,7 +19,7 @@
             'url': '/name/nm0836121/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 565809,
+                     'ratingCount': 565871,
                      'ratingValue': '7.9',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -48,29 +48,32 @@
              'short story',
  'name': 'Arrival',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'nemoe'},
-            'dateCreated': '2016-10-07',
+            'author': {'@type': 'Person', 'name': 'SilentEyes_'},
+            'dateCreated': '2017-02-13',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2543164/'},
-            'name': 'An extraordinary film.',
-            'reviewBody': 'I saw this last night at the opening of the Mill '
-                          'Valley film Festival. Arrival is unlike any movie '
-                          "I've ever seen. It's about love, loss, tolerance, "
-                          'language and non-linear time, wrapped in a science '
-                          'fiction story about our first encounter with '
-                          'extraterrestrials. \n'
-                          '\n'
-                          "Under director Denis Villeneuve's masterful "
-                          'direction, Arrival takes its time to unfold, but it '
-                          'gradually gets under your skin and commands your '
-                          'attention. The last half hour was one of the most '
-                          "emotional experiences I've had at the movies in a "
-                          "long time. There aren't many movies these days that "
-                          'I would call required viewing, but this is one of '
-                          'them. And Amy Adams is Oscar-worthy in the lead '
-                          'role. In fact, Arrival could also win Oscars for '
-                          'original score, sound, direction and Best Picture.',
+            'name': 'No CGI overkill, just some fine acting and directing',
+            'reviewBody': 'Denis Villeneuve is without a doubt an upcoming '
+                          "director and I can't wait to see Blade Runner 2049. "
+                          "Prisoners, Sicario and now Arrival (haven't seen "
+                          'Enemy yet, or some of his earlier work). Denis '
+                          'knows how to capture the tension. It is almost the '
+                          'strongest point of all of his films. Minimal use of '
+                          'computer generated images, and main focus on story, '
+                          'characters, acting and thrilling scenes. Back on '
+                          'IMDb board, I have noticed a lot of people calling '
+                          'Arrival a boring movie. So many hypocrites these '
+                          'days. People trying to point out every possible '
+                          'flaw to look and sound smarter while at the same '
+                          'time hailing far worse movies. Calling it boring '
+                          'and slow while at the same time complaining no '
+                          'originality in Hollywood, only giant CGI laser '
+                          'explosions extravaganza. Go watch Independence Day. '
+                          'In Arrival there is no action, no explosions, just '
+                          'some amazing acting performances combined with good '
+                          'directing, editing and cinematography. There was '
+                          'not a single moment I felt bored.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

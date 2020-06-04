@@ -45,35 +45,17 @@
  'name': 'Is the Man Who Is Tall Happy?: An Animated Conversation with Noam '
          'Chomsky',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ana-arist'},
-            'dateCreated': '2014-09-27',
+            'author': {'@type': 'Person', 'name': 'strangelove89'},
+            'dateCreated': '2018-11-03',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1817287/'},
-            'name': "It could've been wonderful - it's just pointless",
-            'reviewBody': 'As deep as a saucer, Gondry take on the nature of '
-                          'human language is just a giant waste of time, both '
-                          "Chomsky's and ours. Gondry interviews one of the "
-                          'leading authorities on human language and he cannot '
-                          'think of better questions to ask him than "what '
-                          'makes you happy?" or "do you miss your dead '
-                          'wife?".\n'
-                          '\n'
-                          "If you're interested in Chomsky works, look "
-                          'somewhere else. If you happen to like Gondry - and '
-                          'want to maintain any respect for him - do yourself '
-                          'a favor and skip this movie.\n'
-                          '\n'
-                          'I understand some people appreciate Gondry lavish '
-                          'visual creativity (I usually do, too), but in this '
-                          'movie they cannot compensate for the fact the '
-                          'Gondry has no idea what his own movie is about '
-                          '(since he has no clue what Chomsky is talking about '
-                          'most of the time).',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '3',
-                             'worstRating': '1'}},
+            'name': "Chomsky answering questions for 80 minutes? I'm in.",
+            'reviewBody': 'I mean not to sound sycophantic but any document '
+                          'that has noam chomsky talking for 80 minutes is a '
+                          'valuable one. Gondry is an awkward guy which is fun '
+                          'to listen. They get along well. Noam is, as always, '
+                          'insightful and inspiring.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'A series of interviews featuring linguist, '
                             'philosopher and activist Noam Chomsky done in '

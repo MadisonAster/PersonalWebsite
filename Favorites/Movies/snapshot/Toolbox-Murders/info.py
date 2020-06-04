@@ -19,7 +19,7 @@
             'url': '/name/nm0397555/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 7627,
+                     'ratingCount': 7628,
                      'ratingValue': '5.3',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -47,59 +47,68 @@
  'keywords': 'neighbor,toolbox,slasher,elevator,secret entrance',
  'name': 'Toolbox Murders',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Coventry'},
-            'dateCreated': '2004-03-20',
+            'author': {'@type': 'Person', 'name': 'RockPortReview'},
+            'dateCreated': '2013-06-16',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0367153/'},
-            'name': 'A rather solid slasher remake',
-            'reviewBody': 'Director Tobe Hooper once entered the horror-hall '
-                          'of fame at the top position back in 1974 with his '
-                          'undeniable masterpiece of imaginative terror, the '
-                          'Texas Chainsaw Massacre. Ever since that, his '
-                          'career only went downhill. In the nineties he '
-                          'simply\x85'
-                          'well\x85'
-                          'sucked with a repertoire of titles like The Mangler '
-                          'and Crocodile. The tide seems to be turning a bit '
-                          'now, as his version of the Toolbox Murders is '
-                          'surprisingly decent and well made. This is a remake '
-                          "of a vicious 70's slasher that is overall gory and "
-                          'disgusting (the original was even included in the '
-                          "`video nasties' \x96 list of banned horror movies "
-                          'in the U.K) The plot and motivations of the '
-                          "murdering nut are slightly different in Hooper's "
-                          'version of the Toolbox Murders. The story is about '
-                          'a young couple that moves to Hollywood and homes in '
-                          'an old, spooky building. Inhabitants of this '
-                          'building \x96 mainly wannabe actors and other scum '
-                          '\x96 brutally die one by one\x85'
-                          'As the title implies, the butchering is achieved by '
-                          'hammers, drills, screwdrivers and a bunch of other '
-                          'tools. And I bet you can imagine how badly things '
-                          "can get messed up if you're using tools on people, "
-                          'no? Indeed, this films is rather gory and extremely '
-                          'violent with a few gruesome killing-highlights such '
-                          'as a (semi-)decapitation with a sawing machine! '
-                          'Angela Bettis, the girl who stole every horror '
-                          "fan's heart since `May', plays the screaming "
-                          'heroine who slowly gets to the bottom of the murder '
-                          'mystery. She receives good feedback from the '
-                          "beautiful Juliet Landau (Martin Landau's daughter) "
-                          ". The script and story-development isn't always "
-                          'logical and most of the interior shots are '
-                          'under-exposed. Also, the Toolbox Murders seems to '
-                          "give the impression we're guessing fro the identity "
-                          'of the killer initially\x85'
-                          "like a good old-fashioned \x91whodunit' slasher, "
-                          'but the mystery and detective aspects abruptly come '
-                          'to an end as the plot  opens up a little more. Far '
-                          'from being an intelligent (or even clever) horror '
-                          "remake, Tobe Hooper's film is entertaining and "
-                          'perfectly suitable for an evening of scares and '
-                          'loud yells.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '6',
-                             'worstRating': '1'}},
+            'name': 'Good Remake with the great Angela Bettis!',
+            'reviewBody': 'In 1974 Tobe Hooper directed the original horror '
+                          'masterpiece "The Texas Chainsaw Massacre" and '
+                          'created and instant name for himself. But over the '
+                          "past few decades he really hasn't done anything to "
+                          'write home about. Except that in 2004 he directed '
+                          'Angela Bettis in a remake of the 1978 film "The '
+                          'Toolbox Murders".\n'
+                          '\n'
+                          'This new version stars Bettis as Nell as she and '
+                          'her husband move into the Lusman Arms apartment '
+                          'complex in Los Angeles. The complex in under an '
+                          'extensive renovation and is a complete mess, but '
+                          'they have a doorman. The story feels like a lost '
+                          'film from Roman Polanski, drawing a lot from the '
+                          'themes of "Rosemary\'s Baby" and "The Tenant". The '
+                          'story also throws in a bit of old Hollywood noir, '
+                          'as the apartment building was the former residence '
+                          'of the infamous Black Dahlia victim Elizabeth '
+                          'Short. The building is a character in itself as a '
+                          'dark and foreboding presence. The movie was shot at '
+                          'the old Ambassador Hotel which has a pretty storied '
+                          'past in itself. The Lusman Arms is the place where '
+                          'young actors come with dreams of making it big. '
+                          'Although Nell is a school teacher and her husband '
+                          'Steve and med student.\n'
+                          '\n'
+                          'From the first scene of the movie we know that '
+                          'there is a ski masked maniac in the building who is '
+                          'killing off the resident and things seem to point '
+                          'towards Ned the quiet and creepy young maintenance '
+                          'man who kind of looks like Jack White. Like the '
+                          'original film he kills his victims with various '
+                          'tools in his toolbox, so yeah the title is pretty '
+                          'self explanatory.\n'
+                          '\n'
+                          'Nell immediately gets the creeps about the place, '
+                          'but its so affordable since they have to live in a '
+                          'construction zone. We get to know a lot of the '
+                          'residents from an old man who has lived there for '
+                          '60 years, to the young couple that is always '
+                          'fighting, and the middle aged couple with a teenage '
+                          'son. After hearing a bunch of screaming from next '
+                          'door Nell calls the cops, but they find nothing. '
+                          'She is all alone with her mind allowed to wonder '
+                          "and with the paper thin walls she can't get a "
+                          'moment of silence. As the terror and suspense '
+                          'increases Nell starts to investigate the history of '
+                          'the Lusman Arms. Acting on a tip from the Old Man '
+                          'she find that each floor is missing a room and that '
+                          'something sinister lurks within the walls.\n'
+                          '\n'
+                          'This is a fun little movie that is all about Angela '
+                          'Bettis and her character Nell as she fights for not '
+                          'only her life but for her sanity. The "Toolbox '
+                          'Murders" DVD is available online or from Netflix '
+                          'and includes a couple of commentary tracks and some '
+                          'deleted scenes. So I guess you should put the Hot '
+                          'Pocket down and go watch this movie.'},
  'url': '/title/tt0367153/'}

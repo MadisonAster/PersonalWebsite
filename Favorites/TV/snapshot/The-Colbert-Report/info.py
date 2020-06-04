@@ -19,7 +19,7 @@
             'url': '/name/nm0227576/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 37538,
+                     'ratingCount': 37536,
                      'ratingValue': '8.4',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -47,39 +47,36 @@
              'title,surname in series title',
  'name': 'The Colbert Report',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jgkinoz'},
-            'dateCreated': '2005-10-21',
+            'author': {'@type': 'Person', 'name': 'DrFilmFalm'},
+            'dateCreated': '2005-10-19',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0458254/'},
-            'name': 'The Best US TV Satire In History',
-            'reviewBody': 'Colbert has made the best satirical TV show in US '
-                          'history.\n'
+            'name': 'This show is surprisingly awesome!',
+            'reviewBody': 'Colbert is right when he says that he has balls. He '
+                          "says things on his show that Jon Stewart doesn't "
+                          'have the balls to say for example: the "Better Know '
+                          'a District" in which he interviewed Jack Kingston.\n'
                           '\n'
-                          "This 22 minute show is three shows. So I'd say "
-                          'Stephen Colbert has made the best three satirical '
-                          "US TV shows. With Jon Stewart's Daily Show in "
-                          'fourth place.\n'
+                          '"So you were raised in Ethiopia?" "No I only lived '
+                          'there till I was 2 so I don\'t remember much." '
+                          '"What was it like being raised in Ethiopia?" Just '
+                          'some of the stuff he says gets me rolling. He then '
+                          'went on to call the man an African American and ask '
+                          'how it helps him to be an African American in '
+                          'congress and how he helps the working class.\n'
                           '\n'
-                          'First this is a show that spoofs the stupid US news '
-                          'TV. With a segment The Word which is comedy GOLD.\n'
+                          'I also love "The Word" which is basically a moment '
+                          'for him to completely tear apart the issue of the '
+                          'night. Always on the side are random "pointers" '
+                          'that always have some funny connotation to them. '
+                          'Overall so far this show seems to be a resounding '
+                          'success and I hope it continues down this great '
+                          'path. I still love the Daily Show and think Comedy '
+                          'Central did what the fans wanted. Many fans wanted '
+                          'the Daily Show to be extended to an hour so this '
+                          'pretty much is what they wanted if not better.\n'
                           '\n'
-                          'Second this is a talk show where Stephen walks into '
-                          'a set where the guest is already sitting or '
-                          'standing sometimes in the dark. He runs in front of '
-                          'them and takes all the applause. There is no time '
-                          'for applause for the guest. Stephen is a one of '
-                          'histories greatest interviewers. \n'
-                          '\n'
-                          'Third it is an investigative reporting show which '
-                          'is more honest and insightful than the US "media '
-                          'manipulated" news and makes a genuine connection '
-                          'with the audience.\n'
-                          '\n'
-                          'I wish I could buy stocks in Stephen. Two word '
-                          'review: "Thankyou Colbert!".',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
+                          'In the end the truth is that Stephen Colbert is '
+                          'awesome and his show is too.'},
  'url': '/title/tt0458254/'}

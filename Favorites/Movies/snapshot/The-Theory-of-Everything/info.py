@@ -19,7 +19,7 @@
             'url': '/name/nm6240141/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 385528,
+                     'ratingCount': 385565,
                      'ratingValue': '7.7',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -46,55 +46,102 @@
              'disease,cosmology,physicist',
  'name': 'The Theory of Everything',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'RichardvonLust'},
-            'dateCreated': '2014-11-26',
+            'author': {'@type': 'Person', 'name': 'jadepietro'},
+            'dateCreated': '2014-11-29',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2980516/'},
-            'name': 'Astounding Oscar worthy performance from Eddie Redmayne',
-            'reviewBody': 'We are all familiar with the story and with Steven '
-                          "Hawking. His groundbreaking work 'A brief History "
-                          "of Time' and devastating disabilities propelled him "
-                          'irrevocably into the public consciousness and '
-                          'immortal fame.\n'
+            'name': 'Proof Positive',
+            'reviewBody': 'This film is highly recommended.\n'
                           '\n'
-                          'But few of us could understand the complexities of '
-                          'his personal life and the shocking divorce in 1990 '
-                          'from his long sacrificing wife of more than 25 '
-                          'years. Indeed that episode served to darken his '
-                          'reputation in the minds of many, including myself, '
-                          'who felt ill at ease with anyone who could leave a '
-                          'partner who had done so much for him just at the '
-                          'long awaited moment when international fame and '
-                          'recognition finally arrived.\n'
+                          "You can certainly tell it's Oscar time when all the "
+                          'more dignified and personal projects inundate the '
+                          'movie houses in hopes of capturing the gold. For '
+                          'most of the other nine months, we get lesser '
+                          'efforts and big blockbuster spectacles to fill-in '
+                          "until late October arrives. Then, it's time to get "
+                          'serious about our cinema choices. The Theory of '
+                          'Everything is one such film. It carries its '
+                          'pedigree with style and class, even if it is a '
+                          'rather conventional biopic in disguise, with its '
+                          'main character suffering through a debilitating '
+                          'disease while finding the stamina to go on.\n'
                           '\n'
-                          'This wonderful production, so well scripted and '
-                          'paced throughout, serves to explain that vital '
-                          "anomaly in Hawking's life. And it is made all the "
-                          'more poignant as it is based upon the account '
-                          'written by his wife who has borne so much.\n'
+                          'With a very literate screenplay by Anthony McCarten '
+                          'and accomplished direction by James Marsh, the film '
+                          'tells the story of famed scientist Stephen Hawking '
+                          'and his battle with ALS. It also concentrates on '
+                          'his relationship with his supportive and loving '
+                          'wife, Jane.\n'
                           '\n'
-                          'But it is the breathtaking performance of Eddie '
-                          'Redmayne as Hawking that simply blasted this film '
-                          'into an extraordinary level. It is difficult enough '
-                          'to mimic so famous a person as Hawking and it is '
-                          'even more difficult to portray so accurately the '
-                          'debilitating and gradually increasing effects of '
-                          'Motor Neuron Disease. But to transmit so clearly '
-                          'the profound emotions and inner suffering that '
-                          'Hawking must have experienced in his agonizing '
-                          'journey was a performance that left me quite '
-                          'speechless and at times in uncontrollable tears.\n'
+                          'Love will conquer all. Or so it should. But the '
+                          'horrors of this disease and the hardships they face '
+                          'seem unsurmountable. We see the couple meet, fall '
+                          'in love, marry, have children, and grow weary of '
+                          'each other. Stephen achieves adoration, fame, and '
+                          'fortune while Jane takes a back seat to her '
+                          'caregiver role and bringing up the family, amid the '
+                          'tears and frustration they face on a daily basis. '
+                          'One immediately empathizes with these characters '
+                          'due to their tragic situations.\n'
                           '\n'
-                          'It would be a travesty of the industry if Eddie '
-                          'Redmayne is not nominated for an Oscar after this '
-                          'performance. And to my mind it was a work of art '
-                          'that simply cannot be equaled let alone beaten.\n'
+                          'The two leads are splendid and their acting is '
+                          'peerless. Felicity Jones plays Jane. Her role may '
+                          'be less showy and far more understated, but the '
+                          "actress is perfect at showing Jane's endurance and "
+                          'strength in the subtlest of ways. Eddie Redmayne is '
+                          'Stephen Hawking and his performance is literally '
+                          'trans-formative. (He must have learned his craft '
+                          'from tons of research about Hawking and creative '
+                          'influence from Daniel Day Lewis.) This is an '
+                          'impressive physical performance, from his black '
+                          'horn rimmed glasses to his walking cane and '
+                          'distorted posture. Both will receive well-earned '
+                          'accolades for their memorable work. Fine supporting '
+                          'work by Charlie Cox as Jonathan, their loyal '
+                          "friend, and Simon McBurney as Stephen's father add "
+                          'more clarity to the film.\n'
                           '\n'
-                          'Have a good handkerchief ready to hand.',
+                          'As with most biographical films, one sees the rise '
+                          'and fall of the protagonist before it arrives. This '
+                          'film follows that tries-and-true formula. But '
+                          "Marsh's direction compensates for the linear "
+                          'structure and predictability of the story. The '
+                          "director relies heavily on his actors' subtle "
+                          'actions to tell more about their characters than '
+                          'the mere words they speak. He also wisely shows '
+                          "Hawking's point of view by angling the camera range "
+                          'from a lower stance or keeping it stationary to '
+                          "reinforce the characters' immobility. The final "
+                          "scene, recapping Hawking's life in reverse, "
+                          "beautifully sums up Stephen's life full circle in "
+                          'the most visual of terms.\n'
+                          '\n'
+                          'But The Theory of Everything is foremost a love '
+                          'story. The film desperately wants to be a '
+                          'crowd-pleaser with an uplifting message of '
+                          'inspiration, even when the reality and truth of '
+                          'their actual lives is bleaker than it appears on '
+                          'screen. The film glosses over some factual content '
+                          'to play up the human drama of this pair of young '
+                          'lovers. It skillfully manipulates its audience to '
+                          'wallow in the heartbreak. Director Marsh '
+                          'successfully capture the pangs of young love and '
+                          'bittersweet romance in this emotionally involving '
+                          'film. \n'
+                          '\n'
+                          'The Theory of Everything is an immensely satisfying '
+                          'film with stand-out acting and skilled direction. '
+                          'The proof is right there on the screen, even if the '
+                          'facts are slightly askew. GRADE: B+\n'
+                          '\n'
+                          'Visit my blog at: www.dearmoviegoer.com\n'
+                          '\n'
+                          'ANY COMMENTS: Please contact me at: '
+                          'jadepietro@rcn.com',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'At Cambridge, Stephen Hawking falls deeply in '

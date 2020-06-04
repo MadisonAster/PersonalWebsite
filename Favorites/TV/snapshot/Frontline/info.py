@@ -31,19 +31,22 @@
              'journalism,military,armed forces',
  'name': 'Frontline',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Elephantlips'},
-            'dateCreated': '2018-07-06',
+            'author': {'@type': 'Person', 'name': 'BlobbyLight'},
+            'dateCreated': '2020-04-09',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0133302/'},
-            'name': 'Well made, but clearly slanted to the left...',
-            'reviewBody': 'Hammered Bush for 8 years, made Obama look like a '
-                          'prince for 8, and now... Trump could cure cancer '
-                          'and these producers would find a way to put a '
-                          'negative spin on it.',
+            'name': 'Just no.',
+            'reviewBody': 'These glowing reviews are frankly speaking a joke. '
+                          'The show ranges from interesting well informed '
+                          'topics to downright propagandized disinformation.. '
+                          'making for a completely unbalanced and ultimately '
+                          'untrustworthy source of "news". Seeking truthful '
+                          'information on a particular topic? Begin by taking '
+                          'a hard pass on Frontline. NEXT.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '3',
+                             'ratingValue': '1',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Storm Over Everest',

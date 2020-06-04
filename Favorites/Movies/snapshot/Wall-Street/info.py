@@ -21,7 +21,7 @@
             'url': '/name/nm0184429/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 139518,
+                     'ratingCount': 139526,
                      'ratingValue': '7.4',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -49,41 +49,46 @@
              'capitalism',
  'name': 'Wall Street',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'secordman'},
-            'dateCreated': '2001-05-21',
+            'author': {'@type': 'Person', 'name': 'Lechuguilla'},
+            'dateCreated': '2003-08-13',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0094291/'},
-            'name': 'Entertaining and still relevant',
-            'reviewBody': 'Wall Street could have fit in very nicely in the '
-                          "theatres today.  The bull market of the late 80's "
-                          'can be compared to the insane dot.com market of the '
-                          "late 90's, the same mistakes made on Wall Street "
-                          "repeated themselves again. Hal Holbrook's character "
-                          'is the voice of reason in Wall Street, telling Bud '
-                          'Fox (Charlie Sheen) to stick to the basics, and not '
-                          'get carried away with going for the easy buck.  Fox '
-                          'is entranced by dynamo Gordon Gekko (Michael '
-                          'Douglas), whose specialty is taking over and '
-                          '"wrecking" companies, "because they\'re '
-                          'wreckable".  Gekko takes Fox in as his protege, '
-                          'teaching him the ropes and showing him the '
-                          'realities of greed.  Fox becomes corrupted, and '
-                          'despite the sobering influence of his union man dad '
-                          "(Martin Sheen) gets ensnared in Gekko's web.  Great "
-                          'performances all around, Douglas was deserving of '
-                          'the Oscar, Charlie Sheen was very good in his role '
-                          'as well. There are terrific supporting roles in '
-                          'this movie; Martin Sheen, Holbrook, Terence Stamp '
-                          "and Oliver Stone's favourite character actor, John "
-                          "C. McGinley.  For all of Stone's later failed "
-                          'movies, Wall Street hits the nail on the head, and '
-                          "above all entertains the audience.  It's hard to "
-                          'see how the same man directed trash like Natural '
-                          'Born Killers afterwards.',
+            'name': 'High Quality Film, Disturbing Message',
+            'reviewBody': 'Michael Douglas deservedly won an Oscar for his '
+                          'portrayal of the ruthless, chain-smoking capitalist '
+                          "guru, Gordon Gekko, who leads Charlie Sheen's Bud "
+                          "Fox down the garden path to Wall Street's hidden "
+                          'abyss.  Good supporting cast includes Sean Young, '
+                          'James Spader, reliable Hal Holbrook, and the '
+                          'wonderful Sylvia Miles.  Tight direction, '
+                          'perceptive script with realistic techno-lingo, '
+                          'fabulous production design, dazzling cinematography '
+                          "of the Manhattan skyline, and hip 80's music rev up "
+                          'the technical quality of this Oliver Stone '
+                          '"message" film.  If only the message had been more '
+                          'reassuring.\n'
+                          '\n'
+                          'Gekko is a villain and an outlaw, but mostly he '
+                          'comes across to viewers as a worldly tough guy, a '
+                          'charming bully with a glamorous lifestyle.  We see '
+                          'his high-class mega-office, his plush home and chic '
+                          'wife, his expensive paintings, his rapid-fire '
+                          'commands to his robotic lieutenants, his snazzy '
+                          'clothes and "in vogue" friends.  Here and there we '
+                          'see his frustrations, but that only accentuates his '
+                          'toughness.  We do not see him suffer, nor do we see '
+                          'the consequences of his selfish, Machiavellian '
+                          'behavior.\n'
+                          '\n'
+                          'As a result, to viewers, especially to those '
+                          'youthful, bright, materialistic Americans with a '
+                          'smug, "can do" attitude, and disdain for ethics, '
+                          'Gekko is, unfortunately, someone to admire, a Wall '
+                          'Street role model.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from 20th Century Fox Home '

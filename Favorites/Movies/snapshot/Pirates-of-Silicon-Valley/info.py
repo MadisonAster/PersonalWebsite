@@ -19,7 +19,7 @@
             'url': '/name/nm0381117/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 23213,
+                     'ratingCount': 23214,
                      'ratingValue': '7.3',
                      'worstRating': '1.0'},
  'contentRating': 'Not Rated',
@@ -49,30 +49,39 @@
              'company',
  'name': 'Pirates of Silicon Valley',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'crack-4'},
-            'dateCreated': '1999-10-10',
+            'author': {'@type': 'Person', 'name': 'Col-3'},
+            'dateCreated': '1999-06-22',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0168122/'},
-            'name': 'Excellent',
-            'reviewBody': 'This is definitely a must-see for any IT person or '
-                          'anyone just wanting to see a great movie.  The cast '
-                          'is incredible, the acting is incredible, the story '
-                          'is also incredible.  I wish that this had been '
-                          'released on dvd, I would be first in line to '
-                          'purchase it. It is basically the story of how Apple '
-                          'Computers grew, and how Microsoft grew, they met '
-                          'up, and Microsoft took over.  Im not sure how '
-                          'historically accurate this is, however I do know '
-                          'the basic jist is correct.  The real life "Woz" '
-                          'validated on his website the correctness of this '
-                          'movie.  He also said that the way people are '
-                          'portrayed is how they were.  Noah Wyle is excellent '
-                          'as a heartless and cruel Steve Jobs.  Anthony '
-                          'Michael Hall is equally great as a geeky Bill '
-                          'Gates. I hope TNT replays it at some point in time, '
-                          'in case it does, RECORD it.  I believe its also '
-                          'available for rent.  SEE THIS MOVIE.'},
+            'name': 'A very watchable geek history',
+            'reviewBody': 'As a geek in Silicon Valley I enjoyed this movie '
+                          'beyond my expectations. The makers of this movie '
+                          'seemed to agree with its protagonists that the '
+                          'evolution of the personal computer is a process '
+                          "that shaped the history of the world - and they're "
+                          "right. If you're not sitting in front of a Windows "
+                          "box or Mac right now, you're in the vast minority. "
+                          'The story of how Steve Jobs and Bill Gates amassed '
+                          'such wealth and power is an interesting one.\n'
+                          '\n'
+                          'Noah Wyle (Jobs) and Anthony Michael Hall (Gates) '
+                          'fit their characters to a T. Gates was portrayed '
+                          'just as I imagined him - smug, opportunistic and '
+                          'sneaky, but hardly villainous. Surprisingly, during '
+                          'this movie I was more sympathetic to Gates than to '
+                          'the brilliant but unstable Jobs who came across as '
+                          'arrogant and petulant.\n'
+                          '\n'
+                          'All in all, this was quite enjoyable for a '
+                          "tele-movie. If you're inclined towards the geeky "
+                          'yourself, and remember the early days of the PC '
+                          "biz, you'll probably find this movie quite "
+                          'educational.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '7',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from TBS',
              'embedUrl': '/video/imdb/vi1521418521',

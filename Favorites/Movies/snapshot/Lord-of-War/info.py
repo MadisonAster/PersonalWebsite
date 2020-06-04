@@ -19,7 +19,7 @@
             'url': '/name/nm0005256/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 287680,
+                     'ratingCount': 287689,
                      'ratingValue': '7.6',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -48,29 +48,60 @@
  'keywords': 'arms dealer,prostitution,sex standing up,new york city,ukrainian',
  'name': 'Lord of War',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'wahzoh'},
-            'dateCreated': '2005-10-09',
+            'author': {'@type': 'Person', 'name': 'opencad2'},
+            'dateCreated': '2005-09-16',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0399295/'},
-            'name': 'A Surprising Morality Tale',
-            'reviewBody': 'I was really surprised that Hollywood was able to '
-                          'tackle a huge moral morass like the black market '
-                          'arms trade and leave the moral issues in the '
-                          "audience's lap. Yuri (played by Nicholas Cage) goes "
-                          'to work in a particularly ugly world. When he says '
-                          "that he's had a bad day at the office, you can be "
-                          'pretty sure that someone has been shot or blown up. '
-                          'At any event, what I liked about this picture was '
-                          'that although Yuri obviously has some moral issues '
-                          'to wrestle with, he does so on his own terms, and '
-                          'we are left to figure out the rights and the '
-                          "wrongs. Since most movie-goers don't like to leave "
-                          'a movie with food for thought, this picture may not '
-                          'play very broadly in theaters, but I hope it gets a '
-                          'good audience on video. I also though that Jared '
-                          "Leto was wonderful as Yuri's tragically addicted "
-                          'and unhappy brother.'},
+            'name': 'Great Movie -- Similar to "The Godfather"',
+            'reviewBody': 'This was a great movie. Cage delivered on the '
+                          '"anti-hero" - a 21st century "Corleone". \n'
+                          '\n'
+                          'The locations were cool and "spectacular". From a '
+                          'visual standpoint this movie really does take you '
+                          'around the world. New York, Russia, Libya, Libera, '
+                          'etc. This movie is shot very, very well.\n'
+                          '\n'
+                          "The pacing of the movie is brisk, the scenes aren't "
+                          "morose. Like Platoon, this movie doesn't glamorize "
+                          'or demonize situations. A guy who sells weapons for '
+                          'a living meets some violent people in some violent '
+                          'places. The visual style is breathtaking . . . \n'
+                          '\n'
+                          'What I like best is, no characters in the movie are '
+                          '"romanticized". There are no "good guys". One could '
+                          'make the case that there are no "bad guys" as well '
+                          'I suppose. There are people who do bad things for '
+                          "reasons you don't understand. There are people who "
+                          'do nothing when they should do something for '
+                          "reasons you don't understand. Its a pretty accurate "
+                          'depiction of real life :)\n'
+                          '\n'
+                          'I think I might have rated the movie 8.5, if there '
+                          'were any other movies at all about this topic that '
+                          'were anywhere in its league. If you make a great '
+                          '"Legally Blond", that\'s nice. If you make a great '
+                          'movie about arms trading with a sold antihero and '
+                          'supporting characters, I figure you get "extra '
+                          'credit".\n'
+                          '\n'
+                          "I think you're a fool if you miss this movie. Its "
+                          'not about Iraq. Its not particularly political. '
+                          'This movie could have been made under any president '
+                          'in the last 100 years and been just as accurate. '
+                          'Its not particularly anti-gun. Its just about this '
+                          'guy who sells guns. \n'
+                          '\n'
+                          "On the other hand, don't take people to this movie "
+                          "if they can't handle violence or movies that aren't "
+                          'designed to make them "feel good" when they walk '
+                          'out. This is a good movie, its interesting, its '
+                          'intelligent, its important -- but its not Ferris '
+                          'Buellers Day Off or Spinal Tap.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '9',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for this action film starring Nicholas '
                             'Cage as a gun runner',

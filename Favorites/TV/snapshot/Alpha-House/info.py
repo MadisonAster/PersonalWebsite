@@ -42,50 +42,33 @@
  'keywords': 'politics',
  'name': 'Alpha House',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'fung0'},
-            'dateCreated': '2014-02-09',
+            'author': {'@type': 'Person', 'name': 'michael_weho'},
+            'dateCreated': '2014-10-24',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3012160/'},
-            'name': 'Entertaining and Insightful',
-            'reviewBody': "It's not easy to hear the voice of 'Doonesbury' "
-                          'cartoonist Garry Trudeau in the mouths of John '
-                          'Goodman and the other solid actors of Alpha House. '
-                          'The satire here is more subtle, and surprisingly '
-                          'affectionate. We tend to like these characters, '
-                          "even though they're ambitious, incompetent, "
-                          'self-serving and immoral. The show rarely goes for '
-                          'obvious one-liners. Instead, it gives Washington '
-                          'culture more of a slow-roasting.\n'
-                          '\n'
-                          'Alpha House may be a deliberate attempt to create a '
-                          'US counterpart to such behind-the-scenes British '
-                          'political satires as Yes Minister and The Thick of '
-                          'It. Like those classics, Alpha House depicts '
-                          'politicians not as evil, or Machiavellian, but '
-                          'rather as very human products of a certain unique '
-                          'culture. These are people who wield great power, '
-                          "yet they're just as slow-witted as the rest of us, "
-                          'and just as unaware of their own blinkered '
-                          'viewpoint. Their priorities are shaped by the '
-                          'relentless pursuit of re-election; the needs of the '
-                          'populace hardly enter into it.\n'
-                          '\n'
-                          'By letting us get to know these characters, and '
-                          'even to like them, Alpha House gives us a very '
-                          "different understanding of their world than we'd "
-                          "get from serious political commentary. It's a show "
-                          "you can't help thinking politicians themselves "
-                          'would enjoy, just as Maggie Thatcher was reputed to '
-                          'enjoy Yes Minister.\n'
-                          '\n'
-                          'I hope the Daily Show/Colbert/Realtime audience '
-                          'discovers Alpha House, and gives its approach a '
-                          "chance. This is political humor that's a bit more "
-                          'subtle, but just as worthwhile.',
+            'name': 'Trudeau does have an agenda',
+            'reviewBody': 'I\'m now on the second season of "Alpha House" and '
+                          "it's as good if not better than the first. I "
+                          'noticed that some reviewers have said that the '
+                          'characters are Democrats playing Republicans but I '
+                          "don't think that is fair. I am old enough to "
+                          'remember when our political parties were not so '
+                          'beholding to outside money and that I had a sense '
+                          "that both parties were working in good faith. It's "
+                          'not that way now. Whatever, I enjoy this show '
+                          'because I see how it relates to how our '
+                          'politicians, GOP and Democrat, and the media work. '
+                          "But in a humorous vein. It's not overly cynical. I "
+                          'found myself admitting that I would vote for Biggs '
+                          'because he is reasonable. I believe that this is '
+                          'what Trudeau has in mind. The GOP has been taken '
+                          'over by right-wing extremist who answer only to big '
+                          'money, i.e. Koch Brothers. I hope it comes back for '
+                          'many seasons to come.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Four Republican senators share the same D.C. '

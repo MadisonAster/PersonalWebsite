@@ -19,7 +19,7 @@
             'url': '/name/nm2628935/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 26393,
+                     'ratingCount': 26395,
                      'ratingValue': '8.4',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -40,72 +40,56 @@
              'programmer',
  'name': 'Halt and Catch Fire',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'atlasmb'},
-            'dateCreated': '2014-06-01',
+            'author': {'@type': 'Person', 'name': 'ramair350'},
+            'dateCreated': '2014-07-23',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2543312/'},
-            'name': 'Promising Premise',
-            'reviewBody': 'After watching the pilot for this AMC series, I am '
-                          'interested in seeing more. The story is alleged to '
-                          'be largely true. It involves an unlikely trio who '
-                          'are bound together in an attempt to create a '
-                          'market-worthy personal computer. The year is 1983 '
-                          'and IBM rules the market.\n'
+            'name': 'Top notch drama, excellent writing and acting, give it a '
+                    'chance',
+            'reviewBody': 'This is an incredibly intelligent drama on AMC, '
+                          'which in my opinion is better than Mad Men, and '
+                          'equal to some of the best dramas on this or any '
+                          'other network (including HBO).\n'
                           '\n'
-                          'First, there is Joe MacMillan (Lee Pace), a type A '
-                          'rainmaker from New York whose opinion of himself '
-                          'may only be eclipsed by his ability to sell '
-                          'anything to anybody. He lands a job at Cardiff '
-                          'Electric in Texas and promises to overhaul their '
-                          'sales figures. But does he have deeper, perhaps '
-                          'darker, plans?\n'
+                          'The acting is A+. The characters come off as real '
+                          'people, with real feelings, and complicated '
+                          'motivations. Again, these characters really "pop" '
+                          'with the same clarity as any of the other great '
+                          'dramatic TV shows.\n'
                           '\n'
-                          "Joe aligns himself with one of Cardiff's corporate "
-                          'drones, Gordon Clark (Scoot McNairy), an apathetic '
-                          'near-alcoholic who would seem to have nothing to '
-                          'offer. But Joe sees something in Gordon and '
-                          'challenges him to think beyond the meager '
-                          "circumstances of his conformist life. It's a "
-                          'dangerous gambit for Gordon, whose wife wants '
-                          'nothing more than conformity and reliability.\n'
+                          'The sets (early 80s) are right on the money, and '
+                          'the writing is intelligent and clearly benefits '
+                          'from knowledge of those who lived and breathed the '
+                          'computer industry in the early 80s. But just like '
+                          "any of the great dramas, the show isn't really "
+                          'about computers (any more than Mad Men is about '
+                          'advertising, Friday Night Lights football, and so '
+                          'on). This is an original drama that really '
+                          'delivers, folks.\n'
                           '\n'
-                          'Joe also crosses paths with a young woman named '
-                          'Cameron Howe (Mackenzie Davis), a self-sufficient '
-                          "young woman who lives outside society's rules, "
-                          'though not very profitably. Though she is extremely '
-                          'experienced at working with computers and code, she '
-                          'spends her time playing video games in an arcade '
-                          'and scoffing at conformity and the rules of '
-                          'society. Physically, she reminds me of Mary Stuart '
-                          'Masterson in "Some Kind of Wonderful". \n'
+                          'I am incredibly upset at the lack of ratings. I '
+                          "feel that AMC perhaps didn't promote the show "
+                          'properly, or maybe launching in the summer was a '
+                          'miss. If AMC will give this show real legs with a '
+                          'season 2 renewal, without a doubt this will climb '
+                          'the ranks as one of the next great TV shows and '
+                          'will have a healthy run. Please give it a chance!\n'
                           '\n'
-                          'Each of the three may possess a particular kind of '
-                          'genius. Or they may just be destined losers; it is '
-                          'difficult to tell.\n'
+                          '*****\n'
                           '\n'
-                          "Joe's plan involves reverse engineering an IBM PC "
-                          'and then--well, it is difficult to tell just where '
-                          'his plan may lead them, but it will undoubtedly be '
-                          'a risky enterprise. Can he be the glue that holds '
-                          'this volatile team together? After watching the '
-                          'pilot for "Halt and Catch Fire", I am willing to '
-                          "watch and find out. It's a compelling premise and "
-                          'the actors are very watchable.\n'
+                          'UPDATE - much to my surprise and joy, the show '
+                          'shall return next summer for Season 2! Maybe there '
+                          'is a god after all ...\n'
                           '\n'
-                          'After you fire a shot across the bow of IBM, how do '
-                          'you keep them from raiding your enterprise?\n'
+                          '*****\n'
                           '\n'
-                          'Update: Now that I have watched a few episodes, I '
-                          'am happy to report that each of the various primary '
-                          'actors are being fleshed out and they have their '
-                          'own story lines and characteristics. Joe, as '
-                          'anticipated, is a force of nature.\n'
-                          '\n'
-                          'Further update 6/30/14: There is good writing and '
-                          'there is writing so good you wish you had written '
-                          'it. H&CF falls into the latter class. I am '
-                          'upgrading my vote to 10.',
+                          'UPDATE #2 - unbelievable; Season 3 has been '
+                          'ordered! THANK YOU AMC! I am a believer in the AMC '
+                          'network; they have the balls and bills to keep an '
+                          'excellent show going, despite viewership that is '
+                          'not exactly strong (but the passion of the viewers '
+                          "that turn in is quite high). Can't wait!",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

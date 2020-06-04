@@ -48,54 +48,33 @@
  'keywords': 'dianetics,scientology,based on book,year 2013,e meter',
  'name': 'Going Clear: Scientology & the Prison of Belief',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'clanciai'},
-            'dateCreated': '2015-03-31',
+            'author': {'@type': 'Person', 'name': 'cgallo'},
+            'dateCreated': '2015-03-30',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4257858/'},
-            'name': 'Important documentary on the anatomy of paranoia',
-            'reviewBody': 'There are a number of documentaries about this '
-                          'having accumulated since the 60s, but the '
-                          'phenomenon is that each new documentary reveals new '
-                          'more shocking facts about the business and its '
-                          'mentality than the previous ones, apparently '
-                          'because the material is still accumulating. There '
-                          'is very much important data from earlier '
-                          'documentaries missing here, many key persons are '
-                          'left out of the picture, which nevertheless is '
-                          'completed by the new ones appearing, corroborating '
-                          "all previous testimonies. It's a vitally important "
-                          'documentary, most of all because in the world '
-                          'society we are living in today so many, if not the '
-                          'majority of people, are not aware that it is an age '
-                          "of brainwash, and they still haven't learned to "
-                          'protect themselves against it. What you marvel at '
-                          'in this documentary, which many of the participants '
-                          'honestly do, is that they keep swallowing the '
-                          'racket for years before they can bring themselves '
-                          'to accept that they have been swindled, in most '
-                          "cases of their lives, which they don't realize "
-                          'until their lives are lost or completely '
-                          'devastated. In an effort to concentrate on the good '
-                          'things in Scientology I wrote an article some years '
-                          'back where I posed the open question - what went '
-                          'wrong? Apparently everything went wrong from the '
-                          'beginning, the founder having no self-criticism and '
-                          'no objective distance to what he was doing, but '
-                          'simply himself first of all falling a victim to the '
-                          'delusions of his own science fiction fantasies. Of '
-                          'course, there must be something good in '
-                          'Scientology, there must be a corn of truth in it '
-                          'somewhere, but whatever once was good and even of '
-                          'some worthwhile philosophical common sense and '
-                          'rational wisdom was flooded by the bolting '
-                          'derailing vicious circle of greed fueled by '
-                          'unrestricted paranoia, the constant validation of '
-                          'which seems to be the very substance and force of '
-                          'the organization.',
+            'name': 'Effective, Gripping Interviews',
+            'reviewBody': 'I was involved with Scientology from 1978-1990 and '
+                          'encountered some of the human rights abuses that '
+                          'Alex Gibney exposed in his documentary. The Sea Org '
+                          'people, who sign Billion Year contracts, bore the '
+                          'brunt of the mistreatment and are well represented '
+                          'in this film. Most former members will know of '
+                          'details that were not included in the show, but the '
+                          'topics that became the focus received a more '
+                          'complete treatment as a result.\n'
+                          '\n'
+                          'The humanity of these survivors shown through in '
+                          'each interview and should evoke empathy in anyone '
+                          'willing to accept the truth in the story. I never '
+                          'felt that someone was embellishing or seeking '
+                          'attention; in fact, quite the opposite.\n'
+                          '\n'
+                          'A huge thank you to HBO for having the guts to air '
+                          'this and not back down.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "A documentary based on Lawrence Wright's book of "

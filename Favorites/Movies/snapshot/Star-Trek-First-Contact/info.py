@@ -21,7 +21,7 @@
             'url': '/name/nm0000996/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 115115,
+                     'ratingCount': 115122,
                      'ratingValue': '7.6',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -60,54 +60,31 @@
              'character,experimental technology,nuclear missile',
  'name': 'Star Trek: First Contact',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'movieman_kev'},
-            'dateCreated': '2005-06-17',
+            'author': {'@type': 'Person', 'name': 'russem31'},
+            'dateCreated': '2005-12-03',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0117731/'},
-            'name': "The Next Generation's best film hands down",
-            'reviewBody': 'The next generation crew of the Enterprise star in '
-                          'their best movie. Picard and his crew hitch a ride '
-                          'back in time to save the Galaxy from being infested '
-                          'with Borg, by saving the drunkard who invented Warp '
-                          'Drive from being killed by the Borg. This Star Trek '
-                          "movie is nuanced enough for the 'trekkies' to get "
-                          'into, while still being very accessible to the rest '
-                          'of the cinema going public. Johnathon Frakes, for '
-                          'all of his smarmy, cocky demeanor, still I have to '
-                          'admit that he hits a home-run in this initial '
-                          'outing (now his "Insurection" is a whole nother '
-                          'story, one for a different day) This film is '
-                          'action-packed, features good performances, and is '
-                          'just plain fun. All those aforementioned traits '
-                          'easily puts it among the top echelon of Trek '
-                          'films.\n'
+            'name': 'Finally!',
+            'reviewBody': 'Star Trek VIII: First Contact - Stardate: 50893.5\n'
                           '\n'
-                          'My Grade: B+ \n'
-                          '\n'
-                          'DVD Extras: Disc 1) Commentary with director/actor '
-                          'Jonathan Frakes; Second commentary with writers '
-                          'Brannon Braga and Ronald Moore; Text Commentary '
-                          'with Michael and Denise Okuda Disc 2) 12 '
-                          "featurettes (Making 'First Contact', The Art Of "
-                          '\'First Contact\', "The Story, The Missile Silo, '
-                          "The Deflector Dish,From 'A' to 'E', Jerry "
-                          'Goldsmith: A Tribute, The Legacy Of Zefram '
-                          "Cochrane, 'First Contact': The Possibilities, "
-                          'Unimatrix One, The Queen, and Design Matrix); 3 '
-                          'Scene Deconstruction;Storyboards, Photo Gallery; '
-                          'Teaser & Theatrical Trailers; and Trailer for the '
-                          'Borg Invasion Hilton show in Vegas\n'
-                          '\n'
-                          '3 Easter Eggs: In the Main Menu, click on the sun '
-                          'for a list of all the alternative titles '
-                          'considered; In the Star Trek Universe menu '
-                          'highlight a circle for an interview with Ethan '
-                          'Philips; In The Borg Collective menu highlight a '
-                          'circle for an interview with Alex Jaeger',
+                          'Finally, after the dismal Generations outing, they '
+                          'got it right with this one! First Contact indeed is '
+                          'on par with the very best of the Star Trek films - '
+                          'The Wrath of Khan and The Undiscovered Country. '
+                          "Unfortunately, they won't get it right again to the "
+                          'present day (with the above average but still not '
+                          'as good Insurrection and awful Nemesis). The script '
+                          'is very solid, the acting above par (with kudos '
+                          'going to Alice Krige as the seductive Borg Queen '
+                          'and Alfre Woodard as the trusting Lily Sloane), and '
+                          'the score by Jerry Goldsmith again another hit. All '
+                          'of that combined with visual effects that service '
+                          'the story and not is the story makes this outing a '
+                          'spectacular success - a solid 9 out of 10!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Paramount Home '

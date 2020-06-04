@@ -45,81 +45,32 @@
  'keywords': 'heart surgery,blue baby syndrome,surgery,baby,heart',
  'name': 'Something the Lord Made',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'spankymac'},
-            'dateCreated': '2004-10-22',
+            'author': {'@type': 'Person', 'name': 'answar7979'},
+            'dateCreated': '2004-06-01',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0386792/'},
-            'name': "I wasn't expecting a story this powerful.",
-            'reviewBody': "It's gratifying to know that I'm not the only one "
-                          'who was surprisingly moved by this story. I had '
-                          'known only a tiny part of the story before the '
-                          'movie: that a white surgeon and a black technician '
-                          'developed the process that could save "blue '
-                          'babies." That\'s a huge accomplishment, but only a '
-                          'portion of the story.\n'
-                          '\n'
-                          'Alan Rickman does a splendid job portraying Dr. '
-                          'Blalock. There are a few moments when his southern '
-                          'accent slips and a little British comes through, '
-                          'but in terms of portrayal of the character, he is '
-                          'convincing. Blalock is ambitious, and in fact so '
-                          'focused on his professional and medical goals that '
-                          "sometimes he's clueless as to what others are going "
-                          "through to get him what he wants. He's also at "
-                          'turns arrogant and compassionate...exactly what one '
-                          'would have to be to do what he did. One thing the '
-                          'movie communicates very effectively is just how '
-                          'much of a revolution this surgery was: not merely '
-                          'operating on a baby heart, Dr. Blalock opened the '
-                          'gate to surgery on *any* human heart. Rickman '
-                          "doesn't overdo it, but he gets the character "
-                          'across.\n'
-                          '\n'
-                          'Mos Def steals the show, however, in his subtle '
-                          "portrayal of Vivien Thomas. There's no "
-                          'grandstanding in this performance; he makes us '
-                          'believe that we know Thomas, and that to know him '
-                          'is to love him. He plays a man who had more '
-                          'character in his little finger than most people '
-                          'find in their whole lives, and he does it with zero '
-                          "ham. It isn't just that he gives an understated "
-                          'performance...he becomes this man who feels deeply '
-                          "even though he doesn't express it loudly. You see "
-                          "it in his eyes, in his pauses, in his voice. It's "
-                          'hard to describe, except to say that beneath the '
-                          'calm, quiet, even deferential exterior there is, '
-                          'undeniably, a whole person, a fully human, noble, '
-                          'wise, mature, gracious character. \n'
-                          '\n'
-                          'A previous commentator asks if the presentation, '
-                          'near the end of the story, of an honorary degree '
-                          'was supposed to be an apotheosis of sorts. Perhaps. '
-                          "I suspect, however, that it isn't the conferring of "
-                          'a degree but the unveiling of the portrait, that '
-                          'actually vindicates Thomas and lifts him to his '
-                          "place in the medical pantheon of Johns-Hopkins' "
-                          'larger-than-life wonder-workers. At the end of the '
-                          'film, Vivien is sitting in the lobby, looking at '
-                          "his own portrait next to that of Blalock's when "
-                          'he\'s paged as "Dr. Thomas." He has to wipe the '
-                          'tears from his eyes to respond to the page. Maybe '
-                          "it's the degree and the portrait together.\n"
-                          '\n'
-                          'The same commentator asked whether the film omitted '
-                          "mention of Thomas's eventual title. Actually, "
-                          "there's a scene immediately after their arrival in "
-                          'Baltimore in which the Director of Laboratories '
-                          'gives Vivien some money and tells him to bring '
-                          'coffee and a donut. At the end of the film, when '
-                          "Blalock calls Vivien's office, we see Vivien's "
-                          'title on the office door: Director of Laboratories. '
-                          'The irony is sweet.\n'
-                          '\n'
-                          'This is a compelling, touching film, with wonderful '
-                          'performances all around.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
+            'name': 'So good that it leaves you wanting more',
+            'reviewBody': 'One of the earmarks of a great true story on film '
+                          "is that, when it's over, you find yourself wishing "
+                          'it had been longer and wanting to know more about '
+                          'the subject. This is definitely the case with '
+                          '"Something the Lord Made." I can\'t wait to do a '
+                          'little reading up on this very intriguing story! '
+                          'Alan Rickman as Alfred Blalock is excellent, as he '
+                          'always is, but the real pleasure is in watching Mos '
+                          'Def as Vivien Thomas. Through his lovely, subtly '
+                          'nuanced performance, we are able to truly '
+                          'appreciate this incredibly gifted and complex man. '
+                          'The writers did an excellent job of making the '
+                          "viewer aware of the racial climate in Viven Thomas' "
+                          'life; note the early scene in which Vivien and a '
+                          'friend are walking and talking, and each time some '
+                          'white people approach them on the sidewalk, they '
+                          'step aside and yield right of way without '
+                          'hesitation. And yet, there is no heavy-handedness '
+                          'or preachy air to these scenes. The racial '
+                          'injustices that Vivien Thomas endured are obvious, '
+                          'but the viewer is not clubbed over the head with '
+                          'them.'},
  'url': '/title/tt0386792/'}

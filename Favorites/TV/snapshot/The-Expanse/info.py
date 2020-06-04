@@ -19,7 +19,7 @@
             'url': '/name/nm1434871/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 91952,
+                     'ratingCount': 91968,
                      'ratingValue': '8.5',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -42,83 +42,129 @@
              'girlfriend,shootout',
  'name': 'The Expanse',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jeffrey-46'},
-            'dateCreated': '2018-04-04',
+            'author': {'@type': 'Person', 'name': 'gogoschka-1'},
+            'dateCreated': '2016-10-18',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3230854/'},
-            'name': 'Best "hard" sci fi I\'ve seen since Battlestar Galactica',
-            'reviewBody': "OMG I love this show. I've seen up through S02E03 "
-                          'on Amazon Prime.\n'
+            'name': 'Ambitious, complex sci-fi/mystery thriller; offers great '
+                    'world-building and perfectly paced storytelling',
+            'reviewBody': 'Wow: This was by far the biggest surprise for me in '
+                          '2016. And apparently, I was somewhat late to the '
+                          'party, as the show already began to air in 2015. '
+                          "I'm an avid sci-fi fan, but I hadn't heard or read "
+                          "anything about 'The Expanse', and yet it's one of "
+                          'the most ambitious sci-fi (or generally high '
+                          "profile/concept TV) shows I've come across in "
+                          'recent years. \n'
                           '\n'
-                          "I only gave it a 9 because I don't like to give "
-                          'anything a 10.\n'
+                          'First, I believe a little (spoiler-free) '
+                          'information might be helpful prior to watching the '
+                          'show, because the viewer is thrown right into an '
+                          'incredibly detailed world where much is shown '
+                          'rather than explained (which is certainly an '
+                          'elegant choice in terms of storytelling and '
+                          "world-building, but there's so much going on and "
+                          'every shot is packed with so much visual '
+                          'information that it can be a little confusing '
+                          'during the first 2 or 3 episodes). So what you need '
+                          'to know is this: A couple of hundred years into the '
+                          'future, humanity is spread out throughout the solar '
+                          'system and divided into 3 opposing forces who are '
+                          'on the brink of an all out war for political power '
+                          'and resources (mainly water - which is harvested in '
+                          'the form of asteroid ice). The 3 fractions consist '
+                          'of the two superpowers Earth (governed by the U.N.) '
+                          'and Mars; the third party are the "belters", which '
+                          'is basically everyone unfortunate enough to be '
+                          'living on poor dwarf planets like Ceres or other '
+                          'large rocks in the asteroid belt (hence the name '
+                          '"belters").\n'
                           '\n'
-                          'Others have gone into good detail of what is good '
-                          "about this show so I'll just add some bullet points "
-                          "that I didn't see covered (although with 250+ "
-                          "reviews I probably just missed 'em)\n"
+                          'Those belters are the future equivalent of the 3rd '
+                          'World population, as they represent the poor, '
+                          'exploited and underdeveloped colonies in the solar '
+                          'system. Many belters feel represented by the "Outer '
+                          'Planets Alliance" (short: O.P.A.) which is a '
+                          'radical group demanding more autonomy and fairer '
+                          'distribution of resources for the inhabitants of '
+                          'the asteroid belt, but is viewed as a terrorist '
+                          'group by Earth and Mars. Belters are badly affected '
+                          'by the harsh conditions in low (or even zero) '
+                          'gravity (which is often referred to as "low-G" or '
+                          '"zero-G"), as well as low oxygen levels and the '
+                          'strict rationing of water; their bodies develop '
+                          'less muscles and their bone structure has less '
+                          'density compared to that of humans born and raised '
+                          "on Earth or Mars. The belters' life expectancy is "
+                          'roughly half of that of humans living on Earth.\n'
                           '\n'
-                          'In no particular order other than '
-                          'stream-of-consciousness:\n'
+                          "So that's the backdrop to the story told in 'The "
+                          "Expanse', and it all may seem a little complicated "
+                          'at the start, because the plot unfolds through '
+                          'several separate story lines. The key parts of the '
+                          'story are told through the eyes of three different '
+                          'protagonists: a high ranking U.N. official on Earth '
+                          'named Avasarala (played by Shohreh Aghdashloo); a '
+                          'cynical belter police detective named Miller '
+                          '(Thomas Jane) whose story starts on Ceres; and a '
+                          'young executive officer named Holden (Steven '
+                          'Strait) working on an ice freighter in space. '
+                          "Although those three don't know it (yet), their "
+                          "stories are connected - and that's all I'm gonna "
+                          'say about the plot, because this show deserves to '
+                          'be watched unspoiled.\n'
                           '\n'
-                          '* Detailed, realistic science fiction * Space '
-                          'behaves like, well, space * Gravity. They did a '
-                          "stellar job with gravity. It isn't perfect. But "
-                          'they emphasize realistic ways to simulate gravity '
-                          '(ships under continuous acceleration, spinning, '
-                          'ring-shaped space stations). And they shut gravity '
-                          'off when appropriate. * Space ship battles are '
-                          'incredibly thoughtfully designed, with an eye for '
-                          'small details. They pump the air out of the ship '
-                          "before a battle, for goodness' sake. I can't think "
-                          'of *any* other scifi space show that goes into '
-                          'these details * Consistency. Characters act '
-                          'consistently. Environments act consistently. * '
-                          'Details. So many details! Mag boots. Ship '
-                          'maneuvers. technology such as computer/handheld '
-                          'devices. All so believable. * Mormons! There are '
-                          'mormons, because, of course there are. And they '
-                          "aren't even the bad guys! (I only state it this way "
-                          'because too often, mysterious religious groups are '
-                          'used as hollywood shorthand for "bad guys"). The '
-                          'presence of Mormons just enriches the '
-                          'worldbuilding. * I love the fact that Eros station '
-                          'just looks like a giant potato with a porthole on '
-                          "its butt. It isn't polished. It isn't flashy. It's "
-                          'grimy and utilitarian. * I love that every move '
-                          'made by a spaceship has corresponding thrusters '
-                          'pushing it in that direction. The space ships do '
-                          'not fly like fighter jets, like they do in other '
-                          'typical sci fi shows. They fly like rocks. * I love '
-                          'the fact that space craft tracking screens look '
-                          'like legitimate space object tracking screens, with '
-                          'curved, mathematically drawn projected '
-                          'trajectories.\n'
+                          'Featuring visual and narrative elements that '
+                          'reminded me of almost every sci-fi film I ever '
+                          "loved - 'Alien', 'Outland', 'Serenity', 'Blade "
+                          "Runner' and many more - this is an R-rated space "
+                          'opera no sci-fi fan should miss. And although it '
+                          "probably can't compete with 175 million costing "
+                          "blockbusters like the new 'Star Trek' movies in "
+                          "terms of visual effects, 'The Expanse' looks "
+                          'fantastic. Given the insane amount of effects work '
+                          'involved, it must have been a very expensive affair '
+                          'for SyFy (who ordered the series from production '
+                          'companies Alcon Television and The Sean Daniel '
+                          'Company), and although I doubt they were able to '
+                          'afford the kind of budget HBO usually spends on '
+                          "shows like 'Game of Thrones' or 'Westworld', in "
+                          'terms of scope and complexity, this new SyFy show '
+                          "easily matches HBO's flagships (it appears Syfy is "
+                          'trying to get rid of its reputation as '
+                          '"shlock-channel").\n'
                           '\n'
-                          'I can\'t gush enough about the "hard" sci-fi '
-                          "elements. I haven't even gushed about the "
-                          'production yet:\n'
+                          'The storytelling is meticulous and perfectly paced; '
+                          'the world-building richly detailed and always '
+                          "credible, and the patient viewer who doesn't demand "
+                          'everything be explained within the first episodes '
+                          'is rewarded with a thrilling, mysterious tale of '
+                          'adventure and discovery. The cast is terrific '
+                          '(especially Thomas Jane who seems to fit his '
+                          'character like a glove) and the writing manages the '
+                          'astounding feat to elegantly lead us through a very '
+                          'complex world and complicated story without ever '
+                          'feeling forced or weighed down by expository '
+                          'dialogue. Showrunners/writers Mark Fergus and Hawk '
+                          'Ostby (known for their Oscar nominated work on the '
+                          "screenplay for 'Children of Men') really have done "
+                          'a fine job bringing the series of novels by James '
+                          'S. A. Corey (aka Daniel Abraham and Ty Franck) to '
+                          'life. Highly recommended to every sci- fi fan: 9 '
+                          'stars out of 10.\n'
                           '\n'
-                          "* Story is detailed, in-depth, and engaging. It's "
-                          'basically a political/war drama, but it is very '
-                          'well written. * Acting is great. Seriously. Even '
-                          'the throwaway characters are great. * Anyone can '
-                          'die at any time. Very Game-of-Thrones-y in this '
-                          'regard, in a good way. Builds tension very '
-                          'realistically. * Costumes, sets, graphics, '
-                          'cinematography are all excellent\n'
+                          'Favorite TV-Shows reviewed: '
+                          'http://www.imdb.com/list/ls075552387/\n'
                           '\n'
-                          'Star Trek. I used to like Star Trek. Have you seen '
-                          'Star Trek Beyond (2016) though? That was terrible. '
-                          'Everything that is done wrong in Star Trek Beyond '
-                          "is done correctly in The Expanse. In fact, I'm not "
-                          'sure I can watch any Star Trek show or movie again '
-                          'after The Expanse.\n'
+                          'Favorite films: '
+                          'http://www.IMDb.com/list/mkjOKvqlSBs/\n'
                           '\n'
-                          'Ultimately The Expanse feels like a combination of '
-                          'Battlestar Galactica (2005 one) and Firefly, more '
-                          'than any other series I can think of.',
+                          'Lesser-Known Masterpieces: '
+                          'http://www.imdb.com/list/ls070242495/\n'
+                          '\n'
+                          'Favorite Low-Budget and B-Movies: '
+                          'http://www.imdb.com/list/ls054808375/',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

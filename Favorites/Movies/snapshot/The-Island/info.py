@@ -21,7 +21,7 @@
             'url': '/name/nm0000114/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 295645,
+                     'ratingCount': 295653,
                      'ratingValue': '6.8',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -57,57 +57,53 @@
              'simultaneously on screen,actress playing dual role',
  'name': 'The Island',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ma-cortes'},
-            'dateCreated': '2006-11-03',
+            'author': {'@type': 'Person', 'name': 'ccthemovieman-1'},
+            'dateCreated': '2006-06-12',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0399201/'},
-            'name': 'Powerful story with  awesome and young actors: Ewan '
-                    'McGregor and Scarlett Johansson',
-            'reviewBody': "This movie is more than an action film,it's a great "
-                          'story with interesting characters .The picture '
-                          'displays action packed,car chases,things blowing up '
-                          'and crashing and bad guys and good guys '
-                          'fighting.The action is up and running and the chase '
-                          "is on.It's a fun ride but also there's a real human "
-                          "core,it's the kind of film with something at the "
-                          'heart of it.Michael Bay created a facility as a '
-                          'secret place underground like a private sector '
-                          'corporation.It was the biggest set ,it was built at '
-                          'a Boeing plant in a one of the largest sets ever '
-                          'shot,it was five football fields long.This inside '
-                          'environment of the clone village or city takes part '
-                          "of its clue from the fact that it's converted in a "
-                          "military underground bunker.It's kind of like a "
-                          '¨Big Brother¨place,they watch over you.The film '
-                          'contains exceptional images as when a big camera '
-                          'shot that follows through a hole in the wall and '
-                          'then the camera starts spiraling down a really tall '
-                          'set and we see the ¨Agnates¨in various stages of '
-                          'development and the camera continuing through the '
-                          'cables into the department of operations which is '
-                          'where inadvertently the lifeblood of the facility '
-                          'is going through the hands of the clones but they '
-                          'are creating themselves.\n'
+            'name': 'Stylish, But Not What I Expected',
+            'reviewBody': 'Scientists creating "clones" are the villains in '
+                          'this movie and they make them in the future to '
+                          'provide their human counterparts replacements for '
+                          'defective body parts. The only problem is that one '
+                          'of the clones (Ewan McGregor) starts to become '
+                          'human with feelings, emotions, etc. He is then '
+                          'joined by a female clone (Scarlett Johansson) and '
+                          'the two them try to escape their surrounds - a '
+                          'prison- like laboratory in the middle of the desert '
+                          'in the U.S.A.\n'
                           '\n'
-                          'The movie gets a really strong visual sense and '
-                          'magnificent look at those action sequences.The '
-                          'stunts are continually improving in the way to get '
-                          'spectacular shot.The stunts throw a lot of wheels '
-                          'that weighted 500 pound and they mounted cameras on '
-                          'the vehicles and can crash right into other '
-                          'vehicles that are overturning and flipping on the '
-                          'air,so it actually become part of the action and '
-                          'the pursuits cars are just astounding and turn out '
-                          'to be one of the most astounding scenes ever '
-                          'shot.Michael Bay work is extraordinary and pretty '
-                          "energetic but we see that he's great at what he "
-                          'does ,but he used five cameras with dangerous '
-                          'positions.The flick will like to Sci-fi and action '
-                          'movies fans',
+                          'These clones are promised freedom with a '
+                          'lottery-type trip to "The Island" but that is all a '
+                          'mirage as our heroes find out. The last half of the '
+                          'film is them on the run, trying to tell someone '
+                          'what the truth is all about with this project and '
+                          'all the while escaping an army of pursuers.\n'
+                          '\n'
+                          'I was expecting more of a lower-key, intelligent '
+                          'story but this turned out to be an Arnold '
+                          "Schwarzenegger-type action movie, which isn't all "
+                          "bad because Arnold's films were at least "
+                          'entertaining. This has the same stuff: outrageous '
+                          'scenes in which incredible things happen to the '
+                          'heroes....like assassins shooting at them from 30 '
+                          'feet away and never hitting them or falling from '
+                          'tall buildings....and never getting hurt! These two '
+                          'leads have nothing on Superman. They are '
+                          "indestructible, apparently. It's lunacy....but it "
+                          "certainly has it's fun moments with some tremendous "
+                          'stunt work.\n'
+                          '\n'
+                          'To me, the best aspect of this film was the stylish '
+                          'camera-work. There are some really, really nice '
+                          'visuals in this presentation, and good sound. '
+                          'Overall, entertaining but just another '
+                          "wild-adventure action movie that's okay but nothing "
+                          'super.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Dreamworks',

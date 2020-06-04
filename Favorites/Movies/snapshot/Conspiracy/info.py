@@ -21,7 +21,7 @@
             'url': '/name/nm0548412/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 17953,
+                     'ratingCount': 17954,
                      'ratingValue': '7.7',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -44,89 +44,46 @@
  'keywords': 'holocaust,nazis,final solution,conference,ss',
  'name': 'Conspiracy',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'gus120970'},
-            'dateCreated': '2002-01-25',
+            'author': {'@type': 'Person', 'name': 'elizabeth-chesney'},
+            'dateCreated': '2005-03-15',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0266425/'},
-            'name': 'An astonishing record of a pivotal, but little known '
-                    'moment in human history',
-            'reviewBody': 'Our perception of the Holocaust is shaped by the '
-                          'harrowing images of the gas chambers and crematoria '
-                          'of Auswitz; watch Conspiracy and be jarred out of '
-                          'the complacency that comes from familiarity and be '
-                          'a fly-on-the-wall at the genesis of genocide.\n'
+            'name': 'unflinchingly honest, horrifying, and ultimately sad',
+            'reviewBody': 'As a 4th generation American of German heritage, I '
+                          'have a deep interest in attempting to understand '
+                          'how a presumably cultured, educated, Christian '
+                          'society could become the Nazi nightmare of WWII.\n'
                           '\n'
-                          'The film documents a meeting held during WW2, when '
-                          'SS second-in-command, Reinhard Heydrich, assembles '
-                          'a group of Nazi bureaucrats and functionaries to '
-                          "'discuss the final solution of the Jewish "
-                          "question'. In the sublime surroundings of a German "
-                          'country house, the assembled mingle for drinks, '
-                          'enjoy a first class buffet lunch and debate whether '
-                          'execution or sterilisation is the most efficient '
-                          'option of eliminating an entire race of people.\n'
+                          'This film, as so eloquently stated by previous '
+                          'posters, is quite simply a cautionary tale for all '
+                          'of humanity. I have seen the film several times on '
+                          'HBO, and whenever it comes on, I feel compelled to '
+                          "drop what I'm doing and watch, again transfixed -- "
+                          'at the ability of our human brains to rationalize '
+                          'and deny even in the face of undebatable truths.\n'
                           '\n'
-                          'Subject matter aside, Conspiracy is all the more '
-                          'devastating, and precious, from its excellent '
-                          'script and incredible ensemble performances. There '
-                          'is no attempt or need to manipulate the viewer - '
-                          'the enormity of the truth is compelling, and '
-                          'appalling enough. The are no cartoon Nazis here, '
-                          'the depiction of Heydrich is fascinating and '
-                          'complex: the man is urbane, witty, impeccably '
-                          'mannered and utterly devoid of morality.\n'
+                          'Any honest person watching the film must ask '
+                          'himself -- How would I respond if I were at that '
+                          'table? How would I respond if I were a German '
+                          'citizen in the Third Reich? Americans, I believe, '
+                          'right now in 2005 -- should look at this film as a '
+                          'warning. No -- we are not fascist Nazis -- not yet. '
+                          'But the groundwork is there. The propaganda, the '
+                          'denial of the facts and the demonization of our '
+                          'enemies. The blind nationalism. We are at a turning '
+                          'point in our country -- and we would be wise to '
+                          'look to history as a reminder of what can happen '
+                          'when we as human beings let fear, ego, and the lust '
+                          'for power dominate over all else.\n'
                           '\n'
-                          'Credit must be given to Kenneth Branagh who propels '
-                          'the entire piece with one of the best portrayals on '
-                          'screen in memory. He is utterly convincing in the '
-                          'role of a man who epitomises the classic definition '
-                          'of evil: not just the doing of wrong, but the '
-                          'perversion of the human spirit so that it no longer '
-                          'has any perception of the good.\n'
+                          'I will buy this DVD and share it with my family and '
+                          'friends.\n'
                           '\n'
-                          'Where Heydrich is conviction, as the narrative '
-                          'develops, almost exclusively as table-talk, others '
-                          'are less sure. The range of attendees symbolises '
-                          'the various strains of Nazi culture, which '
-                          'developed over the course of the third reich. For '
-                          'the idealistic of these - the '
-                          'philosopher/technocrat Kritzinger; the legalistic '
-                          'Wilhelm Stuckart and the young soldier Major Lange, '
-                          'there is the dawning realisation of the human '
-                          'catastrophe in which they are complicit.\n'
+                          'As long as people believe in absurdities then they '
+                          'will continue to commit atrocities.\n'
                           '\n'
-                          'Technical objections are raised - Stuckhart '
-                          'expounds a ludicrous web of of objections on how '
-                          'the plan breaks the vile race laws he himself '
-                          "architected, and will be an 'administrative "
-                          "nightmare', but they soon realise this is a done "
-                          'deal - most of the mechanisms are already in place. '
-                          'The politically sharp Heydrich only needs to '
-                          'extract expressions of support in order to bind all '
-                          'the orders of Nazi society into equal guilt. During '
-                          'breaks in the proceedings he discreetly buttonholes '
-                          'the wobblers and silences their doubts: by naked '
-                          'threats, or in the case of Lange by invoking the '
-                          'fantasy that what they do is all part of a plan for '
-                          "a better tomorrow. Succumbing to Heydrich's "
-                          'magnetism and realising the dream is pretty much '
-                          'all that is left, Lange allows himself to be '
-                          'persuaded.\n'
-                          '\n'
-                          'The eloquent script captures the delusional, the '
-                          'grotesque and the desparate qualities of the German '
-                          'position at that moment in the war: the calculation '
-                          'that defeat is inevitable, but unthinkable - '
-                          'despite the repeated whimsy of Heydrich that he '
-                          'will return here for a quiet country life once the '
-                          'war is over. He knows that he, and all others '
-                          "present, is headed only into the dark. And it's a "
-                          'one-way journey.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
+                          '-- Bertrand Russell'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from HBO Home Video',
              'embedUrl': '/video/imdb/vi2042560793',

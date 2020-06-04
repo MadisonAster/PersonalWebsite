@@ -19,7 +19,7 @@
             'url': '/name/nm11046604/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 38486,
+                     'ratingCount': 38501,
                      'ratingValue': '6.3',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -48,55 +48,28 @@
              'villain,evil banker',
  'name': 'The Laundromat',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Her-Excellency'},
-            'dateCreated': '2019-10-20',
+            'author': {'@type': 'Person', 'name': 'rogorman-1'},
+            'dateCreated': '2019-10-18',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5865326/'},
-            'name': 'There is a reason why the attorneys at the center of the '
-                    'scandal this covers, wanted it banned.',
-            'reviewBody': 'The attorneys at the center of the scandal this '
-                          'covers, filed suit in federal court claiming they '
-                          "were defamed by the film. Upon viewing, you'll "
-                          'realize that there is no way they did not defame '
-                          'themselves.\n'
-                          '\n'
-                          'Above and beyond that, this is a film every single '
-                          'person who is unfamiliar with offshore banking '
-                          'should see. It describes in accurate, albeit '
-                          'humorous terms, how "money" works in some people\'s '
-                          'hands, vs. how it works in the hands of the normal '
-                          'Joe.\n'
-                          '\n'
-                          'The cast is made up of amazing actors who give '
-                          'amazing performances, yet as most of us know, that '
-                          "isn't always the ingredient for a great movie. This "
-                          'one went a step further, and gifted us with FACTS. '
-                          '(Not even its many detractors can argue with any '
-                          'conclusive proof that the laws it unveils to the '
-                          'layman are not on the books and being used daily).\n'
-                          '\n'
-                          'Basically, it takes the viewer through the inner '
-                          'machinations of a business run by people who know '
-                          'the law and push the law as far as the law will '
-                          'allow in order to serve their own purposes. People '
-                          'who deal in gauging the value of buying and selling '
-                          'trades and commodities, as easy as they gauge the '
-                          'value of .... and trade in ... other people.\n'
-                          '\n'
-                          'Lastly, in going through other reviews here, I '
-                          "can't help but think about how different we all "
-                          'are, and how some people understood and could '
-                          'appreciate such a well presented window into actual '
-                          'business practices and money and how the two affect '
-                          'the average American, and how others seemed to take '
-                          'simple facts, as a personal affront or attack on '
-                          'their political party.\n'
-                          '\n'
-                          'Not WANTING to face facts, does not change fact.',
+            'name': 'Enjoyable exposé of offshore banking',
+            'reviewBody': 'This is an enjoyable, funny, exposing portrayal of '
+                          'the corrupt system of offshore accounts and how '
+                          'some apparently disconnected events share links '
+                          "back to the corruption at work. Maybe it shouldn't "
+                          'be funny because this is an infuriating reality '
+                          'that could be fixed if...well, if legislators were '
+                          'themselves not corrupt. Yes, the telling of the '
+                          'tale is not done in a totally conventional '
+                          'straight-forward linear way. But it is easy to '
+                          'follow and amusing, even as you feel you should be '
+                          'angry. And of course you realise that this film '
+                          "won't change a thing. But it is well made and "
+                          'acted.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "'The Laundromat' follows a group of journalists "

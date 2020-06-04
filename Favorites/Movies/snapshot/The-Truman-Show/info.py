@@ -17,7 +17,7 @@
             'url': '/name/nm0001187/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 895367,
+                     'ratingCount': 895477,
                      'ratingValue': '8.1',
                      'worstRating': '1.0'},
  'contentRating': 'PG',
@@ -40,37 +40,39 @@
              'show,controlled environment,deception',
  'name': 'The Truman Show',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Altaira'},
-            'dateCreated': '1999-06-12',
+            'author': {'@type': 'Person', 'name': 'daveisit'},
+            'dateCreated': '2005-07-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0120382/'},
-            'name': 'Genius',
-            'reviewBody': 'I asked a friend to describe The Truman Show.  He '
-                          'said, "No, it\'s not a comedy, well...not '
-                          'exactly."  I didn\'t quite understand until I '
-                          'watched it myself.  Truman takes on a tone quite '
-                          "different than any parody/comedies I've seen "
-                          'lately.  The point (the media and its destructive '
-                          'powers)  is subtlely relayed through dark humor, '
-                          "and you don't feel like the director is smashing "
-                          'you over the head with his morals.  Peter Weir '
-                          'demonstrated his artistic genius in Dead Poets '
-                          'Society and here as well. The soundtrack is great, '
-                          'Ed Harris is stellar (what were they THINKING at '
-                          'the Academy?) and for once I actually liked Jim '
-                          "Carrey. His performance wasn't ribald for once. The "
-                          'final scene--I will not reveal it--is a majestic, '
-                          'long-awaited finish to an intellectual movie. Some '
-                          'people will insist that it was boring or '
-                          'pointless.  Those are the same viewers who prefer '
-                          'slapstick, obvious humor to the subtle layers '
-                          "presented here.  This is a thinking person's "
-                          "movie.  If you can't see the underlying message "
-                          "here, of course you won't like it!",
+            'name': 'Lawn Mowing At Its Best',
+            'reviewBody': '"The Truman Show" owes a lot to the direction of '
+                          'Peter Weir. Weir refuses to pump out the movies in '
+                          'a search for extra dollars. Instead he chooses '
+                          'wisely and directs brilliantly. Just by looking at '
+                          'a list of his movies will surprise and even amaze '
+                          'you. So as you would imagine "The Truman Show" is '
+                          'another success.\n'
+                          '\n'
+                          'Truman Burbank has the perfect life, or so he '
+                          'thought until finally his life long suspicions '
+                          'about his world begin to unravel. Even though the '
+                          'idea for Truman is not totally original, it is '
+                          'thought provoking enough and allows the audience to '
+                          "wonder, what if? If you think this couldn't happen, "
+                          'just look back over the years at the stupidity of '
+                          'the human race and think again.\n'
+                          '\n'
+                          'Jim Carrey once again nails his role, as do the '
+                          'entire cast. It is rare he fails to perform at a '
+                          'level that perfectly complements the movie and its '
+                          'genre. This is something he does not receive enough '
+                          'credit for. Acting for a comical role or a more '
+                          'dramatic role requires no less effort for the '
+                          'performance to be spot on.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Theatrical Trailer from Paramount',

@@ -19,7 +19,7 @@
             'url': '/name/nm6247071/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 54941,
+                     'ratingCount': 54952,
                      'ratingValue': '6.9',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -55,19 +55,33 @@
  'keywords': 'scotland,scottish independence,medieval,medieval times,warfare',
  'name': 'Outlaw King',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ryankhawkes'},
-            'dateCreated': '2018-11-10',
+            'author': {'@type': 'Person', 'name': 'chong_an'},
+            'dateCreated': '2018-09-08',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt6679794/'},
-            'name': "Don't listen to the negativity.",
-            'reviewBody': 'This was a legitimately moving and entertaining '
-                          'movie. The acting is absolutely fantastic, the '
-                          'cinematography is impeccable and the practical '
-                          'effects are undeniably realistic.',
+            'name': 'Netflix film deserves a big screen',
+            'reviewBody': 'The older generation of Scottish nobles tired of '
+                          'war and surrendered to the English King Edward, but '
+                          'the younger generation only surrendered '
+                          "reluctantly. After his father's death, Robert the "
+                          'Bruce (with a reasonable claim to the Scottish '
+                          'throne) led a rebellion, with multiple victories '
+                          'and losses, in battles small and big.\n'
+                          '\n'
+                          'There are too many minor Scottish leaders who '
+                          'joined the cause, only to be slaughtered in the '
+                          "battles. (I can't call them cannon fodder - cannons "
+                          'had yet to be invented.)\n'
+                          '\n'
+                          'The film is spectacular on the big screen, '
+                          'especially the large-battle scenes. I saw it in a '
+                          '2000-seat theatre at the Toronto International Film '
+                          "Festival. I'm not sure it will translate well to "
+                          'TV, unless you have something like a 70-inch beast.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The untold, true story of Robert The Bruce (Chris '

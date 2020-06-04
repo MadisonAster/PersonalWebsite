@@ -72,40 +72,26 @@
  'keywords': 'hell,crusades,quest,sin,redemption',
  'name': "Dante's Inferno: An Animated Epic",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'TBJCSKCNRRQTreviews'},
-            'dateCreated': '2011-02-15',
+            'author': {'@type': 'Person', 'name': 'Kirpianuscus'},
+            'dateCreated': '2017-03-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1401113/'},
-            'name': "Purdy, just don't question it",
-            'reviewBody': 'Dante, a knight, returns from the crusades only to '
-                          'find that Something Bad Happened while he was gone. '
-                          'He goes to Hell, going through all nine '
-                          'levels(including the sewer one), engaging many '
-                          'creatures(most from other mythologies than the '
-                          'Christian one... and this *does* criticize the '
-                          "theology some, if I'd have liked it to do so to a "
-                          'greater extent)... fortunately for him, he can cut '
-                          'through most of them with his sword or a scythe... '
-                          'getting to the deepest one where the devil wants to '
-                          'marry his wife, because apparently even the lord of '
-                          "evil can't screw someone if there isn't a ring on "
-                          "that finger... hey, don't ask me. This is based on "
-                          "a game I've never played and barely know anything "
-                          "about. The voice acting is OK, but I wish they'd "
-                          'speak up, or turn the volume down on the otherwise '
-                          'good FX. It is fun, fast-paced, and has good '
-                          "action, except for when you can't tell the "
-                          'dimensions or where people are in relation to one '
-                          "another. Epic? Sure, if that doesn't require an "
-                          'actual story. The animation varies, partially '
-                          'because they keep changing who does it. There is a '
-                          'ton of bloody, gory violence and disturbing content '
-                          'and some nudity and sex in this. I recommend this '
-                          'to fans of bad-assery that has to do with religion '
-                          'in some way. 7/10',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
+            'name': 'video game',
+            'reviewBody': 'a disturbing film. for one as me, far by video '
+                          'games, admirer of Dante Divina Commedia, expecting '
+                          'a reasonable adaptation of the old book for a new '
+                          'generation. every expectation was destroyed, in '
+                          'precise manner. and he only verdict remains - it is '
+                          'the perfect choice for the fans of video game. '
+                          'nothing bad but almost predictable. this Inferno '
+                          'did part from a large genre who propose myths and '
+                          'legends and classic stories in a manner so bizarre '
+                          ', than , for old men like me, it is not easy to '
+                          'understand the deep purpose of this real industry. '
+                          'sure, the word blasphemy is precise to define it '
+                          'for many motifs. the graphic is impressive and the '
+                          'story so complicated than could be accepted. '
+                          'monsters, fights, crumbs of old Medieval novels, '
+                          'the hero and the Evil. and nothing more.'},
  'url': '/title/tt1401113/'}

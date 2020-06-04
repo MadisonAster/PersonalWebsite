@@ -50,70 +50,59 @@
              'campaign,cocaine',
  'name': 'Kill the Messenger',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ferguson-6'},
-            'dateCreated': '2014-10-12',
+            'author': {'@type': 'Person', 'name': 'Palidan400'},
+            'dateCreated': '2014-10-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1216491/'},
-            'name': 'National Security and Crack Cocaine',
-            'reviewBody': 'Greetings again from the darkness. This is one of '
-                          'those true stories that probably works better as a '
-                          'drama than as a documentary. Jeremy Renner brings '
-                          'passion and believability to his role as infamous '
-                          'journalist Gary Webb. This allows us to gain '
-                          'insight into Mr. Webb as a father, husband and man, '
-                          'rather than only as a fiery investigative '
-                          'reporter.\n'
+            'name': 'Kill The Messenger',
+            'reviewBody': '"National security and crack cocaine in the same '
+                          'sentence. Does that not sound strange to you?" Kill '
+                          'The Messenger dives into an intense and important, '
+                          'often forgotten, segment of history. That being '
+                          'said, as the title implies, the film ultimately '
+                          'centralizes around reporter Gary Webb (Jeremy '
+                          'Renner) and what happens to him when he comes '
+                          'across this shocking discovery. With strong '
+                          'performances by the cast and a clear focus by the '
+                          'director, the film comes out shaky in a few parts '
+                          'but overall provides a riveting and respectful look '
+                          "at this man's life.\n"
                           '\n'
-                          "You likely recall Webb's published story from 1996, "
-                          'when his research uncovered the likelihood that '
-                          'cocaine imported into the US was being sold as '
-                          'crack cocaine and the profits were going towards '
-                          'funding arms for the Contra rebels in Nicaragua. '
-                          'The kicker being that the CIA was well aware of '
-                          'these activities.\n'
+                          'Jeremy Renner is the star of this story, and he '
+                          'performs excellently. Renner fully commits into '
+                          'becoming Webb. Besides decently looking like the '
+                          'real Webb physically, he captures a wide range of '
+                          'emotions that the man would have faced - from being '
+                          'a cool reporter to a struggling and scared husband '
+                          'and father. Some characters do not impress as much '
+                          'in their performances, but Renner is able to carry '
+                          'the lead role well enough to support the film. \n'
                           '\n'
-                          'The film presents Webb as an idealist, too naive to '
-                          'comprehend that the story would have ramifications '
-                          'to his employer, his family and his self. The use '
-                          'of actual news footage adds a dose of reality, as '
-                          'does the mention of Ronald Reagan, Oliver North, '
-                          'John Kerry ... and even the role Bill Clinton and '
-                          'Monica Lewinsky played in outshining the ultimate '
-                          "acknowledgment of Webb's work.\n"
+                          'The cinematography and visuals fit the tone of the '
+                          'film very well. Stylized heavily with its colors '
+                          'and the other external footage it uses, the film '
+                          'gives off an aged and exciting feel, similar to '
+                          'other movies from past decades. What ties it all '
+                          'together though is its clear focus. Director '
+                          'Michael Cuesta has a clear goal of what he wants '
+                          'the film to be about - Gary Webb. While not all the '
+                          'scenes succeed in contributing to that, the '
+                          'majority of it is cohesive enough to let audiences '
+                          'understand the characters without losing the '
+                          'intensity and action of the larger picture - the '
+                          'cocaine smuggling. \n'
                           '\n'
-                          'The underlying message here ... beyond the '
-                          'governmental cover-up ... is the lack of a true '
-                          'free press. Of course, this issue remains front and '
-                          "center today, but in this particular instance, it's "
-                          'surprising to see the influence and pressure '
-                          "applied by outside forces. It's further proof that "
-                          'any hope for checks and balances from our news '
-                          'outlets was snuffed out many years ago.\n'
-                          '\n'
-                          "The movie is based on two books: Gary Webb's own "
-                          '"Dark Alliance" and Nick Shou\'s "Kill the '
-                          'Messenger". The frustration as a viewer is derived '
-                          'from the fragmented presentation brought on by '
-                          'steady stream of new characters who mostly only '
-                          'appear in one or maybe two scenes. The list of '
-                          'known actors is impressive: Rosemary DeWitt, Oliver '
-                          'Platt, Robert Patrick, Tim Blake Nelson, Michael '
-                          'Sheen, Mary Elizabeth Winstead, Paz Vega, Barry '
-                          'Pepper, Michael Kenneth Williams, Andy Garcia, Gil '
-                          'Bellows, Lucas Hedges, Richard Schiff, and Ray '
-                          'Liotta. That should help explain what I mean by '
-                          'fragmented.\n'
-                          '\n'
-                          'The story is an important one and the film is worth '
-                          "seeing. It's impossible to not think of All the "
-                          "President's Men while watching. The Grandaddy of "
-                          'crusading journalism continues to produce heirs ... '
-                          'even those that are a black eye for the newspaper '
-                          'industry and our government.',
+                          'With its commendable technical aspects and the '
+                          'important subject it deals with, Kill The Messenger '
+                          'is definitely a film worth seeing. Jeremy Renner '
+                          'and the director together bring a lot to the film, '
+                          "and while it's not entirely superb, it gives a good "
+                          'two hours of entertainment that means something, '
+                          'especially today. RATING: [8/10]',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A reporter becomes the target of a vicious smear '

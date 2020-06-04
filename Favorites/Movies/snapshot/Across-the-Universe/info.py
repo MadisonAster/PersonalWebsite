@@ -21,7 +21,7 @@
             'url': '/name/nm2085629/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 104431,
+                     'ratingCount': 104436,
                      'ratingValue': '7.3',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -58,72 +58,99 @@
  'keywords': 'song,protest,artist,near death experience,vietnam war',
  'name': 'Across the Universe',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'liberalgems'},
-            'dateCreated': '2007-10-01',
+            'author': {'@type': 'Person', 'name': 'BriGuy7783'},
+            'dateCreated': '2007-09-16',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0445922/'},
-            'name': "The 1960's Counterculture In All Its Glory!",
-            'reviewBody': 'As someone who was literally a child of the mid - '
-                          "late 60's & and a student of the time period, I "
-                          'first want to thank everyone who had anything to do '
-                          'with the making of this film! Your timing could not '
-                          'of been better! You helped me to remember the '
-                          'fervor, passion and idealism that made up the '
-                          "mid-late 60's. It's been many years since I have "
-                          'burst out sobbing in a movie theater! Thanks for '
-                          'helping to lift the fog a bit! As an activist, you '
-                          'have collectively given me some badly needed '
-                          'renewed vigor! \n'
+            'name': 'Flawed movie, but nevertheless breathtaking',
+            'reviewBody': 'I saw a sold-out opening night screening of "Across '
+                          'the Universe" last night with a group of my friends '
+                          'who had really been looking forward to it. Many of '
+                          'them were extremely disappointed, while in the '
+                          'critical world, Roger Ebert and the New York Times '
+                          'loved it. Because the film was so highly '
+                          'anticipated, and a number of people have asked me '
+                          "how I liked it, I'm writing this review in an "
+                          'attempt to express why the movie is so divisive. '
+                          "I'm not going to talk about plot, or describe any "
+                          "of the numbers. If you're interested in seeing the "
+                          "movie, they'll be more enjoyable if they're "
+                          'unexpected.\n'
                           '\n'
-                          'I also feel so very, very sorry for all the critics '
-                          "of this movie who don't have a clue about what it "
-                          'all this means, or whose hearts have grown so hard '
-                          'with such bitterness, cynicism or despair; or have '
-                          'just simply sold-out; or plain no longer care! All '
-                          "your ranting and raving and nay saying won't do a "
-                          'thing to take away one moment of the adventure, '
-                          'creativity, experimentation, excitement or passion '
-                          'that made this time in history so great!\n'
+                          "It's a bizarre and beautiful movie musical, almost "
+                          'a music video at times, that uses thirty- three of '
+                          "The Beatles' songs and director Julie Taymor's "
+                          'unique visual style to illustrate both a personal '
+                          'love story and the overall conflict in the sixties. '
+                          'The movie is incredibly original and ambitious, and '
+                          'therefore its failings are as dramatic as its '
+                          'successes. Both stem from the same source: Julie '
+                          "Taymor's self-indulgence. That's nothing new to her "
+                          'movies, "Frida" and "Titus" have the same problem, '
+                          'but in a movie stripped of traditional narrative, '
+                          "it's glaringly obvious. Some songs are impeccably "
+                          'chosen and staged with great creativity, but others '
+                          'are too obvious, or thematically forced so Taymor '
+                          'can cram in another song and stunning visual '
+                          'sequence.\n'
                           '\n'
-                          'I also what to thank the brilliant filmmakers for '
-                          'paying homage to so many great cultural icons, '
-                          'organizations and events of the period: Walter '
-                          'Cronkite, the greatest broadcaster of the 20th '
-                          'century. Baba Olatunji, the Nigerian Drummer and '
-                          'social activist, his double looked like he came '
-                          'right off the Drums of Passion album cover! I can '
-                          'now see him smiling from heaven! The tremendous '
-                          'scene with Bread and Puppets, a living, breathing, '
-                          "direct link to 1960's radicalism, warmed my heart! "
-                          'You even went up to their stronghold in Glover, '
-                          'Vermont, to film part of the scene! Bravo! The SDS '
-                          '(Students for a Democratic Society), which did not '
-                          'advocate violence, and the much smaller '
-                          'splinter-group that morphed into an organization '
-                          'advocating extreme measures, called the Weather '
-                          'Underground. The brave Martin Luther King, Jr. and '
-                          'his intervention in a labor dispute, which cost him '
-                          'his life. The historic occupation of the Ivy '
-                          'League, Columbia University by its students '
-                          'protesting both the Vietnam war and the intense '
-                          'poverty that surrounded the school. Ken Kesey and '
-                          'his legendary bus. The Jimi Hendrix & Janice '
-                          'Jopplin characters who show such dignity, and a '
-                          'passion for music. And, of course, the Beatles! '
-                          'Their music reaches deep into my soul. You gave me '
-                          'insights into the meaning of their tunes that after '
-                          'all these years never crossed my mind! \n'
+                          'For the first half of the movie, I was frequently '
+                          'divided. One innovative sequence would really pull '
+                          'me into the style, then a forced number or awkward '
+                          'staging would distance me again. When an obvious, '
+                          'recognizable number began, I was torn between a '
+                          'cynical impulse to roll my eyes and an almost '
+                          'exhilarated impulse to laugh and applaud.\n'
                           '\n'
-                          'I also enjoyed being bathed in all the very '
-                          "colorful special affects. The 60's and early 70's "
-                          'were a time of outrageously bold colors and design. '
-                          'Something brilliantly portrayed in Across the '
-                          'Universe! The only film I intend to purchase on DVD '
-                          'that has been released this year!',
+                          '"Across the Universe" is a mess. There\'s no '
+                          'denying that. It is poorly paced and badly '
+                          'structured, and at times its feather-light plot and '
+                          'contrived or obligatory numbers become tedious. But '
+                          'at one point, about halfway through, I decided just '
+                          'to go along for the ride. I delighted in every '
+                          'brash, bold choice, whether it worked or not. I let '
+                          'the poignant moments move me, whether or not I '
+                          'intellectually felt that they were contrived.\n'
+                          '\n'
+                          "The Beatles' music had a huge effect on me; from "
+                          'the fateful day that my friend accidentally copied '
+                          'the first three tracks of "Revolver" onto my '
+                          'computer, a love affair was born. Their songs are '
+                          'inexorably tied to memories beautiful and horrible '
+                          'scattered all over my life, and as I grow older, '
+                          "I'm constantly discovering new, deeper resonances "
+                          'in their familiar refrains. Even when the context '
+                          "was vague or stretched, the film's reinterpreting "
+                          'and revealing new facets of these songs seemed to '
+                          'serve as a tribute to their breadth and greatness. '
+                          "Taymor's damning depiction of the horrors of war, "
+                          'and lyrical portrait of young, idealistic love are '
+                          'both painfully expressive and unique, and simply '
+                          "took my breath away. By the film's shamelessly "
+                          'corny close, I realized that I had just had a '
+                          'genuine cinematic experience. For all the movies '
+                          "that I watch, that's incredibly rare.\n"
+                          '\n'
+                          'In his review in the New York Times, Stephen Holden '
+                          'writes, "I realized that falling in love with a '
+                          'movie is like falling in love with another person. '
+                          'Imperfections, however glaring, become endearing '
+                          'quirks once you\'ve tumbled." I could laughingly '
+                          "list this movie's flaws from now till next week, "
+                          'but I sort of fell in love with its sheer audacity. '
+                          "You might not. It's extremely naïve, and "
+                          'thematically simple, and you could find that '
+                          'endearing or irritating. You may love it, or you '
+                          "may hate it, but you're going to feel something. "
+                          "This movie will not change your life; don't expect "
+                          'it to. But if you let your criticism fade to the '
+                          "background, and abandon yourself to Taymor's "
+                          'passionate fervor, you may have a pretty amazing '
+                          'experience.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Columbia Pictures',

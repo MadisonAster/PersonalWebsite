@@ -21,7 +21,7 @@
             'url': '/name/nm0923916/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 16062,
+                     'ratingCount': 16064,
                      'ratingValue': '8.3',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -46,43 +46,30 @@
              'key,2010s,comedy central',
  'name': 'Key and Peele',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'rzajac'},
-            'dateCreated': '2014-11-28',
+            'author': {'@type': 'Person', 'name': 'junkion9'},
+            'dateCreated': '2012-07-15',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1981558/'},
-            'name': 'Genius',
-            'reviewBody': "I'm not saying it's perfect. Genius is not equal to "
-                          "Perfect. It's a little hit and miss... and yet I "
-                          "feel it deserves a '10'.\n"
-                          '\n'
-                          'I think it deserves this because these guys (and '
-                          'their writers, natch!) have stumbled upon a '
-                          'wondrous land of infinite possibility. Not many '
-                          'people attain to this; which restriction is also an '
-                          'indicator of true artistry. From top to bottom, the '
-                          'produced sketches reek of talent and inspiration. '
-                          'From conception to writing to directing to '
-                          'acting... We are treated to comedy on blue-flame '
-                          "fire. It's head humor, it's body humor, it's "
-                          "slapstick, it's transcendent, it's bestial.\n"
-                          '\n'
-                          "It'll be interesting to see how long ComCent lets "
-                          'it run.\n'
-                          '\n'
-                          'And, btw, I PREFER the new format (using road trip '
-                          'bits as ligature).\n'
-                          '\n'
-                          'Highlights: S04E03; Georgina and Esther (*gotta* '
-                          'watch it uncensored!). S04E10; The scat duel '
-                          '(brutally mocking and lovingly homaging the '
-                          'tradition at the very same time!).\n'
-                          '\n'
-                          "I'm looking forward to K&P continuing on an upward "
-                          'trajectory... Forever and Ever, AMEN.',
+            'name': "Clever and Ahead of it's time",
+            'reviewBody': 'I was a bit afraid when I saw the teasers but blown '
+                          'away by the production value! Comedy is not just '
+                          'something to make you laugh. Comedy has levels to '
+                          'it watching Key & Peele I saw tragedy, Irony and '
+                          'humanity. There have been very few thought '
+                          'provoking comedy shows that have made me copy and '
+                          'paste youtube links and mail them to my friends. '
+                          'Key & Peele have somewhat tedious dialogs about '
+                          'their humdrum lives (sorry guys) But their comedic '
+                          'insights are brilliantly creative and should be '
+                          'revisited as ongoing themed webseries. I swear '
+                          'Jordan Peele is so dedicated to his scenes that his '
+                          'focus alone makes me laugh. This show is incredible '
+                          'and I search for new episodes of it in my comedy '
+                          'central on demand. Keep up the good work guys',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Key & Peele',

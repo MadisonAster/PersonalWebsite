@@ -21,7 +21,7 @@
             'url': '/name/nm3639013/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 96427,
+                     'ratingCount': 96455,
                      'ratingValue': '8.2',
                      'worstRating': '1.0'},
  'contentRating': 'TV-PG',
@@ -41,21 +41,19 @@
  'keywords': 'afterlife,utopia,heaven,ethics,neighborhood',
  'name': 'The Good Place',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ankitak-64340'},
-            'dateCreated': '2020-02-01',
+            'author': {'@type': 'Person', 'name': 'NickBrock'},
+            'dateCreated': '2020-02-03',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4955642/'},
-            'name': "I'll miss this show",
-            'reviewBody': 'After watching the last two final episodes of this '
-                          "series I've changed my rating from 8 to 10. Why? "
-                          'Because I loved the last two episodes - the simple '
-                          'and sweet ending they gave to this awesome show, '
-                          'with no twists whatsoever. Gonna miss this show. '
-                          'Well done all you guys associated with this show!',
+            'name': 'Having just watched the series finaale',
+            'reviewBody': 'I just popped in to tell you all:\n'
+                          '\n'
+                          'The ending makes the journey worth while..... I '
+                          'promise :)',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi3148002841',

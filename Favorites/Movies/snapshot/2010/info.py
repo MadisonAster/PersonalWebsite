@@ -21,7 +21,7 @@
             'url': '/name/nm0000837/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 48452,
+                     'ratingCount': 48457,
                      'ratingValue': '6.8',
                      'worstRating': '1.0'},
  'contentRating': 'PG',
@@ -47,36 +47,31 @@
              'film',
  'name': '2010: The Year We Make Contact',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'utgard14'},
-            'dateCreated': '2015-12-05',
+            'author': {'@type': 'Person', 'name': 'Kane III'},
+            'dateCreated': '2000-06-14',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0086837/'},
-            'name': '"Will I dream?"',
-            'reviewBody': 'A fine, intelligent sci-fi movie that has the '
-                          'unenviable task of being a sequel to arguably the '
-                          "greatest sci-fi movie of all time. If it's at all "
-                          'possible for you to put aside comparisons to '
-                          "Kubrick's film, you should do so. 2001 certainly "
-                          "didn't need a sequel but, if it had to have one, it "
-                          "couldn't be much better than this. The story has "
-                          'Dr. Heywood Floyd (now played by Roy Scheider) '
-                          'joining a Russian mission to investigate the events '
-                          'of the first film. Basically the movie tries to '
-                          'spell out what happened in 2001 for everybody who '
-                          "didn't get it and provide some degree of closure to "
-                          "the story. It's a different movie than 2001 and, in "
-                          'some ways, a more accessible one. I say that '
-                          'knowing how many people hate 2001 for the very '
-                          'reasons many others (including myself) love it. The '
-                          'script here is not as enigmatic and the direction '
-                          'is less artful. The cast is very good and the '
-                          "special effects are excellent. It's not the "
-                          "experience Kubrick's masterpiece is but it is an "
-                          'enjoyable companion piece. Not necessary in any way '
-                          'but good nonetheless.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
+            'name': 'Fine film.',
+            'reviewBody': 'The reactions to this film sum up a problem of '
+                          'perception that many film buffs seem to have. To '
+                          'such people, Kubrick was a genius. Kubrick made '
+                          '2001. 2001 is a *Kubrick* story. Therefore 2010 is '
+                          'by definition a presumptuous attempt to explain '
+                          'what Kubrick deliberately left unsaid. etc. etc.\n'
+                          '\n'
+                          'Sorry, 2001 is an *Arthur C Clarke* story. He wrote '
+                          'a sequel to his own story, called it "2010" and '
+                          "*he* explained what Kubrick left unsaid. I'd say he "
+                          'had a right. Then someone buys the film rights and '
+                          'produces a fine movie from it.\n'
+                          '\n'
+                          'And it *is* a fine movie. Intelligence far in '
+                          'excess of the usual Hollywood SciFi garbage '
+                          '(Independence Day or Starship Troopers anyone?).\n'
+                          '\n'
+                          'The scenes with Keir Dullea were far more chilling '
+                          'than anything in the original.\n'
+                          '\n'
+                          'Arteur theory is still alive and well, I see.'},
  'url': '/title/tt0086837/'}

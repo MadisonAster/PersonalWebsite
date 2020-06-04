@@ -21,7 +21,7 @@
             'url': '/name/nm0771414/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 119254,
+                     'ratingCount': 119276,
                      'ratingValue': '8.5',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -47,29 +47,38 @@
  'keywords': 'computer,startup,satanist,business rivalry,computer nerd',
  'name': 'Silicon Valley',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'bedmunds1'},
-            'dateCreated': '2014-04-06',
+            'author': {'@type': 'Person', 'name': 'alexeykorovin'},
+            'dateCreated': '2014-04-18',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2575988/'},
-            'name': 'Looks good so far!',
-            'reviewBody': "The characters are great. It's going to be a good "
-                          'show. You know a show will be good when there are a '
-                          'number of good characters introduced in the first '
-                          '1/2 hour. Very rarely do I laugh out loud but it '
-                          'happened a few times in the first episode. \n'
+            'name': 'Hilarious',
+            'reviewBody': 'As a programmer and an app entrepreneur myself I '
+                          'absolutely liked the first 2 episodes so far. I '
+                          'hope this will be a great series overall. \n'
                           '\n'
-                          "I don't know a lot about tech, but you'll "
-                          'understand the humor in this. Guess it helps that '
-                          "I've been and have friends working in Silicon "
-                          'Valley... As long as you have an IT department in '
-                          "your business you'll be able to relate as well...\n"
+                          "Btw I also like other Mike Judge's works: the "
+                          'Beavis & Butthead cartoon series and the Idiocracy '
+                          'movie.\n'
                           '\n'
-                          'Looking forward to next week. Glad to see HBO is '
-                          'still putting out good shows.',
+                          "I've never been to California and never worked for "
+                          'Google or Apple but I know this western IT culture '
+                          'pretty well, and the series makes good laugh of it. '
+                          'The main character should have taken 10 million :) '
+                          'Now the whole series will be about how he gets '
+                          'trampled over and over by the vultures of '
+                          'capitalism. Should be fun to watch.\n'
+                          '\n'
+                          "On a side note, it's great to see movies finally "
+                          'catching up with the new realities of life. '
+                          'Facebook, Twitter, Instagram - these words now play '
+                          'a vital role in lives of the vast share of the '
+                          "world's population, but movie directors have been "
+                          'far from these areas until now. Good work Mike, '
+                          'keep it coming! :)',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Big tech, bigger data, biggest season. Silicon '

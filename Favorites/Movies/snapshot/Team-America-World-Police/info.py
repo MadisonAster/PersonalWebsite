@@ -17,7 +17,7 @@
             'url': '/name/nm0588766/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 156305,
+                     'ratingCount': 156311,
                      'ratingValue': '7.2',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -48,52 +48,25 @@
  'keywords': 'arab stereotype,strong language,swearing,terrorist,puppetry',
  'name': 'Team America: World Police',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'stargunner'},
-            'dateCreated': '2004-10-25',
+            'author': {'@type': 'Person', 'name': 'docesfren-imdb'},
+            'dateCreated': '2005-04-08',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0372588/'},
-            'name': 'Team America Checklist',
-            'reviewBody': 'The one thing I noticed while attempting to breathe '
-                          'during this movie was that people were walking out '
-                          'in between bursts of hysterical laughter.\n'
-                          '\n'
-                          'Unfortunately, this movie is not for everyone. I '
-                          "wish it didn't offend some but it does. So, if you "
-                          'want to know whether you will enjoy this film or '
-                          'not, you must answer "yes" to the following:\n'
-                          '\n'
-                          '1. I am not offended by the "F" word. Being '
-                          'repeated 300 times.\n'
-                          '\n'
-                          '2. I am not offended by intense marionette sex.\n'
-                          '\n'
-                          '3. I am not offended by racial satire.\n'
-                          '\n'
-                          '4. I am not offended by ridiculous political '
-                          'satire.\n'
-                          '\n'
-                          "5. I am not a member of the Film Actor's Guild.\n"
-                          '\n'
-                          'If you\'re like me and have answered "yes" to the '
-                          'above five questions, go see this film. You will '
-                          'laugh so hard it will hurt and you will giggle '
-                          'about it for the next week thereafter.\n'
-                          '\n'
-                          'I have to say that I am very desensitized when it '
-                          "comes these kinds of films, and I'd say that Team "
-                          'America has raised the bar in derogatory humor. But '
-                          'that only made it more hilarious. I give it 5 '
-                          'stars, two thumbs up, 10 out of 10; it was '
-                          'flawless. But...\n'
-                          '\n'
-                          "On the other hand, if you're not like me, you might "
-                          'find yourself walking out by the third time you '
-                          'hear the song, "America, F*** Yeah!"',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
+            'name': 'Fightin against the world stupidity',
+            'reviewBody': 'Yesterday I watched this amusing movie, and besides '
+                          'laughing, it made me think. As European, I wanted '
+                          "to argue in favor of TA that I don't consider that "
+                          'this made in particular against any country, if not '
+                          'against the stupidity that we are tolerating in our '
+                          'lives: manipulation informative, false rumors tried '
+                          'as news and ill wills among people and countries '
+                          'that are a total fallacy. And the fight of Parker '
+                          'and Stone, and the rest of the film team is '
+                          'positive: to remove our asses of the armchair while '
+                          'we laugh and also realize us that this it is the '
+                          'same and dear world for all of us. I believe that '
+                          'it deserves to view it with a wide open mind.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Paramount Home '
                             'Entertainment',

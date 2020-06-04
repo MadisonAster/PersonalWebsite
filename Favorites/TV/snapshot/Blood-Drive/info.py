@@ -38,21 +38,25 @@
  'keywords': 'grindhouse series,dystopia,exploding head,ex cop,car racing',
  'name': 'Blood Drive',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jayme-16433'},
-            'dateCreated': '2017-06-15',
+            'author': {'@type': 'Person', 'name': 'joleree'},
+            'dateCreated': '2017-06-22',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4898282/'},
-            'name': 'Yes - everything about this show is just yes!',
-            'reviewBody': 'The first episode was everything I could have '
-                          'possibly asked for. Purely amazing! And Julian '
-                          "Slink is one of the most riveting characters I've "
-                          'ever seen on TV - like Hannibal Lecter, the Mad '
-                          'Hatter and Mystery Man (from Lost Highway) had a '
-                          'baby together.\n'
+            'name': 'The perfect antithesis of prestige TV',
+            'reviewBody': 'Blood Drive is a show that was probably way '
+                          "overdue. I don't think I have ever seen something "
+                          'work so hard.....to be so bad....and turn out so '
+                          "good. If you've been a fan of the prestige TV of "
+                          'the last few years, think Hannibal, Game Of '
+                          'Thrones, The Wire, Deadwood, The Sopranos you get '
+                          'the picture. Turn off that part of your brain and '
+                          'try this. If you got what Tarantino and Rodriquez '
+                          'were going for with Grindhouse and then the Machete '
+                          'films, then this is a must.\n'
                           '\n'
-                          "I can't wait to see next week's episode. I love "
-                          'this show!',
+                          'Its carnal, corny, carnage and its it meant to get '
+                          'a laughing WTF out of its viewers.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

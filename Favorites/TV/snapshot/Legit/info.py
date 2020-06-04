@@ -39,33 +39,60 @@
  'keywords': 'friend',
  'name': 'Legit',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'sjoerd-avanderveen'},
-            'dateCreated': '2013-02-13',
+            'author': {'@type': 'Person', 'name': 'joseph-brian2013'},
+            'dateCreated': '2013-02-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2400391/'},
-            'name': 'An excellent one of a kind show.',
-            'reviewBody': 'Jim Jeffries is awesome, and is making this show a '
-                          'true hit. The first episode is already funny, but I '
-                          'was a little hesitant about how they were planning '
-                          'out how to work with the other two characters, but '
-                          'that works brilliantly. Very funny, very nice to '
-                          'watch, it is something new, not more of the same. I '
-                          'hope this will catch on quickly, because I do not '
-                          'want to see this series fail. I do not know why you '
-                          'need ten lines, but OK. I will accept that this is '
-                          'necessary. If you want to know what my taste in '
-                          'shows is, then look below. It will be a summation '
-                          'of the shows I like. Just to know where to put my '
-                          'opinion.\n'
+            'name': 'Very funny show. 10/10',
+            'reviewBody': 'This show is genuinely hilarious. Like many of '
+                          'these mockumentary style shows or sitcoms they '
+                          'often start off a little slowly. (Not that this '
+                          'show could be described as a mockumentary as '
+                          'such)However, this review comes after episode 3 '
+                          "(Love) which is the best episode so far and I'm "
+                          'already falling in love with all the main '
+                          'characters. \n'
                           '\n'
-                          'Dexter Breaking Bad Mad Men Boardwalk Empire Suits '
-                          'The Walking dead House of Lies Workaholics HIMYM '
-                          'The Big Bang theory Two and a half men Happy '
-                          'Endings',
+                          'It has been said often of Legit that it has heart, '
+                          'it certainly does, it has oodles of soul perfectly '
+                          'balanced with gut busting laughter.\n'
+                          '\n'
+                          'Reminiscent of Curb your Enthusiasm Legit is '
+                          'cringe-worthy more often than not but you wont be '
+                          'able to look away. A bit like Parks & Rec it '
+                          "started slowly but didn't take long for me to feel "
+                          'great empathy for the main cast, you really want '
+                          'these guys to succeed. \n'
+                          '\n'
+                          'Its a little to early to dissect the characters, '
+                          "suffice it to say, Jim Jefferies' TV packaged "
+                          'portrayal of himself is a little out of step with '
+                          "the Jim Jefferies you'll experience on stage. "
+                          'Albeit the Jim in the TV show seems like a bit of a '
+                          'narcissist and/or sociopath to some extent, slowly '
+                          'going legit and becoming more empathic, which I '
+                          'suppose is the point of the somewhat vague premise. '
+                          "Nevertheless, it still works and it's fair to say "
+                          "the guy can act, He's no DJ Qualls in the acting "
+                          'department but I would give him a robust 7/10 '
+                          'notwithstanding.\n'
+                          '\n'
+                          'Jim manages to deliver his brand of shock value '
+                          'comedy, vulgarity and twisted tales without the '
+                          'unrelenting barrage of epithets and I think its a '
+                          'credit to him.\n'
+                          '\n'
+                          'It goes without saying that Legit will not be for '
+                          'everyone, Jim Jefferies is not considered one of '
+                          'the top dirty stand up comics for no reason.\n'
+                          '\n'
+                          "I'm not sure where this show is headed nor could I "
+                          "say it has much longevity but I'm going to enjoy "
+                          "the ride while it lasts. Why don't you join me.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for Legit: The Complete First Season',

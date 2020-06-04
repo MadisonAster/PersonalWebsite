@@ -19,7 +19,7 @@
             'url': '/name/nm0001156/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 34657,
+                     'ratingCount': 34656,
                      'ratingValue': '7.3',
                      'worstRating': '1.0'},
  'contentRating': 'PG',
@@ -43,30 +43,61 @@
  'keywords': 'teaching,high school,1990s,deafness,high school teacher',
  'name': "Mr. Holland's Opus",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'lady_colubris'},
-            'dateCreated': '2003-04-23',
+            'author': {'@type': 'Person', 'name': 'ccthemovieman-1'},
+            'dateCreated': '2006-03-09',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0113862/'},
-            'name': 'A beautiful film...',
-            'reviewBody': 'The first time I saw this film was in the movie '
-                          'theater with one of my best friends--both of us '
-                          'musicians. By the time we left, both of us were '
-                          'bawling our eyes out. This film is very touching '
-                          'and well done. Granted, there are accuracy errors '
-                          "(every film has those) and I've noticed several "
-                          'complaints about the music in the final scene (why '
-                          'are people so nitpicky?). I had a band director '
-                          'much like Mr. Holland when I was in middle school, '
-                          'a man who struggled at first as a teacher but soon '
-                          'became a beloved and inspiring director. Every time '
-                          'I watch this film I think of that man, and how he '
-                          "changed my life for the better. It's a movie I can "
-                          'truly relate to.\n'
+            'name': 'Genuinely Nice Bio Film That Hits Mostly The Right Notes',
+            'reviewBody': 'This is simply a nice, dramatic story of a music '
+                          "teacher's life. Richard Dreyfuss plays the teacher, "
+                          '"Glenn Holland." It spans 30 years of his career '
+                          'with a tear-jerking ending. Endearing characters '
+                          'make it a memorable film.\n'
                           '\n'
-                          'Okay, enough reminiscing. :P If you want a film '
-                          'that will tug your heartstrings, this is it. Rating '
-                          '9 out of 10.'},
+                          'The focus of the story is Dreyfuss and three '
+                          'students he gives special time to over the years. A '
+                          'big subplot involves the teacher and his '
+                          'hearing-impaired son. \n'
+                          '\n'
+                          'The students are winningly played by Alicia Witt, '
+                          'who plays the sweet girl who goes on to become '
+                          'governor; Terrence Howard, a really nice kid who '
+                          'gets killed in Viet Nam, and Jean Louisa Kelly, the '
+                          'last and most memorable student perhaps, an '
+                          'extremely talented singer who goes on to a career '
+                          'in New York City.\n'
+                          '\n'
+                          'Interwoven are some personal stories, particularly '
+                          "with Kelly's character, and with fellow teachers "
+                          '(Jay Thomas playing the most likable) and school '
+                          'administrators (Olympia Dukakis and William H. '
+                          'Macy). The most personal, of course, involves his '
+                          'hot-cold-hot relationship with his disabled son '
+                          '(played by three different actors as time passes.) '
+                          "Glenne Headly, meanwhile, plays Dreyfuss' wife.\n"
+                          '\n'
+                          'As you can see by this cast, this is a well-acted '
+                          'movie with the only flaw being the screenwriters '
+                          'unable, as Hollywood seems to be, to control their '
+                          'political bias by giving unwarranted cheap shots to '
+                          'Republican politicians who are pictured as being '
+                          'against the arts; atheist John Lennon almost '
+                          'deified in this film as one of the "heroes" of the '
+                          '20th century, plus a few more digs and plugs here '
+                          'and there, all with the normal Liberal bias.\n'
+                          '\n'
+                          "Propaganda-aside, it's a genuinely nice film about "
+                          'people who succeed through dedication to their '
+                          'professions. The movie seemed to appeal to a wide '
+                          "audience. It's very manipulative, but it works. "
+                          "It's also a plug, if you will, for deaf children "
+                          'and the problems they face and the difficulties '
+                          'parents face in raising a kid with that disability.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '8',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Hollywood Pictures',
              'embedUrl': '/video/imdb/vi966459673',

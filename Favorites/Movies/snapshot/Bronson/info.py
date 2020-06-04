@@ -19,7 +19,7 @@
             'url': '/name/nm3032715/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 116202,
+                     'ratingCount': 116216,
                      'ratingValue': '7.1',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -52,42 +52,77 @@
  'keywords': 'male full frontal nudity,prison,sadism,art teacher,mustache',
  'name': 'Bronson',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Leofwine_draca'},
-            'dateCreated': '2011-11-20',
+            'author': {'@type': 'Person', 'name': 'nesfilmreviews'},
+            'dateCreated': '2013-07-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1172570/'},
-            'name': 'Watch it for Hardy',
-            'reviewBody': "The real-life story of Britain's toughest prisoner, "
-                          'and not a film I would choose to watch – except '
-                          'when it comes to the casting of the lead actor. Tom '
-                          "Hardy, who I've noticed cropping up more and more "
-                          'in recent years, gives a tour-de-force performance '
-                          'as a psychotic inmate and man to whom violence is a '
-                          'way of life. His eerie voice, hulking frame and '
-                          'dead eyes all combine perfectly to make him one of '
-                          "cinema's most memorable villains in recent years, "
-                          'and with most of the scenes consisting of him '
-                          'speaking monologues in solitary cells, the film '
-                          'belongs to him.\n'
+            'name': "Tom Hardy's volcanic performance makes this bio utterly "
+                    'compelling.',
+            'reviewBody': 'One thing is for certain: Bronson invites you to '
+                          'admire its protagonist as a pure, muscular '
+                          'embodiment of anarchy. And perhaps you will, but '
+                          'you will also be glad that he is still behind bars. '
+                          'The film opens with a man on stage proclaiming, "My '
+                          "name is Charlie Bronson, and all my life I've "
+                          'wanted to be famous." The auditorium appears to be '
+                          'empty, but later, a still unseen audience provides '
+                          'the approval he so desperately covets. \n'
                           '\n'
-                          "Which is good, because the story isn't up to much. "
-                          "It's a loose dramatisation of the life of Michael "
-                          'Peterson, a man who robbed a post office and ended '
-                          'up becoming Charles Bronson, one of the most famous '
-                          'convicts of all time. To be honest, the events '
-                          "aren't all that interesting, and in other hands the "
-                          'continuous brawls with prison officers could become '
-                          'repetitive. Thank Heaven then for the presence of '
-                          'Nicolas Winding Refn (VALHALLA RISING) as director. '
-                          'This is a guy who understands cinema and the beauty '
-                          'of cinema, and he makes the film intensely '
-                          'watchable as a result. BRONSON looks a thing of '
-                          'beauty, even if that beauty is stark, brutal and '
-                          'minimalistic.',
+                          'Born Michael Peterson (Tom Hardy), in a British '
+                          'suburb in 1952, he first went to prison at the age '
+                          'of 22 for burglarizing a post office. He stole '
+                          '£26.18 and received seven years for the crime, but '
+                          "that sentence was quickly extended as Peterson's "
+                          'infractions inside began to pile up: '
+                          'insubordination, violence, blackmail, and multiple '
+                          'hostage situations. Michael is gradually swallowed '
+                          'up by the prison system, seemingly an environment '
+                          'that suits him best. It is during this time that '
+                          "Michael Petersen, the boy, fades, and 'Charles "
+                          "Bronson,' his superstar alter ego, takes over. "
+                          'Bronson occupies any territory in which he exists '
+                          "by sheer, brute, force. Bronson's first and only "
+                          'instinct is to fight, to capture, and to win. He '
+                          'never makes it to phase two of planning. He has now '
+                          'spent more than three decades in jail, with the '
+                          'majority of those years in solitary confinement, '
+                          'and has become a tabloid sensation as the "most '
+                          'violent prisoner in Britain." \n'
+                          '\n'
+                          'The film is impressively structured and edited, '
+                          'shot in dark tones--illustrating his theme that '
+                          'Bronson is "an artist looking for a canvas," whose '
+                          'search is frequently violent, crazy, and erratic. '
+                          'The director is Nicolas Winding Refn, most famous '
+                          'for the movie "Drive" (2011), and his "Pusher" '
+                          "trilogy of films about Copenhagen's violent, "
+                          'multi-ethnic underworld. Refn himself is something '
+                          'of a rebel, who brings a sharp, surreal, foreign '
+                          'eye to the film. \n'
+                          '\n'
+                          'The film solely rests upon the astonishing '
+                          'performance from an almost unrecognizable Tom '
+                          'Hardy. Bronson never asks for our sympathy for his '
+                          'situation, but somehow, at times, he is able to do '
+                          'just that. Hardy brings a raw physicality to the '
+                          'role, leaping naked about his cell, jumping from '
+                          'tables, and hurling himself into half a dozen '
+                          'guards. Unfortunately, the film never gets under '
+                          'the skin of Bronson and his motivations. It omits '
+                          'other facets of his life including the Muslim woman '
+                          'he married in jail, his conversion to Islam, and '
+                          'the subsequent renouncement of the awards he won '
+                          'for his art and poetry.\n'
+                          '\n'
+                          'Enduring the egotistical ramblings of a psychopath '
+                          'may not sound like a particularly entertaining '
+                          'prospect, but "Bronson" delivers on all fronts. '
+                          'Gripping, visceral, ugly, and beautiful, "Bronson" '
+                          'is simply unforgettable.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A biopic of notorious British criminal Charles '

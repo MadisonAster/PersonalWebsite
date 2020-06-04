@@ -17,7 +17,7 @@
             'url': '/name/nm1119886/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 42757,
+                     'ratingCount': 42758,
                      'ratingValue': '6.2',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -40,30 +40,29 @@
  'keywords': 'kung fu,chosen one,martial arts,intentionally bad,hero',
  'name': 'Kung Pow: Enter the Fist',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'harryotter'},
-            'dateCreated': '2005-06-02',
+            'author': {'@type': 'Person', 'name': 'dakotaj'},
+            'dateCreated': '2005-02-17',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0240468/'},
-            'name': 'It all depends on your sense of humor',
-            'reviewBody': 'The first time i heard of Steve Odekerk was when I '
-                          'first saw the movie "Thumb Wars" on UPN, I found it '
-                          'to be so stupid that it was hilarious. After I saw '
-                          'the movie I quickly went out and bought all six in '
-                          'the series and loved everyone, now the humor in '
-                          'these movies is the stupid off the wall type that I '
-                          'love. Now Kung Pow is the same way and has the most '
-                          'random unexplainable humor that I have seen in a '
-                          'movie. Now I personally love this kind of humor but '
-                          'not everyone does, so I would say if you saw any of '
-                          'his other movies like Ace or Juwanna man these are '
-                          'more "normal" movies and aren\'t good to go by. But '
-                          'if you have seen the thumb movies or just love '
-                          'weird humor you will love this movie, I loved but '
-                          "that doesn't mean you will, so my advice is if you "
-                          "don't like stupid comedy don't watch this but if "
-                          'you like that kind of stuff you should check it '
-                          'out.',
+            'name': 'You either love it or hate it -- and I loved it!!!!',
+            'reviewBody': 'I laughed so hard I could hardly breathe. This is '
+                          'one of the funniest films I have ever seen.\n'
+                          '\n'
+                          "The Screen-It Our Take reviewer doesn't like "
+                          '"silly" humor. I do. My most common comments while '
+                          'watching: "That\'s SO STUPID!!" (when I could catch '
+                          'a breath from laughing) and "What was THAT??"\n'
+                          '\n'
+                          'There are no swear words, no realistic violence, '
+                          "and no sex scenes. It's just FUN!! My 13-year-old "
+                          'son & I rented it and watched it twice in one week. '
+                          'It was even funnier the second time.\n'
+                          '\n'
+                          'My husband hated it. He thought it was the most '
+                          '"un-funny" film he\'d ever seen.\n'
+                          '\n'
+                          'You either love it or hate it.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

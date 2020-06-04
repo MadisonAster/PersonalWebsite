@@ -17,7 +17,7 @@
            {'@type': 'Person', 'name': 'Tom Root', 'url': '/name/nm1802814/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 38685,
+                     'ratingCount': 38686,
                      'ratingValue': '7.7',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -47,53 +47,26 @@
  'keywords': '2000s,2010s,animal in series title,bird in series title,toy',
  'name': 'Robot Chicken',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'draktyr'},
-            'dateCreated': '2005-05-07',
+            'author': {'@type': 'Person', 'name': 'hobojos'},
+            'dateCreated': '2005-04-03',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0437745/'},
-            'name': 'Some seriously funny stuff!',
-            'reviewBody': 'Oh, man! What can I say about Robot Chicken? A lot! '
-                          'It is the freshest, funniest most original series I '
-                          'have seen in quite some time! I unfortunately know '
-                          'what happens to shows that are good and/or '
-                          'funny....\n'
-                          '\n'
-                          'Robot Chicken takes the look and feel of a great '
-                          '"ToyFare" comic and puts it in animated form. They '
-                          'were definitely aiming at the age group of 25-30, '
-                          'as all of the source material I instantly '
-                          'recognized; Transformers, Charlie Brown, Voltron, '
-                          'Thundercats....and so on.\n'
-                          '\n'
-                          'I mean can you go wrong with a show that has '
-                          'Optimus Prime dying of prostate cancer, or Cobra '
-                          'Commander, Skeletor, Lex Luthor and Mumm-Ra caught '
-                          'in traffic while carpooling to work? The humor '
-                          'involved is toilet humor for the most part....but '
-                          'seeing it instigated through these icons of my '
-                          'childhood, I found myself crying I was laughing so '
-                          'hard.\n'
-                          '\n'
-                          'I highly recommend this series to anyone who loves '
-                          "great ideas and doesn't mind crude humor. It will "
-                          "instantly click with kids of the 70's and 80's "
-                          '(Speed Racer, Knight Rider, CHiPs, Batman, Fast and '
-                          'the Furious , Mario Kart, Dukes of Hazzard, MASK '
-                          '(ya know...working overtime, fighting '
-                          'crime..fighting crime!) and Wheeled Warriors duking '
-                          'it out Cannonball Run style...all complete with a '
-                          'cameo from Burt Reynolds and Dom DeLuise!), making '
-                          'the humor and originality of this series apparent '
-                          'from the get-go.\n'
-                          '\n'
-                          'This is pure genius programming (albeit only 11 to '
-                          '15 minutes an episode), but with cameos by Seth '
-                          'Green(One of the shows creators), Mark Hamill, Seth '
-                          '"Family Guy" Macfarlane, N*Sync, Pat Morita, Alex '
-                          'Borstein and even Ryan Seacrest as himself, it '
-                          'makes the package that much sweeter to digest! '
-                          'Highly Recommended!'},
+            'name': 'One of the funniest shows on TV',
+            'reviewBody': 'I first saw this show in the corner of a Glory Days '
+                          'Bar&Grill while I was watching the NCAA tournament. '
+                          'Even without the volume I could tell that it would '
+                          'be a show worth watching. The first thing that I '
+                          'saw was Mr. Rogers standing in front of the train '
+                          'set going through his house. He called one of the '
+                          'stage hand boys to come to him because something '
+                          'was off on the train and then he took the kids head '
+                          'and stuffed it into a little lake by the train '
+                          'track and said in his calm voice, I TOLD YOU TO FIX '
+                          "THIS. If that isn't great TV I don't know what is. "
+                          'I just watched a new episode tonight called a piece '
+                          'of action, and it was just as good as the rest. I '
+                          "can't wait for this show to come to DVD."},
  'trailer': {'@type': 'VideoObject',
              'description': 'Watch the Season 9 Trailer that "Robot Chicken" '
                             'brought to Comic-Con 2017.',

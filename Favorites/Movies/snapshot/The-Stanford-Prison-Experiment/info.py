@@ -21,7 +21,7 @@
             'url': '/name/nm1880888/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 35290,
+                     'ratingCount': 35303,
                      'ratingValue': '6.9',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -49,75 +49,135 @@
  'keywords': 'prisoner,guard,prison,psychology,university',
  'name': 'The Stanford Prison Experiment',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ivko'},
-            'dateCreated': '2016-05-29',
+            'author': {'@type': 'Person', 'name': 'Sergeant_Tibbs'},
+            'dateCreated': '2015-08-08',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0420293/'},
-            'name': 'Chillingly bad science',
-            'reviewBody': 'This film is a dramatization of a real '
-                          'psychological experiment that took place at the '
-                          'Stanford University in 1971. The motivation was to '
-                          'study the dynamics of individuals who were '
-                          'arbitrarily placed into roles as prisoners and '
-                          'guards at a simulated prison. Since none of the '
-                          'study participants were actual criminals or '
-                          'correction officers, the idea was to glean insight '
-                          'into the psychology of the power imbalance that '
-                          'arises from the situation, as opposed to the people '
-                          'involved.\n'
+            'name': 'The ugly side of the human condition.',
+            'reviewBody': "I've always been fascinated by the original "
+                          'Stanford prison experiment. It always had the '
+                          'ingredients for a fascinating study of human '
+                          'behaviour. Its conductor Dr. Philip Zimbardo knew '
+                          'that, it just had to be played out. Of course, The '
+                          "Stanford Prison Experiment is a story that's been "
+                          'notably portrayed before, such as the 2001 German '
+                          'film Das Experiment. I remember being a fan of it '
+                          "when I first saw it, but I admit I can't quite "
+                          'recall it enough to make a comparison here. '
+                          "Nevertheless, this American version which doesn't "
+                          'make substitutions is a preferable version, one '
+                          "that makes resourceful use of today's technology "
+                          "and young talent. There's a dual study going on "
+                          'here. One, the part that writes itself, a document '
+                          'of the actual experiment. And the other, an '
+                          'examination of the ethics of the experimenters. '
+                          'Here is the ugly side of the human condition and '
+                          'our desires to push one another to feel the sweet '
+                          'taste of superiority.\n'
                           '\n'
-                          'Things famously degraded quickly and the experiment '
-                          'was terminated after only six days. Multiple guards '
-                          'displayed sadistic traits and performed acts of '
-                          'psychological and even (to a smaller degree) '
-                          'physical torture, all overseen, permitted, and '
-                          'arguably encouraged by "superintendent" Philip '
-                          "Zimbardo, the study's creator.\n"
+                          'While it may lend the obvious yet compelling '
+                          'results of what imaginary power and authority does '
+                          'to people, it still needs to be well executed to '
+                          'work. Fortunately director Kyle Patrick Alvarez and '
+                          'writer Tim Talbott have the right handling of the '
+                          'material, working with great economy in balancing '
+                          "its dichotomy's. At first it's disarmingly casual "
+                          'in the way the volunteers are selected and '
+                          'summoned, making a point of its randomizations and '
+                          'often offering an endearing and natural sense of '
+                          "humour. While superficially bleak, it's having fun "
+                          'with the 70s clothes and oversized moustaches, '
+                          'without peeling back their integrity. But then real '
+                          'tension, real anguish, and a real sensation of '
+                          'danger and dread creeps in and The Stanford Prison '
+                          'Experiment becomes deeply unsettling in its '
+                          'dehumanization techniques. With a careful sense '
+                          'from Alvarez of how far to escalate each sequence, '
+                          'it rings true to human sensibilities of what would '
+                          "happen in this unique situation. There's always a "
+                          "reminder that it isn't real, but it doesn't stop "
+                          'you from feeling unbearably trapped. This is nature '
+                          'at work, combined with a touch of modern cruelty.\n'
                           '\n'
-                          'The conditions the participants were exposed to '
-                          'were reprehensible, but even worse is that '
-                          'ultimately this was simply bad science, making the '
-                          'whole endeavor a cruel waste of time. The '
-                          'experiment lacked much of the basic rigor required, '
-                          'as highlighted in the film by a verbatim repetition '
-                          'of an actual conversation Mr. Zimbardo had with a '
-                          'colleague who questioned some of the basic '
-                          'scientific methodologies being utilized in the '
-                          'study.\n'
+                          "There is a tendency in the film's inherent and "
+                          'forgivably episodic narrative that it gets you '
+                          "attached to a character they're focusing on only "
+                          'due to their upcoming exit. Thereby the film loses '
+                          'steam bit by bit. It gradually wins you back '
+                          'afterwards, but each time it takes a little longer. '
+                          'Ezra Miller in particular is a highlight of the '
+                          'first half of the film, formulating some of the '
+                          "most memorable instances of the prisoner's "
+                          "rebellions and reluctances. He's missed, but his "
+                          'absence only breeds more tension and vulnerability '
+                          "as we're left with weaker willed volunteers. If "
+                          'anything, this film is an impressive display of the '
+                          'best talent from the next generation of actors. '
+                          'Hopefully all to soon be familiar faces; Johnny '
+                          'Simmons, Tye Sheridan, Brett Davern, and a guard '
+                          'with the most inventive choice of wording, Michael '
+                          'Angarano, all stick out among other strong '
+                          'performances. While a crowded ensemble does mean no '
+                          'character gets to be fleshed out to their full '
+                          'potential, Alvarez and Talbott at least give room '
+                          'for everyone a time to shine without any dim '
+                          'spots.\n'
                           '\n'
-                          'Zimbardo himself committed what I would consider '
-                          'borderline criminal acts such as initially denying '
-                          '"prisoner" participants the option to leave when '
-                          'requested (to instill in them the belief that their '
-                          'situation was, in fact, real), which came '
-                          'frighteningly close to converting the "study" into '
-                          'a criminal act of kidnapping in my opinion.\n'
+                          'On the experimenters end, Billy Crudup is perfect '
+                          'casting as Dr. Zimbardo. Donning a beard that gives '
+                          "him an uncanny resemblance to Satan, it doesn't "
+                          'remove that trustworthy glint of compassion in his '
+                          'eyes. His usual warmth is countered by his '
+                          'malicious intent to shove the volunteers to their '
+                          'limits and it creates an enthralling inner conflict '
+                          "where he's finding his own limits. The film "
+                          'admittedly does lack a female presence giving the '
+                          'nature of 24 volunteers and all the scientists '
+                          'being men. Its only example is Olivia Thirlby as '
+                          "Zimbardo's girlfriend who later involves herself in "
+                          'the experiment and becomes a voice of reason, but a '
+                          'very welcome one. It may have blind spots and a few '
+                          "stumbles, but it doesn't hinder what the film does "
+                          'right. As I was completely wrapped in its deft and '
+                          'dense confrontations, I kept waiting for the film '
+                          'to explode. Perhaps recalling the more gritty '
+                          'approach Das Experiment took to its second half, '
+                          'instead this implodes, which is a much more '
+                          'restrained and satisfying conclusion to watch these '
+                          'invisible social constructs dissolve rather than '
+                          'erupt.\n'
                           '\n'
-                          'Zimbardo explains this as him getting "to close" to '
-                          "the experiment, but personally I'm not particularly "
-                          'sympathetic to that argument. When you watch the '
-                          "actual clips from the study and read the notes, I'm "
-                          'more inclined to think that Mr. Zambardo himself '
-                          'had a sadistic streak that he failed to control for '
-                          'a time. Honestly, I think the man should have faced '
-                          'criminal charges for his role in this fiasco.\n'
+                          "The Stanford Prison Experiment's wealth of strong "
+                          'material and performances are matched by its '
+                          'technical ambitions. The slick photography makes it '
+                          'cinematic with liberal collages of close-ups and '
+                          'swift camera moves but still keeping it intimate. '
+                          'When the scene calls for rigid obedience, any time '
+                          'the camera moves out of line we hold our breath. '
+                          "It's graded with a washed-out atmosphere, relishing "
+                          "in the moody darkness. I've been irritated with "
+                          'indie films that abuse a shallow depth of field in '
+                          'their photography for no good reason, but this film '
+                          'uses it to isolate you in its grasp and as a result '
+                          'the film shook me up for the rest of the day. While '
+                          'it gets under the skin of the prisoners and the '
+                          'scientists, I did find myself wanting to get behind '
+                          'the motivations of the guards, the most vocal '
+                          'contributors of the experiment. Instead, thats '
+                          'saved for an epilogue that feels like a wise '
+                          "afterthought, but it's a powerful note on the "
+                          'personal experiments we run just because the '
+                          'opportunity is there. The Stanford Prison '
+                          'Experiment is an ideal taut psychological thriller '
+                          'that bristles with youthful energy and will mostly '
+                          'likely remain standing as one of the best of the '
+                          'year.\n'
                           '\n'
-                          'In the end, some good did come out of this '
-                          'experiment in that it created a push for '
-                          'establishing standards and controls for '
-                          'psychological experiments in the future.\n'
-                          '\n'
-                          'Despite knowing the actual outcome, I still felt '
-                          'anxious about the fates of the young men involved, '
-                          'a testament to the power of the acting and '
-                          'directing here. To me, this movie is a chilling and '
-                          'visceral reminder of how easy it is to create '
-                          'conditions that foster cruelty and dehumanization. '
-                          'A rewarding, if somewhat depressing, film to watch.',
+                          '8/10',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'It is the summer of 1971. Dr. Philip Zimbardo '

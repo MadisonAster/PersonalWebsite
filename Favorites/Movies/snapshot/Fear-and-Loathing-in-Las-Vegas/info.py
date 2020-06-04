@@ -21,7 +21,7 @@
             'url': '/name/nm0324672/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 252040,
+                     'ratingCount': 252064,
                      'ratingValue': '7.6',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -57,53 +57,48 @@
  'keywords': 'drugs,hallucination,1970s,lawyer,journalist',
  'name': 'Fear and Loathing in Las Vegas',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Broudie69'},
-            'dateCreated': '2002-11-01',
+            'author': {'@type': 'Person', 'name': 'hansler'},
+            'dateCreated': '2003-01-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0120669/'},
-            'name': 'One of the best films ever.',
-            'reviewBody': "It's hard to describe how good this movie is "
-                          'without sounding sycophantic but it really is that '
-                          'good. This film is based on the "true" story of '
-                          'when the notorious reporter Hunter S. Thompson and '
-                          'his then attorney Oscar Zeta Acosta went to Las '
-                          'Vegas to cover a bike race for rolling stone '
-                          'magazine but instead spent the entire trip going '
-                          'out of their minds on various illegal and legal '
-                          'chemicals. This may sound like a one trick pony for '
-                          "stoners and 60's throwbacks but I am neither and I "
-                          'thoroughly enjoyed this film. Very few films based '
-                          'on books manage to tell the story or capture the '
-                          'spirit of the original but F&L certainly manages '
-                          'both. The story sticks closely enough to the book '
-                          'without alienating the books fan base but also '
-                          "trims out the right areas so that the film doesn't "
-                          'become overly long and uninteresting.\n'
+            'name': 'An excellent literary adaptation - and sooo much more...',
+            'reviewBody': 'This movie polarizes the audience like few before: '
+                          "while of course, there's people who like it and "
+                          "people who don't like it for any movie, 'Fear and "
+                          "Loathing in Las Vegas' either excites or almost "
+                          "repulses it's critics, and I dare to say that most "
+                          'of the negative responses are based on ignorance, '
+                          'or even fear, of introducing psychedelic '
+                          'experiences into mainstream culture.\n'
                           '\n'
-                          '      The film is still fairly long, compared with '
-                          'most popcorn fare, at around 2hrs and does sag a '
-                          'little in places but the pace quickly picks up '
-                          'again. The performances are absolutely spot on with '
-                          'Johnny Depp and Benicio Del Toro virtually becoming '
-                          'their characters. Both are heavily disguised under '
-                          'make-up but their acting ability shines through. On '
-                          "first viewing I wasn't that impressed, it was a "
-                          'good film but not a great film, but after a second '
-                          'viewing I fell in love with it. You notice things '
-                          'and pick up on gags the second time around that you '
-                          'missed the first time. You immerse yourself in '
-                          'their world so much that you feel like you were '
-                          'there with them on the "trip" in both senses of the '
-                          'word. I have shown this film to most of my friends '
-                          'and they also have become hooked after viewing the '
-                          "film twice, it's such a shame that this great film "
-                          "works like this as I'm sure there are many people "
-                          'who are unwilling to give it the second chance it '
-                          "deserves. If you haven't seen this film I suggest "
-                          "you do and if you don't like it see it again. If "
-                          "you have seen this film and didn't like it, see it "
-                          'again.',
+                          "Personally, i regard 'Fear and Loathing in Las "
+                          "Vegas' as one of my absolute favorites, definitely "
+                          'in my top 10, and possibly even top 3. One of the '
+                          'many outstanding characteristics, besides a '
+                          'flawless performance from its main actors, '
+                          'excellent direction, and maybe the greatest '
+                          'achievement, one of the few literary adaptations '
+                          "that don't have you leave the cinema with "
+                          'disappointment, is the visual interpretation of the '
+                          'influence of LSD and other psychedelica. Though it '
+                          "has been tried many times, in 'Fear and Loathing in "
+                          "Las Vegas' it has been done in a way that in my "
+                          "opinion deserves an Academy Award like 'Best Visual "
+                          "Interpretation', were there one like that (btw, "
+                          'number 2 in my psychedelic charts is, '
+                          "interestingly, a scene from 'The Simpsons', episode "
+                          "809, 'El Viaje de Nuestro Jomer (The Mysterious "
+                          "Voyage of Homer)', where Homer eats super-spicy "
+                          'chili made from Guatemalan chili peppers grown by '
+                          'mental patients- that causing him an incredibly '
+                          "accuratel realized 'trip').\n"
+                          '\n'
+                          'Well, I guess up until now you, the reader, can '
+                          'guess that I am one of those that loved the movie, '
+                          'and think it to be a mile stone in cinematographic '
+                          "history, along with 'Apocalypse Now', 'Pulp "
+                          "Fiction' or 'The Matrix'.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

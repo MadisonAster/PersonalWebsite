@@ -21,7 +21,7 @@
             'url': '/name/nm0158846/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 75526,
+                     'ratingCount': 75535,
                      'ratingValue': '8.4',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -51,48 +51,22 @@
  'keywords': 'anthology,seasonal anthology series,courtroom,jury,racism',
  'name': 'American Crime Story',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'david-m-b95'},
-            'dateCreated': '2016-02-03',
+            'author': {'@type': 'Person', 'name': 'UniqueParticle'},
+            'dateCreated': '2019-09-01',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2788432/'},
-            'name': 'Evocative and Powerful',
-            'reviewBody': 'The case of O.J. Simpson is one that received wide '
-                          'scale media coverage and attention with the events '
-                          'being closely followed by many and is now the topic '
-                          "of season 1 of FX's new biographical crime drama, "
-                          'American Crime Story. However despite this, this '
-                          'show manages to remain just as gripping and '
-                          'haunting as the case was in real life.\n'
-                          '\n'
-                          'The acting is across the board incredibly strong '
-                          'with not a weak performance among the main '
-                          'ensemble; Cuba Gooding Jr. and John Travolta in '
-                          'particular stand out. The writing is sharp, never '
-                          'is it overly formulaic or mundane but '
-                          'understandable and real, tension is built '
-                          'tremendously from the dialogue alone. But above all '
-                          'the direction is excellent, the tone is established '
-                          'straight from the beginning and it is crafted to '
-                          'such a high quality.\n'
-                          '\n'
-                          'There is rarely a dull or wasted moment throughout, '
-                          'the story and pacing remains tight with no parts '
-                          'lacking in comparison to the soaring heights. The '
-                          'show, as said in the title of this review, is both '
-                          "evocative and powerful. The some of it's parts "
-                          'truly do this story justice and will more than '
-                          'likely stir something within you that compels you '
-                          'to keep watching and to examine this story in much '
-                          'more detail. As far as crime dramas go, this feels, '
-                          'to a certain extent, rather fresh and different in '
-                          'comparison to what has come before.\n'
-                          '\n'
-                          'The show looks set to keep reaching new heights and '
-                          'it is off a magnificent start.',
+            'name': 'Spectacular Sarah Paulson deserved the Emmy she won!',
+            'reviewBody': 'I barely knew about the OJ Simpson scenario so '
+                          'everything about that is glorious while being '
+                          "outrageous! I'd like to see the second season for "
+                          "now I am the middle of season 1, it's quite "
+                          'enjoyable and intriguing. Ryan Murphy the '
+                          'creator/writer is a mastermind for many projects, I '
+                          'would definitely recommend this show.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Watch the OFFICIAL TRAILER for The Assassination '

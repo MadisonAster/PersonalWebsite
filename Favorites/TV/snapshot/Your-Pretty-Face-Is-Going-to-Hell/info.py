@@ -45,18 +45,17 @@
  'keywords': 'demon,hell',
  'name': 'Your Pretty Face Is Going to Hell',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jameselbravo'},
-            'dateCreated': '2020-02-02',
+            'author': {'@type': 'Person', 'name': 'domenico-cicione'},
+            'dateCreated': '2019-05-03',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2362694/'},
-            'name': 'Funny as hell!',
-            'reviewBody': 'This show has made me chuckle in every single '
-                          'episode at least once, and that makes it worthy to '
-                          'me.',
+            'name': 'Bring this show back! Evil dead meets the office!!!',
+            'reviewBody': 'What a hilarious show. I think this show is '
+                          'original and funny, great acting!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'See the trailer for the Adult Swim series "Your '

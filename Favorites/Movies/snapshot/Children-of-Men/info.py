@@ -19,7 +19,7 @@
             'url': '/name/nm0000323/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 449839,
+                     'ratingCount': 449899,
                      'ratingValue': '7.9',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -60,43 +60,51 @@
  'keywords': 'long take,england,fertility,neo noir,allegory',
  'name': 'Children of Men',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jflet'},
-            'dateCreated': '2006-09-12',
+            'author': {'@type': 'Person', 'name': 'GregWolf'},
+            'dateCreated': '2006-09-22',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0206634/'},
-            'name': 'Carefully crafted piece of work',
-            'reviewBody': 'This year I attended for the first time the Venice '
-                          'Film Festival in Italy. I was of course quite '
-                          'excited and bought tickets to some screenings of a '
-                          'few different films I found interesting. Initially '
-                          "Children of Men wasn't in my plans but I was "
-                          'convinced by a friend who was very enthusiastic '
-                          "about it. Now I say I'm glad I bought the tickets! "
-                          'What an amazing film this is. The science fiction '
-                          'genre is just a coat to project into the future the '
-                          'horrors and problems of our current days and many '
-                          'films attempt that ending up, in most cases, '
-                          'failing. This one however succeeds. Succeeds indeed '
-                          'but not only in this... The film blew away nearly '
-                          'everyone in the audience as one of the best action '
-                          'movies we have seen lately, with extremely exciting '
-                          "and brutal chases, gun fights, etc. Don't be put "
-                          'off by this though, the film is as good as it is '
-                          'not because of the action sequences but its '
-                          'amazingly emotional and touching story. The '
-                          'performances of the cast is impressive especially '
-                          'Clive Owen and the newcomer Claire Hope Ashitey who '
-                          'throughout the film develop the relationship '
-                          "between their characters and it's such a joy to see "
-                          "the development. I'm not very good at writing "
-                          "reviews so I think I'll stop know, but I had at "
-                          'least to transmit something to everyone who might '
-                          "be interested in watching this film. Don't pass "
-                          "this one, you won't regret it. In my view one of "
-                          'the few excellent films released this year.',
+            'name': 'Utterly transfixed',
+            'reviewBody': 'I went to see this movie without catching any '
+                          'reviews, expecting something rather depressing and '
+                          'underfunded.\n'
+                          '\n'
+                          'Let me stop there and start again.\n'
+                          '\n'
+                          'This movie is a revelation from start to finish. A '
+                          'convincing future world, deftly conveyed with so '
+                          "many subtle signals that I'm sure it will benefit "
+                          'from further viewings. A completely "other" England '
+                          'which I was amazed to see realised in such detail. '
+                          'Clive Owen FINALLY has the heroic role we have been '
+                          'waiting for and is brilliant in it. Julianne Moore '
+                          "simply glows and I've never enjoyed Sir Michael "
+                          'Caine so much before. The soundtrack is beautifully '
+                          'eclectic. Aside from some excellent classical '
+                          "choices, there's an evocative and alternative "
+                          'Spanish take on "Ruby Tuesday" which is a signature '
+                          'on the film. Wait during the end titles to enjoy an '
+                          'excremental song from Jarvis Cocker.\n'
+                          '\n'
+                          'The movie grabbed my attention right from the '
+                          "start, and never let go. Initially, it's the "
+                          'differences of this future world that intrigue. '
+                          'Then, when the action starts, what I found really '
+                          'surprising was the freshness of direction that made '
+                          "me react to bullets and violence as if I'd never "
+                          "seen them in a movie before. If the script wasn't "
+                          'so wonderfully leavened with wit, it would be a '
+                          'grim and scary movie at times.\n'
+                          '\n'
+                          'Finally, the whole thing is lit brilliantly, from '
+                          'the authentic dim English days to the atmospheric '
+                          'ending.\n'
+                          '\n'
+                          'One to watch alongside "The Handmaid\'s Tale" some '
+                          'time....',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'url': '/title/tt0206634/'}

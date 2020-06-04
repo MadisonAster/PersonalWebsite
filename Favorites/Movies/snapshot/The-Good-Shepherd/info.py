@@ -19,7 +19,7 @@
             'url': '/name/nm0000285/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 96694,
+                     'ratingCount': 96700,
                      'ratingValue': '6.7',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -44,32 +44,63 @@
  'keywords': 'cia,year 1962,year 1960,year 1958,year 1947',
  'name': 'The Good Shepherd',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Whistler718'},
-            'dateCreated': '2007-01-01',
+            'author': {'@type': 'Person', 'name': 'kajmel'},
+            'dateCreated': '2006-12-14',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0343737/'},
-            'name': 'Remarkable',
-            'reviewBody': "I wasn't sure that a movie like this could or would "
-                          'still be made and released in this country.\n'
+            'name': 'Great Intense Movie',
+            'reviewBody': "If you're out to see a movie soon, this is one that "
+                          'should be on the top of your list. An all-star cast '
+                          "and an intriguing story isn't all that this movie "
+                          'has. It has some great performances from both Matt '
+                          'Damon and Angelina Jolie that are likely to get '
+                          'some award nominations.\n'
                           '\n'
-                          "No, it wasn't Mission Impossible 6. It didn't have "
-                          'the overwhelming special effects, chases, '
-                          'explosions and gunfights one might expect in a spy '
-                          "thriller. It didn't need them. Thrilling enough was "
-                          'the exposition of character (imagine that). Plot? '
-                          'Whose real life has ever had a tight plot line? '
-                          "Edward Wilson's life meandered along like many do. "
-                          'In fact, I found it even more interesting because '
-                          "the turns Wilson's life took seemed dictated by his "
-                          'character and not just by his chosen profession.\n'
+                          "I won't give any spoilers, I'll just give my "
+                          'background and overall opinion. When I saw the '
+                          'commercials, I thought it seemed interesting, but '
+                          'not interesting enough to get me out of my seat '
+                          "right now to go see it. It just didn't seem to have "
+                          'anything totally different than other movies, other '
+                          'than the combination of actors. Since I just got to '
+                          "see it anyway, I realized that it's one of those "
+                          'movies that ends up being better than you think it '
+                          'would be.\n'
                           '\n'
-                          'Courageous choices were made by DeNiro in making '
-                          'this film, by Damon in tackling the role with such '
-                          'coldness and stoicism, and by Jolie in passing on '
-                          'being a movie star in favor of being an actress.',
+                          'Matt Damon, as always, plays a good serious guy '
+                          "who's smart, savvy, and dedicated to his job. It "
+                          'kind of reminded me of his characters in The '
+                          "Departed and the Bourne Identity, except it's in a "
+                          'different situation and setting. His performance in '
+                          'this role was very fitting and believable.\n'
+                          '\n'
+                          'Angelina Jolie surprisingly worked well with this '
+                          'role. In the commercials I thought she was a little '
+                          "too wild compared to Matt Damon's calm character, "
+                          'but she really brought out the emotion of a wife '
+                          "who felt shut out and didn't have a complete "
+                          'relationship with and understanding of her '
+                          'husband.\n'
+                          '\n'
+                          'Robert DeNiro of course was great. It was a nicely '
+                          'added touch to an already good movie.\n'
+                          '\n'
+                          "While I wouldn't say it's as factual as the History "
+                          'Channel, I think the subject of the movie does put '
+                          'good insight on the history of the CIA. I think '
+                          'people who are into government/politics and history '
+                          'would like the storyline. It does focus quite a bit '
+                          'on his family relationship and how it is affected '
+                          "by his job in the CIA, and I'm sure any couple who "
+                          'has been in a similar situation would understand '
+                          'it.\n'
+                          '\n'
+                          'Overall, the movie was better than I thought and I '
+                          'would recommend it to movie-goers, especially those '
+                          'who like suspense and any of the main characters.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'url': '/title/tt0343737/'}

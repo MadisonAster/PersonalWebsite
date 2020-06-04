@@ -21,7 +21,7 @@
             'url': '/name/nm0000514/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 965943,
+                     'ratingCount': 966022,
                      'ratingValue': '8.1',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -52,51 +52,40 @@
  'keywords': 'revenge,bride,sword,female protagonist,martial arts',
  'name': 'Kill Bill: Vol. 1',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'emperorpasta'},
-            'dateCreated': '2003-10-10',
+            'author': {'@type': 'Person', 'name': 'davispittman'},
+            'dateCreated': '2018-02-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0266697/'},
-            'name': "Tarantino's Blue Period is OVER!",
-            'reviewBody': 'Just saw Kill Bill: Vol. 1 and was surprised, to be '
-                          'honest, at how incredibly GOOD this film is. Here '
-                          'is a craftsman (or artist, if you prefer) at the '
-                          'top of his game. Some of the shots are simply '
-                          'incredible; the score is, for the most part, '
-                          'vintage Tarantino selections- and the RZA does a '
-                          'very good job at filling the blanks; Uma Thurman is '
-                          'a great female lead, for sheer presence (and decent '
-                          'acting chops). Even Lucy Liu, who I expected was '
-                          "going to re-hash her Charlie's Angel character, "
-                          'burst on the scene like a flaming nunchuck.\n'
-                          '\n'
-                          'The stringing together of the scenes was '
-                          'impeccable. The transitions, the intercutting '
-                          'between dialogue, the flashbacks... I simply could '
-                          'not get enough. Tarantino IS, indeed, having fun '
-                          'here. He is giving us a film that may not go down '
-                          'as a classic, Pulp Fiction style, but that shows us '
-                          "what is yet to come. I doubt that he's lost his "
-                          'writing talents (as some have claimed), and I '
-                          'actually disagree that the dialogue in the film is '
-                          '"poor", or that there are "no memorable lines" '
-                          '(Empire). The kung-fu genre has never been a '
-                          'particularly good park to display Shakespearean '
-                          'writing virtuosisms. The lines work fine. The plot '
-                          'is simple enough, but Tarantino takes a burger and '
-                          'serves it as "steak tartare with sauce au poivre '
-                          'and asparagus terrine". He basically manages to '
-                          'cram so much information into the film that plot is '
-                          "simply irrelevent. What is relevent is the Bride's "
-                          'thirst for blood, her primal sense of vengeance and '
-                          'our total devotion to her. Bill, of course, is one '
-                          'of the greatest characters to ever NOT appear on '
-                          'screen. Overall, a great movie and an example of '
-                          "how a filmmaker's tool is not his pen: it's his "
-                          'eye.',
+            'name': 'Well made action film',
+            'reviewBody': "Kill Bill: Vol. 1 (2003) is a unique film. I've "
+                          'never seen anything quite like it. My commentary '
+                          'for this film is almost all positive. First off, '
+                          'the cast really blew me away, each and every actor '
+                          'did a great job with their respective roles. Uma '
+                          'Thurman is a terrific actress and she was '
+                          'definitely the right choice to play the lead '
+                          'character. Thurman commands this role and you are '
+                          "transfixed by her in every scene she's in. It's not "
+                          'just the action sequences that she is great in, '
+                          "she's just perfect for the role all around. And it "
+                          "wasn't just her that I loved, I also liked Vivica "
+                          'A. Fox, Daryl Hannah, and Lucy Lui. They all showed '
+                          'off their acting chops here, especially Fox, I '
+                          "personally loved her short time she's in the film. "
+                          'The writing is well done, I especially enjoyed '
+                          "Thurman's dialogue, the well written dialogue and "
+                          'the impressive way that she delivers that dialogue '
+                          'all comes together to make something great. I think '
+                          'most movie goers will enjoy this acclaimed movie, '
+                          "as long as they're not too conservative that is. I "
+                          'say that because the violence is truly graphic and '
+                          'very bloody, but in a strange way it kinda works '
+                          "for this one. I'm usually not a big fan of that, "
+                          'but here it works. Good job Tarantino! 8/10.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'CT #1, post',

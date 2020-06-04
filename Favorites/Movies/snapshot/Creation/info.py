@@ -17,7 +17,7 @@
            {'@type': 'Person', 'name': 'Guy Henry', 'url': '/name/nm0377844/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 13571,
+                     'ratingCount': 13572,
                      'ratingValue': '6.7',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -53,61 +53,38 @@
              'relationship,evolution,loss of daughter',
  'name': 'Creation',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'joshi_3592'},
-            'dateCreated': '2010-01-19',
+            'author': {'@type': 'Person', 'name': 'graham_dahlke333'},
+            'dateCreated': '2011-07-20',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0974014/'},
-            'name': 'A truly a great and moving tribute to Charles Darwin and '
-                    'his struggles.',
-            'reviewBody': 'This is definitely a touching movie, and a great '
-                          'expression of Charles Darwins personal struggle. '
-                          'The movie is not only about his struggle to get his '
-                          'book "the origin of Species" published, but also '
-                          'his relationship with his oldest daughter. His '
-                          'daughter was at start the only person in his family '
-                          'to approve of his views, something that she as well '
-                          'had to pay for. Een more than him at times.\n'
+            'name': 'MIsunderstood & Ignorantly Viewed',
+            'reviewBody': 'Bettanny & Connelly beautifully act out this biopic '
+                          "on Charles Darwin. The movie focuses on Darwin's "
+                          'personal life and how it was effected by his '
+                          'scientific endeavours. I believe many viewers '
+                          'watched this movie with a pessimistic mindset '
+                          '(maybe brought on by their own religious beliefs). '
+                          'Some, I believe, were offended by any mention of '
+                          'evolution. However, this movie does not attempt to '
+                          'argue for or against religion in any way! Instead '
+                          'it centers around the inner battle of a brilliant '
+                          "man, who's ideas were revolutionary and scorned. \n"
                           '\n'
-                          'Now, this is not an evolutionary propaganda film, '
-                          'as a matter of fact I think it managed to stay very '
-                          'neutral. A hard thing to do in my opinion. of '
-                          'course it does not condone the way the characters '
-                          'was treated by the church, quite the opposite '
-                          'actually. If you need me to use the big words to '
-                          'shed light on this film; it will be liked by deists '
-                          'and atheists alike, but goes away from theism. The '
-                          "movie talks about evolution, and that's it.\n"
+                          'The movie gives a unique perspective into the life '
+                          'of Charles Darwin, and allows one to appreciate his '
+                          'works and convictions. This film is definitely '
+                          'worth seeing. The cinematography is well done, it '
+                          'is historically accurate, and the performances are '
+                          'sound.\n'
                           '\n'
-                          'Paul Bettany as Charles Darwin was incredible. Of '
-                          'course we all may think of Darwin as that old man '
-                          'with the funny beard, but this movie centers around '
-                          "the man in his late 20's, early 30's. Jennifer "
-                          'Connelly (Emma Darwin) is great as always, but the '
-                          'actor who impressed me was Martha West as Annie '
-                          'Darwin, Darwins daughter. Definitely on of the best '
-                          'child actors of the decade. The story is about '
-                          'Darwin and his daughter, and it is beautifully '
-                          'acted.\n'
-                          '\n'
-                          'Except for a few jumps in time that was momentarily '
-                          'confusing, the production of this film is pretty '
-                          'flawless. Some scenes were Darwin observes nature '
-                          'is just marvelous, and is almost like taken out of '
-                          'a high production National geographic documentary.\n'
-                          '\n'
-                          "I must admit though, I'm not quite sure of why they "
-                          'chose "Creation" as the title. I doubt it is an '
-                          'irony, the movie is too respectful for that. Well, '
-                          "I'm sure there's a meaning too it, just don't let "
-                          'it scare you away. \n'
-                          '\n'
-                          'I give this movie a 9/10. This is truly a great '
-                          'tribute to Charles Darwin, and please give it a '
-                          'chance.',
+                          'For one who wants to understand the man behind the '
+                          'theories, it is great! But you must see it, '
+                          'optimistically, as a focus on the MAN and not his '
+                          'theories.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'English naturalist Charles Darwin struggles to '

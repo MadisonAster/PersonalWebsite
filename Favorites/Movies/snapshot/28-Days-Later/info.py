@@ -21,7 +21,7 @@
             'url': '/name/nm0658099/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 365951,
+                     'ratingCount': 365977,
                      'ratingValue': '7.6',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -44,51 +44,45 @@
  'keywords': 'virus,military,london england,zombie apocalypse,laboratory',
  'name': '28 Days Later...',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'shanfloyd'},
-            'dateCreated': '2004-12-30',
+            'author': {'@type': 'Person', 'name': 'mjw2305'},
+            'dateCreated': '2006-12-23',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0289043/'},
-            'name': 'What makes it different...',
-            'reviewBody': "This film is about a virus, 'Rage' virus that makes "
-                          'the infected person mad with extreme rage and '
-                          'hungry for blood. Within 28 days one outbreak in '
-                          'London caused entire Britain dead or evacuated '
-                          'leaving behind a blood-thirsty infected population '
-                          'and a handful of solitary normal persons. '
-                          'Civilization came to a halt, society got destroyed '
-                          'while those limited survivors fight for existence '
-                          'among frequent attack by the vicious victims.\n'
+            'name': 'A Cracking Zombie style horror, with substance',
+            'reviewBody': '28 Days Later successfully takes the zombie genre '
+                          'to a new level, this movie is far more than just a '
+                          'horror flick. There are some great characters, that '
+                          "you actually care about, some you'll like, some "
+                          "you'll be glad to see killed, but all solidly "
+                          'performed.\n'
                           '\n'
-                          'Sounds familiar? Then what makes "28 Days Later..." '
-                          'a classic among a horde of zombie/biohazard movies? '
-                          'Simply a touch of art that Danny Boyle is able to '
-                          'bring what others could not. The others focus too '
-                          'much on extensive, special-effects-controlled, gory '
-                          'action sequences between infected and normals, with '
-                          "heavy background music. But here there's always a "
-                          'tinge of sadness, emptyness, helplessness. Consider '
-                          'that empty London scene with that background music. '
-                          "We found out there's much else to show than just "
-                          'electrifying action or gore to describe the picture '
-                          'of life in this condition that these movies talk '
-                          'about.\n'
+                          'The story is well written and avoids the clichéd '
+                          'cheesy scripts that are too often attached to the '
+                          'horror genre. And I must add that the direction is '
+                          "exactly what you would expect from 'Danny Boyle' "
+                          'top class.\n'
                           '\n'
-                          'There are mistakes and loopholes in this movie. But '
-                          "that couldn't weaken the otherwise tight-gripping "
-                          'storyline. The greatest achievement of this movie '
-                          'is to make one viewer stay neutral throughout the '
-                          'film, without taking any side in the first place. '
-                          'Because the virus we talk about is simply used as a '
-                          "metaphor. 'Rage' is shown as a social disease. That "
-                          "makes it a 'serious' film, not a flick. Every "
-                          'person, even the harshest critic of zombie horror '
-                          'movies should watch this. 5 out of 5 stars.\n'
+                          'For me though the real difference between this '
+                          'movie and many others made in this genre is as '
+                          'follows - The infected (the zombie like folk) are '
+                          'more menacing, they turn instantly and they move '
+                          'fast, a combination that would instill fear in '
+                          'every one of us.\n'
                           '\n'
-                          'Oh, did I mention Cillian Murphy was awesome?',
+                          "I don't mean to run down the zombie movie genre - I "
+                          'am a huge fan of most of these films, but lets be '
+                          'honest its been done to death, re-animated and done '
+                          'again, and this was the first movie to break the '
+                          'mould and transcend to a new level.\n'
+                          '\n'
+                          'If you like your horror flicks, then this is '
+                          'certainly worthy of your attention.\n'
+                          '\n'
+                          '9/10',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from 20th Century Fox Home '

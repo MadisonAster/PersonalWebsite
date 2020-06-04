@@ -49,36 +49,28 @@
  'keywords': 'volcano,docudrama,1880s',
  'name': 'Krakatoa: The Last Days',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'chris_gaskin123'},
-            'dateCreated': '2006-05-09',
+            'author': {'@type': 'Person', 'name': 'mram16'},
+            'dateCreated': '2006-06-25',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0791318/'},
-            'name': 'Excellent feature length account of this disaster',
-            'reviewBody': 'Although I missed the first half-hour of Krakatoa: '
-                          'The Last Days, I saw the final hour and soon got '
-                          'into it.\n'
-                          '\n'
-                          'It tells the story of the distructuon of Krakatoa '
-                          'blowing its top and the aftermath in its wake. '
-                          'There was massive explosions that could be heard '
-                          'thousands of miles away, tsunamis and a huge cloud '
-                          'of ash from the final explosion.\n'
-                          '\n'
-                          'The lighthouse featured in this gets destroyed by a '
-                          'huge tidal wave and we see how a ship copes on the '
-                          'rough seas. Luckily, all survive.\n'
-                          '\n'
-                          'The special effects in this are fantastic, '
-                          'especially the scenes where Krakatoa is erupting.\n'
-                          '\n'
-                          'Well done to the BBC for bringing us this. \n'
-                          '\n'
-                          'For another version of this disaster, I recommend '
-                          "1969's Krakatoa, East of Java with Maximilian "
-                          'Schell and Diane Baker.',
+            'name': 'Excellent',
+            'reviewBody': 'A fact-based account of the 1883 eruption of '
+                          'Krakatoa in the Sunda Strait near Java, an '
+                          'Indonesian island. The eruption and its effects '
+                          '(including tsunamis and a super-hot ash cloud) took '
+                          'over 36,000 lives. The story follows several '
+                          'characters throughout the ordeal, including a Dutch '
+                          'official, his family, and his native clerk; a ship '
+                          'captain, his passengers and crew; a lighthouse '
+                          'keeper and his family; and a Dutch scientist in '
+                          'Indonesia to study the regions volcanoes. Included '
+                          'are narrations from diaries and journals of the '
+                          'survivors. The special effects are pretty good for '
+                          'a film of its kind, and unlike most made-for-TV '
+                          'fare, this docudrama actually has some good acting.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'url': '/title/tt0791318/'}

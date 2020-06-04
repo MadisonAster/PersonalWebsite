@@ -21,7 +21,7 @@
             'url': '/name/nm1056659/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 43931,
+                     'ratingCount': 43935,
                      'ratingValue': '8.4',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -47,29 +47,36 @@
  'keywords': 'interview,1990s,2000s,2010s,2020s',
  'name': 'The Daily Show',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'wildlife_4ever'},
-            'dateCreated': '2003-01-28',
+            'author': {'@type': 'Person', 'name': 'tRiVi8L'},
+            'dateCreated': '2003-01-23',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0115147/'},
-            'name': 'Open satire is a rare and beautiful thing...',
-            'reviewBody': 'First of all- I have a message for all those who '
-                          'said negative things about The Daily Show: WAKE UP! '
-                          "I don't know about the rest of you, but this show "
-                          'is a refreshing alternative to the shallow humor to '
-                          "be found in most of this country's comedy "
-                          'television.\n'
+            'name': 'One of the funniest shows on TV.',
+            'reviewBody': "From Jon Stewart's zany wit to Stephen and Steven's "
+                          "outrageous sarcasm, to Lewis Black's volcanic "
+                          "sardonic rants, to Mo Rocca's clever political "
+                          'satire, to the sly, subtle, absurd humor from '
+                          'regulars such as Tolan, Woods, Walls, Helms, '
+                          'Corddry, Harris, et al. ... this wonderful, unique, '
+                          'insightful, and unbelievably hilarious tv show is '
+                          'truly a delight to watch.\n'
                           '\n'
-                          'Jon Stewart is an excellent host, just as all the '
-                          'correspondents and contributors are all great '
-                          'additions to the show. The show is a sure bet '
-                          "you'll get a laugh and it's a enjoyable way to keep "
-                          'up with the news without sitting through 24 hour '
-                          'news channels. Ha HA!\n'
+                          'For many young adults, the complex truths and '
+                          'shades of grey in this new "adult world" tend to be '
+                          'oversimplified and broadly painted by the ratings '
+                          'crazed popular News Media.  It is a relief and a '
+                          'comfort to view a program to poke fun and point out '
+                          'the underlying absurdity of it all.  Understand, '
+                          'this show does not preach, and its intentions are '
+                          'first, and foremost, to crack jokes and promote '
+                          'laughter.  But in an era when lowbrow, kitschy '
+                          'humor and shock seem to be the easiest path to '
+                          'laughter, it is a pleasure and a blessing to have '
+                          'such a smart, witty, and insightful show as this '
+                          'one.\n'
                           '\n'
-                          'Rather than tuning into a predictable and annoying '
-                          'sitcome like saaaaay... Friends or Ally McBeal, try '
-                          "watching The Daily Show- you'll be glad you did."},
+                          'Not to be missed.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'The Daily Show',
              'embedUrl': '/video/imdb/vi2072165401',

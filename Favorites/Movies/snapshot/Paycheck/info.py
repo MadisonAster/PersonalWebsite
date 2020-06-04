@@ -21,7 +21,7 @@
             'url': '/name/nm0355910/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 100752,
+                     'ratingCount': 100761,
                      'ratingValue': '6.3',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -50,37 +50,58 @@
              'corporation',
  'name': 'Paycheck',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'noralee'},
-            'dateCreated': '2004-01-19',
+            'author': {'@type': 'Person', 'name': 'mstomaso'},
+            'dateCreated': '2005-08-03',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0338337/'},
-            'name': 'Philip Dick Reduced to a "McGyver" Episode',
-            'reviewBody': '"Paycheck" is yet another adaptation of a Philip '
-                          'Dick short story that tones down his political '
-                          'criticism and cynicism to make a sci fi adventure '
-                          'flick, this time pretty much as an expensive and '
-                          'clever "McGyver" episode.  You can tell how this is '
-                          'expanded from a story where the hero had five '
-                          'items/clues and now he has 20.  \n'
+            'name': 'Better than expected action / sci fi flick',
+            'reviewBody': 'Philip K Dick wrote many stories which seemed to '
+                          'have great film potential. I never thought of this '
+                          'as one of them.\n'
                           '\n'
-                          'Ben Affleck is a bland Ken Doll of a hero, though '
-                          'Uma Furman has almost as much spunk as she did in '
-                          '"Kill Bill, Volume 1."  \n'
+                          'I have seen Ben Affleck in a number of films, and '
+                          'felt that he was good in a few, OK in most, and '
+                          'positively annoying in some.\n'
                           '\n'
-                          'As a John Woo movie, of course the chase scenes are '
-                          'the best part.  But the fight scenes are simply '
-                          "perplexing -- uh, why does Affleck's work out "
-                          'consist of electronic samurai stick fighting such '
-                          'that when the poorly-aiming bad guys all come at '
-                          'him with guns Uma throws him a stick to pick them '
-                          'off? \n'
+                          'I saw the horrible, misleading trailers.\n'
                           '\n'
-                          'While I did see the movie on a scratchy print with '
-                          "tinny sound, I don't think that explained the "
-                          'confusingly bad continuity in the hair and make-up '
-                          'such that I thought they had been time-traveling at '
-                          'some tropical vacation in between scenes.'},
+                          'The soundtrack was simply bad.\n'
+                          '\n'
+                          'So, needless to say, I went into Paycheck with very '
+                          'low expectations.... and I was pleasantly '
+                          'surprised.\n'
+                          '\n'
+                          'Affleck plays a talented reverse-engineer, who sees '
+                          'the possibilities in new technology, and is able to '
+                          'carry it through to fruition. He takes on '
+                          'top-secret jobs and has his memory erased upon the '
+                          'completion of each. He decides to take on a project '
+                          'big and profitable enough to allow him to retire '
+                          'comfortably for the rest of his life. He completes '
+                          'the project, goes through the memory erasure, and '
+                          'then starts to discover what he has done, and, '
+                          'pursued by corporate hit men and the police, tries '
+                          'to recover his memory. Uma Thurmond, a biologist he '
+                          'had fallen in love with, is one of the memories he '
+                          'wants to recover, and also a target. \n'
+                          '\n'
+                          'Paycheck is more of an action film than a sci fi '
+                          'flick. The plot serves the action, as do the '
+                          'somewhat one-dimensional characters. And there is '
+                          'so little chemistry between Affleck and Thurmond '
+                          'that the romantic subplot is almost just a '
+                          'distraction. Despite these flaws, I spent an '
+                          'evening being thoroughly entertained by this '
+                          'rehashing of the usual technology-run-amok / '
+                          'knowledge-is-power story. This film is very '
+                          'Hollywood, and uses a lot of slick and clichéd '
+                          'camera-work, but nevertheless tells a good story '
+                          'and does it well enough.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '6',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Paramount Home '
                             'Entertainment',

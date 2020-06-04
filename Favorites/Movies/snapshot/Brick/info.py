@@ -19,7 +19,7 @@
             'url': '/name/nm0328709/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 99095,
+                     'ratingCount': 99099,
                      'ratingValue': '7.3',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -41,29 +41,57 @@
  'keywords': 'neo noir,alley,cinderblock,neo noirish,hard boiled',
  'name': 'Brick',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'kmserlin'},
-            'dateCreated': '2005-10-21',
+            'author': {'@type': 'Person', 'name': 'dannyfitzuk'},
+            'dateCreated': '2006-05-15',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0393109/'},
-            'name': 'Strange but fun and gripping',
-            'reviewBody': "Saw this at the Mill Valley Film Festival. It's "
-                          'essentially a film noir set in present-day San '
-                          'Clemente High School, reminiscent of "The Big '
-                          'Sleep," but with drug-dealing added to the mix of '
-                          'double-crossing. The characters may be teenagers, '
-                          'but the dialog channels Chandler and Hammett, and '
-                          'my only real complaint with the film is that Joseph '
-                          'Gordon-Leavitt (in an otherwise wonderful '
-                          'performance) sometimes mumbles; this is dialog you '
-                          "don't want to miss. Lukas Haas is wonderfully "
-                          'eccentric in what is essentially the Sidney '
-                          'Greenstreet role, Noah Fleiss as the dumb thug, and '
-                          'Nora Zehetner even LOOKs like Mary Astor. As with '
-                          'all the great American noir films, there are many '
-                          'sardonic laughs inserted into the dark story.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
+            'name': 'Over-rated!',
+            'reviewBody': 'Having absorbed all the hype about this film I went '
+                          'along to see it with great expectations. How '
+                          'disappointed I was. There are many defects and '
+                          'errors in this film. Here is my list: \n'
+                          '\n'
+                          'I found the dialogue inaudible and when I did hear '
+                          'what the characters were saying I found it '
+                          'completely incomprehensible.\n'
+                          '\n'
+                          'The lead who played Brendan has to be the most '
+                          'uncharismatic actor I have ever seen on screen. Top '
+                          'marks to this guy for being able to deliver the '
+                          'gibberish dialogue, but aside from that this '
+                          'anti-hero character that he plays is truly '
+                          'repellent. Even the poorest most unpopular student '
+                          "in high school wouldn't have bad hair, bad shoes, "
+                          'and completely ill fitting denim pants. Do all '
+                          'squares have to be so unstylish? How can someone so '
+                          "skinny and badly dressed walk around like he's a "
+                          'jock and not to be messed with? The Laura character '
+                          'is prematurely middle-aged and totally pretentious '
+                          "and irritating and that's only when you can hear "
+                          "what she's actually saying. If this film is a "
+                          'satire on American youth - where everyone is '
+                          'sixteen going on 42 then it works on this premise. '
+                          "However I don't believe for a moment that there is "
+                          'even a high school in Hollywood where all the kids '
+                          'talk in hyper-slang with perfectly polished '
+                          'sophisticated responses. This film could never be '
+                          'called realistic.\n'
+                          '\n'
+                          'The only redeeming feature in this project is the '
+                          'lovely Emilie De Ravin who unfortunately plays the '
+                          'soon-to-be dead girlfriend Emily. If she played '
+                          'Laura she would have had more screen time and '
+                          'perhaps would have delivered the strange dialogue '
+                          'with more clarity than the actress who played her.\n'
+                          '\n'
+                          'De Ravin is like a composite of Jodie Foster and '
+                          'Michell Pfeiffer when they were younger. And and '
+                          'yet far from reminding us of them, she also seems '
+                          'to possess an ethereal quality that transcend that '
+                          'initial impression - innocence corrupted springs to '
+                          'mind when I saw here in this flick. I hope this is '
+                          'the start of a glittering career for her. \n'
+                          '\n'
+                          'Watch out pointy chinned Witherspoon!'},
  'url': '/title/tt0393109/'}

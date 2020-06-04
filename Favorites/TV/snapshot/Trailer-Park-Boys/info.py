@@ -17,7 +17,7 @@
             'url': '/name/nm0243082/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 35615,
+                     'ratingCount': 35620,
                      'ratingValue': '8.4',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -37,55 +37,60 @@
  'keywords': 'trailer park,poverty,group of friends,mockumentary,trailer home',
  'name': 'Trailer Park Boys',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'vampyrecowboy'},
-            'dateCreated': '2004-04-26',
+            'author': {'@type': 'Person', 'name': 'thor4923'},
+            'dateCreated': '2006-10-07',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0290988/'},
-            'name': 'This is FRUCKING hilarious.',
-            'reviewBody': "I've seen this show only a few times and it is "
-                          'absolutely hilarious. The first time I saw it I was '
-                          "insulted, but after seeing it because i couldn't "
-                          'pick up anything else on the tv, I really enjoyed '
-                          'it.\n'
+            'name': 'Knock Knock...F%@k Off.',
+            'reviewBody': 'While I respect the opinions of those who '
+                          'criticized the show (not surprisingly the comments '
+                          'rated "least useful"), it appears that their views '
+                          "are so concrete that they just don't get it.\n"
                           '\n'
-                          'I would like to see more spin offs from a show like '
-                          'this. This is Melrose Place or 90210 on Welfare and '
-                          'it freakingly hilarious.\n'
+                          'This brilliant series is not intended to reflect '
+                          'the "reality" of trailer park life in Nova Scotia, '
+                          'but is instead a wonderful artistic compilation of '
+                          'many extreme, bizarre, and mundane experiences that '
+                          'are interesting on an entertaining and (feigned) '
+                          'voyeuristic basis. There are operas, soap operas, '
+                          'space operas, and now "park operas". \n'
                           '\n'
-                          'The cast is very classic characters. The dialogue '
-                          'is cheesey and trite, but it all fits in '
-                          'perfectly.\n'
+                          'Consider how difficult it must be to act improv '
+                          'style not only on the set, but to act "in '
+                          'character" during all media interviews and public '
+                          'engagements, as is the expectation. Not many actors '
+                          'would have the commitment or stamina to carry this '
+                          'through for the benefit of the production image. '
+                          'Mike Smith, who plays the character Bubbles, '
+                          'apparently can only wear the thick glasses for 15 '
+                          'minutes at a time without extreme fatigue.\n'
                           '\n'
-                          'The entire production is cheap, but made to be '
-                          'purposely done that way...and it comes off great. '
-                          'There are few comedies that are not Hollywood '
-                          'formula and this is one.\n'
+                          "Let's consider the acting quality and skill. Would "
+                          'Deniro or Pacino make this a better series? No! The '
+                          'charm is in the rough edges, the improv, the '
+                          'humility, and the belief that these are low rung '
+                          'thugs. It is totally believable and a credit to the '
+                          'acting and direction.\n'
                           '\n'
-                          'I can only state that for Canadian programming, '
-                          'this is far better than any "road To Avonlea" type '
-                          'programming.\n'
+                          'How is Canada or Nova Scotia being insulted if we '
+                          'recognize that this series is a parody and that we '
+                          'should not take it so seriously. According to the '
+                          'on-line polls I have viewed for TPB of the episodes '
+                          'to date, the average rating has been 9 out of 10. '
+                          'Most of those voting were from Canada followed by '
+                          'participants from the US, the UK, Australia, and '
+                          'New Zealand. We should be proud that we have had an '
+                          'impact on others, especially on those outside of '
+                          'our country. \n'
                           '\n'
-                          'Lately Canadian television series have become very '
-                          'edgy and have defined characters with unique '
-                          "definition...and it's about time.\n"
-                          '\n'
-                          "It's time that comedy has gotten away from the "
-                          '"FRIENDS" and "FRASIER" type lame ass comedy '
-                          'writing and became creative like this show.\n'
-                          '\n'
-                          'I look for more series episodes and possibly a '
-                          'feature movie too.\n'
-                          '\n'
-                          "I've had the opportunity to live in a trailer park "
-                          'for several months in Florida, Arizona, Utah, New '
-                          'Mexico and British Columbia...I can easily relate '
-                          'to some of the characters that I have met in this '
-                          'series to real life people.\n'
-                          '\n'
-                          'Fantastic view of a very unique position of life.\n'
-                          '\n'
-                          'Awesome job.'},
+                          'If given a chance, you will see how the brilliance '
+                          'shines through the layers of carefully placed sh#@. '
+                          'It is meant to look amateurish!',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '9',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Season 10 trailer for Trailer Park Boys on '
                             'Netflix.',

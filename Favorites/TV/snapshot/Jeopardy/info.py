@@ -42,27 +42,59 @@
  'keywords': 'quiz show,non fiction,champion,tournament,host',
  'name': 'Jeopardy!',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'mattkratz'},
-            'dateCreated': '2005-12-07',
+            'author': {'@type': 'Person', 'name': 'consortpinguin'},
+            'dateCreated': '2001-05-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0159881/'},
-            'name': 'one heck of a game show',
-            'reviewBody': 'This will be remembered as one of the best game '
-                          'shows of all time, bar none. They have the perfect '
-                          'host in Alex Trebek. I love the gimmick of '
-                          'revealing the answer and having the contestants '
-                          'guess the question to go along with it. I wish they '
-                          "hadn't discontinued giving prizes to the runners-up "
-                          'though. Those were cool. I love seeing how many of '
-                          'the questions I can guess correctly when I watch '
-                          'it. Perhaps the most recent thing it will be '
-                          "remembered for was Ken Jennings's amazing run of 74 "
-                          "straight wins. That was incredible. Here's to Ken! "
-                          'I also love the final jeopardy theme song. I also '
-                          'tuned in almost every day to the Ultimate '
-                          'Tournament of Champions, which was a great idea. I '
-                          'actually remembered a few of the contestants on '
-                          'that. Hats off to a truly great game show! *** out '
-                          'of ****'},
+            'name': 'The Greatest Quiz Show of All Time!',
+            'reviewBody': 'Over the course of more than 50 years of television '
+                          'history, there have been many game shows.  Some of '
+                          'them very good and some really awful. "Jeopardy" '
+                          'stands head and shoulders above any other game show '
+                          'ever made!\n'
+                          '\n'
+                          'The reason I like Jeopardy is that it challenges '
+                          'the contestants both in the studio and watching at '
+                          'home.  The questions are very intelligent and '
+                          'require some thought.  I consider myself pretty '
+                          'smart and well-educated and I find it challenging.  '
+                          'And it\'s very entertaining.  It does not "talk '
+                          'down" to any viewer.\n'
+                          '\n'
+                          "I don't get to watch Jeopardy very often because "
+                          "I'm so busy and don't watch a lot of TV. But we "
+                          'have had the home game for many years -- first as '
+                          'the board game, then as the DOS version computer '
+                          'game and now as the CD-ROM Windows 98/NT/2000 '
+                          'version with all the special effects.  I have '
+                          'played this game with my children who are now '
+                          'teenagers and find it very educational. Without '
+                          'trying you can actually learn things about history, '
+                          'geography, music, art, and many, many other '
+                          'topics.\n'
+                          '\n'
+                          'I like the college Jeopardy because it is geared '
+                          'for a younger generation and it is very challenging '
+                          'to the contestants. Middle aged folks like myself '
+                          'may not know all the new hip music and movies.  The '
+                          "only variant I don't like is Celebrity Jeopardy "
+                          'because, like "Hollywood Squares" they can be just '
+                          'too cute to stomach.  The "Saturday Night Live" '
+                          'parodies are a hoot!\n'
+                          '\n'
+                          ' Alex has been criticized by some of the other '
+                          'viewers but he keeps the show on track and on time, '
+                          'not an easy task.\n'
+                          '\n'
+                          "I don't think I'd have the nerve to personally be a "
+                          'contestant on the real TV show, but I enjoy '
+                          'blurting out the answers at home with my family, '
+                          'and I play the home game.\n'
+                          '\n'
+                          'Too many television shows are aimed at the "Lowest '
+                          'Common Denominator" of viewer, but Jeopardy is both '
+                          'entertaining and challenging to people even who '
+                          'have above average intelligence and education.  I '
+                          'think it is the BEST game show EVER!!!!'},
  'url': '/title/tt0159881/'}

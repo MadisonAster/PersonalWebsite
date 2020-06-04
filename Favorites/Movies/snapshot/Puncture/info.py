@@ -21,7 +21,7 @@
             'url': '/name/nm0068382/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 22324,
+                     'ratingCount': 22325,
                      'ratingValue': '6.8',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -54,31 +54,39 @@
  'keywords': 'based on real people,based on real person,man,lawyer,needle',
  'name': 'Puncture',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'saulcook'},
-            'dateCreated': '2011-09-25',
+            'author': {'@type': 'Person', 'name': 'cosmo_tiger'},
+            'dateCreated': '2011-11-30',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1582248/'},
-            'name': 'This is why I love going to the theater!',
-            'reviewBody': "I didn't know what to expect going into "
-                          '"Puncture," but what I found, surpassed even my '
-                          'most hopeful wishes for an evening at the movies. '
-                          '"Puncture" is a perfectly acted true-life story '
-                          'that still has me thinking about its message 3 days '
-                          'later. It was gripping from the opening credits and '
-                          'I was emotionally pulled in a number of directions. '
-                          'Chris Evans proved he can really act, not just '
-                          'dress up as a superhero and run around a big '
-                          'budgeted set. Mark Kassen was marvelous alongside '
-                          'him as his legal partner and the Houston backdrop '
-                          'made for an unlikely protagonist in and of itself. '
-                          'A story that needed to be shared and with '
-                          'tremendous talent. I only wish there were more '
-                          'films like "Puncture." I encourage people to go see '
-                          'the film.',
+            'name': 'A different take on the lawyer movie.  Starts slow, by '
+                    'the end you are rooting for a drug addict.  Not a usual '
+                    'thing. I say B+',
+            'reviewBody': '"Sometimes the brightest light comes from the '
+                          'darkest places" This is the true story about Mike '
+                          'Weiss (Evans) a personal injury lawyer who takes on '
+                          'a huge health supply company after one of his '
+                          'clients is infected with a dirty needle. The client '
+                          'is a nurse in a hospital that uses plastic needles '
+                          'that are re-used over and over. Mike wants to make '
+                          'it so every hospital only uses the one time use '
+                          'only needles that his other client manufactures. '
+                          'The only problem is that Mike is a drug addicted '
+                          'mess. This movie is deceiving. The first half hour '
+                          "to me was a little slow and wasn't sure if I could "
+                          'make it through. When it picked up, it really '
+                          'picked up and sucked me in. By the end of the movie '
+                          'you are very engrossed and are pulling for someone '
+                          'you normally wouldn\'t. A movie much like "Runaway '
+                          'Jury" mixed with "The Lincoln Lawyer", not quite as '
+                          'good as "Lincoln Lawyer" though. Overall, a very '
+                          'good law movie that will make you think. I give it '
+                          'a B+.\n'
+                          '\n'
+                          '*Also try - Lincoln Lawyer & Runaway Jury',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A David and Goliath law drama about a '

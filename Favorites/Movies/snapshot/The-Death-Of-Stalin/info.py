@@ -21,7 +21,7 @@
             'url': '/name/nm2057859/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 78945,
+                     'ratingCount': 78968,
                      'ratingValue': '7.2',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -72,48 +72,31 @@
              'character,based on comic book',
  'name': 'The Death of Stalin',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'thorr97'},
-            'dateCreated': '2018-04-01',
+            'author': {'@type': 'Person', 'name': 'PipAndSqueak'},
+            'dateCreated': '2017-10-21',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4686844/'},
-            'name': 'Dark Humor About A Truly Dark And Humorless Time',
-            'reviewBody': 'This is an excellent film. And its treatment of the '
-                          'Stalin Era of the Soviet Union is both darkly '
-                          'humorous and actually very unflinching in its '
-                          'depicting the monsters and their monstrosities for '
-                          'what they were.\n'
-                          '\n'
-                          'I was worried that, in an attempt to extract humor '
-                          "from the situation that they might've glossed over "
-                          'just how monstrous the key characters actually '
-                          "were. To Iannucci and Schneider's credit however, "
-                          'there was absolutely no glossing over at all. '
-                          'Beria, for instance, is portrayed as every bit the '
-                          'monster in human form that he was - this, even as '
-                          'that portrayal is also made darkly and delightfully '
-                          'humorous at times.\n'
-                          '\n'
-                          'The whole cast played their parts well and played '
-                          'them "straight" - which only heightened the humor '
-                          'and the horror of what life was like under Stalin '
-                          'in the Soviet Union. Even the nominal "hero" of the '
-                          'tale, Nakita Khrushchev, is realistically portrayed '
-                          'as being just as conniving and callous and power '
-                          'hungry as everyone else. Buscemi would seem an odd '
-                          'choice for that particular role but he pulls it off '
-                          'with style and excellence. So too does Simon '
-                          'Russell Beale in his portrayal of Beria. \n'
-                          '\n'
-                          'This is a nicely done film with excellent '
-                          'production values, a great script, fine acting, '
-                          'excellent pacing, and a compelling tale that is '
-                          'well told.\n'
-                          '\n'
-                          'I highly recommend it!',
+            'name': 'Gallows humour with hollow laughs',
+            'reviewBody': "There's no avoiding truths rapidly passed over in "
+                          'this depiction of chaos following the death of an '
+                          'evil dictator. Stalin had charm...to those who were '
+                          'not his subjects and were never a threat to his '
+                          'authority. He fooled many so-called intellectuals '
+                          'in the West but everyone around him knew the truth, '
+                          'and, most managed to tip-toe over eggshells in '
+                          'order to stay alive. To thrive in such an '
+                          'environment requires a certain kind of callous '
+                          'ruthlessness...perfectly depicted with suitable '
+                          'crass humour here. The cast is perfectly '
+                          'chosen...each very accomplished actor adding their '
+                          "particular star dust. There's more than a single "
+                          "sittings' content in this film which deserves "
+                          'another viewing. Impressive and engaging '
+                          'story-telling based on real life events. Bravo all.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "In the days following Stalin's collapse, his core "

@@ -45,56 +45,95 @@
              'politics',
  'name': "The Internet's Own Boy: The Story of Aaron Swartz",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ecotech_nz'},
-            'dateCreated': '2014-07-07',
+            'author': {'@type': 'Person', 'name': 'JustCuriosity'},
+            'dateCreated': '2014-03-08',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3268458/'},
-            'name': 'The struggle for free data continues',
-            'reviewBody': 'Orin Kerr, professor and former federal prosecutor, '
-                          "describes the motivation of the government's case "
-                          'as their fear that, as stated in his "Open Access '
-                          'Manifesto", Aaron believed it was a moral '
-                          'imperative to be committed to breaking the law to '
-                          'overcome a law that was unjust, and that, if '
-                          'allowed to succeed in "nullifying" the law, that '
-                          'everyone would have access to the data base and '
-                          'therefore "the toothpaste would be out of the tube" '
-                          'and somehow chaos would ensue, or as he phrases it, '
-                          '"Swartz\'s side would win". Apparently, free access '
-                          'to scholarly and scientific journals must be '
-                          'restricted to protect the people from themselves.\n'
+            'name': "An Important Film about a Complex Internet Pioneer's "
+                    'Short Life and Tragic Death.',
+            'reviewBody': "The Internet's Own Boy was very well-received at "
+                          "its showing in Austin's SXSW Film Festival. The "
+                          'film is simultaneously a biography of the tragic '
+                          'death of internet pioneer Aaron Swartz and at the '
+                          'same time a fascinating history of the development '
+                          'of the online political movements that he devoted '
+                          'his life to. The film tells a fascinating story of '
+                          'young genius deeply involved in the early '
+                          'development of the internet including co-founding '
+                          'of Reddit. His genius is unquestionable. The film '
+                          'really provides a tribute to a talented young man '
+                          'and presents a strong case that he was unjustly and '
+                          'selectively prosecuted and overcharged by an '
+                          'overzealous prosecutor. This prosecution seems to '
+                          'have provoked his suicide.\n'
                           '\n'
-                          'There is also the issue of civil disobedience in '
-                          'general and the ways those in power portray such '
-                          'actions and those who encourage them. As one other '
-                          'reviewer here states, "when you commit an act of '
-                          'criminal civic disobedience, you should do so '
-                          'accepting that you will most likely pay the price '
-                          'for that action". That is true, however, as Gilbert '
-                          'and Sullivan suggested, the punishment should fit '
-                          'the crime, especially when, as in this case, the '
-                          '"crime" is questionable at best. I wonder how the '
-                          'current US administration would view the acts of '
-                          'Gandhi or Mandela were they occurring now and '
-                          'posing a threat to their political status quo and '
-                          'not seen safely through the rear view mirror of '
-                          "history. It wasn't that long ago that many in power "
-                          'in America considered Mandela , in particular, a '
-                          '"terrorist". \n'
+                          'But the film is unable to establish any real '
+                          'emotional distance from its subject in order to '
+                          'present an objective full picture of Aaron. Early '
+                          'scenes show home movie pictures of Aaron as an '
+                          'adorable precocious toddler playing with his '
+                          'brothers. From this beginning it is impossible to '
+                          'establish the emotional independence necessary to '
+                          "shine any sort of critical light on Aaron's life or "
+                          'activities. The interviews are all with his family, '
+                          "friends and supporters and don't really critique "
+                          'his efforts. He becomes a victim who despite his '
+                          'incredible genius seems to lose responsibility for '
+                          'his own actions including his own suicide. He '
+                          'becomes purely a victim of government persecution '
+                          'with no real responsibility for his own life '
+                          'decisions including his various hacking activities '
+                          'that ultimately lead to his arrest. \n'
                           '\n'
-                          'This excellent documentary is a cautionary tale '
-                          'that all free thinking and well meaning people must '
-                          'see and understand. Secrecy is power and '
-                          'governments will do whatever they can to protect '
-                          'it. As Aaron himself suggested, this is a battle '
-                          'that will never be won, but can never be '
-                          'abandoned.\n'
+                          'The film really presents Aaron Swartz as a '
+                          'modern-day martyr for the cause of an open access '
+                          'to the internet that he deeply believed in and '
+                          'dedicated himself to. Perhaps because of his recent '
+                          'and tragic death the filmmaker seems unwilling to '
+                          "question the ethics of Aaron's hacker-like tactics. "
+                          "There really aren't any voices raising serious "
+                          'questions about whether his efforts to take the law '
+                          'into his own hands by downloading millions of '
+                          'documents was truly an appropriate form of civil '
+                          'disobedience. He did, in fact, steal millions of '
+                          'articles and violate intellectual property rights '
+                          'through his actions. He undoubtedly believed that '
+                          'what he was doing was right and just. \n'
                           '\n'
-                          'See this film.',
+                          'The film is thus more of a tribute to his life and '
+                          'a critique of the criminal justice system than it '
+                          'is a balanced examination of his controversial '
+                          'history which deserves closer examination. The '
+                          "filmmaker seems to be too close to Aaron's legacy "
+                          'to present a truly objective self-critical '
+                          'examination of his legacy and his somewhat radical '
+                          'view of open access to knowledge and information. '
+                          'While it is easy to argue for that view, it '
+                          'overlooks the complexity of case for protecting '
+                          'intellectual property rights.\n'
+                          '\n'
+                          'Ironically, Aaron seems more far impressive and '
+                          'righteous when he is fighting successfully to '
+                          'defeat the SOPA bill than when he is stealing '
+                          'copyrighted materials. This showed his remarkable '
+                          'ability to organize online and unify people in a '
+                          'collective action that made a real difference for '
+                          'the future of the internet. The tragedy is that '
+                          'this great young activist self-destructed. The '
+                          'filmmaker turns his heroism into victimization and '
+                          'I think may actually undermine his own effort to '
+                          'pay tribute to Aaron. The best tributes are those '
+                          'that are present a complete picture rather than '
+                          'build-up a myth. Never-the-less, despite its flaws '
+                          'this is a powerful and important film that is '
+                          'highly recommended to begin to understand who Aaron '
+                          'Swartz was and to learn about the important issues '
+                          'of intellectual freedom online that he devoted '
+                          'himself to.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "Traile for The Internet's Own Boy: The Story of "

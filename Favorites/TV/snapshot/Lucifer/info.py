@@ -19,7 +19,7 @@
             'url': '/name/nm2788229/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 195390,
+                     'ratingCount': 195436,
                      'ratingValue': '8.2',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -41,26 +41,25 @@
  'keywords': 'devil,female police detective,fallen angel,the devil,lapd',
  'name': 'Lucifer',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'amandamattavelli'},
-            'dateCreated': '2018-05-17',
+            'author': {'@type': 'Person', 'name': 'kunagueroooooo'},
+            'dateCreated': '2018-05-14',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4052886/'},
-            'name': 'A devil of his own',
-            'reviewBody': 'Lucifer is s show like no others. It is drama, '
-                          "procedural, comedy, fantasy. It 's full of funny "
-                          'lines and references to other shows/songs/movies '
-                          'You have to be smart to keep up.  The cast is '
-                          'awesome, Tom Ellis on top . After 3 seasons, it was '
-                          'unexpectedly cancelled by Fox, leaving us wuth a '
-                          'huge cliffhanger and so many points to be covered. '
-                          'The massive campaign #savelucifer #PickUpLucifer is '
-                          'sustaining the return of the show for a darker, '
-                          'powerful and supernatural season.   We hope to '
-                          'succeed to have our Devil back . We deserve it',
+            'name': 'Devilishly good taste in humour',
+            'reviewBody': 'Unfortunately I found out yesterday that Lucifer '
+                          'has been cancelled. As light hearted shows go it '
+                          'was a winner, the whole cast went for it and did a '
+                          'great job. Lucy, Maze, Douche, Amenadiel, and Linda '
+                          'were flawless in their roles. Perhaps Chloe could '
+                          'have removed the big wooden pole from her backside '
+                          'a bit more often but hey, she looked good. Its '
+                          'strange how good shows like this get chopped and '
+                          'absolute rubbish like IZombie keeps getting renewed '
+                          'and its really really rubbish.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Reeling from the aftermath of Chloe seeing his '

@@ -21,7 +21,7 @@
             'url': '/name/nm1219851/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 1533,
+                     'ratingCount': 1534,
                      'ratingValue': '7.4',
                      'worstRating': '1.0'},
  'contentRating': 'Unrated',
@@ -44,35 +44,18 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BYWI1NGMxYjEtOWQ5My00NWY2LTlmMDEtZTBkNjYzZjZlYzI4XkEyXkFqcGdeQXVyNDI4ODczMDE@._V1_.jpg',
  'name': 'Apex: The Story of the Hypercar',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'sam-102'},
-            'dateCreated': '2019-07-08',
+            'author': {'@type': 'Person', 'name': 'krishnakoenigsegg'},
+            'dateCreated': '2018-11-16',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4325400/'},
-            'name': 'Tedious, dragging, boring.',
-            'reviewBody': 'I enjoy a good documentary about passions and '
-                          "technology, and I've enjoyed quite a few similar "
-                          'car documentaries, but this one was just '
-                          'unwatchable. Just drags on and on and on with no '
-                          "point, no plot, no punchline. It's like the entire "
-                          'documentary is an "intro" to another documentary, I '
-                          'sat there waiting and waiting and waiting for it to '
-                          'start, and by the half-hour point just gave up. '
-                          'Devoid of any fascinating technical details, '
-                          'exploration of the car, survey of the design '
-                          'process, view of the production process, etc. This '
-                          'entire documentary could have been a three minute '
-                          'special, with two or three shots of the car and an '
-                          'interview with the team leader. Instead, you got '
-                          'about three hundred shots of the car from every '
-                          'angle over the course of an hour, and still, no '
-                          'meaningful interviews...all style with no '
-                          'substance. Watching this documentary is the '
-                          'equivalent of staring at a few pretty magazine '
-                          'pictures, with small, poorly informative captions '
-                          "underneath. Don't waste your time.",
+            'name': 'Koenigsegg',
+            'reviewBody': "I respect Christian von koenigsegg he's like a "
+                          "einstein in hypercar world right now Can't believe "
+                          'a small swedish company is demolishing a company '
+                          'like Bugatti',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '2',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'url': '/title/tt4325400/'}

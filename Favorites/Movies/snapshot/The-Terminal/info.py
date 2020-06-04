@@ -19,7 +19,7 @@
             'url': '/name/nm0001804/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 390743,
+                     'ratingCount': 390792,
                      'ratingValue': '7.4',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -53,52 +53,38 @@
              'water,construction site',
  'name': 'The Terminal',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ma-cortes'},
-            'dateCreated': '2006-05-23',
+            'author': {'@type': 'Person', 'name': 'jjll'},
+            'dateCreated': '2004-12-25',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0362227/'},
-            'name': 'Agreeable comedy with an awesome Tom Hanks stranded in '
-                    'the airport',
-            'reviewBody': 'The movie deals about Viktor(Tom Hanks) is an '
-                          'Eastern European traveller converts a resident of '
-                          'N.Y. airport terminal when occurs a coup state in '
-                          'his country.The war breaks out and is denied '
-                          'entrance to the United States .The Security '
-                          'chief(Stanley Tucci) says him that he has to remain '
-                          'the terminal until his situation can be '
-                          "modified.Meanwhile he has many trouble,he doesn't "
-                          'speak the language so nobody can talk to him .But '
-                          'he makes friends and falls in love with an alluring '
-                          'flight attendant(Catherine Zeta Jones).\n'
+            'name': 'Egoless waiting',
+            'reviewBody': 'I have to say it is a great one that first shows '
+                          'the meaning and beauty in our life about waiting '
+                          'and promise. Amelia is waiting for her dream to '
+                          'come true for eighteen years, for herself; '
+                          "Navorski's dad was waiting for something he honored "
+                          'so much for his life; and here comes Navorski, who '
+                          "waits for making his father's left dream come true, "
+                          'for fulfilling his promise, for the woman he fell '
+                          'in love, in a "crack" between the US and his own '
+                          'country. \n'
                           '\n'
-                          'The picture blends comedy,love story ,a little bit '
-                          "of drama with a lots of fun.It's an entertained "
-                          'film with exceptional and sensible interpretation '
-                          'by Tom Hanks.He makes a magnificent acting as the '
-                          'essentially decent foreign who finding isolated '
-                          'early makes friends.They are a quirky and misfits '
-                          'group magnificently played by Chi McBride,Barry '
-                          "Shabaka and Diego Luna who's deeply enamored of Zoe "
-                          'Saldana.In the film appear the ordinaries '
-                          "Spielberg's technicians as the sensational "
-                          'cinematographer Januz Kaminski,film edition by '
-                          'Michael Kahn and of course the prolific John '
-                          'Williams who makes a lively and jolly music and '
-                          'those years made four excellent scores(Memoirs of '
-                          'Geisha,Starwars,War of the worlds and '
-                          'Munich).Besides an elaborately recreated production '
-                          'design by Alex McDowell reflecting an entirely '
-                          'convincing terminal built for the film.Stunningly '
-                          'direction by Steven Spielberg making an '
-                          'extraordinary camera movement filming small details '
-                          'in close-up as general shots when Hanks to be in '
-                          'the limelight until moves to be in the background . '
-                          'The flick will like to Tom Hanks and Spielberg '
-                          'fans. Rating : Above average .Two thumbs up.',
+                          'He has done everything for others around him. If '
+                          'there is a great example of "egoless", he is one. '
+                          'Letting go ego, is the greatness that even Amelia '
+                          'found out when she gives up and scarifies something '
+                          'most important in her life to help Navorski. \n'
+                          '\n'
+                          'This simple story conveys some wonderful philosophy '
+                          'for people living in this country busy around '
+                          'everyday for business, families, and so on, to slow '
+                          'down and reflect on something. As the retired '
+                          'officer said to officer Dixon, there is something '
+                          'we can learn from Navorski.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer',

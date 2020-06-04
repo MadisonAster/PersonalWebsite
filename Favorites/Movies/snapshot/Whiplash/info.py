@@ -21,7 +21,7 @@
             'url': '/name/nm0001663/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 678137,
+                     'ratingCount': 678228,
                      'ratingValue': '8.5',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -46,48 +46,71 @@
  'keywords': 'drummer,music school,new york city,conservatory,drum solo',
  'name': 'Whiplash',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'emilyeinbinder'},
-            'dateCreated': '2014-10-07',
+            'author': {'@type': 'Person', 'name': 'Gbert254'},
+            'dateCreated': '2014-01-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2582802/'},
-            'name': 'A dynamic movie full of tensions and twists',
-            'reviewBody': '"Music is your own experience, your own thoughts, '
-                          "your wisdom. If you don't live it, it won't come "
-                          "out of your horn. They teach you there's a boundary "
-                          "line to music. But, man, there's no boundary line "
-                          'to art." \n'
+            'name': 'An incredibly powerful film!',
+            'reviewBody': 'http://switchingreels.com/2014/01/28/sundance-review-whiplash/\n'
                           '\n'
-                          'Charlie Parker sums it all, Cinema is true Art. I '
-                          "wasn't expecting to feel this way after watching "
-                          'this movie. Every moment has tension and something '
-                          'unexpected occurring. It is as if the director had '
-                          'chosen to apply the tempo of the drums to the '
-                          'script. Anyone can relate to this story. We all '
-                          'have pursued a dream, a passion ... Rather or not '
-                          'we made it our everyday job or maybe just a hobby '
-                          'aside, some of us strive for something bigger. \n'
+                          'Ever had a dream of being a great football player? '
+                          'A great dancer? A great singer? A great musician? '
+                          'Our protagonist has a dream of being a great '
+                          'drummer, a drummer that will be remembered forever. '
+                          'Maybe you are still fighting for your dream. Maybe '
+                          "you have given up on greatness. Greatness doesn't "
+                          'come easily, you need to practice at it. Andrew '
+                          'practices until his hands bleed.\n'
                           '\n'
-                          'This film is a journey in the search of your inner '
-                          'spirit, inner creativity ... not only will it make '
-                          'it clear that you cannot succeed without effort and '
-                          'hard work, it will also make you realize there are '
-                          'two different kinds of artists : - those who make '
-                          'art, - and those who make beautiful art\n'
+                          'Andrew (Miles Teller) is 19-year old student at a '
+                          'music conservatory in Manhattan. Terrence Fletcher '
+                          '(J.K. Simmons) is a teacher at the conservatory '
+                          'with a ruthlessly brutal teaching style. After '
+                          'picking Andrew to play in the school band, he '
+                          'pushes Andrew to his limits in order to realize his '
+                          'full potential, at the risk of his humanity.\n'
                           '\n'
-                          '"Beautiful" because they are stimulated by a '
-                          'special strength within, a GIFT. \n'
+                          'I had a billiards teacher at one point in my life, '
+                          'who was close to becoming a pro in his craft but a '
+                          'grease fire accident changed all that. His '
+                          'perspective changed, to paraphrase, he realized he '
+                          'was becoming an asshole. He became a teacher of '
+                          'pool instead of becoming a pro player. Through him, '
+                          'I can understand what Terrence Fletcher was trying '
+                          'to instill into Andrew. My teacher would push me a '
+                          'little bit. When he gave me opportunities to show '
+                          'him up, "run the table now," he would tell me, I '
+                          "failed. It's embarrassing when that happens but "
+                          "it's also a learning tool because more work needs "
+                          "to be done. You can't get by on talent alone but it "
+                          'certainly helps. On the other side of it, I saw a '
+                          'little bit of my teacher in Andrew. Losing who you '
+                          'are to perfect something you love. Good thing my '
+                          'teacher realized before it was too late.\n'
                           '\n'
-                          'Is it because I reminisce N.Y.C. or that I play the '
-                          'drums? I simply believe the performances were '
-                          'astonishing and the actors perfectly chosen to '
-                          "embody these terrific characters. I won't say "
-                          '"good job" but rather "thank you", to the promising '
-                          'Franco-American director Damien Chazelle\ufeff for '
-                          'sharing his vision.',
+                          'I lost myself in the story. It had something to say '
+                          'about not settling and asking more of yourself. Two '
+                          'fantastic performances from Miles Teller and J.K. '
+                          'Simmons. Perhaps it will push you to maybe pick up '
+                          'that guitar again, put on your ballet shoes, or hit '
+                          'the gym to bulk up. Whiplash is an incredibly '
+                          'powerful film. And after the final shot cuts to '
+                          'black, the film will stick with you for days.\n'
+                          '\n'
+                          'My expectations: Medium. I did not expect the film '
+                          'to be so powerful for me. Expectations exceeded.\n'
+                          '\n'
+                          'Recommendation: Cinema lovers and casual movie '
+                          'goers, I believe will enjoy this film.\n'
+                          '\n'
+                          'Re-watch value: I can watch this film again and I '
+                          "actually can't wait until it hits distribution.\n"
+                          '\n'
+                          'Memorable: I am still thinking about this film.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Andrew Neyman is an ambitious young jazz drummer, '

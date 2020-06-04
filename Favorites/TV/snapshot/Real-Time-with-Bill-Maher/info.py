@@ -37,36 +37,25 @@
  'keywords': 'guest,witty host,social commentary,five word title,name in title',
  'name': 'Real Time with Bill Maher',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'arson83'},
-            'dateCreated': '2003-12-24',
+            'author': {'@type': 'Person', 'name': 'neophoenix'},
+            'dateCreated': '2003-03-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0350448/'},
-            'name': 'Completely One-Sided "Show"...',
-            'reviewBody': 'This show is completely  one-sided and would '
-                          'benefit from having more than one viewpoint so it '
-                          "isn't alienating more than half of the audience.\n"
-                          '\n'
-                          'Here is how the Round Table works... Maher is '
-                          'always one of the four. Then there will be two '
-                          'liberal guests (for example, Michael Moore or the '
-                          'guy who writes the "comic" strip The Boondocks). '
-                          'Then there will be a conservative guest, like Larry '
-                          'Miller or Ann Coulter. And the 3 liberals gang up '
-                          'and try to destroy the conservative viewpoint. They '
-                          'do this by interrupting and making false '
-                          'accusations.\n'
-                          '\n'
-                          "Maher tries to play Devil's Advocate and be equal "
-                          'between the two sides, but after about 6 minutes he '
-                          'drops this charade and joins the liberals, gaining '
-                          'much applause from the liberal audience who came '
-                          'out to watch the show for free.\n'
-                          '\n'
-                          'Very biased. Only decent part is the monologue, and '
-                          'half of the jokes miss.\n'
-                          '\n'
-                          '2/10.'},
+            'name': 'Finally, something intelligent',
+            'reviewBody': 'It has been a long time, a very long time, before I '
+                          'have seen something intelligent on TV. I never '
+                          'watched "Politically Incorrect"; I just never got '
+                          'into that show. But I do like the political nature '
+                          "of Bill Maher's comedy and prose, and while I do "
+                          'not agree on all his points, I do deeply respect '
+                          "his true representation of them; he doesn't mollify "
+                          'his points because others may not want hear them. '
+                          "This is something truly refreshing. If you don't "
+                          'like flagrant intellectualism and polar politics, '
+                          "this show isn't for you. However, if you have an "
+                          'open mind and want to hear some of the questions '
+                          "people don't want you to ask, this IS for you."},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi2030353177',
              'name': 'Season 16 Official Trailer',

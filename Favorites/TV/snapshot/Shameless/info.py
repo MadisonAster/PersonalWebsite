@@ -21,7 +21,7 @@
             'url': '/name/nm2087739/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 190200,
+                     'ratingCount': 190213,
                      'ratingValue': '8.6',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -46,48 +46,85 @@
              'relationship,gay brother',
  'name': 'Shameless',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'tomdavie'},
-            'dateCreated': '2011-03-21',
+            'author': {'@type': 'Person', 'name': 'ssih'},
+            'dateCreated': '2011-04-29',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1586680/'},
-            'name': 'Keep Watching',
-            'reviewBody': 'I have never watched the British version of this '
-                          'show so I cannot comment on the original. I was '
-                          'under the impression it was a new Showtime story. \n'
+            'name': "I've seen both.  The American is better.  (But not by a "
+                    'lot)',
+            'reviewBody': 'I was halfway through the American series before I '
+                          'even KNEW there was a British series. I think a was '
+                          "a little disappointed that we didn't create it, but "
+                          'I was also happy that it was one of the few shows '
+                          'that we copied without ruining it. When I checked '
+                          'some of the user reviews, I was surprised to see '
+                          'how many thought the show to be appalling. OK, not '
+                          'everyone will share my love for the show, but to '
+                          'rate it SO badly? But when I looked, the author of '
+                          'nearly every bad review was a fan of the original '
+                          'show. This simply sounds like a case of liking what '
+                          'you know. "I don\'t care how good their cooking is. '
+                          'It ain\'t as good as my Mom\'s!"\n'
                           '\n'
-                          'I have to admit that started watching because I '
-                          'have always been a fan of William H Macy. However, '
-                          'viewing Macy in this kind of role was startling . I '
-                          'had always seen him in more conventional-almost '
-                          'typecast - parts. I knew that Joan Cusak was a '
-                          'quality actress which lent the project some further '
-                          'credibility. \n'
+                          'Once I finished the American series, I gave it '
+                          'about a month to settle in and then started '
+                          "watching the British series. But I'd like to think "
+                          'that I was objective enough to judge it on its on '
+                          "merits, and not simply that it's different than "
+                          "what I'm used to.\n"
                           '\n'
-                          'At first the show seemed to be almost forced. The '
-                          'plot seemed bizarre, and unbelievable. It seemed '
-                          'awkward. Its quite common for shows to take time to '
-                          "develop chemistry when the actors haven't defined "
-                          'their characters yet. The same can be said for the '
-                          'writers. \n'
+                          'Since, as many have pointed out, the script is '
+                          'nearly word-for-word identical, the difference lies '
+                          'mainly in how the actors portray the characters.\n'
                           '\n'
-                          'However, I had never seen anything like it. In that '
-                          'regard it was dynamic and worth the time. The young '
-                          'actors soon found their roles and by the 5th '
-                          'episode I found myself thinking about the show '
-                          'every day. \n'
+                          "So I'm going to give my character-by-character "
+                          "head-to-head appraisal of UK vs. US. I'm going to "
+                          "use the character names rather than the actors' "
+                          'names for simplicity. Starting from the '
+                          'youngest...\n'
                           '\n'
-                          'Now I cant stop watching. Im addicted. The actors '
-                          'are fantastic. The plots are far more developed. '
-                          'The supporting players play a big part in the '
-                          'series, and new characters keep rotating in '
-                          'flawlessly. The show has evolved . \n'
+                          'Little Debbie: UK wins this one hands down. No '
+                          "contest. She steals every scene she's in. Who can "
+                          'not fall in love with this girl???\n'
                           '\n'
-                          'And just for the record, Im getting really sick and '
-                          'tired of people trashing the show because in their '
-                          "minds it doesn't measure up to the original. Its "
-                          "not supposed to be the original. If you don't like "
-                          'it, stick with the British show.',
+                          "Carl: This one's close, but the UK one is (at least "
+                          'in the first season) a little more deranged and fun '
+                          'to watch.\n'
+                          '\n'
+                          'Ian: Another close one, but this goes to UK, too. '
+                          'US Ian is somber and good looking, but UK Ian '
+                          'always seems a bit panicky, and the wide-angle '
+                          'closeups of his face make him look pretty '
+                          'bizarre. \n'
+                          '\n'
+                          "Lip: This is solidly with the US. I like US Lip's "
+                          'darkness. He seems more responsible and '
+                          'intelligent. UK Lip is just kind of impish and '
+                          'unsure. You can depend on US Lip and he offers some '
+                          'of the only real family support to Fiona.\n'
+                          '\n'
+                          'Kevin: Dead heat.\n'
+                          '\n'
+                          'Veronica: Very different performances by each, but '
+                          'in the end, I like them the same.\n'
+                          '\n'
+                          "Fiona: This was a difficult one to call, but I'm "
+                          'giving it to the US. And this is probably because I '
+                          'saw them first. I just like her better. Hard to put '
+                          'my finger on the reason.\n'
+                          '\n'
+                          "Frank: Sorry, UK, but I just don't like your Frank. "
+                          'I understand the character is usually drunk, but he '
+                          'seems that way even before he starts drinking. He '
+                          'seems clinically stupid. US Frank (Macy) is equally '
+                          'as obnoxious, entitled, selfish and deluded, but he '
+                          "only seems drunk when he's drunk. At other times, "
+                          'his pontificating is fun to listen to. You feel '
+                          "good about hating the guy, because he's like this "
+                          'by choice. With UK Frank, you have to pity him. I '
+                          "feel like I'm laughing at someone who's mentally "
+                          'challenged.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

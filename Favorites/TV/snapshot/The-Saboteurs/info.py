@@ -50,39 +50,29 @@
  'keywords': 'sabotage,physicist,nazi germany,resistance,world war two',
  'name': 'Kampen om tungtvannet',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'BeneCumb'},
-            'dateCreated': '2018-02-04',
+            'author': {'@type': 'Person', 'name': 'marciama'},
+            'dateCreated': '2017-07-26',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3280150/'},
-            'name': 'Another solid Norwegian miniseries based on real historic '
-                    'events',
-            'reviewBody': 'This decade or so, Norway has created several '
-                          'series depicting life and events during WW II in '
-                          'Norway, under German annexation, but still '
-                          'different way than in e.g. Central or Eastern '
-                          'Europe. But still, people had to make hard choices, '
-                          'and very often you were between rock and hard '
-                          'place, trying to see/predict a bigger picture and '
-                          '"sniff" potential outcomes. Kampen om tungtvannet '
-                          'gives a broad overview, through different angles '
-                          'and participants, of a successful, yet '
-                          'controversial operation (thus, in my opinion, the '
-                          'UK title The Saboteurs is not felicitous), with '
-                          'many real episodes and characters, performed by '
-                          'good character actors (more as a team, no one '
-                          'really sticks out unnecessarily). It is also to my '
-                          'liking that characters of different nationals were '
-                          'played by respective representatives, so different '
-                          'languages heard are always correct and without '
-                          'accent.  Well, the run of scenes is not always '
-                          'smooth, some of them are excessive and tensions are '
-                          'sometimes fading, but still - this series is worth '
-                          'watching, at least for Northern Europeans '
-                          'interested in the events during WW II not commonly '
-                          'known.',
+            'name': 'It would be much better if condensed into a <3 hours film',
+            'reviewBody': 'I was thinking "what a good movie material" when I '
+                          'saw the documentary about this particular part of '
+                          'the WW2 history, and I was happy to find this '
+                          'series. The production is good, both casting and '
+                          'filming are unsatisfactory, especially given the '
+                          'facts that the true history itself and the natural '
+                          'environment for filming have much more to offer '
+                          'than the final product itself. The worst is that, '
+                          'it drags too long. Te history/story would make a '
+                          'great movie, or even a long-er movie, but '
+                          "definitely not a 6 hours series, it's slow and "
+                          'filled in with unnecessary scenes that are not even '
+                          'enticing nor enriching. All in all, a bit '
+                          'disappointed, feel as if a good movie material got '
+                          'spoiled.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'url': '/title/tt3280150/'}

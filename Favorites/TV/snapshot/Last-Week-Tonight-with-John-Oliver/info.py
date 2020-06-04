@@ -19,7 +19,7 @@
             'url': '/name/nm0534115/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 74649,
+                     'ratingCount': 74662,
                      'ratingValue': '8.9',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -36,54 +36,40 @@
  'keywords': 'news satire,woke,2010s,anti trump media,trump hate',
  'name': 'Last Week Tonight with John Oliver',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Flattered_Flatulated'},
-            'dateCreated': '2014-05-15',
+            'author': {'@type': 'Person', 'name': 'blowfly13'},
+            'dateCreated': '2014-06-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3530232/'},
-            'name': 'Takes a Brit to bring US TV some wit',
-            'reviewBody': 'No great offense meant to U.S TV, but most of its '
-                          'shows with hosts trying to make some fun of the '
-                          'recent affairs, politicians and all that jazz are '
-                          'usually crappy and saved by the "bring a funny '
-                          'and/or weird celebrity" bell. Of course, "The '
-                          'Colbert Report" and a few bits of the "Daily Show" '
-                          'are exceptions, but overall one must admit that '
-                          "even these don't really dwell too long in deep "
-                          'waters (meaning grave issues of major concern) like '
-                          '"Last Week Tonight" does. \n'
+            'name': 'intelligent, fair, and hilarious',
+            'reviewBody': 'Loved John Oliver on Community and love him on this '
+                          "show. He's intelligent and sarcastic, and somehow "
+                          'manages to make topics that are completely horrific '
+                          "(e.g., the U.S. government's actions) not "
+                          'thoroughly depressing. I love how he will make fun '
+                          'of ANY political party; so many shows just spend '
+                          'their time panning Republicans, losing half the '
+                          'country as a result. Oliver must be a libertarian, '
+                          'because he very fairly simply makes fun of anyone '
+                          'who is doing something stupid, regardless of '
+                          'political affiliation. This is something that '
+                          'cannot be said of the unbearable John Stewart, or '
+                          'SNL, for example, but can be said of the awesome '
+                          'Lewis Black as well.\n'
                           '\n'
-                          'A couple of examples of serious satire from the '
-                          'first episodes are the death penalty, the '
-                          'hypocritical stance of politicians towards people '
-                          "like the Sultan of Brunei or even the fun'n'serious "
-                          'interview of the ex-chief of the NSA. The fact '
-                          'alone that such significant and highly debatable '
-                          'subjects are discussed is a huge win for the show. '
-                          'The end result airing on HBO, comes as no surprise '
-                          'to me. Their only commitment I have seen so far '
-                          'show-wise, is quality and creativity, two traits '
-                          'this show seems to possess.\n'
+                          'I also like his way of poking fun at the U.S. - '
+                          "it's not condescending or rude, it's just good "
+                          'humored teasing. The segment in which he shows the '
+                          'globe with countries marked as Not the U.S. is '
+                          'priceless.\n'
                           '\n'
-                          'I am taken in by the first three episodes and '
-                          'honestly believe that this show has the potential '
-                          'to stimulate the brain and instigate belly-aching '
-                          'laughs at the same time. Hopefully, the creators '
-                          'will not take steps back, when possible pressure to '
-                          '"lighten" their material may arise - if and when a '
-                          'lot of people start watching the show. \n'
-                          '\n'
-                          '{Quick note to those who may feel offended by the '
-                          'approach John Oliver has on the ignorance of some '
-                          'people from the States, when it comes to the rest '
-                          'of the world: If you know your way around a world '
-                          'map and have an idea of what is happening elsewhere '
-                          'in this vast place called Earth, lay back and enjoy '
-                          "the sarcasm. If you can't do that, take the bitter "
-                          'pill.}',
+                          "Oliver's topics are well chosen, and his take on "
+                          'them is unique. I greatly hope HBO will continue '
+                          "this show as it's the best comedy late night hosted "
+                          'whatever genre you call this currently on TV.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Last Week Tonight With John Oliver: Season 3',

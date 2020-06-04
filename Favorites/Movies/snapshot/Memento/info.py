@@ -19,7 +19,7 @@
             'url': '/name/nm0095478/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 1085583,
+                     'ratingCount': 1085685,
                      'ratingValue': '8.4',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -47,52 +47,38 @@
              'overdose',
  'name': 'Memento',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'soloyoda'},
-            'dateCreated': '2001-04-19',
+            'author': {'@type': 'Person', 'name': 'adamp-6'},
+            'dateCreated': '2002-01-31',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0209144/'},
-            'name': 'Absolutely No Spoilers Here--READ THIS REVIEW INSTEAD!!!!',
-            'reviewBody': "Thank Goodness I didn't read the reviews posted "
-                          'before I saw the film!! Most reviews (including '
-                          'ones on this site) will tell you waaayyyy too much '
-                          "about the movie, and that's just plain "
-                          'frustrating.  But, as an avid cinephile, I promise '
-                          'not to do the same.\n'
+            'name': 'watch it early so you can see something else afterward.',
+            'reviewBody': 'I saw "Memento" in the early afternoon, a fact for '
+                          'which I am thankful. Why?  Because it then '
+                          'proceeded to dominate the majority of my thoughts '
+                          'for the rest of the day.  That night I lay in bed, '
+                          'tossing and turning, my mind trying to wrap itself '
+                          'around the story, and I absolutely could not GO TO '
+                          'SLEEP!  \n'
                           '\n'
-                          'Memento is one of those pictures that will have you '
-                          'sitting in the theater after the lights come up so '
-                          'you can talk to everyone else about what they '
-                          'thought of the movie.  This is a highly intelligent '
-                          'and original brain teaser that will have you '
-                          'guessing from beginning to end, and even '
-                          'afterwards.  The story and the direction are the '
-                          "best I've seen so far this year, and it deserves "
-                          'all the kudos it gets.\n'
+                          'I finally just gave up on sleep, got up around '
+                          'midnight, and watched "Election" to cleanse my '
+                          'palate.  Then I went back to bed and starting '
+                          'contemplating "Memento" AGAIN.  Finally, out of '
+                          'sheer exhaustion, I went to sleep.\n'
                           '\n'
-                          'Plainly put, the film tells the story of Leonard '
-                          'Shelby:  a man who lost his short term memory in an '
-                          'assault where his wife was raped and murdered;  now '
-                          "he's looking for the killer, despite his handicap.  "
-                          "Simple as that.  You don't need to know anymore.\n"
+                          'This is a movie that gets in your head and will not '
+                          'get out until you figure it all out.  And that can '
+                          'only be done with extensive internet research. '
+                          'Reading "Memento Mori", the short story upon which '
+                          'the movie is "based" helped, too.\n'
                           '\n'
-                          'The film is constructed and told in such a way that '
-                          'you are constantly put into the shoes of Leonard '
-                          'Shelby, beautifully played by Guy Pierce. '
-                          'Carrie-Ann Moss gives an equally mysterious and '
-                          'complex performance.  This film is well-made all '
-                          'the way around--from the direction, to the editing, '
-                          'and especially the unique story that is rarely '
-                          'found in Hollywood these days.  Four Stars!\n'
-                          '\n'
-                          'This review may have been a little dry on the '
-                          "details, but go see the movie--you'll be thanking "
-                          'me later.\n'
-                          '\n'
-                          "PS: Only go to the official website AFTER you've "
-                          'seen the movie.  It too will give too much away.  '
-                          "Afterwards, though, go and look at it--it's pretty "
-                          'impressive.'},
+                          '"Memento" is nothing short of a phenomenon.  And a '
+                          'brilliant one at that.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '10',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Official Trailer',
              'embedUrl': '/video/imdb/vi3220356889',

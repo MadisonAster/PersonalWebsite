@@ -49,83 +49,34 @@
              'drug,bullet time',
  'name': 'John Dies at the End',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'andrew-w-christman'},
-            'dateCreated': '2012-10-21',
+            'author': {'@type': 'Person', 'name': 'Fluke_Skywalker'},
+            'dateCreated': '2013-07-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1783732/'},
-            'name': 'All of the "style" with none of the "substance"...',
-            'reviewBody': 'Just caught an early screening of JDaTE at the '
-                          "Philly Film Festival... and I can't say I wasn't "
-                          'disappointed.\n'
+            'name': 'An ambitious mess',
+            'reviewBody': "'John Dies at the End' is like the Matrix. One "
+                          'cannot be told what it is. They must see it for '
+                          'themselves. Veering wildly between inspired and '
+                          'tedious, it ultimately comes off like a (very) '
+                          'strange mish-mash of better and more coherent films '
+                          "like 'Ghostbusters', 'Dude, where's my car?', 'Bill "
+                          "& Ted's Excellent Adenture', 'Big Trouble in Little "
+                          "China' and the TV show 'Supernatural'.\n"
                           '\n'
-                          'The book is one of my favorites, so needless to say '
-                          'I loved the source material and was especially '
-                          'amped for the film having just finished the John '
-                          'and Dave sequel, This Book is Full of Spider. I '
-                          "also really enjoyed Coscarelli's Bubba Ho-Tep and "
-                          'thought he would be a great director for this '
-                          'franchise.\n'
+                          "Director Don Coscarelli ('Phantasm', 'The "
+                          "Beastmaster', 'Bubba Ho-Tep') is the king of quirky "
+                          "cult cinema, and he's certainly in his element "
+                          'here. But the increasingly odd plot mechanics at '
+                          "play in 'John' are beyond even his skill to corral "
+                          'into something approaching entertainment.\n'
                           '\n'
-                          'So where did it all go wrong? And what did it do '
-                          'well enough to still garner a 6 or 6.5 rating?\n'
-                          '\n'
-                          'For starters, the acting was very good; especially '
-                          'for relying on two unknowns to carry the picture. '
-                          'Both Williamson and Mayes really nailed their roles '
-                          'down to the smallest idiosyncrasies of character. '
-                          'Paul Giamatti was his usual, solid self and '
-                          'everyone else either died quick enough or had their '
-                          'character lobotomized so much, that their '
-                          "performances didn't really matter.\n"
-                          '\n'
-                          'The film also did a great job of harnessing the '
-                          'bodily humor and slacker hi-jinx that made JDaTE '
-                          'such a hilarious novel. \n'
-                          '\n'
-                          'Which leads me to where they failed... one of the '
-                          'biggest shortcomings has to do with a deficiency of '
-                          'the novel, which is pacing. JDaTE is really a few '
-                          'stories woven together by a thin overarching plot. '
-                          'Coscarelli stayed almost 100% faithful to the '
-                          'source material, but just lifted different scenes '
-                          'from each segment of the story and patchwork it '
-                          'into one nearly nonsensical film (this is a very '
-                          'apparent problem, since once the movie deviates '
-                          'from the order of the book, things start to really '
-                          'go down the tube.)\n'
-                          '\n'
-                          'Being a fan of the book, I have to wonder why '
-                          'Coscarelli didn\'t just stick to the first "story" '
-                          'that ends in Las Vegas. Instead we get elements of '
-                          'other parts, including a kind of cheesy and dumbed '
-                          'down version of Korrok. \n'
-                          '\n'
-                          'Along the way basically all character development '
-                          'aside from Dave get shaved out of the story, the '
-                          'biggest being the awful portrayal of Amy... who was '
-                          'nothing more than eye candy in the film (a fresh '
-                          'feature of the novel was her joyfully written '
-                          'character, who was 1000x more attractive despite '
-                          'being described as looking plain.)\n'
-                          '\n'
-                          "But plot and character wasn't the only things that "
-                          'Coscarelli short changed. For a horror comedy, '
-                          'there was little to no horror! One of the '
-                          'spectacular qualities of the novel was the ability '
-                          'to scare you one moment and have you laughing out '
-                          'loud the next. The adaptation was really a one '
-                          'trick pony, a comedy with monsters. \n'
-                          '\n'
-                          "So I'm going to be one of those guys and recommend "
-                          'that you skip the movie and check out the book. If '
-                          "you've already read Wong's work (Jason Pargin) "
-                          'check it out and enjoy it for the fun cheese '
-                          "factor, but don't expect anywhere near the depth "
-                          'that the novel provides.',
+                          "'John Dies at the End' is not a good film, but it's "
+                          'so *odd* that I feel I have to recommend it for the '
+                          'experience alone.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '5',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A pair of college dropouts who can barely hold '

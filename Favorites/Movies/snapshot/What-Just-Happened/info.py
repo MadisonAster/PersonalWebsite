@@ -19,7 +19,7 @@
            {'@type': 'Person', 'name': 'Sean Penn', 'url': '/name/nm0000576/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 26146,
+                     'ratingCount': 26149,
                      'ratingValue': '5.6',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -48,53 +48,30 @@
              "in a men's room,hollywood",
  'name': 'What Just Happened',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'eli_down'},
-            'dateCreated': '2009-02-18',
+            'author': {'@type': 'Person', 'name': 'shnizzedy'},
+            'dateCreated': '2008-10-30',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0486674/'},
-            'name': 'Unexpected gem',
-            'reviewBody': "When I read some of the other users' comments I "
-                          'could hardly believe we watched the same movie. '
-                          'Wasted 2 hrs of my life!? This is, simply put, '
-                          'ridiculous, this movie does not require moral or '
-                          'surprise, it is quite enjoyable and powerful as it '
-                          'is.\n'
-                          '\n'
-                          'Superb acting, intelligent writing, characters you '
-                          'can sympathize with as well as good steady rhythm.\n'
-                          '\n'
-                          'It is a beautiful movie centered around a producer '
-                          'and how his life evolves around a series of regular '
-                          'down to earth events. It is a little like entourage '
-                          'minus the girls and absurdity as it is centered '
-                          'around Hollywood but you do sympathize with the '
-                          'lead character a lot on his reactions to events.\n'
-                          '\n'
-                          'I had no expectations from this movie and it turned '
-                          'out to be quite a gem, I believe this is one of '
-                          'those movies that will be rated more highly in the '
-                          'future. If there was any hype around this, if '
-                          'people expected a blockbuster, well it is their '
-                          'fault. It is more like an independent movie and a '
-                          'very good one at that I must add.\n'
-                          '\n'
-                          'It certainly feels like De Niro very much enjoyed '
-                          'acting in this one, this is by far the best I have '
-                          'seen him in years. Turturro, Wincott, Penn Willis '
-                          'all saw something in this script and they were '
-                          'right. ( To be honest with you Turturro did overdo '
-                          'his part a little) \n'
-                          '\n'
-                          'I have been to much more boring movies than this '
-                          'and they were rated much higher by IMDb crowd, no '
-                          "it does not move at a snail's pace, no there are no "
-                          'big psychological dramas or a big story, and yet '
-                          'all those are OK and their absence is what makes '
-                          'this movie perfect.',
+            'name': 'I saw what just happened there.',
+            'reviewBody': 'The film is certainly enjoyable, and has several '
+                          'laugh-out-loud moments. However, like the film '
+                          'within the film, What Just Happened? feels too '
+                          'long. As a filmmaker myself, I really enjoyed this '
+                          'film, but I am afraid that much of the appeal will '
+                          'be missing in a general audience. A producer trying '
+                          "to change Bruce Willis' mind is pretty funny, but "
+                          'how funny is it to a non-producer or a '
+                          'non-Bruce-Willis? The performances, are, of course, '
+                          'outstanding. The entire cast is composed of nearly '
+                          'uncriticizable actors who are superb in any role '
+                          'they attempt. If you have an interest in how films '
+                          'come to be, this is a fun little flick. If you '
+                          "don't care about the behind-the-scenes, you may "
+                          'want to sit this one out.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'This is the trailer for What Just Happened?, '

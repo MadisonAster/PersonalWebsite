@@ -19,7 +19,7 @@
             'url': '/name/nm0354198/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 225631,
+                     'ratingCount': 225641,
                      'ratingValue': '7.6',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -51,27 +51,53 @@
  'keywords': 'war crime,trial,secret,sex with a minor,nazi',
  'name': 'The Reader',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'hopek-1'},
-            'dateCreated': '2009-01-09',
+            'author': {'@type': 'Person', 'name': 'Michael Fargo'},
+            'dateCreated': '2009-01-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0976051/'},
-            'name': 'A thoughtful and plausible examination of guilt.',
-            'reviewBody': 'Very well acted and presented and a faithful '
-                          'representation of the main points of the novel on '
-                          'which it is based. This film encourages us to look '
-                          'closely at very difficult issues surrounding the '
-                          'atrocities of World War II. I am at a loss to '
-                          'understand why so many critics have been so damning '
-                          'of it. Perhaps it is too subtle for them to '
-                          'understand. It seeks to outlaw the false and '
-                          'intellectually lazy theory to explain the '
-                          'holocaust, namely that the horrors were committed '
-                          'by monsters. In its place we are offered '
-                          'contextualization, not as excuse but as explanation '
-                          'of how quite ordinary people were able to do '
-                          'extraordinarily dreadful things. We avoid these '
-                          'uncomfortable facts at our peril.',
+            'name': "A victim's guilt",
+            'reviewBody': 'The film is a series of profound moral '
+                          'dilemmas\x97while contrived by the author, they are '
+                          'fair questions\x97that resonate deeply in the 21st '
+                          'Century: The role of guilt in victims, '
+                          'perpetrators, individuals and collectively, as well '
+                          'as justice, forgiveness, redemption, shame and, of '
+                          'course, literacy and its role in Western thought.\n'
+                          '\n'
+                          'All this is a pretty heady mix for a film, but '
+                          'Stephen Daldry (as with "The Hours" ) makes '
+                          'literary conceit play very naturally here. David '
+                          "Hare's screenplay and the remarkable cinematography "
+                          'of the always remarkable Roger Deakins together '
+                          'with a sensitive score by Nico Muhly, this is '
+                          'indeed rarefied film-making. \n'
+                          '\n'
+                          'But the actors are what drag the audience into this '
+                          'story. David Kross is amazing as the young Michael '
+                          'who has to play a range of virginal innocent to '
+                          "wizened and bitter. It's the key role in the film, "
+                          "and we're all lucky he was found to play this role. "
+                          'And the ever confounding Kate Winslet. What an '
+                          'amazing career for this young actress! Running '
+                          'through a list of her credits, she has some of the '
+                          'best performances of the last decade: "Holy Smoke," '
+                          '"Eternal Sunshine\x85'
+                          '," "Iris," "Finding Neverland," "Little Children." '
+                          'But here she does something very different. Playing '
+                          'what amounts to a monster, we see that they too are '
+                          'human. Not many actresses could bring this off, but '
+                          'it may be her greatest accomplishment to date. \n'
+                          '\n'
+                          'Ralph Fiennes brings a continuity to the work David '
+                          "Kross begins, and there's a brief appearance by "
+                          'Lena Olin who commands the dignity the role '
+                          'deserves. \n'
+                          '\n'
+                          "I'm puzzled at the lukewarm reception to this film. "
+                          'I almost missed seeing it. And it turned out to be '
+                          'one of my favorite and the most heart-rending films '
+                          'of the year. All involved should be very proud.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

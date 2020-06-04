@@ -36,33 +36,21 @@
  'keywords': 'politics',
  'name': 'The Circus: Inside the Greatest Political Show on Earth',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'PoliSciGuy88'},
-            'dateCreated': '2019-06-18',
+            'author': {'@type': 'Person', 'name': 'hognls-57954'},
+            'dateCreated': '2019-03-03',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5351176/'},
-            'name': 'Started Strong, Finished Weak',
-            'reviewBody': 'I thought the first couple seasons were solid and '
-                          'well-balanced, but as the series went along '
-                          '(particularly with the introduction of Alex Wagner) '
-                          'it became nothing more than a Democrat talking '
-                          'point echo chamber. As an Independent, this '
-                          'evolution was very disappointing.\n'
-                          '\n'
-                          'The move away from balance led the series to make a '
-                          'number of veiled predictions and analyses that, in '
-                          'retrospect, turned out to be comically wrong. Even '
-                          'worse, the series attempted to ridicule and '
-                          'marginalize anyone with a view different than their '
-                          'conventional wisdom which, again, turned out to be '
-                          'mostly wrong.\n'
-                          '\n'
-                          'Overall, a good microcosm of what happens when '
-                          'people/organizations become hyper-partisan. Too bad '
-                          'because this series had a lot of promise.',
+            'name': 'Unimaginative and shallow',
+            'reviewBody': 'If you want to hear one side of the story this is '
+                          "for you. Biased reporting with nothing you haven't "
+                          'heard or seen before in the lame stream media. It '
+                          'would be refreshing to see an objective news show. '
+                          "Just another echo chamber type program. Don't waste "
+                          'your time.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '3',
+                             'ratingValue': '4',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The Circus: Inside The Greatest Political Show On '

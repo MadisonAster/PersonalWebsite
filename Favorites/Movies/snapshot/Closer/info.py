@@ -17,7 +17,7 @@
             'url': '/name/nm0000210/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 198164,
+                     'ratingCount': 198171,
                      'ratingValue': '7.2',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -45,44 +45,39 @@
  'keywords': 'love triangle,adultery,pubic hair,stripper,pole dance',
  'name': 'Closer',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'arichmondfwc'},
-            'dateCreated': '2004-12-21',
+            'author': {'@type': 'Person', 'name': 'The Davii'},
+            'dateCreated': '2004-12-03',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0376541/'},
-            'name': "Who's afraid of Closer?",
-            'reviewBody': 'Mike Nichols directed, in my opinion, one of the '
-                          'three best adaptations from stage to screen. '
-                          '"Who\'s afraid of Virginia Woolf" (The other two '
-                          'being Sidney Lumet\'s "Long day\'s journey into '
-                          'night" and Elia Kazan\'s "A Streetcar named Desire) '
-                          'After the extraordinary television adaptation of '
-                          '"Angels in America" I also would have pleaded with '
-                          'Mike Nichols to do "Closer" Sorry I\'m rambling. '
-                          "What I'm trying to say in a rather convoluted way "
-                          'is, simply, thank you Mr. Nichols. Adult themes, '
-                          'conceived and performed by adult artists. I hope it '
-                          'makes zillions of dollars so we can have more of '
-                          "it. Jude Law is a Peter O'Toole without the "
-                          'steroids, Julia Roberts a Jeanne Moreau with an '
-                          'American passport, Clive Owen is a child of John '
-                          'Garfield and Peter Finch and Natalie Portman a Jean '
-                          'Peters with a college degree. I saw the film twice '
-                          "in a row, I hadn't done that in years. Not since "
-                          '"Drugstore Cowboy", "Apartment Zero" and "Sex Lies '
-                          'and Videotape" The unfolding of the dark happens in '
-                          'front of our eyes and it feels chillingly familiar. '
-                          'Lies we tell each other with so much conviction '
-                          'with so much honesty. The only real thing is the '
-                          "pain and the loneliness. It doesn't sound like a "
-                          'very entertaining night out but believe me, it is. '
-                          'Go, see for yourself. You may have to confront '
-                          "something you didn't want to confront. That's part "
-                          "of the process call growing up. Who's afraid of "
-                          'that?',
+            'name': 'The three years of my divorce wrapped into two hours',
+            'reviewBody': 'While I thought the characters were interesting, I '
+                          'found it very difficult to watch, as my own '
+                          'marriage disintegrated in a fashion too familiar to '
+                          'these characters. The lies, the half-truths, the '
+                          'inability to distinguish truth from lie after being '
+                          'told so many lies. I could completely relate to the '
+                          'characters in this movie.\n'
+                          '\n'
+                          'Though I could laugh with it, it was nevertheless '
+                          "painful to watch. I couldn't recommend this movie "
+                          'to anyone except my ex-. Even then, I have trouble '
+                          "believing she's understand any part of it.\n"
+                          '\n'
+                          'This particular film was more like a documentary '
+                          'shot without the shaky hand-held camera. But, like '
+                          'the still photographs the movie mocks as being '
+                          'false, Closer allows only glimpses of the truth '
+                          'behind the myriad lies.\n'
+                          '\n'
+                          'I want to be entertained at a movie and I cannot '
+                          "think of a single person to whom I'd recommend this "
+                          'movie. It was very well acted, scripted, and '
+                          'executed on all parts. But it was more painful than '
+                          'pleasant or enlightening.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for Closer',

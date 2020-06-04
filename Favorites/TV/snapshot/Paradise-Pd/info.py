@@ -19,7 +19,7 @@
             'url': '/name/nm2780278/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 11734,
+                     'ratingCount': 11739,
                      'ratingValue': '7.0',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -42,26 +42,26 @@
  'keywords': 'cop,cop comedy,adult cartoon,netflix original,ineptitude',
  'name': 'Paradise PD',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ericschi'},
-            'dateCreated': '2020-03-10',
+            'author': {'@type': 'Person', 'name': 'ssvfolder-1'},
+            'dateCreated': '2020-03-13',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt8235236/'},
-            'name': 'S2 to S1 is like the Hobbit vs LotR',
-            'reviewBody': 'Absolutely loved season 1. It was gross, vile, '
-                          'simple and lovely fart humor. The storyline was '
-                          'continous throughout the season. The characters '
-                          'mostly had their own arch and developed as the '
-                          "story went on. While it's certainly not for "
-                          'everyone, I loved it.\n'
-                          '\n'
-                          'Then season 2 happened. All the characters were '
-                          'flat, repetitive and one dimensional. The story was '
-                          'a weaker variant of s1, just worse. It offered '
-                          'nothing new and basically is a watered down version '
-                          'of s1. Shame, had hoped for more.',
+            'name': 'Good show, yet still tries too hard',
+            'reviewBody': 'Nowadays every adult cartoon show tries to find '
+                          'their niche. Some achieve truly iconic status, such '
+                          'as Rick and Morty, Family guy or Southpark. Most of '
+                          "others can't get there, so they keep on trying new "
+                          'things. It feels as this show niche is being '
+                          'anti-PC (which is good), shock humor, which mainly '
+                          "focused on sex stuff. While it's still decent and "
+                          'gives you a few laughs, sometimes it feels as they '
+                          'try too hard to get some shock-laughs, even when it '
+                          "doesn't feel as they should be there. There is a "
+                          'clear decline in quality from season 1, yet I would '
+                          'like to see what will happen further down the road.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '4',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'url': '/title/tt8235236/'}

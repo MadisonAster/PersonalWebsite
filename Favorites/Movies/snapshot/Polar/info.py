@@ -19,7 +19,7 @@
            {'@type': 'Person', 'name': 'Fei Ren', 'url': '/name/nm6699375/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 68697,
+                     'ratingCount': 68708,
                      'ratingValue': '6.3',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -46,25 +46,42 @@
              'comic,bare butt',
  'name': 'Polar',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'blueeye-silntkilr07'},
+            'author': {'@type': 'Person', 'name': 'sahilgill19'},
             'dateCreated': '2019-01-25',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4139588/'},
-            'name': 'Action movie with charismatic hero',
-            'reviewBody': '//Short and simple//\n'
+            'name': "'Next' in Assassin's Genre!",
+            'reviewBody': 'The storyline is very simple, a top assassin named '
+                          'Mads(Duncan aka "The Black Kaiser") is settling '
+                          'into retirement whereas his former employer '
+                          'identify him as a liability to the firm. So he '
+                          'sends a group of ruthless killers (young assassins) '
+                          'to find and finish him. The movie is based on a '
+                          'graphic novel: "Polar: came from the cold". '
+                          "Although I've not read the comic but I can "
+                          'guarantee that the team has done justice with '
+                          'stylish action choreography and gun fights full of '
+                          'gore, contains brief nudity plus appealing '
+                          "cinematography and music add-on to make it 'next' "
+                          'in violent movie genre. The cast comprises of '
+                          'Katherine (Vivian), Vanessa (Camille) and equal '
+                          'amount of shares for Ruby(Sindy), Matt (Blut) and '
+                          'guest appearance from Knoxville (Michael). It is a '
+                          "must watch if you're fan of movies like John Wick, "
+                          'Punisher and Equalizer. Since it is based on a '
+                          'graphic novel , the one-liners are really awesome '
+                          'before the kill:\n'
                           '\n'
-                          'If you love Mads Mikkelsen and action, this movie '
-                          'is not going to disappoint you. Over the top '
-                          'action? ✔ Overdramatic main villain? ✔ Replaceable '
-                          "side villains? ✔ Listen guys.. don't compare this "
-                          'movie with john wick and ruin the popcorn time, '
-                          'afterall this is comic book adaptation. Yes, this '
-                          'movie is not perfect (hint: lame villains) but you '
-                          "won't regret watching MM in action.",
+                          'Vivian: Heard you stopped smoking? The black '
+                          'Kaiser: "Figured, it wouldn\'t kill me"\n'
+                          '\n'
+                          "I don't know what critics are going to rate it but "
+                          'this movie has everything which can give a high '
+                          "dose of adrenaline rush. Just don't miss it!",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "The world's top assassin, Duncan Vizla, aka The "

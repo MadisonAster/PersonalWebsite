@@ -50,37 +50,31 @@
  'keywords': 'nuclear,storage,radiation,dump,underground',
  'name': 'Into Eternity: A Film for the Future',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'das_leichsi'},
-            'dateCreated': '2011-11-24',
+            'author': {'@type': 'Person', 'name': 'WillWong101'},
+            'dateCreated': '2012-04-03',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1194612/'},
-            'name': 'Amazing visuals and sound merged with an intense '
-                    'documentary',
-            'reviewBody': "okay, I'm a huge fan of documentaries, but Into "
-                          'Eternity is just a killer.\n'
+            'name': 'Beautiful, chilling, haunting, provocative',
+            'reviewBody': 'Even if you have no interest in where energy comes '
+                          'from or in nuclear technology, this documentary is '
+                          'so beautifully filmed and produced that there is '
+                          'enjoyment in just watching it.\n'
                           '\n'
-                          "It's not the fact that it is well grounded and has "
-                          "it's facts together.\n"
+                          'The core question posed by this documentary is: how '
+                          'do you warn countless future generations, for '
+                          '100,000 years to stay away from the radioactive '
+                          'waste? The documentary maker asks questions of the '
+                          'people involved. Their responses are often '
+                          'chilling.\n'
                           '\n'
-                          'what really really hit me was the visual work '
-                          'combined with the music. this documentary is now my '
-                          'most favorite Sci-Fi film. the scenes are '
-                          'disturbingly furturistic with a mix of '
-                          'post-apocalyptic elements. you feel a constant '
-                          'threat looming over your head while watching this '
-                          'amazingly beautiful film. time unfolds as Madsen '
-                          'leads you into a project that wants to endure '
-                          'longer than the modern man. and for the first time '
-                          'in my life I felt really small and grabbed the '
-                          "scope of the world we're living in. 100.000 years "
-                          'is an awful long time, and it is a bold move to try '
-                          'to achieve something this lasting.\n'
+                          'There is also some dark humor in it - the '
+                          'expressions on the faces of the nuclear power '
+                          'executives when asked what happens after hundreds '
+                          'or thousands of years have passed.\n'
                           '\n'
-                          'watch the film, relax and let it just take you away '
-                          "for 90 minutes. I dó not regret it. and I'm "
-                          'definitely going to see it again. and again. and '
-                          'again',
+                          'An extremely important documentary for this moment '
+                          'in history. Everyone should watch this.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

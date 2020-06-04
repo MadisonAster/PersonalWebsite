@@ -21,7 +21,7 @@
             'url': '/name/nm0000387/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 20819,
+                     'ratingCount': 20822,
                      'ratingValue': '6.7',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -49,31 +49,31 @@
              'sex position',
  'name': 'Behind the Mask: The Rise of Leslie Vernon',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'potterhead97'},
-            'dateCreated': '2013-08-14',
+            'author': {'@type': 'Person', 'name': 'kagyakusha'},
+            'dateCreated': '2007-04-25',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0437857/'},
-            'name': 'A diamond in the rough',
-            'reviewBody': "I must say this film was great. I'm not typically "
-                          'one to watch movies that are both Comedy and '
-                          'Horror. But this was definitely a standout film in '
-                          'the Comedy Horror genre. I would recommend Behind '
-                          'the Mask: The Rise of Leslie Vernon to horror film '
-                          'buffs especially. Being a horror movie buff myself, '
-                          'I found that this flick really put the classic '
-                          'slasher films to good use. They formed a sort of '
-                          "method to the slasher's madness and I have to say I "
-                          'loved that. I also appreciated the slight twist at '
-                          'the ending. I would love to see another film like '
-                          'this to be created. It is definitely worth the '
-                          'watch. Although if you are prone to motion '
-                          'sickness, it may be triggered by the moments where '
-                          'a hand-held camera is used. Other than that, I '
-                          'highly recommend the movie!',
+            'name': 'GREAT Movie!',
+            'reviewBody': "I highly highly recommend this movie. It's a black "
+                          "comedy/mockumentary/horror movie that's bloody "
+                          "hilarious. I LOVED it. I can't recommend it "
+                          "enough!!! If you're a horror film junkie, or even "
+                          "if you're not (for example, my boyfriend doesn't "
+                          'particularly like horror films but is fond of '
+                          'intelligent comedy and was right beside me laughing '
+                          'for this one) you should DEFINITELY see this movie! '
+                          "It's so respectful of the genre at the same time "
+                          'that it plays with it... Nathan Baesel, who says he '
+                          "was inspired by Anthony Hopkins' Hannibal Lecter "
+                          'really pulls off charming and cheery -- not copying '
+                          'Lecter, but applying the influence to create a new '
+                          'and lovable serial killer (this is what makes him '
+                          "both funny AND creepy - it's impossible not to like "
+                          'him!).',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Theatrical Trailer from Anchor Bay Films',

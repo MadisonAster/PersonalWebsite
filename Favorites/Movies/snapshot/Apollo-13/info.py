@@ -19,7 +19,7 @@
             'url': '/name/nm0000641/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 259089,
+                     'ratingCount': 259108,
                      'ratingValue': '7.6',
                      'worstRating': '1.0'},
  'contentRating': 'PG',
@@ -51,28 +51,67 @@
  'keywords': '1970s,survival,astronaut,space mission,rescue',
  'name': 'Apollo 13',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'george.schmidt'},
-            'dateCreated': '2003-02-27',
+            'author': {'@type': 'Person', 'name': 'Anonymous_Maxine'},
+            'dateCreated': '2001-01-30',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0112384/'},
-            'name': 'The Right Stuff',
-            'reviewBody': 'APOLLO 13 (1995) ***1/2 Tom Hanks, Kevin Bacon, '
-                          'Bill Paxton, Gary Sinise, Kathleen Quinlan, Ed '
-                          'Harris, Loren Dean, Clint Howard.  Exhilarating and '
-                          'absorbing true life account of the 1970 mishap of '
-                          "the American space program's Apollo 13 that nearly "
-                          'became a tragic catastrophe based on astronaut and '
-                          'team leader Jim Lovell\'s novel "Lost Moon".  Hanks '
-                          'is excellent as Lovell, grace under pressure '
-                          'realized, as is the rest of the fine ensemble and '
-                          'perfect visual effects of space travel and '
-                          'ingenuity. Harris won a nomination for Best '
-                          "Supporting Actor as Mission control's chief.  "
-                          "Noteworthy: that's director Ron Howard's real life "
-                          "mother as Lovell's mom and look sharp for Lovell "
-                          "himself at the film's conclusion.  Oscar winner for "
-                          'Best Editing and Best Sound.'},
+            'name': 'Forget Armageddon and the laughable Pitch Black. Never '
+                    'mind Lost In Space and Mission to Mars. Even the great '
+                    'Men In Black is dismissable here. THIS is a space movie.',
+            'reviewBody': 'Probably one of the most significant things about '
+                          'Apollo 13 is the fact that it managed to be such a '
+                          'strikingly realistic film despite the abundance of '
+                          'well-known Hollywood actors. Tom Hanks, of course, '
+                          'can convincingly act any part in the world, and his '
+                          'role in Apollo 13 is no exception. All of the '
+                          'actors involved seemed to have been given parts '
+                          'that they were born to play, because they were so '
+                          'successful in the roles. The true events of the '
+                          'historic Apollo 13 mission are amazingly re-created '
+                          'here, and the results are spectacular. \n'
+                          '\n'
+                          'Not only is this film wonderfully acted, it also '
+                          'presents a nearly flawless portrayal of the time '
+                          'period, even down to the slide rulers that were '
+                          'used to do calculations. The audience is literally '
+                          "taken back in time to the 1960's, and all of these "
+                          'universally exciting events are brought back to '
+                          'life, and this is one of the things that makes this '
+                          'movie so special. So many films try to do this, and '
+                          'the vast majority of them fail miserably, so it '
+                          'just feels so good to occasionally see it done '
+                          'right.\n'
+                          '\n'
+                          ' Another thing that was used in the perfect amount '
+                          'in Apollo 13 was the special effects. I am entirely '
+                          'against excessive special effects, because if they '
+                          "aren't justified in being in the film, they can "
+                          'sometimes ruin the film by themselves (remember The '
+                          'Perfect Storm?). The special effects in Apollo 13, '
+                          'however, served the film very well. Of course, the '
+                          'most significant special effect in the film, aside '
+                          'from the space scenes, was the zero gravity, which '
+                          "was done flawlessly. I'm just glad that they "
+                          'decided to go up in one of those Zero-G planes for '
+                          'these scenes, rather than have the actors drift '
+                          'lazily around and act as if they are in zero '
+                          'gravity, because that would have taken a lot away '
+                          'from the film. \n'
+                          '\n'
+                          'Apollo 13 has an excellent story made even better '
+                          'by the fact that it is true, it has great acting, '
+                          'skillful direction, and plenty of tasteful humor. '
+                          'It is not only a highly entertaining film, but is '
+                          'also educational, which should please parents (as '
+                          'if they need any more pleasing than seeing their '
+                          'younger years brought back to life on the silver '
+                          'screen). Definite must-see, Apollo 13 is a '
+                          'contemporary classic.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '10',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Universal Studios Home '
                             'Entertainment',

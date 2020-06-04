@@ -44,36 +44,52 @@
  'keywords': 'athlete,college sports,narration,six word title,colon in title',
  'name': 'Schooled: The Price of College Sports',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'sullivan28210'},
-            'dateCreated': '2014-08-21',
+            'author': {'@type': 'Person', 'name': 'MartinHafer'},
+            'dateCreated': '2015-01-17',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3057718/'},
-            'name': 'Just plain crazy',
-            'reviewBody': 'Lame.\n'
+            'name': "It's like they were reading my mind...",
+            'reviewBody': 'I am not a sports fan yet oddly I really enjoy '
+                          'sports documentaries and have seen dozens over the '
+                          "last few months. So, it's not surprising that I "
+                          'would watch "Schooled: The Price of College '
+                          'Sports". But, I was even more eager to watch it '
+                          'because it attacks a problem that needs '
+                          "attention--and it's THE reason I hate college "
+                          "sports. And, it's the reason I strongly recommend "
+                          'you see this documentary. \n'
                           '\n'
-                          'This movie pretends that athletes receive no '
-                          'compensation other that a free education, '
-                          'completely ignoring the value of publicity, the '
-                          'best fitness equipment, psychologists, tutors, '
-                          'trainers, coaches, elite contacts, promotional '
-                          'campaigns, education, medical care, and other '
-                          "special privileges has on these athlete's future "
-                          'earnings potential.\n'
+                          'The main idea behind this film is that universities '
+                          '(and particularly the head coaches) make billions '
+                          'because of their football teams. Yet, inexplicably, '
+                          'students often make nothing or next to nothing. '
+                          "Folks usually think that it's not a bad system-- "
+                          'after all, the student athletes do get a free '
+                          'education. BUT, the film abounds with example after '
+                          'example of students who really were taken advantage '
+                          'of by this system--a system with no real way to '
+                          'appeal. The most egregious is one case where a '
+                          'student was paralyzed on the football field--and '
+                          'who promptly lost his scholarship because the '
+                          'school made it contingent on his being able to '
+                          "play. What's worse---they also refused to pay for "
+                          'his medical bills. Does this sound fair? Well, in '
+                          'addition to this one, the film does a great job in '
+                          'pushing for student athletes to actually get '
+                          'paid--which is especially important as most of '
+                          'these folks (98.5%) never make it to pro ball.\n'
                           '\n'
-                          "That's payment, and it equals $100,000 plus per "
-                          'year, maybe millions for top athletes. \n'
-                          '\n'
-                          "At my D1 school, athletes aren't even required to "
-                          'type their own papers. The tutors are essential '
-                          "prostitutes. They don't attend class, but their "
-                          "names show up on the attendance sheets. They're "
-                          'treated like celebrities.\n'
-                          '\n'
-                          "This is the dumbest movie I've EVER seen.",
+                          'I could go on and on with all the reasonable '
+                          'examples they gave that the system should be '
+                          'changed, but the bottom line is that you should see '
+                          'the film yourself and see what you think. Even if '
+                          "it doesn't completely convince you, it will get you "
+                          'to think--and I love a well made documentary that '
+                          'makes you think.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '1',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A documentary that examines how college sports in '

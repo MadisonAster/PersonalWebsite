@@ -19,7 +19,7 @@
             'url': '/name/nm0000640/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 785528,
+                     'ratingCount': 785636,
                      'ratingValue': '8.1',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -53,72 +53,53 @@
              'relationship,revenge,deception,investigation',
  'name': 'Catch Me If You Can',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'camcmahon'},
-            'dateCreated': '2005-03-31',
+            'author': {'@type': 'Person', 'name': 'rosscinema'},
+            'dateCreated': '2003-03-18',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0264464/'},
-            'name': "I haven't read the book just yet - I definitely will now!",
-            'reviewBody': 'This was an entertaining and fun piece of film '
-                          'making from the ever-reliable Steven Spielberg. It '
-                          'is a bit of a depart from his usual full-blown and '
-                          'hugely epic pictures, yet this does not detract at '
-                          'all from the fascinating story of Frank Abagnale '
-                          "Jr. I was interested in this man before I'd seen "
-                          'the movie, and it only served to increase my '
-                          'interest. Although it is important to remember (as '
-                          "with any such film) that this is only 'inspired' by "
-                          'a true story and not told word for word from one, '
-                          'the plot is fascinating and keeps you laughing, '
-                          'crying and wondering until the end.\n'
-                          '\n'
-                          'Frank Abagnale Jr. is an astounding and interesting '
-                          'character. The real life Abagnale originally said '
-                          "that he did not believe Dicaprio to be 'suave' "
-                          'enough to play the role, but he certainly does pull '
-                          "it off. Dicaprio's acting is superb, and totally "
-                          'believable as a man who could lie to, deceive, and '
-                          'con everyone he met without once losing any of his '
-                          'charisma or charm. Hanks is also excellent, he '
-                          'plays the role of the obsessed FBI agent well, and '
-                          'also with a likable quality. The interaction '
-                          'between these two characters was great, it was '
-                          'interesting to see a budding relationship slowly '
-                          'build between two characters who were actually '
-                          'positioned against one another.\n'
-                          '\n'
-                          'I loved the look of the film. It was a refreshing '
-                          'blast to see the 60s portrayed in such a vivid and '
-                          'colorful way. The whole setting and atmosphere of '
-                          'the film gave it a wonderful and almost (I hesitate '
-                          "to use the word) 'magical' sense. This tone "
-                          'appealed to me much more than a darker tone might '
-                          'have.\n'
-                          '\n'
-                          'However, the film is rife with moral ambiguity. As '
-                          'much fun as it is to watch Dicaprio jumping from '
-                          'one place (and identity) to the next, forging '
-                          'checks and spending inordinate amounts of money at '
-                          'a whim, the film never really focuses on the '
-                          'morally bankrupt side of the story. The portion of '
-                          'the film devoted to this at the end still seems to '
-                          'skim over the fact that this man has stolen '
-                          'millions of dollars. It ends on a high note for '
-                          'Frank Abagnale Jr., never fully spelling out the '
-                          'wrongs he committed. Still, this would probably '
-                          "bring the whole film down, and sometimes it's fun "
-                          'just to enjoy a bit of escapism without being told '
-                          "off for desiring such things. I mean, it's hard to "
-                          'be totally strict and upright - you have to love it '
-                          "when Dicaprio's character swindles Jennifer "
-                          "Garner's prostitute for $400! \n"
-                          '\n'
-                          'Overall, this is a fun film and really enjoyable. '
-                          'Not as much of an epic masterpiece as some of '
-                          "Spielberg's other movies, but still a great film!",
+            'name': 'Very good film has those Spielberg edges!',
+            'reviewBody': 'At first I thought I was going to see a lightweight '
+                          'film from a great director but instead I watched '
+                          'another impressive achievement by Steven Spielberg. '
+                          'A few things stand out and of course the '
+                          'performances are terrific. Leonardo Dicaprio is '
+                          'believable as a guy that can convince people that '
+                          "he's someone else. Dicaprio is a charmer and is "
+                          'very smooth as we watch his character do some fancy '
+                          'talk to the young ladies. Tom Hanks as the FBI '
+                          'agent reminds me of his cynical character that he '
+                          'played in "A League of Their Own" and his mere '
+                          'presence adds more to this film. The sign of a '
+                          'great film star. And Christopher Walken gives one '
+                          'of his best performances in his already interesting '
+                          'career. The last scene of him as he talks to his '
+                          'son in the restaurant is so moving that it reflects '
+                          'on the great talent of Walken. You can understand '
+                          'why Dicaprio admires and loves his father. Walken '
+                          'conveys these emotions and makes the audience react '
+                          "just accurately. I'll be rooting for him at Oscar "
+                          'time. Another impressive thing about this film is '
+                          'the beautiful cinematography by Janusz Kaminski '
+                          "who's a real artist with a camera and has worked on "
+                          'several Spielberg films. One shot in particular '
+                          'stands out. The ray of sunshine coming in through '
+                          'the kitchen window on Walken. Very thought '
+                          'provoking. And of course since its a Spielberg film '
+                          'its very personal. Spielberg was interested in the '
+                          'Frank Abagnale character because as a youngster he '
+                          'also came from a broken family and wanted to be '
+                          'someone else. Spielberg would sneak onto the '
+                          'studios and tell people that he worked there. Also, '
+                          'the real Frank Abagnale jr. appears as a French '
+                          'police officer. Well made, extremely well acted and '
+                          'sharply written. Viewers seem to forget that this '
+                          'is really a film about the breaking up of a family '
+                          'and the aftermath. This really is a personal film '
+                          'from Spielberg, and a very good one.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Theatrical Trailer from Dreamworks',

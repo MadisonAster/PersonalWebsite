@@ -21,7 +21,7 @@
             'url': '/name/nm0935921/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 85728,
+                     'ratingCount': 85734,
                      'ratingValue': '8.7',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -39,32 +39,51 @@
  'keywords': 'male rape,prison,italian,gay,aryan brotherhood',
  'name': 'Oz',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Evan Locci'},
-            'dateCreated': '1998-12-04',
+            'author': {'@type': 'Person', 'name': 'budmassey'},
+            'dateCreated': '2003-01-19',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0118421/'},
-            'name': 'Not only the best show on TV currently, but one of the '
-                    'best shows of all-time.',
-            'reviewBody': 'Consistently well-written and acted, Oz is without '
-                          "a doubt the best thing on TV.  Quality wise, it's "
-                          'up there with the first 4 seasons of Homicide: Life '
-                          'on the Street as the most compelling hour of '
-                          'television drama. Presenting a harsh and realistic '
-                          'view of prison life, Oz is a wonderful mixture of '
-                          'superb acting and character development; all of '
-                          'which rides on a nuanced and erudite core '
-                          "(Foucault's Panopticon is the inspiration for Em "
-                          "City's design...and ultimate failure).  It is the "
-                          'only show on TV, that I can think of, that has '
-                          'presented characters who were intensely dislikable '
-                          'one moment and oddly empathetic the next.  That I '
-                          'am repulsed by, sympathetic with, intrigued about, '
-                          'and involved with every character that has lived, '
-                          'died or survived on the show, is no small feat.  '
-                          'Good TV exists. And, for my money, Oz is not only '
-                          'good TV, it is better than most films released '
-                          'throughout the year.'},
+            'name': 'Its influence will elevate the level of television drama '
+                    'for years to come.',
+            'reviewBody': 'The stature of this program must be measured in the '
+                          'context of its format. These are not feature films, '
+                          'but one hour dramas, no different in concept or '
+                          'constraint from countless other network '
+                          'counterparts.  But, oh how different in result.\n'
+                          '\n'
+                          'Oz is not for everyone.  It is violent, lurid, '
+                          'obscene, profane and controversial.  Oz us narrated '
+                          'dramatically by a "Greek Chorus" of inmates who '
+                          'make insightful observations not just about Oz, but '
+                          'applicable to the outside world as well.  The '
+                          'talent, none of it marquee, is nonetheless the '
+                          'finest assembly of supporting actors an ensemble '
+                          'cast could hope for.\n'
+                          '\n'
+                          'In order to keep ratings up, the stories sometimes '
+                          'veer into the unbelievable, but the grit and '
+                          'reality are never gone for long.  Oz is also a '
+                          'bundle of irony.  Although it deals with '
+                          'homosexuality with insight and objectivity in every '
+                          'episode, it just as often bristles with gratuitous '
+                          'homoerotic overtone.  Despite the fact that it '
+                          'overflows with action and violence, it never '
+                          'mistakes kenesis for story.\n'
+                          '\n'
+                          'Sometimes, Oz borders on, and crosses well into, '
+                          'genius.  Its often surreal direction elevates '
+                          'otherwise base events to sublime levels.  Music, '
+                          'pacing, convoluted story lines careening and '
+                          'intersecting in ways that are at the same time '
+                          'graceful and clumbsy, just like real life.\n'
+                          '\n'
+                          'This is said to be the last season of Oz, and yet, '
+                          'only two seasons are on DVD.  With constant reruns '
+                          'and each episode being aired about a dozen times a '
+                          'week, you may be tired of this jewel anyway, but '
+                          'its influence will elevate the level of television '
+                          'drama for years to come.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from HBO Home Video',
              'embedUrl': '/video/imdb/vi2476671257',

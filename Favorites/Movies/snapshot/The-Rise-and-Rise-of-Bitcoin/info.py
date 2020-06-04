@@ -51,34 +51,27 @@
  'keywords': 'computer',
  'name': 'The Rise and Rise of Bitcoin',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'andre.koster'},
+            'author': {'@type': 'Person', 'name': 'nima1981'},
             'dateCreated': '2014-10-21',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2821314/'},
-            'name': "If you want to know about Bitcoin and where it's coming "
-                    'from, watch this movie',
-            'reviewBody': "Bitcoin may sound very abstract, but it's carried "
-                          'by people of flesh and blood. This movie follows '
-                          'some of the main players in the first years of '
-                          'Bitcoin. See their excitement, share their passion. '
-                          'Sometimes they stumble or fall, but they keep '
-                          'going. In between, you get to learn how Bitcoin '
-                          "works and what it's all about.\n"
-                          '\n'
-                          'If you want to know more about Bitcoin, but are '
-                          'less of a techie and more of a peoples person, this '
-                          'movie is for you.\n'
-                          '\n'
-                          'The only thing I missed in the part that covered '
-                          '2013 is the developments in China. I can imagine '
-                          "that it was a bit 'out of scope' for the makers, "
-                          'but it felt like an omission to me, especially '
-                          'since its relevance for the November rally. But '
-                          'other than that, a great movie!',
+            'name': 'Global awakening ...',
+            'reviewBody': 'I watched this movie when it first aired officially '
+                          'at the House of Blues in Chicago prior to the 2014 '
+                          'Bitcoin conference there. I felt bursts of '
+                          'melancholy, joy and, yes, pride throughout the '
+                          'entire film. Daniel literally traveled the world '
+                          'and was there with some of the earliest Bitcoin '
+                          'pioneers and RECORDED it all. Nobody else has done '
+                          'that! This is a truly unique piece of history that '
+                          "you CANNOT miss, whether you're into Bitcoin or "
+                          'not. I truly believe that it will be remembered, '
+                          'talked about, and referenced for eternity or '
+                          'something close to it. Magnificent!!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for The Rise and Rise of Bitcoin',

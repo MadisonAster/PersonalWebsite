@@ -21,7 +21,7 @@
             'url': '/name/nm0000579/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 10129,
+                     'ratingCount': 10130,
                      'ratingValue': '7.5',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -41,39 +41,32 @@
  'keywords': 'religion,hallucination,suicide,talking to god,rape victim',
  'name': 'Hand of God',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'chunkylefunga'},
-            'dateCreated': '2015-09-07',
+            'author': {'@type': 'Person', 'name': 'jane_hill-20569'},
+            'dateCreated': '2017-09-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3973768/'},
-            'name': 'An actual season review and not just the pilot.',
-            'reviewBody': 'The show starts off with an interesting concept and '
-                          'builds up many questions that we hope will be '
-                          'answered in throughout the season. Whilst you '
-                          'cannot fault the acting in the show, the overall '
-                          'storyline unfortunately becomes somewhat convoluted '
-                          'with a few curve balls seemingly chucked in for the '
-                          'sake of prolonging the storyline. Not to mention a '
-                          'few unnecessary side stories.\n'
+            'name': 'Excellent Show and Superb Acting',
+            'reviewBody': 'I was really surprised to see the negative reviews '
+                          'from the reviewers and Rotten Tomatoes. Of course, '
+                          'no show is right for every one, that is why we has '
+                          'thousands of different shows to watch but for me, '
+                          'this was a great show. Continued to keep my '
+                          'attention and made me want to watch the next '
+                          'episode immediately. Wonderful work from Ron '
+                          "Perlman and Dana Delaney (and I'm not a huge fan of "
+                          'hers). The supporting cast were very good as well.\n'
                           '\n'
-                          'My major complaint is that the hand of God becomes '
-                          'much less prominent as the show goes on, it would '
-                          'have been nice to push this further with the '
-                          'protagonist. It seems more that the idea was used '
-                          "to draw viewers in and then once you're in they "
-                          'switched it to more of a general detective show. '
-                          "Don't be afraid to push religious boundaries and "
-                          'taboos guys, this could still become a great show '
-                          'if you do.\n'
+                          'I will admit there are parts of the show that drift '
+                          "off, are derivative and just all-around don't make "
+                          'sense, but those are small. In the end, the show is '
+                          'compelling, interesting and an excellent series.\n'
                           '\n'
-                          "Overall I'm say this premiere season has been "
-                          "decent but nothing spectacular. I wouldn't bother "
-                          'with season 2 if the quality stays the same, but '
-                          'with a few tweaks and polishes I may be drawn back; '
-                          'so watch this space.',
+                          "It's a shame, there will be no season 3, it "
+                          'deserves it.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A morally-corrupt judge suffers a breakdown and '

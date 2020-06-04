@@ -21,7 +21,7 @@
             'url': '/name/nm2213306/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 215886,
+                     'ratingCount': 215894,
                      'ratingValue': '8.5',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -41,23 +41,31 @@
  'keywords': 'gladiator,gay,female nudity,violence,slave',
  'name': 'Spartacus: Blood and Sand',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'tudorpsih'},
-            'dateCreated': '2019-09-18',
+            'author': {'@type': 'Person', 'name': 'melissalee1973'},
+            'dateCreated': '2010-01-26',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1442449/'},
-            'name': 'I salute you, Starz',
-            'reviewBody': 'For me it fell from grace around season 4, when the '
-                          'new actress playing Naevia, the crazy eyed one, '
-                          'ruined any immersion I had. She also brought down '
-                          "Crixus' character, making him reckless and "
-                          'emotional over the smallest things. Other than '
-                          "that, Starz parallels Spartacus' rise with this "
-                          'show, which I consider to be a very special one.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
+            'name': 'Totally HOT!',
+            'reviewBody': 'Another great show out of New Zealand! Okay, so the '
+                          'language is a bit much but the battle sequences '
+                          'rock and Craig Parker as a nasty, Roman lusting for '
+                          "power, just works! There's a lot of blood but the "
+                          'effect is cool and it gives the show that graphic '
+                          "novel quality that we've enjoyed recently in films "
+                          'such as 300. Andy Whitfield plays a very raw and '
+                          'passionate Spartacus. Definitely not a show for the '
+                          'faint of heart or those who are easily offended by '
+                          'blood, sex or violence. Should we really expect '
+                          'less given that Roman Empire of that time was '
+                          'brutal? Folks looking for a history lesson need to '
+                          'tune in to the History Channel. This show is '
+                          'intended to be entertaining not a documentary so if '
+                          "it is historical fact you are looking for you're "
+                          'best to keep moving. If, however, you want to be '
+                          'entertained by raw masculinity of the gladiator '
+                          'from one of the most brutal eras in human history '
+                          'this show is definitely for you.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Watch a preview of the penultimate episode.',
              'embedUrl': '/video/imdb/vi652322329',

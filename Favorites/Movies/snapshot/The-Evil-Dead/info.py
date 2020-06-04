@@ -21,7 +21,7 @@
             'url': '/name/nm0048260/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 180129,
+                     'ratingCount': 180142,
                      'ratingValue': '7.5',
                      'worstRating': '1.0'},
  'contentRating': 'NC-17',
@@ -44,102 +44,64 @@
              'dead',
  'name': 'The Evil Dead',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Manthorpe'},
-            'dateCreated': '2004-08-16',
+            'author': {'@type': 'Person', 'name': 'ametaphysicalshark'},
+            'dateCreated': '2007-05-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0083907/'},
-            'name': 'Marvelously putrid.',
-            'reviewBody': "What more can be said of Raimi's legendary "
-                          "cult-classic that hasn't already been beaten to "
-                          'death like a puss-oozing zombie that crosses paths '
-                          "with Ash? Possibly nothing, but I'll try. \n"
+            'name': "You don't need a big budget to make an accomplished film",
+            'reviewBody': 'Sam Raimi\'s feature length debut "The Evil Dead" '
+                          'is truly one of the greatest horror films of all '
+                          'time and the start of a magnificently entertaining '
+                          'trilogy of hilarity and some real scares. Made on a '
+                          'budget of only $375,000, the film is surprisingly '
+                          'accomplished on a technical level. The effects, '
+                          "although they do look fake by today's standards, "
+                          'hold up a lot better than you might have expected, '
+                          'and the stop motion sequence at the end, which '
+                          'looks a lot faker than anything else in the movie, '
+                          'was accomplished for its time and budget.\n'
                           '\n'
-                          'Before Spiderman and before the countless spin-offs '
-                          'of this movie were made or even conceived, Raimi '
-                          'and friends decided to make a low budget zombie '
-                          'flick mainly for fun, and surprisingly it has '
-                          'become a masterpiece of shock and horror. Possibly '
-                          'a perfect example of how to make an entertaining '
-                          'film on a shoe-string budget, The Evil Dead '
-                          'delivers what it promises, the ultimate in grueling '
-                          "horror. Even with it's mild budget and sometimes "
-                          'shaky acting, TED shocks and spooks the audience '
-                          'through chilling atmosphere and some of the most '
-                          'violent effects ever put on film. Those who are '
-                          'squeamish need not apply. As a matter of fact, just '
-                          'run for your girly life.\n'
+                          '"The Evil Dead" is about a group of young adults '
+                          'who travel to a cabin in the woods and discover a '
+                          "'book of the dead'. No prizes for guessing what "
+                          'happens next as each character is possessed (except '
+                          'for Ash) and disposed of via an intriguing variety '
+                          'of methods. Considering its budget, unknown '
+                          'director (at the time), and typical slasher plot '
+                          '"The Evil Dead" would almost certainly seem headed '
+                          'towards forgotten B-movie status, and yet it has '
+                          'stood the test of time and remains one of the most '
+                          'widely acclaimed horror films of all time. Why? '
+                          'It\'s simple. Although "The Evil Dead" is nowhere '
+                          "near as funny as its sequels, it's still a humorous "
+                          'self-satire while also being terrifying despite its '
+                          'age. This odd combination (only perfected in this '
+                          'film\'s sequels and "Creepshow") works because '
+                          'Raimi crafts a tense and moody environment, puts '
+                          'his characters in there, and then ruthlessly '
+                          'disposes of them, sometimes doing so several times '
+                          "for the same character. What's worse is that "
+                          "there's nowhere to go. Raimi creates a "
+                          'claustrophobic feeling in anyone watching, he wants '
+                          'you to think about being in a situation where '
+                          "you're trapped with nothing but death and "
+                          'destruction surrounding you. For most people, he '
+                          'probably succeeds. As far as acting goes, none of '
+                          'it is really very good but Bruce Campbell is '
+                          'instantly likable as Ash, who just has to be one of '
+                          'the most memorable horror film characters of all '
+                          'time.\n'
                           '\n'
-                          'There are several reasons this film succeeds. '
-                          "First, Raimi's camera work is truly masterful. By "
-                          'using fast camera work and aggressive shots, Raimi '
-                          'has created an eerie world that is sometimes hard '
-                          'to look at but too entertaining to turn away from. '
-                          'His style from behind the camera is absolutely '
-                          'unmistakable. This is perfectly exemplified in the '
-                          'beginning of the film, where the camera alone '
-                          'creates enough atmosphere to leave you biting your '
-                          "nails in suspense of what's to come. You feel at "
-                          'any moment someone is going to get their neck '
-                          'chomped on by some zombie hiding just out of view. '
-                          'One of the most impressive openings I can think of, '
-                          'perfection in pacing and atmosphere. It gets even '
-                          'better once the action starts. Some shots hold for '
-                          'a seeming eternity, and part of you wishes for it '
-                          "to stop for it's unrestrained gore and "
-                          'violence...but the other part of you is getting a '
-                          'sick kick out of it. One of the most impressive '
-                          'shots is where the darkness from the trees begins '
-                          'to chase people, knocking any tree or obstacle down '
-                          "that happens to be in it's way. Truly magnificent "
-                          'technique, however they did it. \n'
+                          'Gory, desolate, hopeless, and still funny, "The '
+                          'Evil Dead" is a horror masterpiece that isn\'t '
+                          'quite the strongest entry in the series, but is '
+                          'shockingly accomplished and entertaining despite '
+                          'its low budget and inexperienced cast and crew. '
+                          'This is a film everyone must see, along with its '
+                          'sequels. \n'
                           '\n'
-                          "TED also succeeds because it's self-aware of the "
-                          "fact that it's a simple zombie movie and never "
-                          "takes itself too seriously, and doesn't expect the "
-                          "audience to do so either. It's meant to be campy, "
-                          'cheesy, revolting and chilling at the same time. '
-                          'There are moments in the film where it seems to be '
-                          'making fun of itself and the genre in general. For '
-                          'this fact alone, one cannot hold certain things '
-                          'against it such as sometimes questionable acting '
-                          'from the supporting cast and sometimes the '
-                          'downright implausibility of certain situations. If '
-                          "you can accept this and you're not put off by "
-                          'mannequin ultra-violence, then you should find '
-                          "yourself on the supporter's side of the fence. I "
-                          "think some don't like it because it can be "
-                          'ridiculous and cheesy in parts, although it was '
-                          "meant to be. Even with the fact that it's sometimes "
-                          'cheesy, there are some downright chilling moments '
-                          'in this film that most horror films nowadays cannot '
-                          'begin to muster. Case in point, the zombie '
-                          'screaming from the cellar door. The zombie growls '
-                          'and howls themselves are enough to send shivers up '
-                          "one's spine. And let's not forget the unforgettable "
-                          'tree love scene, ridiculous and hilarious '
-                          'simultaneously.\n'
-                          '\n'
-                          'Last but certainly not least: Bruce Campbell as '
-                          'Ash, the badass of all zombie films. Campbell is '
-                          'Ash, period, and always will be.\n'
-                          '\n'
-                          'In my opinion, this is by far the best of the '
-                          'trilogy, and although there could have been more of '
-                          'the chainsaw, this is the definitive zombie film '
-                          'and probably always will be. I feel it succeeds '
-                          "over it's sequels due to it's increased violence "
-                          "and lack of humor in comparison. It's blood, gore, "
-                          'camera work, and shock factor are still formidable '
-                          'even today and are what make this such a cult '
-                          "classic. If you've ever liked any horror film, this "
-                          'is an absolute must-see.\n'
-                          '\n'
-                          'Love or hate it, there it is.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
+                          '9/10'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Five friends travel to a cabin in the woods, '
                             'where they unknowingly release flesh-possessing '

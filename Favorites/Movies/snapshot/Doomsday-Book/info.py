@@ -43,35 +43,43 @@
  'keywords': 'robot,asteroid,artificial intelligence,end of the world,ceo',
  'name': 'In-lyu-myeol-mang-bo-go-seo',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'daxlks'},
-            'dateCreated': '2013-06-10',
+            'author': {'@type': 'Person', 'name': 'zetes'},
+            'dateCreated': '2013-10-06',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2297164/'},
-            'name': "One good film is able to make up for Doomsday Book's "
-                    'rather lackluster offerings',
-            'reviewBody': 'Doomsday Book is a collection of three 30-40 minute '
-                          'films which all have the theme of the end of the '
-                          'world through self destruction (though that can '
-                          'only really be said about the 1st film and the '
-                          "3rd). It's a good concept and has a lot of "
-                          "potential but it doesn't live up to it due to the "
-                          'drawbacks of the first two films. The first film is '
-                          'a truly unremarkable run-of-the-mill zombie-esque '
-                          'feature which is lackluster and while it does get '
-                          "amusing with some humor at the end, it's not a "
-                          'great start. The second film, at first, is the most '
-                          'intriguing and sparks interest to see where it goes '
-                          'but it soon becomes packed with sleep-inducing '
-                          'philosophical monologues that will make you wonder '
-                          'what relevance it had of being in this collection. '
-                          'However, despite the first two let-downs, the third '
-                          'and final film is where Doomsday book really '
-                          'delivers. The third film has a bizarre premise and '
-                          'is funny too but for me it was truly the only good '
-                          'film in the set and there there was no better place '
-                          'to have it as it felt like a reward for sitting '
-                          'through the first two.',
+            'name': 'All three segments are pretty weak',
+            'reviewBody': 'An anthology of apocalyptic sci-fi. Kind of. The '
+                          'film as a whole is infuriatingly confusing in its '
+                          'conception and execution. The first segment, '
+                          'directed by Pil-Sung Yim (of the Korean Hansel & '
+                          'Gretel movie), is the part that can be definitively '
+                          'labeled horror. Tainted beef turns people into '
+                          'zombies. The film has some decent comic moments, '
+                          "but it never really goes anywhere. Plus, I'm "
+                          'absolutely sick of zombies. The third segment, also '
+                          'directed by Yim, concerns a gigantic pool ball from '
+                          'space on a collision course with Earth. Turns out a '
+                          'young girl accidentally ordered an alien attack on '
+                          'the planet. This segment is so absolutely bizarre, '
+                          'I have no idea what they were going for. It is, at '
+                          'least, a bit amusing even if baffling. Bae Doon-Na '
+                          'appears at the very end of this segment, in the '
+                          'last ten minutes of the movie, and director Bong '
+                          'Joon-Ho also appears. The middle segment, directed '
+                          'by Kim Jee-Woon, cannot be considered horror at '
+                          'all. It concerns a robot which has achieved '
+                          'enlightenment and is considered by his fellow monks '
+                          'to be the reincarnation of Buddha. His makers are '
+                          'incensed at the idea, though, and wish to destroy '
+                          'him. This starts off as the most interesting '
+                          'segment, but as it goes on it gets lost in endless '
+                          'dialogue. Kim is a great action filmmaker and has '
+                          'no ability to make abstract concepts interesting. '
+                          "It's the most boring segment of the film, "
+                          'unfortunately. The one thing I can say for the film '
+                          'as a whole is that it always looks fantastic. Even '
+                          "when it's dull, which is often, it's always pretty.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '5',

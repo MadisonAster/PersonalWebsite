@@ -42,35 +42,32 @@
              'activity',
  'name': 'American Crime',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'avikar-a-r'},
-            'dateCreated': '2016-01-22',
+            'author': {'@type': 'Person', 'name': 'mg75535'},
+            'dateCreated': '2017-04-18',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3488298/'},
-            'name': 'Superbly well written and magnificently well acted, '
-                    'American Crime is truly one of a kind',
-            'reviewBody': 'This series is undoubtedly one of the best series '
-                          'we have right now.\n'
-                          '\n'
-                          "Season 1 wasn't everyone's cup of tea. But, it "
-                          "highlighted so much that I've never seen on "
-                          'television before and was arguably one of the best '
-                          'scripted and acted series of 2015.\n'
-                          '\n'
-                          'Season 2 is on a whole other level. Just a few '
-                          'episodes in and this series shows how all series '
-                          'should follow-up to previous acclaim. This season '
-                          'has one of the most original and intriguing plots '
-                          "I've seen in ages. I predict this season will also "
-                          'earn several Emmy nominations. \n'
-                          '\n'
-                          'What really stands out in this series other than '
-                          'its acting and script, is that it greatly focuses '
-                          'on race, gender and gender roles, sexuality, drugs, '
-                          'wealth, power and status.',
+            'name': 'The problem with American Crime is that I want answers',
+            'reviewBody': 'American Crime focuses on the people surrounding a '
+                          'criminal case and the difficulties that they go '
+                          'through rather than the actual crime or criminal '
+                          'investigation itself. While I understand the merits '
+                          "of this and appreciate it the point they're trying "
+                          'to make, the fact of the matter is that I want to '
+                          'know the outcome. I want to know what happened. The '
+                          'acting is great and the series is well written '
+                          '(probably too good for network television though) '
+                          "but it's a let down getting to the end of the "
+                          'season having no idea what actually happened. The '
+                          "series doesn't need to focus on the investigation "
+                          'or be a police procedural to give the viewer a but '
+                          'more payoff at the end. We can struggle with the '
+                          'families of crime victims and ultimately learn the '
+                          'truth/see how things turn out without losing the '
+                          'main message of the show.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'First look at Season 2 of American Crime on ABC.',

@@ -21,7 +21,7 @@
             'url': '/name/nm0164809/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 274148,
+                     'ratingCount': 274198,
                      'ratingValue': '7.0',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -59,61 +59,37 @@
              'biographical notes,reference to arizona',
  'name': 'Public Enemies',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Eschete'},
-            'dateCreated': '2009-07-03',
+            'author': {'@type': 'Person', 'name': 'hielele'},
+            'dateCreated': '2008-11-13',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1152836/'},
-            'name': 'Well-Made Cinematically, But Shallow',
-            'reviewBody': 'Who was John Dillinger? We all know he was a '
-                          'flamboyant criminal who robbed banks, but who WAS '
-                          'he? The question of who Dillinger WAS is far more '
-                          'interesting than the question of what Dillinger '
-                          'DID, but this film, sadly, chose only to '
-                          'concentrate seriously on the latter and gave up '
-                          'almost immediately on the former.\n'
+            'name': 'Previewed last night in Westlake, CA',
+            'reviewBody': 'Johnny Depp was brilliant as Dillinger. You could '
+                          'really tell he loved his line of work, but also '
+                          'struggled with not completely becoming a thug. It '
+                          'was so nice to see him play such a different role '
+                          'for a change. It was real acting, not is normal '
+                          "eccentric character roles (don't get me wrong I "
+                          'love those as well) Christian Bale was also '
+                          'fantastic; you can see his conflict he was having '
+                          'with the job he was tasked to do vs. his own '
+                          'convictions.\n'
                           '\n'
-                          'This film goes out of its way--with a poor grasp of '
-                          "history's time-line, by the way--to show us what "
-                          'Dillinger did and who he hung around with, but it '
-                          'does next to nothing to explore who Dillinger was '
-                          'as a person or even as a criminal. It hints that '
-                          'Dillinger might be a passionate lover and loyal '
-                          'friend, but shows us little evidence aside from a '
-                          'few thrown-together seduction scenes (which make '
-                          'his girlfriend/heroine look like a dim-witted '
-                          'pushover) and an awkward love scene.\n'
+                          'Marion Cotillard was stunning and Channing Tatum '
+                          'was such a psycho as Pretty Boy Floyd you hated him '
+                          'and loved him at the same time.\n'
                           '\n'
-                          "Even Dillinger's foil, Melvin Purvis, is a mystery "
-                          "in Mann's hands. Did he care about justice at all, "
-                          'or was he just a fascist on a personal crusade? Was '
-                          'he competent in the least or was he just a bumbling '
-                          'idiot? Squinty-eyed stares can only convey so much, '
-                          'after all.\n'
+                          'One of the highlights for me was the music. The old '
+                          'nostalgic feeling and the narrator on the radio was '
+                          'one of my favorite bits that was used through out '
+                          'the film.\n'
                           '\n'
-                          'Michael Mann seems to be in a terrible hurry to '
-                          'tell this story, as he is stuck between the rock of '
-                          'having to relate a relatively complete '
-                          '"crime-ography" of a notorious American gangster '
-                          'and the hard place of keeping the movie shorter '
-                          'than 2 1/2 hours.\n'
-                          '\n'
-                          'As a result, a beautifully shot and edited movie '
-                          'that had a lot of promise ends up little more than '
-                          "a dumb, shoot-'em-up action movie wearing the "
-                          'fedora of "historical romance." Good for a date, '
-                          'but not a serious film.\n'
-                          '\n'
-                          "Grade: C+. Things to look for: Mann's ham-handed "
-                          'and laughably obvious political commentary on the '
-                          'use of torture about 2/3 of the way through the '
-                          'movie; psychotically trigger-happy Baby Face Nelson '
-                          'well-played by Stephen Graham; cool old products '
-                          '(Zenth radio); great fashion sense.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '5',
-                             'worstRating': '1'}},
+                          'Over all the movie was excellent, my only issue is '
+                          'with the title. I think simply calling it Dillinger '
+                          'or Bye, Bye Black bird would be better. I think the '
+                          'title really takes away from the feeling of the '
+                          'movie.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'FBI agent Melvin Purvis (Bale) sets his sights on '
                             'American gangster John Dillinger (Depp) and '

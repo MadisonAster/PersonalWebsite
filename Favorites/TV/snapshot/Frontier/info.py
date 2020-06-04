@@ -17,7 +17,7 @@
            {'@type': 'Person', 'name': 'Greg Bryk', 'url': '/name/nm0117374/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 15468,
+                     'ratingCount': 15471,
                      'ratingValue': '7.2',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -39,28 +39,23 @@
  'keywords': 'canada,historical,first nations,red coat,biracial',
  'name': 'Frontier',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'NikkiFromSiberia'},
-            'dateCreated': '2019-03-01',
+            'author': {'@type': 'Person', 'name': 'bogus-bogus-one'},
+            'dateCreated': '2018-11-24',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4686698/'},
-            'name': 'Fairly entertaining show based in the canadian wilderness '
-                    "in the 1700's",
-            'reviewBody': 'I watch a lot of period/historical tv shows and '
-                          "this is one of the good ones. Now it's not perfect, "
-                          'the costumes are absolutely ridiculous and cheaply '
-                          'made, the dialogue can be anachronistic at times '
-                          'but i like the setting. The Hudson Bay is where the '
-                          'action takes place, far up in the Canadian north. '
-                          'The characters are quite well fleshed even though '
-                          "they can be a little too 'good guy' vr 'very bad "
-                          "guy'. But all in all i did enjoy it and if you're "
-                          "in the market for a historical tv show that's more "
-                          'focused on action than loads of dialogue than check '
-                          'this out.',
+            'name': 'S01 OK, S02 OK, S03 WTF?',
+            'reviewBody': 'Series started out OK & I had been looking forward '
+                          'to the 3rd season. However, I quickly lost interest '
+                          'after the first couple episodes. It was too '
+                          'disjointed for me. One messy, unbelievable '
+                          'situation after another was presented in an overly '
+                          'dramatic fashion. Too bad, there were some '
+                          'interesting bits and pieces but no overall '
+                          'coherence.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'While Harp pursues Lord Benton to rescue Grace, '

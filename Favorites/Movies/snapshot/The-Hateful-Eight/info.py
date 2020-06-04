@@ -21,7 +21,7 @@
             'url': '/name/nm0324658/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 490255,
+                     'ratingCount': 490315,
                      'ratingValue': '7.8',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -45,49 +45,33 @@
  'keywords': 'murder,bounty hunter,blizzard,blood vomiting,projectile vomiting',
  'name': 'The Hateful Eight',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Jerghal'},
-            'dateCreated': '2016-03-06',
+            'author': {'@type': 'Person', 'name': 'AvramSMH'},
+            'dateCreated': '2016-03-05',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3460252/'},
-            'name': "Don't believe the hype, it's okay but Tarantino can do "
-                    'better',
-            'reviewBody': "So I've finally seen this much talked about film "
-                          'and I have to say I was a bit disappointed. The H8 '
-                          'is a 168 min long movie which is described as a '
-                          'sort of mystery thriller and a lot a noise was made '
-                          '(mainly by Quentin himself) when the script leaked '
-                          'early and therefore would harm the box office '
-                          'chances of this flick. The movie did indeed not '
-                          'make big waves money wise but that was mainly '
-                          'because the overly long movie does actually not '
-                          'amount to much story wise. In other words there is '
-                          'no real clue. The dialogue, normally the '
-                          'strongpoint of Tarantino films, is actually not '
-                          'that great. Conversations are drawn out without the '
-                          'characters actually saying anything. It does help a '
-                          'lot that we do get a great cast (Kurt Russel, Sam L '
-                          'Jackson and Jennifer Jason Leigh) because without '
-                          'them the movie would fall apart rather quickly. The '
-                          'film was shot on 2,76:1 70mm widescreen because '
-                          "retro elitist Tarantino thinks digital isn't good "
-                          'enough and I do have to say the snowy landscape '
-                          'shots look awesome but they make up only 2% of the '
-                          'flick. The rest of it is in a cabin where standard '
-                          '35mm or even a digital camera could have perfectly '
-                          'captured the images. About the music I can be '
-                          "short: there is almost none. It' might have been "
-                          'composed by Moricone who unrightfully got an Oscar '
-                          'for it, but it does not add much here in this film. '
-                          "I'm glad I didn't see it on the big screen. It "
-                          'works just as well on the small screen, maybe even '
-                          'better coz you can pauze it to get more booze and a '
-                          'snack. So despite my rather harsh comments I would '
-                          'recommend it but know that this is far from '
-                          "Tarantino's best work.",
+            'name': '8/10',
+            'reviewBody': "Even tho i was expecting more action, I've found "
+                          'myself at the edge of my seat at times. The '
+                          'characters were nicely developed. The dialogue was '
+                          'as expected from a Tarantino movie. The story is 3 '
+                          'hours long, it takes place mostly in a one single '
+                          "room and it's still not boring. That's something "
+                          "not everyone can do. All of the actors we're "
+                          'perfect for their roles and the acting was great as '
+                          'well as the character design, all of the characters '
+                          'were memorable and well written. The movie is '
+                          'divided into chapters in most of which a small '
+                          'twist takes place that makes you more interested in '
+                          'the movie. I enjoyed the film but my biggest flaws '
+                          'were the length and the spontaneous introduction of '
+                          "a narrator mid- movie, that was a pretty 'out of "
+                          "nowhere' lazy way to develop the back story, but oh "
+                          'well, Tarantino is known for making risks and doing '
+                          'crazy sh*t',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'In post-Civil War Wyoming, bounty hunters try to '

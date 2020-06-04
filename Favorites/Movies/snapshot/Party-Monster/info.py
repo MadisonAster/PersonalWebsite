@@ -19,7 +19,7 @@
             'url': '/name/nm0769311/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 14663,
+                     'ratingCount': 14664,
                      'ratingValue': '6.3',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -55,35 +55,56 @@
  'keywords': 'gay,homosexual,ketamine,true crime,bare chested male',
  'name': 'Party Monster',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'okami_ito'},
-            'dateCreated': '2005-10-09',
+            'author': {'@type': 'Person', 'name': 'colettesplace'},
+            'dateCreated': '2005-01-02',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0320244/'},
-            'name': 'A well informed movie about drug abuse.',
-            'reviewBody': 'I often wondered why U.S. American movies involving '
-                          'young people who are into drugs are either pathetic '
-                          '(f.e. Drugstore Cowboy) or even downright '
-                          'ridiculous in their conservative portrayal of the '
-                          'dangers of drug use (f.e. Traffic, The Movie). '
-                          "Party Monster is very different. It's easy to see "
-                          'that the people who made this movie really informed '
-                          'themselves about what they tried to show. By doing '
-                          'this they achieved one of the best movies about '
-                          "adolescence i've seen in a long time. It's has a "
-                          'very sad and tender tone and though some scenes '
-                          'seem a little bit too stagy, the performances of '
-                          "the two leading actors are pure magic. It's pure "
-                          'joy just to watch them and as you got to see a lot '
-                          'of them there is plenty of fun. Nevertheless the '
-                          'movie leaves you with a very intense and ambivalent '
-                          "feeling towards it's characters who were indeed "
-                          'something very special. I even dreamed about this '
-                          'picture after seeing it! Thanks for the strange '
-                          'dream!',
+            'name': "So bad, it's good - a guilty pleasure, if not quite as "
+                    'hedonistic as the lives of the club kids themselves',
+            'reviewBody': 'Party Monster is based on the true story of 80s '
+                          'club kid and promoter, Michael Alig, infamous for '
+                          'his bizarre New York parties and, later, for the '
+                          'brutal murder of a drug dealer.\n'
+                          '\n'
+                          "It's adapted from Alig's friend James St James' "
+                          'book Disco Bloodbath by filmmakers Fenton Bailey '
+                          'and Randy Barbato, whose earlier documentary about '
+                          'Alig actually inspired St James to write the book. '
+                          'After a nine-year absence, Macauley Culkin returns '
+                          'to film as cherubic bisexual Alig, who persuades '
+                          'James St James (a camp Seth Green) to teach him the '
+                          'art of infamy.\n'
+                          '\n'
+                          'Famous for doing nothing long before reality TV, '
+                          'Alig becomes a manufacturer of celebrity and a '
+                          'promoter, serving up some wild parties, including a '
+                          'Halloween bloodbath, truck rave and kinky hospital '
+                          'party. The costumes, by Richie Rich and Michael '
+                          'Wilkinson, are spectacular and capture the excesses '
+                          'of the era. These kids affix fake spiders and '
+                          'cobwebs to their faces, wrap themselves in '
+                          'blood-soaked bandages,wear full body costumes and '
+                          'never look less than fabulous.\n'
+                          '\n'
+                          'Considering the low budget and appalling production '
+                          'values, the high profile supporting cast is a '
+                          'surprise. Dylan McDermot plays Galien, club owner '
+                          "and Alig's mentor, with Mia Kirshner as his wife, "
+                          "Chloe Sevigny as Alig's girlfriend, plus Natasha "
+                          'Lyonne, Marilyn Manson and John Stamos. Wilson Cruz '
+                          'is enigmatic as wannabe and drug dealer Angel, and '
+                          "Wilmer Valderra is suitably objectified as Alig's "
+                          'beloved beefcake, DJ Keoki.\n'
+                          '\n'
+                          'Party Monster suffers from uneven performances and '
+                          "poor direction but despite this, it's fascinating. "
+                          'It captures the disposability of party drug culture '
+                          'convincingly and will most likely become a cult '
+                          'classic. ***/***** stars.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for Party Monster',

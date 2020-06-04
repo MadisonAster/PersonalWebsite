@@ -19,7 +19,7 @@
            {'@type': 'Person', 'name': 'Sam Adams', 'url': '/name/nm4291018/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 17533,
+                     'ratingCount': 17534,
                      'ratingValue': '7.8',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -43,63 +43,32 @@
              'eyeglasses',
  'name': 'Portlandia',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'dunks58'},
-            'dateCreated': '2012-09-09',
+            'author': {'@type': 'Person', 'name': 'meganddavies'},
+            'dateCreated': '2015-03-05',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1780441/'},
-            'name': '"Just one more episode ..."',
-            'reviewBody': 'If you like sketch comedy but have not yet '
-                          'discovered this series, take my advice - see this '
-                          "show. 'Portlandia' is, for me at least, the best "
-                          "American sketch comedy series I've seen since "
-                          "'Upright Citizens Brigade'.\n"
-                          '\n'
-                          "I don't know how accurately it depicts Portland and "
-                          'its denizens, but I do know that (A) it really '
-                          'makes me want to visit there and (B) it really, '
-                          'really makes me laugh.\n'
-                          '\n'
-                          'Carrie Brownstein is new to me as comedian, though '
-                          'I of course know her musical work with indie '
-                          'darlings Sleater-Kinney. The brilliantly versatile '
-                          'Fred Armisen has deservedly earned a big fan base '
-                          '(including my family) through his work on SNL. Yet, '
-                          'who could have predicted that this combination of '
-                          'talent, in such an off-the-wall concept, could work '
-                          'so well? It really does, and I want to congratulate '
-                          'all associated with the series, notably the '
-                          'legendary Lorne Michaels for once again nurturing '
-                          'talents like Fred and Carrie and giving them the '
-                          'chance to do a great show like this.\n'
-                          '\n'
-                          'Once you get the style and shape of the show, '
-                          "you'll be hooked. The sketches are, for the most "
-                          'part, really good and some (e.g. Chicken Farm, One '
-                          'More Episode of Galactica) are destined to become '
-                          'enduring classics.\n'
-                          '\n'
-                          'The stars (in their multiple roles) are ably '
-                          'assisted by a fine cast of supporting performers '
-                          'and a BIG highlight of the series is the many '
-                          'surprising and hilarious cameo appearances, '
-                          'including people like Edward James Olmos, Aimee '
-                          'Mann and Greg Louganis (playing themselves) and of '
-                          'course the wonderful Kyle McLachlan as the Mayor. '
-                          'These bits work not only because of who the stars '
-                          'are, but also because in just about every case they '
-                          'are perfect for and in the sketch (c.f. Eddie '
-                          'Vedder\'s great cameo in the "boyfriend\'s tattoo" '
-                          'sketch).\n'
-                          '\n'
-                          'Thanks Fred and Carrie and all the cast and crew - '
-                          "it's been a real delight to discover such a clever, "
-                          'quirky, inventive comedy series that consistently '
-                          'takes unexpected turns, gives a lot of laughs, and '
-                          'leaves you wanting more every time.',
+            'name': 'Very Enjoyable !',
+            'reviewBody': 'After stumbling across this on Netflix I thought '
+                          "I'd give it a go, and I am very happy I did ! "
+                          'Armisen and Brownstein are a perfect duo who work '
+                          'well together and always manage to disappear fully '
+                          'into their characters. Whilst its not always laugh '
+                          "out loud funny (although I'm not sure that's "
+                          "exactly what they're aiming for anyway) I do always "
+                          'get a good giggle out of it. The show creates a '
+                          'wonderfully of-kilter world that is fun to dive in '
+                          'to for 20 minutes at a time, and immerse yourself '
+                          "in the little bubble that is Portlandia ! There's "
+                          'also some great cameos from stars such as Jeff '
+                          'Goldblum, Kristen Wiig and Bill Hader who always '
+                          'provide excellent comic relief, however Armisen and '
+                          'Brownstein do such a great job of pulling the show '
+                          "off on their own it's worth watching just to see "
+                          'them work together.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Watch the trailer for the fifth season of '

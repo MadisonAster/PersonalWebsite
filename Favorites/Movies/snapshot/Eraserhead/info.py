@@ -19,7 +19,7 @@
             'url': '/name/nm0060931/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 97523,
+                     'ratingCount': 97534,
                      'ratingValue': '7.4',
                      'worstRating': '1.0'},
  'contentRating': 'Not Rated',
@@ -42,22 +42,28 @@
  'keywords': 'surrealism,nightmare,psychosis,factory,deformed baby',
  'name': 'Eraserhead',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'hursto'},
-            'dateCreated': '1999-05-06',
+            'author': {'@type': 'Person', 'name': 'Exy'},
+            'dateCreated': '1998-08-14',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0074486/'},
-            'name': 'how weird can you get?',
-            'reviewBody': 'I needed to read all the other reviews here before '
-                          "I was game to make a comment. I'm a great fan of "
-                          "Lynch's Wild at Heart having seen it four times, "
-                          'and recently loved Lost Highway. But this one left '
-                          "me baffled. I'd heard of it for years, but can make "
-                          "little sense of it. It certainly didn't bore me, in "
-                          'fact I was fascinated to see where the plot led. '
-                          'Tried to analyse it in terms of symbolism, but '
-                          "decided that if I have to do that the film isn't "
-                          'really speaking to me. The dark broodiness is '
-                          "impressive, the squishiness repulsive, and Henry's "
-                          'hairdo is unforgettable!'},
+            'name': "An invitation to David Lynch's World...",
+            'reviewBody': "As an admirer of David Lynch's work I think that "
+                          'Eraserhead is the most fitting introduction to this '
+                          "man's World as you are likely to get.\n"
+                          '\n'
+                          'It was on the strength of this film that Mel Brooks '
+                          'chose David to direct Elephant Man. Having said '
+                          "that can't you see the similarities in style and "
+                          'content? \n'
+                          '\n'
+                          'Saying Lynch is weird is like saying the Beatles '
+                          "wrote good pop music. Lynch's weirdness can effect "
+                          'one on a very profound, almost spiritual level, eg '
+                          'Blue Velvet, Twin Peaks.\n'
+                          '\n'
+                          "Eraserhead is a hard film to enjoy but it's well "
+                          "worth the effort, if only for Jack Nance's superb "
+                          'visual performance, and a deeper appreciation of '
+                          "Lynch's mis-en-scene."},
  'url': '/title/tt0074486/'}

@@ -26,35 +26,37 @@
  'keywords': 'rat,snack,camera,barcode,injection',
  'name': 'One Rat Short',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ccthemovieman-1'},
-            'dateCreated': '2007-07-26',
+            'author': {'@type': 'Person', 'name': 'valerie_lp'},
+            'dateCreated': '2007-05-13',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0818125/'},
-            'name': 'Ah, Rats!',
-            'reviewBody': 'Really, I am not dismissing or disrespecting this '
-                          'animated short. It is interestingly drawn and he '
-                          'story sucks you in and keeps you, but it is not '
-                          'appealing enough that I would want to watch it a '
-                          'second time.\n'
-                          '\n'
-                          'The best thing I can say about this is that it held '
-                          "my attention all the way. The story isn't funny, "
-                          "isn't profound although it perhaps thinks it might "
-                          "be. It isn't as sad or romantic as some infer, "
-                          "either. I'm sorry, but I can't get choked up on a "
-                          'couple or rats who just met each other in a '
-                          'laboratory and are instantly in love, and then '
-                          'taken away.\n'
-                          '\n'
-                          'This is another odd animated film, a serious tale '
-                          'about a rat who follows an empty bag of some snack, '
-                          "like a Cheeto's, that would have a scent that would "
-                          "attract a rodent. We follow the rat's interesting "
-                          'journey - which it is - as he follows the scent and '
-                          'discovers some strange sights.',
+            'name': 'Beautiful and haunting',
+            'reviewBody': "I'm not an animation junkie, and spent this weekend "
+                          "in the theatre watching last year's Oscar shorts "
+                          '(live-action and animated) because it was free and '
+                          "I was bored. I believe ORS didn't even make it to "
+                          'the Oscars, though it was shortlisted. But it was, '
+                          'to me anyway, clearly the best thing in the '
+                          'animation category, and possibly of them all. It '
+                          'looks great--not too derivative, not too abstract '
+                          'or "cartoony," and definitely NOT like CGI. The '
+                          'surfaces are so real (fur, metal, glass) you feel '
+                          'like you can touch them, the contrasts between dark '
+                          'and light are expertly used, and the scene where '
+                          'the Cheeto is crushed in slow motion is simply '
+                          'beautiful. The music was perfectly suited to the '
+                          'action, almost another character in itself. And on '
+                          'top of it all, it has fast-paced suspense and a '
+                          'touching love story, with the right ending for a '
+                          'change (something far too many films featuring '
+                          'humans fail at). This film has stayed with me long '
+                          'after many of the others I saw that night have '
+                          "faded. I'm sure sure I'll buy it off iTunes...but I "
+                          'have to wait a bit, since it affected me so much '
+                          "I'm not sure I'm ready to watch it again yet!",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '5',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'url': '/title/tt0818125/'}

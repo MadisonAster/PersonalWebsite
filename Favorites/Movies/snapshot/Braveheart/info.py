@@ -19,7 +19,7 @@
             'url': '/name/nm0005171/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 933487,
+                     'ratingCount': 933553,
                      'ratingValue': '8.3',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -44,34 +44,33 @@
  'keywords': 'scotland,revolt,england,legend,idealism',
  'name': 'Braveheart',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'barquing'},
-            'dateCreated': '1999-05-19',
+            'author': {'@type': 'Person', 'name': 'raidbers'},
+            'dateCreated': '2005-09-02',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0112573/'},
-            'name': 'Scots Missed',
-            'reviewBody': 'Someone really missed out on a good story here. The '
-                          'William Wallace story is exceptional so why do '
-                          'Hollywood have to "improve" it and turn it into a '
-                          'second-rate, overlong mess of a film? How can you '
-                          'have the Battle of Stirling Bridge _without_ the '
-                          'bridge? Producers have claimed that the bridge "got '
-                          'in the way". Funny, the English army discovered '
-                          'that too. And why demean the hero by having him up '
-                          'against such a pantomime villain - sure Edward was '
-                          'a twisted b*****d, but the filmmakers might as well '
-                          'have given him a sidekick called Igor and have him '
-                          'cackle at choice moments throughout the film, he '
-                          'was that unsubtle. Most importantly, however, it '
-                          'seems a real shame that it should be this film that '
-                          'should have captured the hearts of the Scottish '
-                          'nation, they deserve so much better. Would you '
-                          'believe there is now a hideous statue of Mel Gibson '
-                          'at the foot of the Wallace Memorial in Stirling? '
-                          'Would you believe people are leaving flowers '
-                          'beneath it? This film is a travesty of both a good '
-                          'story and history itself. Scotland deserves so much '
-                          'better.'},
+            'name': 'Man vs King',
+            'reviewBody': 'This has to be one of the best movies I have ever '
+                          'seen. I recently purchased it and have watched it '
+                          'at least five times since then, and each time i '
+                          'pick up on things I did not see the other times. '
+                          'The fight scenes are great, the plot is both '
+                          'interesting and thought provoking, there is romance '
+                          'and comedy. This is a movie that any person can '
+                          'appreciate at some level. \n'
+                          '\n'
+                          'True, the historical content may have been '
+                          'distorted, but even though, this movie is meant for '
+                          'entertainment. It is not a history lesson caught on '
+                          'video.\n'
+                          '\n'
+                          'The acting is absolutely superb, this movie is '
+                          'guaranteed to have you on the edge of your seat for '
+                          'the entire three hours.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '10',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi2874063641',
              'name': 'Official Trailer',

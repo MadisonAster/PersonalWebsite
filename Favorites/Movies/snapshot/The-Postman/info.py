@@ -21,7 +21,7 @@
             'url': '/name/nm0931404/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 67098,
+                     'ratingCount': 67103,
                      'ratingValue': '6.1',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -51,39 +51,66 @@
              'name as title',
  'name': 'The Postman',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'professor_asphincter'},
-            'dateCreated': '2003-02-17',
+            'author': {'@type': 'Person', 'name': 'A-Ron-2'},
+            'dateCreated': '2000-02-19',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0119925/'},
-            'name': 'Very unfairly treated movie',
-            'reviewBody': 'I know a lot of people hated this movie. I know '
-                          'why. It is a little saccharine in places and yes, '
-                          'it is not always believeable. But this is one of '
-                          'the few time a screenplay is better than the book '
-                          'it was based on. This film always fills me with '
-                          'such positive energy and hope. it is funny in '
-                          'places, sad in places, tragic and action-packed in '
-                          'places. Costner plays Eric with such a fresh '
-                          'attitude, and you can almost hear the voices in the '
-                          'characters head pulling his loyalties. The cast is '
-                          'perfect and in many places the cinamatography is '
-                          'sublime. The cross cuts are so clever it made my '
-                          'eyes ache with envy that i didnt think of them and '
-                          'the action sequences are fast and timed to '
-                          'perfection. this remains one of my favourite films '
-                          'and in all honesty people should give it a little '
-                          'more respect. no matter what you think of the '
-                          'script and characterisation technicly this film is '
-                          'top draw. Sets, locations, effects and design grab '
-                          'you by the hand and take you someplace you actually '
-                          'want to go. i would much rather make and see films '
-                          "like this than dross like 'chaicago' and 'moulin "
-                          "rouge'. this is a film for grownups with a bit of "
-                          'imagination and respect for the film makers art.',
+            'name': 'Well... I am glad to see that I am not the only person '
+                    'who liked this film',
+            'reviewBody': 'I truly do NOT understand why The Postman was '
+                          'attacked as viscously as it was by the film media '
+                          '(there films much more worthy of the Golden '
+                          'Raspberry Awards in 1997).  I loved this film and '
+                          'was very impressed with the loving amount of '
+                          'dedication that it demonstrates on the part of the '
+                          'actors, writers and director.  This was a GOOD '
+                          'movie: it had a strong and intelligent story; '
+                          'excellent and interesting characters; and real feel '
+                          'for the post-Apocalypse genre.  I felt that Kevin '
+                          "Costner's everyman act worked beautifully in this "
+                          'film and created a sense of reality for the '
+                          'character and of his situation. \n'
+                          '\n'
+                          ' As far as the sci-fi novel by David Brin, this '
+                          'film exceeded it in every way possible.  Where Brin '
+                          'had to rely on cheezy sci-fi standards (like '
+                          'supersoldiers) to resolve his story, this film does '
+                          'using only two men, both frauds, and both with '
+                          'radically different understandings of what '
+                          'constitutes a proper society.  That is what made '
+                          'this film great (and I rarely use the term great), '
+                          'that this film was essentially an examination of '
+                          'America and what America means.  It was a parable '
+                          'of sorts about the types of men Americans are and '
+                          'what they are capable of (notice that the head '
+                          'bad-guy had a traditional, classical education, '
+                          'while Costner did not; he appreciated these things '
+                          'but they were not at the center of his belief '
+                          'system... I wonder why).  \n'
+                          '\n'
+                          'While I do not agree with every aspect of this film '
+                          "(I am a Medievalist and a Platonist, so I don't "
+                          'necessarily feel the same way about the Western '
+                          'Canon that the film-maker may have), I still find '
+                          'it to be a beautiful reflection on the psyche of '
+                          'the American everyman.  America has a tradition of '
+                          'rejecting the absolutist ideals of the past in '
+                          'favor of the pragmatic relativism of today, and I '
+                          'think that this film is a parable of the divorce of '
+                          'America from the traditions of Europe.  \n'
+                          '\n'
+                          'Overall, this is a complex and entertaining film '
+                          'and I highly recommend it to anyone interested in '
+                          'examinations of American culture and tradition, '
+                          'perhaps as a double feature with Citizen Cane (I am '
+                          'not, however, claiming that the Postman was as good '
+                          'a film as Citizen Cane, only that they have a '
+                          'similar theme... what does it mean to be an '
+                          'American?).',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Miramax',

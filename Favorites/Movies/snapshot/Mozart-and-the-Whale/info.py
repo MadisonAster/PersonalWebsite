@@ -48,63 +48,40 @@
              'party,love',
  'name': 'Mozart and the Whale',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ellyt'},
-            'dateCreated': '2006-12-17',
+            'author': {'@type': 'Person', 'name': 'wholphin48'},
+            'dateCreated': '2005-12-30',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0392465/'},
-            'name': 'Mozart and the Whale is Excellent',
-            'reviewBody': 'We waited in anticipation for the release of Mozart '
-                          'and the Whale for 2 years. We kept writing the '
-                          'company and asking when it would be released. We '
-                          'met Jerry Newport at ASA 2 years ago (my son, Josh, '
-                          "aged 11 has Asperger's Syndrome) and wanted so much "
-                          'to see the story of him and Mary. As an aside, I '
-                          'wish you could have heard the conversation between '
-                          'Jerry and Michael John Carley on the various '
-                          'Beethoven movements...it was the most amazing '
-                          'impromptu music theory talk I have ever heard.\n'
+            'name': 'Very good job on capturing spirit of inspiring real '
+                    'aspies....',
+            'reviewBody': 'My opinion is obviously prejudiced as I am "the '
+                          'whale" in the title of this movie. My wife is '
+                          '"Mozart." I appreciate the time the cast and other '
+                          'principals spent with real aspergers and autism '
+                          'adults. It paid off. Both Josh Hartnett and Radha '
+                          'Mitchell did a terrific job of capturing the spirit '
+                          'of myself and my wife when we met.\n'
                           '\n'
-                          'At any rate, Mozart and the Whale was in limited '
-                          'release and so we waited for the DVD to be out. '
-                          'Finally it is!! And we watched it last night. We '
-                          'were not disappointed. It was wonderful. There was '
-                          'so much truth in it. We saw the range of autism in '
-                          'the group that Donald formed. Then there was the '
-                          'quirkiness of the various people. But it showed the '
-                          'love and caring that can form among any person, no '
-                          "matter what the diagnosis. We loved Izzy's "
-                          "laugh...that HA! We know kids with Asperger's who "
-                          "can't modulate their sounds and sound way loud in "
-                          'their approach to life.\n'
+                          'Rahda looks much more like Mary did when we met. I '
+                          'was never as tall as Josh but was much slimmer at '
+                          'his age. There are all kinds of whales and while '
+                          'Josh is a nice, sleek Blue Whale by comparison, I '
+                          'have become an Orca in my middle age.\n'
                           '\n'
-                          'I also loved the sequences about his living style. '
-                          'This is so much like my son....the stacks of '
-                          'stuff...the collections....the freaking out when '
-                          'his stuff is moved around....this is all real '
-                          'folks. And it is portrayed with a sensitivity and '
-                          "humor that can't help but to make you smile and/or "
-                          'laugh....not at Donald and Izzy, but with the '
-                          'cherishing of the moments that parents feel when '
-                          'they experience the familiarity of the moments.\n'
+                          'I have high hopes that an eventual theater release '
+                          'will enable this film to do a great service to my '
+                          'community and to anyone who feels different and '
+                          'wants a soulmate!\n'
                           '\n'
-                          'But to me, the big question was what would Josh (my '
-                          "son) think of how Asperger's was depicted. Now, "
-                          'remember, he met Jerry and really thinks he is '
-                          'COOL. Josh said "see mom, that means that I can '
-                          "meet someone and get married too, so don't worry "
-                          'anymore". This movie gives me hope that a life of '
-                          'independence and companionship is possible for '
-                          'Josh.\n'
+                          'In order to not unduly influence the tally, I gave '
+                          'it a seven which is the current average rating '
+                          'although I think it merits a higher number.\n'
                           '\n'
-                          'Yes, we adore Jerry Newport. He knows a lot...he '
-                          'shares some of it with us in this film. Do yourself '
-                          "a favor...get this DVD and let's hope that Sundance "
-                          'will show the world that Mozart and the Whale is a '
-                          'film that needs to be shown.',
+                          '"The Whale" fka Jerry Newport',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Sony Pictures Home '

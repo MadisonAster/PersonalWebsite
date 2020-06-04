@@ -19,7 +19,7 @@
            {'@type': 'Person', 'name': 'Brad Pitt', 'url': '/name/nm0000093/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 616070,
+                     'ratingCount': 616142,
                      'ratingValue': '8.1',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -50,87 +50,140 @@
  'keywords': 'torture,kidnapping,racism,whipping,slavery',
  'name': '12 Years a Slave',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ferguson-6'},
-            'dateCreated': '2013-10-27',
+            'author': {'@type': 'Person', 'name': 'BackFire83'},
+            'dateCreated': '2013-10-25',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2024544/'},
-            'name': 'Live, not just Survive',
-            'reviewBody': 'Greetings again from the darkness. Should this be '
-                          "labeled a historical drama? Is it one man's "
-                          'extraordinary tale of strength and survival? Does '
-                          'this fall into the "art film" category that so '
-                          'divides the movie-going public? The answer to all '
-                          "is YES, and I would add that it's a masterfully "
-                          'crafted film with exquisite story telling, stunning '
-                          'photography and top notch acting throughout.\n'
+            'name': 'Slavery is an evil that should befall none',
+            'reviewBody': '12 Years a Slave tells the true story of Solomon '
+                          'Northup, an educated and free black man living in '
+                          "New York during the 1840's who gets abducted, "
+                          'shipped to the south, and sold into slavery. It is '
+                          'a film that stimulates at both an emotional level '
+                          'and an intellectual one. \n'
                           '\n'
-                          'The movie is based on the real life and writings of '
-                          'Solomon Northrup, a free man who was kidnapped and '
-                          "sold into slavery from 1841-53. Northrup's story "
-                          'provides us a look inside the despicable '
-                          "institution of slavery. Needless to say, it's a "
-                          'painful and sad process made even more emotional by '
-                          'the work of director Steve McQueen (Hunger, Shame). '
-                          'McQueen takes a very direct approach. Not much is '
-                          'left to the imagination. Torture, abuse, cruelty '
-                          'and misery take up the full screen. The only '
-                          'subtlety comes from the terrific work of Chiwetel '
-                          'Ejiofor as Northrup. His facial expressions and '
-                          'eyes are more powerful and telling than any lines '
-                          'of dialogue could be.\n'
+                          "Chiwetel Ejiofor plays Solomon Northup. He's been a "
+                          '"that guy" actor for sometime – film-goers may know '
+                          'his face but not his name. After this film his name '
+                          'will be known. He gives, quite simply, the best '
+                          'performance from a leading actor since Daniel Day '
+                          'Lewis in There Will Be Blood. Because of his '
+                          "character's position as a slave he is usually "
+                          'unable to speak his mind unless he is prepared to '
+                          'be beaten. As a result Ejiofor is forced to utilize '
+                          'body language and his eyes, which become enormous '
+                          'pools of emotion to express himself to the '
+                          "audience. He's forced to endure terrible things, "
+                          'but he always maintains a certain dignity and '
+                          'nobility that makes his plight even more affecting. '
+                          "It's a performance of incredible subtlety that may "
+                          'leave you speechless and in complete awe.\n'
                           '\n'
-                          'You will not find many details from the movie here. '
-                          'This is one to experience for yourself. It lacks '
-                          'the typical Hollywood agenda when it comes to '
-                          'American history. Instead this era is presented '
-                          'through the eyes of a single wronged man and his '
-                          'quest to return to his wife and kids, no matter the '
-                          'inhumane obstacles. We see Paul Giamatti as an '
-                          'emotionless, all-business slave trader. Benedict '
-                          'Cumberbatch is a plantation owner who has a heart, '
-                          'but lacks business savvy. And finally we enter the '
-                          'world of cotton farmer Michael Fassbender, who '
-                          'twists Bible scripture into threats directed at the '
-                          'slaves - his "property".\n'
+                          'Micheal Fassbender gives the best performance of '
+                          'his already extremely impressive career, even '
+                          'besting his previous high marks from the films '
+                          'Shame and Hunger (both directed by Steve McQueen, '
+                          'who also directed 12 Years a Slave). He plays '
+                          'Edwynn Epps, a vicious and demonic slaver and '
+                          'perhaps the most loathsome and disgusting character '
+                          "ever put on screen. If alive today, he'd likely be "
+                          'a drunk with severe anger management issues. By '
+                          'turns pathetic and terrifying, he embodies the '
+                          'ultimate nightmare of a deeply flawed man given '
+                          'absolute power over other human beings, and through '
+                          'that absolute power finds only madness, which '
+                          "drives him to deeper cruelty. He's always a "
+                          'menacing and malignant presence even when not on '
+                          'screen, as his slaves must always be aware and '
+                          'prepared for his seemingly random bouts of '
+                          'sadism. \n'
                           '\n'
-                          'Fassbender dives deep into evil to find his '
-                          'character, and along with Ejiofor, Sarah Paulsen '
-                          "(who plays Fassbender's icy wife), and Lupita "
-                          "Nyong'o (who plays slave Patsey, the center of the "
-                          'two most incredible scenes in the film), provide '
-                          'more Oscar worthy performances than any one movie '
-                          'can expect. You will also note Quvenzhane Wallis '
-                          "(as Northrup's daughter) and Dwight Henry (as a "
-                          'slave) in their first appearances since Beasts of '
-                          'the Southern Wild. Other strong support comes from '
-                          'Scoot McNairy, Taran Killam (SNL), Michael K '
-                          'Williams, Alfre Woodward, a nasty Paul Dano, Garret '
-                          'Dillahunt and Adepero Oduye.\n'
+                          'Other actors give excellent performances as well. '
+                          'Paul Giamatti, Paul Dano, Benedict Cumberbatch, '
+                          'Sarah Paulson, Alfre Woodard are all great in '
+                          'relatively small roles. But in this film of titans '
+                          "it's the one you've probably never heard of who "
+                          'perhaps stands above them all. In her first role in '
+                          "a feature film, Lupita Nyong'o, playing the pretty "
+                          'young slave Patsey - the object of Edwynn Epps '
+                          'demented and horrifying affections and the '
+                          'emotional epicenter of the entire picture, gives '
+                          'one of the most devastating performances I have '
+                          'ever seen. A portrait of unbearable sadness, her '
+                          'character is a mirror image of Solomon. While '
+                          'Solomon is a man who refuses to break and give up '
+                          "the dignity which he's known since birth, she is "
+                          'one who has long since been broken, and who never '
+                          'knew dignity in the first place. Her life is a '
+                          'living hell, forced to endure the "love" of Edwyn '
+                          "Epps and the brutal jealousy of his wife, she's "
+                          "trapped in a terrible triangle that she can't "
+                          'escape. Despite that, she retains a level of '
+                          'innocence that only heightens the tragedy of her '
+                          'character. It actually gets to the point where '
+                          'simply looking at this character might be enough to '
+                          "bring you to tears. It's a shattering performance.\n"
                           '\n'
-                          'Steven Spielberg gave us a taste of the holocaust '
-                          "with Schindler's List, but not since the TV "
-                          'mini-series "Roots" has any project come so close '
-                          "to examining the realities of slavery. Northrup's "
-                          'story seems to be from a different universe than '
-                          'the charming slaves of Gone with the Wind. I would '
-                          'argue that what makes this watchable (though very '
-                          "difficult) is the focus on Northrup's story. While "
-                          'tragic, his ending actually deflects from the '
-                          "ongoing plight of those not so fortunate. It's a "
-                          "story of a man who states he doesn't wish to merely "
-                          'survive, he wants to live a life worth living.\n'
+                          'Starting his career as a video artist before making '
+                          'full length films, Steve McQueen has an uncanny eye '
+                          "for imagery and contrast. He's also a very patient "
+                          'film maker, utilizing long, steady single shots to '
+                          'emphasize various things. In his prior films this '
+                          "has felt like a purely stylistic choice, here, it's "
+                          'a choice aimed directly at our heart. When the '
+                          'events on screen become their most horrifying and '
+                          'ugly is when his camera becomes the most '
+                          "unflinching. At times feeling perhaps like we're "
+                          'seeing out of the solemn eyes of the ghost of some '
+                          'murdered slave, watching in sorrow and rage. This '
+                          "is both McQueen's most accessible and artistically "
+                          'searing film yet. \n'
                           '\n'
-                          "McQueen's direction will certainly be front and "
-                          'center come awards season, as will many of the '
-                          'actors, John Ridley (the screenwriter), Sean '
-                          'Bobbitt (cinematographer) and Hans Zimmer (score). '
-                          'The only question is whether the subject matter is '
-                          'too tough for Oscar voters, who traditionally lean '
-                          'towards projects a bit more mainstream.',
+                          'There are also moments of stunning natural beauty '
+                          'that would make Terrence Malick proud. Alone, these '
+                          'shots would inspire wonder, but in the context of '
+                          'this film they make us feel more forlorn, as if the '
+                          'ugliness of man is encroaching on the natural '
+                          'beauty of the world.\n'
+                          '\n'
+                          'Perhaps the most noteworthy thing about 12 Years a '
+                          'Slave is the way that it portrays slavery itself. '
+                          'Instead of taking the easy way out and limiting his '
+                          'exploration of the topic solely to the slaves, '
+                          'Steve McQueen increases the scope and we see how it '
+                          'affects those who profited by it. Take Benedict '
+                          "Cumberbatch's character. A seemingly decent and "
+                          'caring man who treats his slaves with some '
+                          'semblance of respect and kindness. He comes off as '
+                          'a relatively good man who is trapped within the '
+                          'powerful confines of the institution of slavery. In '
+                          '12 Years a Slave, slavery is shown as a horrifying '
+                          'and destructive social construct that drains the '
+                          'humanity from everyone it touches, turning good men '
+                          'into moral quandaries, turning flawed men into '
+                          'monsters, and turning an entire race of people into '
+                          'livestock and tools. \n'
+                          '\n'
+                          'To watch 12 Years a Slave is to be confronted with '
+                          "the grim reality of slavery in a way that's never "
+                          'been done before. To say this is the best film ever '
+                          'made about slavery feels trivial, as slavery is a '
+                          'subject in film that has been shown with naive '
+                          'romanticism from films like Gone With the Wind or '
+                          'silly exploitation from something like Django '
+                          'Unchained. Both of which serve to make the topic '
+                          'digestible. To watch 12 Years a Slave is to '
+                          'experience a level of despair and misery that can '
+                          "become overwhelming. It's a film of such ugliness, "
+                          'such blunt emotional trauma, that it may haunt you '
+                          'for hours if not days after seeing it. So why '
+                          'should you watch a film that could leave you '
+                          "reeling and devastated? Because, it's also one of "
+                          'the greatest cinematic achievements of our time.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'In the antebellum United States, Solomon Northup, '

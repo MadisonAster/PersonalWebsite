@@ -17,7 +17,7 @@
             'url': '/name/nm0000450/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 348166,
+                     'ratingCount': 348210,
                      'ratingValue': '7.6',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -54,99 +54,67 @@
  'keywords': 'strategy,baseball,statistics,voice over,meeting',
  'name': 'Moneyball',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'moviemanMA'},
-            'dateCreated': '2011-09-24',
+            'author': {'@type': 'Person', 'name': 'Legendary_Badass'},
+            'dateCreated': '2011-09-21',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1210166/'},
-            'name': 'Baseball by the numbers',
-            'reviewBody': 'Moneyball tells the story of the 2002 season of the '
-                          'Oakland Athletics, a team that rose to notoriety '
-                          'because of its low payroll and unorthodox player '
-                          'selection. Billy Beane (Brad Pitt), a former player '
-                          'turned general manage, grows tired with the '
-                          'ancient, inefficient ways of the game he has '
-                          'committed his entire life to. When a transaction '
-                          'goes awry he stumbles across Peter Brand (Jonah '
-                          'Hill), a Yale, economics graduate who believes he '
-                          'has a system to rating players based on numbers.\n'
+            'name': 'Pitt is at the top of his game',
+            'reviewBody': 'I have another rare chance to catch a film more '
+                          'than a day before its national release. Usually '
+                          "when this happens there's a horde of folks queued "
+                          'up. When the doors to the theatre open, phones are '
+                          'sequestered, and a rush is put on to find prime '
+                          'seating. Those were movies starring a bunch of\x85'
+                          ' well less than household names. Surely a sneak to '
+                          'see a Brad Pitt movie would be even more chaotic. '
+                          "Unfortunately the waning popularity of America's "
+                          'pastime is as much of a deterrent as a movie star '
+                          'and free entertainment are agents of attraction. \n'
                           '\n'
-                          'Billy and Peter begin trading, signing, and '
-                          'grooming the team based on data, not scouting, '
-                          'something that other members of the team are not '
-                          'fond of, including Art Howe (Philip Seymour '
-                          "Hoffman), the team's manager. Billy and Peter's "
-                          'system defies current baseball logic, but when the '
-                          'club starts to win games with players like Scott '
-                          'Hatteberg (Chris Pratt), David Justice (Stephen '
-                          'Bishop), and Chad Bradford (Casey Bond), the eyes '
-                          'of the country turn to Oakland, where only seeing '
-                          'is believing.\n'
+                          'Billy Beane (Brad Pitt) is a former major leaguer '
+                          "turned general manager of the Oakland A's. After "
+                          "losing in the playoffs to the Yankees, the A's lose "
+                          'their stars to free agency. Billy is tasked with '
+                          "rebuilding despite a payroll that leaves the A's "
+                          'trailing the competition. \n'
                           '\n'
-                          "What happened in Oakland back in '02 was "
-                          "incredible. It shouldn't have happened if you ask "
-                          'the right people, and other people will tell you it '
-                          'means nothing. Well, it did mean something it has '
-                          'changed the way people think about the game for '
-                          "good. You couldn't just go out and look at a kid to "
-                          'see if he would be a star or not. There were more '
-                          'stats to consider than home runs, strikeouts, and '
-                          'batting average. The game was expanding and '
-                          'becoming more and more a battle of logic.\n'
+                          'While going through the usual motions, Billy '
+                          'happens by Pete Brand (Jonah Hill), an economist '
+                          'who may have found a way to scout baseball with the '
+                          "efficiency the A's need. The two delve in head "
+                          'first, and despite some tough outings they never '
+                          'back down.\n'
                           '\n'
-                          "The film's structure is centered mostly on Billy "
-                          'Beane, but the most exciting parts for me were '
-                          'about the system. Writer Aaron Sorkin, who a few '
-                          'months back accepted a slew of awards for his '
-                          'screenplay The Social Network, tosses out jargon '
-                          'that baseball fanatics go crazy for. For the '
-                          "general audience, that's where Billy helps out. "
-                          'Peter explains the system and has to break it down '
-                          'more for Beane (i.e. the audience) so everybody on '
-                          'screen and in the seats is on the same page.\n'
+                          'Pitt is at the top of his game. As an everyman—or '
+                          "at least one that isn't played up as wealthy, a man "
+                          'struggling to keep his job—frustration is clearly '
+                          "seen in Pitt's face. Pitt brings humanity to the "
+                          'ominous job of a general manager. Flashbacks of his '
+                          'stint in "the show" surmise his entire life, be it '
+                          'his divorce or relationship with his daughter Casey '
+                          '(Kerris Dorsey).\n'
                           '\n'
-                          "Pitt's portrayal of Beane won me over. He "
-                          'completely caught me off guard. I know Pitt can act '
-                          'but I remember him for performances that were very '
-                          'complex on the outside. Aldo Raine (Inglourious '
-                          'Basterds) with his pronounces chin, squinty eyes, '
-                          'and thick accent. Benjamin Button (The Curious Case '
-                          'of Benjamin Button) who grew younger as he got '
-                          "older. Jeffrey Goines (12 Monkeys) who couldn't sit "
-                          'still let alone focus on one subject in a '
-                          'conversation. Yes, he was nominated for all these '
-                          'performances, but in a performance like this there '
-                          'is something bubbling under the surface. All of his '
-                          'characters to an extent have something going on '
-                          'underneath, only this character, Billy Beane, is so '
-                          'normal and calm on the outside, yet when he is '
-                          'alone we can see pain and frustration.\n'
+                          'Moneyball is not the action-packed sports outing '
+                          'one may be expecting. Director Bennett Miller '
+                          'spends very little time focusing on the game of '
+                          'baseball, or even the personalities of the players. '
+                          'Moneyball is a movie about management. Its deadpan, '
+                          'forthright approach is fresh compared to the '
+                          'typical underdog story filled with home runs and '
+                          "stolen bases. There's no electrifying music or "
+                          'thrilling speeches, but the excitement found in a '
+                          'phone call is realized as well as one could '
+                          "imagine. I don't think any actor other than Hill "
+                          'could pull of his slowly clinched fist.\n'
                           '\n'
-                          'His supporting cast of Hill, Hoffman, and the slew '
-                          'of ball players and colleagues, help turn this '
-                          'baseball team into the world of Oakland Athletics. '
-                          'Hill and Hoffman especially play perfect '
-                          "compliments to Pitt's sunny exterior. Hill is "
-                          'quiet, timid, and very smart. Hoffman is cold, '
-                          'weathered, and stubborn. Pitt is able to play off '
-                          'of both temperaments and make their scenes together '
-                          'pop off the screen.\n'
-                          '\n'
-                          'The one thing that this movie has going for it is '
-                          'the lack of actual action on the diamond. There are '
-                          'some great scenes of actual baseball, one at bat by '
-                          'Hatteberg in particular struck a chord with me, but '
-                          'for the most part the action is behind the scenes. '
-                          'There is enough for a sports junkie to get their '
-                          'fix and enough drama and with Beane and his family '
-                          'to entice any average viewer into the theater. I '
-                          "can't think of many target groups that wouldn't "
-                          'find it interesting, except for children, due to '
-                          'language and complexity of some of the dialogue. '
-                          'All in all this is one movie that will please a lot '
-                          'of people, and more importantly a lot of different '
-                          'people, sort of like The Blind Side, only the movie '
-                          'is actually really good.',
+                          'Like the good sports films, Moneyball shares a '
+                          'deeper meaning than simply winning. Immediately the '
+                          'value of loyalty comes to mind. The sports genre is '
+                          'changing, much like how the crew of this story '
+                          'changed talent scouting. Just last year a movie '
+                          'rose up about the struggle to manage a boxer, and '
+                          "now here's the struggle to manage a team.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

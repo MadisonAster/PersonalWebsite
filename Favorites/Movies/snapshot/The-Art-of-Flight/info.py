@@ -45,56 +45,36 @@
  'keywords': 'four word title,snowboarding,snowboard',
  'name': 'The Art of Flight',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'flyingdj'},
-            'dateCreated': '2011-10-02',
+            'author': {'@type': 'Person', 'name': 'burgerboy231'},
+            'dateCreated': '2011-11-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1646967/'},
-            'name': 'The art of making a beautiful snowboarding movie',
-            'reviewBody': 'Get into a helicopter, get dropped off at the top '
-                          'of the mountain, skate down.\n'
+            'name': 'The Greatest Snowboard Epic Ever Created',
+            'reviewBody': '"The Art of Flight" is "The Odyssey" of snowboard '
+                          "movies. It's epic camera work makes even Warren "
+                          'Miller look like an amateur. Red Bull helps pull '
+                          'out all the stops, to produce the most wild '
+                          'documentation of the world of snowboarding out '
+                          'there.\n'
                           '\n'
-                          'This movie once again makes it seem so easy, yet so '
-                          'impressive at the same time. With a good mixture '
-                          'between big mountain downhill and some of the most '
-                          'impressive jumps you will ever see, "The Art of '
-                          'Flight" is not an educational snowboarding movie. '
-                          "It's a piece that shows you several athletes "
-                          'constantly looking to push the limits.\n'
+                          'Travis Rice, John Jackson, and Mark "Lando" Landvik '
+                          'take the world of snowboarding to a new level in '
+                          'the opening scene alone, which sets the tone, and '
+                          "gives you a small taste of what's in store for the "
+                          'rest of the film.\n'
                           '\n'
-                          'Whether it is skating down while avalanches are '
-                          'being kicked off left and right, whether they are '
-                          'closely avoiding crashing into rocks on a slope '
-                          "that's not even as wide as a car or whether they "
-                          'land jumps that you thought impossible, this movie '
-                          'will leave you in awe most of the time. Adding to '
-                          'that is the spectacular cinematography in beautiful '
-                          'places like Chile, Patagonia and Alaska. This is '
-                          'hands down the best looking snowboarding piece ever '
-                          'made.\n'
+                          'The crew even gives you a small inside look into '
+                          'their lives during the planning phases and cloudy '
+                          'down days that prevent filming.\n'
                           '\n'
-                          'That said, "The Art of Flight" could use a little '
-                          'more direction at points and some of the scenes '
-                          'seemed rather pointless. Other movies build up to a '
-                          'grand finale, this one merely shows you a bunch of '
-                          'guys on the hunt for snow - which does not make it '
-                          'any less of a great movie, but leaves you with a '
-                          'feeling that more could have been achieved. There '
-                          'is very little being said about the personal lives '
-                          'of the athletes as well.\n'
+                          "There's not not too much more that can be said "
+                          'about the film beyond "Epic" aside from watch the '
+                          "film. It's the only way to fully understand.\n"
                           '\n'
-                          "If you're simply looking for big mountain and big "
-                          'air, this is not to be missed. If spectacular '
-                          'images of mountain scenery are your thing, this '
-                          "movie will make you happy. If you're looking for an "
-                          'entertaining movie about snowboarding, you should '
-                          'still go and see this. You might be disappointed '
-                          "though if you're expecting a big story behind it "
-                          'all.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
+                          'Great sound track. Ground breaking film.\n'
+                          '\n'
+                          'The Art of Flight.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Snowboarder Travis Rice and his friends redefine '
                             'what is possible in the mountains. Experience the '

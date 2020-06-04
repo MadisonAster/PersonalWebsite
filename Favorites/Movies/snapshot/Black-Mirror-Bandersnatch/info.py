@@ -19,7 +19,7 @@
             'url': '/name/nm5219130/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 107184,
+                     'ratingCount': 107204,
                      'ratingValue': '7.2',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -42,28 +42,36 @@
  'keywords': 'interactive movie,1980s,computer,gamebook,interactive',
  'name': 'Black Mirror: Bandersnatch',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'JRPTeagle'},
-            'dateCreated': '2019-03-04',
+            'author': {'@type': 'Person', 'name': 'Rediith'},
+            'dateCreated': '2018-12-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt9495224/'},
-            'name': 'Some people are missing the point',
-            'reviewBody': 'The fact that the film pushes you in to a specific '
-                          'path is the entire point of the film!\n'
-                          '\n'
-                          'The idea that we are all brainwashed and that free '
-                          'will is up for debate in any choice we make in '
-                          "today's society is, by its very purpose, the whole "
-                          'concept of the film.\n'
-                          '\n'
-                          'I thought is was a brilliant new step in film '
-                          'making and an incredible concept. Would highly '
-                          'recommend to any open-minded individual with good '
-                          'taste in film and a love for science fiction and '
-                          "80's vibes.",
+            'name': "A new experience, but that's about it",
+            'reviewBody': 'It never occurred to me that something like this '
+                          'would someday be tried. Kudos to Netflix for trying '
+                          'to push the boundaries of what is possible through '
+                          'this medium. That said, the whole thing felt like a '
+                          'game. A fascinating game because of the novelty, '
+                          'but I felt none of what usually a good film would '
+                          'elicit. Yes, there was a lot of anticipation of '
+                          'what would happen next, but overall, due to the '
+                          'frequent pauses to choose, there was no continuity '
+                          'or involvement in the story per se. Some of the '
+                          'choices too felt pretty childish. The idea that the '
+                          'character was actually feeling like he had no free '
+                          'will and felt compelled to do things as though '
+                          'someone (the viewer) was controlling him - well, it '
+                          'brings a smile the first time, but later, feels '
+                          'like something that perhaps a smoked-up teen would '
+                          'find mind boggling. Overall, yes, definitely '
+                          'something that people would be thrilled to watch '
+                          'and try, but I sincerely hope we do not have a lot '
+                          'of this type of interactive films - at least not at '
+                          'the expense of "normal" films.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'In 1984, a young programmer begins to question '

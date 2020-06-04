@@ -21,7 +21,7 @@
             'url': '/name/nm0728346/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 97286,
+                     'ratingCount': 97288,
                      'ratingValue': '6.2',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -50,25 +50,40 @@
              'rico,newspaper',
  'name': 'The Rum Diary',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'beautox'},
-            'dateCreated': '2011-11-09',
+            'author': {'@type': 'Person', 'name': 'SmoothMotives'},
+            'dateCreated': '2011-10-29',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0376136/'},
-            'name': 'Occupy Puerto Rico',
-            'reviewBody': '"Rum Diary" is a retro movie made in the style of '
-                          "all too many films from the early 1970's; the "
-                          '"heroes" are smug, slacker, inconsiderate slobs, '
-                          'but because they talk the talk of peace and love, '
-                          'we are are supposed to overlook their cruelty to '
-                          'individuals and boorish behavior. The kind of movie '
-                          'where the good guys are people that in the real '
-                          "world, you wouldn't want living next to you, or "
-                          'even sitting next to you on a bus or plane. Even '
-                          "with the great Johnny Depp, and a $5.50 seniors' "
-                          'rate ticket , this movie was almost a total yawn. '
-                          'It was so bad,that the ushers requested that we '
-                          'leave our cell phones on.Or at least I wish.'},
+            'name': 'Booze Induced Reality',
+            'reviewBody': 'I have read the book and this movie holds true to '
+                          'the voice that Thompson writes with - this is what '
+                          "makes the movie works. Depp's role, unsurprisingly, "
+                          'mimics his portrayal of Hunter in Fear and Loathing '
+                          '(only with less drugs, not counting alcohol).\n'
+                          '\n'
+                          'The movie can, realistically, be summed up in one '
+                          '"revelation" Depp\'s character has with a rather '
+                          'unusual counterpart. Throughout the film we see '
+                          'examples of the opulent lifestyle of few and '
+                          'downtrodden livings of the many. \n'
+                          '\n'
+                          'What Depp confides with his "friend", allows us to '
+                          'use what we have learned up to that point in the '
+                          'movie and chew on for the remainder of the movie, '
+                          'is this - the banks hold the wealth while leaving '
+                          'us (and the starving children) to stare at empty '
+                          'brass plates hanging on their front doors. Whether '
+                          'you agree with it or not, this is not a stretch to '
+                          'compare with the "occupy" movement settling into '
+                          'America and around Europe today.\n'
+                          '\n'
+                          'This movie is good. Much like the original book, '
+                          "this movie doesn't try to entertain the viewer; it "
+                          'allows the viewer to sit back and follow along as '
+                          'one man experiences a lifetime of ups and downs in '
+                          'a matter of weeks. And be prepared to go out for a '
+                          "drink afterward, you'll need it."},
  'trailer': {'@type': 'VideoObject',
              'description': 'Paul Kemp is a freelance journalist who finds '
                             'himself at a critical turning point in his life '

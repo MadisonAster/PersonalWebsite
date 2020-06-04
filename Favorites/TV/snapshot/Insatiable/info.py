@@ -19,7 +19,7 @@
             'url': '/name/nm5777436/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 20790,
+                     'ratingCount': 20794,
                      'ratingValue': '6.6',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',

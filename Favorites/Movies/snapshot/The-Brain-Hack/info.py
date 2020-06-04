@@ -36,22 +36,50 @@
              'schizophrenia,conspiracy,numeric code',
  'name': 'The Brain Hack',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'trevd-22977'},
-            'dateCreated': '2019-02-04',
+            'author': {'@type': 'Person', 'name': 'Theo Robertson'},
+            'dateCreated': '2015-05-12',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3704676/'},
-            'name': 'Good effort considering limited time & budget!',
-            'reviewBody': 'Considering there are so many awful films produced '
-                          'these days I want to offer the makers of this every '
-                          'encouragement I can. They obviously have talent and '
-                          'I hope they make more films. The ideas here are '
-                          'very interesting & I would really like to see them '
-                          'expanded into a feature. Good work all involved. We '
-                          "don't have enough thought provoking cinema. Keep at "
-                          'it.',
+            'name': 'Patchy And Headache Inducing Despite The Great Opening',
+            'reviewBody': 'A man sits in front of his laptop clearly agitated '
+                          '. He looks out the window and sees a spectral '
+                          'figure standing on the street corner looking up '
+                          'towards him . He goes back to his computer clearly '
+                          'terrified . He gasps " He\'s found me" . He swears '
+                          'and panics and as the picture breaks up something '
+                          'enters his room \n'
+                          '\n'
+                          'If nothing else THE BRAIN HACK contains a great '
+                          'opening hook . Billed as "A metaphysical thriller '
+                          'for the digital generation" the opening scene hints '
+                          "it's going to be great horror short but doesn't "
+                          'quite deliver . It reminded me in some ways of '
+                          "Aronofsky's PI as Fallon and Harper discuss the "
+                          "possibilities of God existing . Of course there's "
+                          'very logical reasons for believing in God . In the '
+                          'foreword of his book The Blind Watchmaker Richard '
+                          'Dawkins easily explains it away by stating that '
+                          'whenever mankind became self aware he made things '
+                          "so it's logical that he jumped to the conclusion "
+                          'that someone also made the seas , sky and sun . '
+                          'Take also the ancient Indo-Aryans who through the '
+                          'seasons changing and the female menstrual cycle '
+                          'believed everything including human life itself was '
+                          'cyclical hence Hinduism the oldest established '
+                          'religion on Earth which has reincarnation as its '
+                          'fundamental belief . Unfortunately the discussion '
+                          'between Fallon and Harper becomes a bit confusing '
+                          'and then turns in to a lot of running about while '
+                          'at the same time giving more than a little nod to '
+                          "Cronenberg's VIDEODROME . Then more running about "
+                          'and confused flashbacks in a short film that '
+                          'obviously thinks it is clever but is nothing of the '
+                          'sort and seems to be a showcase of how to give the '
+                          'audience a headache . Nice opening but nothing much '
+                          'else after that',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'url': '/title/tt3704676/'}

@@ -21,7 +21,7 @@
             'url': '/name/nm7379039/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 403635,
+                     'ratingCount': 403705,
                      'ratingValue': '8.8',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -41,31 +41,22 @@
  'keywords': 'anthology,satire,dystopian future,dystopia,netflix original',
  'name': 'Black Mirror',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ahmetkozan'},
-            'dateCreated': '2018-10-25',
+            'author': {'@type': 'Person', 'name': 'patrickmolloy-54062'},
+            'dateCreated': '2019-06-08',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2085059/'},
-            'name': 'Definitely worth seeing!',
-            'reviewBody': 'This is truly an amazing show. The issues that the '
-                          'show grapples with and illuminates in each episode '
-                          'are timely and significant. To say that this show '
-                          'deals with the dark side of technology and human '
-                          'nature is to make to simple of a comparison. The '
-                          'stories are mostly set in a dystopian world that is '
-                          'dominated or badly influenced by modern technology. '
-                          'What makes "Black mirror" so great is the attention '
-                          'to detail and inter/intrapersonal relationships and '
-                          'how the main character would feel and experience '
-                          'its brave new world. Well thought out plots, '
-                          'characters, settings and really good storytelling. '
-                          'It asks some hard questions of what and where we '
-                          'really want technology to take us. Or maybe already '
-                          'have taken us. Definitely worth seeing! Treat '
-                          'yourself and watch this. 9/10',
+            'name': 'It Could have been a 10, but...',
+            'reviewBody': '...season five was bad (episode 1), mildly '
+                          'acceptable (episode 2) and are you kidding me? '
+                          '(episode 3). Miley Cyrus? This series started out '
+                          'as an inventive, original and disturbing show. When '
+                          'it became "Americanized", it went downhill fast. '
+                          'Please, either return to the original premise, or '
+                          "don't put out more trash.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Two estranged college friends reunite in later '

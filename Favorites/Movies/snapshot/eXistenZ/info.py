@@ -17,7 +17,7 @@
             'url': '/name/nm0000353/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 91341,
+                     'ratingCount': 91347,
                      'ratingValue': '6.8',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -47,73 +47,65 @@
  'keywords': 'game,alternate reality,game designer,body horror,parallel world',
  'name': 'eXistenZ',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'AS-69'},
-            'dateCreated': '2001-12-17',
+            'author': {'@type': 'Person', 'name': 'peter_vangoethem'},
+            'dateCreated': '2004-01-26',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0120907/'},
-            'name': 'Tame and repetitive Cronenberg',
-            'reviewBody': 'After his almost disastrous "Crash", Cronenberg '
-                          'returns to more familiar terrain with "eXistenZ". '
-                          'After "Videodrome" and "Naked Lunch", this is now '
-                          'his third movie featuring different levels of '
-                          'reality which gradually mix with each other until '
-                          "at the end, you don't know any more what reality "
-                          'is. Nowadays, you cannot say any more that this is '
-                          'a novel concept and, in addition, "eXistenZ" is '
-                          'much tamer, much more mainstream, and much weaker '
-                          'than "Naked Lunch" and, especially, Cronenberg\'s '
-                          'masterpiece "Videodrome". There simply isn\'t '
-                          'anything new which Cronenberg has to add to the '
-                          'subject.\n'
+            'name': 'an existential psychotropic trip',
+            'reviewBody': 'David Cronenberg, much like colleague David Lynch, '
+                          'is an acquired taste. A director who plays with '
+                          'themes like reality, perversion, sex, insanity and '
+                          'death, is bound to get the most extreme reations '
+                          'from audiences. He proved this with films as The '
+                          'Fly, Naked Lunch, Crash and eXitenZ (capital X, '
+                          "capital Z) and more recently, Spider. It's best to "
+                          'see eXistenZ with a clear mind. Try not to read too '
+                          "much about the plot, or it'll be ruined for you. "
+                          'What I can tell you is that Cronenberg takes you on '
+                          'a trip down into the world of videogames that acts '
+                          'as a metaphor for any kind of escapist behaviour. '
+                          'Living out fantasies is something people always '
+                          'dream of, but how far can you go into it, before '
+                          'reality gets blurred and the fantasy takes over and '
+                          'turns into a nightmare? Those are the themes '
+                          'touched in eXistenZ, an exploration of identity, '
+                          'the human psyche, physical bodies being invaded by '
+                          'disease and most importantly, reality itself.\n'
                           '\n'
-                          'Moreover, the fact that the movie deals with '
-                          'computer gaming is misleading. First, the subject '
-                          'was probably chosen to attract a new audience '
-                          "(which isn't familiar with his previous movies). "
-                          "Second, Cronenberg's visions aren't very much based "
-                          'on what modern computer gaming really is, except, '
-                          "maybe, for adventure games. In Cronenberg's movie, "
-                          'the computer game allows you to enter another '
-                          'reality which, however, looks very much  like the '
-                          'reality you know, except that there seem to be '
-                          'other rules. Modern computer gaming, in turn, has '
-                          'already created a new reality which differs in its '
-                          'very characteristics from the world we know. This '
-                          'world is aggressive, fast paced, and the player as '
-                          'individual is reduced to its capability of reacting '
-                          'as fast as possible (this aspect is indeed captured '
-                          'much more appropriately in the - much weaker movie '
-                          '- "The Matrix"). Thus, Cronenberg\'s movie is more '
-                          'a surrealist dream than a serious discussion of the '
-                          'dangers of computer gaming. Of course, this is '
-                          'prefectly legal. The game console is a means of '
-                          'changing into another reality, just like the drugs '
-                          'were in "Naked Lunch" and video tapes were in '
-                          '"Videodrome". At other times, the console appears '
-                          'more like a sexual fetish.\n'
+                          'The story and directing are excellent. Cronenberg '
+                          'knows his trade very well and succesfully brings to '
+                          'life an artificial world, avoiding the usual '
+                          'pitfalls and clichés linked to stories such as '
+                          'this. The film shows some pretty disgusting stuff, '
+                          'but is unusually low-key in the gore department in '
+                          'comparison to Cronenbergs other work. The shock '
+                          'effects he plays on are never over the top and the '
+                          'plot progression is very intelligent and creative. '
+                          "It's not the most intellectual movie ever, but it "
+                          'will leave you thinking about it, wondering and '
+                          'pretty confused.\n'
                           '\n'
-                          '"eXistenZ" has some interesting and remarkable '
-                          'scenes such as the whole part in the "Trout Farm" '
-                          'and the Chinese restaurant, but there are also '
-                          'involuntarily ridicolous scenes such as the '
-                          'character being stuck in a game loop. Overall, the '
-                          'images which Cronenberg chooses do not have the '
-                          'strength and impact of his older movies: The '
-                          'central element, the organic console, just looks '
-                          'like what it is: a piece of rubber. It is directly '
-                          'hooked up to the spinal chord, an unpleasant idea, '
-                          'but how much more impressive was the scene when '
-                          'James Woods inserted the video tape into his own '
-                          'stomach in "Videodrome". \n'
+                          'The acting gets two thumbs up as well. Both '
+                          'protagonists, Jennifer Jason Leigh and Jude Law, '
+                          'play their parts perfectly and cleverly portray '
+                          "their character's shifting moods and identities. "
+                          'The dialogue may seem a little stale and clinical '
+                          'at times, but that is part of the effect Cronenberg '
+                          'was going for, to create a disaffected and alien '
+                          'atmosphere that puts you quite at unease. '
+                          'Supporting actors as Ian Holm, Don McKellar and an '
+                          'especially creepy Willem Dafoe lift the movie even '
+                          'higher with their disturbingly familiar '
+                          'performances.\n'
                           '\n'
-                          'All in all, "eXistenZ" is another trip into the '
-                          'weird world of David Cronenberg but into the more '
-                          "civilized regions which doesn't give you many "
-                          'surprises.',
+                          'This movie takes some getting used to, but if you '
+                          'can appreciate the dark tone, blood-curdeling '
+                          "imagery and existentially warping story, you'll "
+                          'love it.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for eXistenZ',

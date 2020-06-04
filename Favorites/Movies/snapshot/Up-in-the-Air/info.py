@@ -21,7 +21,7 @@
             'url': '/name/nm0000867/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 311662,
+                     'ratingCount': 311682,
                      'ratingValue': '7.4',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -54,95 +54,88 @@
  'keywords': 'on the road,downsizing,travel,job termination,business trip',
  'name': 'Up in the Air',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ClaytonDavis'},
-            'dateCreated': '2009-11-28',
+            'author': {'@type': 'Person',
+                       'name': 'oOgiandujaOo_and_Eddy_Merckx'},
+            'dateCreated': '2010-01-29',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1193138/'},
-            'name': 'Breathes New Air...',
-            'reviewBody': 'Director Jason Reitman, that has brought us great '
-                          'Indie classics such as Thank You for Smoking and '
-                          'Juno has crafted his most personal and most '
-                          'effective portrait to date, Up in the Air. The film '
-                          'stars George Clooney, also giving his most intimate '
-                          'and beautiful performance of his career, as Ryan, a '
-                          'traveling "Firing-Man," who plans on racking up as '
-                          'much frequent flyer miles as he can. Completely '
-                          'void of human connection and emotion, even from his '
-                          'two sisters, one of which is getting married, Ryan '
-                          'seems completely content with his choice of living. '
-                          'All seems well until he meets his female version in '
-                          'the beautiful and charismatic Alex, played with '
-                          'sexual force and intensity by Vera Farmiga. At the '
-                          'same time, a change at his job makes him acquire a '
-                          'student, Natalie, played with sensitivity and vigor '
-                          'by Anna Kendrick, to learn the ropes of the '
-                          'business before potentially making a devastating '
-                          "change to Ryan's way of life.\n"
+            'name': 'Bring your own wine',
+            'reviewBody': 'I really liked the movie, it kind of invites you to '
+                          "bring your own wine. There's a lot of probing into "
+                          "modern life and relationships, and it's up to you "
+                          'what you take from the film and what you feel for '
+                          'each of the characters. I was quite grateful for '
+                          "having seen Reitman's Thank You For Smoking (2005) "
+                          'previously, because both movies are really arch in '
+                          'the way they set up people in thoroughly pariah job '
+                          'roles and then get you to warm to them. So it '
+                          "didn't really come as a shock to see Clooney as an "
+                          'HR consultant (Ryan Bingham) whose job is to fire '
+                          'people in redundancy exercises where the management '
+                          'are too yeller, instead it rated an amused and '
+                          'knowing eyebrow raise.\n'
                           '\n'
-                          'The film, based on the book of the same title, is a '
-                          'moving and witty piece of cinema. The line '
-                          'deliveries given are some of the best liners of the '
-                          'year. The adaptation by Reitman and Sheldon Turner '
-                          "is of beautiful and social importance in today's "
-                          'day and age. There was no better time than now, to '
-                          'bring a film like this to the table. Dana E. '
-                          "Glauberman's crisp and precise editing sets the "
-                          'pace as we travel with Ryan in this beautiful '
-                          "account. Reitman's direction shows he's a force to "
-                          'be reckoned with and should be in full blown force '
-                          'for Oscar consideration along with the adaptation '
-                          'shared with Turner.\n'
+                          'Although a lot of the movie concerns the workplace, '
+                          'the disconnect between the interests of corporates '
+                          'and the interests of society (a link that was '
+                          'present historically in America, but which has been '
+                          'irrevocably decoupled), and how to work in that '
+                          'environment, the interest for me was more to do '
+                          'with relationships. From my male perspective there '
+                          'are some fairly poisonous insights into the female '
+                          'mind (though it may be unfair to generalise), the '
+                          'young Cornell grad Natalie Keener (played by Anna '
+                          'Kendrick) talks about her preconceptions of the man '
+                          'she will meet, the kind of name he will have, '
+                          'apparently the only thing he will love more than '
+                          'her is their "golden lab". The slightly older '
+                          'perspective from Alex Goran (played by Vera '
+                          'Farmiga) is that the man should be taller, should '
+                          'earn more, and come from a good family. To go with '
+                          'the aeronautical theme of the movie, the theatre '
+                          'should have provided some sick bags.\n'
                           '\n'
-                          "George Clooney, who's having one hell of a year "
-                          'along with his other comedic turn in The Men Who '
-                          'Stare at Goats, gains sympathy and emotion from the '
-                          'viewer, which up until now, Clooney had always '
-                          "struggled for. The role is right up Clooney's alley "
-                          'and with humorous strength, conveys the pain and '
-                          'loneliness of an otherwise charming man '
-                          'successfully.\n'
+                          "The main theme is, for me, pure Frank Borzage, it's "
+                          'about earning the right to love and be loved. In '
+                          'common with 80 years ago when those movies were '
+                          "being made, it's an onus that only weighs upon the "
+                          'male of the species, which makes the film a little '
+                          'hackneyed.\n'
                           '\n'
-                          'Vera Farmiga as Alex, is a beautiful as she is '
-                          'dark, and as sexy as she is ugly. Farmiga has '
-                          'finally landed the right role that, in her years of '
-                          'wrong place at the wrong time, should land her a '
-                          'first-time Oscar nomination. Never showing her '
-                          'hand, Farmiga keeps and earns your trust, '
-                          "attention, and admiration. It's one of the most "
-                          'divisive and structurally brilliant supporting '
-                          'turns of the year. \n'
+                          'My favourite ambiguity of the film would have to be '
+                          'the backpack lectures that Bingham (Clooney) gives. '
+                          'He has a whole metaphor about everything in your '
+                          'life, the people, the trinkets, all the stuff you '
+                          'can collect, being in a backpack and weighing you '
+                          "down. He says that people aren't swans, they're not "
+                          "meant to be together forever, that they're actually "
+                          'sharks, who have to keep swimming continually, '
+                          "weighed down by nothing. I think there's an element "
+                          'of truth to both poles, I can see both arguments. I '
+                          'just love going to a Hollywood movie and not having '
+                          'an opinion shoved down my throat.\n'
                           '\n'
-                          'Seemingly not playing with a full deck is Natalie, '
-                          'played most beautifully by Anna Kendrick, who '
-                          "portrays brains don't equal smart choices. Kendrick "
-                          'earns your care and concern for the character, as '
-                          'she follows Ryan around and constantly badgers him '
-                          'about happiness and love, she naïvely and '
-                          'courageously shows the tenderest parts of youth in '
-                          "today's world. Kendrick will likely be sitting "
-                          "along side Farmiga at Oscar's ceremony.\n"
+                          'I had a slight problem regarding the level of '
+                          'realism in the film, I felt that the air-commuter '
+                          'lifestyle that was being shown was over-slicked, '
+                          'like I was watching something of a feather with The '
+                          "Consequences Of Love (or Giulia Doesn't Sleep At "
+                          'Night, two of the great modern hyper-stylised films '
+                          'from Italy). Nothing wrong with stylisation, except '
+                          'that I think Jason was trying to go for a film that '
+                          'had a lot of resonance with Recession America. I '
+                          'felt it was awkward to introduce real-life folks at '
+                          'the end, and also realistic looking termination '
+                          "assessments (or whatever they're called when you "
+                          'can someone), when the actors such as Clooney and '
+                          'Vera Farmiga were just so damned suave, as if from '
+                          'a different universe.\n'
                           '\n'
-                          'Jason Bateman, playing Craig Gregory, the boss in '
-                          'charge, is amusing in a brief but memorable role. '
-                          "Amy Morton and Melanie Lynsky, who play Ryan's "
-                          'sisters, are valuable and sufficient enough to book '
-                          'end a wonderful tale. Danny McBride, an outstanding '
-                          'comic talent to watch, is as good as ever. And '
-                          'finally, in otherwise cameos, Sam Elliott and the '
-                          'great Zack Galifianakis are uproarious in their '
-                          'respective roles.\n'
-                          '\n'
-                          'This could very well be the crowd and critical '
-                          'pleaser of the year. It has what the 2004 film '
-                          'Sideways lacked, the emotional edge. Long after the '
-                          'film, you take these characters home with you and '
-                          'remind yourself of its authenticity in delivery, '
-                          'poise, and premise. Up in the Air is one of the '
-                          'best pictures of the year. ****/****',
+                          'And this is to Claire.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Ryan Bingham is a corporate downsizing expert '

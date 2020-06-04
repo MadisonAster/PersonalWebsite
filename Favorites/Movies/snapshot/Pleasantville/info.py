@@ -19,7 +19,7 @@
             'url': '/name/nm0000513/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 118624,
+                     'ratingCount': 118630,
                      'ratingValue': '7.5',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -42,40 +42,31 @@
  'keywords': '1950s,trapped in tv,censorship,symbolism,rebellion',
  'name': 'Pleasantville',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'nchng'},
-            'dateCreated': '2001-03-28',
+            'author': {'@type': 'Person', 'name': 'robbscott-1'},
+            'dateCreated': '2019-01-25',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0120789/'},
-            'name': 'A brilliant fairytale..',
-            'reviewBody': 'I thoroughly enjoyed "Pleasantville" from the '
-                          "'Once upon a time' through the film fading to "
-                          'black.\n'
+            'name': "It ain't Citizen Kane...",
+            'reviewBody': '...nor is it The Bicycle Thief, Casablanca, or Taxi '
+                          "Driver. But it's a damn nice modern take on Capra.\n"
                           '\n'
-                          'The acting was top notch all around, as was the use '
-                          'of special effects; in very few films has colour '
-                          'been used so effectively that it can convey a story '
-                          'seemingly without help from dialogue or music.\n'
+                          "The reviewers here that're trashing this film are "
+                          'completely missing the point - they either know '
+                          "nothing about film, or way too much. It's a fable, "
+                          "folks, and if there's lapses in logic or some "
+                          "smarmy moments, well, deal with it. It's a "
+                          'marvelous, well constructed flick and an enjoyable '
+                          'way to spend a couple hours.\n'
                           '\n'
-                          'I can see how some people would perceive it as '
-                          'merely another mouthpiece of liberalism, but I '
-                          'watched it twice, and I only noticed it attacking '
-                          "bigotry and censorship.  What was wrong wasn't that "
-                          'these people were living according conservative '
-                          "values, but that they didn't really choose those "
-                          'values in the first place!\n'
+                          "There's no blood, or explosions. A bit of sex, but "
+                          "nothing gratuitous and it's essential to the plot. "
+                          'Cue up a copy and prepare to smile.\n'
                           '\n'
-                          'I like the fact that the film was bold, and that it '
-                          'made its point as directly as it contrasted the '
-                          'black and white with the splotches of '
-                          'Technicolour.  While "Pleasantville" had little '
-                          'subtlety in its allegory, it was, like any good '
-                          'fairytale, beautiful in its simplicity.\n'
-                          '\n'
-                          'Nine out of ten =)',
+                          "It's keen...!",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer',

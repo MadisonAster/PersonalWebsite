@@ -45,47 +45,63 @@
  'keywords': 'talk radio,ontario canada,survival,post punk,broadcasting',
  'name': 'Pontypool',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Knoedelkop'},
-            'dateCreated': '2012-06-28',
+            'author': {'@type': 'Person', 'name': 'clairmonde'},
+            'dateCreated': '2009-03-08',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1226681/'},
-            'name': 'This film needs the right audience.',
-            'reviewBody': 'Indeed, Pontypool is one of those movies that will '
-                          "appeal to a certain number of people, but it's just "
-                          'not for everyone. However, it does feature some '
-                          'refreshingly new twists and turns to the classical '
-                          'zombie-infestation-overflows-a-village horror '
-                          'story. These new twists and differences are '
-                          "beautifully explained during the movie, and won't "
-                          'leave you with any questions at the end, something '
-                          "that doesn't happen often enough in this genre. \n"
+            'name': 'Refreshing Respite from Overdone Horror/Thriller Movies',
+            'reviewBody': 'I remember purchasing this book back in 2008 '
+                          'because it was a Canadian zombie story that takes '
+                          'place in a little nowhere Ontario town called '
+                          'Pontypool. The back of the book had me laughing and '
+                          'intrigued by the description.\n'
                           '\n'
-                          'The acting by Stephen McHattie and Lisa Houle is '
-                          'decent enough, especially for a horror movie. '
-                          'Especially the first part of the movie, where the '
-                          'tension is built up, relies for the most part on '
-                          'their acting and they pull it off nicely. The '
-                          'camera-work is good but nothing special, the '
-                          'setting is dark but what can you expect from this '
-                          'genre of film!\n'
+                          'A virus. Flesh eating zombies. A body count in the '
+                          "millions has decimated Ontario's population. What "
+                          'if you woke up and began your morning by devoting '
+                          'the rest of your life to a murderous rampage, a '
+                          'never-ending cannibalistic spree? And what if you '
+                          'were only one of thousands who shared the same '
+                          'compulsion? This novel depicts just such an '
+                          "epidemic. It's the compelling, terrifying story of "
+                          'a devastating virus.\n'
                           '\n'
-                          'All in all, I believe Pontypool stands out of the '
-                          "bulk of today's horror movies. It won't make it to "
-                          "be an all time classic of the genre, but it's a "
-                          'nice movie to watch (atleast for once), especially '
-                          'if you like a somewhat mysterious atmosphere and '
-                          'less blood and gore than is usual for a zombie '
-                          'movie. If you, on top of that, try to really '
-                          'comprehend the new twists and turns and the '
-                          'explanation for the zombie infestation and use your '
-                          'imagination, this film will leave you wondering and '
-                          "ensure you'll have had a good time.\n"
+                          'I will not tell you how you catch it so as not to '
+                          'include spoilers, but once it has you, it leads you '
+                          'on a strange journey\x97into another world where '
+                          'the undead chase you down the streets of the '
+                          'smallest towns and largest cities.\n'
                           '\n'
-                          '*First review ever*',
+                          'If you are expecting a night of the living dead '
+                          'style film... this is not it. This movie does a '
+                          'fantastic job of drawing you into the world of the '
+                          'characters, their relationships and everything '
+                          'falling apart around them; you are not an outside '
+                          'observer. You are for all intensive purposes just '
+                          'another Pontypool citizen wondering '
+                          '"Wiskey-Tango-Foxtrot".\n'
+                          '\n'
+                          'This movie is a great treat for four reasons 1) The '
+                          'focus on the actors as the actors were perfectly '
+                          'cast. You may recognize an actress from the recent '
+                          'release of Dark Room 2) The choice to follow the '
+                          '"Aliens" model of never placing the source of "fear '
+                          'and unease" front stage. By not letting you in on '
+                          'the whole thing and only providing glimpses, your '
+                          'imagination will take the scenes further than any '
+                          'expensive CGI ever could. 3) The writing and angle '
+                          'of the movie. You feel like you are part of the '
+                          'movie as you only know what the main actors know... '
+                          'nothing more! 4)The intro and the voice of the main '
+                          'actor really pull you in like a warm sedative as '
+                          'you spiral downward into the insanity of your own '
+                          'imagination.\n'
+                          '\n'
+                          'Enjoy... we did!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A psychological thriller in which a deadly virus '

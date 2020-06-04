@@ -19,7 +19,7 @@
             'url': '/name/nm0221046/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 183032,
+                     'ratingCount': 183038,
                      'ratingValue': '6.8',
                      'worstRating': '1.0'},
  'contentRating': 'PG',
@@ -50,59 +50,51 @@
  'keywords': 'hyperspace,robot,cow,norway,male alien',
  'name': "The Hitchhiker's Guide to the Galaxy",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jgrayson_au'},
-            'dateCreated': '2009-05-08',
+            'author': {'@type': 'Person', 'name': 'mjluk'},
+            'dateCreated': '2005-04-27',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0371724/'},
-            'name': 'By appealing to masses, it fails.',
-            'reviewBody': 'I can see what they did.--- They wanted to make a '
-                          'movie that was still H2G2 in a sense. "Wacky, zany, '
-                          'bizarre" etc. But then they wanted it to appeal to '
-                          'the masses. Trillian and Arthur end up in a love '
-                          "story, Zaphod's turned into a prick, the plot is "
-                          'changed a bit, and the inclusion of slapstick '
-                          'humour. Even some new characters where made by DNA '
-                          'for the movie. \n'
+            'name': 'What has all the fuss been about?',
+            'reviewBody': 'First, let me start by saying that this is a funny '
+                          'film.\n'
                           '\n'
-                          'You need to remember that H2G2 in every version has '
-                          'contradicted itself. Each form is a different '
-                          'entity, so this movie should be regarded in that '
-                          'sense. I can see what they did.---\n'
+                          'Like many others, I suspect, I was worried by the '
+                          'MJ Simpson negative review, but having seen the '
+                          "film I can't really understand what all the fuss "
+                          'was about.\n'
                           '\n'
-                          "I personally don't like the movie much. I am a dyed "
-                          'in the wool fan of the books. To be fair, there are '
-                          'some things I do like in this. I think Zoe was '
-                          'exceptional as Trillian. I thought some of the '
-                          'visuals of the movie were brilliant. It is these '
-                          'parts, and the 20year slog, that gets me to a 4/10\n'
+                          'Personally, I am very happy that this version '
+                          "contains the new material. I don't want to sit in "
+                          'the cinema watching a line by line copy of the '
+                          'radio play, book, or TV series. Each of those stand '
+                          'by their own merit, and each were good largely '
+                          'because of the new material they contained.\n'
                           '\n'
-                          "There were moments of greatness, and it's in that "
-                          'that I am most upset. The greatness shows what '
-                          'COULD have been. A H2G2 movie could have been '
-                          'brilliant, but with the changes to the source; for '
-                          "fans of the original, it's average.\n"
+                          'I think the cast did an excellent job, and although '
+                          "Zaphod wasn't quite how I pictured him, Sam "
+                          'Rockwell brought a freshness to the part which '
+                          'largely works. His portrayal of Zaphod as a guy who '
+                          '"thinks he is cool", rather than "is cool" works '
+                          'pretty well, and once you get over the southern '
+                          'drawl, he soon settles as a character. Ford is '
+                          'beautifully played, as are all the major '
+                          'characters.\n'
                           '\n'
-                          'The movie I feel was tailored to a new audience. '
-                          'The humour feels closer to American humour than '
-                          "British. I'm not sure if this was intended or not. "
-                          'The changes where made to make it a stand alone 2hr '
-                          "movie with enough 'normal points' to keep non-fans "
-                          "happy. I don't know if it worked. I don't know if "
-                          'new audiences, that had never read the books (or '
-                          'played the game, listened to the radio, or watched '
-                          'the TV series), will enjoy the humour.\n'
+                          'Admittedly, some of the criticisms that were voiced '
+                          'by Simpson have some justification, but most were '
+                          'simply overstated to support his general vitriolic '
+                          'attack on the "purity" of the film.\n'
                           '\n'
-                          'What really worries me is that people will see the '
-                          "movie, think it's terrible and than write off every "
-                          'other format. That would be the ultimate disgrace '
-                          'to DNA.\n'
+                          "In summary, go to see this film and don't worry.\n"
                           '\n'
-                          'Fans will find this from average to terrible. '
-                          'Everyone else I only pray they seek the source.',
+                          "I'm looking forward to the DVD and I have all my "
+                          'fingers crossed for a sequel.\n'
+                          '\n'
+                          'Martin',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '4',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "Trailer for The Hitchhiker's Guide to the Galaxy "

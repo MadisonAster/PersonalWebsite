@@ -21,7 +21,7 @@
             'url': '/name/nm5173656/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 7581,
+                     'ratingCount': 7582,
                      'ratingValue': '8.2',
                      'worstRating': '1.0'},
  'creator': [{'@type': 'Person',
@@ -45,87 +45,55 @@
  'keywords': 'cannabis,business,marijuana,weed,september 11 2001',
  'name': 'The Union: The Business Behind Getting High',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Midnight_Gypsi'},
-            'dateCreated': '2010-07-29',
+            'author': {'@type': 'Person', 'name': 'zippyflynn2'},
+            'dateCreated': '2009-09-03',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1039647/'},
-            'name': 'A real eye-opener',
-            'reviewBody': "I'm not a pot smoker. In fact, I've never even "
-                          "tried it. People tend to always assume I'm a "
-                          'complete pothead; especially when first meeting me. '
-                          'My good friends and I now just all agree that I '
-                          "must have a pothead's personality or something, "
-                          'heh.\n'
+            'name': 'Warning: The Following Film Contains Dangerous Truths and '
+                    'Will Lead to Rational Thinking and Outrage.',
+            'reviewBody': 'There are a variety of excellent films available '
+                          'that expose the idiocy, lies, hysteria and '
+                          'underlying self-serving and enormously profitable '
+                          'financial motivations behind drug prohibition in '
+                          'America, specifically the current War on Drugs, of '
+                          'which marijuana is the prime target. This is one of '
+                          'the best as it is one of the most comprehensive as '
+                          'well as nicely edited and thoughtfully produced.\n'
                           '\n'
-                          'Just maybe about a year ago, give or take, I was '
-                          'completely against the good stuff. I still believed '
-                          'what I had "learned" in D.A.R.E., telling me that '
-                          'you could overdose from your first puff (seriously, '
-                          'our police guy told us this, lol). I thought it was '
-                          'more likely to cause lung cancer, proved to kill '
-                          'braincells, would make me mentally disabled, become '
-                          'self-destructive, etc. I thought that weed was as '
-                          'bad as heroin, simply because I was constantly '
-                          "hearing about how bad it is and how it'll screw "
-                          'your life up. I mean, I honestly thought that '
-                          'people who wanted medicinal marijuana just wanted '
-                          'to get stoned - thankfully, I know better now.\n'
+                          'This is not a stoner film, a statement of "I have a '
+                          'right to get to stoned and no one should infringe '
+                          'on this in and of itself", even though this is a '
+                          'perfectly valid argument if you believe at all in '
+                          'real freedom and the US Constitution. Rather, this '
+                          'is a documentary that exposes the horrific, '
+                          'astronomical price the US pays to continue the '
+                          'current marijuana prohibition.\n'
                           '\n'
-                          'My opinion starting changing about about a year '
-                          'ago, when I read an article that suggested that '
-                          'weed could actually help treat a physical '
-                          'disability my mother suffers with. This made me '
-                          'curious, and I quickly began doing a ton of '
-                          'research. Eventually, I decided to watch "The '
-                          'Union" after seeing a few people comment about it '
-                          'being a great documentary to get information from.\n'
+                          'Sadly, this film will be, for the most part, '
+                          'preaching to the choir. Few who have opposing views '
+                          'will watch it and be swayed to examine the '
+                          'fallacies within their belief system. Not because '
+                          'of the presentation or production value of the '
+                          'statements within the film, but rather man and '
+                          "woman's ability to continue to believe the most "
+                          'ridiculous and destructive foolishness regardless '
+                          'of the amount of overwhelming logic and reality '
+                          'that contradicts their beliefs. The billions of '
+                          'those who feverishly practice religions of '
+                          'intolerance and other faith/magic based beliefs as '
+                          'well as many of the horrific conditions in America '
+                          'presently, such as the record setting Prisons for '
+                          'Profit system and other tragedies are ample proof '
+                          'as to the idiotic self and other destructive nature '
+                          'of so-called humanity.\n'
                           '\n'
-                          'By the time I watched it, I was already turning '
-                          'towards pro-marijuana legalization, and this '
-                          'documentary helped me get over any doubt. They give '
-                          'a lot of information, and information that is worth '
-                          'knowing. Looking back to a year ago, before '
-                          'starting my research and before watching the '
-                          "documentary, I can't believe how ignorant I was. I "
-                          "can't believe the stereotypes and judgements I held "
-                          'while completely misinformed.\n'
-                          '\n'
-                          "Now, I know better. I'm not a pot smoker; I've "
-                          'never even touched it, but to me, that just shows '
-                          "that it doesn't take a complete pothead to realize "
-                          'that it should be made legal. Now, when I get the '
-                          "chance, I correct people's statements and "
-                          "misinformations about marijuana and I've provided "
-                          "several people with better information and I've "
-                          'recommended this very documentary to a few people.\n'
-                          '\n'
-                          'I think the main reason I held such hatred towards '
-                          'the plant before being properly informed was '
-                          'because when my older sister was a teen, she became '
-                          'very self-destructive and caused a lot of drama and '
-                          'pain within the family, and at that time she did '
-                          'get caught smoking weed, and I associated her '
-                          'behaviour with it.\n'
-                          '\n'
-                          'My mom, who also used to be completely dead-set '
-                          'against weed, is not as against it as before since '
-                          "I've given her information. Although she's not "
-                          'willing on trying it yet and still a little '
-                          "sceptical, she's much more open to the possibility "
-                          "of trying to get a doctor's recommendation for it "
-                          "than she would've been otherwise. She would qualify "
-                          "for it, and it's legal here if you've got a "
-                          "doctor's recommendation. I want to get her to watch "
-                          'this (and a couple other documentaries, but mostly '
-                          "this one) in hopes that she'll at least give it a "
-                          'go and hopefully be able of decreasing her '
-                          'medication intake (She needs to take a lot on a '
-                          'daily basis, some of which seem kinda sketchy.)\n'
-                          '\n'
-                          'So in conclusion, I recommend this to anyone and '
-                          "everyone; it's a real eye-opener and very "
-                          'informative.',
+                          'Watch this film anyhow, whether it outrages you or '
+                          'just is another piece of evidence as further proof '
+                          "of man's and woman's squandered opportunity to have "
+                          'a great society. It is quite well done and will '
+                          'provide you food for thought, that is if you dare '
+                          'to think.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

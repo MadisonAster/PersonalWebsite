@@ -21,7 +21,7 @@
             'url': '/name/nm6518675/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 424365,
+                     'ratingCount': 424400,
                      'ratingValue': '7.3',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -58,27 +58,21 @@
  'keywords': 'assassin,violence,iraq war,sniper,mercenary',
  'name': 'American Sniper',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'imizrahi2002'},
-            'dateCreated': '2015-01-11',
+            'author': {'@type': 'Person', 'name': 'MJB784'},
+            'dateCreated': '2018-05-21',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2179136/'},
-            'name': 'clint hits the target with American sniper...',
-            'reviewBody': "it was extremely 'even'. nothing seemed overplayed. "
-                          'well balanced storytelling. as someone else wrote, '
-                          "best war movie i've seen in years...and while we're "
-                          'at it, best clint movie in a few outings, as '
-                          'well... i agree that the ending is a bit sudden. '
-                          'but there was no reason to drag it out, either... i '
-                          "don't feel it lingered on any one dynamic of what "
-                          'would be expected from a film like this...not TOO '
-                          'much violence or proselytizing/flag waving or '
-                          "lingering on casualty horrors... it doesn't, on the "
-                          'other hand, turn away from any of the ugliness, '
-                          'either... i thought bradley cooper did a great job '
-                          'in the role. the changes he gradually instilled '
-                          "into the character were subtle but present. it's as "
-                          "well done a war movie as i'll ever need."},
+            'name': "Clint Eastwood's best war movie",
+            'reviewBody': 'It was extremely powerful and violent, but also '
+                          'entertaining because of its many realistic and '
+                          'stylish film techniques. The action scenes were '
+                          'frighteningly real and the use of sand and dirt '
+                          'swirling around the final combat scenes was art.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '8',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "Navy SEAL sniper Chris Kyle's pinpoint accuracy "
                             'saves countless lives on the battlefield and '

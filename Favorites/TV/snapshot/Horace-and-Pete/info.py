@@ -17,7 +17,7 @@
             'url': '/name/nm0942833/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 14241,
+                     'ratingCount': 14242,
                      'ratingValue': '8.5',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -35,49 +35,58 @@
  'keywords': 'web series,bar,character name in title',
  'name': 'Horace and Pete',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'rzajac'},
-            'dateCreated': '2016-02-21',
+            'author': {'@type': 'Person', 'name': 'fball114'},
+            'dateCreated': '2016-02-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5425186/'},
-            'name': 'Life is too short not to',
-            'reviewBody': 'Why oh why do you have to wait so long before '
-                          'someone figures out that someone might just want to '
-                          'watch a quality dramatic production?\n'
+            'name': 'Quality tragedy',
+            'reviewBody': "It seems to me that one of Louis CK's strengths is "
+                          'the authentic nature of the dialogue. Given the '
+                          'quality of the actors in this thing, it makes for '
+                          'some captivating viewing.\n'
                           '\n'
-                          'Thanks to Pig Newton (presumably Louis) for putting '
-                          'their butts on the line to do something like this.\n'
+                          'I found the bar-discussion about politics, etc, to '
+                          'be very entertaining and well-paced. It was almost '
+                          'a little Aaron- Sorkinesque and I loved it. Also '
+                          'amazing to see how up-to-date it is?! Talk about '
+                          'fresh material. I thought the accountant-bit was '
+                          'funny.\n'
                           '\n'
-                          "It's a fine production. With the exception of some "
-                          'small glitches in sound (occasional ambient echo, '
-                          'one surprising mic tap) production succeeds in '
-                          'mainlining the product straight into the vein. Lots '
-                          "of long takes, dialog that's so direct and lively "
-                          "and full-on it's like latching on to a freight "
-                          'train. An absolute delight to see fine acting '
-                          'talent, new and old, invited to participate in the '
-                          'spectacle, and all take their direction well and '
-                          'otherwise rise to the occasion. Sets and props are '
-                          'great, lighting is balanced and nice on the eyes.\n'
+                          'The main plot about the family was engaging and '
+                          'managed to pull me in. It was depressing and dark, '
+                          'but still somehow not exhausting to watch. I am not '
+                          "actually a big fan of Louie's darker episodes, I "
+                          "don't have the patience or the inclination to spend "
+                          'my time being challenged and depressed. I want it '
+                          'to be funny and entertaining. But even so, I watch '
+                          'and value the darker Louie episodes, and I watched '
+                          'and enjoyed this. As I said, there is this '
+                          'theater-like presentation and at the same time '
+                          'feels so authentic! When Buscemi says "and you give '
+                          'our whiskey to this stranger" (or something), I get '
+                          'the feeling that the characters have had their own '
+                          'thoughts and feelings while our attention was '
+                          'diverted.\n'
                           '\n'
-                          "It's funny because normally the first sign of good "
-                          "production is that you don't notice the production. "
-                          'But, trust me, my reflections on production (beside '
-                          'the minor sound issues) are an afterthought.\n'
+                          "It's fun to see Louis use these very typical, "
+                          'almost cliché transitions (walking down the stairs '
+                          "to change scenes, etc) and making it work? It's "
+                          'very well made. I loved the diegetic music, '
+                          'watching Alda establish his presence by reacting to '
+                          'it.\n'
                           '\n'
-                          'The important thing is that we get a story. And '
-                          "what a story! That's all I need to say; no need to "
-                          'spoil anything. Duck in and hang on tight.\n'
+                          'There is no laughter-track or audience referencing '
+                          'at all. You are totally left to your own devices as '
+                          'a viewer, to laugh or dislike at your own '
+                          "discretion. It's kind of artistic, in that it "
+                          'challenges you to like it or shove off?\n'
                           '\n'
-                          "One odd remonstrance: Let's face it: Louis can't "
-                          'stretch. But he can be forgiven in this case. His '
-                          'standard issue character is on-target, and you '
-                          'sometimes sort of bask, in a backgrounded way, in '
-                          'the realization that this is his labor of love.\n'
-                          '\n'
-                          'Check it out.',
+                          "While I wasn't enjoying watching it, as it was sad "
+                          'and not my typical kind of thing, I am glad that I '
+                          "did. It's great watching something this well made.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'url': '/title/tt5425186/'}

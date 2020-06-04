@@ -19,7 +19,7 @@
             'url': '/name/nm1504678/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 229496,
+                     'ratingCount': 229505,
                      'ratingValue': '6.9',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -50,31 +50,68 @@
  'keywords': 'upskirt,heart,poison,bare breasts,public sex',
  'name': 'Crank',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'felakin'},
-            'dateCreated': '2007-01-04',
+            'author': {'@type': 'Person', 'name': 'MaximumMadness'},
+            'dateCreated': '2006-09-02',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0479884/'},
-            'name': 'A must see, really intelligent action here.',
-            'reviewBody': 'Did see Crank. And I loved it. Fun, crazy, '
-                          'unexpected, twisted, action, sad, happy and totally '
-                          'weird. The story is so tight and adrenalin packed '
-                          'that it is a unbelievable sight indeed. I did sit '
-                          'in my couch with eyes peeled every minute. Have to '
-                          'say that I really did not believe I would get such '
-                          'a nice movie for the evening. Compared to many '
-                          'other action movies this one really stick out from '
-                          'the rest.\n'
+            'name': '"Crank" a fast paced, clever, and cool-as-Hell adrenaline '
+                    'rush of a film!!',
+            'reviewBody': 'I walked into "Crank" with low expectations, as I '
+                          'do with many films. The previews made it look like '
+                          'it had a clever story, but I was worried that with '
+                          'Jason Statham playing lead, I might just get a '
+                          're-hash of his "Transporter" films.\n'
                           '\n'
-                          'And Jason Statham did a fantastic role in Crank. I '
-                          'loved him in The Transporter and The Transporter '
-                          '2.\n'
+                          'I got a pleasant surprise. From the very beginning, '
+                          'the film moves. And moves damn fast. Not in an '
+                          'obnoxious way either. In the first minutes of the '
+                          'film we are set up with a possible story of '
+                          'corruption between hit men, a botched job, and the '
+                          "set-up for the whole movie-- Statham's Chev Chelios "
+                          'being fatally poisoned with a Chinese-made serum '
+                          'that slows his heart rate, and will eventually '
+                          'literally make his heart stop, killing him. The '
+                          'only solution-- get the adrenaline pumping and keep '
+                          'his heart rate up! The whole movie is like one long '
+                          'action sequence, with pauses for story elements. '
+                          'This is the common thing now in films, but in other '
+                          "movies, it generally doesn't work so well. But, "
+                          'with the premise of "Crank" being the need for '
+                          'speed (Literally), the idea of all-action, '
+                          'little-plot actually works. And works well.\n'
                           '\n'
-                          'I highly recommend it. Though have in mind that it '
-                          'is some heavy action with some strong scenes in it.',
+                          "However, don't be mistaken, there is genuine plot "
+                          'in the film. Clever stories about the pasts and '
+                          'workings of crime-lords and their cronies, and how '
+                          'they all relate to Chelios. Some of it went over my '
+                          'head because of the constant action, but I was able '
+                          'to understand everything enough to enjoy the film.\n'
+                          '\n'
+                          'The direction and editing is something I want to '
+                          'talk about briefly before I wrap this up. For a '
+                          'film like this, one would expect flashy camera work '
+                          'and crazy fast cutting, but I must say, the '
+                          'director/writer and the editor went beyond the call '
+                          'of duty. The film is shot as though the cameraman '
+                          'himself was the one who was poisoned, with the '
+                          'camera flashing and moving around nearly '
+                          'constantly, only settling during the slow scenes. '
+                          'Quite a genius use of camera-work to emulate the '
+                          'story. And the editing certainly adds a lot to the '
+                          'already excellent camera work. We get cutting when '
+                          'necessary and when not necessary, to further '
+                          'illustrate the needs of the main character.\n'
+                          '\n'
+                          'Overall, I would say "Crank" was the coolest movie '
+                          "I've seen in the last several years, leaps and "
+                          'bounds beyond the standard Hollywood action flick. '
+                          'I would recommend to any action-fan or adrenaline '
+                          'junkie, because take it from me, this film is the '
+                          'ultimate rush!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A man with an hour to live exacts revenge on his '

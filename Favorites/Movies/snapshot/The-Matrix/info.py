@@ -21,7 +21,7 @@
             'url': '/name/nm0915989/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 1611663,
+                     'ratingCount': 1611835,
                      'ratingValue': '8.7',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -54,67 +54,79 @@
              'hacker,post apocalypse',
  'name': 'The Matrix',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'mambubukid'},
-            'dateCreated': '2000-09-19',
+            'author': {'@type': 'Person', 'name': 'notoriousCASK'},
+            'dateCreated': '2018-04-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0133093/'},
-            'name': 'The benchmark for all sci-fi films to come',
-            'reviewBody': 'The story of a reluctant Christ-like protagonist '
-                          'set against a baroque, MTV backdrop, The Matrix is '
-                          'the definitive hybrid of technical wizardry and '
-                          'contextual excellence that should be the benchmark '
-                          'for all sci-fi films to come.\n'
+            'name': 'Welcome to the Real World.',
+            'reviewBody': 'Without a doubt one of the best and most '
+                          'influential movies of all time, the Matrix is the '
+                          "defining science fiction film of the 1990's and the "
+                          'biggest leap the genre has taken since Stanley '
+                          "Kubrick's 2001: A Space Odyssey and Ridley Scott's "
+                          'Blade Runner. The Matrix is a ground-breaking '
+                          'motion picture that not only raised the bar for all '
+                          'the science-fiction films to come after it but also '
+                          'redefined the action genre with its thrilling '
+                          'action sequences and revolutionary visual effects.\n'
                           '\n'
-                          'Hollywood has had some problems combining form and '
-                          'matter in the sci-fi genre.  There have been a lot '
-                          'of visually stunning works but nobody cared about '
-                          'the hero. (Or nobody simply cared about anything.)  '
-                          'There a few, though, which aroused interest and '
-                          "intellect but nobody 'ooh'-ed or 'aah'-ed at the "
-                          'special effects.  With The Matrix, both elements '
-                          'are perfectly en sync.  Not only did we want to '
-                          'cheer on the heroes to victory, we wanted them to '
-                          'bludgeon the opposition.  Not only did we sit in '
-                          'awe as Neo evaded those bullets in limbo-rock '
-                          'fashion, we salivated.\n'
+                          'The film tells the story of Thomas Anderson a '
+                          'computer hacker that in the world of hacking goes '
+                          'by the alias of Neo. When he is contacted by the '
+                          'mysterious outlaw Morpheus and having always '
+                          'questioned his reality, he is awakened to the truth '
+                          "that the world he's been living in is a simulated "
+                          "reality called the Matrix and that he's nothing "
+                          'more than a slave in this dystopian world, created '
+                          'and controlled by A.I powered machines.\n'
                           '\n'
-                          'But what makes The Matrix several cuts above the '
-                          'rest of the films in its genre is that there are '
-                          'simply no loopholes.  The script, written by the '
-                          'Wachowski brothers is intelligent but carefully not '
-                          'geeky.  The kung-fu sequences were deftly shot -- '
-                          "something even Bruce Lee would've been proud of.  "
-                          'The photography was breathtaking.  (I bet if you '
-                          'had to cut every frame on the reel and had it '
-                          'developed and printed, every single frame would '
-                          'stand on its own.)  And the acting?  Maybe not the '
-                          'best Keanu Reeves but name me an actor who has '
-                          'box-office appeal but could portray the uneasy and '
-                          'vulnerable protagonist, Neo, to a T the way Reeves '
-                          'did.  But, come to think of it, if you pit any '
-                          "actor beside Laurence Fishburne, you're bound to "
-                          'confuse that actor for bad acting.  As Morpheus, '
-                          'Mr. Fishburne is simply wicked!  Shades of his '
-                          'mentor-role in Higher Learning, nobody exudes that '
-                          'aura of quiet intensity than Mr. Fishburne.  His '
-                          'character, battle-scarred but always composed '
-                          'Morpheus, is given an extra dose of mortality (He '
-                          'loves Neo to a fault.) only Mr. Fishburne can flesh '
-                          'out.\n'
+                          'The direction and script by the Wachowskis is '
+                          'fantastic, as they drew ideas and inspirations from '
+                          'every other great sci-fi and cyberpunk movie and '
+                          'anime before the film, combining it with stunning '
+                          'action and putting it into one picture that has '
+                          'enough style, substance and subtext that everyone '
+                          'ended up giving their own interpretation of the '
+                          'story. The research that went into the preparation '
+                          'of the screenplay is quite extensive but the manner '
+                          'in which it is presented on the big screen is also '
+                          'very impressive. Every character presented on the '
+                          'film, has a well-defined arc and a purpose, and '
+                          'their motivations are clear.\n'
                           '\n'
-                          'People will say what they want to say about how '
-                          'good The Matrix is but the bottomline is this: '
-                          "finally there's a philosophical film that has cut "
-                          'through this generation.  My generation. The '
-                          'Wachowski brothers probably scribbled a little P.S. '
-                          'note when they finished the script saying: THINK '
-                          'FOR A MOMENT ABOUT YOUR EXISTENCE.  What is the '
-                          "Matrix, you ask?  Something that's closer to "
-                          'reality than you think.\n'
+                          'The cinematography is impeccable. It was very '
+                          'innovative in the use of the camera angles and '
+                          'movements, the zooms, the slow-motion captures and '
+                          'the different color palette used to differentiate '
+                          'the Matrix and the real World. The editing is '
+                          'flawless, as it makes sure that every scene is '
+                          'integral to the story and ensures the pace of the '
+                          'film stays ferocious through its entire runtime. '
+                          'Each frame is also packed with so much visual '
+                          'information for the viewer to devour. The visual '
+                          'effects introduced us to the bullet-time effect and '
+                          "their impact can still be felt in today's movies. "
+                          'The performances are also incredible. Each member '
+                          'of the cast gave their best performances and '
+                          'brought the characters they portray to life, but '
+                          "the one that stands out the most is Hugo Weaving's "
+                          'disciplined rendition of his character, Agent '
+                          'Smith; a powerful computer program made to search '
+                          'and destroy the human rebellion, in undoubtedly the '
+                          'greatest performance in his career.\n'
                           '\n'
-                          "Either that or it's my personal choice for best "
-                          'film of all-time.',
+                          'In conclusion The Matrix is a masterpiece everyone '
+                          'should see. It is one of the most thought '
+                          'provoking, inventive, pioneering, influential and '
+                          "stylish movies of all time and it's also full of "
+                          'philosophical and religious allegories waiting for '
+                          'interpretation. Immortal for its contribution to '
+                          'cinema and pop culture, its brilliant combination '
+                          'of inventive visual effects, excellent vision and '
+                          'exquisite action easily makes it one of the best, '
+                          'most influential and most entertaining movies ever '
+                          'made.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

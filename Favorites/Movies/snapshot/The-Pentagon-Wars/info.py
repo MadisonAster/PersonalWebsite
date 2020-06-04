@@ -19,7 +19,7 @@
             'url': '/name/nm0001525/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 3562,
+                     'ratingCount': 3565,
                      'ratingValue': '7.3',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -45,25 +45,18 @@
  'keywords': 'cover up,army,military,u.s. air force,u.s. army',
  'name': 'The Pentagon Wars',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'kakilliany'},
-            'dateCreated': '2000-10-09',
+            'author': {'@type': 'Person', 'name': 'davs'},
+            'dateCreated': '2002-11-25',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0144550/'},
-            'name': 'Amazingly lighthanded telling of infuriating Pentagon '
-                    'bureaucraticinfighting',
-            'reviewBody': 'The story itself--the crazy process whereby a '
-                          'simple request for an improved armored personnel '
-                          'carrier resulted in the ridiculous initial design '
-                          'for the Bradley transport--is one that should be '
-                          'well-known.  It is the ultimate cautionary tale '
-                          'about a bureaucracy gone out of control.  What is '
-                          'amazing is the light-handed skill with which the '
-                          'story is told--it is funny when it should be, yet '
-                          'sucks you in sufficiently to get you really mad at '
-                          'what is going on.  And the casting is superb.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
+            'name': 'Surprisingly compelling for a TV movie',
+            'reviewBody': 'The ending scenes are Bill Murray hokey, but the '
+                          'movie is surprisingly compelling.  I was vaguely '
+                          'familiar with the facts behind the story, but I '
+                          "intend to read Mr. Burton's book now.  The part of "
+                          "Burton's assistant seemed to me to be well played.  "
+                          "Grammer's portrayal fit my perception of a Pentagon "
+                          'general, but his aides come out as just '
+                          'caricatures.'},
  'url': '/title/tt0144550/'}

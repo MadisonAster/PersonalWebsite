@@ -21,7 +21,7 @@
             'url': '/name/nm2944939/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 71029,
+                     'ratingCount': 71028,
                      'ratingValue': '6.0',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -48,92 +48,48 @@
  'keywords': 'quarantine,virus,wall,britain,contagion',
  'name': 'Doomsday',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Prof-Hieronymos-Grost'},
-            'dateCreated': '2008-09-10',
+            'author': {'@type': 'Person', 'name': 'ma-cortes'},
+            'dateCreated': '2009-08-22',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0483607/'},
-            'name': 'Crazy plagiaristic fun',
-            'reviewBody': 'A deadly virus of unknown origin has spread rapidly '
-                          'through Glasgow, Scotland, killing its victims '
-                          'rapidly. The British government has built a 12 foot '
-                          'steel wall the whole length of the Scottish/English '
-                          'Border in super quick time, so that nobody can get '
-                          'in or out and so the Scots can rot away to their '
-                          'hearts content. 20 years later in London and there '
-                          'is another outbreak and so the government is forced '
-                          'to act, they know that there are still survivors '
-                          'beyond the wall and so they send a crack team of '
-                          'experts in, to find out if they possibly have '
-                          'immunity and to find the mysterious Dr Kane a '
-                          'scientist they believe might have been working on a '
-                          'cure. The leader of this expedition is Maj. Eden '
-                          'Sinclair, a one eyed woman who as a child had been '
-                          'saved by soldiers at the last moment before the '
-                          'wall closed for the last time. her motives are to '
-                          'see her family home and perhaps find her mother.\n'
+            'name': 'A futuristic movie full of kinetic energy and amazing '
+                    'stunt work',
+            'reviewBody': 'This thunderous picture begins in Great Britain, '
+                          '2007 . A deadly virus spreads causing hundreds of '
+                          'thousands infecting . The government evacuates '
+                          'people and builds an impregnable wall along with '
+                          'the Wall of Adriano, impeding the access . London, '
+                          '2035 recent time, the reaper virus breaks out '
+                          'again. Then , various authorities, P.M (Alexander '
+                          "Siddig) and Canaris(David O'Hara)decide to send a "
+                          'specialists team. Nelson(Bob Hoskins) assigns the '
+                          'dangerous mission to Major Eden (Rhona Mitra). She '
+                          'along with a crack group (Adrian Lester, Sean '
+                          'Petwee, among others)are urgently dispatched into '
+                          'quarantined Scotland to meet Doctor Kane (Malcolm '
+                          'McDowell)who allegedly has a cure. In the '
+                          "near-future Glascow city, they'll have to fight "
+                          'against cutthroats, a band of depraved crazies '
+                          'thirsty for blood and survive some battles '
+                          'to-the-death.\n'
                           '\n'
-                          'Like all films by Neil Marshall this latest effort '
-                          'came with a great air of expectancy, so does it '
-                          'deliver?\x85'
-                          "well it does and it doesn't. Its an apocalyptic "
-                          'tale along the lines of 28 days Later, but it soon '
-                          'spreads its wings and delves into many genres and '
-                          'plucks with its plagiaristic fingers ideas at will '
-                          'from many films. The overall feel of the film is a '
-                          'hotch potch of ideas, one gets the notion that '
-                          "Marshall doesn't have an original idea of his own "
-                          'at all. What is it about the future, that when all '
-                          'law and order has gone and people are struggling to '
-                          'live, find food and drink, some shelter not to '
-                          'mention avoiding a deadly virus etc\x85'
-                          'rational thoughts desert them and the first thing '
-                          'they want to do is build a car or a hotrod '
-                          'motorcycle with skulls on it?\x85'
-                          ".well I'll tell you why, because they need "
-                          'transport to the local Cyber Punk Hair Salon, where '
-                          'they all queue for hours with photographs of their '
-                          'favourite member of Sigue Sigue Sputnik and discuss '
-                          "the merits of Adam Ant's Kings of the Wild "
-                          'Frontier, where they also tell the stylist "I want '
-                          'a Mohican like that...oh and could I have it in '
-                          'bright pink please? damn all out of bright pink, '
-                          'How about luminous aquamarine or cerise? Not only '
-                          "that, but they also live in Glasgow, I don't know "
-                          'if any of you have been to Glasgow, I have many '
-                          'times and its Effing freezing, so why do they all '
-                          'the men go around bear chested and all the ladies '
-                          'wear leather bikinis or less? Maybe its because '
-                          'they are at war with the devilish Dr Kane, who '
-                          'lives in a big Castle, where all the men wear suits '
-                          'of armour and all the ladies have wee lace bonnets '
-                          'and dress like old hags? One thing about a deadly '
-                          'virus it always gives people bad dress sense.\n'
-                          '\n'
-                          'Marshall has made his own bed here and must take '
-                          'responsibility for a lack of imagination, I believe '
-                          'he has stated he wanted this one to be "for the '
-                          'fans", so they could "guess the films he was '
-                          'homaging", but it can\'t take away from the fact '
-                          'that he has single handedly stolen ideas from Mad '
-                          'Max, Escape from New York, 28 days later, Ivanhoe, '
-                          'Gladiator, Indiana Jones and a host of other genre '
-                          'films. So enough of the good things and on to the '
-                          'bad, oh I mean good, Well the film wastes no time '
-                          'in getting going and it goes along at a fair old '
-                          "pace, so fast you don't always have time to turn "
-                          'your eyes to heaven and tut. The special effects '
-                          'are really good, as are the fight scenes and the '
-                          'driving/chase scenes, the acting is a little '
-                          "stilted though, (ooops I'm back on the negatives "
-                          "again...oh well) the dialogue doesn't fare much "
-                          'better. From my comments you might think I hated '
-                          "this film....I didn't, I don't know why but somehow "
-                          'against my better judgement, I actually enjoyed it, '
-                          'its escapism and fantasy on another level, its not '
-                          'great by any means but if you want a mindless '
-                          "entertainment for a couple of hours, this one fit's "
-                          'the bill. 6/10',
+                          'This exciting movie is packed with noisy action, '
+                          'unbelievable car stunts, tension, thrills, chills, '
+                          'and lots of blood and gore, including '
+                          'throating-slit ,beheading, impaling and '
+                          'cannibalism. The story is a blend of classic Sci-Fi '
+                          'movies as ¨Escape from N.Y.¨, ¨27 Days/Weeks later¨ '
+                          'and of course ¨Mad Max¨, taking parts here and '
+                          'there. Thrilling musical score fitting to action by '
+                          'Tyler Bates. Colorful cinematography reflecting '
+                          'splendidly the Scotland outdoors in which resides '
+                          'the Doctor Kane and where he has built a medieval '
+                          'world. The motion picture is well directed by Neal '
+                          'Marshall (Descent, Dog soldiers) but with no '
+                          'originally because he has copied previous films. '
+                          'This remarkable action film appeal to science '
+                          'fiction buffs',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '6',

@@ -45,37 +45,50 @@
  'keywords': 'intellectual property,ford,windshield wiper,automaker,engineer',
  'name': 'Flash of Genius',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Seamus2829'},
-            'dateCreated': '2008-10-19',
+            'author': {'@type': 'Person', 'name': 'Chrysanthepop'},
+            'dateCreated': '2009-05-26',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1054588/'},
-            'name': "You Gotta Give The Underdog It's Due",
-            'reviewBody': 'You just got to hand it to Greg Kinnear. He has '
-                          'certainly put all of himself in every role he has '
-                          "undertaken. From the host of E Entertainment's "
-                          "'Talk Soup', onto such film roles as 'Little Miss "
-                          "Sunshine','Auto Focus' & this fine film. Kinnear "
-                          'plays a downtrodden Joe Sixpack from the suburbs, '
-                          'with his wife & six children. Here he is an '
-                          'engineering professor who has re-invented the '
-                          'windshield wiper (or did he just upgrade it?), only '
-                          'to have his idea stolen by Ford Motors. After 12 '
-                          'years of struggle that includes a nervous breakdown '
-                          '& the melt down of his marriage, he finally has his '
-                          'day in court. Does he emerge the victorious? I '
-                          "won't kiss & tell. This is a quiet,understated "
-                          'little film that deserved far better than it got. '
-                          'Alan Alda also shines as his attorney that tries to '
-                          'go to bat for him. This is one of those films that '
-                          '(hopefully)will have a second chance when it gets '
-                          'released on DVD. Slapped a PG-13 by the MPAA for '
-                          'some salty language,a moment of sensuality & some '
-                          'rather erratic behavior,due to a nervous breakdown.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '9',
-                             'worstRating': '1'}},
+            'name': "It's About Giving Credit To The Right Person For The "
+                    'Effort And Hardwork',
+            'reviewBody': 'I, for one, strongly oppose any kind of plagiarism '
+                          'because nobody has the right to steal someone '
+                          "else's work and claim it to be theirs. 'Flash of "
+                          "Genius' tells the heartbreaking story of inventer "
+                          'Dr. Kearns. While windshield wipers may sound like '
+                          'a small thing that hardly many give consideration '
+                          "to (as Kearns's friends have told him), it's not a "
+                          'matter of the object at hand but the effort that '
+                          'went behind it and why should credit go to somebody '
+                          'else? I admire Kearns for putting up a fight and '
+                          'keeping up the battle for justice and even though '
+                          "it cost him his family, he fought to the end. I'm "
+                          "surprised as to how little recognition 'Flash of "
+                          "Genius' received considering that the story is "
+                          "extremely relevant even for today's world.\n"
+                          '\n'
+                          'The director does a splendid job in telling this '
+                          'moving story. Greg Kinnear delivers a heartfelt '
+                          'lowkeyed performance which is among one of the best '
+                          'of his career. Unfortunately, he remains an '
+                          'underrated actor but I hope he keeps making the '
+                          'wise film choices and gets his due soon. Lauren '
+                          'Graham is wonderfully restrained and marvelous but '
+                          "she's risking getting typecast (she's played "
+                          "supportive wife in two other recent movies 'Evan "
+                          "Almighty' and 'Birds of America'). Dermot Mulroney "
+                          'too stands out as Privick. \n'
+                          '\n'
+                          'Where the technical department is concerned, the '
+                          'director has used a lot of subtlety with the '
+                          'cinematography, soundtrack and visuals. It is only '
+                          'later that we realize what an important symbol rain '
+                          'is in this movie. The washed out colour adds to the '
+                          "tense, stressful and sad atmosphere. 'Flash of "
+                          "Genius' is definitely a worthy watch not only "
+                          'because it tells an engaging story but a very '
+                          'relevant one.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'This is the first trailer for Flash of Genius, '
                             'directed by Marc Abraham.',

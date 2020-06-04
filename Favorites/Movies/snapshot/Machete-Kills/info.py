@@ -19,7 +19,7 @@
             'url': '/name/nm0004695/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 72810,
+                     'ratingCount': 72814,
                      'ratingValue': '5.6',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -53,34 +53,53 @@
              'neck,woman murders a man,murderess',
  'name': 'Machete Kills',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'rascally14-211-213571'},
-            'dateCreated': '2015-01-13',
+            'author': {'@type': 'Person', 'name': 'BA_Harrison'},
+            'dateCreated': '2013-12-17',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2002718/'},
-            'name': 'This is a comedy',
-            'reviewBody': 'The humor is subtle and much of it is too subtle '
-                          'for the average viewer as I see from the posts '
-                          'below. If one views it as a "Kill Bill" kind of '
-                          'silliness that looks at the Mexican/Us border, then '
-                          'one may enjoy it. \n'
+            'name': 'Move over, Speedy Gonzales!',
+            'reviewBody': "In Robert Rodriguez's Machete Kills, Danny Trejo's "
+                          'character—deadly Mexican secret agent Machete '
+                          'Cortez—is about as three-dimensional and grounded '
+                          'in realism as a Looney Tunes cartoon character '
+                          'tripping on peyote. For many, this move towards a '
+                          'crazier style with even more unbelievable '
+                          'splatstick violence will be a step too far, the '
+                          'live-action-cartoon style antics exceeding many '
+                          "people's willingness to suspend disbelief. However, "
+                          'those who can find their way safely past this '
+                          'potential stumbling block should have a whale of a '
+                          'time.\n'
                           '\n'
-                          'The movie is not self-indulgent, rather it takes '
-                          'common stereotypes and puts them into funny '
-                          'situations. It has dark humor at times and makes no '
-                          'apologies for making fun of everything. It takes on '
-                          'many issues in a light-hearted way, but for some '
-                          'reason, it is not listed as a comedy. It, however, '
-                          'is a comedy. \n'
+                          'Rodriguez directs proceedings with a carefree '
+                          'attitude and sense of fun that I found infectious, '
+                          'with all ideas—no matter how dumb they must have '
+                          'looked on paper—making their way into the final '
+                          'film. Thus, we have a Bond-style baddie in the form '
+                          'of megalomaniac Luther Voz (Mel Gibson), our hero '
+                          'killing numerous henchmen in a variety of creative '
+                          'ways, some innovative sci-fi weaponry, plenty of '
+                          'cool in-jokes for us movie geeks (I loved the '
+                          'visual reference to Mad Max II) and a bevy of '
+                          'lovely latino babes in sexy gear (including Alexa '
+                          'Vega in PVC and Michelle Rodriguez in tight, '
+                          'cleavage enhancing top). Hell, Rodriguez is having '
+                          "so much fun that he doesn't even care about the "
+                          'quality of his CGI, which only adds to the '
+                          'gleefully gaudy vibe.\n'
                           '\n'
-                          "The hero is a clever native American which is it's "
-                          "twist. The movie's plot is not predictable and it "
-                          'is filled with guns and shoot ups. It is a modern '
-                          'comedy that pokes fun at US politics and all its '
-                          'insincerity.\n'
+                          'It all gets very silly, and with the next sequel '
+                          "featuring Machete in space, it's set to get a whole "
+                          "lot sillier; I for one will make sure I've booked "
+                          'my seat for the ride.\n'
                           '\n'
-                          'Watch it. Do not take it seriously as an action '
-                          'flick and allow it to be the comedy that it is.'},
+                          '7.5 out of 10, rounded up to 8 for being marginally '
+                          'more fun than the first one.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '8',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The U.S. government recruits Machete to battle '
                             'his way through Mexico in order to take down an '

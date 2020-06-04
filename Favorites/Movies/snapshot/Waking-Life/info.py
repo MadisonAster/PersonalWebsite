@@ -21,7 +21,7 @@
             'url': '/name/nm0927812/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 59356,
+                     'ratingCount': 59361,
                      'ratingValue': '7.8',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -49,58 +49,56 @@
              'dreaming',
  'name': 'Waking Life',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'kolangandedg'},
-            'dateCreated': '2001-11-07',
+            'author': {'@type': 'Person', 'name': 'Spamlet'},
+            'dateCreated': '2003-03-19',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0243017/'},
-            'name': 'Waking Life: philosophical therapy.',
-            'reviewBody': 'This film, if seen by someone who has DEEPLY '
-                          'considered the mysteries of life, will thoroughly '
-                          "delight. If you don't have a spiritual bone in your "
-                          'body, avoid. It has its flaws, but only in '
-                          'retrospect or through the eyes of another will they '
-                          'be found--and then forgiven if you have even an '
-                          'ounce of heart or a particle of transcendence.\n'
+            'name': 'A film for passionate thinkers.',
+            'reviewBody': 'This is one of the most thought provoking films '
+                          "I've ever seen. It's also visually stunning and "
+                          'perfectly acted: every single one of these people '
+                          'seem to be just giving their own opinions as if you '
+                          'were overhearing/having a meaningful conversation '
+                          'with them. \n'
                           '\n'
-                          "It gets beneath one's radar and past one's "
-                          'filters.\n'
+                          'We can chalk this up to the genius of Linklater who '
+                          'over the years has shown not only the pretentiously '
+                          'humorous coffee house crowd cliches but also the '
+                          'searching, often deeply insightful side of our '
+                          'generation that the media overlooked when we were '
+                          'dubbed slackers. In films he has written: "Slacker" '
+                          'and "Before Sunrise" and in his films of stage '
+                          'plays Bogosian\'s brilliant, Chekhovian "SubUrbia" '
+                          'and the faintly melodramatic "Tape", Linklater has '
+                          'always been fascinated with the question of what we '
+                          'should doing with our lives. Our responsibility is '
+                          'to contribute something lasting and meaningful to '
+                          'our society. But what exactly is that? Where and '
+                          'when should I do it? Who with? How do I know if '
+                          "I've really found it? Why is it so important again, "
+                          'anyway?\n'
                           '\n'
-                          'For instance, it hits you perceptually with '
-                          'constantly varying animation styles, and after some '
-                          'time, you adjust to this so much that when you '
-                          'leave the theater, THE WORLD IS ANIMATED--a poetic '
-                          'way of saying that your connection to the '
-                          'proposition that all things are real is loosen '
-                          'WONDERFULLY!\n'
+                          ' I saw this movie for the first time late last '
+                          'night and 5 minutes before it started I had fallen '
+                          "asleep and was hoping I'd be able to make it all "
+                          'the way through the film. From the first frame I '
+                          'was riveted and completely awake and remained so '
+                          'even after it was over; contemplating all the '
+                          'myriad viewpoints the film had thrown at me.\n'
                           '\n'
-                          'And then, it hits you intellectually by parading a '
-                          'dozen+ viewpoints of persons who would not '
-                          'necessarily disagree with one another, but show the '
-                          'vast importance to us of the personal way we '
-                          'manifest our philosophical axioms and how much that '
-                          'depends on our individual interests-not all of us '
-                          'are psychologically constructed to be philosophers, '
-                          'but all of us can be analyzed to have a '
-                          'philosophical set of suppositions. Waking Life '
-                          'challenges these suppositions by merely presenting '
-                          'to you, in dramatic form, persons who vividly '
-                          "present their `takes' on the concepts and how they "
-                          'are impacted by them...especially emotionally.\n'
+                          'This movie is so exciting and bursting with ideas '
+                          "that I'm going to buy the DVD as soon as I possibly "
+                          'can and watch it over and over trying to absorb it '
+                          'all.\n'
                           '\n'
-                          "Ultimately, this is not a movie, and it shouldn't "
-                          'be viewed as such; instead, one should approach it '
-                          'as therapy. See it, be with it, relax, and GROW. '
-                          'Every time you see it again, the concepts saturate '
-                          'your nervous system with reinforcing patterns that '
-                          'will later "echo" in your dynamics in synergistic '
-                          'ways. A seed gets planted and with repeated '
-                          'viewings the seed gets watered.\n'
-                          '\n'
-                          "Go to this event. See it from a seat that's within "
-                          'the first ten rows of the theater; immerse '
-                          'yourself. Let go. All you have to lose (loosen) is '
-                          'identification with a reflection of the real you.'},
+                          'See this film. It will remind you of how thrilling '
+                          'it is to be an active thinking, feeling member of '
+                          'the human race.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '10',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from 20th Century Fox Home '
                             'Entertainment',

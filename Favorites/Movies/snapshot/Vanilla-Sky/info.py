@@ -19,7 +19,7 @@
             'url': '/name/nm0000621/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 242243,
+                     'ratingCount': 242258,
                      'ratingValue': '6.9',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -52,34 +52,29 @@
  'keywords': 'dream,death,mask,nightmare,mental institution',
  'name': 'Vanilla Sky',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'belowzero8'},
-            'dateCreated': '2007-12-07',
+            'author': {'@type': 'Person', 'name': 'shirazh'},
+            'dateCreated': '2006-08-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0259711/'},
-            'name': 'Sweet and Sour',
-            'reviewBody': '"The sweet is never as sweet without the sour." '
-                          'This quote was essentially the theme for the movie '
-                          'in my opinion. Tom Cruise plays a young man who was '
-                          'handed everything in his life. He takes things for '
-                          'granted and it comes around full swing in this '
-                          'great movie with a superb twist. This film will '
-                          'keep you engaged in the plot and unable to pause it '
-                          'to take a bathroom break.\n'
-                          '\n'
-                          'Its a movie that really makes you step back and '
-                          'look at your life and how you live it. You cannot '
-                          'really appreciate the better things in life (the '
-                          'sweet), like love, until you have experienced the '
-                          'bad (the sour). The theme will really get you to '
-                          '"open your eyes".\n'
-                          '\n'
-                          'Only complaint is that the movie gets very twisted '
-                          'at points and is hard to really understand. I think '
-                          'the end is perfect though. I recommend you watch it '
-                          'and see for yourself.',
+            'name': 'Very Philosophical..Good',
+            'reviewBody': 'The movie is all about a pop culture addict not '
+                          'aware of the consequences he is going to face after '
+                          'hurting his girlfriend.As he says in the movie its '
+                          'always the small things that changes your life in a '
+                          'big way.The movie gives a clear picture about how '
+                          'dream works and our subconscious mind.David has an '
+                          'inferior feeling about his looks that literally '
+                          'drives Sophia away. He believes it is because of '
+                          'his face.The movie actually takes a turn as a brain '
+                          'teaser,post accident, not explaining things very '
+                          'clearly just like a weird dream. The ending could '
+                          'have been much better as it gives only a glimpse of '
+                          'what actually happened.It took the movie to where '
+                          'it started leaving many questions unanswered.Anyway '
+                          'it is worth a watch....',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'url': '/title/tt0259711/'}

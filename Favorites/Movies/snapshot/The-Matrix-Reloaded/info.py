@@ -21,7 +21,7 @@
             'url': '/name/nm0915989/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 501125,
+                     'ratingCount': 501160,
                      'ratingValue': '7.2',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -59,94 +59,72 @@
  'keywords': 'oracle,cult film,prophecy,alternate reality,three word title',
  'name': 'The Matrix Reloaded',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'uds3'},
-            'dateCreated': '2003-05-30',
+            'author': {'@type': 'Person', 'name': 'Dillypogo'},
+            'dateCreated': '2008-08-19',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0234215/'},
-            'name': 'The Matrix: Deflated!',
-            'reviewBody': 'The Wachowskis, having bitten off more than they '
-                          'can digitise in this, the second "coming" of so '
-                          "many computer nerd's wet dreams, have over-stepped "
-                          'their dubious talent here - obviously victims of '
-                          'their own hype! THIS is the computer game - THE '
-                          'MATRIX was the movie!\n'
+            'name': 'The Matrix Reloaded: Visually stunning, utterly '
+                    'confusing!',
+            'reviewBody': '"What\'s going on?" "Man, that was cool." "Jesus, I '
+                          'need a dictionary." These three things went through '
+                          'my mind while I watched The Matrix Reloaded. Keanu '
+                          'Reeves returns as Neo, who goes to the city of Zion '
+                          'along with Morpheus (Laurence Fishburne) and '
+                          'Trinity (Carrie-Anne Moss.) As approaching '
+                          'sentinels get closer and closer to the city, an old '
+                          'enemy (Hugo Weaving) pops up again, determined to '
+                          "destroy Neo. As if that weren't enough, Neo has a "
+                          'dream about Trinity dying and he wonders if it will '
+                          'come true.\n'
                           '\n'
-                          'To be expected, the flick has its die-hard '
-                          'adherents who would happily take a lie-detector '
-                          'test to convince us that they alone can penetrate '
-                          'the bulldust and fathom a master-plan in progress. '
-                          'This armored, but essentially - cranially displaced '
-                          "movie, is, like the sum of Morpheus' spoutings, "
-                          'heavy on pretense, light on significance. '
-                          'Fishburne\'s Moses-inspired "address to the nation" '
-                          'atop Pride Rock, must rank as the most non-sensical '
-                          'piece of dialog ever uttered in a movie. Even HE '
-                          'looks utterly embarrassed to be there, frequently '
-                          'pausing as if wondering "WHAT did I just say?" The '
-                          'entire sequence in fact, including the orgiastic '
-                          'rave with a BLADE soundtrack, appears to have been '
-                          'inspired by THE TEN COMMANDMENTS.\n'
+                          'The premier problem with The Matrix Reloaded is '
+                          "that it's incredibly confusing. For the majority of "
+                          "the film I couldn't understand what was going on or "
+                          'who new characters were. For example, Lambert '
+                          'Wilson plays a French character called Merovingian '
+                          "and after four viewings of the film, I still don't "
+                          'know what purpose his character serves.\n'
                           '\n'
-                          'As for THAT completely loopy and sex-less coupling '
-                          'with Carrie Ann Moss, I had to avert my eyes for '
-                          "fear of being rendered sterile! (Talk about LOT's "
-                          "wife!) C'mon....the woman looks old enough to be "
-                          "Reeve's mother and unintentionally cruel though it "
-                          'is, has any love interest ever been less attractive '
-                          'in the history of cinema? Reeves MUST have been '
-                          'wearing shades to do it! (Footnote to Miss Moss: No '
-                          "insult intended Carrie, I'm no better - way past my "
-                          'own use-by date but hey, LOVED the catwoman '
-                          'outfit!)\n'
+                          'There is a scene near the end of the film in which '
+                          'you will definitely need a dictionary beside you. '
+                          'People who have seen the film will know that I am '
+                          'talking about the scene with The Architect, (Helmut '
+                          'Bakaitis) who has the widest vocabulary in the '
+                          'universe. I understand that it works for his '
+                          "all-knowing character, but what I don't understand "
+                          "is....well, what the bloody hell he's going on "
+                          'about. An example of a sentence he says is "you are '
+                          'the eventuality of an anomaly, which despite my '
+                          'sincerest efforts I have been unable to eliminate '
+                          'from what is otherwise a harmony of mathematical '
+                          'precision." What? \n'
                           '\n'
-                          ' Reeves in fact appears majorly stilted and wooden '
-                          'throughout proceedings here (yeah, I know that IS '
-                          'par for the course for dear old Keanu, but Hell, '
-                          "couldn't NEO (gosh thats brilliant - anagram of "
-                          'ONE,  Thank you HAL!) have had just a little fun? '
-                          'As for his excruciatingly prolonged brawl with the '
-                          'replicated Agent Smiths....what the HELL was '
-                          'that?.....realistic? meaningful? intellectual? '
-                          'spiritual? None of the above, this was pretentious, '
-                          'laughable, overlong and irritating. Did LESS than '
-                          "nothing for the flick's credibility. One may also "
-                          'well ask, why, with his ability to leap tall '
-                          'buildings and fly at warp factor 10, would he even '
-                          'be bothered with such mundane fisticuffs in the '
-                          'first place? If he can repel bullets and the '
-                          'considerably better equipped aliens simply by '
-                          'holding his hand up, whats the deal here with the '
-                          'army of Weavings?  The sequence of course was not '
-                          'intended for logical contemplation. simply to '
-                          'impart to the popcorn-munching cretins that "hey, '
-                          'ain\'t this one FUN movie?"\n'
+                          "The saviour of The Matrix Reloaded are it's "
+                          'jaw-droppingly brilliant action sequences. '
+                          'Amazingly choreographed and with top-notch special '
+                          'effects, they are what The Matrix trilogy is famous '
+                          'for. I have to say that The Matrix Reloaded '
+                          'definitely has the best action sequences out of the '
+                          'three films and two of my favourite movie scenes '
+                          'are actually from this. My personal favourite scene '
+                          'is when Neo battles an army of Agent Smiths for '
+                          "about eight minutes. Rob Dougan's music during "
+                          'these action sequences also add to the suspense.\n'
                           '\n'
-                          'Quantum physics, Crane-crap, Zen Buddhism, Armani '
-                          'fashions, Cecil B De Mille, Fritz Lang and Jacke '
-                          'Chan aside, what are we LEFT with here?  A '
-                          'half-decent freeway chase and ONLY the second other '
-                          'intelligent part of the movie - the sequence with '
-                          'the architect. The latter being the greatest, most '
-                          'perceptive and well delivered flurry of meaningful '
-                          'adjectival literacy since Lord Henry gave Dorian a '
-                          'lesson in societal objectivity in THE PICTURE OF '
-                          'DORIAN GRAY. I cannot believe that greater than 2% '
-                          "of the MATRIX RELOADED's entire audience worldwide "
-                          'would have had the slightest idea of what was being '
-                          'said!\n'
+                          'Like any sequel, The Matrix Reloaded will always be '
+                          'compared to its predecessor, which is not good for '
+                          'TMR. The first film was more intelligent and '
+                          'intriguing, but the action sequences in the sequel '
+                          'were slightly better.\n'
                           '\n'
-                          'The less said about the ending (and I use the term '
-                          'loosely), the better. You want thought provoking '
-                          'Sci-fi? stick with 2001 or BLADE RUNNER. You want '
-                          'action?  MAD MAX 2: THE ROAD WARRIOR leaves this '
-                          'for dead and WITHOUT CGI. You want superb '
-                          'characterisation? try BILLY BUDD on for size. Maybe '
-                          'gothic brilliance is your thing? THE INNOCENTS '
-                          'awaits you! You wanna be swept along with the '
-                          'crowd?  better catch MATRIX RELOADED (actually a '
-                          "sequel to THE EMPEROR'S NEW CLOTHES) before you "
-                          'actually get a chance to think!'},
+                          'With a confusing plot, The Matrix Reloaded '
+                          'disappoints, but the action sequences are '
+                          'top-notch. I give it 6/10.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '6',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer',
              'embedUrl': '/video/imdb/vi3086352665',

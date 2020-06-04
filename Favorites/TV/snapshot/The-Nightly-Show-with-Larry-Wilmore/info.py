@@ -36,33 +36,59 @@
  'keywords': 'satire',
  'name': 'The Nightly Show with Larry Wilmore',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'chamsden'},
-            'dateCreated': '2015-01-26',
+            'author': {'@type': 'Person', 'name': 'spacewars'},
+            'dateCreated': '2015-09-25',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3722332/'},
-            'name': 'Not a Good Solo Act',
-            'reviewBody': 'I loved Larry Wilmore on the Daily Show, so I gave '
-                          "him a full week's chance on his own ... but it's "
-                          'not working. The problem, I think, is that Larry '
-                          "isn't a great solo act. On the Daily Show, as the "
-                          '"Senior Black Corespondent," he was bouncing off of '
-                          "Stewart. Maybe that's why they decided to do these "
-                          'panel discussions for a good majority of the show, '
-                          "but I've never found it interesting to watch a "
-                          'group of strangers (or near strangers) chat about a '
-                          'subject.\n'
-                          '\n'
-                          "I don't mind that the show is focused on black "
-                          'issues and concerns, and in fact I was ready to '
-                          'find that spin refreshing. His panels are somewhat '
-                          "racially diverse, so I don't feel left out as a "
-                          "white woman ... I'm afraid I just don't think the "
-                          "format is working, and I'm not convinced that Larry "
-                          'has the right force of personality to make this '
-                          'show work.',
+            'name': 'Awkward, irritating and one-dimensional',
+            'reviewBody': 'I really, _really_ wanted to like this show, as a '
+                          'longtime TDS/Colbert viewer who generally enjoyed '
+                          'Wilmore as the TDS "Chief Black Correspondent". I '
+                          "think at this point it's fair to say I've given "
+                          "Wilmore's show more than a fair shot, but here's "
+                          "the problem: He just doesn't have today's mandatory "
+                          'combination of comedic brilliance, broad-based '
+                          'political gravitas and plain old charisma to pull '
+                          'off a show of his own in this genre. Granted, the '
+                          'Stewart/Colbert/Maher/Oliver axis have set the bar '
+                          'for this kind of host extremely high. However, the '
+                          'fact remains that Wilmore was a poor choice to fill '
+                          "Colbert's old time slot, as he simply isn't "
+                          'broadly-based or, well, funny enough to carry it '
+                          'off. This fundamental weakness is exacerbated by '
+                          'the fact that his writers and panel guests (who are '
+                          'all too often the same people) range from tiresome '
+                          'to downright terrible, and the sameness of the '
+                          'show\'s content ("Black issues! Finally, we\'re '
+                          'getting a vehicle with which to give them the '
+                          'attention they deserve!") is so oppressively '
+                          '(sorry) relentless, day in and day out, that the '
+                          'end result is unwatchable. At least in its current '
+                          'incarnation, this is essentially a predictable, '
+                          'one-note show, hosted by a guy who, while clearly a '
+                          "talented writer, just doesn't have enough scope to "
+                          'fill the suit here. I really wish he was better at '
+                          "what he's trying to do than he is, because the "
+                          'truth is, we could really do with the perspective '
+                          'of a truly sophisticated black comedian/writer who '
+                          'genuinely is in the same talent stratum as '
+                          'Stewart/Colbert/Maher/Oliver; it would be '
+                          "refreshing and necessary. Trouble is, Wilmore ain't "
+                          "that guy. Now, I've seen some people jump in here "
+                          'in a very reactionary way, complaining about the '
+                          'torrent of negative reviews, with the basic thesis '
+                          'of "stop criticizing Larry, it\'s early days, give '
+                          'him time! Look how Stewart was in the beginning!" '
+                          "Sorry kids, but this doesn't hold water. Stewart "
+                          'was indeed a bit awkward at the start, but the '
+                          'evidence of his brilliance and sharp intellect was '
+                          'there from the beginning, despite the ill-fitting '
+                          'suits. Wilmore, however, has far more fundamental '
+                          "deficiencies, and sadly, they're of the sort that "
+                          "can't be fixed with superficial mid-season tweaks.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '4',
+                             'ratingValue': '1',
                              'worstRating': '1'}},
  'url': '/title/tt3722332/'}

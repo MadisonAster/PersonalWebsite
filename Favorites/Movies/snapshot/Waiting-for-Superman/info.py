@@ -48,67 +48,82 @@
              'california,woodside california',
  'name': "Waiting for 'Superman'",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'DoveFoundation'},
-            'dateCreated': '2010-09-24',
+            'author': {'@type': 'Person', 'name': 'richard-1787'},
+            'dateCreated': '2010-10-19',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1566648/'},
-            'name': 'This stirring documentary sends out shock-waves of '
-                    'injustice',
-            'reviewBody': 'This stirring documentary sends out shock-waves of '
-                          'injustice and even a bit of a sense of futility '
-                          "when it explores the state of America's public "
-                          'schools. Interviews with education specialists, '
-                          'school superintendents and even Bill Gates add up '
-                          'to an impressive assembly of informed adults who '
-                          "know what the problem is, but haven't figured out a "
-                          'way to fix it on a large scale.\n'
+            'name': 'This movie should be mandatory viewing for all Americans',
+            'reviewBody': "Yes, a 10. This movie is spectacular. I can't "
+                          'remember the last time I got so caught up in a '
+                          'documentary.\n'
                           '\n'
-                          'Washington, D.C. schools superintendent Michelle '
-                          'Rhee says it well when she summarizes the basic '
-                          'problem: "Public schools fail when children\'s '
-                          'education becomes about the adults." The adults who '
-                          'fail these children are not limited to public '
-                          'officials and government bureaucrats, though; a '
-                          'large portion of the blame is reserved for '
-                          "ineffective teachers and the teachers' unions who "
-                          'ensure that those teachers receive tenure and '
-                          'cannot be removed from schools. The documentary '
-                          'focuses on five public school children who '
-                          'represent inner-city kids with broken families and '
-                          'day-to-day financial struggles (except for a '
-                          'student of middle-class parents in the Silicon '
-                          'Valley). With that one exception, all are enrolled '
-                          'in failing public elementary schools and have '
-                          'little chance of graduating high school if they '
-                          'move on to the assigned secondary schools in their '
-                          'districts. The tear-jerking climax sees each of the '
-                          'kids attending a lottery drawing for limited spaces '
-                          'at public charter schools and rare, effective '
-                          'public schools within or outside of their district. '
-                          'Witnessing the academic chances for these kids '
-                          'being decided by such a random, impersonal process '
-                          'is heart-breaking and calls into question the very '
-                          'nature of American values like "Protestant work '
-                          'ethic," "equality," "freedom" and "the ability to '
-                          'pull oneself up by one\'s bootstraps" and make the '
-                          'future brighter.\n'
+                          'This movie seeks to do two things, 1) to show how '
+                          'bad bad public education in this country is and to '
+                          'suggest some of the reasons (the two teachers '
+                          'unions, the administrative bureaucracy, etc.); 2) '
+                          'to suggest a solution.\n'
                           '\n'
-                          'The language is limited to a few expletives. The '
-                          'film deals with a tangled web of adult issues that '
-                          "make a child's education more difficult, which "
-                          'probably puts it outside the spectrum of interest '
-                          'for most kids under age 12. However, when watched '
-                          'with parents, it could create some valuable family '
-                          'discussions on the importance of education and may '
-                          'even activate a family to become advocates for '
-                          'change. We award "Waiting for Superman" the Dove '
-                          'Family-Approved Seal for audiences over age 12 and '
-                          'praise the filmmakers for presenting many teachable '
-                          'moments.',
+                          'It does 1) in a devastatingly powerful fashion. '
+                          'There are other reasons for the poor quality of '
+                          'some American education that he does not broach, '
+                          'like the stupid training given by mediocre and bad '
+                          'schools of education, low teacher certification '
+                          'standards in some states, the danger of leaving it '
+                          'up to principals to hire teachers when some of them '
+                          'have no interest in or understanding of education, '
+                          'etc. But going into all of that would have made '
+                          'this movie hours and hours long. Still probably '
+                          'very interesting, but impractical as a commercial '
+                          'venture.\n'
+                          '\n'
+                          '2) it does well also, but the viewer needs to sit '
+                          'back afterward and think through exactly what is '
+                          'being proposed as a solution. That solution is a '
+                          'certain sort of education now being offered in '
+                          'certain (not all, by any means) urban charter '
+                          'schools that function free of all the obstacles '
+                          '(bureaucracy, school boards, teachers unions, etc.) '
+                          'that block change in regular public schools. But '
+                          'the students in those charter schools are all there '
+                          'because their parents/guardians made the effort to '
+                          'get them there.\n'
+                          '\n'
+                          'In other words, superlative teaching works with '
+                          'students who have support at home. This is '
+                          "wonderful, but it's not either a surprise or a "
+                          'miracle. It sounds like a magnificent way of '
+                          'educating the children of caring and concerned '
+                          "parents/guardians who can't flee the inner city to "
+                          'the better schools of the suburbs. But it does not '
+                          'address the problem of what is to be done with all '
+                          'the students who are children/wards of individuals '
+                          "who don't give a damn about their education.\n"
+                          '\n'
+                          'That is probably the subject of another film.\n'
+                          '\n'
+                          'This one, meanwhile, is magnificent, from first '
+                          'moment to last. The lottery scenes near the end are '
+                          'perhaps the most enthralling, but it is all very '
+                          'good.\n'
+                          '\n'
+                          'I kid you not. Every American should have to see '
+                          'this movie.\n'
+                          '\n'
+                          'P.S. I notice that there are some scathing reviews '
+                          'of this movie on here. Remember in reading them '
+                          'that WfS pulls no punches: it goes after the AFT '
+                          'and NEA with a vengeance, and those two '
+                          'organizations will no doubt do whatever they can to '
+                          'discredit this movie. Beware anything that comes '
+                          'from them, therefore. Bill Gates has long said that '
+                          'those two organizations are two of the biggest '
+                          'roadblocks to educational reform in this country. '
+                          "This movie documents that, and those unions won't "
+                          'take that lying down.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'This documentary follows a handful of promising '

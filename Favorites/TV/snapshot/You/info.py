@@ -21,7 +21,7 @@
             'url': '/name/nm5634768/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 124128,
+                     'ratingCount': 124170,
                      'ratingValue': '7.8',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -45,29 +45,25 @@
  'keywords': 'bookstore,obsessive love,stalker,new york,obsession',
  'name': 'You',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'kirstywalters77'},
-            'dateCreated': '2018-11-18',
+            'author': {'@type': 'Person', 'name': 'hemk-25799'},
+            'dateCreated': '2019-12-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt7335184/'},
-            'name': 'What a shame!',
-            'reviewBody': 'I could go on and on about the absolute waste of a '
-                          'great plot line, bad writing for the entire cast '
-                          'with 1 exception etc. But the only thing stopping '
-                          'me even enjoying it as a guilty pleasure (which '
-                          "could've been avoided) is the awful acting by the "
-                          "ever self-involved 'Beck' !!.... Who on earth? "
-                          '(even with the blatant problems of Joe) would even '
-                          'give this irritating, millennial, pretention the '
-                          'time of day, never mind killing, cheating, '
-                          'obsessing over her, yadayada!!!! ..... Terrible '
-                          "actress and a weak female lead, considering she's "
-                          "supposed to be a 'writer' I feel the irony in her "
-                          'scripts are beyond hilarity. This show only holds '
-                          "up due to Penn Badgley. If it wasn't for his part, "
-                          'this would be entirely unwatchable. I wish more '
-                          'thought could have gone into all of the other '
-                          'vacuous brat pack characters.'},
+            'name': 'You & You 2',
+            'reviewBody': 'First Season was intriguing and spend some time on '
+                          'development hence a bit slow. Second Season is '
+                          'amazing takes the show to a new level. Penn Badgley '
+                          'the lead actor is good in both seasons but in '
+                          'season 2 his character is completely overtaken by '
+                          'Victoria Pedretti. Her character is just amazing, '
+                          "she's is a great actress, and she did full justice "
+                          'to Love Quinn. If at all season 3 comes i would '
+                          'want to watch it for Victoria Pedretti. Go watch it',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '9',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "Meet Will Bettelheim. He's not your regular Joe. "
                             "He's new to LA and has sworn off love. But love, "

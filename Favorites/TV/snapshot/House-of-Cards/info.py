@@ -19,7 +19,7 @@
            {'@type': 'Person', 'name': 'Kate Mara', 'url': '/name/nm0544718/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 451924,
+                     'ratingCount': 451948,
                      'ratingValue': '8.7',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -41,24 +41,66 @@
              'manipulation,machiavellianism,husband wife relationship',
  'name': 'House of Cards',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'aquanimbus-ganesh'},
-            'dateCreated': '2018-07-06',
+            'author': {'@type': 'Person', 'name': 'Caterpillar_City'},
+            'dateCreated': '2013-02-01',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1856010/'},
-            'name': "The series ended with Spacey's departure",
-            'reviewBody': 'This is one of the best shows; excellent story, '
-                          'good script, exceptional acting by everyone, and '
-                          'good cinematography. The fifth season was a bit '
-                          "slow, but, what's disappointing is Spacey's "
-                          'departure (removal, rather) from the show. No '
-                          'matter how good the others were, Spacey is what '
-                          'made this show perfect. Without him, there is no '
-                          'way the show can survive. The series has ended for '
-                          'me.',
+            'name': "Netflix's Foray into Original Programming is off to a "
+                    'Promising Start',
+            'reviewBody': 'Fans of David Fincher and Kevin Spacey have been '
+                          'eagerly looking forward to House of Cards. Not only '
+                          'is this an opportunity to see an elite Hollywood '
+                          'director and actor take on a new medium, but it '
+                          "represents Netflix's first attempt at original "
+                          'programming (I guess Lilyhammer came first, but '
+                          'House of Cards is a much bigger investment for '
+                          'Netflix). The CEO of Netflix has said that House of '
+                          'Cards is meant to be a show on the quality level of '
+                          'the top cable stations, such as HBO, and the final '
+                          'product delivers on this promise.\n'
+                          '\n'
+                          'House of Cards follows several characters involved '
+                          'in the political scene in Washington D.C., '
+                          'including politicians of various rank and influence '
+                          '(Kevin Spacey is a House Majority Whip in the House '
+                          'of Representatives) and an upcoming reporter played '
+                          'brilliantly by Kate Mara, who you may recognize '
+                          'from the first season of American Horror Story. The '
+                          'cast in uniformly excellent and thrives under '
+                          "Fincher's direction. Occasionally, Kevin Spacey's "
+                          'character will talk directly to the camera and '
+                          'offer some narration, which is the only area where '
+                          "the show stumbles, but it isn't too distracting. "
+                          "Speaking of Fincher's direction, it shouldn't come "
+                          'as any surprise to know that House of Cards looks '
+                          'great. The atmosphere is moody and resembles a tone '
+                          'somewhere between The Game and The Social Network. '
+                          'The music is equally good, complementing the mood '
+                          'of the show without becoming overbearing. \n'
+                          '\n'
+                          'Being a political drama, one could be '
+                          'understandably weary of taking the plunge into a 13 '
+                          "episode season if they don't find politics "
+                          "interesting, but that shouldn't be a concern. The "
+                          'writing is sharp, engaging and clear, and the '
+                          'characters are interesting and well developed. The '
+                          'editing helps: it is tight and keeps the plot '
+                          'moving briskly, making the political intrigue both '
+                          'exciting and easy to follow. \n'
+                          '\n'
+                          'Netflix has really created something impressive '
+                          'with House of Cards. When hearing that an online '
+                          'streaming service was creating an original show, '
+                          'some may have been concerned that it would be cheap '
+                          'looking and generally not on par with what AMC, FX, '
+                          'Showtime, and HBO are offering. Well, Netflix got '
+                          'some talented people and gave them the money to '
+                          'make something good, and the product speaks for '
+                          'itself. House of Cards comes highly recommended.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The final season of "House Of Cards" premieres '

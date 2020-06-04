@@ -21,7 +21,7 @@
             'url': '/name/nm5993607/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 369,
+                     'ratingCount': 370,
                      'ratingValue': '8.2',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -36,22 +36,34 @@
  'keywords': 'show',
  'name': 'Vice News Tonight',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'radioconductor'},
-            'dateCreated': '2019-08-01',
+            'author': {'@type': 'Person', 'name': 'DesiBaba'},
+            'dateCreated': '2019-07-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt6329790/'},
-            'name': 'VICE Newwwws',
-            'reviewBody': 'No one helped me with my writing or "game" I '
-                          'developed any useful penchant for writing and '
-                          'talking to people against people actively doing '
-                          "physical damage and ironic harm to me. They've "
-                          'stolen my internet tools and violated my privey and '
-                          'privacy for years. I would not consent to '
-                          'vidaselect using any of my writing and I did not '
-                          "emulate or copy anyone else's text.",
+            'name': 'Excellent source of daily news stories from around the '
+                    'globe.',
+            'reviewBody': 'I love everything Vice, I almost exclusively '
+                          'consume my TV news from this show. I augment that '
+                          'with headlines from online newspapers. I love the '
+                          'global stories and the unique perspective this show '
+                          'brings. It has a stellar cast of correspondents -- '
+                          'I particularly enjoy news stories from Arielle, '
+                          'Ben, Dexter, Elle, Evan, Gianna, Hind Isobel, '
+                          'Thomas, and Krishna. But most of all I like the '
+                          'no-nonsense interviews by Michael Moynihan, love '
+                          'how he does not pander no matter what. I hope he '
+                          'gets his own show down the line! The only thing I '
+                          'dislike are the segments about musicians talking '
+                          'about their songs/music...I cannot stand these, '
+                          'most annoying/narcissistic group of people (next to '
+                          "politicians) I've ever seen who just love to talk "
+                          'about themselves. I hope that segment is killed off '
+                          'over time, may be that can be part of another show? '
+                          'Thank you for keeping this series going HBO and '
+                          'keep up the excellent work team!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'url': '/title/tt6329790/'}

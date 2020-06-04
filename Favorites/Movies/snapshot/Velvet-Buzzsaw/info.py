@@ -19,7 +19,7 @@
             'url': '/name/nm0836432/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 50196,
+                     'ratingCount': 50209,
                      'ratingValue': '5.7',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -42,23 +42,29 @@
              'horror,dark satire',
  'name': 'Velvet Buzzsaw',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jeffreycarephotography'},
-            'dateCreated': '2019-02-02',
+            'author': {'@type': 'Person', 'name': 'Rendanlovell'},
+            'dateCreated': '2019-02-01',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt7043012/'},
-            'name': 'It had great potential but fell short',
-            'reviewBody': "The idea in the film is fantastic but didn't seem "
-                          'to dive deep enough into the story and lacks '
-                          'impact. With most of the characters being '
-                          'pretenious, I was overwhelmed with the use of '
-                          'metaphores and foreshadowing, it became expected '
-                          "throughout the film but doesn't hold enough "
-                          'significance. An origin film on Dease would seem '
-                          'more interesting to me after watching this film.',
+            'name': 'Huh',
+            'reviewBody': 'After Nightcrawler Dan Gilroy is a figure that I '
+                          'will permanently be interested in. Then came along '
+                          'Roman J Israel which was a frustrating experience. '
+                          'There was a lot of good in it but it seemed to '
+                          'relish being slow and unnecessarily wordy. Now we '
+                          'have Velvet Buzzsaw. A movie so plain, I had '
+                          'absolutely no response to. There is barely enough '
+                          'here to be upset about and nearly nothing to be '
+                          "wowed by. It's just so...bland. You'd think Jake "
+                          'gyllenhaal would be the main character but he '
+                          "isn't. In fact, no one is. It's Totally confused, "
+                          'strangely muddled, and tonally messy. It was almost '
+                          'as if the film was passing through my head as soon '
+                          'as it went in.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '5',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'After a series of paintings by an unknown artist '

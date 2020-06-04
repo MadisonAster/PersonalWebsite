@@ -34,34 +34,35 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BYjU4OWM0NzktMmM1NS00ZWJiLWExNGEtYWFjZDdmMmRlNTdlXkEyXkFqcGdeQXVyNzEyMTk4Mzk@._V1_.jpg',
  'name': 'Vice',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Noodles88'},
-            'dateCreated': '2015-04-21',
+            'author': {'@type': 'Person', 'name': 'nickdanzinger'},
+            'dateCreated': '2013-07-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2782710/'},
-            'name': 'The real word!',
-            'reviewBody': 'The world as it is. These people go to distance to '
-                          'show us how the world really works. Our planet is a '
-                          'very big and scary place, filled with dirty '
-                          'secrets, mayhem, destruction and what not. I get it '
-                          'how some might not like it, you might see some '
-                          "certain biased but it's clear that the guy does not "
-                          'work for any branch in the government and if he '
-                          'seems pro some people and against others, to me, it '
-                          'seems that those people he is rooting for probably '
-                          'deserve it. He does not make commercials, he does '
-                          'not go easy on anyone and sometimes, an innocent '
-                          'bystander could prove to be more of a use than a '
-                          'scientist or someone who has "official data", as we '
-                          'know the world is filled with official data and '
-                          'footage. I think this is one of the best shows out '
-                          'there. \n'
+            'name': 'Spectacular',
+            'reviewBody': 'I have been a fan of Vice for a few years now and '
+                          "I've always enjoyed their online videos. If you "
+                          'have spare time, I would highly recommend checking '
+                          'out their website or youtube channel. The special '
+                          'on the North Korean work camps in Russia and their '
+                          'videos taken in Columbia are particularly '
+                          'interesting. \n'
                           '\n'
-                          '"Justice without power is empty and power without '
-                          'justice in only violence."',
+                          'With that said, the Vice team really took it to '
+                          'another level with the HBO series. Just watching '
+                          'the show is invigorating, from the topics covered '
+                          'to the exotic locations to the people they managed '
+                          'to get interviews with. Everything just comes '
+                          'together perfectly. With all the amazing content '
+                          'found in these short 10 episodes, it saddens me '
+                          'that most of the Western world is more concerned '
+                          'with celebrity bulls---. \n'
+                          '\n'
+                          'Do yourself a favour and enjoy the first season. '
+                          "You won't regret it!",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Vice: Basketball Diplomacy',

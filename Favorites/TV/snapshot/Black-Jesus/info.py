@@ -45,34 +45,30 @@
  'keywords': 'satire,religion,jesus in title,color in title,two word title',
  'name': 'Black Jesus',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'decoren45'},
-            'dateCreated': '2014-08-08',
+            'author': {'@type': 'Person', 'name': 'Twcreconv2'},
+            'dateCreated': '2014-08-14',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3589872/'},
-            'name': 'Surpringly tamed and good natured.',
-            'reviewBody': "Aaron McGruder's Black Jesus pilot doesn't "
-                          'completely deliver on its hype, but its admittedly '
-                          "good natured and charming. It's a standard pilot, "
-                          'introduction of important characters and letting us '
-                          'know a piece of their person lives and problems. I '
-                          'do feel that the show would better benefit from a '
-                          '45 - and an 1hr time slot. At 22 minutes the show '
-                          'felt a little rushed, but i suppose in time I will '
-                          'get used to it.Some might complain of the '
-                          'stereotypes portrayed here, but none of them are '
-                          'completely unbelievable or "cartoonish" or even '
-                          'insulting in nature. What we have here is a show '
-                          "that obviously means well and doesn't even "
-                          'disrespect its "source material" if you can call it '
-                          'that. Of course, Black Jesus does curse like a '
-                          'sailor...which is one of the shows charms. Knowing '
-                          "McGruder's past work I can confidently say that "
-                          'this show is in good hands and i predict nothing '
-                          'but greatness before the end of the first season.',
+            'name': 'Not for the uptight.',
+            'reviewBody': 'This show is hilarious. Regardless of the uptight '
+                          "people who've been criticizing the bold and the "
+                          'funny since GTA was a top down game, this show is a '
+                          "hit. I honestly can't figure out what they're more "
+                          'offended by considering many shows have made fun of '
+                          'Jesus and in this case I believe the race-card may '
+                          'be justified. This show is hilarious and has a '
+                          'great cast. What if Jesus smoked hemp and was '
+                          "Black? We don't know and in this day and age it's "
+                          'not uncommon for satire to be made from this. '
+                          'Regardless of what he does, Black Jesus still '
+                          'teaches love. Adult swim rarely gets live-action '
+                          'shows that I like, this one I enjoy thoroughly. If '
+                          'you cant handle the fact the television "goes '
+                          'there" nowadays turn the set off.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A TV series finds Jesus living in present day '

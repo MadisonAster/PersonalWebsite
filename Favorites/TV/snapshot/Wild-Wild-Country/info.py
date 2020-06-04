@@ -19,7 +19,7 @@
             'url': '/name/nm9716640/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 21434,
+                     'ratingCount': 21442,
                      'ratingValue': '8.2',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -36,49 +36,19 @@
              'rajneesh',
  'name': 'Wild Wild Country',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'neener3707'},
-            'dateCreated': '2018-03-16',
+            'author': {'@type': 'Person', 'name': 'arpitha-33851'},
+            'dateCreated': '2018-08-08',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt7768848/'},
-            'name': 'Fascinating, Bizarre, Compelling',
-            'reviewBody': "I've said it numerous times, if Netflix does "
-                          "anything right, its it's original docu-series shows "
-                          'like Shot In The Dark, Firechasers, Voyeur, '
-                          'Wormwood, Making A Murderer, and Dirty Money. This '
-                          'miniseries is definitely another great series from '
-                          'Netflix, a compelling and very interesting story '
-                          'about the enigmatic Indian spiritual leader Osho '
-                          'and his Neo-Sannyas Movement and their relocation '
-                          'to a virtually uninhabited location in the US, '
-                          'creating their own city, and the subsequent 1984 '
-                          'bio-terror attack of many dozens of people being '
-                          'poisoned and a series of attempted murders. The '
-                          'story is perfectly executed and kept me interested '
-                          'and mesmerized me through this bizarre but '
-                          'fascinating cult like movement only to be shocked '
-                          'at the end result of the movement. It was amazing '
-                          'to watch what could have been a beautiful and '
-                          'incredible thing spiraled out of control. A truly '
-                          'unique story very deserving of a watch.\n'
-                          '\n'
-                          'Split up into 6 parts, we experience the beginnings '
-                          'of the religion/cult/movement in India, to their '
-                          'creation of 15,000 strong city from nothing, to the '
-                          'internal frictions, and the subsequent scandal that '
-                          'forever changed the movement. I remember nothing '
-                          'about this because I had yet to be born when it '
-                          'happened, and even some people much older than me '
-                          "didn't know of this amazing story. The story starts "
-                          'off very spiritual, very positive, almost the '
-                          'creation of a Utopian society. But through careful '
-                          'and meticulous story telling, things begin to '
-                          'unwind and things end badly, something you would '
-                          'have never expected if you went into this with no '
-                          'knowledge of it.\n'
-                          '\n'
-                          "All in all, a very fascinating story as far as I'm "
-                          'concerned, definitely worth a watch.',
+            'name': 'Brilliant',
+            'reviewBody': 'Unbiased documentory.. biggest cult in this world '
+                          'is Christianity..They are fine with converting and '
+                          'invading all countries but scared to death when a '
+                          'small commune came in and built their city from '
+                          'scratch ..converted barren land to farm land ..I '
+                          'hope they have a broader and open mind and come out '
+                          'of their cucoon and let others live peacefully..',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

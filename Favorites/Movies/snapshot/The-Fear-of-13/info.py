@@ -18,7 +18,7 @@
             'url': '/name/nm7671113/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 6502,
+                     'ratingCount': 6503,
                      'ratingValue': '7.7',
                      'worstRating': '1.0'},
  'datePublished': '2015-08-04',
@@ -34,29 +34,21 @@
  'keywords': 'death row,reenactment,legal system,prison',
  'name': 'The Fear of 13',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Hydemine'},
-            'dateCreated': '2016-05-13',
+            'author': {'@type': 'Person', 'name': 'muamba_eats_toast'},
+            'dateCreated': '2020-02-06',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5083702/'},
-            'name': 'Incredible, a must see.',
-            'reviewBody': 'The first thing that struck me about this film was '
-                          "Mr Yarris's incredible story telling ability. It is "
-                          'non-fiction but I immediately had to IMDb it to '
-                          'check because I was sure he was an actor. His '
-                          'talent with words and elegance with delivery grows '
-                          'throughout the film. This, coupled with skillfully '
-                          'placed flash back scenes, completely immerse you '
-                          "into the story. Yarris's life could easily be "
-                          'argued as one of the most tragic ever to be lived. '
-                          'For a film which is essentially a 90 minute '
-                          'interview, I was completely blown away by how much '
-                          'it entertained me and moved me. A dark horse of '
-                          'quality film and story telling. Added to my repeat '
-                          'watch list and recommended to everyone I know.',
+            'name': 'Utterly terrifying',
+            'reviewBody': 'As equally terrifying as it was captivating a '
+                          'horrific true story so eloquently told that I felt '
+                          'like I was living it through merely watching him '
+                          'say their retelling the events something rarely '
+                          'done to this effect. Definitely worth a watch even '
+                          'if slightly haunting.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for The Fear of 13',

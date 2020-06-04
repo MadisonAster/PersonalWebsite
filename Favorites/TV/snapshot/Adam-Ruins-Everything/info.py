@@ -36,47 +36,49 @@
  'keywords': 'debunking a myth,comedy host,spoof,edutainment,educational',
  'name': 'Adam Ruins Everything',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'cherold'},
-            'dateCreated': '2016-09-29',
+            'author': {'@type': 'Person', 'name': 'bricksnmortar82'},
+            'dateCreated': '2018-05-26',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5034326/'},
-            'name': 'Wildly funny and wildly informative',
-            'reviewBody': 'A lot of people hate being corrected, but I have '
-                          'always been a big fan of a good disabusement, both '
-                          'because I prefer to know the truth and because I '
-                          "find learning about the ways in which we've been "
-                          "tricked and conned inherently interesting. It's why "
-                          "I loved Robert Wuhl's Assume the Position "
-                          'specials.\n'
+            'name': 'Biased to the left?',
+            'reviewBody': 'Those who complain on here that the facts presented '
+                          "on 'Adam Ruins Everything' are somehow biased in "
+                          "order to serve someone's narrow 'worldview' are "
+                          'themselves falling victim to the fallacy that any '
+                          'statement (even when backed up with credible '
+                          "sources) they see as running 'opposite' or "
+                          "'counter' to their own opinions or perceptions must "
+                          'therefore be suggestive of a nefarious scheme to '
+                          'push some sort of agenda. \n'
                           '\n'
-                          'Adam Ruins Everything is all about challenging our '
-                          'misconceptions, like diamonds are valuable and tin '
-                          'foil covers protect our aspirin. It is absolutely '
-                          'fascinating to see how many things we just accept '
-                          'without much thought are pure BS.\n'
+                          "I've come to notice that the several posters who "
+                          "bothered to complain about the show's content seem "
+                          'to have internalized, as if it were a piece of '
+                          'their own personal identity, some of the '
+                          'wrongly-held misinformation that Adam Conover & his '
+                          'writing team are seeking to correct.\n'
                           '\n'
-                          'But the series is also really, really funny and '
-                          'engaging. While Penn & Teller or Robert Wuhl '
-                          'basically did a teaching-with-jokes format, Adam '
-                          'creates entire elaborate dramas in which in '
-                          'encounters people enjoying their lives and harasses '
-                          'them with a steady stream of facts while they beg '
-                          'him to stop. The show is incredibly funny, but also '
-                          'very serious about its information, footnoting each '
-                          'fact and bringing on experts in an amusing manner.\n'
+                          'One genius basically told me in so many words that '
+                          'my reliance on historically credible facts, be they '
+                          "good or ugly, were 'biased' serving to support my "
+                          'proudly held leftist principles; and that though '
+                          'his points, while ahistorical, or just plain false, '
+                          "but which nonetheless influenced his 'conservative "
+                          "right-wing' worldview, were just as valid. As if "
+                          'facts had their own agendas...\n'
                           '\n'
-                          'Adam also likes to counter the bleakness of a '
-                          'message that often comes down to "everything '
-                          'you\'re counting on is a sham" with information '
-                          'about things that genuinely work. \n'
+                          "While it's true I've always (somewhat cheekily) "
+                          'suspected reality to have a certain leftist bias, '
+                          'to see rightists argue themselves into logical '
+                          'dead-ends over and over again, while funny in a '
+                          'way, is still alarming.\n'
                           '\n'
-                          'This series lasted a whole season before I even '
-                          'knew it existed; I hope people find it as I did, '
-                          "because it's amazing.",
+                          'This just goes to further proves the importance of '
+                          'shows like Adam Ruins Everything.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Official series trailer for Adam Ruins Everything '

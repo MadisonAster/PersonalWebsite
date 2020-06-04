@@ -17,7 +17,7 @@
            {'@type': 'Person', 'name': 'Kal Penn', 'url': '/name/nm0671980/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 101415,
+                     'ratingCount': 101425,
                      'ratingValue': '6.4',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -47,58 +47,28 @@
              'room,nude modeling',
  'name': "National Lampoon's Van Wilder",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'hu675'},
-            'dateCreated': '2005-10-12',
+            'author': {'@type': 'Person', 'name': 'Leafsman_69'},
+            'dateCreated': '2004-09-18',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0283111/'},
-            'name': 'Likable, familiar college comedy gets an appealing '
-                    'performance from the lead actor.',
-            'reviewBody': 'Van Wilder (Ryan Reynolds) is one of the coolest, '
-                          'nicest, likable and most popular guy at the '
-                          "Coolidge College. He's also has an personal "
-                          'assistant (Kal Penn). Wilder is great at throwing '
-                          'parties and helping students with their courses at '
-                          'their most outrageous moments but since Wilder is '
-                          'at his seventh year as senior and he never takes '
-                          'his future seriously. Graduation for Wilder is the '
-                          'furthest thing is his mind. Things are about to '
-                          'change, when an young attractive reporter (Tara '
-                          "Reid) try to figure out Wilder's wild life. "
-                          "Wilder's father (Tim Matheson) threatens to stop "
-                          'paying his tuition for the seventh time. Wilder, '
-                          'His Personal Assistant and His Buddy (Teck Holmes) '
-                          'will try find ways to keep Wilder in college. But '
-                          "there's a slimly college student (Daniel Cosgrove), "
-                          'who is the boyfriend of the reporter. This jerk '
-                          'will do anything to get Wilder out of college.\n'
-                          '\n'
-                          'Directed by Walt Becker (Buying the Cow, Wild Hogs) '
-                          'made an smoothly surprisingly well done outrageous '
-                          'comedy with a couple of very funny scenes (With '
-                          'also one hilarious gross-out scene is actually '
-                          'disgustingly memorable, if you like it or not). '
-                          "Reynolds' appealing performance makes this college "
-                          'comedy film fun to watch. It is also better than '
-                          'most of these silly college movies and this one '
-                          'offers something fresh. This film was an modest hit '
-                          'at the box office. It was also one of the top '
-                          "selling DVD's of 2002.\n"
-                          '\n'
-                          'This unrated DVD has an clean anamorphic Widescreen '
-                          '(1.85:1) transfer an good-Dolby Digital 5.1 '
-                          'Surround Sound. DVD menus have an censored and '
-                          'uncensored options. The second disc is packed with '
-                          'extras, including:Deleted Scenes, Outtakes, Behind '
-                          'the Scenes featurettes and more. This film is a lot '
-                          "of fun, if you don't think about it too much. "
-                          'Written by the writers of "The Girl Next '
-                          'Door":Brent Goldberg and David T. Wagner. Deon '
-                          'Richmond, Erik Estrada and Chris Owen appears in '
-                          'cameos. Paul Gleason (From "The Breakfest Club" '
-                          'fame), Curtis Armstrong ("Bugger" from "Revenge of '
-                          'the Nerds" films) and Unbilled:Tom Everett Scott '
-                          'appears in small supporting roles. (*** ½/*****).',
+            'name': 'A big surprize',
+            'reviewBody': "i didn't expect much coming into this movie, i "
+                          "didn't hear much about it and Van wilder was one of "
+                          'the national lampoon movies without Chevy Chase. '
+                          'however this movie surpassed all my expectations. '
+                          'Van Wilder defines the slapstick teen comedy of the '
+                          'new millennium. loaded with sexual humor and '
+                          'innuendo, Van Wilder keep the laughs coming. i '
+                          'believe Tara Reid was at her hottest in this movie, '
+                          'and believe it or not, there are a ton of quotable '
+                          'lines to live by in this film. as for the plot, its '
+                          "just about some guy who doesn't wanna leave the "
+                          'college he calls his home until he meets a girl '
+                          'that makes him realize his own potential. this film '
+                          'was much better then the last 2 American pies put '
+                          'together. this is a true popcorn movie to watch '
+                          'with your friends.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '8',

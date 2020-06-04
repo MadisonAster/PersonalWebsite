@@ -66,26 +66,51 @@
  'keywords': 'cell phone ringtone,conspiracy,surveillance,metro,mind control',
  'name': 'Metropia',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'soncoman'},
-            'dateCreated': '2009-11-08',
+            'author': {'@type': 'Person', 'name': 'Samiam3'},
+            'dateCreated': '2010-12-31',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0985058/'},
-            'name': 'Originality in animation, if not in story...',
-            'reviewBody': 'I just screened this in advance of its showing at '
-                          'the San Francisco International Animation Festival. '
-                          "It's an interesting film, more for its technique "
-                          'than its narrative. Set in the not-to-distant '
-                          'future in a VERY bleak world, it tells the story of '
-                          "one man's fight against an evil corporation's "
-                          'machinations. Nothing really new narrative-wise, '
-                          "but the plot really isn't the point of this film. "
-                          "It's the animation. The process uses photomontage "
-                          'as its basis, and is quite creepy in its execution. '
-                          "The voice work is well done, and it's always good "
-                          'to see/hear cult film fave Udo Kier. If you enjoyed '
-                          '"1984" or "Brazil," you might want to check this '
-                          'film out.',
+            'name': 'Simple but fascinating',
+            'reviewBody': 'Take a trip to Europe in the year 2024. This is a '
+                          'dark age, where the automobile is no longer in use, '
+                          'replaced by a cross country subway system. The most '
+                          'popular product on the market (in fact pretty much '
+                          'the only item) is a shampoo manufactured with a '
+                          'secret mind controlling chemical, which the major '
+                          'corporations use to monitor the public in George '
+                          'Orwell fashion.\n'
+                          '\n'
+                          'In an age where animation can do anything, the '
+                          'decision to do almost nothing certainly stands out '
+                          'in film. Metropia is without doubt the bleakest '
+                          'animated feature I know; a murky institutional '
+                          'world, without a drop of color or sunshine, and '
+                          'everywhere we go is under lit. This makes enough '
+                          'sense when taking into account that this is a '
+                          'future where society is low on energy. \n'
+                          '\n'
+                          'Not everything however feels credible. The absence '
+                          'of people in great numbers is unusual. The few '
+                          'people who do wander in and out of frame are almost '
+                          'hollow shells. They have no soul, but more '
+                          'importantly they have no movement. Metropia uses '
+                          'the least amount of energy possible to give life to '
+                          'illustrations. To attempt to describe it is not '
+                          "impossible, but it's something that is better off "
+                          'seen for ones self. Metropia is a haunting '
+                          "experience. It's almost a ghost world, not just "
+                          'from the absence of sight, but from the absence of '
+                          'sound. Metropia makes effective use of silence in '
+                          'all the right places, accompanied by an effective, '
+                          'very new age score. \n'
+                          '\n'
+                          'As for the storyline, it is familiar, but not '
+                          "painfully so. It's similar to Brazil, which itself "
+                          "is the product of George Orwell's influence. The "
+                          'climax here feels a bit rushed, and easy, leaving '
+                          "Metropia a bit shorter than I think it should've "
+                          'been, but it remains an entertaining experiment.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '7',

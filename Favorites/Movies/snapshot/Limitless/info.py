@@ -19,7 +19,7 @@
             'url': '/name/nm0000134/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 514967,
+                     'ratingCount': 514996,
                      'ratingValue': '7.4',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -50,58 +50,107 @@
              'learning,intelligence',
  'name': 'Limitless',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'imdb2-556-923983'},
-            'dateCreated': '2011-04-03',
+            'author': {'@type': 'Person', 'name': 'kunalkhandwala'},
+            'dateCreated': '2011-04-01',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1219289/'},
-            'name': 'Original, creative, enjoyable',
-            'reviewBody': 'I feel it needs to be said that this is a superhero '
-                          "movie. We've had a myriad of superhero movies in "
-                          'recent years, but only a handful (e.g. the first '
-                          'Iron Man) were films where it seemed to me cast and '
-                          'crew were not fast asleep but actually cared about '
-                          'what they were doing. This is definitely an example '
-                          'of that rare breed. It is one of those movies where '
-                          'you spend the entire length of the film NOT '
-                          'noticing that it is a superhero movie, and quite '
-                          'possibly this will not dawn on you even on the ride '
-                          'home, because the subject matter is handled '
-                          'seriously: the characters are 3d life-like people; '
-                          'the plot has life-like complexity; there is '
-                          'ambiguity and room for interpretation. Somebody '
-                          'cared. I had my doubts, going in, whether Bradley '
-                          'Cooper can pull this one off. He sure can. Other '
-                          "actors are also at the top of their game. (I don't "
-                          'feel I need to pick out De Niro in particular, '
-                          'here.)\n'
+            'name': 'Witty, uncontrollable and imaginative',
+            'reviewBody': 'An aspiring writer struggling with his love life, '
+                          'an apartment in shambles, a wasteful lifestyle and '
+                          "a writer's block, is left hopeless after being "
+                          'dumped for his ineptitude. He then stumbles upon a '
+                          'past acquaintance who introduces him to an '
+                          'experimental drug that could change his life '
+                          'forever. The intriguing proposition of the story '
+                          'centers around this pharmaceutical experiment that '
+                          'optimizes brain usage to 100% from the meager 20% '
+                          'that we normally use. The problem, that we soon '
+                          'discover, is that supply is limited..... and '
+                          'restricted.\n'
                           '\n'
-                          'So, the good: Original, creative writing. Original, '
-                          'creative, beautiful cinematography. Original, '
-                          'creative direction. Interesting throughout. '
-                          "Believable, except when it isn't trying to be. Good "
-                          'pacing. Well acted.\n'
+                          "Eddie (Bradley Cooper)'s attempts to write a novel "
+                          'go in vain and his inability to push himself to '
+                          'seek refinement is evident with his apartment, his '
+                          'relationship with his otherwise focused girlfriend '
+                          'and his dependent finances. At such a juncture, he '
+                          'stumbles upon his ex- brother-in-law who introduces '
+                          'an experimental designer drug that enhances brain '
+                          'functionality to harness all its potential. As he '
+                          "is then confronted by his landlord's wife who yaks "
+                          'at him for the pending rent, Eddie chooses an '
+                          'intelligent escape by taking one of the pills and '
+                          'then, whatever he has seen, heard, read or '
+                          'experienced in his life, is available to him as '
+                          'reference. Knowledge acquisition is rapid and so is '
+                          'its retention. Eddie soon discovers that he can '
+                          'achieve the impossible like Bruce Almighty and as '
+                          'greed takes over, he seeks to exploit the financial '
+                          'markets to make some astronomical gains. Overnight '
+                          'success draws inquisitive eyes of the ambitious and '
+                          'Eddie would need to maintain a low profile if he '
+                          "doesn't want to expose his secret to his phenomenal "
+                          'analytical abilities. Veteran investor Carl Loon '
+                          '(Robert De Niro) employs Eddie and gives him the '
+                          'incredible opportunity to make it to the big league '
+                          'in a very short time. Just when it all seems to be '
+                          'going his way, Eddie realizes that the pills have '
+                          'an adverse effect on his health and without a '
+                          'regular intake, he would almost lose his life. To '
+                          'add to that, he is pursued by a goon who now knows '
+                          'the secret to his supreme abilities and demands '
+                          'more pills for himself. \n'
                           '\n'
-                          'The bad: Some scenes stretch credulity. Most by '
-                          'just a little. The fore-last scene is over the top. '
-                          'I loved it. (My wife said: "They\'re trying to pull '
-                          'a Tarrantino. Right?" and they were.) I can\'t '
-                          'blame anyone who says this scene ruined the movie '
-                          "for him. It isn't believable. It isn't consistent "
-                          "with the rest. But it's definitely where the "
-                          'roller-coaster that is this movie is at its most '
-                          'extreme. By contrast, the last scene left me with a '
-                          "feeling of something missed. It's like the script "
-                          'saves the best for the sequel.\n'
+                          'There is always some danger lurking around the '
+                          'corner in Limitless. Even though, the idea of an '
+                          'intelligence enhancing medication seems like the '
+                          'ultimate strength, one always feels restless and is '
+                          'aware of some form of imminent threat. It just '
+                          'seems too good to be true and that is primarily '
+                          'what grips you through this well paced '
+                          'screenplay. \n'
                           '\n'
-                          "So, unfortunately, this movie doesn't have an "
-                          'ending that makes you forgive it for everything '
-                          'else. Quite on the contrary. It just happens to be '
-                          'so good that I was willing to forgive it its bad '
-                          'ending.',
+                          'The film looks great with the camera speeding '
+                          'through the streets and the stunning views of New '
+                          "York city. The mood resembles that of Neil Burger's "
+                          "previous film, 'The Illusionist' and this one is "
+                          'equally intriguing, if not more. The background '
+                          "score is well suited to the film's pulsating "
+                          'situations. \n'
+                          '\n'
+                          'The beautiful Abbie Cornish plays the tense '
+                          'situations quite well and in confrontational scenes '
+                          'with Cooper, she emerges strong. Robert De Niro '
+                          'gets a Michael Douglas type role where he seems to '
+                          'enjoy throwing his power around. Good to see him '
+                          'threatening people around him because that is what '
+                          'he does best..... Bradley Cooper took complete '
+                          'advantage of the opportunity where he can play a '
+                          'definitive lead and he is quite convincing both as '
+                          'the struggling author and the coolest man in town '
+                          'with higher intelligence. \n'
+                          '\n'
+                          'Director Neil Burger keeps the momentum going while '
+                          'keeping us glued with suspense, action and twists. '
+                          'A novel idea is simplified in his execution and he '
+                          'makes it easy to absorb it as a reality right from '
+                          'the beginning. He does avoid superficial scenarios '
+                          'and unnecessary drama and chooses to portray the '
+                          'hardships that Eddie encounters while he possesses '
+                          'such power. Limitless entertains with the '
+                          'possibilities and the consequences of '
+                          'uncontrollable powers. However, in the end, it is '
+                          "no 'Inception' in story telling or concept and if "
+                          "you're in with unreal expectations, it will surely "
+                          'disappoint but due credit must be given to Neil '
+                          'Burger for a good execution of the concept that '
+                          "even in the end, doesn't fall flat on its face. \n"
+                          '\n'
+                          '\n'
+                          '* 8.081 on a scale of 1-10.\n',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Limitless -- Super Bowl Spot',

@@ -37,36 +37,62 @@
  'keywords': 'tv mini series,set in canada,yukon territory,canadian content',
  'name': 'Klondike',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'badland'},
-            'dateCreated': '2014-01-22',
+            'author': {'@type': 'Person', 'name': 'larshevn'},
+            'dateCreated': '2015-01-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2761630/'},
-            'name': 'Not bad for Discovery Channel',
-            'reviewBody': "I watched it all and didn't mind it,know some of "
-                          'the producers who do a good job productionwise. '
-                          'There are errors, lots of them, like wolves chasing '
-                          'after humans, very rare. Also mounties, or North '
-                          'West Mounted Police were not against native Indians '
-                          'like American cavalry, in fact they were '
-                          'incorporated with the intention of keeping American '
-                          'whiskey traders in Montana.\n'
+            'name': 'A victim of its own ambition',
+            'reviewBody': 'Klondike is one of those series I picked up because '
+                          'it looks fascinating, with a somewhat unorthodox '
+                          'setting. With gold digging as the historical '
+                          'background, you assume that this is what the series '
+                          'will also be about mostly - aside from all the '
+                          'frauds and the harsh climate. Alas, everything '
+                          'seems to be addressed only once throughout the '
+                          "series, because there isn't time to remind the "
+                          "viewer what's so perilous about the environment, "
+                          "and what's at stake. Instead the show aims to be a "
+                          'classical Western story featuring cold weather. \n'
                           '\n'
-                          'There was not a lot of killing as portrayed here '
-                          '(stolen from Deadwood), in fact very little as the '
-                          'Mounties kept it clean. The idea of the Indians '
-                          'being hung is a little far fetched also. As with '
-                          "all things like this, the mounties didn't allow any "
-                          'murders, etc. Remember, this is Canada, not '
-                          'California gold rush or Black Hills gold rush where '
-                          'killing and lawbreaking was the norm. Women '
-                          "couldn't get into a beer parlour in 1969 without a "
-                          'male escort. Yeah, beer PARLOUR, not bar.\n'
+                          'The gold digging itself is also left completely out '
+                          "of the story. While I wouldn't want to watch a 6 "
+                          "hour series about digging gold, it's striking that "
+                          'a 20 page chapter of "The Life and Times of Scrooge '
+                          'McDuck" is more detailed in the process of '
+                          'extracting gold, than a 6 hour series produced by '
+                          "Discovery. At times it's easy to forget that the "
+                          'show is even taking place in Klondike, and not just '
+                          'any saloon in Santa Fe.\n'
                           '\n'
-                          'In truth, Klondike was not even close to Deadwood '
-                          'in crime. Eh? But anyways, a nice 3 episodes, not '
-                          'very true, but what the heck, neither was The '
-                          'Butler.'},
+                          'Despite a good crew of actors, the characters are '
+                          'one-dimensional and there is little room for any '
+                          'character development. Although some of the '
+                          "characters undergo transitions, there's no "
+                          'development - they simply go from A to B while not '
+                          'giving the viewer any credible reason for their '
+                          'transition. The same goes for the relationships '
+                          'between the characters. Some characters that take '
+                          'up a lot of screen time are even completely '
+                          'redundant, and a waste of the precious time of a 6 '
+                          'episode mini-series. I can think of at least two '
+                          'subplots, without which the show would have lost '
+                          'virtually nothing, while gaining both time and '
+                          'coherence. \n'
+                          '\n'
+                          '"Klondike" bit off more than it could chew. A '
+                          'mini-series of 6 episodes is not equipped to deal '
+                          'with profound questions on the true value of gold, '
+                          'while also dealing with the position of females, '
+                          'the suppression of Native Americans, the '
+                          'presence/absence of hope and God, and so on. \n'
+                          '\n'
+                          'This series could and should have been a lot '
+                          'better.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '4',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Klondike',
              'embedUrl': '/video/imdb/vi3498884377',

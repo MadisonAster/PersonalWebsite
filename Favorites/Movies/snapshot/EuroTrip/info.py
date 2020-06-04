@@ -21,7 +21,7 @@
             'url': '/name/nm0922563/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 189609,
+                     'ratingCount': 189622,
                      'ratingValue': '6.6',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -58,26 +58,45 @@
              'nudity',
  'name': 'EuroTrip',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'JennieMcJenJen'},
-            'dateCreated': '2005-01-12',
+            'author': {'@type': 'Person', 'name': 'Killa_Cam'},
+            'dateCreated': '2004-08-17',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0356150/'},
-            'name': 'SOOOO Funny',
-            'reviewBody': "I love all types of movies, but I didn't expect to "
-                          'like this one. It looked like another stupid teen '
-                          'comedy to me. I was so surprised at how hilarious '
-                          'this was. I was rolling on the floor laughing my '
-                          'ass off. My new favorite song is "Scotty Doesn\'t '
-                          'Know!" And while this movie doesn\'t properly '
-                          "represent Europe and it's style and it's culture, "
-                          'it does enlist every stereotype Americans have '
-                          "about Europeans, and that's what makes it so damn "
-                          'funny. This movie is definitely one of my new '
-                          "favorites, and is one of the funniest movies I've "
-                          'ever seen. If you just want to laugh at everything '
-                          "that's wrong with the world, then this is totally "
-                          'something you need to see.',
+            'name': 'Excellent Absurd Comedy: Funnier Than American Pie',
+            'reviewBody': 'This movie is hilarious & a must see for those who '
+                          'like American Pie, Scary Movie, Senseless & similar '
+                          'types of comedies. Eurotrip uses almost every '
+                          'single cliché or stereotype regarding Europe & '
+                          'exaggerates it enormously in an unbelievably funny '
+                          'way.\n'
+                          '\n'
+                          'Surprisingly the acting, which is done mainly by '
+                          'unknown actors & actresses, is very good. As for '
+                          'Michelle Trachtenberg, she is just plain awesome. '
+                          'Her acting deserves real praise. Plus, the film '
+                          'features several pretty successful cameo '
+                          'appearances. Lucy Lawless as S&M dominatrix is '
+                          'particularly hilarious.\n'
+                          '\n'
+                          "Though the story itself can't be considered "
+                          'particularly original, the movie is interesting, '
+                          'cause of unstoppable flow of hilarious jokes. The '
+                          "theater was almost torn down with the viewers' "
+                          'laughter, when I watched the film. The scene with '
+                          'The Pope is an instant classic in my point of view, '
+                          "I haven't seen something this hilarious since the "
+                          'first Scary Movie came out. Some satirical aspects '
+                          'also take place in the movie: especially funny was '
+                          'the scene, when the characters arrive to a club in '
+                          "Slovakia & hear a techno remix of a song 'Scotty "
+                          "Doesn't Know'. Awesome moment.\n"
+                          '\n'
+                          'In general, I think the film is underrated. In my '
+                          'opinion it is better than the first & the second '
+                          'American Pie, the second Scary Movie & a great '
+                          'number of less famous comedies. Go see it & have '
+                          'fun.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '8',

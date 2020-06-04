@@ -17,7 +17,7 @@
             'url': '/name/nm0124133/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 16250,
+                     'ratingCount': 16251,
                      'ratingValue': '7.6',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -47,73 +47,97 @@
  'keywords': 'enron,corporation,accounting,accounting fraud,corporate crime',
  'name': 'Enron: The Smartest Guys in the Room',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'bob the moo'},
-            'dateCreated': '2008-02-19',
+            'author': {'@type': 'Person', 'name': 'EUyeshima'},
+            'dateCreated': '2008-04-17',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1016268/'},
-            'name': 'A fascinating story in a clear and well-delivered film '
-                    'whose only weakness is the bias inherent in the telling',
-            'reviewBody': 'When Enron was granted permission to use '
-                          'mark-to-market accounting it saw the start of the '
-                          'dramatic increase in its profits and its share '
-                          'price. The method allows a company to claim '
-                          'projected earnings from projects once the deal is '
-                          'signed. With this in place Enron was able to earn '
-                          'money without actually earning money. However this '
-                          'could not go on forever and the company was under '
-                          'pressure to continually come up with new ideas to '
-                          'keep the deals and money flowing. And it did so, to '
-                          'the point where it was widely praised within the '
-                          'business community and by stockholders. However '
-                          'things would eventually catch up with the company '
-                          'and a few years ago the company collapsed in '
-                          'bankruptcy before the arrests began.\n'
+            'name': 'Unfettered Hubris Drives Intriguing Account of Enron '
+                    'Scandal',
+            'reviewBody': 'Even after reading Kurt Eichenwald\'s "Conspiracy '
+                          'of Fools: A True Story", I was not prepared for the '
+                          'near-Greek tragedy presented in this smartly '
+                          'produced documentary of the Enron scandal based on '
+                          'yet another book by journalists Bethany McLean and '
+                          'Peter Elkind. Directed by Andy Gibney, the 2005 '
+                          'film follows the complicated rise and fall of Enron '
+                          'in an easy-to-follow, chronological order since the '
+                          "mid-1980's, using actor Peter Coyote's lucid "
+                          'voice-over narration. Enron started as a '
+                          'moderate-sized Houston gas-pipeline company that '
+                          'grew exponentially, reaping benefits for '
+                          'shareholders and far more so for the Enron '
+                          'executive team for a long, uninterrupted stretch. '
+                          'Billions of dollars were collected due to '
+                          'speculative mark-to-market accounting techniques '
+                          'approved by the SEC, and Enron consequently became '
+                          "one of the world's largest natural-gas suppliers.\n"
                           '\n'
-                          'Working for an American multinational myself I am '
-                          'always interested and critical of the business '
-                          'model of making more and more money and keeping the '
-                          'stock increasing in value being the only way to '
-                          'survive. So I have watched films like this and like '
-                          'The Corporation with interest and appreciate the '
-                          'way that they sell a complex issue in easy to '
-                          'understand ways. With the Enron film it is all the '
-                          'more interesting because it is a prime example of '
-                          'how it all fell down and how easy it is to con the '
-                          'market \x96 which, regardless of the legality of '
-                          'the accounting method used, is basically what they '
-                          'did! The film tells the story well and it is a tale '
-                          'that never struggles to fascinate. Lesser hands '
-                          'could have fudged the telling but the team here '
-                          'structure it well and use footage from Enron and '
-                          'C-Span to really good effect. In fact I did wonder '
-                          'how much this film cost to make because the vast '
-                          'majority of it is stock footage and a handful of '
-                          'interviews.\n'
+                          'What resonates most from this searing film is how '
+                          'circumstantially pathological the chief villains '
+                          'are in this true corporate morality story. While '
+                          'the infamous Ken Lay comes across as the corrupt '
+                          'figurehead we have already come to know through '
+                          "news reports, it's really Enron CFO Andy Fastow "
+                          '(dubbed appropriately "The Sorcerer\'s Apprentice") '
+                          'and especially President and COO Jeff Skilling, who '
+                          'are mercilessly exposed here. Skilling is portrayed '
+                          'as a brilliant leader and a corporate Darwinist, '
+                          'whose favorite book is Richard Dawkins\' "The '
+                          'Selfish Gene", which he apparently translated into '
+                          'a bloodless performance review policy that worked '
+                          'like a genetic algorithm for people. Employees were '
+                          'rated on a 1-5 scale based on the amount of money '
+                          'one made for the company. Skilling mandated that '
+                          "between 10-15% of employees had to be rated as 5's "
+                          '(worst). And to get a rating of 5 meant that one '
+                          'was immediately fired. This review process was '
+                          'dubbed "rank and yank". Such was a typical example '
+                          'of his survivalist thinking.\n'
                           '\n'
-                          "Although they lay things out well, the film doesn't "
-                          'manage to avoid nailing its colours to the mast; '
-                          'which is a shame because the story is compelling '
-                          'enough and damning enough to work without resorting '
-                          'to cheap digs, funny footage and so on. Sadly it '
-                          'does use this \x96 not to the point of distraction '
-                          'but just to the point where I wondered if the '
-                          "makers didn't think that the facts would be strong "
-                          'enough to make the audience get the point without '
-                          'the extra bit of hammering. The film also stretches '
-                          'to bring in Bush and his cronies as if they were '
-                          "also to blame; it doesn't labour this point but "
-                          'what little it does is stretched \x96 again it '
-                          'could have done less and allowed the audience to '
-                          'draw its own conclusions.\n'
+                          'The corruption spread throughout the company, as '
+                          'Enron was responsible for, among other things, '
+                          'gaming the Northern California "rolling blackouts" '
+                          'in 2001, whereby the company profited as huge parts '
+                          'of the state were plunged into darkness. Citizens '
+                          'were threatened by a deregulation plan that '
+                          'essentially enabled a number of immoral Enron '
+                          'traders (led by Tim Belden) to place calls that '
+                          'drove up energy-market prices and took advantage of '
+                          'power-plant shutdowns. Of course, the Bush family '
+                          'dynasty does not come across unscathed in the Enron '
+                          'story and justifiably so according to their '
+                          'inextricable ties to Lay. Gibney effectively uses '
+                          'video footage from testimony at congressional '
+                          'hearings, as well as interviews with disillusioned '
+                          'former employees such as Mike Muckleroy and '
+                          'whistle-blower Sherron Watkins (who uses some '
+                          'effective pop culture references like "Body Heat" '
+                          'and Jonestown to get her points across).\n'
                           '\n'
-                          'Overall this is not a perfect documentary because '
-                          'it is a bit biased and based on commentary from '
-                          'subjects all on one side of the fence. However it '
-                          'is well structured and easy to follow, stripping '
-                          'away the feared complexity of the tale and telling '
-                          'it in a fascinating and engaging way. A cautionary '
-                          'tale that I doubt that those that needed to learn '
-                          'from have learnt from. Well worth a look and yet '
-                          'another good documentary making it into cinemas.'},
+                          'There are some amusing vignettes and images that '
+                          'tie some of the disparate elements together with '
+                          'excessive glibness. The documentary is best when it '
+                          'sticks to the facts, for this is one inarguable '
+                          'case where fact is truly stranger than fiction. '
+                          'Extras are plentiful on the 2006 DVD. Gibney '
+                          'provides an informative albeit verbose commentary '
+                          'track, and four deleted scenes, about twenty '
+                          'minutes in total, are included that become '
+                          "redundant with the film's portrayal of corporate "
+                          'malfeasance. There is also a fourteen-minute '
+                          'making-of featurette, as well as a "Where Are They '
+                          'Now?" snippet on the principals and three separate '
+                          'conversations with McLean and Elkind on how they '
+                          'got the story, how they validated their findings, '
+                          'and their enthusiastic reaction to the film. Other '
+                          'bonus materials include Gibney reading from scripts '
+                          'of skits performed at Enron and a Firesign Theater '
+                          "sketch about Enron's demise, as well as Fortune "
+                          'Magazine articles written by McLean and Elkind and '
+                          'a gallery of editorial cartoons.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '8',
+                             'worstRating': '1'}},
  'url': '/title/tt1016268/'}

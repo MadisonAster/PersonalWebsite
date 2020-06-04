@@ -19,7 +19,7 @@
             'url': '/name/nm0329259/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 34192,
+                     'ratingCount': 34194,
                      'ratingValue': '8.0',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -39,44 +39,31 @@
              'intelligence',
  'name': 'Humans',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'nicolasrowley'},
-            'dateCreated': '2015-07-18',
+            'author': {'@type': 'Person', 'name': 'keithwoodsholder'},
+            'dateCreated': '2015-06-14',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4122068/'},
-            'name': 'Condition of Humans',
-            'reviewBody': 'My wife and I operate a three episode policy when '
-                          'deciding to watch a new show. With all the great TV '
-                          'out there it can be hard to choose what to watch '
-                          'and not every show has a great start but develops '
-                          'into something memorable. As a result we always '
-                          "wait until we have DVR'd at least three episodes "
-                          'before watching the first. The other reason we '
-                          'record three is if the show is good we will want '
-                          'more immediately. Humans however left us wanting '
-                          'more after the third episode.\n'
-                          '\n'
-                          'The concepts in this show are not ground breaking '
-                          'for any fan of the genre or any reader of science '
-                          'fiction but the fact it is set in the present day '
-                          'in a very relatable parallel reality (especially '
-                          'for Brits) is where this series gets its mojo. This '
-                          'is a thinking persons show the story is secondary '
-                          "to the compelling analysis of human nature and it's "
-                          'reactions to technology. Those who embrace it, '
-                          'those who reject it both are catered for here.\n'
-                          '\n'
-                          'The production values are so very high and the '
-                          'casting is exemplary. Most people are not well '
-                          'known with the exception of William Hurt but there '
-                          'are familiar faces (again, especially for Brits) in '
-                          'there.\n'
-                          '\n'
-                          'This show is not all action but is guaranteed to '
-                          "thrill you and chill you with it's moody pacing, "
-                          'moments of comedy and disturbing critique of '
-                          'humanity facing the very nature of its own '
-                          'creation.',
+            'name': 'Promising start',
+            'reviewBody': 'I expected this series to be an "I Robot" lite, but '
+                          'in fact I am impressed with the first episode both '
+                          'from its acting and the completeness of this '
+                          "initial 'view' into an alternative world. Keeping "
+                          'my fingers crossed it will maintain this standard. '
+                          'Although I know this was adapted from a Swedish '
+                          "series I'm deliberately staying away from it for "
+                          'now. The opening episode certainly seems to have '
+                          'captured the sense of atmosphere and something '
+                          'impending that Scandinavians do so well. With a '
+                          'cast which is more than able to add some heft to '
+                          "the 'human' side of the story - it was equally "
+                          "gratifying to see the 'synthetics' pull off the "
+                          'difficult balancing act between machine behavior '
+                          "and enough 'emotional' content to set the series up "
+                          'for some dramatic juxtapositions. Although there is '
+                          'a small level of "adult" content I think its use, '
+                          'given the use of technology in our own world, was '
+                          'both relevant and all too believable.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

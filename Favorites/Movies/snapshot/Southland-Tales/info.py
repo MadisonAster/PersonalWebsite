@@ -21,7 +21,7 @@
             'url': '/name/nm0024782/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 36510,
+                     'ratingCount': 36511,
                      'ratingValue': '5.4',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -52,73 +52,29 @@
  'keywords': 'duplicate,anarchy,doppelganger,surveillance,tragic event',
  'name': 'Southland Tales',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'mgoldsmith'},
-            'dateCreated': '2008-05-12',
+            'author': {'@type': 'Person', 'name': 'jeremycohen'},
+            'dateCreated': '2007-10-02',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0405336/'},
-            'name': "Not as bad as you've heard... never would have done well",
-            'reviewBody': "This movie, maybe more than any other I've seen, is "
-                          'a commitment. If you think that 144 minutes is a '
-                          'lot to commit to a movie, the running time is only '
-                          'the tip of the iceberg.\n'
+            'name': 'It is good.',
+            'reviewBody': "I don't know why so many people hate this movie. I "
+                          'saw the finished cut at Fantastic Fest and I '
+                          'thought it was really good. Really really '
+                          'confusing, but good nonetheless. Definitely for a '
+                          'more intellectual crowd. Definitely warrants '
+                          'multiple viewings. But still really good.\n'
                           '\n'
-                          'In the DVD cut of the movie, a lot of things are '
-                          'obscured: what the big picture is, why characters '
-                          'are motivated to do certain things, why multiple '
-                          'identities are a recurring theme, why certain '
-                          'characters/actions are necessary.\n'
-                          '\n'
-                          'What is in the DVD cut is an extensively detailed '
-                          'alternate world. Unfortunately, to make the actions '
-                          'in that alternate world make sense, you basically '
-                          'have to either watch the movie multiple times, or '
-                          "at least know what you're dealing with.\n"
-                          '\n'
-                          "There are at least 4 layers to everything that's "
-                          'going on: 1) political/social commentary on '
-                          'contemporary American society and the apocalyptic '
-                          'undercurrent therein; 2) sarcastic/caustic pop '
-                          'culture references (Philip K. Dick is a big one, '
-                          'but also subtle things... for instance, the Rock '
-                          'was Sean William Scott\'s protector in "The '
-                          'Rundown" and plays a similar role here); 3) a '
-                          'self-consciousness or self-referentialism: actors '
-                          'cast against type, some similar themes to Donnie '
-                          'Darko, actions that play out in the film are '
-                          'largely based off of the AWFUL screenplay written '
-                          'by one of the characters (as seen in the graphic '
-                          'novel prequels); 4) the actual plot of the movie, '
-                          'which has deep ties to the Book of Revelation, and '
-                          'makes much more sense if the graphic novels are '
-                          'read first.\n'
-                          '\n'
-                          'These layers are pretty consummately intertwined. '
-                          'This is part of what makes this movie to be '
-                          'compelling enough to make me want to put in the '
-                          'necessary effort. Its imagery was provocative, and '
-                          'because Richard Kelly has created such a densely '
-                          'layered world for himself, putting in the time '
-                          'actually is incredibly rewarding.\n'
-                          '\n'
-                          'It should also be said that this film, like Blade '
-                          'Runner or There Will Be Blood, does not let its '
-                          "plot set specifications on its scope, or what it's "
-                          'about. If you hone in on what the director thinks '
-                          "its scope/purpose is, it's much easier to "
-                          'appreciate.\n'
-                          '\n'
-                          "I'm not sure exactly how to rate this movie, since "
-                          'as a stand alone movie it is a failure, but if you '
-                          "take the time to get inside Kelly's mind, it's "
-                          'worthwhile. So. My advice? View it as an investment '
-                          "or don't view it at all. Don't throw it on for an "
-                          "evening's entertainment. If you do, you might be "
-                          "entertained, but you'll probably be confused and "
-                          'angry.',
+                          'Way different than Donnie Darko but similar at the '
+                          'same time. The acting is amazing. the production '
+                          'design is amazing the cinematography is amazing. '
+                          'the main drawback is that the story is really '
+                          'confusing,mainly due to the fact that there are way '
+                          'too many characters. but even with those problems, '
+                          'the movie is really really good.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Theatrical Trailer from Samuel Goldwyn',

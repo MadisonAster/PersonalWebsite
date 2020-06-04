@@ -21,7 +21,7 @@
             'url': '/name/nm0264579/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 294404,
+                     'ratingCount': 294490,
                      'ratingValue': '8.7',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -47,33 +47,40 @@
              'universe',
  'name': 'Better Call Saul',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'liamvdheuvel'},
-            'dateCreated': '2015-02-12',
+            'author': {'@type': 'Person', 'name': 'rainerraff-87519'},
+            'dateCreated': '2020-05-06',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3032476/'},
-            'name': 'Amazing, takes the best things from Breaking Bad and adds '
-                    'comedy',
-            'reviewBody': "To be honest, I didn't know what to expect with "
-                          'this, following on after one of the best series of '
-                          'all time, on a character who seemed to be a bit of '
-                          'comic relief in an otherwise brutal and dark show, '
-                          'I did have my doubts. Now that two episodes have '
-                          'been released however, any concerns should be put '
-                          'aside by anyone interested, because this is '
-                          'fantastic.\n'
+            'name': 'Saul definitely deserves love too from Breaking Bad fans.',
+            'reviewBody': 'One thing that stopped me from watching this movie '
+                          'is because I knew this show has nothing to do with '
+                          'Walter White, the man that makes Breaking Bad, '
+                          'Breaking Bad. I believe most people also think the '
+                          'same.\n'
                           '\n'
-                          "Gilligan's camera work is masterful and similarly "
-                          'creative to that of Breaking Bad, and Saul as a '
-                          "character or should I say 'Jimmy McGill', is not as "
-                          'vacuous as I once thought, and whilst it was '
-                          'obvious Saul Goodman was a facade, to see his other '
-                          'side in the flesh is great. The acting is '
-                          'fantastic, with very powerful scenes already in the '
-                          'first two episodes, and the tone is dark, but often '
-                          'quite humorous with plenty of laughs throughout.\n'
+                          'Personally, after rewatching Breaking Bad few '
+                          'times, I have come to the conclusion that there is '
+                          'nobody in the show that I love from the beginning '
+                          'until the last second. What I like the most is the '
+                          'character development for all the important '
+                          'characters.\n'
                           '\n'
-                          'Basically to sum up in two words: watch this.',
+                          'Then? What does it have to do with Better Call '
+                          'Saul? I believe I love this show as much as '
+                          'Breaking Bad because of the exact reason. I REALLY '
+                          'love how every character behaves and develops in '
+                          'this show. What more fascinating is, this show has '
+                          'everything you like from Breaking Bad. Tension, '
+                          'emotions, atmosphere, character flaws, good '
+                          'antagonists, you name it. One other similarity this '
+                          'show has, this show gets better when it is closer '
+                          'to the end. (I know, it has not ended yet) You '
+                          "really don't want to miss every second of it.\n"
+                          '\n'
+                          'I can assure you, all Breaking Bad fans, your love '
+                          'to this show will be AT LEAST as big as your love '
+                          'to Breaking Bad. Easiest 10/10 after Breaking Bad.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

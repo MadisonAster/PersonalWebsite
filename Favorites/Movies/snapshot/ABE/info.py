@@ -42,21 +42,63 @@
  'keywords': 'robot,futuristic,robot as menace,tied to a bed,scalpel',
  'name': 'Abe',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Hitchcoc'},
-            'dateCreated': '2019-04-05',
+            'author': {'@type': 'Person', 'name': 'Platypuschow'},
+            'dateCreated': '2018-09-22',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2883236/'},
-            'name': 'It Goes Where It Goes',
-            'reviewBody': "It's all set out there. A robot who loves but gets "
-                          'none in return, turns to trying to "fix" those that '
-                          "don't love him. Unfortunately, he is a machine and "
-                          'has no expertise in handling human bodies. He is '
-                          'soft spoken. He covers the mouth of the young woman '
-                          'so she is not able to respond in any way. It is a '
-                          'brutal little film.',
+            'name': 'Abe: Concept not story',
+            'reviewBody': 'Take the robot from I, Robot (2004) then make a 7 '
+                          'minute short combining concepts from Bicentennial '
+                          'Man (1999) and a torture porn movie and you have '
+                          'Abe.\n'
+                          '\n'
+                          "It's a quaint little short that looks fantastic and "
+                          'clearly had money behind it. The trouble is that '
+                          'there is no story here, merely a concept. This '
+                          'would have been a great method of pitching an idea '
+                          'to a studio, but as a short it falls somewhat '
+                          'short. (Pun intended)\n'
+                          '\n'
+                          'It tells the tale of a robot that once served a '
+                          'family, but after losing their love he proceeds to '
+                          'try and "fix" people believing them broken and does '
+                          'it in a less than pleasant manner.\n'
+                          '\n'
+                          'The script is great and in some sick twisted way '
+                          'you can totally empathise, for that reason I '
+                          'actually found myself more than a little saddened '
+                          'by the premise but doubly so when I realised there '
+                          "wasn't going to be an actual story here.\n"
+                          '\n'
+                          'Sure shorts have limitations imposed on them due to '
+                          'the length but they can still have a '
+                          "beginning/middle/end and this doesn't.\n"
+                          '\n'
+                          'Someone pick this concept up and make a feature '
+                          'film out of it!\n'
+                          '\n'
+                          'The Good:\n'
+                          '\n'
+                          'Looks great \n'
+                          '\n'
+                          'Well written\n'
+                          '\n'
+                          'Excellent premise\n'
+                          '\n'
+                          'The Bad:\n'
+                          '\n'
+                          'No real structure\n'
+                          '\n'
+                          'Things I Learnt From This Movie:\n'
+                          '\n'
+                          'This furthers my stance on robots and my stance is '
+                          'NO\n'
+                          '\n'
+                          'This would make a wicked twist for a Bicentennial '
+                          'Man 2',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '5',
                              'worstRating': '1'}},
  'url': '/title/tt2883236/'}

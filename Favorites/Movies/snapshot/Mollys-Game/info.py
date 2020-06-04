@@ -19,7 +19,7 @@
             'url': '/name/nm0148418/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 129032,
+                     'ratingCount': 129058,
                      'ratingValue': '7.4',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -51,28 +51,31 @@
              'protagonist',
  'name': "Molly's Game",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'paulcheus'},
-            'dateCreated': '2018-01-28',
+            'author': {'@type': 'Person', 'name': 'VisualConnoisseur'},
+            'dateCreated': '2017-11-30',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4209788/'},
-            'name': 'It kept me fused ass to chair, eyes to screen for the '
-                    'entire duration!',
-            'reviewBody': 'Saw the movie last night, one of the best movies '
-                          '(if not THE BEST) I seen for some time now. All the '
-                          'characters are razor sharp, the entire dialog '
-                          'pierces your brain like an ice pick, great humor, '
-                          'great sarcasm, snappy lines, you feel like you need '
-                          'more and more during the movie (gets you addicted '
-                          'like a bad habit). One of the best discussions in '
-                          'cinema history (the therapy scene). Go see it in '
-                          'cinema, the crowd effect amplifies the emotions. My '
-                          'mark for this is 8/10 , 10/10 been an absolute '
-                          'masterpiece made every hundred years or so :))',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
+            'name': 'A movie without harmony',
+            'reviewBody': "Molly's Game feels like a movie without the center "
+                          'of gravity. It tries to carry itself on '
+                          'overanalysed, emotionally insignificant '
+                          'environmental details. Methodologically explained '
+                          'poker games are captivating the first few times, '
+                          'but get incredibly dull and underwhelming in the '
+                          'second half of the movie, feeling like redundant '
+                          'content. The protagonist is unable to pull the '
+                          'overexplained and "all over the place" narrative '
+                          'into one harmonious puzzle. When at the end Molly '
+                          'and her father discuss the memories of the past, '
+                          'the movie attempts to have a significant emotional '
+                          'culmination but ends with nothing more but a '
+                          'shallow and uninspired moral of the story - check '
+                          'the path before you follow it.\n'
+                          '\n'
+                          'I would give this movie two stars, but there are '
+                          'some solid performances (especially from Idris '
+                          'Elba). Therefore my score is 4.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Aaron Sorkin annotates the theatrical trailer for '
                             "'Molly's Game' to give you more insight to his "

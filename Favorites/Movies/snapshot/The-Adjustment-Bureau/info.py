@@ -19,7 +19,7 @@
             'url': '/name/nm1505460/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 237069,
+                     'ratingCount': 237101,
                      'ratingValue': '7.0',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -47,68 +47,50 @@
  'keywords': 'fate,teleportation,love at first sight,destiny,alternate history',
  'name': 'The Adjustment Bureau',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'changmoh'},
-            'dateCreated': '2011-03-01',
+            'author': {'@type': 'Person', 'name': 'claudio_carvalho'},
+            'dateCreated': '2012-08-17',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1385826/'},
-            'name': 'Sparkling chemistry between Damon and Blunt',
-            'reviewBody': 'Fate, coincidence and free will come at odds with '
-                          'one another in this sci-fi romance re-imagined by '
-                          'George Nolfi from the short story, "Adjustment '
-                          'Team", by sci-fi legend Philip K. Dick. Nolfi\'s '
-                          'plot can go from interesting and intriguing to '
-                          'downright silly at times but the main attraction is '
-                          'not the narrative. It is the pulsating chemistry '
-                          'between lead stars Matt Damon and the sensually '
-                          'beguiling Emily Blunt set in all the famous spots '
-                          'of Manhattan and NYC.\n'
+            'name': 'Intriguing and Ambiguous Story',
+            'reviewBody': 'In New York, the prominent politician David Norris '
+                          '(Matt Damon) is disputing the election for the '
+                          'Senate but his past of bad boy makes him lose the '
+                          'election. He meets the stranger Elise Sellas (Emily '
+                          "Blunt) hidden in the Waldorf's toilet and she tells "
+                          'that she had crashed a party and the security '
+                          'guards are chasing her. They start a conversation '
+                          'and they immediately fall in love with each other. '
+                          'However the guards find her and David does not see '
+                          'her again. However she inspires him to make a '
+                          'remarkable speech. \n'
                           '\n'
-                          'Having been to New York City recently, I find the '
-                          'sets nostalgic, and I am defenseless to the charms '
-                          'of Emily Blunt.\n'
+                          'One day, David is traveling by bus and he meets '
+                          'Elise again. She gives her phone number to him and '
+                          'David promises to call her. However, strangers '
+                          'wearing hats approach to David and tell that they '
+                          'belong to the Adjustment Bureau and Elise and David '
+                          'must be kept apart. They destroy the piece of paper '
+                          'with her phone number and David is unable to '
+                          'contact Elise. Three years later, David sees Elise '
+                          'walking on the sidewalk. He gets out of the bus to '
+                          'meet her and he learns that she is a dancer. But '
+                          'the strangers use their abilities to keep them '
+                          'apart. What is the reason why David and Elise can '
+                          'not be together?\n'
                           '\n'
-                          'Young Senate candidate for New York City, David '
-                          'Norris (Damon), is rehearsing his speech in the '
-                          "men's restroom when a beautiful stranger (Blunt, "
-                          'right, with Damon) emerges from one of the stalls '
-                          'and starts chatting with him. Before she leaves - '
-                          'in quite a hurry - they have an impulsive, '
-                          'passionate kiss, and he is smitten. Their next '
-                          'encounter in a city bus has to be by chance - and '
-                          'he learns that her name is Elise. He is determined '
-                          'to call her. To court her...\n'
+                          '"The Adjustment Bureau" is a romantic and '
+                          'suspenseful sci-fi based on a short story by Philip '
+                          'K. Dick, the writer of "Blade Runner", "Total '
+                          'Recall", "Impostor", "Minority Report", "Paycheck", '
+                          '"A Scanner Darkly" and "Next", among other sci-fi '
+                          'films. The intriguing story is ambiguous; the '
+                          'chemistry between Matt Damon and Emily Blunt is '
+                          'wonderful; and it is always great to see Terence '
+                          'Stamp. My vote is seven.\n'
                           '\n'
-                          'And then David comes across a bunch of Men in Black '
-                          'suits and hats, led by a Mr Richardson (John '
-                          'Slattery), who says bluntly: "We are the people who '
-                          'make sure things go according to plan." David\'s '
-                          'relationship with the free-spirited Elise is NOT '
-                          'part of their plan and he must not see her again - '
-                          'for both his and her own good! The rest of the '
-                          'movie is, of course, the tussle between Love and '
-                          'Fate for David. After being charmed by Elise, a '
-                          'rising star ballerina, we can understand why David '
-                          'is bent on seeing her. We can also understand how '
-                          'their relationship would possibly wreck their '
-                          'careers - and why David would want to take a chance '
-                          'on that. David and Elise seem so perfect for each '
-                          'other that we root for them.\n'
-                          '\n'
-                          'It is good that Nolfi has written such a romantic '
-                          'angle into this Dick tale instead of turning it '
-                          'into another action flick like "Total Recall", '
-                          '"Paycheck" and "Screamers". He could have polished '
-                          'up a bit more on the second half to keep it from '
-                          'becoming childish, though. Still, the notion of '
-                          'Fates personified could not be taken too seriously '
-                          '- and it would be better to just go along with the '
-                          'flow of the love story so charmingly portrayed by '
-                          'Damon and Blunt - and supported by a sympathetic '
-                          'Anthony Mackie and menacing Terence Stamp as '
-                          'members of the Adjustment Bureau. Emily Blunt has '
-                          'such captivating eyes that look into your soul and '
-                          'make you weep.',
+                          'Title (Brazil): "Os Agentes do Destino" ("The '
+                          'Agents of Destiny")',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '7',

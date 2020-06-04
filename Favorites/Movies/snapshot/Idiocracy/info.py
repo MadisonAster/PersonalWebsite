@@ -21,7 +21,7 @@
             'url': '/name/nm0187719/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 139423,
+                     'ratingCount': 139443,
                      'ratingValue': '6.6',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -51,32 +51,40 @@
  'keywords': 'political comedy,hibernation,stupidity,futuristic,false utopia',
  'name': 'Idiocracy',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'nadaht'},
-            'dateCreated': '2016-03-01',
+            'author': {'@type': 'Person', 'name': 'michaelplewa'},
+            'dateCreated': '2006-09-02',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0387808/'},
-            'name': 'Fun but I choke on the laughter...',
-            'reviewBody': "When I first popped this movie in I really did't "
-                          'know what I was in for. What I though would be a '
-                          'fun romp turned out to be about as scary as 1984. '
-                          'Who knew?\n'
+            'name': 'This is the beginning of a marketing mystery',
+            'reviewBody': "There's no other word for it...Fox dumped this out, "
+                          'with NO marketing of any kind. Nobody in the '
+                          'country, other than those who have been looking '
+                          'forward to this film, know anything about it. All '
+                          'the red flags have flown. It has to be a mess, it '
+                          "can't be anywhere near as good as Office Space, "
+                          "right? Wrong. Though Office Space it ain't, this "
+                          "film definitely has satirical bite and wit. It's a "
+                          "misfire on certain levels, but who's to blame is "
+                          'left to mystery.\n'
                           '\n'
-                          'The plot is very silly, cartoony if you will, and '
-                          "Futurama, I'm looking at you. So yeah, there's an "
-                          'experiment that goes Horribly Wrong and our heroes '
-                          'wakes up in the far future. \n'
+                          'Based on what is currently showing in theatres, I '
+                          "can say IDIOCRACY is a good movie. It's funny, "
+                          "sometimes laugh-out-loud funny. It's effective, "
+                          "sometimes ingenious. What it isn't as far as I can "
+                          'tell, is finished. We will see something come of '
+                          "this film again, whether it's an extended cut or "
+                          "reshoots. Alone it can be hilarious. It's ballsy at "
+                          'times.\n'
                           '\n'
-                          'Now take a look at society today: reality TV, '
-                          'Donald Trump running for president, ketchup is a '
-                          'vegetable, the "look at me" culture. And turn in up '
-                          "to 11. That's this movie for you - a f-ing scary "
-                          'dystopia which I would have laughed my ass off from '
-                          "in the early 90's but today, it's just scary. \n"
-                          '\n'
-                          "But it's still a fun and silly movie, it gives me "
-                          'tons of laughs. But I kinda choke on it. Add this '
-                          'to your list of great dystopian tales.',
+                          'Leaving the theatre, looking around at the mall, I '
+                          'was surrounded by advertisements and billboards, '
+                          "commercialism and stupidity. It's not quite as "
+                          'damning a dystopia as 1984, but this movie paints '
+                          "an ugly future for our culture. And there doesn't "
+                          'seem to be much anybody can do about it. Anyway, go '
+                          'see this if you can and try to find out what '
+                          'happened that it was so specifically buried.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '8',

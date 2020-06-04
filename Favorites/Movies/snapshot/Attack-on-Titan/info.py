@@ -21,7 +21,7 @@
             'url': '/name/nm2743770/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 11559,
+                     'ratingCount': 11560,
                      'ratingValue': '5.1',
                      'worstRating': '1.0'},
  'contentRating': 'Not Rated',
@@ -60,86 +60,89 @@
              'parts',
  'name': 'Shingeki no kyojin',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'tcampbell76'},
-            'dateCreated': '2015-08-22',
+            'author': {'@type': 'Person', 'name': 'billygoat1071'},
+            'dateCreated': '2015-08-12',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2072230/'},
-            'name': "It's not as bad as the fan-boys on here are saying...",
-            'reviewBody': "As a non-fan I was mildly entertained. Didn't think "
-                          "it was terrible, didn't think it was the best film "
-                          'ever. I felt it faithfully translated a very '
-                          'convoluted TV series the best way it could within '
-                          '90 mins while not sacrificing action and Titan '
-                          'screen time.\n'
+            'name': 'Watered Down Humanity',
+            'reviewBody': 'Attack on Titan is recently one of the most popular '
+                          "manga/anime in a while, it wasn't nearly as rich as "
+                          'some of the greatest ones out there, however the '
+                          'material tackles a rather mature subtext, otherwise '
+                          'a really fascinating showcase of macabre in a '
+                          "larger scale. It's clearly destined to be a movie, "
+                          "it might as well fit in today's blockbuster trend "
+                          'of post-apocalyptic settings and revolution '
+                          "ordeals. But the movie's approach is rather "
+                          'standard in comparison. While it still wonderfully '
+                          'realizes the most grotesque moments of its source '
+                          'material, the characters are watered down with less '
+                          'interesting plights. Newcomers might find its '
+                          'premise intriguing, but what makes Attack on Titan '
+                          'interesting is hardly existent in this adaptation.\n'
                           '\n'
-                          "I don't consider myself a fan of the TV series, but "
-                          "being someone in their late 30's who grew up on "
-                          "they heyday of Japanese animation back in the 80's "
-                          "and 90's--Attack on Titan was the first time in a "
-                          'long while that an animation from there felt fresh, '
-                          'poignant and emotionally compromising for the '
-                          'viewer. The young kid in me would have loved this '
-                          "TV series, but the late 30's me who has been "
-                          'through a lot in life and chooses to seek out more '
-                          'positive and cheerful entertainment felt it got a '
-                          "bit too overly depressing and macabre. That's not "
-                          'saying I felt it was bad, just no longer my taste '
-                          'in entertainment anymore.\n'
+                          'How the main characters are introduced is painfully '
+                          'contrived. Like every piece of exposition is '
+                          'immediately crammed into that one long scene that '
+                          'is supposed to establish who they are and what '
+                          "their world is. The difference is it's not quite "
+                          "compelling. I personally don't mind changes from "
+                          'its source material; the protagonist, Eren, is '
+                          'basically now a slacker who is tired of living '
+                          'behind the colossal walls from the titans, instead '
+                          'of an aggressive kid with some sociopathic '
+                          "tendencies who vows for revenge. It's not "
+                          "necessarily horrible since they're still "
+                          "represented as unlikely heroes, but Eren's arc is "
+                          'basically just trying to win back his girl and '
+                          'living up to that image, it makes him look lousier. '
+                          'What makes this character originally interesting is '
+                          'the fact that he is a traumatized kid who is too '
+                          'full of himself, which eventually crosses the line '
+                          'of his humanity and morality. It may not be the '
+                          "friendliest role model you'll see from a hero, but "
+                          'it rather makes him more relatable.\n'
                           '\n'
-                          "Fanboys/fan-girls on here rating this film 1's have "
-                          'noticeably a lot of impractical whines concerning '
-                          'the film. They simply are expecting a 600 hour TV '
-                          'animation series to be summed up in 90mins. It '
-                          "doesn't take someone who has worked on a film to "
-                          'realize that is setting up an impractical '
-                          'expectation. Characters and situations ARE to be '
-                          'expectedly retooled in order to give the film '
-                          'proper pacing. Sure, some characters in the film '
-                          'that fans had invested a lot of hours into via the '
-                          'TV series are sometimes sidelined, rewritten or '
-                          'killed off. I expected and knew this would happen '
-                          "and it didn't change my perspective on the overall "
-                          "film because I didn't go in with impractical fan "
-                          'expectations of this "film adaptation". Of course a '
-                          '600 hour TV series has plenty of time for you to '
-                          'become emotionally invested with meat shield '
-                          'fighters that the overall story had every intention '
-                          'of killing off down the line for more emotional '
-                          'impact. But trying to delve into all those '
-                          "characters in a 90 minute film isn't going to "
-                          'happen. Have to be more objective than that within '
-                          'the context of this adaptation.\n'
+                          'And that sounds more reasonable since this '
+                          "circumstance would really affect one's senses into "
+                          "insanity or paranoia. But in this movie, they're "
+                          'just verbally expressing their fears, sentiments '
+                          'and humor. The plot is ought to be followed through '
+                          'these characters, but most of them are single '
+                          'noted. They might as well exist in some YA where '
+                          "they're designed to be hormonally appealing. In the "
+                          "end, they're clearly just uninteresting. To its "
+                          'credit, the visuals are pretty cool. It may not be '
+                          "perfect or spectacular, but it's impressive enough "
+                          'to take these exciting moments into live action. '
+                          'There are some scenes that can be count as '
+                          'genuinely awesome, specifically the climax, even '
+                          'though it now seems to be quite senseless since '
+                          "they're taking this story to a different direction. "
+                          'Nevertheless, as long as these Titans and gore are '
+                          'on screen, there is some real pleasure to be '
+                          'taken.\n'
                           '\n'
-                          'That being said the film does suffer from being '
-                          'disjointed and rushing through major plot points '
-                          "towards the final cliffhanger. It's really a film "
-                          'that just gets to the point and does not bores you '
-                          'with exposition that you can pretty much obviously '
-                          'figure out on your own.\n'
-                          '\n'
-                          'The Titans are absolutely as terrifying as I '
-                          'remembered from the TV series and faithfully '
-                          'depicted. I found myself covering my face in some '
-                          'parts like I did with the TV series, so I think '
-                          'they did their job well in translating the horror '
-                          'and macabre of what the humans went through.\n'
-                          '\n'
-                          'The action was obviously CGI heavy, but not done in '
-                          'a way that felt tawdry. They perfectly captured the '
-                          'aerial flight and feel of the fights from the TV '
-                          'series well.\n'
-                          '\n'
-                          'Attack on Titan was by no means a 1 rated film. '
-                          "It's no Ed Wood film. It's no Manos the Hands of "
-                          "Fate. It's not Glitter levels of bad. It's not a "
-                          "film that is really that terrible. It's a film that "
-                          'on a baseline captures the terrifying essence of '
-                          'the TV series main concepts, but does suffers a '
-                          'little bit on core characters development.',
+                          'Attack on Titan, in spite of its scale and '
+                          'production, is surprisingly underwhelming. The '
+                          'filmmakers are clearly just following the '
+                          'conventional direction of adapting a popular '
+                          "material, more or less. Visually, it's appropriate "
+                          'to call it a fan service; because it indeed puts '
+                          'these big action where it belongs. But '
+                          'thematically, it is a letdown. Attack on Titan '
+                          "isn't only great for its creepy titans and cool "
+                          'gadgetry, in fact, these things are basically small '
+                          'compared to its surprising complexity within its '
+                          'characters. That is what I personally believe that '
+                          "makes this material great, and yet that's what the "
+                          "movie ended up altering. Therefore it's just a "
+                          'standard B-Movie. It can be mindless fun, but you '
+                          "won't find anything else to like in the end.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '5',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The story of a world where most of humanity has '

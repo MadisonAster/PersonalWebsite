@@ -21,7 +21,7 @@
             'url': '/name/nm3228287/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 155639,
+                     'ratingCount': 155737,
                      'ratingValue': '8.4',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -43,16 +43,38 @@
  'keywords': 'netflix original,missouri,mexico,drug cartel,financial advisor',
  'name': 'Ozark',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'laragi'},
-            'dateCreated': '2020-05-05',
+            'author': {'@type': 'Person', 'name': 'PCT1970'},
+            'dateCreated': '2019-05-05',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5071412/'},
-            'name': 'Very unique. Terrific Actors',
-            'reviewBody': 'I never would have watched this if not for the '
-                          "quarantine. It wasn't promoted well. I LOVED IT! "
-                          'Great script, tons of action and characters that '
-                          'you love to hate and hate to love.',
+            'name': 'Dirty Laundry',
+            'reviewBody': 'Williams and Dubuque have created a virtuous crime '
+                          'drama. All of the actors deliver superlative '
+                          'performances. Bateman, Linney and Garner are a '
+                          'sight to behold, especially Bateman who steps out '
+                          'of his normal character. Peter Mullan and Lisa '
+                          'Emery portray two of the most convincing and '
+                          "vicious villains with such subtleness. It's almost "
+                          'hard not to admire their characters. The writing, '
+                          'cinematography, directing, setting and acting are '
+                          'marvelous. The plot revolves around a financial '
+                          'planner who ends up in a money laundering scheme. '
+                          'Eventually he ends up having to relocate his family '
+                          'to the Ozarks in order to continue laundering money '
+                          'for a ruthless Mexican drug cartel against his '
+                          'will. The main consequences behind this are trying '
+                          'to save his family and everyone around him. The '
+                          'plot is clever, surreal, intense, violent, '
+                          'unparalleled, gritty, unique, duplicitous and '
+                          'cathartic. The series is pure art and masterful in '
+                          'all aspects. It is outstanding in examining just '
+                          'how far your average Joe will go when lives are at '
+                          'stake. I am a " Breaking Bad" and " Better Call '
+                          'Saul" fan since the first episodes of both series. '
+                          '"Ozark" stands right up there with each and is as '
+                          'good if not better. I can only hope that more '
+                          'seasons will follow.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

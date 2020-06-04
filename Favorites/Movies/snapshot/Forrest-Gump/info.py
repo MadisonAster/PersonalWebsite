@@ -19,7 +19,7 @@
             'url': '/name/nm0000398/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 1732177,
+                     'ratingCount': 1732354,
                      'ratingValue': '8.8',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -44,97 +44,59 @@
  'keywords': 'vietnam war,amputee,war hero,vietnam,mother',
  'name': 'Forrest Gump',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Smells_Like_Cheese'},
-            'dateCreated': '2002-06-10',
+            'author': {'@type': 'Person', 'name': 'inspectors71'},
+            'dateCreated': '2016-05-19',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0109830/'},
-            'name': "Let's see the world through the eyes of Forrest Gump",
-            'reviewBody': '"I\'ve made about 20 films and 5 of them are pretty '
-                          'good"-Tom Hanks.\n'
+            'name': 'Dropping My Keys',
+            'reviewBody': 'I remember John Byner, the stand-up comic and '
+                          'impressionist of the 1970s talking about guys '
+                          "crying at movies, how it's not an acceptable "
+                          'behavior. He advised the men in his audience to '
+                          'drop their keys, do something that gets them to '
+                          'lean forward, wipe their faces, and get things '
+                          'under control.\n'
                           '\n'
-                          '"Forrest Gump" is one of the best movies of all '
-                          'time, guaranteed. I really just love this movie and '
-                          'it has such a special place in my heart. The '
-                          'performances are just so unforgettable and never '
-                          'get out of your head. The characters, I mean the '
-                          "actors turned into them and that's what got to me. "
-                          'The lines are so memorable, touching, and sometimes '
-                          'hilarious.\n'
+                          'I dropped my keys watching Forrest Gump. Lieutenant '
+                          "Dan comes over the hill at Forrest and Jenny's "
+                          'wedding, new legs, fiancé at his side, clean-cut '
+                          'and happy.\n'
                           '\n'
-                          'We have Forrest Gump(Tom Hanks), not the sharpest '
-                          'tool in the box, his I.Q. is right below the '
-                          'average scores. But his mama(Sally Field) believes '
-                          'that her boy has the same opportunities as anyone '
-                          "else and lets Forrest know that there's nothing "
-                          'that could hold him back. As a boy he is put into '
-                          'braces for his legs since he has a crooked back and '
-                          "really doesn't have too many friends. When he gets "
-                          'on a school bus for his first day of school, NO ONE '
-                          'will let him sit next to them. This scene is so '
-                          "heart breaking until you hear a little angel's "
-                          'voice "You can sit here if you want". Jenny, '
-                          "Forrest's best friend and crush, she looks so "
-                          'incredibly innocent and you love her because her '
-                          "and Forrest are like pea's and carrots. But we find "
-                          'out that there is an extremely unfortunate side to '
-                          'her life, she has a father that\'s "always kissing '
-                          'and touching her and her sisters". Forrest just '
-                          "assumes that it's a father's love since he doesn't "
-                          "have a dad that could show him that it's wrong.\n"
+                          'Forrest states the obvious, "Lieutenant Dan, you '
+                          'gawt le-eggs!"\n'
                           '\n'
-                          'Forrest and Jenny together walk every day from '
-                          'school and when these kids start throwing rocks at '
-                          'Forrest calling him stupid, Jenny just tells '
-                          'Forrest "Run, Forrest! Run!". He miraculously '
-                          'breaks the braces off his legs and run like the '
-                          'wind blows. Forrest meets many celebrities from his '
-                          'life that just happened to be there: Elvis Presley '
-                          'visited his house before hitting it big, President '
-                          'Kennedy honored him with a all American football '
-                          'award, President Johnson who honored him with a '
-                          'medal of honor for his actions in Vietnam, '
-                          'President Nixon(in which Forrest happens to '
-                          'discover a problem in the Water Gate Hotel because '
-                          'some people seem to be flashing lights around), and '
-                          'John Lennon through a talk show to talk about his '
-                          'medal of honor.\n'
+                          'And the water-works just started to flow.\n'
                           '\n'
-                          'Forrest meets some interesting people along the way '
-                          'too that are even better than these celebrities '
-                          'combined; Bubba his Vietnam war friend who dreams '
-                          'of owning a shrimp boat one day and was born with '
-                          'big gums. He is just so wonderful and charming and '
-                          "won't stop talking about shrimp. Luteniet Dan, a "
-                          "leader of Forrest's army in Vietnam who gets saved "
-                          'by Forrest during a huge attack and looses his legs '
-                          'as a result. Luteniet Dan was by far my favorite '
-                          'character, he has so much pride and wants to die in '
-                          'Vietnam due to his family history tradition of '
-                          'dying in every single American war. He and Forrest '
-                          "make quite a pair. And of course there's Jenny, a "
-                          'very tragic figure, she gets more mean as she grows '
-                          'up because she knows that Forrest loves her, in '
-                          "some ways you can't blame her really. She was "
-                          'obviously abused and I think she felt that Forrest '
-                          "was too good for her or that he couldn't really "
-                          'give her the love she wanted. Robin Wright, what a '
-                          'beautiful and wonderful actress.\n'
+                          "I sit up straight and clear my throat. Got 'em (the "
+                          'keys, that is). My wife leans over and gives me a '
+                          'kiss. She says, "That\'s why I love you."\n'
                           '\n'
-                          'This movie is incredible and should be seen by '
-                          'everyone. I am not kidding, "Forrest Gump" is a '
-                          "remarkable movie and inspires everyone. It's not "
-                          'just about someone stupid who happens to be in '
-                          'great places and historic events just because of '
-                          'being in the right place at the right time. This '
-                          'story is beautiful and will inspire everyone to go '
-                          'the distance and see the world like Forrest did and '
-                          'will never give up on their dreams.\n'
+                          'Other than a few historical fussinesses and plot '
+                          'slickeries, none of which are worth mentioning, '
+                          'this is as close to a perfect, '
+                          'emotionally-satisfying entertainment as I have ever '
+                          'seen. \n'
                           '\n'
-                          '10/10',
+                          'I love this movie. I never tire of the simple story '
+                          'of the guy with the lowest IQ in the room being the '
+                          "smartest guy in the room. It's filled with a "
+                          'patriotic decency you can only find in The Wizard '
+                          'of Oz and To Kill a Mockingbird.\n'
+                          '\n'
+                          'When Dorothy is aching for home and the Wizard '
+                          "can't deliver, I drop my keys. When Scout points to "
+                          'the man behind Jem\'s bedroom door and says, "Hey, '
+                          'Boo," the fob goes flying.\n'
+                          '\n'
+                          'The next time I get out my copy to show to my 11th '
+                          "Grade US History kids, I'll start fingering my key "
+                          'chain. \n'
+                          '\n'
+                          "I can't help it.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer 1 for Forrest Gump',

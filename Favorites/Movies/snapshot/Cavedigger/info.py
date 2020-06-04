@@ -38,34 +38,26 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTgyMTU0OTYxOV5BMl5BanBnXkFtZTgwNDUyNTEwMTE@._V1_.jpg',
  'name': 'Cavedigger',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ikoslow-902-728247'},
-            'dateCreated': '2014-01-20',
+            'author': {'@type': 'Person', 'name': 'pamkoslow'},
+            'dateCreated': '2014-01-18',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2516860/'},
-            'name': 'Excellent chronicle of an artist who creates magical '
-                    'spaces.',
-            'reviewBody': 'Jeffrey Karoff has created a deep, rich exploration '
-                          'of a man who creates wondrous spaces dug out of the '
-                          'sides of mountains. The title is just a teaser as '
-                          'to the reality of his projects. Cave is defined '
-                          'as:\n'
-                          '\n'
-                          'noun 1. a hollow in the earth, especially one '
-                          'opening more or less horizontally into a hill, '
-                          'mountain, etc.\n'
-                          '\n'
-                          'Thus one thinks of something completely different '
-                          'than the brightly lit living spaces created by this '
-                          'artist. Not only does Karoff show the creation of '
-                          'the caves, but digs into the life of the artist and '
-                          'shows his personal and business relationships as '
-                          'well, All this done with a light touch, that leaves '
-                          'the documentarian completely in the background '
-                          'without distraction from the main focus. Words are '
-                          'inadequate to describe this piece and you must see '
-                          'it to get the full impact of the enormity of this '
-                          "artist's work. Thumbs up!",
+            'name': 'I loved this film.',
+            'reviewBody': 'Cavedigger is a beautifully crafted short '
+                          'documentary about a little known artist with a very '
+                          'unique art form. The production values are superb. '
+                          'Beautifully shot in New Mexico, it presents the '
+                          'artists milieu as well as a look at the private '
+                          'life and inner workings of what goes on in very '
+                          "special man's mind. It was completely absorbing "
+                          'throughout. I was so taken with the sensitivity '
+                          'Jeffrey Karoff showed to the artist during the time '
+                          'he followed him around. I loved the the scenic '
+                          'shots of New Mexico as well as the beautiful '
+                          'presentation of his art pieces. All in all, it was '
+                          'one of the most sensitive representation of an '
+                          'artist and his work.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

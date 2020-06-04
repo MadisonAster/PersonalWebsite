@@ -47,33 +47,30 @@
  'keywords': 'city',
  'name': 'The Citizen',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'buiger'},
-            'dateCreated': '2014-09-15',
+            'author': {'@type': 'Person', 'name': 'vv-web'},
+            'dateCreated': '2013-11-14',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1942989/'},
-            'name': "So cliché'...",
-            'reviewBody': 'Just your run-of-the-mill, feel-good, do-good '
-                          'Hollywood presentation where everybody is such an '
-                          'incredibly good Samaritan and the only bad guys are '
-                          'the psychopaths running the US government (only '
-                          'when a Republican is President though, otherwise '
-                          'they all become good Samaritans too, get Nobel '
-                          'prizes, etc.)\n'
-                          '\n'
-                          'Such simplistic movies distorting the truth are bad '
-                          'enough when they are made by Americans who can be '
-                          'seen as entitled to criticize their own government, '
-                          'however blatantly wrong they may be, but it leaves '
-                          'a sour taste in the mouth coming from a Syrian '
-                          'director...\n'
-                          '\n'
-                          'P.S. The European intelligentsia will love this '
-                          "movie! I am surprised it didn't win the Golden Palm "
-                          'in Cannes...',
+            'name': 'great',
+            'reviewBody': 'this movies is the best Arab life story in USA i '
+                          "ever see. it's really important to understand that "
+                          'not all Arab immigrant or Muslim are terrorist , we '
+                          'all humans live in same planet , respect each other '
+                          "and religion . I don't care what other's believes "
+                          "or what's their religion as long as they are good "
+                          "to me i'll be good to them and even better . I hope "
+                          'that someday people start respect each other for '
+                          "their moral not for their skin or religion .I'ts "
+                          'great movie for you Khaled el Nabawi you did great '
+                          '. this movies is the best Arab life story in USA i '
+                          'ever see this movies is the best Arab life story in '
+                          'USA i ever see this movies is the best Arab life '
+                          'story in USA i ever see this movies is the best '
+                          'Arab life story in USA i ever see',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '4',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A drama centered on Ibrahim, an Arab immigrant '

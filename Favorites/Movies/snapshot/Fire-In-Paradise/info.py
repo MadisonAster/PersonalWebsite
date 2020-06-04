@@ -42,31 +42,33 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BOWJiMGU2YTEtMjQ5Zi00MTdlLTkxODgtNmM0ODhiODQwNWUzXkEyXkFqcGdeQXVyMTc2MzUwMjQ@._V1_.jpg',
  'name': 'Fire in Paradise',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'mccabegabe'},
-            'dateCreated': '2019-11-28',
+            'author': {'@type': 'Person', 'name': 'random-70778'},
+            'dateCreated': '2019-11-09',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt11127056/'},
-            'name': 'Well-done, riveting',
-            'reviewBody': 'I watched this short film about the devastating '
-                          '"Camp Fire" in Paradise, CA on Netflix. Some of the '
-                          'footage in this is just amazing. In this day and '
-                          'age with everyone recording things on their cell '
-                          'phones, it amounts to some scary footage of people '
-                          'literally driving through flames as they try to '
-                          "escape to safety. It's terrifying, and it shows "
-                          'exactly how fast a wildfire can get out of control '
-                          'and why we need to enact climate and environmental '
-                          'policies to try to stop this horrible trend in '
-                          'which wildfires are getting worse and worse each '
-                          'year. My heart breaks for the people of Paradise '
-                          'and other people who have had their lives turned '
-                          'upside down by wildfires. This documentary does a '
-                          'good job of painting a picture of that day - how '
-                          'everything went from normal to horrific but in mere '
-                          'minutes.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
+            'name': 'Fails to address the actual cause: Overdevelopment',
+            'reviewBody': 'At least this is not as bad as the widely debunked '
+                          'frontline which cast around for blame ignoring the '
+                          'science.\n'
+                          '\n'
+                          'The science clearly shows that long term severe '
+                          'drought and major wildfires have been endemic in '
+                          'California history for hundreds of thousands of '
+                          'years. since the last glacial maximum the numbers '
+                          'of fires in California for thousands of years, and '
+                          'before that, before the last glacial period massive '
+                          'drought and endemic wildfires occurred regularly '
+                          'for hundreds of thousands of years.\n'
+                          '\n'
+                          'The only thing making that worse today is the '
+                          'massive over-development of California. '
+                          'Specifically massive development into fire prone '
+                          'areas where soil sample strata show there were '
+                          'regular wildfires all along.\n'
+                          '\n'
+                          'Oh "record setting" damage to property and loss of '
+                          'life? ONLY because of the record setting population '
+                          'and record setting amount of real estate where '
+                          'there once was none.'},
  'url': '/title/tt11127056/'}

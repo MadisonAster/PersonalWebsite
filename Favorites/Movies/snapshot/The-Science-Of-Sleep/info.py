@@ -19,7 +19,7 @@
             'url': '/name/nm0149260/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 66890,
+                     'ratingCount': 66893,
                      'ratingValue': '7.3',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -48,82 +48,36 @@
              'relationship,giant hand',
  'name': 'La science des rêves',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'oneloveall'},
-            'dateCreated': '2007-02-04',
+            'author': {'@type': 'Person', 'name': 'sundevil27'},
+            'dateCreated': '2006-01-25',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0354899/'},
-            'name': 'An inventive joy with a wicked undertone',
-            'reviewBody': 'Michel Gondry, the visually creative giant behind '
-                          "some of MTV's most stylistically innovative music "
-                          'videos, and more recently the driving force behind '
-                          'his and script writer extraordinare Charlie '
-                          "Kaufman's brilliant Eternal Sunshine of the "
-                          'Spotless Mind, finally makes his solitary debut, '
-                          'choosing to write and direct this surrealist tale '
-                          'of dreams, reality, and the lines some people walk '
-                          'between them. Fans of the visual virtuoso must have '
-                          "been anticipating Gondry's official declaration as "
-                          'auteur for some time, having salivated for a decade '
-                          'now as this French director continually pushed the '
-                          'envelope for lucky musicians.\n'
-                          '\n'
-                          "I'm sure many saw The Science of Sleep as a proving "
-                          'ground that would help fans see if the eccentric '
-                          'director would be able to parlay all of these '
-                          'visually creative aspects into a more cohesive, '
-                          'cinematic experience. By and large, the dangerously '
-                          "imaginative movie succeeds on it's own, though "
-                          'there are a few discrepancies to note. First, it '
-                          'does feel that much of the way the movie is shot, '
-                          'in particular the scenes which stay most grounded '
-                          'in reality, do mimic a lot of the production values '
-                          'that gave Eternal Sunshine such a realistically '
-                          'detached value to it. Ditto with much of the '
-                          'stream-of-consciousness script, at times heavily '
-                          'emulating the flow Gondry and Kaufman helped '
-                          'pioneer the first time around. The actual plot is '
-                          'decidedly low-key, and for good reason, though at '
-                          'times Gondry does struggle to fill all of his '
-                          'microcosms with relevance. To say these values '
-                          'remain derivative and do not completely complement '
-                          'the whimsically dark storytelling taking place here '
-                          'though, would be to forsake the fantastic and '
-                          'singular joy that the Science of Sleep is.\n'
-                          '\n'
-                          "Regardless of it's constant French avant-garde "
-                          'noodling, and despite the obvious parallels to '
-                          "Gondry's previous film, Science remains a "
-                          'near-masterwork, punctuated by the intoxicating '
-                          "rhythm of it's perceptive dream sequences, often "
-                          'edited with the most keen of intentions. Whether '
-                          'viewers will stay immersed throughout the fantasy '
-                          'bleed-in will be up to ones subjective threshold, '
-                          'and ones ability to thrive off of the magically '
-                          'deranged pacing that hints at underlying '
-                          "psychological relevance. Gondry's masterful pacing "
-                          'does not disappoint, culminating with the brilliant '
-                          "evolution of the script's supremely playful tone "
-                          'into something much more serious.\n'
-                          '\n'
-                          'Of course, the sincere material would only be at '
-                          'home when recited by actors of a pure heart, and in '
-                          'this Gondry also excels by casting two leads who do '
-                          'everything they can to involve us in the realist '
-                          'fantasy. Gael García Bernal, always doing well to '
-                          'pick good material, finally slips into an English '
-                          'language role with the ease I would expect, and the '
-                          'luminous yet subdued Charlotte Gainsbourg radiates '
-                          'the earthly kind of magic that this film is all '
-                          'about. People with strict objective agendas stay '
-                          'clear, anyone else who still uses an inkling of '
-                          'their imagination, please dive in. It may not be '
-                          'perfect, but Science is surely one of the most '
-                          'unique and perceptive fantasies to merge with the '
-                          'mass consciousness in years.',
+            'name': 'Dreamy Art Pic that requires multiple viewings',
+            'reviewBody': 'I just saw this at the Sundance Film Festival and '
+                          'feel compelled to saw a few things about the flick. '
+                          'This movie is so insanely good and just plain '
+                          'insane at the same time. The movie follows Gael '
+                          "Garcia's character as he moves back to his mothers "
+                          'home in Paris and finds himself falling for the '
+                          "girl across the hall. Gael's character experiences "
+                          'reality through dreams and the present, creating '
+                          'all sorts of confusion. The movie has some of the '
+                          'most unique props and eccentric animation pieces I '
+                          'have ever seen, but would you expect anything less '
+                          'from Gondry (Eternal Sunshine..). This movie really '
+                          "can't be described in truth but holds so much "
+                          'potential for multiple viewings as its so full of '
+                          'life and visual wonders for the eyes. Gael Garcia '
+                          'is just perfect in this role and is fascinating in '
+                          'gesture and laugh out loud funny when the script '
+                          'allows. I think you should definitely look forward '
+                          'to seeing this movie when it gets a wide release, '
+                          'its funny, its art, its pleasure for the eyes and a '
+                          'puzzle for the mind.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Home Video Trailer from Warner Home Video',

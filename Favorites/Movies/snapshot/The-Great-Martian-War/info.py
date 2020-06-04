@@ -46,24 +46,35 @@
  'keywords': 'martian,tripod,alien invasion,1910s,fictional war',
  'name': 'The Great Martian War 1913 - 1917',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jfthomas'},
-            'dateCreated': '2018-05-05',
+            'author': {'@type': 'Person', 'name': 'sarahmedeiros-96197'},
+            'dateCreated': '2018-09-08',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3199240/'},
-            'name': 'Not H. G. Wells, but close.',
-            'reviewBody': 'Very imaginative and well executed, plays like a '
-                          'genuine History Channel documentary.  This '
-                          '"mockumentary" is not for laughs, but a fascinating '
-                          'vehicle for science fiction.   I have long wished '
-                          'that someone would make a movie based on "War of '
-                          'the Worlds," and keep the setting in H. G. Wells\' '
-                          'era when the concept of alien technology would be '
-                          'beyond the imagination of the people of those '
-                          'times. While this is not that story, this film '
-                          'comes closest to fulfilling my wish.',
+            'name': 'Scared My Grandma',
+            'reviewBody': 'I have to commend the filmmakers here, as this '
+                          'movie completely fooled my grandmother. She watched '
+                          'this by herself on the History Channel and called '
+                          'my father in a complete panic due to the fear that '
+                          'the "cockroach headed and spider armed" aliens '
+                          'would return to earth. \n'
+                          '\n'
+                          ' This was accomplished due to the use of the CGI '
+                          'aliens being incorporated into actual WW1 footage. '
+                          'Also, the use of actors pretending to be former '
+                          'soldiers were convincing enough to her to prove '
+                          'that this story was real. Apparently, she was '
+                          "shaking and claimed that she couldn't go to sleep "
+                          'until the family was prepared to deal with the '
+                          'looming threat of alien invasion. \n'
+                          '\n'
+                          " So I don't know if this review helps anyone, but "
+                          'if anything it shows how convincing this '
+                          'mockumentary can be and serves as a reminder to not '
+                          'necessarily believe everything you see on TV. Or '
+                          'the History Network.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'url': '/title/tt3199240/'}

@@ -19,7 +19,7 @@
             'url': '/name/nm0186761/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 168600,
+                     'ratingCount': 168611,
                      'ratingValue': '7.9',
                      'worstRating': '1.0'},
  'contentRating': 'Not Rated',
@@ -41,33 +41,28 @@
  'keywords': 'single setting,dialogue driven,storytelling,cro magnon,professor',
  'name': 'The Man from Earth',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'rareandfirsts'},
-            'dateCreated': '2007-11-16',
+            'author': {'@type': 'Person', 'name': 'phalanges1'},
+            'dateCreated': '2007-11-09',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0756683/'},
-            'name': 'One of the most thoughtful and well written scripts put '
-                    'to film in ages.',
-            'reviewBody': 'I cannot speak about the depth and art put forth in '
-                          'this film without giving away details that will rob '
-                          'enjoyment from you if you have not seen this film. '
-                          'Suffice it to say that I highly recommend this film '
-                          'for anyone who enjoys a film that reaches to the '
-                          'stars and does not depend on CGI.\n'
+            'name': 'Educational',
+            'reviewBody': 'A seriously engaging film with a small twist at the '
+                          'end. Lots of small inputs of educational facts and '
+                          'figures but stay alert as they come quick and fast. '
+                          'I thought the mix of characters was excellent and '
+                          'the tale outstanding, but that is down to Bixby the '
+                          'writer. The acting was a little wooden but the '
+                          'story-line was fast enough (after a slightly slow '
+                          'start) to save dwelling on this. A sci-fi film with '
+                          'absolutely no special effects, relying solely on '
+                          'the story and a room-full of actors.\n'
                           '\n'
-                          'This is a film without pretense or smoke and '
-                          'mirrors.\n'
-                          '\n'
-                          'It is so nice to see a film that depends solely on '
-                          'story and dialogue. I highly recommend this to SF '
-                          'readers before viewers. \n'
-                          '\n'
-                          'A true masterpiece.\n'
-                          '\n'
-                          'A true shame this film never got any publicity to '
-                          'speak of. All though it did not cost tens of '
-                          'millions to put to film, it is a winner in any '
-                          'category.',
+                          'A highly recommended film that needs some '
+                          'concentration and thought to fully appreciate, and '
+                          'that might even cause a tear if you become fully '
+                          'immersed. A nice change from the usual no-brainer '
+                          'special effects charged tear-aways.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

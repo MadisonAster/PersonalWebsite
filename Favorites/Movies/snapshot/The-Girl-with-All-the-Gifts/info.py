@@ -21,7 +21,7 @@
             'url': '/name/nm0175916/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 51852,
+                     'ratingCount': 51858,
                      'ratingValue': '6.6',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -49,50 +49,45 @@
  'keywords': 'experiment,bitten by a zombie,feral child,scientist,cure',
  'name': 'The Girl with All the Gifts',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'A_Different_Drummer'},
-            'dateCreated': '2017-01-02',
+            'author': {'@type': 'Person', 'name': 'billygoat1071'},
+            'dateCreated': '2016-11-26',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4547056/'},
-            'name': 'Nothing predictable about this, nothing whatsoever..',
-            'reviewBody': 'As a prolific reviewer, you tend to often discuss a '
-                          'film in terms of traditional arcs, and riffs off '
-                          'those same arcs.\n'
+            'name': 'Mind-Blowing',
+            'reviewBody': 'The atmosphere it builds, the eeriness of the '
+                          'children humming from the music score, how '
+                          'brilliantly orchestrated that opening scene or the '
+                          'entire first act was, are just everything you need '
+                          'to get excited on how things will unfold.\n'
                           '\n'
-                          'Which is why it is always a treat when a film comes '
-                          'along that throws the script template out the '
-                          'window and forges its own path.\n'
+                          'When the actual plot kicks in, it somewhat follows '
+                          'the familiar zombie/outbreak movie tropes, with '
+                          'them wandering around this rubble. The second act '
+                          "does slow things down, since the zombie's dynamics "
+                          'here are pretty standard. But the subtext is what '
+                          'keeps it more interesting. The whole setup is '
+                          'basically a metaphor on how we treat the next '
+                          "generation: we get Gemma Arterton's character who "
+                          'finds hope on the young infected girl, Melanie, '
+                          'while everyone else fears on how she and her kind '
+                          "could threaten their existence. It's a complex "
+                          'dilemma that makes it tough to predict how '
+                          'everything would turn out. The greatest feat of the '
+                          'directions is how it keeps its scenarios quite '
+                          'disorienting, especially with its music score, '
+                          "increasing its disorientation. It's amazing.\n"
                           '\n'
-                          'This is such a film. It reminded me of THE '
-                          'INCREDIBLE SHRINKING MAN 1957, the first legitimate '
-                          'A-list sci-fi that, like this film, started off in '
-                          'what seemed a traditional manner -- and then went '
-                          'down a plot superhiway that no one had ever seen '
-                          'before.\n'
-                          '\n'
-                          'It is not a perfect film. It has some flaws. For '
-                          'example, the first 30 minutes are better (more '
-                          'impact, more empathy, more entertaining) than the '
-                          'last 60 minutes. Which is not to suggest that the '
-                          'last hour is bad, merely that the first half-hour '
-                          'is drop-dead stunning and unforgettable.\n'
-                          '\n'
-                          'And the director often seems confused about who the '
-                          'real star is? Ditto for the PR dept of the studio. '
-                          'If you check the IMDb reference, you will see that '
-                          'the young girl so brilliantly played by Sennia '
-                          'Nanua is given billing lower down on the cast list. '
-                          "That's an error. Sennia IS the film -- she "
-                          'practically picks it up and carries it to the '
-                          'finish line. The scenes without her are weak, the '
-                          'scenes with her are wonderful.\n'
-                          '\n'
-                          'Nice iteration of a "really smart" zombie film. '
-                          'Recommended.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '7',
-                             'worstRating': '1'}},
+                          'And the movie ends with probably one of the '
+                          "cleverest punchlines I've seen in film. This movie "
+                          'is basically the I Am Legend movie done right. This '
+                          'movie is based on a book and contradicting to what '
+                          'I said, the readers claim that the ending of this '
+                          'movie was mishandled. I dunno in what way, but it '
+                          'makes me more curious about reading it. For now, I '
+                          'think The Girl With All the Gifts is mindblowing. '
+                          'If Glenn Close fighting a zombie is not enough for '
+                          'you to see it, I dunno what will.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'A scientist and a teacher living in a dystopian '
                             'future embark on a journey of survival with a '

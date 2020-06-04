@@ -19,7 +19,7 @@
             'url': '/name/nm0001235/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 90691,
+                     'ratingCount': 90692,
                      'ratingValue': '6.8',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -51,50 +51,30 @@
  'keywords': 'motel,revenge,carjacking,brothel,police brutality',
  'name': "The Devil's Rejects",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'sabsco'},
-            'dateCreated': '2006-02-06',
+            'author': {'@type': 'Person', 'name': 'barbie800'},
+            'dateCreated': '2006-05-07',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0395584/'},
-            'name': 'Much Better Than Expected ....',
-            'reviewBody': 'Not the kind of movie I would normally even '
-                          'consider, but after recommendations from a couple '
-                          "of people who's opinion I trust, I rented the movie "
-                          'this weekend. Writer/Director Rob Zombie is '
-                          'obviously a great fan of 70s drive-in fare like '
-                          '"The Texas Chainsaw Massacre" and "The Hills Have '
-                          'Eyes" and has learned his lessons well. He has a '
-                          'solid directorial style and a great ear for '
-                          'comically profane dialog - the banter in this movie '
-                          'reminds me of "Goodfellas" with maniacal Southern '
-                          'rednecks rather than East Coast Italian mobsters. '
-                          'And with a cast that includes William Forsythe, Sid '
-                          'Haig, Geoffrey Lewis, Ginger Lynn Allen, Priscilla '
-                          'Barnes, Steve Railsback, P.J. Soles, Mary Waronov, '
-                          'Deborah Van Valkenburgh, and Michael Berryman, and '
-                          'a Super 70s Soundtrack featuring The Allman '
-                          'Brothers, The James Gang, David Essex, and Lynyrd '
-                          'Skynyrd among others - you know Zombie has his pop '
-                          'cultural/cult movie references in order. I enjoyed '
-                          'this movie more for the humor than the for the '
-                          '"horror". The characters are all named after '
-                          'various Marx Brothers characters and while the gore '
-                          'is graphic and there are some truly chilling images '
-                          'in the movie, Zombie just misses the "beat" to put '
-                          'some of these sequences over the top, while the '
-                          'acting performances by a couple of the leads - '
-                          "namely Zombie look-alike Bill Mosely and Zombie's "
-                          'utterly babe-o-licious wife Sherri Moon Zombie - '
-                          "are less than stellar (although in Ms. Zombie's "
-                          "case it doesn't really matter - major eye candy!). "
-                          'So, a "qualified" recommendation for those who '
-                          "don't normally go for this kind of movie but who "
-                          'think they might enjoy it based on the description '
-                          'above. I thoroughly enjoyed it myself and think Rob '
-                          'Zombie is a genuinely talented filmmaker who will '
-                          'eventually hit one out of the ballpark if he keeps '
-                          "at it, which I'm sure he will. He comes pretty "
-                          'darned close with "The Devil\'s Rejects".'},
+            'name': 'Great movie for the true horror fan',
+            'reviewBody': 'Only certain people can appreciate a movie like '
+                          'this. This was better than Rob\'s "House of 1000 '
+                          'Corpes". It was sleazy, gruesome, and actually '
+                          'funny at times. Otis, Baby, and Captain Spaulding '
+                          'really do make this movie. The crazy thing is that '
+                          'I was actually rooting for them in the end. Maybe '
+                          'this is sick but this is how the movie portrayed '
+                          'them. Come on, Baby likes tooty fruity ice cream. '
+                          "You can't help but to root for her. This movie also "
+                          'had the feeling to it that it was filmed in the '
+                          "70's. It's hard to explain but it had that Texas "
+                          'Chainsaw, Friday the 13th, The Hills Have Eyes feel '
+                          'to it. All around a great flick for the horror fan '
+                          'who can appreciate it.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '9',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer',
              'embedUrl': '/video/imdb/vi2079392025',

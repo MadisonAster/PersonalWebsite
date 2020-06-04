@@ -43,29 +43,42 @@
              'humor,sexual humor',
  'name': 'Pretend Time',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'thrillerbooking'},
-            'dateCreated': '2011-06-11',
+            'author': {'@type': 'Person', 'name': 'tomasetti'},
+            'dateCreated': '2010-12-21',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1721648/'},
-            'name': "Either you get it or you don't",
-            'reviewBody': "I've come to find that all GOOD shows don't get "
-                          'their due when they are aired and are then found to '
-                          'be groundbreaking years afterwords. Point in case, '
-                          "Family Guy. I'm sad to say this will be one of "
-                          "those shows that is AMAZING but will not get it's "
-                          "due until it's on netflix or something. I loved "
-                          'every episode and tuned in every week to see it. '
-                          "Keep on keepin' on Nick and this show is HILARIOUS! "
-                          'DONUTS MAKE US GO NUTS! and so many other instantly '
-                          "classic quotes that i fear won't be popular until "
-                          'way after the show is aired :( i love this show and '
-                          "wish and hope it doesn't get canceled or hasn't "
-                          'already been canceled. that would be yet another '
-                          "comedy central show they can before it gets it's "
-                          'chance. *sigh*',
+            'name': 'Pretty bad',
+            'reviewBody': 'I am one of those people that put on Comedy Central '
+                          'first every time I turn on my TV. I enjoy pretty '
+                          "much everything that's aired, with a few "
+                          'exceptions. This is one of them.\n'
+                          '\n'
+                          'The skits seem to be rough drafts for ideas that '
+                          'could be funny if properly written acted or '
+                          "directed, and that's being nice about it. Other "
+                          'skits seem to be rough drafts for ideas that could '
+                          'never be funny regardless. \n'
+                          '\n'
+                          'I do not consider myself above toilet humor, but '
+                          'this show seems to contain some sort of childish '
+                          'humor in every laugh.\n'
+                          '\n'
+                          'Skit shows are generally failures, Dave Chapelle '
+                          'had a really nice format with some sort of a '
+                          'standup performance, introducing us to the skits '
+                          'and giving us a backstory behind them sometimes '
+                          'either before or after. And the skits had a laugh '
+                          'track as a result, in the style of Saturday night '
+                          'live.\n'
+                          '\n'
+                          'The combination of no laugh track to tell us when '
+                          "to laugh, combined with the fact that it's really "
+                          'not that funny add up to an awkward viewing '
+                          'experience. As with anything else, it gets more '
+                          'awkward with more people watching.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '3',
                              'worstRating': '1'}},
  'url': '/title/tt1721648/'}

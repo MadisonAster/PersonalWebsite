@@ -44,62 +44,32 @@
  'keywords': 'satire,libertarianism,propaganda,2000s,2010s',
  'name': 'Penn & Teller: Bullshit!',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Voivod-2'},
-            'dateCreated': '2005-10-17',
+            'author': {'@type': 'Person', 'name': 'MilB12'},
+            'dateCreated': '2004-01-16',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0346369/'},
-            'name': 'Entertainment, not Science',
-            'reviewBody': "Speaking of bullshit, that's kind of what this show "
-                          "is. Not that it's bad-- it's good entertainment. "
-                          'But less critical viewers will need to be reminded '
-                          "that it's entertainment, not thorough scientific "
-                          'research.\n'
-                          '\n'
-                          'While Penn and Teller do sometimes offer scientific '
-                          'research to bolster their arguments, the tend to '
-                          'present it in a manner that contradicts the purpose '
-                          'of serious investigation. I take issue with the way '
-                          'they enter their investigations with the assumption '
-                          'that something is "bullshit" and how they '
-                          'subsequently mold every piece of information that '
-                          'becomes available to them to reinforce their '
-                          'pre-determined conclusion. A real investigation '
-                          'would not involve them going into their research '
-                          'with the determination to prove it a fraud; it '
-                          'would involve a suspicion which they either prove '
-                          'or disprove after careful examination of the '
-                          'evidence.\n'
-                          '\n'
-                          'I feel that the show manipulates your judgments by '
-                          'doctoring evidence, cutting and pasting phrases '
-                          'out-of-context, repeatedly showing loaded footage, '
-                          'making dismissive commentary without backing, '
-                          "relying on 'straw men' to win arguments, calling "
-                          'people "assholes" for having differing opinions, '
-                          'creating irrelevant "experiments" whose outcomes, '
-                          'at first glance seem to corroborate their point, '
-                          'but upon re-assessment, are not logically congruous '
-                          'with the evaluations you will make based on them '
-                          '(in other words, the experiments are misleading).\n'
-                          '\n'
-                          'P&T essentially bully the viewer onto their side by '
-                          'creating an atmosphere in which you will feel dumb '
-                          'if you disagree; their ridiculously biased '
-                          "presentation ensures it. I'm not saying that most "
-                          "of the stuff they take on isn't bullshit, but their "
-                          'methodology is more akin to "Inside Edition" than, '
-                          'say "BBC News"; it\'s like a sloppy email forward, '
-                          'filled with ad-hominem attacks and hot-headed '
-                          'rhetoric, not a well-researched feature article. If '
-                          'it seems funny, well-intentioned, and '
-                          "consumer-advocatory, it is; but it's also "
-                          'manipulative and intellectually dishonest, at least '
-                          'for something that you given to understand is an '
-                          'unbiased documentary. That, in and of itself, '
-                          'should be a good reason to watch with caution if '
-                          "you're trying to get anything out of it besides "
-                          'entertainment.'},
+            'name': 'Hilarious and Informative',
+            'reviewBody': 'When I say this is hilarious and informative, I '
+                          'mean it informs you of how stupid some people are.  '
+                          'Penn and Teller do such a good job with this show, '
+                          'and do an even better job of de-bunking '
+                          'con-artists.  Everything from Feng Shue to Magnet '
+                          'Medicine and these people who communicate with the '
+                          'dead (such as John Edward) are de-bunked.  I just '
+                          'watched an episode where Penn and Teller got people '
+                          'to try out a "Mucas Mask".  This was a supposed be '
+                          'a beauty treatment/facial massage in which people '
+                          'actually let somebody put snails all over their '
+                          'faces.  You then see these people who have faces '
+                          'covered with nasty slime giving testimonials on how '
+                          'much better their wrinkles looked and how relaxed '
+                          'their face felt.  This was something P&T set up '
+                          'just to show that these testimonials for other cons '
+                          'are not reliable. People can be so stupid, and Penn '
+                          'and Teller do a hilarious job of pointing out how '
+                          'gullible some people are.  I reccomend this show to '
+                          'anybody.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Penn & Teller: Bullshit! Season 2',
              'embedUrl': '/video/imdb/vi1791409433',

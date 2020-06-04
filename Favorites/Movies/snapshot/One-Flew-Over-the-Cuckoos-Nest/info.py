@@ -21,7 +21,7 @@
             'url': '/name/nm0077720/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 881059,
+                     'ratingCount': 881141,
                      'ratingValue': '8.7',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -53,55 +53,24 @@
  'keywords': 'mental institution,mental illness,nurse,escape,tragicomedy',
  'name': "One Flew Over the Cuckoo's Nest",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Boba_Fett1138'},
-            'dateCreated': '2005-08-06',
+            'author': {'@type': 'Person', 'name': 'perica-43151'},
+            'dateCreated': '2018-07-20',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0073486/'},
-            'name': 'A perfect mixture of entertainment and drama.',
-            'reviewBody': 'Czech director Milos Forman seems to be obsessed '
-                          "with rebellious characters that don't like to go "
-                          'with the flow. Just think about Larry Flynt in "The '
-                          'People vs. Larry Flynt" or Andy Kaufman in "Man on '
-                          'the Moon", in the two most recent movies of Forman. '
-                          'The central character in "One Flew Over the '
-                          'Cuckoo\'s Nest" played by Jack Nicholson is also '
-                          'one of those characters, that wants to break the '
-                          'routine and even starts a revolt against the staff '
-                          'and nurse Ratchett in particular, in a mental '
-                          'institution.\n'
-                          '\n'
-                          'The movie is perhaps more comedy and entertainment '
-                          "than heavy drama. Still that doesn't mean that the "
-                          "movie isn't filled with some powerful emotional "
-                          'sequences. The tension between the patients and the '
-                          'staff gets more and more notable and grows '
-                          'throughout the movie, which eventually leads to a '
-                          "'wonderful' ending which I'm not going to spoil.\n"
-                          '\n'
-                          'Yes, Jack Nicholson is truly splendid in his role '
-                          'and it seemed like he was improvising all his lines '
-                          'and actions during the entire movie. It was a '
-                          'really Oscar worthy performances, which he also '
-                          'received. Another Oscar winner for her performance '
-                          'was Louise Fletcher, which in my opinion is a bit '
-                          'too much credit. She plays her role well but '
-                          'nothing more than that. She did not deeply '
-                          'impressed me or anything. This movie also marks the '
-                          'debut for some today well known actors such as '
-                          'Danny DeVito (he looked so young and different!), '
-                          'Christopher Lloyd and Brad Dourif, who also '
-                          'received an Oscar nomination.\n'
-                          '\n'
-                          'Really one of those movies that you must have seen '
-                          'at least once in your life.\n'
-                          '\n'
-                          '9/10\n'
-                          '\n'
-                          'http://bobafett1138.blogspot.com/',
+            'name': 'A masterpiece',
+            'reviewBody': 'The seventies produced some of the most interesting '
+                          'and worthy Hollywood movies. Before the era of '
+                          'blockbusters, and ever increasing dumbing down of '
+                          'the cinema art by the Hollywood power-brokers and '
+                          'greedy moneymakers, there was this short but truly '
+                          'amazing window of time that produced many of the '
+                          'timeless gems. A great portrayal of oppression, '
+                          'this gem should not be overlooked by anyone. Truly '
+                          'recommended.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A criminal pleads insanity after getting into '

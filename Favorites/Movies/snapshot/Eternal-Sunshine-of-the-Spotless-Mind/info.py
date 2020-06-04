@@ -19,7 +19,7 @@
             'url': '/name/nm0004423/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 878034,
+                     'ratingCount': 878121,
                      'ratingValue': '8.3',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -52,149 +52,96 @@
  'keywords': "memory,loneliness,retrograde narrative,flashback,valentine's day",
  'name': 'Eternal Sunshine of the Spotless Mind',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'MovieAddict2016'},
-            'dateCreated': '2004-06-02',
+            'author': {'@type': 'Person', 'name': 'q-taran'},
+            'dateCreated': '2005-02-12',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0338013/'},
-            'name': '"Eternal Sunshine of the Spotless Mind" is a bizarre but '
-                    'wonderful movie, a very strange and remarkably tender '
-                    'experience.',
+            'name': "How happy IS the blameless vestal's lot?",
             'reviewBody': '"How happy is the blameless vestal\'s lot! The '
                           'world forgetting, by the world forgot. Eternal '
-                          "sunshine of the spotless mind! Each pray'r "
-                          'accepted, and each wish resign\'d." - Alexander '
-                          'Pope\n'
+                          'sunshine of the spotless mind! Each prayer '
+                          'accepted, and each wish resigned." - Alexander Pope '
+                          'Is ignorance truly bliss? And if you could erase a '
+                          'person, what would the consequences be? "Eternal '
+                          'Sunshine" answers these questions, in a way that '
+                          'most Hollywood movies could not. Michel Gondry and '
+                          'Charlie Kaufman have created one of the most '
+                          'original, touching, funny, and unique films of '
+                          'recent years. It explores the mind and the heart, '
+                          'deeper than other movies have dared to do.\n'
                           '\n'
-                          'Michel Gondry\'s "Eternal Sunshine of the Spotless '
-                          'Mind" is a bizarre but wonderful movie, a very '
-                          'strange and remarkably tender experience, which I '
-                          'suppose is only to be expected from screenwriter '
-                          'Charlie Kaufman, the man behind "Being John '
-                          'Malkovich."\n'
+                          "Joel Barish (Jim Carrey) is on the shy side. He's "
+                          'rather quiet and ordinary. Joel is stuck in life; '
+                          'he has no real relationships, a job he hates, and '
+                          "doesn't know where he's going or what he wants, but "
+                          'is too nervous to break out of his niche. '
+                          'Clementine Kruczynski (Kate Winslet) seems like his '
+                          "complete opposite. She's spontaneous, wild, and "
+                          'eccentric. Her hair changes from red to blue to '
+                          'orange to green, depending on her mood. Clementine '
+                          "doesn't care what people think, and is free and "
+                          'impulsive, doing and saying what she wants.\n'
                           '\n'
-                          'The film was produced by Focus Features ("Lost in '
-                          'Translation," "21 Grams"), a company which strives '
-                          'to offer original, quality films to the true cinema '
-                          'lovers. If the company keeps producing films this '
-                          'good, they may become hugely successful in the '
-                          'future, if not already.\n'
+                          'Clementine and Joel have a wonderful relationship, '
+                          'then break up because of petty arguments and '
+                          "irritations about each other's personalities. Joel "
+                          'tries to talk to her, then discovers she has had '
+                          'her memories of him wiped, by a company named '
+                          'Lacuna, that specializes in removing unwanted '
+                          'memories. Angry and hurt, he decides to undergo the '
+                          "procedure himself, confident he'll never miss "
+                          'Clementine. As the various memories are erased, '
+                          'Joel sees their best and their worst moments '
+                          'together. They argued and fought, but they were '
+                          'also happy, and for a time, they really loved each '
+                          "other. He realizes he'd rather have the pain of "
+                          'their relationship than have no memory of her at '
+                          'all. He begins to regret his decision, and '
+                          'desperately tries to stop the procedure. The film '
+                          "focuses on Joel's attempts to hide Clementine in "
+                          'his mind, and his struggle to fight the process.\n'
                           '\n'
-                          'The previews portrayed the movie as a bouncy, '
-                          'cheery comedy in the vein of "Adaptation," the last '
-                          'film written for the big screen by Charlie Kaufman, '
-                          'when it is really a tender movie about love and '
-                          "romance. This is Jim Carrey's best performance to "
-                          'date, and may open the eyes of his prejudiced '
-                          'haters who have only imagined him as Ace Ventura '
-                          'and a certain cable guy for his entire career. No '
-                          'snippy quotes, outrageous humor or bizarre antics '
-                          'in "Sunshine" -- Carrey plays a true, realistic, '
-                          'three-dimensional character named Joel Barrish, who '
-                          'plans to have memories of his girlfriend, '
-                          'Clementine (Kate Winslet), erased by a new company '
-                          'called Lacuna, after he discovers that she herself '
-                          'has had the procedure performed only a week before. '
-                          "Joel meets with the company's founder, Dr. Howard "
-                          'Mierzwiak (Tom Wilkinson), and is informed that the '
-                          'procedure -- although "technically" brain damage -- '
-                          'is on par with a heavy night of drinking. "Nothing '
-                          'you\'ll miss much," he is told, as he plunges into '
-                          'a bizarre world of long forgotten memories.\n'
+                          "Jim Carrey's performance is wonderful, a complete "
+                          'change from his usual antics. He is sympathetic and '
+                          'believable; the rubber face that is usually '
+                          'contorted in a silly grin is subtly controlled, '
+                          'every line and expression honest and real. He is '
+                          'becoming a gifted actor and hopefully the public '
+                          'will forget the Ace Ventura side of him. Kate '
+                          'Winslet, who is one of our greatest actresses, '
+                          'gives one of her best performances. She gives a '
+                          'complexity to her role, which could have easily '
+                          "been clichéd and simple. She shows Clementine's "
+                          'want for attention, but also her incredible '
+                          "loneliness. Both of these characters aren't "
+                          'perfect; there are times when you understand why '
+                          'they dumped each other, and fought. But you also '
+                          'see why one loved the other. The supporting cast of '
+                          'Wilkinson, Wood, Dunst, and Ruffalo hold their own, '
+                          'as the eccentric team who run Lacuna, and have '
+                          'their own opinions about the process.\n'
                           '\n'
-                          'The entire process of the operation is quite '
-                          'fascinating, really, if a bit reminiscent of an '
-                          "idea founded by none other than one of Kaufman's "
-                          'favorite writers, Philip K. Dick, who wrote the '
-                          'source short story for the Ah-nuld movie "Total '
-                          'Recall." All items relating to the person you want '
-                          'erased from your brain are assembled together, and '
-                          'the technicians at Lacuna (Mark Ruffalo and Elijah '
-                          'Wood) then "map" an outline of your memories, which '
-                          'are supposedly stemmed together. I have my doubts '
-                          'about the seriousness and remote possibility of '
-                          'such a procedure being performed, and the '
-                          'explanation is quite simply utter bull, but we '
-                          "don't care because the entire erasing of Joel's "
-                          'memories serves as a backdrop for a deeper meaning: '
-                          'If you could forget about past romances, would you '
-                          'really want to? And if so, would you be willing to '
-                          'sacrifice all the good ones, along with the bad '
-                          'ones?\n'
+                          'People have called this an "anti-romance" movie, '
+                          "but I don't feel that. I think it is the ultimate "
+                          'romance movie, for it shows the complexity and pain '
+                          "of love. How much it hurts when it's gone, and how "
+                          'wonderful it feels while it\'s happening. "Eternal '
+                          'Sunshine" explores the mind with an intensity that '
+                          'is both painful and eloquent at the same time, like '
+                          'love itself.\n'
                           '\n'
-                          'The conclusion that "Sunshine" arrives at is, to be '
-                          'totally truthful, as honest as can be. During the '
-                          "procedure, Joel's subconscious realizes that it "
-                          "doesn't want to let go of its memories of "
-                          'Clementine, and so begins a strange labyrinth of '
-                          'fragmented memories, constantly changing '
-                          'surroundings, and mental materializations of '
-                          'Clementine. The movie is like a very bizarre dream, '
-                          "when you're trying to interact with people, but "
-                          "they're not responding, and you shout and try to "
-                          "get their attention but they don't seem to notice. "
-                          "Joel's entire odyssey of the interior of his mind "
-                          'makes "Being John Malkovich" look normal -- but as '
-                          'I didn\'t like "Malkovich" very much, and thought '
-                          'its strangeness was unjustified, it fits perfectly '
-                          'in "Sunshine" -- there are some great special '
-                          'effects, such as when Joel is wandering through his '
-                          'own memories, drifting in and out of sleep, hearing '
-                          'the voices of the technicians erasing his memories '
-                          'and watching as objects and areas around him vanish '
-                          "and deconstruct. It's so bizarre but yet also so "
-                          'beautiful. Gondry was a former music video director '
-                          '(his complete works are available on DVD) and he is '
-                          'the perfect candidate for this project, having '
-                          'worked with Kaufman before on the 2001 flop "Human '
-                          'Nature." It seems that he has finally found a '
-                          'unique directing style that ties in perfectly with '
-                          'the underlying themes of the movie.\n'
-                          '\n'
-                          'There is a very deep message in "Sunshine," and it '
-                          "is arguably Kaufman's deepest film to date. Love "
-                          'and romance and memories of both have rarely been '
-                          'examined as thought-provokingly and tenderly as '
-                          'they are in this wonderful motion picture. The '
-                          'movie has a very profound message that all viewers '
-                          'should pay attention to. There are many small '
-                          'intricacies in the film, surely picked up on more '
-                          'thoroughly on repeat viewings, and the entire '
-                          'construction of the movie is completely enthralling '
-                          'and intelligent. I saw two people leave the rather '
-                          'empty theater during the screening I attended. It '
-                          'tanked in the US and I predict it will do the same '
-                          'in the UK, which is a shame, because this is the '
-                          'smartest film of 2004 and has the most to say about '
-                          'our lives than any other film this year. While '
-                          'everyone flocks to see the new Denzel Washington '
-                          'action movie, "Eternal Sunshine of the Spotless '
-                          'Mind" is forgotten, which is quite depressing -- '
-                          'people would rather spend their money on '
-                          'forgettable entertainment than view something '
-                          'unique that has something important at its core.\n'
-                          '\n'
-                          'I think what the movie finally asks us after its '
-                          'long, emotional journey, is would we want our own '
-                          'memories erased? And if so, what would the '
-                          'consequences be? A lesser film might examine this '
-                          'idea poorly -- "Sunshine" is not. It is perfect in '
-                          'almost every conceivable way, and anyone who '
-                          'complains that it is not original must be joking -- '
-                          'in my entire lifetime, this is one of the most '
-                          'unique film experiences I have ever had.\n'
-                          '\n'
-                          '"Eternal Sunshine of the Spotless Mind" is a '
-                          'beautiful movie, eloquently voiced by Gondry, '
-                          'firmly constructed and rooted in an eerie '
-                          'nightmarish fantasy land where anything is '
-                          "possible. It's beautiful, it's bizarre, it's "
-                          "exceptional, it's funny, it's lovely, it's "
-                          "touching, it's witty, and it's one of the best "
-                          'movies I have ever seen.',
+                          'This film will make you reconsider your opinions '
+                          'about many things: life, love and memories. Gondry '
+                          'has brilliantly made it confusing and fast, yet '
+                          'clear and profound at the same time. The film is '
+                          'delicate and soft, but it hits you right in your '
+                          'heart. This is definitely a movie everyone should '
+                          'see. Because if they did, love would never be the '
+                          'same again.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer',

@@ -19,7 +19,7 @@
             'url': '/name/nm0150796/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 5329,
+                     'ratingCount': 5330,
                      'ratingValue': '6.3',
                      'worstRating': '1.0'},
  'contentRating': 'Not Rated',
@@ -42,51 +42,68 @@
  'keywords': 'possession,haunted,shaman,supernatural fight,psychotronic film',
  'name': 'Geung see',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'sulengchai'},
-            'dateCreated': '2013-10-28',
+            'author': {'@type': 'Person', 'name': 'gregsrants'},
+            'dateCreated': '2013-09-14',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2771800/'},
-            'name': 'You will love this movie if you know Chinese believe and '
-                    'culture better.',
-            'reviewBody': 'First of all this is a great great movie. Below are '
-                          'the point: \n'
+            'name': 'Stylish but hollow and ultimately unsatisfying',
+            'reviewBody': 'Being picked for the Toronto International Film '
+                          "Festival's Midnight Madness Series with your first "
+                          'ever feature film is an achievement unto itself. '
+                          'But that is exactly what Hong Kong pop '
+                          'star-turned-director, Juno Mak finds himself with '
+                          'his first film, Rigor Mortis.\n'
                           '\n'
-                          "1) The story is based on Chinese believe and it's "
-                          'ghost mythology. So if you are not a Chinese you '
-                          'will not be able to understand all the funny funny '
-                          'things in it. My advise go and get a Chinese friend '
-                          'alone and let them tell you more while you were '
-                          'watching.\n'
+                          'Described as a tribute to the horror-comedy series '
+                          'Mr. Vampire, Rigor Mortis takes its audience to an '
+                          'apartment complex where aging actor Chin Sui-Ho '
+                          'finds himself moping after the loss of his wife and '
+                          'son. Ghosts and spirits are already known to loiter '
+                          'the halls of the building, but when a grieving '
+                          'resident attempts a ritual to bring her husband '
+                          'back from the dead the residents are forced to '
+                          'confront the evil of the supernatural including a '
+                          'vampire like creature that terrorizes the '
+                          'residents.\n'
                           '\n'
-                          '2) the story despite is an old vampire story, but '
-                          'pack with a lot of new story and believe in it. It '
-                          "doesn't make you feel like watching and old common "
-                          'vampire story.\n'
+                          'Filled with some remarkable effects complimenting '
+                          'the very dark and dreary setting of the depraved '
+                          'building, Rigor Mortis is pea soup thick with '
+                          'atmosphere. Asian cinema has always been the front '
+                          'runners in bringing ghost stories to the masses '
+                          '(Dark Water, Ju-on, Ringu), and director Juno Mak '
+                          'has surrounded himself with a top effects team to '
+                          'bring his creatures to life.\n'
                           '\n'
-                          '3) you see a lot of ghost in it, which is perfect. '
-                          'In korean ghost story, you sometime only see the '
-                          'real ghost appear in the last minute.\n'
+                          'Unfortunately, the visuals are not enough to save '
+                          'the film from the mediocrity pool. The script is '
+                          'slow in getting to the goods and its complexity '
+                          "reminded us of Timur Bekmambetov's Night Watch – a "
+                          'glorious looking film that got lost among its '
+                          'effects. The indulgence is particularly evident in '
+                          "the film's finale which includes a wonderful fight "
+                          'between our protagonist, the vampire like creature '
+                          'and two ghostly twins.\n'
                           '\n'
-                          '4) The way they use the slow motion in the movie is '
-                          'also great.\n'
+                          'Fans of the Mr. Vampire series may end up '
+                          'scratching their heads wondering where the comedic '
+                          'punch from their series has gone as Rigor Mortis '
+                          'has hardly two laughs to share from credits to '
+                          "credits. It's as serious as a heart-attack even if "
+                          'the EKG indicates it only to be a mild one. '
+                          "Suicides, rape and even the placement of harm's way "
+                          'of a small boy are some of the serious overtones '
+                          'that engulf the moods of the film. Usually such '
+                          'melancholy is exactly what the horror doctor '
+                          'orders, but Rigor Mortis plays more like a '
+                          'psychedelic bad dream than a viable horror film '
+                          'worthy of our recommendation.\n'
                           '\n'
-                          '5) the story line was great too. and this is what i '
-                          'need to comment most. A lot of ppl find it not '
-                          'understandable like the person on top of this '
-                          'review. This is because you need to understand '
-                          'Chinese culture to understand it. Everyone in the '
-                          'story play an important role, and every scene is '
-                          'co-related, so if u miss one scene, you will not '
-                          'understand the rest of the movie, which make this '
-                          'movie even better.\n'
-                          '\n'
-                          "6)This movie really able to scare you off. Don't "
-                          'believe me..go and watch in the dark alone...dare '
-                          'you.',
+                          'www.killerreviews.com',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '5',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for Rigor Mortis',

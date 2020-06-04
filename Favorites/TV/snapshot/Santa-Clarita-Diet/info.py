@@ -19,7 +19,7 @@
             'url': '/name/nm1711114/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 53365,
+                     'ratingCount': 53370,
                      'ratingValue': '7.8',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -42,31 +42,15 @@
              'relationships',
  'name': 'Santa Clarita Diet',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Nightmarelogic'},
-            'dateCreated': '2017-02-03',
+            'author': {'@type': 'Person', 'name': 'ashleyfreis'},
+            'dateCreated': '2019-05-12',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5580540/'},
-            'name': 'Think Desperate Housewives meets Weeds Meets Dexter',
-            'reviewBody': "I don't usually like comedies but this one was so "
-                          'deliciously dark that I found it more then a little '
-                          'amusing. Barrymore and Olyphant have great '
-                          'chemistry and are believable as a long married wife '
-                          'and husband. The actress who plays their teenage '
-                          "daughter is great as well because she isn't on "
-                          'either end of the annoying teenager on TV scale. '
-                          'Instead she reacts convincingly like you would '
-                          'believe a teenager would in (an admittingly) an '
-                          'unusual situation like she finds herself in. \n'
-                          '\n'
-                          "Of course this show won't be to everyones....uhhh "
-                          'appetite. It plays murder and cannibalism for '
-                          'laughs and those with a weak stomach and ears that '
-                          'bleed at cussing will get turned away pretty '
-                          'quickly. However this is a genuinely sweet and '
-                          'funny comedy about what it means to be a family and '
-                          'the lengths people will go to protect the lives and '
-                          'loves they have.',
+            'name': "Don't cancel!!",
+            'reviewBody': 'This is an amazingly hilarious show!! Very upset '
+                          "it's being cancelled. Makes me want to cancel "
+                          'Netflix subscription',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

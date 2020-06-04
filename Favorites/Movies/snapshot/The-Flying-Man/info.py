@@ -42,34 +42,17 @@
  'keywords': 'vigilante,night,police helicopter,news report,handgun',
  'name': 'The Flying Man',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'rzajac'},
-            'dateCreated': '2013-08-04',
+            'author': {'@type': 'Person', 'name': 'bvill-36857'},
+            'dateCreated': '2018-12-22',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3018700/'},
-            'name': 'Love it! My best wishes for an extended treatment.',
-            'reviewBody': 'I hope it gets green-lit for development, then I '
-                          'hope they follow the vision through to a truly '
-                          'thought-provoking product with a mind-jarring '
-                          'denouement.\n'
-                          '\n'
-                          "I've seen other feints in this direction: Dorman "
-                          "Grammit's superman fantasies in Frank Stack's "
-                          '"Dr. Feelgood" comics; and The Battlin\' American '
-                          'in a Lloyd Llewelyn comic by Dan Clowes. And, of '
-                          'course, Watchmen.\n'
-                          '\n'
-                          'For every 1000 pop culture theorists who can '
-                          'deconstruct the superhero genre at the drop of a '
-                          'hat, there may only be one who can write a scenario '
-                          'and screenplay that teases something truly exciting '
-                          'and accessible therefrom.\n'
-                          '\n'
-                          'And it does need doing; the symbol is rife with '
-                          'implications, up to and including coercive fiat as '
-                          'the trump card of superpower nations.',
+            'name': 'The trailer had me searching high an low',
+            'reviewBody': "I'm not sure what happens to this it says in "
+                          'development if so it should get picked up it could '
+                          'even become a tv series',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'url': '/title/tt3018700/'}

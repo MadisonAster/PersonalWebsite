@@ -21,7 +21,7 @@
             'url': '/name/nm0001448/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 404742,
+                     'ratingCount': 404764,
                      'ratingValue': '8.0',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -49,51 +49,51 @@
              'up',
  'name': 'Big Fish',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'write_mich'},
-            'dateCreated': '2003-12-24',
+            'author': {'@type': 'Person', 'name': 'Low Man'},
+            'dateCreated': '2004-08-08',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0319061/'},
-            'name': 'How to create your own legacy...',
-            'reviewBody': 'I often find that in order to be captivating, a '
-                          'film these days needs to be stressfully suspenseful '
-                          'or have a complicated story line. This film had '
-                          "neither, and yet I found myself hoping it wouldn't "
-                          'end while at the same time, anxiously awaiting its '
-                          'conclusion. I have to admit, I was distrustful of '
-                          'Burton as many of his more recent films have had '
-                          'less-than-satisfying conclusions. Nonetheless, I '
-                          'went to see Big Fish (3 days before its release in '
-                          'Canada) with no expectations and was astounded. '
-                          'This movie is an absolute treat for our hearts, '
-                          'ears and especially our eyes with each '
-                          'cartoon/fantasy-like scene painted with Tim '
-                          "Burton's reliable brilliance and magical touch. "
-                          'Ewan McGregor is pure sunshine and Albert Finney '
-                          'gives one of the greatest performances of the year- '
-                          'he *is* Big Fish. But I suppose that when you strip '
-                          'away the beauty, the doll-house sets and all the '
-                          'abracadabra of cinematography and modern day '
-                          'technology, all you have is a very simple story, '
-                          'and therein lies the heart of this film; that one '
-                          'can create their own legacy, "the story of my '
-                          'life." Not through either extreme of extraordinary '
-                          'adventure or unbelievable lies, but through the art '
-                          'of storytelling- and THAT is what this film is '
-                          'about. It is through our *stories* that we are '
-                          'immortal.\n'
+            'name': 'Lying as an Art Form',
+            'reviewBody': 'What do you say about this movie?\n'
                           '\n'
-                          'Go see this movie, bring the kids, bring your date, '
-                          'bring your parents! It is for everyone...everyone '
-                          'who appreciates a visually and emotionally '
-                          "beautiful irregular story about a regular person's "
-                          'life.\n'
+                          'I am at a total loss to describe it.  The concept '
+                          'itself, a son tries to come to terms with his dying '
+                          'father that he knows nothing about but an enormous '
+                          "catalog of unbelievable stories, doesn't sound very "
+                          'promising.  It sounds like a tired old formula, and '
+                          'I expected such when the rental started playing\n'
                           '\n'
-                          '***** 5 stars!!',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
+                          "It's not.\n"
+                          '\n'
+                          'Werewolves, giants, witches, siamese twins, bank '
+                          'robbers, hidden cities, sirens, etc. are all '
+                          'present in the fantasy, but they seem unremarkably '
+                          'to be part of the life of an otherwise ordinary '
+                          'traveling salesman.  Whether they really are or not '
+                          "is never made completely clear, but that's the "
+                          'rub.\n'
+                          '\n'
+                          'I once read a review by Harlan Ellison in which the '
+                          'main point was how a well told lie illuminates the '
+                          'truth in far better clarity than a simple '
+                          'recitation of the facts ever can.  At one point in '
+                          'the film, the questing son remarks to his '
+                          "bed-ridden father that he's heard all of his "
+                          'stories thousands of times, and he has know idea '
+                          "who his father really is.  The father's reply is, "
+                          "`I've never been anybody but me from the day I was "
+                          "born. If you don't know who I am, that's your "
+                          "failing, not mine.'  Later investigations make the "
+                          "point clearer.  I'll bet Ellison loved this movie. "
+                          'It is an extraordinary lie.\n'
+                          '\n'
+                          "Did I like the film?  You bet.  It's Tim Burton's "
+                          'best work without a doubt. Is it for everybody?  '
+                          'Probably not.  Many will find it confusing and '
+                          'pointless, but good fantasy is like that.  All I '
+                          "can say is, relax and let it happen.  You won't "
+                          'regret it.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'A son tries to learn more about his dying father '
                             'by reliving stories and myths he told about his '

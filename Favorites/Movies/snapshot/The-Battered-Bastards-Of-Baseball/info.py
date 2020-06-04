@@ -36,30 +36,32 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjE0NDQwNTU2NF5BMl5BanBnXkFtZTgwNDg1MDUyMjE@._V1_.jpg',
  'name': 'The Battered Bastards of Baseball',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'orca1045'},
-            'dateCreated': '2014-07-11',
+            'author': {'@type': 'Person', 'name': 'bbrown8870'},
+            'dateCreated': '2014-09-16',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3445270/'},
-            'name': 'Best thing to hit Portland between triple A tens here.',
-            'reviewBody': 'Just want to say I was at the first tryouts for the '
-                          'team and it was a savory sight there were guys out '
-                          'there that when they had batting practice each one '
-                          'got so many swings I think and there were guy that '
-                          "couldn't even hit a batting practice picture. I "
-                          'remember a left-handed catcher from Vancouver WA, '
-                          "an older guy that was also a catcher I don't think "
-                          "he made the team rather he wasn't half bad but I "
-                          'think his age was against him. The game frank the '
-                          'Flake Peters played all nine positions I think he '
-                          'pitched the 8 inning and threw 9 pitches and '
-                          'retired the side all nine pitches were knuckle '
-                          'balls. One day in tryouts there was a kid from '
-                          'Spokane WA and he got hurt his shoulder and they '
-                          'ask if I would take him to the hospital I took him '
-                          'and when I went back the next day he left during '
-                          "the night They had no insurance and he didn't have "
-                          'any. They were a fun bunch to watch. At the time '
-                          'Frank Peters was the first to steal first base. He '
-                          'just picked it up and left the park.'},
+            'name': 'Perfect documentary of the 1970s.  A delightful, '
+                    'educational watch.',
+            'reviewBody': 'The deliberate pace of this movie might not be to '
+                          'the taste of all viewers, but I found it riveting. '
+                          'It is a fascinating chapter of the history of '
+                          'Portland, Oregon (in fact the history of the entire '
+                          'Northwest) that has been brought back to life in an '
+                          'unforgettable way.\n'
+                          '\n'
+                          'The mix of current interviews of actual '
+                          'participants, contemporary interviews, news reels '
+                          'clips and professional editing cement the '
+                          'documentation. Truly Oscar worthy.\n'
+                          '\n'
+                          "You don't have to even LIKE baseball to sink "
+                          'yourself into this story. It will carry you. '
+                          'However, if you like the sport, if you have ever '
+                          'watched "Bonanza", ever heard of Lefty Gomez or '
+                          "know who Snake Plisskin is, you're in for a treat.",
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '9',
+                             'worstRating': '1'}},
  'url': '/title/tt3445270/'}

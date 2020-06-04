@@ -19,7 +19,7 @@
             'url': '/name/nm10412421/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 33651,
+                     'ratingCount': 33665,
                      'ratingValue': '7.2',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -38,26 +38,29 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjQ2NzE1MjYxMV5BMl5BanBnXkFtZTgwMjM3MDQxNzM@._V1_.jpg',
  'name': 'Fyre',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'beatmaster101'},
-            'dateCreated': '2019-01-25',
+            'author': {'@type': 'Person', 'name': 'clintstevens'},
+            'dateCreated': '2019-01-19',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt9412098/'},
-            'name': 'Fyre Festival, a social media scum!',
-            'reviewBody': 'This is exactly the right documentary about the '
-                          'social media age and the so called influencers. How '
-                          'a specific guy took advantage of the whole '
-                          'absurdity in order to make a profit and turned out '
-                          'to be a huge crook, taking full exploitation of the '
-                          'morons who are so into the lifestyle of the 21st '
-                          'century - trying to be social media models (or look '
-                          'like them), playing their own little reality show '
-                          "by living the high life. And at the end you're "
-                          'reminded that there were some hard working people, '
-                          'festival professionals and local Bahamians, that '
-                          'worked really hard to pull this off and ended up '
-                          'losing a lot of money plus part of their own '
-                          'dignity. Strong piece of film.',
+            'name': 'When You Play With Fyre, You Get Burned',
+            'reviewBody': "I had not heard of this festival or even it's "
+                          'outcome, but that could be because I am far from '
+                          'being in the class of people that were duped. I '
+                          'feel sorry for the honest minority who were robbed '
+                          'of their hard-earned wages and their livelihood.\n'
+                          '\n'
+                          "That is the extent of my sorrow. It's hard to feel "
+                          'sorry for the upper class who think nothing of '
+                          'paying thousands of dollars for a weekend of '
+                          'debauchery. For a short time, they got to see first '
+                          "hand how the 'little people' live; no shelter, no "
+                          'food, no sanitation.\n'
+                          '\n'
+                          'Hearing a socialite complain that the jet trip to '
+                          "the Bahamas was like 'riding in economy class' sums "
+                          'it up. And Billy McFarland will no doubt be back to '
+                          'prey on the wealthy again.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '8',

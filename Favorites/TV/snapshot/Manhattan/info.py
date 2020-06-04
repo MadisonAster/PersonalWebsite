@@ -21,7 +21,7 @@
             'url': '/name/nm1126156/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 7509,
+                     'ratingCount': 7510,
                      'ratingValue': '7.8',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -41,45 +41,29 @@
              'mexico',
  'name': 'Manhattan',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'nicolerobles1'},
-            'dateCreated': '2014-07-31',
+            'author': {'@type': 'Person', 'name': 'sdrinella'},
+            'dateCreated': '2015-11-18',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt3231564/'},
-            'name': 'Authentic & richly detailed with great performances, '
-                    'camera work, music & writing.',
-            'reviewBody': 'Love what I see in this first episode of Manhattan. '
-                          'Actors are great, seemingly off the beaten path yet '
-                          'somehow so familiar. Well cast with performances '
-                          'that are believable. I want to feel immersed in '
-                          "this world like I'm just witnessing what's "
-                          'happening, (you know, like with Lost), and they '
-                          "pull it off in Manhattan. It's hard to create a "
-                          'period piece that doesn\'t feel "costumey" or '
-                          'cliché, but this show succeeds in the details. It '
-                          'looks and feels authentic. And what a treat they '
-                          'actually know how to apply a cool soundtrack that '
-                          'captures the time period and the moment, instead of '
-                          'detracting or seeming corny. And they understand '
-                          'when a character or scene should just be silent, '
-                          'leaving room for mystery and questions. So boring '
-                          'when everyone just seems to be delivering their '
-                          'lines..nice and neat cookie cutter style...not so '
-                          'here. Let us feel the confusion, the doubt, the '
-                          'fear, the mess. Also love the way the camera moves '
-                          "through a room like you're walking with it, don't "
-                          "know what it's called but it's awesome when done "
-                          'well. This t.v. show...feels like a movie, in a '
-                          "good way. And I don't need big names either, just "
-                          'give me "real"....but seriously..Olivia '
-                          'Williams...does it get much better? All of the cast '
-                          'for that matter gel perfectly in creating this '
-                          'world and the storyline for me is new and '
-                          "provocative. I can't wait to see it and the "
-                          'characters unfold.',
+            'name': 'Seems Like a Lot of Shark Jumping',
+            'reviewBody': 'I started out as a big fan of this show, partly for '
+                          'the science, whether or not it was accurate '
+                          'relative to history. And I was prepared to put up '
+                          'with the soap opera, "Dallas" qualities. But, I\'ve '
+                          'become increasingly dissatisfied with the prurient '
+                          'and, mostly, implausible story lines. The writers '
+                          'seem to have dedicated themselves to fabricating '
+                          'multiple subplots that they think will dazzle in '
+                          'complexity........flashbacks, dream '
+                          'sequences........not to speak of eavesdropping and '
+                          "other tired devices. (I'm waiting for amnesia.) To "
+                          "me it's turned into a mess, and I've begun to have "
+                          'this visual image 4 or 5 Fonzies lined up on water '
+                          "skis. Sadly, I've decided to tune out.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'First look at Season 2 of Manhattan on WGN '

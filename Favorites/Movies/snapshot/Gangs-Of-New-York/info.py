@@ -21,7 +21,7 @@
             'url': '/name/nm0000980/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 392480,
+                     'ratingCount': 392524,
                      'ratingValue': '7.5',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -54,45 +54,85 @@
  'keywords': 'gangster,new york city,butcher,immigrant,title at the end',
  'name': 'Gangs of New York',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ccthemovieman-1'},
-            'dateCreated': '2005-11-17',
+            'author': {'@type': 'Person', 'name': 'slimjack'},
+            'dateCreated': '2003-01-30',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0217505/'},
-            'name': 'Daniel Day-Lewis: Spectacular Performance',
-            'reviewBody': 'Daniel Day-Lewis elevates this film from just '
-                          '"good" to "very good" or even "excellent." He is '
-                          'absolutely riveting, one of the most interesting '
-                          '"villains" I have ever seen on film. I am sorry '
-                          "Day-Lewis didn't win the Academy Award for his "
-                          'performance. He was just outstanding to watch. His '
-                          'facial expressions alone cracked me up!\n'
+            'name': 'Terrific Entertainment!',
+            'reviewBody': 'Gangs of New York is just perfect entertainment. It '
+                          'is an enthralling, bloody, melodramatic epic that '
+                          'more than justifies its two and one half hour '
+                          'running time. In Gangs director Martin Scorsese '
+                          'spins another tale of the New York underworld but '
+                          'with a twist. Instead of the mid-twentieth century '
+                          'organized crime milieu of Goodfellas, Scorsese '
+                          'ventures back to the 19th century to show us the '
+                          'origin of the modern street gang.\n'
                           '\n'
-                          'Day-Lewis played "Bill \'The Butcher\' Cutting" he '
-                          'is one nasty dude. However, there are no real "good '
-                          'guys" in this story. The supposed hero, played by '
-                          'Leonardo DiCaprio, is a revenge-seeking man with a '
-                          'ton of flaws himself. The rest of the characters '
-                          'are either thieves, gang members, corrupt '
-                          'politicians or corrupt policeman. Ah yes, another '
-                          'family-oriented film from that kindly director '
-                          'Martin Scorcese.\n'
+                          " It's the early 1860s and the notorious Five Points "
+                          "slum is ruled by the savage `Bill the Butcher'. The "
+                          'viciously nationalistic Bill terrorizes all the '
+                          'immigrant masses jammed into his slum but seems to '
+                          'harbor a particular hatred for the Irish '
+                          'population. Into this seething cauldron wanders '
+                          'mysterious young Amsterdam Vallon who soon works '
+                          'his way into the trust and affection of Bloody '
+                          'Bill. Amsterdam, however, has a past with the '
+                          'unsuspecting Butcher and sports an agenda not '
+                          'unlike a certain Prince of Denmark. Bloody '
+                          'vengeance and dark betrayal soon come to pass, all '
+                          'played against a backdrop of corruption and unrest '
+                          'that lead to up to the horrors of New York Civil '
+                          'War draft riots.\n'
                           '\n'
-                          'What Scorcese lacks in family values, he comes '
-                          'close to making up for in style. This is another '
-                          'fascinating visual film with great sets, costumes, '
-                          'color and camera-work. Other typical Scorcese '
-                          'touches are in here: Catholic-bashing and brutal '
-                          'language. (I question whether the f-word was used '
-                          'back in the days this film takes place.)\n'
+                          ' Daniel Day-Lewis is marvelous as Bill the Butcher. '
+                          'His Bill is both recognizably human and a full '
+                          'bore, moustache-twirling villain. Day-Lewis strides '
+                          'his savage and profane way across the screen and '
+                          'steals the whole of the movie. The only other actor '
+                          "to approach Day-Lewis' level is Jim Broadbent as "
+                          "William 'Boss' Tweed. Broadbent is Tweed's spitting "
+                          'image and he makes the grasping old pirate so '
+                          'winning we find ourselves rooting for Tweed against '
+                          'the gaggle of reformers that infest his domain.  '
+                          'Though Leonardo DiCaprio is the nominal lead of the '
+                          'picture he is overshadowed by his co-stars.  Large, '
+                          'slope shouldered and vaguely brutish looking, '
+                          'DiCaprio is physically perfect for Amsterdam.  '
+                          'While he could have used some of the fire and rage '
+                          "of a young James Cagney, DiCaprio's acting is "
+                          'superior throughout the movie. The problem is that '
+                          "Amsterdam just isn't as flashy a role as Bill or "
+                          'Tweed and, as good as DiCaprio is; Day-Lewis '
+                          'operates on a whole other level. Cameron Diaz as '
+                          'the beautiful pickpocket Jenny,  never convinces '
+                          'that she is a product of the slums. Despite having '
+                          'considerable screen time, Diaz fades into the '
+                          'background when compared to her more powerful '
+                          'co-stars.\n'
                           '\n'
-                          'All in all, a tough film that could be too '
-                          "unpleasant to watch but for Lewis' outstanding "
-                          'performance and the spectacular visuals.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '8',
-                             'worstRating': '1'}},
+                          ' Just as important as the actors are to Gangs is '
+                          'the period atmosphere that drips off the screen. '
+                          'The amazing old New York set has an air of lived in '
+                          'reality that you could cut with a knife. You can '
+                          'almost smell the vermin. Gangs is entirely free of '
+                          'the embalmed feeling you get from most modern '
+                          'period movies.  The cast handles the period argot '
+                          'as if it were their true speech and wear their '
+                          'costumes like lived-in clothing. You come away '
+                          'convinced that this is how the world looked and '
+                          'sounded in 1862.\n'
+                          '\n'
+                          ' Scorsese does eschew all nuance and subtlety in '
+                          'Gangs. Instead he tells his tale in wide, bold, '
+                          'exploitive and melodramatic strokes that make the '
+                          'movies two and a half hours fly by. Be warned that '
+                          'if you are waiting to see Gangs on DVD you are '
+                          'making a huge mistake. Gangs has to be seen at the '
+                          'theater. The detail and scope of the film cries out '
+                          'to be viewed in all its wide screen glory.  This '
+                          'movie is a fantastic achievement.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'CT# 2 w/DVD Box Art',
              'embedUrl': '/video/imdb/vi2166859289',

@@ -35,34 +35,29 @@
  'keywords': 'visit',
  'name': 'The Worst Jobs in History',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Minou07'},
-            'dateCreated': '2009-12-06',
+            'author': {'@type': 'Person', 'name': 'switchkid0'},
+            'dateCreated': '2004-09-27',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0423775/'},
-            'name': 'Fascinating walk through rarely known British History',
-            'reviewBody': 'I just caught the middle of "Worse Jobs in Maritime '
-                          'History," this morning and instantly knew that '
-                          'voice! Then I really knew the face. (I own the DVD '
-                          'sets of "Blackadder" (starring Robinson, Rowan '
-                          'Atkinson, and Hugh Laurie) Robinson is serious and '
-                          'sometimes humorous in presenting the program that '
-                          'makes British History interesting. He explains and '
-                          'participates in doing these actual jobs and it is '
-                          'fascinating. In "Maritime," they also show photos '
-                          'of women gutting fish. Of course people still do '
-                          'that today. But the most overlooked and dangerous '
-                          'jobs are those of the "stokers" in the ships '
-                          'boilers and the ones of people who actually built '
-                          'the lighthouses.\n'
+            'name': 'Fantastic series from Four',
+            'reviewBody': 'One of the finer documentaries of recent years. '
+                          "Robinson's chummy, honest style of presenting makes "
+                          "the history real and accessible. I've seen three "
+                          'episodes, and hope there are more out there. '
+                          'There\'s an element of "Fear Factor" (Tony gags as '
+                          'he trods on wool cloth in a vat of stale human '
+                          'urine), and also some really revealing emotional '
+                          'moments, as in the "egg-gathering", and the '
+                          '"headsman".\n'
                           '\n'
-                          'In the USA we have the program "Dirty Jobs," so we '
-                          'can certainly appreciate what people do to earn a '
-                          "living. It's also sobering to those of us who have "
-                          "lousy, low-paying jobs but don't also have to soil "
-                          'our hands or risk our lives to do them.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
+                          'Most "history-rich" documentaries tend to leave a '
+                          'lot of viewers cold, being all facts, dates, and '
+                          'places. This series humanizes the history, and '
+                          'affords us an insight into the day-to-day struggle '
+                          'of common folks, such as ourselves.\n'
+                          '\n'
+                          "No matter how bad your job may be, I think it's "
+                          'easy to say that it doesn\'t compare to "The Worst '
+                          'Jobs in History".'},
  'url': '/title/tt0423775/'}

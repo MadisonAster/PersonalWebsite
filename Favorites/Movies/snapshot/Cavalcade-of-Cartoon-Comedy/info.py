@@ -43,32 +43,29 @@
              'humor,parody',
  'name': "Seth MacFarlane's Cavalcade of Cartoon Comedy",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Demetrius_Stork'},
-            'dateCreated': '2015-12-18',
+            'author': {'@type': 'Person', 'name': 'karnajj'},
+            'dateCreated': '2009-05-16',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1295036/'},
-            'name': 'Worst Cartoon I have ever seen',
-            'reviewBody': "I don't have very much to say regarding this "
-                          "series, so I'll keep things short. This was almost "
-                          'unwatchable.\n'
+            'name': 'Vulgar and unfunny',
+            'reviewBody': 'I would never pay for such a thing. The gags are '
+                          'not even funny. Some of the clips are just '
+                          'characters giving their opinions on old movies.\n'
                           '\n'
-                          "The jokes simply aren't funny, at all. Some of the "
-                          'jokes fail to even have a setup and/or punch line. '
-                          'The writing is lazy, not mixing in any creative '
-                          'humor and giving audiences exactly what they think '
-                          'is going to happen. This is also supposedly in the '
-                          'adult category as well. Involving several scenarios '
-                          'entitled Sex with ____, something that is clearly '
-                          'not supposed to be for kids, yet only they would '
-                          "find remotely funny. It's hard to say things simply "
-                          "aren't funny, but this is one of the few instances "
-                          'where I feel completely comfortable saying it. \n'
+                          'Sorry Seth, there are enough critics on the web, I '
+                          "don't need to know which movies you didn't like "
+                          "when you were a teenager in the 80's.\n"
                           '\n'
-                          "This was an abomination. Not even so bad it's good "
-                          "either, just so bad it's unwatchable. I would say "
-                          "don't even give this thing a try and stay as far "
-                          'away from it as possible.',
+                          "You are trying to sell this junk by saying it's "
+                          "more vulgar than Family Guy. But, vulgarity doesn't "
+                          "mean funny at all. There's got to be something more "
+                          'than that.\n'
+                          '\n'
+                          "I am really glad that I didn't pay for this trash. "
+                          "And we really don't need to know your opinion about "
+                          'everything. If you absolutely need to give it '
+                          'anyway, try to do it in a funny way.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '1',

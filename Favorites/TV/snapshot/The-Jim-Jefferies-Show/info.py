@@ -39,37 +39,24 @@
              'comedian,australian',
  'name': 'The Jim Jefferies Show',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'djpaule1208'},
-            'dateCreated': '2017-06-28',
+            'author': {'@type': 'Person', 'name': 'esmad3-216-475224'},
+            'dateCreated': '2019-03-25',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt6987966/'},
-            'name': 'Pretty darn good if ya ask me...!!!!!!',
-            'reviewBody': 'I give this show a 09 out of 10. The reason is '
-                          'because it blends real hard hitting, important, '
-                          'recent and at times controversial news stories with '
-                          "Jim's AMAZING witty and sarcastic humor. He also, "
-                          'makes the news understandable and able to be '
-                          'listened too by people that normally cannot stand '
-                          'listening to the regular news because it can be '
-                          "very boring. Jim isn't afraid of the hot button "
-                          'things to talk about either and I LOVE that!! He is '
-                          'new to this hosting thing and I am sure he will '
-                          'settle in AMAZINGLY after a few episodes. You could '
-                          'tell he was nervous on the pilot episode. He '
-                          'clearly cares about the USA ad all of us in it '
-                          "clearly. I couldn't give it a hard 10 yet because "
-                          'the topics he discusses in certain episodes just '
-                          "need more time and aren't able to be properly "
-                          'untangled within the time he is given. I would love '
-                          'to see an entire hour of this show instead of 30 '
-                          "minutes. I don't want to write this too long "
-                          'because people will lose interest and stop reading. '
-                          'So I will close with the fact that this is an '
-                          'AMAZING SHOW AND I LOVE IT VERY MUCH!!!!!!!!!!!!!!!',
+            'name': 'Fraud',
+            'reviewBody': 'I like Jim Jefferies comedy, but this is twice now '
+                          'the show has been caught making complete hatchet '
+                          'jobs out of interviews. That includes cutting to '
+                          'match questions with different answers and '
+                          'reactions, basically rendering the interviews '
+                          "fraudulent. I can't see this show as anything but "
+                          "manipulation at this point, I've watched all the "
+                          'episodes but unless he addresses this directly very '
+                          'soon I wont be watching anymore.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '1',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Jim Jefferies Show, The: Season 1',

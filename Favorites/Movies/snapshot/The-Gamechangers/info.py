@@ -40,28 +40,77 @@
  'keywords': 'docudrama',
  'name': 'The Gamechangers',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'peggi2'},
-            'dateCreated': '2019-04-23',
+            'author': {'@type': 'Person', 'name': 'Prismark10'},
+            'dateCreated': '2015-09-16',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4590930/'},
-            'name': 'A unique style of mocumentary',
-            'reviewBody': 'Gives both sides of the argument about how the '
-                          'level of influence the games industry has.\n'
+            'name': 'Liberty City',
+            'reviewBody': 'I have been playing arcade games since the late '
+                          '1970s. Computer games since the Home Computer '
+                          'revolution of the early 1980s and I bought a copy '
+                          'of GTA III for the Playstation 2. Despite this I do '
+                          'not consider myself as a gamer. However I am known '
+                          'to show my skills off to my kids every now and then '
+                          'to let them know that their old dad has a trick or '
+                          'two up his sleeve when it comes to Mortal Kombat or '
+                          'Virtua Fighter.\n'
                           '\n'
-                          'I think it is thought provoking but gives both '
-                          'sides of the arguments and presents them in a '
-                          'unique style.\n'
+                          'What struck me about GTA III was the expansive '
+                          'almost free flowing game-play. You had missions to '
+                          'complete but you could just wander off and do '
+                          'something else. For the first time I felt '
+                          'video-games had made that leap forward more than '
+                          'the hype from console manufacturers going on about '
+                          'Emotion chips.\n'
                           '\n'
-                          'A lot of negative comments on here I think come '
-                          'from people who want to defend the games industry - '
-                          'but this really does give both sides of the '
-                          'argument and I learnt a lot at the same time as '
-                          'finding it entertaining.\n'
+                          'People might be surprised to discover that GTA is '
+                          'actually British created by two brothers, Sam and '
+                          'Dan Houser who in this BBC film are based in New '
+                          'York. Daniel Radcliffe plays Sam Houser, the Don '
+                          'Simpson obsessed visionary who wants to take gaming '
+                          'to the next level. He also comes across as brattish '
+                          'rather than a maverick.\n'
                           '\n'
-                          'They should do another one about COD!',
+                          "After a shooting incident the game's developer "
+                          'Rockstar lock horns with Jack Thompson (Bill '
+                          'Paxton) a God fearing conservative lawyer on a '
+                          'moral crusade against rap and video-games and its '
+                          'insidious effects on kids.\n'
+                          '\n'
+                          'Thompson struggles at court and is at risk of being '
+                          'disbarred but Rockstar rather ineptly or '
+                          'deliberately left hidden coding in one of their '
+                          'later version of GTA which brought them further '
+                          'trouble in the US courts.\n'
+                          '\n'
+                          'The problem with the film was it was too slight. '
+                          'The BBC received no cooperation from Rockstar who '
+                          'also enforced their trademark to not to allow them '
+                          'use the game footage. I think this was unwise of '
+                          'them.\n'
+                          '\n'
+                          'The film is based on true events but some scenes '
+                          'have been changed for dramatic effect. In short '
+                          'padded out to create tension where probably none '
+                          'existed.\n'
+                          '\n'
+                          'Like a lot of recent BBC one off films its '
+                          'noticeable that the 5 years licence fee is having '
+                          'an effect. Part of it just looked a little too '
+                          'cheap and low budget even though there was New York '
+                          'location shooting and it had a style of filming in '
+                          'parts to give it an immersive computer game '
+                          'setting.\n'
+                          '\n'
+                          'The makers hoped to create a buzz like the film The '
+                          'Social Network but here the battle about a moral '
+                          'crusader who uses grandstanding to destroy Rockstar '
+                          'felt overlong even at 90 minutes. Paxton also '
+                          'reminded me too much of the righteous character he '
+                          'played in his directorial debut, Frailty.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '5',
                              'worstRating': '1'}},
  'url': '/title/tt4590930/'}

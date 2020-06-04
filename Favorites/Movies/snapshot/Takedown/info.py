@@ -59,66 +59,53 @@
  'keywords': 'computer,hacker,computer hacker,computer virus,based on book',
  'name': 'Takedown',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'trgusa'},
-            'dateCreated': '2005-05-10',
+            'author': {'@type': 'Person', 'name': 'r0bin'},
+            'dateCreated': '2003-05-03',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0159784/'},
-            'name': 'The Moral Dilemma',
-            'reviewBody': 'Not arguing technical details or realism, I feel '
-                          'what is presented in this movie is an all-too black '
-                          'and white picture of hackers, or "Crackers", as the '
-                          'hero refers to them. Great pains are taken to '
-                          'portray Kevin Mitnick as a temper-prone, '
-                          'reactionary, asocial neurotic, with nuances of '
-                          'sexual dysfunctionality thrown in as well. Whereas, '
-                          'the hero (Tsutomu Shimomura)comes off as being the '
-                          'shiniest star in the sky.\n'
+            'name': 'l33tifi3d.',
+            'reviewBody': "First of all, let's clear up some common "
+                          'misconceptions.\n'
                           '\n'
-                          'I would say this general portrayal is unfair, and '
-                          'nearly propagandistic in its intent. The movie '
-                          'really becomes a base for expounding the moral '
-                          "issues of hacking and 'freedom of information' in a "
-                          'society that survives on security. It is a clear '
-                          'warning, and it does NOT favor hacking or hackers.\n'
+                          'This film isn\'t "Hackers 2". You will find no CGI '
+                          'or parachute pants here. This film is about the '
+                          'capture of the notorious computer criminal Kevin '
+                          'Mitnick who used his technical skills and ability '
+                          'to influence people to gain access to things he '
+                          "really shouldn't have been able to access.\n"
                           '\n'
-                          'I am appalled by that, because a more open picture '
-                          'of both sides might have been painted. "Hackers" '
-                          'brought the world to the standards of today, and '
-                          'daily test the security and limits of it... '
-                          'likewise, "programmers" continue to strive for '
-                          'safety, but also encrypt for greed, control, power, '
-                          'and politics. It is not all back and white.\n'
+                          'The thing that bothers me most about this film is '
+                          'the computer virus that Shimo wrote. I doubt that '
+                          'he did, and this makes Mmitnick seem worse by '
+                          "stealing it. The AI doesn't exist to put that virus "
+                          "around now, and it didn't 3 years ago.\n"
                           '\n'
-                          'Either a hacker OR a programmer are capable of '
-                          'accidentally, or intentionally creating havoc in a '
-                          'real world of banking, traffic lights, airports, '
-                          'and defense systems, although the chances seem less '
-                          'with programmers (unless you know about "The '
-                          'Singularity").\n'
+                          'The film in itself is a work of genius. This is the '
+                          'only realistic hacker film i have ever seen. Maybe '
+                          'because it was based on a true story and to put '
+                          'spinning DNA molecules on the computer screen '
+                          'instead of C++ would be a load of bollocks.\n'
                           '\n'
-                          'All I am saying is that this movie is VERY biased '
-                          'against hackers, it allows them NO redeemable '
-                          'social attributes, and it radically stereotypes '
-                          'them. It is intended to PERSUADE you. THAT, I '
-                          'regard as a THREAT to my own individual freedom of '
-                          'thought, and when you cross that line... alarms go '
-                          'off.\n'
+                          'The acting is great; the pace of the movie is '
+                          'quick, especially in the part when the FBI almost '
+                          'captures Mitnick for the second time. The portrayal '
+                          "of the FBI in this film isn't very good, when they "
+                          "apprehended Mitnick, they didn't go in with 20 SWAT "
+                          'teams!\n'
                           '\n'
-                          "BEWARE of this if you haven't seen this movie yet.\n"
+                          'Kudos to Ulrich for his part as Kevin Mitnick, but '
+                          "as for Wong, I'm very surprised, where's the "
+                          'glasses and the geekyness? I know where, it got '
+                          'lost in the writing process, to make hackers look '
+                          "geeky and security experts look 'ard and sexy. In "
+                          'actual fact, security experts are just crackers in '
+                          'business suits. Kevin Mitnick did no damage, but '
+                          'they chase after him like he mass murdered a few '
+                          "police departments. I suppose they can't be totally "
+                          'realistic, and then the film would be an hour and a '
+                          'half of typing, with 30 minutes of chases and '
+                          'arrest.\n'
                           '\n'
-                          'Did "Big Brother" produce this film? ("Big Brother" '
-                          'is a reference to George Orwell\'s novel "1984") '
-                          'Regardless, the movie has good detail within a '
-                          'fast-moving and captivating plot.\n'
-                          '\n'
-                          'Lastly, NO, I am NOT pro-hacker oriented. Mitnick '
-                          'is clearly a criminal with a long record of '
-                          'convictions dating all the way back to 1981... but, '
-                          "I don't like being told what, or how, to think "
-                          'about a whole class of people.',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '5',
-                             'worstRating': '1'}},
+                          "I'm just glad there were no parachute pants ^_^"},
  'url': '/title/tt0159784/'}

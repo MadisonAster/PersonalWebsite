@@ -21,7 +21,7 @@
             'url': '/name/nm3675501/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 8482,
+                     'ratingCount': 8483,
                      'ratingValue': '7.8',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -42,41 +42,46 @@
  'keywords': '2010s,u.s. president,president,american history,army',
  'name': 'Drunk History',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'chipdfctoo'},
-            'dateCreated': '2014-06-07',
+            'author': {'@type': 'Person', 'name': 'el-mar-martinez'},
+            'dateCreated': '2015-04-18',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2712612/'},
-            'name': 'unfortunately on my own behalf',
-            'reviewBody': 'as my summary states, unfortunately on my own '
-                          'behalf... i can attest to the multitude of drunken '
-                          'states of our narrators. i am and always have been '
-                          '(at least of the comprehensible age) been "that '
-                          'drunk guy". the thing that makes me love this show '
-                          'so damn much, the drunker i get... the smarter i '
-                          'feel, the more i know, the absolute truth comes '
-                          'from deep within.\n'
+            'name': 'Honest and funny',
+            'reviewBody': 'The title says it all: a drunk person will tell you '
+                          'his version of some of the best pieces of American '
+                          "history. This is as honest as can be. And it's "
+                          'funny! \n'
                           '\n'
-                          'i get a good giggle out of the naysayer that claims '
-                          '"oh it\'s staged", i might be a drunkard but i am '
-                          'not naive. sure enough the script is read in a '
-                          'relatively sober state, and drunken context is '
-                          'added. right up until "the i\'m feelin\' so good, '
-                          'it\'s bad" state of inebriation. i do not doubt for '
-                          'a second if a gentlemen showed up with a quality '
-                          'fifth of scotch, asked me to polish it off and then '
-                          '"read this" that i would more than likely spit out '
-                          'some quality comedy gold.\n'
+                          'There are things only drunk people will say, and '
+                          'this show is all about that: what if we put drunk '
+                          "people's thought in a sober people mouth? "
+                          'Furthermore, what if we put it in historically '
+                          "famous people's mouths? Add to the mix a fairly "
+                          'famous cast (on the sober side) and comedy '
+                          "central's budget, and the result is deliciously "
+                          'funny \n'
                           '\n'
-                          'this show, with the wonderful acting and '
-                          'pantomiming is without a doubt the funniest show on '
-                          'TV. it will only gain in greatness if, and when, it '
-                          'branches out into the international circuit of this '
-                          'amazing planet. just imagine the wonderful accents! '
-                          'cheers my friends, drinks up to a good evening.',
+                          'If the semi-incoherent babbling of drunk people '
+                          'gets on your nerves, if you expect some high level '
+                          'third degree intellectual Monty Pythonnesque humor '
+                          "or if you can't condone making fun of American "
+                          'symbols like Abraham Lincoln or Rosa Parks, then '
+                          'this show is not for you, but then again, you ought '
+                          'to ask yourself :"what was i expecting from a show '
+                          'called drunk history?"\n'
+                          '\n'
+                          "In a few words, let's not kid ourselves and let's "
+                          'take the show for what it is: a funny idea like the '
+                          "ones you get when you're drunk with your friends "
+                          'put together by people who have the talent to make '
+                          'it funny. \n'
+                          '\n'
+                          'Well done comedy central, and well done Derek '
+                          'Waters.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'If you want to find out how Frankenstein came to '

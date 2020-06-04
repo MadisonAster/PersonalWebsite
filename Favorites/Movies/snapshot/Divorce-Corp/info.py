@@ -52,47 +52,58 @@
  'keywords': 'social injustice,court,custody,marriage,feminism',
  'name': 'Divorce Corp',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'drew-894-169553'},
-            'dateCreated': '2014-01-10',
+            'author': {'@type': 'Person', 'name': 'paul-allaer'},
+            'dateCreated': '2014-01-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2636456/'},
-            'name': "The best movie I didn't want to see",
-            'reviewBody': 'I just got back from the Phoenix opening show, and '
-                          'I have to admit that I am a little upset. I am not '
-                          'upset with the quality of the film, but the way it '
-                          'left me feeling after being reminded of the '
-                          'corruption and pain from my past cases.\n'
+            'name': 'Revolting documentary will get under your skin',
+            'reviewBody': '"Divorce Corp." (2014 release; 93 min.) is a '
+                          'documentary that takes a closer look at the '
+                          'business of divorce in the US. Yes, business, as we '
+                          'are informed that this is a $50 billion/yr. '
+                          'industry, and the average divorce (including '
+                          'related child custody issues) costs $50,000. As the '
+                          'movie opens, we are introduced to a guy in '
+                          'Cincinnati who tells the tragic story of how his '
+                          'second wife, not long after they have a little boy, '
+                          'pulls the rug from under his feet and is able to '
+                          'not only ruin his finances and reputation but also '
+                          'to keep him from seeing his own son. As the movie '
+                          'progresses, we come to know others (in Memphis, '
+                          'Dallas, etc.) who have similar blood-boiling '
+                          'stories to tell. To tell you more specifics of the '
+                          'documentary would spoil your viewing experience, '
+                          "you'll just have to see it for yourself.\n"
                           '\n'
-                          'The film makers did and excellent job of '
-                          'compressing an extremely complicated topic into a '
-                          'well organized and an easy to understand '
-                          'presentation. I was not sure I was going to learn '
-                          'anything new, because I thought I had seen '
-                          'everything. Anyone who has been through a divorce '
-                          'or custody battle has a decent understanding of how '
-                          'the corrupt Family Court system operates. I was '
-                          'unpleasantly surprised to learn some new facts and '
-                          'injustices that I had not seen before. The '
-                          'corruption has always been obvious to me, but I '
-                          "didn't understand the motivation to the level the "
-                          'film exposes.\n'
+                          'Couple of comments: first, even though examples are '
+                          'pulled from across the country, the documentary as '
+                          'a whole is heavily California-focused, perhaps not '
+                          'a surprise since it seems California is on the '
+                          'cutting edge of many divorce/custody battle '
+                          'strategies (and they do mean "battle"). Second, '
+                          'what really gets under your skin is the vested and '
+                          'interlinked interest that EVERYONE involved except '
+                          'the families themselves, has to keep this '
+                          '"industry" going and growing. The documentary does '
+                          'a great job contrasting this with the situation in '
+                          '"Scandinavia" (mostly examples from Iceland, some '
+                          'from Sweden). Third, kudos to '
+                          'writer-producer-director Joe Sorge for bringing us '
+                          'this riveting, and revolting, assessment of '
+                          'divorce, and family courts in general.\n'
                           '\n'
-                          'The narration by Dr. Drew was perfect. People who '
-                          'know nothing about Family Court can watch this film '
-                          'and follow it. I strongly recommend this movie to '
-                          'anyone considering marriage, or anyone who is just '
-                          'starting out their divorce or custody action. For '
-                          "most of us, we didn't have the luxury of knowing "
-                          'how corrupt the family courts were until we were '
-                          'neck deep in tears and debt. Thanks to this film, '
-                          'many others will be able to walk into their '
-                          'unfortunate situations with a clearer expectation. '
-                          'The movie revived my promise to myself to stay '
-                          'single until the day I die.',
+                          'This movie showed up a few weekends ago on a single '
+                          'screen for all of Greater Cincinnati. I figured '
+                          "this wouldn't be playing long so I went to see it a "
+                          'few days ago. I had a private screening, as in: I '
+                          'was literally the only person in the theater. No '
+                          'matter, this is an excellent documentary. Whether '
+                          'you can check it out in the theater or on '
+                          'DVD/Blu-ray, "Divorce Corp." is HIGHLY RECOMMENDED!',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'An exposÃ© of the inner workings of the $50 '

@@ -21,7 +21,7 @@
             'url': '/name/nm0004747/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 1039231,
+                     'ratingCount': 1039309,
                      'ratingValue': '8.3',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -45,59 +45,24 @@
              'wife,virginity',
  'name': 'American Beauty',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'The Woof'},
-            'dateCreated': '1999-11-05',
+            'author': {'@type': 'Person', 'name': 'toh786'},
+            'dateCreated': '2018-12-03',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0169547/'},
-            'name': 'One of my faves of the year...simply great.',
-            'reviewBody': "This movie was a joy to watch.  I didn't know what "
-                          'to expect when I came into it.  I had heard the '
-                          "buzz of the acting and the story, etc...but we've "
-                          'all heard that before and had been disappointed, '
-                          'but not so with this one.\n'
-                          '\n'
-                          'Kevin Spacey plays this part to a "T".  He is '
-                          'strong when it requires and meek when it is '
-                          'needed.  His emotional rollercoaster ride is a trip '
-                          'to partake in. Annette Bening is marvelous as '
-                          'well.  I think they both should be nominated.\n'
-                          '\n'
-                          'The support cast is also spectacular.  Thora Birch, '
-                          'Wes Bentley, and Mena Suvari all give great '
-                          'performances as the troubled "Teenagers" in the '
-                          "film. Of particular mention is Wes Bentley's "
-                          'performance, worthy of a supporting nomination as '
-                          'well.\n'
-                          '\n'
-                          'This is a dramatic and funny tale of a man and his '
-                          'life in a state of turmoil and transition.  When he '
-                          "happens to see a beautiful friend of his daughter's "
-                          'at a cheerleading exhibition, he is completely '
-                          'infatuated with her beauty.  Using this as his '
-                          'inspiration, he attempts to change all aspects of '
-                          'his life.  He confronts his marriage, his job, his '
-                          'ego, and his libido.\n'
-                          '\n'
-                          'The music in this film is also very well chosen.  '
-                          'There are moments when the music fits so perfectly '
-                          'with the scene that they meld together as one to '
-                          'present a perfect emotion.\n'
-                          '\n'
-                          'The plot can get rather involved, but you will '
-                          'follow it endlessly to see where you go.  I was '
-                          'simply involved, hook, line and sinker.\n'
-                          '\n'
-                          'See this movie more than once, and skip some of the '
-                          'other movies out now that are dare I say, trash.\n'
-                          '\n'
-                          "This should be on the top of many critic's lists "
-                          'this year and it is certainly on top of mine.\n'
-                          '\n'
-                          'My Rating (1 - 10):  10',
+            'name': 'Better than I thought',
+            'reviewBody': 'I just decided to watch this old movie for the '
+                          'first time, since I heard it was a classic. This is '
+                          'one of the few movies where I had water in my eyes. '
+                          'The story was very powerful, the drama was '
+                          'powerful, everything was powerful. "There\'s so '
+                          "much beauty in the world, I feel like I can't take "
+                          'it." I do not this see anything wrong with it, it '
+                          'was a simply a great movie to watch. Highly '
+                          'recommend it.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Lester Burnham, a depressed suburban father in a '

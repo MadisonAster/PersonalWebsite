@@ -51,59 +51,58 @@
              'plate',
  'name': 'The Congress',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'FlorisV'},
-            'dateCreated': '2017-02-18',
+            'author': {'@type': 'Person', 'name': 'ferguson-6'},
+            'dateCreated': '2014-04-13',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1821641/'},
-            'name': 'Weird but underrated',
-            'reviewBody': 'This film gets an average score of 6,5 out of 10, '
-                          "it seems like a score you'd give to your average, "
-                          'passable flick with average (=little) imagination. '
-                          "I'd give it a 7,5 at least. I didn't know what to "
-                          'expect at all and was in for a surprisingly odd '
-                          'visual treat that looks mostly like an animated '
-                          'dream.\n'
+            'name': 'Some Bad Choices',
+            'reviewBody': 'Greetings again from the darkness. As a fan of '
+                          "director Ari Folman's Oscar nominated Waiting for "
+                          'Bashir (2008), I was excited to see this one on the '
+                          'line-up at Dallas International Film Festival. '
+                          'While some will find The Congress a bit messy and '
+                          'difficult to follow, it certainly reinforces '
+                          "Folman's innovative and creative approach to story "
+                          'telling and filmmaking.\n'
                           '\n'
-                          "I'm not sure I want to re-watch this film again (I "
-                          'might get a headache), it was quite something to '
-                          "ingest. There's also a lot there to think about and "
-                          'not everything makes sense. Nor did it have to as '
-                          'the film chose to display a dream world mostly.\n'
+                          'The first half of the movie is live action and the '
+                          'second half is animated. The best description I can '
+                          'offer is as a social commentary, not just on '
+                          'Hollywood, but society. While "Her" makes the case '
+                          'for virtual relationships, this movie makes the '
+                          'case for virtual everything else! Robin Wright '
+                          'plays Robin Wright, an aging movie star who is '
+                          'offered a chance to stay young and be popular '
+                          'forever. Just sign this contract, and Miramount '
+                          'Studios owns your complete public image. No more '
+                          'acting, just kick back and enjoy your money ... and '
+                          'watch what we do with your image and career.\n'
                           '\n'
-                          'The transitions between animated and live action '
-                          'are horrible, non-existent even. Also, the '
-                          'motivations (why does Robin escape to the dream '
-                          'world in a fancy car) are not always clear, neither '
-                          "is it always clear what's going on.\n"
+                          'The cast is very strong, but the movie has a '
+                          'feeling of having been rushed through production '
+                          '... at least from the live action side. In addition '
+                          'to Ms. Wright, Danny Huston chews some scenery as a '
+                          'cut throat studio head. His blunt description of '
+                          'Ms. Wright\'s "bad choices" since The Princess '
+                          'Bride speak to not only many actors, but for many '
+                          'in the audience as well. Harvey Keitel plays the '
+                          'agent, Jon Hamm appears through voice only in the '
+                          'animated sequence, Kodi Smit-McPhee (Let Me In, The '
+                          "Road) plays Wright's son and central plot figure, "
+                          'and Sami Gayle plays his sister.\n'
                           '\n'
-                          "Juggling with too many ideas, it's not consistently "
-                          'sticking to a core concept. I feel like I watched 2 '
-                          'movies. One like S1mone, but more serious. The '
-                          'other, more like an animated Being John Malkovich, '
-                          'less quirky but more poetic and equally self- '
-                          "referential (there's references to Robin Wright's "
-                          'actual acting career, she plays herself...).\n'
-                          '\n'
-                          "I could live with all it's flaws, because it was "
-                          'quite an intriguing film. I still give it a high '
-                          "score because it's concepts interested me and I "
-                          'think you have to see it also as a work of art to '
-                          "behold, not necessarily to comprehend. It's so "
-                          'different from the usual film, even if you watch '
-                          '(partially) animated films. The animation is the '
-                          'highlight of the film.\n'
-                          '\n'
-                          'I watched Planete Sauvage (trippy 1973 animation) a '
-                          'week ago and found this one equally stimulating for '
-                          "my brain as it feels expanded. Hadn't seen "
-                          'something like this since Paprika and this had more '
-                          "substance to boot even though it didn't focus and "
-                          "flesh it's ideas out enough. It was a bold attempt "
-                          'nonetheless.',
+                          'Some will be reminded of A Scanner Darkly, and '
+                          'others of Cool World. The best this movie has to '
+                          'offer is not in its (creative) presentation, but '
+                          'rather in its ability to provoke thought about the '
+                          'look of future society and the impact of technology '
+                          '... as well as the whole issue of identity and what '
+                          "makes us who we are. It's a brain-scrambler if you "
+                          'stick with it.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'An aging, out-of-work actress accepts one last '

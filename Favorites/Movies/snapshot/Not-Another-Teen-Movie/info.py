@@ -21,7 +21,7 @@
             'url': '/name/nm0647638/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 94391,
+                     'ratingCount': 94396,
                      'ratingValue': '5.7',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -57,33 +57,44 @@
              'masturbation,exchange student',
  'name': 'Not Another Teen Movie',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Shippmeister'},
-            'dateCreated': '2002-10-09',
+            'author': {'@type': 'Person', 'name': 'bladespinner'},
+            'dateCreated': '2003-12-04',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0277371/'},
-            'name': 'oh yes, this is beautiful',
-            'reviewBody': 'Having seen 16 Candles, Pretty In Pink, Ferris '
-                          'Buelers Day off, The Breakfast Club and just about '
-                          'every film John Hughes ever made, I was able to '
-                          'appreciate this movie for all that it really is and '
-                          'make comparisons with the original. Absolute '
-                          'hilarity from the very beginning as it takes of 16 '
-                          'Candles except everybody remembers when, in this '
-                          'case, she would have wanted them too '
-                          'forget.(Vibrator incident) What follows is a slant '
-                          'on everything Hughes ever made "We are all just one '
-                          'big group here at John Hughes High, now everybody '
-                          'break off into smaller groups, take a good look at '
-                          'the people next to you, they will be your only '
-                          'friends for the next 4 years". this movie made me '
-                          'laugh and laugh, I dont know how some of my friends '
-                          "who haven't seen any Hughes movies except for "
-                          'Ferris Buellers Day Off would find some parts '
-                          'funny, but thats what you get for not watching fine '
-                          'movies, "Human recastranant!!!" Score: 9/10 (lost 1 '
-                          "point for the grandma kiss and the fact it didn't "
-                          'rip on Some Kind of Wonderful)'},
+            'name': "This is the best comedy i've seen in years",
+            'reviewBody': 'This movie has made me laugh so hard, i started '
+                          'coughing and almost coughed my lungs out.  First '
+                          'let me say that the movie has a ton of crude and '
+                          'distasteful humor which i could certainly do '
+                          'without, however no matter how crude or distasteful '
+                          'that humor might be to myself it is still '
+                          'neccessary. Why?  Because what i find funny '
+                          'somebody else may think is stale.  Granted most '
+                          'people find a scene where a toilet that has erupted '
+                          'feces all over a classroom is too much.  However '
+                          'maybe there is still the ever watchful 3 percenters '
+                          'out their that need a quick fix, and managed to '
+                          "giggle when they saw it.  So all i'm really saying "
+                          'is that the movie covers all bases(caters to the '
+                          'whole audience and keeps everybody entertained).  '
+                          'They have mild humor(The kind that watches '
+                          'cheers,cosbys,roseanne, and friends) and excessive '
+                          'humor(The kind of audience that only appreciates '
+                          "MTV's jackass,beavis and butthead).  Now that being "
+                          'said, I think the movie was better than awesome.  '
+                          'It was a single achievement in that it successfully '
+                          'made fun at every teen flick from the span of the '
+                          "80's till today.  It was an extremely funny piece "
+                          'of work.  I am really impressed with the actors and '
+                          'actresses, because they played their parts '
+                          'perfectly.  Trust me there is no movie to date that '
+                          'even comes close to pulling off what this movie '
+                          'did. This movie damn well deserves a sequel, and i '
+                          'don;t mean straight to video either.  This should '
+                          'have gotten the comedy of the year award.  Scary '
+                          'movie 1 was good.  Scary Movie 2 was better.  NATM '
+                          'eats them for breakfast.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Theatrical Trailer from Columbia Pictures',
              'embedUrl': '/video/imdb/vi547225881',

@@ -21,7 +21,7 @@
             'url': '/name/nm0683467/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 100676,
+                     'ratingCount': 100690,
                      'ratingValue': '8.6',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -40,45 +40,39 @@
              'news',
  'name': 'The Newsroom',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'mynexthome'},
-            'dateCreated': '2014-12-07',
+            'author': {'@type': 'Person', 'name': 'ibiggmikei'},
+            'dateCreated': '2012-06-24',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1870479/'},
-            'name': 'Over, but not forgotten',
-            'reviewBody': 'Maybe I am just coming into adulthood after my 45 '
-                          'years, but The Newsroom has always been food for '
-                          'thought. The pace, direction and writing has been '
-                          'excellent. I have watched and re-watched every '
-                          "episode over the past 3 seasons and really can't "
-                          'understand why they would cancel this show for the '
-                          'ages. First I was not a person that watched West '
-                          'Wing. I was younger and dumber for the show to '
-                          'stick. this show grabbed me from the get go and I '
-                          "have never been more surprised with it's "
-                          'greatness.\n'
+            'name': 'Future Emmy Winning Show',
+            'reviewBody': 'I watched this show after watching True Blood, '
+                          'which I watch out of habit on Sunday nights with my '
+                          'wife. I am SO glad we kept HBO on. I remember '
+                          'hearing about this show from different promos and '
+                          'snippets of interviews on the computer, but wow. '
+                          'Aaron Sorkin leaves his mark all over this show, '
+                          'right from the intro, which was very reminiscent of '
+                          'The West Wing right until the ending. Fantastic '
+                          'creation by him.\n'
                           '\n'
-                          'HBO - why oh why are buying into the big network '
-                          'belief that the public is not getting what you '
-                          'bring us. This show is why I subscribe to your '
-                          'network and seeing it leave is a shame. The past '
-                          'episode "Oh Shenandoah" was brilliant is so many '
-                          'ways. It left me thinking about my father and how '
-                          'we can challenge ourselves in moments of being '
-                          'tested. I came here to tell everyone I will watch '
-                          'the last episode with sadness and wish I could '
-                          "continue this great program going forward, but it's "
-                          'over. I will save these three seasons and remember '
-                          'every episode with fondness and hope to see these '
-                          'great actors, directors and writers in the future '
-                          'where they can continue to express themselves '
-                          'without worrying about ratings or money driven '
-                          'desires.\n'
-                          '\n'
-                          'Thank you for 3 great seasons!',
+                          'Without mentioning any spoilers, the show is about '
+                          'a news anchor (Jeff Daniels) who is beloved by his '
+                          'viewers but not so much by his co-workers and '
+                          'employees due to his aloofness, biting sarcasm, and '
+                          'general malaise. His character has a turning point '
+                          'in the opening scene and it is phenomenal. The '
+                          'writing, acting, cinematography, and tempo of the '
+                          'show are excellent. I fell in love with it right '
+                          'away. And how great is Sam Waterson on this show? I '
+                          'hope that this show has a domino effect and REAL '
+                          'news anchors take note and feel inspired. '
+                          'Hopefully, this show may lead to REAL NEWS STORIES '
+                          "by REAL NEWS ANCHORS. 9/10. Emmy's are DEFINITELY "
+                          "in this show's future.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'embedUrl': '/video/imdb/vi3499276825',

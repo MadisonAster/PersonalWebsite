@@ -17,7 +17,7 @@
             'url': '/name/nm3488879/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 61937,
+                     'ratingCount': 61940,
                      'ratingValue': '6.4',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -46,55 +46,45 @@
  'keywords': 'fbi,spy,informant,compulsive liar,investigation',
  'name': 'The Informant!',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ferguson-6'},
-            'dateCreated': '2009-09-19',
+            'author': {'@type': 'Person', 'name': 'tiabuena-742-259649'},
+            'dateCreated': '2010-05-21',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1130080/'},
-            'name': 'Your White Hat is a bit Dirty',
-            'reviewBody': 'Greetings again from the darkness. Steven '
-                          'Soderbergh is a genius with a camera. Just admiring '
-                          'the shots, angles and movement of the camera in his '
-                          'films is worth the price of admission. Here we get '
-                          'a fact-based story from the book by Kurt Eichenwald '
-                          'showing us what happened when Mark Whitacre became '
-                          'one of the most famous corporate whistle-blowers of '
-                          'all time ... he exposed price-fixing at Archer '
-                          'Daniels Midland, the ag-giant.\n'
+            'name': 'Price Fixing...and other stuff',
+            'reviewBody': 'This will be short. I read the book when it first '
+                          'came out in 2000, and recently watched the film, '
+                          'and now am rereading the book. The book is dry and '
+                          'difficult, with three and half pages of involved '
+                          'people listed at the very beginning. Who can keep '
+                          'track of all this? It is replete with the taped '
+                          'conversations of the involved, all of the '
+                          'everything that went on. And, it is tedious, if '
+                          'correct, in the extreme. Well, what the film did, '
+                          'and bless it, was to simplify all of this stuff and '
+                          'make it intelligible to us ordinary folks. And, it '
+                          'made a really nasty story somewhat funny, because '
+                          'we know within the first half hour or so that there '
+                          'is something hinky about this Whitacre character. '
+                          "Oh boy, is there, but I won't write a spoiler here. "
+                          "There's no reason to. Even in the book, the FBI "
+                          'guys were wondering about Whitacre. Why did he turn '
+                          'traitor to his own company? What did he have to '
+                          'gain? The film is extremely well done, an amazingly '
+                          'good adaptation of a book which would probably have '
+                          'you snoozing after fifteen minutes. Matt Damon '
+                          'really shows his stuff in this one, even developing '
+                          'a modest middle age belly to complete the image of '
+                          'the nerdy scientist. \n'
                           '\n'
-                          'Matt Damon takes this quasi-caricature and turns '
-                          'him into a comedy act along the lines of Jim Carrey '
-                          "in Liar, Liar. OK, I'll admit, there is more "
-                          'subtlety here than in that one. Still, the '
-                          "voice-overs by Damon's character provide the "
-                          'ramblings of a madman - an ADD, embezzling madman.\n'
-                          '\n'
-                          'There is so much comedy here that it is easy to '
-                          'forget what heinous crimes the senior management of '
-                          'this company actually committed - and how arrogant '
-                          'to think they could get away with it. This again '
-                          'shows that many in the corporate world are the '
-                          'equals of even the most corrupt politicians. Power '
-                          'and Greed are all-consuming.\n'
-                          '\n'
-                          "While, I don't know the details of the real story, "
-                          "it was interesting to watch Whitacre's "
-                          'interacting/playing with the FBI agents (Scott '
-                          'Bacula and Joel McHale). They want to believe him '
-                          'and are actually crushed when his game is exposed.\n'
-                          '\n'
-                          'A real Soderbergh touch is the casting of both '
-                          'Smothers Brothers in unrelated roles. Very nice. It '
-                          'is very difficult for me to believe that someone as '
-                          'intelligent and shrewd as Whitacre could actually '
-                          'be so, well, goofy. But it does add an '
-                          'entertainment element to the film. I will say it is '
-                          'not at the level of far superior "The Insider" or '
-                          'even "Catch Me if You Can", but it is quite '
-                          'watchable.',
+                          'Watch it, laugh at it, and remember: this is a true '
+                          'story about why most of the people in America are '
+                          'poor and how their losses are paying for the riches '
+                          'of companies which have decided that "the customer '
+                          'is the enemy".',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The U.S. government decides to go after an '

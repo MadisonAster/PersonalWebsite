@@ -17,7 +17,7 @@
            {'@type': 'Person', 'name': 'Ivo Nandi', 'url': '/name/nm2166477/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 80212,
+                     'ratingCount': 80222,
                      'ratingValue': '6.4',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -50,18 +50,21 @@
              'spreading',
  'name': 'A Cure for Wellness',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'roger-stark'},
-            'dateCreated': '2020-04-16',
+            'author': {'@type': 'Person', 'name': 'jeremywright-34358'},
+            'dateCreated': '2019-11-22',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt4731136/'},
-            'name': "Ivanka's fave Film",
-            'reviewBody': 'Ivanka bought a DVD copy of this film and gave it '
-                          'to daddy as a present. It was a token of her love '
-                          'for daddy-o.',
+            'name': 'Fun To Watch',
+            'reviewBody': "I don't know if the writer deliberately set out to "
+                          'make references to Donald Trump and Ivanka Trump, '
+                          'but he sure did gross me out. Having said that, the '
+                          'girl was pretty and his father was evil incarnate. '
+                          'The scenery was nice to look out and you will feel '
+                          'sorry for the deer.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '7',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': "Watch the Super Bowl Spot for 'A Cure for "

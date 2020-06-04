@@ -21,7 +21,7 @@
             'url': '/name/nm0243806/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 72090,
+                     'ratingCount': 72123,
                      'ratingValue': '7.5',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -45,52 +45,72 @@
              'convict,officer',
  'name': 'Fruitvale Station',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'meeza'},
-            'dateCreated': '2013-09-20',
+            'author': {'@type': 'Person', 'name': 'generationfilm'},
+            'dateCreated': '2013-06-18',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2334649/'},
-            'name': "Jordan's champion performance carries the film!",
-            'reviewBody': '"Fruitvale Station" is not the feel-good movie of '
-                          'the year. Nevertheless, I think you should stop at '
-                          'this station to witness the impact that this movie '
-                          'throws at you. The film is based on the true story '
-                          'of Oscar Grant, 22-year-old Bay Area resident, who '
-                          'crosses paths with friends, enemies, family, and '
-                          'strangers on the last day of 2008. Grant was '
-                          'accidentally killed by a police officer at the '
-                          'Fruitvale BART station. The officer was part of a '
-                          'group of policemen who held Grant and his friends '
-                          'at the station for fighting with others in a train. '
-                          'This unfortunate event did not get the headlines '
-                          'that the Trayvon Martin case did, but was just as '
-                          'sad because a young life was taken away way too '
-                          'soon. Writer-Director Ryan Coogler orchestrates '
-                          '"Fruitvale Station" primarily on Grant\'s last day '
-                          'with his family, girlfriend, and friends; instead '
-                          'of just simply taking the "plight for justice" '
-                          'road. Consequently, that gives the movie more depth '
-                          "and authenticity. Coogler's scribe of the picture "
-                          'was not as impressive as his direction but still '
-                          'gets the word out on doing what is right not just '
-                          "for one's own sake but for their loves ones; and of "
-                          'course, he also disseminates the message on the '
-                          "unjustified death of Grant. Michael B. Jordan's "
-                          'starring performance as Grant was a slam dunk; and '
-                          'let me tell you it was no lay-up due to the nature '
-                          'of the complex character he had to portray. Jordan '
-                          'completely disappeared into the role. There were '
-                          'also some impressive supporting turns from '
-                          "Oscar-winner Ocatavia Spencer as Grant's mother "
-                          'Wanda, and Melonie Diaz as his girlfriend Sophina. '
-                          '"Fruitvale Station" does get overdramatic at times, '
-                          'but it does have justifiable reason to do it. So '
-                          'you might want to take a hanky, but I think this '
-                          'movie is one that should be on your track to '
-                          'witness. ***** Excellent',
+            'name': 'Fruitvale Station- A Solid Debut Feature Slightly '
+                    'Debilitated by an Idealized Narrative but Effective in '
+                    'Minimalist Technical Choices and Careful Pacing',
+            'reviewBody': 'Seldom do we remember in our desensitized 24-hour '
+                          'news society that behind every headline, every '
+                          'momentary tragedy, and every affected victim '
+                          "there's always a personable human story that "
+                          'reveals the true layers of heartbreak once exposed '
+                          'for all to grasp, understand, and mourn. One '
+                          'example in particular of modern headline tragedy '
+                          'was the senseless,unwarranted shooting of 22-year '
+                          'old Oscar Grant by police officers at the Fruitvale '
+                          'BART station that reinvigorated a debate on '
+                          'prejudice and a call for civil rights that '
+                          'unfortunately lead to some violent protests in the '
+                          'aftermath. This heated headline event is the '
+                          "subject of 26-year old filmmaker Ryan Coogler's "
+                          'debut feature entitled Fruitvale Station that is a '
+                          'relatively solid first film depicting the '
+                          'importance of family, the rarity of second chances, '
+                          'and the difficulty of responsibility leading up the '
+                          'inevitable heartbreaking event that is heavily '
+                          'dependent on performances rather than strong '
+                          "narrative substance. What's meant by the word solid "
+                          "is that this isn't an immaculate film without flaws "
+                          'and deserving of infinite praise because it '
+                          'contains a great deal of manipulative narrative '
+                          'tricks, an overly positive dramatization of its '
+                          'protagonist, and absolutely zero new insight on the '
+                          'societal issues involved or a genuine message to '
+                          'take away beyond its sad and rather plain '
+                          'recreation of actual events. Instead of delving '
+                          'deep into the obvious flaws of Oscar Grant, ranging '
+                          'from an ill temper, relationship cheating, and drug '
+                          'peddling, Coogler sets out to overly forgive these '
+                          'foibles making Grant a martyr instead of a palpable '
+                          'human being representing how no one deserves his '
+                          'tragic fate no matter their past, present, or '
+                          'potential future. However, Fruitvale Station does '
+                          'demonstrate that strong acting performances coupled '
+                          'with a careful execution of technical choices from '
+                          'a new energetic developing talent in Ryan Coogler '
+                          'can make an effective and emotional film. Most of '
+                          'the positives within the film are located in the '
+                          'light dramatic touch of the hand-held camera work, '
+                          'the intimate settings, and the strong acting, '
+                          'especially a star turning performance from Michael '
+                          'B. Jordan who carries the tragic weight of the film '
+                          "on his shoulders. Though Coogler's debut feature "
+                          "might possess an idealized portrayal of his film's "
+                          'subject Oscar Grant as well as some blanketed '
+                          'assumptions on justice there is a great deal of '
+                          'admirable qualities that makes it a dramatically '
+                          'riveting and socially tragic depiction of true '
+                          'events.\n'
+                          '\n'
+                          'Read more: http://wp.me/py8op-zQ; More reviews: '
+                          'Generationfilm.net',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '8',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'The true story of Oscar, a 22-year-old Bay Area '

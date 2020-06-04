@@ -21,7 +21,7 @@
             'url': '/name/nm3733525/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 10154,
+                     'ratingCount': 10155,
                      'ratingValue': '8.3',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -37,44 +37,41 @@
  'keywords': 'robot,horse costume,skeleton,awkward pause,scotsman abroad',
  'name': 'The Late Late Show with Craig Ferguson',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'alexkolokotronis'},
-            'dateCreated': '2008-07-16',
+            'author': {'@type': 'Person', 'name': 'dshenderson'},
+            'dateCreated': '2005-04-19',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0437729/'},
-            'name': 'A Nice Breath Of Fresh Air',
-            'reviewBody': 'At least when it comes to network TV that is '
-                          'exactly what he is. He is so unlike the other four '
-                          'guys that have late night talk shows. Something '
-                          'feels different with, you actually get the sense he '
-                          'is having fun and in a way that rubs off on the '
-                          'viewer. He does not get the most famous noticeable '
-                          'guests but he always makes the most of having them. '
-                          'Usually the worst part of the late night talk shows '
-                          'is when they get to the actual talking. Craig seems '
-                          'to make it the best part of his show. He is very '
-                          'funny when he is interacting with his guests. In '
-                          'the case of Jay Leno, David Letterman, Jimmy Kimmel '
-                          "and Conan O'Brien they seem to make it the worst "
-                          'part of their shows. His guests have fun, he has '
-                          'fun and the viewer has fun rather than everyone '
-                          'falling asleep. They do not seem to enjoy having '
-                          'their guests, Craig does. With his show there is '
-                          'more of a positive energy than their is with the '
-                          'other four. One thing that he is not is cynical. He '
-                          'does not take too many cheap shots at people and is '
-                          'still the wildest and most outrageous of the late '
-                          'night talk show hosts. It still is network TV '
-                          'though so there is a limit of what you are going to '
-                          'see but with Craig who cares which is a real '
-                          'testament to his abilities. At first he looked as '
-                          'if he was going to burn out with his comedic style '
-                          'being used on a network talk show but clearly he '
-                          'has not and I hope he stays on the air for a long, '
-                          'long time. It would be nice to see him uncensored '
-                          'for once though. The only thing I can really blame '
-                          'him for is for not allowing me to sleep because he '
-                          'is so hilarious.',
+            'name': 'Fergy is keeping me up nights!',
+            'reviewBody': 'I must agree with the previous comment by M.C. '
+                          'Brennan, "savvy viewers will find Craig Ferguson '
+                          'hard to resist." That has been the case with my '
+                          'household. My husband and I rarely use to watch '
+                          'late night TV after the Jay/Dave time slot, but we '
+                          "can't get enough of Craig Ferguson. He can be "
+                          'variously described as charming, witty, '
+                          'off-the-cuff, extremely flexible (I love his '
+                          "character work in the show's hilarious sketches), "
+                          'self-effacing, silly, and down-right adorable! '
+                          'However Worldwide Pants went about choosing him, '
+                          'they knew what they were doing. It was pretty bold, '
+                          'putting an immigrant in such a high-profile '
+                          "position. I don't mean that in a derogatory way - "
+                          'it was a smart,gutsy move. Craig brings a new '
+                          'point-of-view to jokes about the news and other '
+                          'bits, alternating between telling things like any '
+                          'American would, since he has lived here for quite a '
+                          'while, and telling things from the perspective of '
+                          'an outsider,giving the viewers a sort of '
+                          'out-of-body experience. Yet he manages to never be '
+                          "un-American. He's towing the line rather well. And "
+                          'Craig is by far the sexiest, best-looking late '
+                          "night host there is now, period. I'm so glad that "
+                          'the comments written about Craig and The Late, Late '
+                          'Show in early January are still holding true now in '
+                          'late April. We can relax in the knowledge that he '
+                          'will be with us five nights a week for a long time '
+                          'to come.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

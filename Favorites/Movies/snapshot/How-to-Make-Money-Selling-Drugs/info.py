@@ -44,33 +44,31 @@
  'keywords': 'drugs,money,drug dealer,pot,cannabis',
  'name': 'How to Make Money Selling Drugs',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'daisydell692'},
-            'dateCreated': '2012-10-29',
+            'author': {'@type': 'Person', 'name': 'adamdestin1987'},
+            'dateCreated': '2012-11-30',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1276962/'},
-            'name': 'A Clear Message and Delivery',
-            'reviewBody': 'How to Make Money Selling Drugs is an entertaining '
-                          'and fast paced ride that delivers a clear message. '
-                          'Whether you believe in decriminalizing drugs or '
-                          'not, the film gives nuggets of perspective that '
-                          'allow the audience to go on a path of discovery of '
-                          "their own, while still maintaining the film's own "
-                          'voice. The actual delivery of the message was the '
-                          'highlight for me. The film follows people from all '
-                          'walks of life - giving the audience a well-rounded, '
-                          'well researched and well conceived view. I find '
-                          'that many documentaries, especially on such '
-                          'controversial topics, can come out one-sided, but '
-                          'this is a true exception where you never feel '
-                          'forced to feel a certain way, but come out forming '
-                          "your own opinions that somehow mesh with the film's "
-                          'core values. \n'
+            'name': 'Ridiculously Good in Every Way',
+            'reviewBody': 'I can sum up this movie in three words: awesome, '
+                          'original and powerful. How to make money selling '
+                          'drugs is everything that any good documentary or '
+                          'movie, in general, should be. \n'
                           '\n'
-                          'So, in sum, brilliant!',
+                          'The creativity and originality of this movie stood '
+                          'out to me right away and all throughout the film. '
+                          'In a world where everything is re-make or '
+                          'recreation of something from the past, it was '
+                          'totally refreshing and fascinating to finally see a '
+                          'film that brings creativity to the forefront. \n'
+                          '\n'
+                          'The talent was phenomenal and interesting from '
+                          'start to finish. It was also brilliantly shot and '
+                          'executed. I was blown away by this documentary and '
+                          'cannot say enough good things.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'A shockingly candid examination of how a street '

@@ -31,18 +31,35 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMWVmOWFjNmYtYmIzMy00ZTM0LWE2MGMtNDRjMDNmMTY4NzZhXkEyXkFqcGdeQXVyMjIwMTk3OTM@._V1_.jpg',
  'name': 'Party Legends',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'nina-74510'},
-            'dateCreated': '2018-12-08',
+            'author': {'@type': 'Person', 'name': 'lolicptr'},
+            'dateCreated': '2019-12-30',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5849156/'},
-            'name': 'An artistic spin on "Drunk History"',
-            'reviewBody': 'I think the only thing that would keep this from '
-                          "being a 10 is that i'm Not a fan of every art style "
-                          "or the story doesn't do it for me. Otherwise, it's "
-                          'a fun, trippy watch.',
+            'name': 'just binged both seasons ..',
+            'reviewBody': 'I think there needs to be more episodes of this.\n'
+                          '\n'
+                          "Although I didn't know some of the artists because "
+                          'they were out of my listening/watching genres or '
+                          "just because I'm 41, the tellings were great and "
+                          "nothing I'd ever heard before. The new faces and "
+                          'the thoughtfulness of the director/editor was '
+                          'obvious, remaining to catch moments that were in a '
+                          'kind of elegant contrast to the often crude and '
+                          'totally crazy stories.\n'
+                          '\n'
+                          'It lost a star for me because the opening theme '
+                          'felt a little MTV and the cliffhanger style a '
+                          "little TLC .. also because I didn't know some "
+                          'people, their professions - their band names .. it '
+                          'might be nice to hear this stuff or read it '
+                          'onscreen, maybe for them to talk about their '
+                          "'claims to fame' before cannonballing into their "
+                          'party lore.\n'
+                          '\n'
+                          'Otherwise, awesome. Keep on keeping on.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'url': '/title/tt5849156/'}

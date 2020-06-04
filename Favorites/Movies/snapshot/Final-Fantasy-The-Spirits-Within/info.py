@@ -64,55 +64,60 @@
              'fire,scientist',
  'name': 'Final Fantasy: The Spirits Within',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'ndavidg'},
-            'dateCreated': '2004-10-27',
+            'author': {'@type': 'Person', 'name': 'a2zol'},
+            'dateCreated': '2005-05-11',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0173840/'},
-            'name': 'Good Film',
-            'reviewBody': "I don't know why nearly all the critics bashed this "
-                          'film. I thought it was great! The main reasons '
-                          "people have dogged it is because they don't follow "
-                          "the plot and they don't think the animation looks "
-                          'real enough.\n'
+            'name': 'Not bad at all....',
+            'reviewBody': 'Wow, I guess there is SOME hope for video game '
+                          'adaptations. While not a direct translation of the '
+                          'Final Fantasy video game franchise, it is written '
+                          'by the series creator, whose name I cannot '
+                          'remember. On top of that, his video game company '
+                          'branched off into a film company (Square Pictures) '
+                          "just to go and make this movie. At least one can't "
+                          'complain about the handling of the material.\n'
                           '\n'
-                          'I did not have any problem following the plot. The '
-                          'second word in "Final Fantasy" is a description of '
-                          'the type of movie this is. It deals with the '
-                          'supernatural. The spirits, or "essences" of earth '
-                          'are gathered to fight the alien gaia, as the arms '
-                          'and weapons used against the alien spirits are '
-                          'ineffective and in fact destructive.\n'
+                          'But the big question here is: Do these guys know '
+                          'anything about film-making? Maybe. Maybe not. Truth '
+                          "be told, they don't need to. The beauty of this "
+                          'movie is that it does something new. It blends the '
+                          'world of video game technology and storytelling '
+                          'with the art of film-making. It cuts corners on '
+                          'film-making, but its uniqueness makes up for it. I '
+                          "will admit that I'm a gamer, so I appreciate what "
+                          'was attempted here. What we get out of this movie '
+                          'is an impressive display of what animators and '
+                          'video game technology can do together. I know there '
+                          'are other CGI movies out there, but, unless I am '
+                          'mistaken, they have all followed the over-the-top '
+                          'cartoony path. This is where Final Fantasy stands '
+                          'out. The animation is swelling with reality. From a '
+                          'technical standpoint, this is a gem, and a reason '
+                          'at the least to give it a rent.\n'
                           '\n'
-                          'This movie introduced me to the concept of the '
-                          'gaia, which I believe is a great metaphor for '
-                          'understanding how all life on earth shares a common '
-                          "spirit. I don't truly believe there is a gaia, and "
-                          "you don't need to either to enjoy this film. But "
-                          'perhaps some found that this conflicted too much '
-                          'with their beliefs.\n'
+                          'The storyline is subject to much scrutiny though. '
+                          "It's not for everybody. This IS a film of Japanese "
+                          'origin, so anime fans will be right at home with '
+                          'it. For the mainstream audience, however, that '
+                          'remains to be decided. Although the script was '
+                          'revised to suit North American localization (and '
+                          'done very well might I add), it still is very '
+                          'Japanese in style, albeit with a bit less '
+                          "surrealism. It's fast-paced and a bit abstract at "
+                          'times, but it is coherent.\n'
                           '\n'
-                          'Now as far as the animation, this is the most '
-                          'realistic portrayal of human characters to date '
-                          'generated by a computer. If you watch some anime '
-                          'films, where there is a lot of action, they will '
-                          'show a frame for a long time with only the mouths '
-                          'moving. People enjoy these animations. Then why is '
-                          'this movie criticized so heavily for not looking '
-                          "real enough? It's rather ironic. You should watch "
-                          'this movie expecting an animation, not a '
-                          'full-feature film with real actors.\n'
-                          '\n'
-                          'One explanation for this reaction is that, like '
-                          'figures in a wax museum, characters that look too '
-                          'real but are not creep us out because they remind '
-                          'us of dead people. But perhaps this is fitting for '
-                          'this movie, because the soul of the earth is sick '
-                          'and life on the planet is reaching its end.\n'
-                          '\n'
-                          'In any case, I enjoyed this movie, and I liked the '
-                          'message. If you like animation and enjoy a good '
-                          'fantasy story, you will like this movie.'},
+                          'In the end, I would say that one should rent this '
+                          'just to see the technological achievement at the '
+                          "least. It's safe to say that all would agree with "
+                          'that point. Depending on the person, you may get '
+                          "into the storyline as well. Either way, you'll walk "
+                          'away with at least part of you satisfied.',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '7',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Theatrical Trailer from Columbia Tristar',
              'embedUrl': '/video/imdb/vi715587865',

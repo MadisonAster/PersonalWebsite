@@ -21,7 +21,7 @@
             'url': '/name/nm0001975/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 50221,
+                     'ratingCount': 50226,
                      'ratingValue': '6.8',
                      'worstRating': '1.0'},
  'contentRating': 'PG',
@@ -48,55 +48,71 @@
  'keywords': 'cat,biosphere,dystopia,nursery,ageism',
  'name': "Logan's Run",
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'danger-mouse'},
-            'dateCreated': '2003-05-02',
+            'author': {'@type': 'Person', 'name': 'ma-cortes'},
+            'dateCreated': '2012-03-05',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0074812/'},
-            'name': "Somehow, I'm not sure how, but this is a great flick!",
-            'reviewBody': "Okay, it's got a hoaky plot with lots of holes in "
-                          'it, special effects made from matchbox sets, some '
-                          'mediocre acting (Farrah Fawcett?!?) and dialogue, a '
-                          'big ole "this was made in the 70\'s" stamp all over '
-                          'it, and I think the editing, direction and sound '
-                          'track are lousy too.  And yet somehow it all '
-                          "works.  I love this movie! Maybe it's the campy "
-                          'cornball that gets me every time.  I dunno.  Yet by '
-                          'the end I feel uplifted and even touched.  What a '
-                          "great scene with the timid girl touching Ustinov's "
-                          'beard at the end with Logan and Jessica in each '
-                          "other's arms looking on.\n"
+            'name': 'Amusing and outlandish Sci-Fi about a domed city whose  '
+                    'inhabitants are obligated to die at 30',
+            'reviewBody': 'Popular and lavish Sci-Fi with some nice effects '
+                          'sequences with imaginative sets about a futuristic '
+                          'society where young people are allowed to live an '
+                          'unending pleasure until the age of thirty (though '
+                          'Michael York, Richard Jordan and Michael Anderson '
+                          'Jr. were all over 30 when they made the film) that '
+                          'are compelled to die , adapted from a novel by '
+                          'William F Nolan and George Clayton Jackson . 2274 '
+                          'some type of holocaust has decimated the earth, and '
+                          'the survivors sealed themselves into a '
+                          'computer-controlled bubble . To maintain the '
+                          'population balance, the computers that run the city '
+                          'have decreed that all people have to die at 30. '
+                          'This system is enforced by "sandmen" (Michael York '
+                          ', Richard Jordan) : black-clad cop operatives who '
+                          'terminate hunting "runners" ,those who try to live '
+                          'beyond 30. Logan, a sandman, whose job is to hunt '
+                          'fugitives , is sent on an assignment to find '
+                          '"sanctuary," which is a code- word used by the '
+                          'master computer to describe what it thinks is a '
+                          'place to which runners have been getting away. Then '
+                          'Logan nearing the limit searches desperately for a '
+                          'way to avoid mandatory extermination . As a day '
+                          'outside the bubble Logan along with Jessica (Jenny '
+                          'Agutter) discover new emotions .\n'
                           '\n'
-                          'While the acting is average (or perhaps its the '
-                          'lousy script) there are exceptions, thankfully '
-                          'mostly among the main cast.  Richard Jordan is just '
-                          'great as the relentless and unremorseful sandman.  '
-                          'And Ustinov is a lot of fun as the kooky old man.  '
-                          "Michael York, who've I've always liked, is "
-                          "servicable as our hero (thankfully they don't ask "
-                          'him to stretch his acting skills too much here). '
-                          'But without a doubt the real jewel is Jenny Agutter '
-                          "as Jessica-6.  I can't recall a part more perfectly "
-                          'cast.  Ms. Agutter is the epitome of beauty, youth '
-                          'and doe-eyed innocence.  And her underlying '
-                          'sensuality is impossible to miss in every scene she '
-                          "is in.  And as if that weren't enough she can act "
-                          'to boot!\n'
-                          '\n'
-                          "Of course there's a lot that I don't like about the "
-                          "movie, it's quite easy to pick apart.  But again, I "
-                          'don\'t know how, "Logan\'s Run" is much better than '
-                          'the sum of its parts.\n'
-                          '\n'
-                          'I hope they get the rumored remake off the ground, '
-                          "there's some good underlying sci-fi to be explored "
-                          'here and with a tightened up script, upgraded '
-                          'effects, better direction and editing you could '
-                          "have *real* winner. I just don't think they'll ever "
-                          'match the original casting job for Jessica-6.',
+                          'This classic Sci-fi contains suspense , thrills , '
+                          'action , breathtaking production design and is '
+                          'pretty entertaining though with some feeble '
+                          'stereotypes . Impressive big-budgeted production by '
+                          'Saul David enhanced immeasurably by an enjoyable '
+                          'cast as Michael York , Jenny Agutter , Farrah '
+                          'Fawcett and special mention to great Peter Ustinov '
+                          '. Roscoe Lee Browne both voiced and performed Box '
+                          'the robot on-set. The unwieldy costume made it '
+                          'impossible for Browne to right himself if he fell '
+                          'over. Colorful and spectacular cinematography in '
+                          'Todd-Ao 35 by Ernest Laszlo . Rousing and evocative '
+                          'musical score by the maestro Jerry Goldsmith . '
+                          'Jerry uses a full orchestra with no electronic '
+                          'instruments when the action is outside of the city. '
+                          'When inside the city, his orchestra consists solely '
+                          'of strings, piano, and electronic instruments , the '
+                          'music at the beginning of the film during the '
+                          'credits does add the electronic instruments with '
+                          'the full orchestra though. Dated but effective '
+                          'miniatures about a domed city near Washington, D.C. '
+                          'It earned a special Academy Award for visual '
+                          'effects by Glen Robinson . The motion picture is '
+                          'originally directed by Michael Anderson . Rating : '
+                          'PG (Parents guide) for some nudism and violence. '
+                          'Good but overlong and some corny moments, '
+                          'worthwhile watching . Followed by a brief TV series '
+                          'with Gregory Harrison , Heather Menzies and Donald '
+                          'Moffat',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '7',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Official Trailer',

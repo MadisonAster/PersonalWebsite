@@ -21,7 +21,7 @@
             'url': '/name/nm0001416/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 461333,
+                     'ratingCount': 461399,
                      'ratingValue': '7.7',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -48,24 +48,27 @@
  'keywords': 'hypnosis,neurosurgeon,abduction,racism,brain surgery',
  'name': 'Get Out',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'sly-64836'},
-            'dateCreated': '2017-02-25',
+            'author': {'@type': 'Person', 'name': 'dre64-2'},
+            'dateCreated': '2017-05-12',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt5052448/'},
-            'name': 'Cleverly written with an eerie twist',
-            'reviewBody': 'This movie is appropriately in a genre Mr. Jordan '
-                          'Peele has christened, "Social Thriller". The movie '
-                          'creates a very unsettling feeling from the '
-                          'beginning that slowly builds to a crescendo, that '
-                          'forces the viewer to see prejudices head on. When '
-                          "all is said and done, you now have kind of a bird's "
-                          'eye view of what is wrong with society. But besides '
-                          'that, it hints a Hitchcock-type of thrill that is '
-                          'sure to deliver Goosebumps. A HUGE congratulations '
-                          'to Jordan Peele for hitting a HOME RUN, his first '
-                          'time up to bat. Looking forward to future projects '
-                          'from him. GO SEE, GET OUT. 😀😀',
+            'name': 'Best debut from a first time director in years',
+            'reviewBody': "Let's clear the air about this film. It's not a "
+                          "horror film. It's not a comedy. What it is, is a "
+                          'suspenseful thriller of the highest level, worthy '
+                          'to be compared to Hitchcock caliber. The humor is '
+                          'there, along with a few horror scenes, but not '
+                          'enough to overshadow the main theme of the story. '
+                          'The film hits all cylinders with almost no '
+                          'misfires. As far as complaints that the film is '
+                          'racist, it is not. It would work just as well with '
+                          'an all-black or all-white cast. Those complaints '
+                          'are from people who are uncomfortable with black '
+                          'people or interracial relationships and are letting '
+                          'it distract them from the narrative of the film. I '
+                          'most certainly hope that it reaches the wider '
+                          'audience that it so richly deserves.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '9',

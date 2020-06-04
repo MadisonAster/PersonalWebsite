@@ -48,55 +48,71 @@
              'travel,world war two',
  'name': 'Slaughterhouse-Five',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'lot49'},
-            'dateCreated': '2001-12-29',
+            'author': {'@type': 'Person', 'name': 'mstomaso'},
+            'dateCreated': '2007-06-14',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0069280/'},
-            'name': 'So it goes',
-            'reviewBody': 'Kurt Vonnegut was more than worthy of the National '
-                          'Book Award that he received for the novel '
-                          'Slaughterhouse Five, but his humor and literary '
-                          'expertise are often lost in screenplays.\n'
+            'name': "Vonnegut's Classic Through Roy Hill's Lens",
+            'reviewBody': 'The film Slaughterhouse 5 is a brilliantly '
+                          'portrayed interpretation of a great but typically '
+                          'multilinear novel by science fiction author Kurt '
+                          'Vonnegut. With all due respect to the literary '
+                          'critics, sci fi really is what Vonnegut most often '
+                          'wrote - whether or not it is viewed as allegory or '
+                          "even 'serious literature'. As such, it was not "
+                          'really made to convey the same messages,nor even '
+                          'the aesthetics of the book, but rather to convey '
+                          "the director's (and others on the creative team) "
+                          'impressions of the book.\n'
                           '\n'
-                          'This flawed movie was a cult classic since its '
-                          'release because legions of Vonnegut fans were so '
-                          'fond of the novel that they could overlook the '
-                          "film's flaws. This is probably the only Vonnegut "
-                          'novel to make the transition to the screen as a '
-                          'movie that more than a handful of people are '
-                          'willing to watch. And they watch it again and '
-                          'again. I am reminded of Voltaire lovers who enjoy '
-                          "Leonard Bernstein's Candide. This seems to be the "
-                          'best of all possible Vonnegut movies.\n'
+                          "The book is also brilliant, but none of Vonnegut's "
+                          'work is easily adapted to the medium of film. Not '
+                          'quite the task Cronenberg took on when he directed '
+                          "Burrough's Naked Lunch, but very similar in "
+                          'method.\n'
                           '\n'
-                          'There is a wealth of trivia associated with the '
-                          'cast. Michael Sacks disappeared into obscurity. '
-                          'Sharon Gans joined a community theater company that '
-                          'seemed more like a cult. Holly Near became a '
-                          'feminist folksinger. Valerie Perrine would later '
-                          'give a great performance as Honey Bruce in Bob '
-                          "Fosse's Lenny. Perry King and Ron Liebman became "
-                          'minor stars.\n'
+                          'S-5 exposes us to the life of Billy Pilgrim '
+                          '(Michael Sacks) and his many loves (his dog spot, '
+                          'his wife played by Holly Near and an actress played '
+                          'by Valerie Perrine), as he either blacks out and '
+                          'travels into the deep recesses of his memory '
+                          'experiencing the delusion of time travel or (as '
+                          'indicated by his occasional leaps forward in time), '
+                          "he actually has become 'unstuck in time.' Between "
+                          'trips back to Dresden during its WWII bombing and '
+                          'trips forward to the planet Tralfamador, it seems '
+                          'that Billy is constantly tripping. Yet he manages '
+                          'to build a successful and very normal American life '
+                          'despite his bizarre and uncontrollable time-travel '
+                          'habit. \n'
                           '\n'
-                          'The story is largely allegorical. It is not '
-                          'science-fiction. Vonnegut is coping with the trauma '
-                          'of World War II, particularly the horrors he '
-                          'witnessed during the firebombing of Dresden. Billy '
-                          "Pilgrim's emotional numbness and alientation are "
-                          'characteristic of combat fatigue or post traumatic '
-                          'stress. Despite the lack of a chronological plot, '
-                          "Billy Pilgrim's arc is linear. \n"
+                          'The film illustrates the non-linear manner in which '
+                          'the book is written by skipping from time to time '
+                          'in a seemingly random manner, but it manages to do '
+                          'so without losing focus on Pilgrim, who is, in fact '
+                          'always living in the present regardless of what '
+                          'time he happens to be experiencing. Fantastic '
+                          'directoral method!\n'
                           '\n'
-                          'To the uninitiated, being "unstuck in time" can be '
-                          "confusing. It's sort of like one's first encounter "
-                          "with hypertext. Perhaps, that's why the movie is "
-                          'better on the second or third viewing. The key to '
-                          'enjoying Slaughterhouse Five is to focus on the '
-                          'best scenes and performances -- much like Billy '
-                          "Pilgrim's advice on living.",
+                          'The film makes a lot of subtle, simple and very '
+                          'good points by making Billy - a quiet simple guy '
+                          'with an extraordinary set of circumstances in his '
+                          'life - a true hero simply because he is relatively '
+                          'nice, somewhat aloof, happy, and quite normal. '
+                          "Sacks' performance is spot-on.\n"
+                          '\n'
+                          'This film is beautifully photographed, very well '
+                          'paced, perfectly directed and edited. The acting is '
+                          'all quite good, and comes from a well appointed '
+                          'cast mostly consisting of character actors. I was '
+                          "particularly impressed with Eugene Roche's "
+                          'excellent portrayal of Edgar Derby.\n'
+                          '\n'
+                          'Highly recommended for the art-house crowd and '
+                          'friends of intelligent sci fi.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '8',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'url': '/title/tt0069280/'}

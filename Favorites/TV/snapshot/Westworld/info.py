@@ -19,7 +19,7 @@
             'url': '/name/nm0628601/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 400946,
+                     'ratingCount': 401040,
                      'ratingValue': '8.7',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -41,17 +41,34 @@
  'keywords': 'artificial intelligence,robot,android,based on film,theme park',
  'name': 'Westworld',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'fabianschulz'},
-            'dateCreated': '2020-04-19',
+            'author': {'@type': 'Person', 'name': 'letshaveagoodtm'},
+            'dateCreated': '2016-10-29',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0475784/'},
-            'name': 'The first season is among the best of television',
-            'reviewBody': 'Just watch the first season and skip the rest. '
-                          'Story is completed after the first ten episodes.',
+            'name': 'Outstanding dialog, acting and story line',
+            'reviewBody': 'Pay attention, this series explores some very '
+                          'subtle story lines. I was extremely impressed when '
+                          'they introduced the bicameral mind concept when '
+                          'considering consciousness. That is one of the more '
+                          'important concepts when considering the origins of '
+                          'consciousness. I hope they explore this idea in '
+                          'greater detail and especially its implications '
+                          'related to physics. It is rare indeed to have a '
+                          'fictional work undertake such a complex topic '
+                          'without trivializing it. I definitely have to '
+                          'compliment the writers for undertaking such a '
+                          'complex topic and I hope they continue to explore '
+                          'the implications.\n'
+                          '\n'
+                          'Again, IMDb thinks I should add additional lines to '
+                          'my review which is ridiculous. I have offered a '
+                          'clear and concise review and they want an arbitrary '
+                          'number of lines, what kind of idiot makes this a '
+                          'requirement?',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '6',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'We all have our role to play. New episodes of '

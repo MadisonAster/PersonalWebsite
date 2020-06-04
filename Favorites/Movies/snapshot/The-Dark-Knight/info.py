@@ -21,7 +21,7 @@
             'url': '/name/nm0000323/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 2214786,
+                     'ratingCount': 2215010,
                      'ratingValue': '9.0',
                      'worstRating': '1.0'},
  'contentRating': 'PG-13',
@@ -56,42 +56,59 @@
  'keywords': 'dc comics,joker,psychopath,clown,criminal mastermind',
  'name': 'The Dark Knight',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'Impartial-Critic'},
-            'dateCreated': '2020-02-20',
+            'author': {'@type': 'Person', 'name': 'straightblaster'},
+            'dateCreated': '2008-07-09',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0468569/'},
-            'name': 'The Most Realistic True to Heart Movie Based on Comic '
-                    'Books.',
-            'reviewBody': 'A brilliant tense movie from the beginning to the '
-                          'end in which tells the story of the rising new '
-                          'menace in Gotham city known only as the Joker and '
-                          'how the Dark Knight has to reach his limits trying '
-                          'to control the havoc he breaks in Gotham city.\n'
+            'name': 'Film surpasses the hype',
+            'reviewBody': "We've been subjected to enormous amounts of hype "
+                          "and marketing for the Dark Knight. We've seen Joker "
+                          'scavenger hunts and one of the largest viral '
+                          'campaigns in advertising history and it culminates '
+                          'with the actual release of the movie.\n'
                           '\n'
-                          'The movie is an extraordinary piece of the '
-                          'filmmaking art in all its aspects, the plot is '
-                          'carefully and smartly written as a intricately '
-                          'wrought canvas, the character development is very '
-                          'satisfying, the movie was shot well and nicely '
-                          'directed, the epic score fits the scenes and add up '
-                          'to the whole visual experience, the acting was '
-                          'intense by all cast where each fit their role '
-                          'perfectly, specially Heath Ledger who managed after '
-                          'all these years of having the Joker around in comic '
-                          'books, animations, TV series and even movies to '
-                          'literally bring this complicated character with all '
-                          'its twisted, brilliant, sadistic, dark and '
-                          'sometimes funny personality to live on the big '
-                          'screen. This is the last movie that Heath Ledger '
-                          'filmed completely and I believe some how he saved '
-                          'the best for last as he managed to put an '
-                          'outstanding final act of a realistic Joker and '
-                          'managed to put a smile on our faces before death '
-                          'brings down the curtains on his talent.',
+                          "Everything that's been said is pretty much spot on. "
+                          'This is the first time I can remember where a '
+                          'summer blockbuster film far surpasses the hype.\n'
+                          '\n'
+                          "For as much action as there is in this movie, it's "
+                          'the acting that makes it a great piece of work. '
+                          'Between all the punches, explosions and stunt-work '
+                          'is some great dialog work. All the actors have '
+                          'their moments.\n'
+                          '\n'
+                          "Bale's Batman is the definitive Batman because we "
+                          'see everything in this character finally on film. '
+                          'Martial arts skills, cunning, great tactical '
+                          'thinking, forensic application, technological '
+                          "genius to advance or improve Luscious Fox's "
+                          'inventions/technological breakthroughs, '
+                          'intimidating personality, and even a little '
+                          'swashbuckling. \n'
+                          '\n'
+                          'As for Heath, yes he gets credit for his '
+                          'performance as the Joker. But you have to also '
+                          'recognize Jonathan and Chris Nolan for the writing '
+                          "and treatment of the character. It's not just the "
+                          'fact that Ledger makes the Joker so menacing, but '
+                          'the Nolans have given the character this great '
+                          "manifesto that drives its actions. The Joker's "
+                          'stance on chaos, order, anarchy, the morality of '
+                          'the average modern human being make the character '
+                          'so interesting psychologically. The Nolans drafted '
+                          'a complex character and only a perfect performance '
+                          "could've pulled something like this off. That's how "
+                          "difficult of a role this was, and that's why "
+                          "Ledger's performance is so great.\n"
+                          '\n'
+                          "This isn't an action movie. It's a film that "
+                          'explores literary themes of the hero and villain, '
+                          'as well as order and anarchy. Yes, listen to the '
+                          "dialog because it's all in there.",
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '10',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for Blu-ray/DVD release of most recent '

@@ -21,7 +21,7 @@
             'url': '/name/nm4156901/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 23639,
+                     'ratingCount': 23646,
                      'ratingValue': '6.1',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -49,18 +49,32 @@
  'keywords': 'celebrity guest,road trip,interview,celebrity,comedian',
  'name': 'Between Two Ferns: The Movie',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'bestford'},
-            'dateCreated': '2019-09-28',
+            'author': {'@type': 'Person', 'name': 'Wililjam'},
+            'dateCreated': '2019-09-20',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt9398640/'},
-            'name': 'Okish',
-            'reviewBody': 'It was ok. Considering it has a lot of star cameos '
-                          'I would have expected more. Some LOL moments but '
-                          'not enough to consider it anymore than mediocre.',
+            'name': 'The best thing about the movie are the interviews....',
+            'reviewBody': '.... unfortunately, the movie lacks interviews. The '
+                          'plot of this movie is simple and kind of boring, '
+                          'not going to lie about that. What makes it '
+                          'watchable and funny are the interviews as well as '
+                          'the blooper reel at the end, other than that '
+                          "there's basically nothing funny about the movie.\n"
+                          '\n'
+                          'I thought the idea of making a Between Two Ferns '
+                          'movie was a good one, and it was, in theory. I just '
+                          'expected something else. I expected more interviews '
+                          'and The Office vibes, but this was just a mess.\n'
+                          '\n'
+                          "If you like the web-series, you'll probably enjoy "
+                          "the movie, maybe. I'd suggest just skipping through "
+                          'to the interviews, instead of watching the whole '
+                          'thing. 6/10, just because of the interviews and the '
+                          'blooper reel at the end.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '5',
+                             'ratingValue': '6',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Zach Galifianakis and his oddball crew take a '

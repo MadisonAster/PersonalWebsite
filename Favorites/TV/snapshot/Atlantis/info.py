@@ -44,39 +44,49 @@
              'character,pythagoras character',
  'name': 'Atlantis',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'elfinspace23'},
-            'dateCreated': '2013-12-27',
+            'author': {'@type': 'Person', 'name': 'patrycja-miljevic'},
+            'dateCreated': '2014-01-10',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2705602/'},
-            'name': 'Good light entertainment',
-            'reviewBody': 'Firstly, Anyone who criticizes this series for bad '
-                          'dialogue, says it is a bad portrayal of Greek '
-                          'Mythology, or says the characters are bad and '
-                          'unrealistic. JUST ARE NOT GETTING IT.\n'
+            'name': 'Stupid, but still fun',
+            'reviewBody': 'I decided to watch it because of Mark Addy, I '
+                          "didn't expect much, I suspected it would be as bad "
+                          'as "Robin Hood", and, well... Sometimes I come to '
+                          'think they spent all the funds for hiring him so '
+                          'they had nothing for special effects nor sets and '
+                          'locations.\n'
                           '\n'
-                          'This is really a fun parody of Greek Mythology, '
-                          'take Hercules (Mark Addy) who is an overweight '
-                          'womanising drunk who tells heroic stories of his '
-                          'deeds and they are all made up. Does this seriously '
-                          'sound like it should be taken seriously, I mean '
-                          'seriously (yes I used it three times) Mark Addy as '
-                          'Hercules.\n'
+                          'The mythology in the show is only a loose base of '
+                          'names, sometimes some motives, but if you want to '
+                          'learn about the Greek mythology - then not from '
+                          'here. All the characters are just thrown into one '
+                          'place and time, sometimes they have something in '
+                          "common with the mythology, usually it's only a "
+                          'name. But hey, these are not historic facts, they '
+                          'are myths, so I guess they based an adventure '
+                          "fairytale on other fairy tales, right? Don't get "
+                          "uptight about it, it's not about truth anyway.\n"
                           '\n'
-                          'Come on people enjoy the show for what it is and '
-                          'not what you expect it to be. To be honest I think '
-                          'the writers have really done a great job of making '
-                          'it such a light entertainment show, with touches of '
-                          'Mythology brought in for you to talk about.\n'
+                          "There's a lot of bad reviews here, I can see why, "
+                          "but most of these people haven't given the show a "
+                          'chance. The characters are actually not so idiotic '
+                          "as they seem, there's more to them than just the "
+                          'predictable stereotypes we get at the beginning, '
+                          'but they develop the way they are expected to '
+                          "develop, that's true. But in a world with movies "
+                          'like "Fast & Furious", "Twilight", countless crime '
+                          'series about good agents and bad terrorists, you '
+                          'really expect every medium budget production to be '
+                          'of great quality?\n'
                           '\n'
-                          'I personally will be watching vividly and hoping '
-                          'the series runs for a few series. 9 out of 10 for '
-                          'taking me into a new world, and wonder what '
-                          'adventures Jason, Pythagoras and Hercules will get '
-                          'up to next.',
+                          "To sum it all up, it's definitely not anywhere near "
+                          '"Game of Thrones" and such, but it\'s not so '
+                          'annoyingly stupid as "Robin Hood". It\'s just '
+                          'average, mindless entertainment.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '9',
+                             'ratingValue': '5',
                              'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Atlantis',

@@ -19,7 +19,7 @@
             'url': '/name/nm2090702/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 88495,
+                     'ratingCount': 88504,
                      'ratingValue': '8.2',
                      'worstRating': '1.0'},
  'contentRating': 'TV-MA',
@@ -42,35 +42,37 @@
  'keywords': 'pirate,bare breasts,pistol,musket,treasure',
  'name': 'Black Sails',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'bogunjackass'},
-            'dateCreated': '2014-04-23',
+            'author': {'@type': 'Person', 'name': 'RoswellAlien'},
+            'dateCreated': '2014-01-24',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt2375692/'},
-            'name': 'Underrated!',
-            'reviewBody': "OK, it has it's flaws, it has fictional characters "
-                          'united with the real ones, yeah, it is using the '
-                          '"pirates hype", but MY GOD, it is a good show! I '
-                          'hear people complaining about the pace, or about '
-                          'lack of fighting and plunder, but I assure you, it '
-                          'is not needed, for it has a lot of intrigues, '
-                          'unanswered questions, all sort of factors that will '
-                          'make you gasp on an episode per episode. The acting '
-                          'is exceptional, especially by Toby Stephens, who is '
-                          'unbelievable as Cpt. Flint, with such charisma that '
-                          'makes you root for him even dough he certainly '
-                          "doesn't deserve it. Female characters were a weak "
-                          'spot at the beginning, but that reeeeally changed '
-                          'quickly. I stumbled on this show while I was '
-                          'waiting for the new GoT season to start, and boy, '
-                          'was I surprised, I had more fun watching this than '
-                          'watered down episodes of GoT, that seem to go on '
-                          'forever, in one infinite circle. That was my '
-                          'favorite show, but after Breaking bad, True '
-                          'detective, and now this, the flaws are more than '
-                          'evident. "Black sails" are an absolute gem, I\'m '
-                          "sorry for the all hate it's getting from the "
-                          'critics/GoT/Spartacus fans...',
+            'name': 'Starz Really Outdid Themselves Here!',
+            'reviewBody': 'Wow this show is amazing! The opening scene is '
+                          "absolutely brilliant one of the best opening's I "
+                          'have ever seen in a show before. The whole pilot is '
+                          'done extremely well plenty of Action which they '
+                          'really did well here. Character development is done '
+                          'really really good without going overboard which I '
+                          'was surprised. The setting and locations were '
+                          'absolutely amazing! It is exactly what I would have '
+                          'pictured back in the days of the Pirates. Story '
+                          'might be a bit confusing for some though you will '
+                          "understand it in the end. Honestly I really can't "
+                          "praise this show enough it's one of the best Pilots "
+                          "I have ever seen but then again I don't watch much "
+                          'TV. I really look forward to seeing this series to '
+                          'go on. I will be watching this every Saturday '
+                          "night. I recommend this to everyone that's looking "
+                          'for a good show. Absolutely brilliant 10/10\n'
+                          '\n'
+                          '*Edit* 2/16/14- Just finished episode 4 and I am '
+                          'still enjoying this series a lot. I am really '
+                          'looking forward to the rest of the season.\n'
+                          '\n'
+                          "*Edit* 3/17/14- I rather enjoyed Black sail's "
+                          'season 1 a lot and I am looking forward to seeing '
+                          'the second season.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
                              'ratingValue': '10',

@@ -21,7 +21,7 @@
             'url': '/name/nm0000246/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 1759229,
+                     'ratingCount': 1759397,
                      'ratingValue': '8.9',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -51,71 +51,41 @@
  'keywords': 'nonlinear timeline,overdose,drug overdose,black comedy,bondage',
  'name': 'Pulp Fiction',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'gogoschka-1'},
-            'dateCreated': '2014-07-24',
+            'author': {'@type': 'Person', 'name': 'tfrizzell'},
+            'dateCreated': '2000-06-25',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0110912/'},
-            'name': 'The rebirth of a genre – and film history',
-            'reviewBody': 'I can only speak for myself, but I had never seen '
-                          'anything as stylish, cleverly constructed, well '
-                          'written and electrifying as this milestone when I '
-                          'first saw it in 1994. What really pulled me in '
-                          "right from the start is what we've now come to know "
-                          'as a Tarantino trademark: the dialogue. When '
-                          'gangsters Jules and Vincent talk to each other (or '
-                          'all the other characters, for that matter) there is '
-                          'a natural flow, a sense of realism and yet '
-                          'something slightly over the top and very theatrical '
-                          "about their lines – it's a mixture that immediately "
-                          "grabs your attention (even if it's just two dudes "
-                          'talking about what kind of hamburger they prefer, '
-                          'or contemplating the value of a foot-massage). Then '
-                          "there's the music: the songs Tarantino chose for "
-                          'his masterpiece fit their respective scenes so '
-                          'perfectly that most of those pieces of music are '
-                          "now immediately associated with 'Pulp Fiction'. And "
-                          'the narrative: the different story lines that come '
-                          'together, the elegantly used flashbacks, the use of '
-                          '"chapters" – there is so much playful creativity at '
-                          "play here, it's just a pure joy to watch.\n"
-                          '\n'
-                          "If you're a bit of a film geek, you realize how "
-                          'much knowledge about film and love for the work of '
-                          'other greats – and inspiration from them - went '
-                          'into this (Leone, DePalma, Scorsese and, of course, '
-                          'dozens of hyper-stylized Asian gangster flicks), '
-                          'but to those accusing Tarantino of copying or even '
-                          '"stealing" from other film-makers I can only say: '
-                          'There has never been an artist who adored his kind '
-                          'of art that was NOT inspired or influenced by his '
-                          "favorite artists. And if you watch Tarantino's "
-                          "masterpiece today, it's impossible not to recognize "
-                          'just what a breath of fresh air it was (still is, '
-                          'actually). Somehow, movies - especially gangster '
-                          "films - never looked quite the same after 'Pulp "
-                          "Fiction'. Probably the most influential film of the "
-                          "last 20 years, it's got simply everything: amazing "
-                          'performances (especially Sam Jackson); it features '
-                          'some of the most sizzling, iconic dialogue ever '
-                          'written; it has arguably one of the best '
-                          "non-original soundtracks ever - it's such a crazy, "
-                          'cool, inspirational ride that you feel dizzy after '
-                          "watching it for the first time. It's – well: it's "
-                          "'Pulp Fiction'. 10 stars out of 10.\n"
-                          '\n'
-                          'Favorite films: '
-                          'http://www.IMDb.com/list/mkjOKvqlSBs/\n'
-                          '\n'
-                          'Lesser-known Masterpieces: '
-                          'http://www.imdb.com/list/ls070242495/\n'
-                          '\n'
-                          'Favorite TV-Shows reviewed: '
-                          'http://www.imdb.com/list/ls075552387/',
-            'reviewRating': {'@type': 'Rating',
-                             'bestRating': '10',
-                             'ratingValue': '10',
-                             'worstRating': '1'}},
+            'name': "It's Wild, It's Chaotic, It's Pulp Fiction!!!",
+            'reviewBody': 'My oh my.  "Pulp Fiction" is one of those '
+                          'roller-coasters of a movie.  It is both a joy and a '
+                          'trial to sit through.  Amazingly original and '
+                          "unforgettable, Quentin Tarantino's trash "
+                          'masterpiece never gets old or seem outdated.  It '
+                          'put a face on American independent film making in '
+                          '1994. Miramax had been around since the 1970s and '
+                          'no one had heard of it before this film.  Studios '
+                          'went into a panic when this film came out because '
+                          'they knew it would be an amazing hit.  Of course it '
+                          'was.  Independent film making became the rage and '
+                          'hit its peak in 1996 when four of the five '
+                          'nominated Best Picture films were from independent '
+                          'studios.  The screenplay and direction by Tarantino '
+                          'are quite amazing, but the cast makes the film '
+                          'work. John Travolta (Oscar nominated) re-invented '
+                          'his career with this film. Bruce Willis cemented '
+                          'his celebrity.  Samuel L. Jackson and Uma Thurman '
+                          '(both Oscar nominees) became marketable '
+                          'superstars.  Others who make appearances include: '
+                          'Ving Rhames, Christopher Walken, Eric Stoltz, '
+                          'Rosanna Arquette, Steve Buscemi, Frank Whaley, '
+                          'Harvey Keitel, and of course Quentin Tarantino '
+                          'himself.  They all leave lasting impressions as '
+                          'well.  Samuel L. Jackson stood out the most to me, '
+                          'his lack of substantial screen time may have cost '
+                          'him the Oscar.  Just an amazing accomplishment, all '
+                          'involved deserve recognition.  Easily 5 stars out '
+                          'of 5.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'The lives of two mob hit men, a boxer, a '
                             "gangster's wife, and a pair of diner bandits "

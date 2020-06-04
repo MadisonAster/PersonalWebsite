@@ -21,7 +21,7 @@
             'url': '/name/nm0001015/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 203074,
+                     'ratingCount': 203089,
                      'ratingValue': '7.7',
                      'worstRating': '1.0'},
  'contentRating': 'TV-PG',
@@ -43,31 +43,24 @@
  'keywords': 'fairy tale,curse,magical realism,good versus evil,2010s',
  'name': 'Once Upon a Time',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'lin_mehmed'},
-            'dateCreated': '2018-01-10',
+            'author': {'@type': 'Person', 'name': 'allisonnp'},
+            'dateCreated': '2018-08-25',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt1843230/'},
-            'name': 'Season 7, what a tragedy.',
-            'reviewBody': "It's so sad to say this but I used to really like "
-                          'this show, up until season 6, when things should '
-                          'have ended. Why did they decide to do a season 7 '
-                          'with the same story line as before, my brain will '
-                          "never understand. I despise season 7. I can't stand "
-                          '"Cinderella"s character or the actress. The '
-                          'character just seems so weak, without any '
-                          'motivation or attitude to live life or to act, '
-                          "which isn't how I pictured Cinderella. I thought "
-                          'she would be more rebellious and have more of a '
-                          "spirit. Don't even get me started on the actress - "
-                          'she has no acting skills, I feel like every line is '
-                          'improvised and the directors just went with the '
-                          'first shot they took. At least try to pronounce '
-                          'words correctly. \n'
+            'name': 'The first few seasons were the best!',
+            'reviewBody': 'Seasons 1-3 were excellent! I could not stop '
+                          'watching. Then 4-6 came along, and I thought they '
+                          'were pretty decent but definitely worse than the '
+                          'first three. I think that the show could have just '
+                          'ended after season 6 but nope... They had to make a '
+                          'terrible 7th season\n'
                           '\n'
-                          'So please next season - improve acting, improve '
-                          'story line, be a bit more original, and get some '
-                          'good actors, seriously !'},
+                          'Overall though, this show is great',
+            'reviewRating': {'@type': 'Rating',
+                             'bestRating': '10',
+                             'ratingValue': '9',
+                             'worstRating': '1'}},
  'trailer': {'@type': 'VideoObject',
              'description': 'Watch the Season 7 Comic-Con Trailer for "Once '
                             'Upon a Time."',

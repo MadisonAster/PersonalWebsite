@@ -21,7 +21,7 @@
             'url': '/name/nm0000458/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 183549,
+                     'ratingCount': 183566,
                      'ratingValue': '7.6',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -54,34 +54,90 @@
  'keywords': 'neo noir,alien race,memory,experiment,serial killer',
  'name': 'Dark City',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'jennyburnett-25810'},
-            'dateCreated': '2018-12-15',
+            'author': {'@type': 'Person', 'name': 'ChoiBaby'},
+            'dateCreated': '1999-02-06',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0118929/'},
-            'name': "The thinking man's sci-fi",
-            'reviewBody': 'For science fiction fans the late 90s were great '
-                          'years. The most famous and popular of all was The '
-                          "Matrix but Alex Proyas's much more "
-                          'thought-provoking(which is saying something as the '
-                          'Matrix, at least the first movie was very thought '
-                          'provoking itself) film is just as good. No movie '
-                          'can ever have too much atmosphere, and Dark City '
-                          'exudes it from every frame of celluloid. Alex '
-                          "Proyas' world isn't just a playground for his "
-                          "characters to romp in -- it's an ominous place "
-                          "where viewers can get lost. We don't just coolly "
-                          'observe the bizarre, ever-changing skyline; we '
-                          "plunge into the city's benighted depths, following "
-                          'the protagonist as he explores the secrets of this '
-                          'grim place where the sun never shines. Visually, '
-                          "this film isn't just impressive, it's a tour de "
-                          'force. Thankfully, Dark City doesn\'t have an "all '
-                          'style, no substance" problem, either, because '
-                          "there's a mind-challenging story to go along with "
-                          "the eye candy. Proyas hasn't written this film for "
-                          'the passive viewer. To become involved in Dark '
-                          'City, thinking is mandatory.'},
+            'name': 'A fantastic science-fiction masterpiece!',
+            'reviewBody': 'An absolutely brilliant and nightmarish '
+                          'production!  DARK CITY is an enriching and surreal '
+                          'experience, full of beautiful images and powerful '
+                          'symbolism.\n'
+                          '\n'
+                          'John Murdoch (Rufus Sewell) wakes up one night, '
+                          'resting inside a bathtub. He look around, realizing '
+                          'that he is inside a hotel room.  In a state of '
+                          'shock, he finds a bloody corpse lying near his bed. '
+                          'Then...reality sinks in. He discovers an appalling '
+                          'revelation which he cannot accept. He is wanted for '
+                          'murder on six separate accounts.  How does all of '
+                          'this fit in when he thought of himself as a '
+                          'completely sane person?  He does not believe he was '
+                          'responsible for these murders, but the cops think '
+                          'otherwise as they chase him down... Next, a swarm '
+                          'of humanoid creatures known only as the "Strangers" '
+                          'have summon him.  For unknown reasons, Murdoch '
+                          'happens to fit into their intricate schemes for '
+                          'conquest...\n'
+                          '\n'
+                          'This is just scratching the surface of the premise '
+                          "for Alex Proyas' moody and engaging film, DARK "
+                          'CITY.  DARK CITY is a very vivid film with an '
+                          'original concept. As the story expands and the main '
+                          'character must go into the heart of the matter, he '
+                          'learns that there\'s a conspiracy going on "mixing '
+                          'and matching" different identities together into '
+                          'one whole. The Strangers are the masters...the '
+                          'inhabitants are their puppets...and the city is '
+                          'their playground...\n'
+                          '\n'
+                          'DARK CITY essentially has gorgeous photography, '
+                          'capturing aspects of the entire city where '
+                          'imagination paints the picture and provides the '
+                          'details. This film relies a lot on imagery and the '
+                          'fantastic production values are laced with a '
+                          "perplexing storyline that keeps the viewer's eyes "
+                          'glued to the screen. The eye-catching, stylish '
+                          'future noir designs a visionary world, evinced in '
+                          'the setting of the Big Apple itself, New York City '
+                          "during the time period of the 1940s. Dark City's "
+                          'visual backgrounds enliven a difficult and '
+                          'incomprehensible plot to comprehend and the special '
+                          'effects create an astounding experience, traveling '
+                          "into a vortex of mankind's phantasm.\n"
+                          '\n'
+                          'DARK CITY, in addition to the superb background '
+                          'settings, allows for character development as well. '
+                          'The audiences grows greatly in a moment of '
+                          'eagerness as they want to determine what will '
+                          'happen next to the characters in this film. As '
+                          'always, the cast is wonderful. Rufus Sewell is '
+                          'excellent as John Murdoch, convincing as an '
+                          'ordinary man on the run from both the law and the '
+                          'strangers. Jennifer Connelly is sensuous and '
+                          "appealing as Murdoch's loving and concerned wife. "
+                          'William Hurt plays his cards right as a straitlaced '
+                          'NYPD inspector, Frank Bumstead, who keeps pursuing '
+                          'John Murdoch.  As  an  eccentric   psychiatrist,  '
+                          'Dr. Daniel Paul Schreber, Kiefer Sutherland conveys '
+                          'a confused doctor who shares a frightening '
+                          'connection to these Strangers.\n'
+                          '\n'
+                          'DARK CITY is splendid viewing injected with a theme '
+                          'about the loss of identity and the destruction of '
+                          'individualism in order to create an ideal society.  '
+                          'DARK CITY is an unforgettable, breathtaking visual '
+                          'experience! This film is enriched with layers of '
+                          'characterization, a plot where there is more than '
+                          'meets the eye, and venturous special effects.  DARK '
+                          'CITY is recommended viewing with the lights out!  '
+                          'A  thoroughly  cogent flick which keeps you '
+                          'guessing what is going on.  DARK CITY is a fine '
+                          'treat for the eyes and mind.  This is one journey '
+                          'where you reach the point of no return!\n'
+                          '\n'
+                          'RATING: *** out of ****.'},
  'trailer': {'@type': 'VideoObject',
              'description': 'Trailer for Dark City',
              'embedUrl': '/video/imdb/vi2614494745',

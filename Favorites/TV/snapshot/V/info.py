@@ -19,7 +19,7 @@
             'url': '/name/nm0625664/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 12975,
+                     'ratingCount': 12977,
                      'ratingValue': '7.9',
                      'worstRating': '1.0'},
  'contentRating': 'TV-14',
@@ -35,47 +35,32 @@
  'keywords': '1980s,tv mini series,alien,resistance,reptilian',
  'name': 'V',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'prasol'},
-            'dateCreated': '2006-07-18',
+            'author': {'@type': 'Person', 'name': 'Maniac-9'},
+            'dateCreated': '2012-01-29',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0085106/'},
-            'name': 'Awesome show!!',
-            'reviewBody': 'This is one of those rare epics that come only once '
-                          "in a blue moon. This is one of the best 'First "
-                          "Contact' genres ever made. No movie on the big "
-                          'screen so far - no, not Independence Day or even '
-                          'Close Encounters of the Third Kind (amongst my '
-                          'favorite films, I might add) have been able to give '
-                          "you the kind of goose pimples that watching 'V' "
-                          'gave me.\n'
+            'name': 'Definite undertones of how the Nazis gained power',
+            'reviewBody': "Other then small differences like the V's being "
+                          'aliens the way they assimilated power and conquered '
+                          "the earth is very similar to how the Nazi's took "
+                          "power of Germany in the 1930's.\n"
                           '\n'
-                          'The ensemble cast with Marc Singer, Faye Grant, '
-                          'Jane Badler and others have done a fantastic job '
-                          'and Kenneth Johnson has done a superb job making '
-                          'this show. Not only is the storyline and plot very '
-                          'capturing, the characters in this really come to '
-                          'life and you actually get involved with them unlike '
-                          'many other shows. And this is even more amazing '
-                          'because there are SO MANY characters and each one '
-                          'of them has their own story which is depicted very '
-                          'well. I love the way the characters all start off '
-                          "in different settings and events and don't know "
-                          'each other, but gradually they come together.\n'
+                          "The V's like the Nazi's had a charismatic leader, "
+                          'brainwashing and propaganda in the media. Even the '
+                          'uniforms of the V soldiers is very similar to the '
+                          'storm trooper soldiers of the Nazi and they use the '
+                          'same Red and Black colors.\n'
                           '\n'
-                          'The Nazi-esquire theme also works out well. The '
-                          'special effects for 1983 are cool enough to be used '
-                          "today and the lasagnas on 'V' are the absolutely "
-                          "coolest ones ever. Better than Star Trek 'phasers' "
-                          "or Star Wars 'blasters'. Not to mention the Mother "
-                          'Ships and the various classes of shuttles.\n'
-                          '\n'
-                          'This is a good one and this is certainly something '
-                          'I am hoping they give more. Either a movie or a '
-                          "remake. There is supposed to be a 'V-The next "
-                          "generation' in the making. I can hardly wait!",
+                          "Same way that the Nazi's used hope for the future "
+                          "to help influence the population the V's used a "
+                          'cure for things like cancer and other ailments. '
+                          "Early terrorist attacks on the V's were blamed on "
+                          "scientists in the same manner that the Nazi's did "
+                          'the same to communists. This miniseries shows '
+                          'society can be swayed by easy answers and charisma.',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'url': '/title/tt0085106/'}

@@ -21,7 +21,7 @@
             'url': '/name/nm0000380/'}],
  'aggregateRating': {'@type': 'AggregateRating',
                      'bestRating': '10.0',
-                     'ratingCount': 139842,
+                     'ratingCount': 139853,
                      'ratingValue': '8.1',
                      'worstRating': '1.0'},
  'contentRating': 'R',
@@ -43,49 +43,53 @@
  'keywords': 'media,television,television network,satire,ranting',
  'name': 'Network',
  'review': {'@type': 'Review',
-            'author': {'@type': 'Person', 'name': 'dead47548'},
-            'dateCreated': '2008-01-08',
+            'author': {'@type': 'Person', 'name': 'cchase'},
+            'dateCreated': '2005-08-28',
             'inLanguage': 'English',
             'itemReviewed': {'@type': 'CreativeWork',
                              'url': '/title/tt0074958/'},
-            'name': 'One of the best of all time.',
-            'reviewBody': "I can't put it more perfectly than Turner Classic "
-                          'Movies\' Robert Osborne who said "What was '
-                          'originally a satire is a stinging mirror of '
-                          'television news today." I strain to think of a film '
-                          'that is a more brilliant take on society, and all '
-                          "of the flaws it has. It's obedience and "
-                          'entertainment by those who rebel, no matter how '
-                          'insane they are. The exploitation of those in peril '
-                          'for any kind of economic profit. And the fact that '
-                          'everything Beale preaches is completely true and '
-                          'completely bashes the people who are producing him. '
-                          'I was amazed by how much he sells out while '
-                          'continuing to rant about how terrible the people he '
-                          'works for are, and the fact that they just keep him '
-                          'on the air because they want ratings.\n'
+            'name': 'Prescient...',
+            'reviewBody': 'It is the only word I can come up with to describe '
+                          "this masterfully savage satire, and IMHO, it's the "
+                          'only word that need be used.\n'
                           '\n'
-                          "It couldn't be more related to today. Turn on the "
-                          'news and you see videos of how horrific the war on '
-                          'terror is and how horrific American society has '
-                          'become, but it stays on the air because people '
-                          "don't want to see the good things in life. They "
-                          'care about the bad and the corrupt. People must '
-                          'have laughed it off back then, but it was such a '
-                          'foreshadow to the near future. The performances are '
-                          'just as brilliant as the social commentary. Each '
-                          'actor becomes so absorbed into their characters '
-                          "that you can't even tell they're acting. It feels "
-                          "like you're watching these people in their daily "
-                          'lives, interacting and becoming more and more '
-                          'corrupt. Finch and Dunaway easily give two of the '
-                          'greatest performances of all time. I could write 20 '
-                          "more pages about it's brilliance, but I'll stop now "
-                          'to keep me from rating. I just have to say that '
-                          "it's so rare to find a film as incredibly flawless "
-                          'as this.',
+                          'Once I had seen ALTERED STATES and read the novel, '
+                          'I was hungry to find out more about the late '
+                          'novelist/playwright/screenwriter Paddy Chayefsky, '
+                          'and sought out this movie. It blew me away years '
+                          'ago, but I find it even more stunning now. Not just '
+                          "because of the writing, Sidney Lumet's taut "
+                          'direction or the Oscar-caliber performances by '
+                          'everyone involved, all of which are almost beyond '
+                          'being lauded with superlatives.\n'
+                          '\n'
+                          'But what knocks me out is how Chayefsky seemed less '
+                          'to be writing from the power of his imagination, '
+                          'than channeling Our Times Now. As if he was capable '
+                          'of some form of mental time travel; able to look '
+                          'into the Nineties and beyond to see the coming of '
+                          'SURVIVOR, or Maury Povich, Jerry Springer, Bill '
+                          "O'Reilly and Paris Hilton. Even HE probably didn't "
+                          'know how he knew, but he sure as hell felt it and '
+                          'wrote it down for us to marvel over today.\n'
+                          '\n'
+                          'Sure, there are political and cultural analogies '
+                          'throughout the picture that are dated. But the core '
+                          'of his vision remains startlingly clear and eerily '
+                          'prophetic. As for Howard Beale, there is not one '
+                          'single "celebrity" who mirrors that character '
+                          'today, but maybe he is a composite of several '
+                          'different personalities with whom we have become '
+                          'all too familiar in the world of '
+                          '"news-fo-tainment." Or maybe he simply hasn\'t '
+                          'materialized yet. Maybe that is just how far ahead '
+                          'of its time NETWORK really was.\n'
+                          '\n'
+                          'After all, being "mad as hell" nowadays has so many '
+                          'more layers of meaning than it did nearly thirty '
+                          'years ago...',
             'reviewRating': {'@type': 'Rating',
                              'bestRating': '10',
-                             'ratingValue': '10',
+                             'ratingValue': '9',
                              'worstRating': '1'}},
  'url': '/title/tt0074958/'}
