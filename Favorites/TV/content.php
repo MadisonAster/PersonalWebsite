@@ -72,7 +72,7 @@ foreach ($TVdirs as &$dir){
         
         #echo "    Ratings:\n";
         #echo "    ".$infoArray['Ratings']['PrimeWire']." | \n";
-        #echo "    <a target='_blank' href='".$infoArray['EntryURL']."'>IMDB</a>\n";
+        echo "    <a target='_blank' href='".$infoArray['EntryURL']."'>IMDB</a>\n";
         #echo "    ".$infoArray['Ratings']['IMDB']."\n";
         #echo "    <br/>\n";
         
