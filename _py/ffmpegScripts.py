@@ -17,7 +17,7 @@ def ffmpeg_getStream(filePath):
     streamInfo = proc.stdout.read()
     proc.stdout.close()
 
-    streamInfo = str(streamInfo).split('\\r\\n')
+    streamInfo = str(streamInfo).replace('\\r', '').split('\\n')
     for i in reversed(range(len(streamInfo))):
         if '=' not in streamInfo[i]:
             streamInfo.pop(i)
