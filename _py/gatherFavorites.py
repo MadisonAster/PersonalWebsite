@@ -49,10 +49,8 @@ def GetEntries(OutputDir, UsePy=False):
 def WriteEntries(HtmlDir, Entries):
     for Entry in Entries.values():
         with open(HtmlDir+Entry['Entry_json'], 'wb') as file:
-            print('Writing', HtmlDir+Entry['Entry_json'])
             file.write(bytes(json.dumps(Entry), 'utf-8'))
         with open(HtmlDir+Entry['Entry_py'], 'wb') as file:
-            print('Writing', HtmlDir+Entry['Entry_py'])
             file.write(bytes(pformat(Entry), 'utf-8'))
 
 def GetIMDBListData(url):
@@ -94,7 +92,6 @@ def SanitizeTitle(Title):
     return Result
 
 def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
-    print('GetIMDB!', url, HtmlDir, OutputDir)
     #match = soup.find('div', class_='footer')
     #for match in soup.find_all('div', class_='footer')
     
@@ -123,6 +120,7 @@ def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
                 Item['Entry_json'] = EntryPath+'/entry.json'
                 Item['Entry_thumb'] = EntryPath+'/thumb.jpg'
                 Item['EntryAdded'] = datetime.datetime.strftime(datetime.datetime.now(), '%m-%d-%Y')
+                pprint(Item)
             else:
                 Item['EntryURL'] = Entry['EntryURL'].replace('http://', 'https://').rstrip('/')
                 Item['EntryPath'] = Entry['EntryPath']
