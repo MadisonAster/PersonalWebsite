@@ -138,7 +138,9 @@ def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
             jpg = urllib.urlopen(Entry['image'])
             with open(HtmlDir+Entry['Entry_thumb'], 'wb') as file:
                 file.write(jpg.read())
+        print('getting stream', HtmlDir+Entry['Entry_thumb'])
         streamdict = ffmpegScripts.ffmpeg_getStream(HtmlDir+Entry['Entry_thumb'])
+        pprint(streamdict)
         width = int(streamdict['width'])
         height = int(streamdict['height'])
         if width != 150 or height != 225:
