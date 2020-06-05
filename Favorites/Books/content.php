@@ -1,7 +1,7 @@
 <div id='BooksDiv' style='padding:0;margin:0;display:none;text-align:right;'>
 
 Sort:
-<select id='TVGrid_sort-options' class='sort-options'>
+<select id='BooksGrid_sort-options' class='sort-options'>
     <option value='added'>Added</option>
     <option value='released'>Released</option>
     <option value='title'>Title</option>
