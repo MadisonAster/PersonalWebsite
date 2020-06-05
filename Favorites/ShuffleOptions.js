@@ -6,7 +6,7 @@ Shuffle.options = {
   itemSelector: '', // e.g. '.picture-item'.
   sizer: null, // Sizer element. Use an element to determine the size of columns and gutters.
   gutterWidth: 0, // A static number or function that tells the plugin how wide the gutters between columns are (in pixels).
-  columnWidth: 150, // A static number or function that returns a number which tells the plugin how wide the columns are (in pixels).
+  columnWidth: 10, // A static number or function that returns a number which tells the plugin how wide the columns are (in pixels).
   delimeter: null, // If your group is not json, and is comma delimeted, you could set delimeter to ','.
   buffer: 0, // Useful for percentage based heights when they might not always be exactly the same (in pixels).
   //columnThreshold: HAS_COMPUTED_STYLE ? 0.01 : 0.1, // Reading the width of elements isn't precise enough and can cause columns to jump between values.
