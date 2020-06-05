@@ -149,25 +149,29 @@ def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
         
     WriteEntries(HtmlDir, Entries)
 
-def GetGoodReadsListData(url):
+def GetGoodReadsListData(url, HtmlDir, OutputDir):
     URLList = []
+    source = requests.get(url).text
+    soup = BeautifulSoup(source, 'lxml')
+    print('writing', HtmlDir+OutputDir+'index.html')
     
+    
+    #'data-resource-id'
+    
+    with open(HtmlDir+OutputDir+'/index.html', 'wb') as file:
+        file.write(bytes(soup.prettify(), 'utf-8'))
     return URLList
 
 def GetGoodReads(url, HtmlDir, OutputDir, UpdateAll=False):
-    #print('GetIMDB!', url, HtmlDir, OutputDir)
+    print('GetGoodReads!', url, HtmlDir, OutputDir)
     #match = soup.find('div', class_='footer')
     #for match in soup.find_all('div', class_='footer')
     
     Entries = GetEntries(HtmlDir+OutputDir)
-    URLList = GetGoodReadsListData(url)
+    URLList = GetGoodReadsListData(url, HtmlDir, OutputDir)
     TestData(Entries, URLList)
     
-    #ExistingEntries = os.listdir(OutputDir)
-    #html = getAndSanitize(url)
     
-    #with open(OutputDir+'/index.html', 'w') as file:
-    #    file.write(html)
 
 def GetRawg(url, HtmlDir, OutputDir, UpdateAll=False):
     ExistingEntries = os.listdir(OutputDir)
