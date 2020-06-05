@@ -26,9 +26,9 @@ def main():
         UpdateAll = True
     else:
         UpdateAll = False
-    GetIMDB(GetURLs.GetFavoriteTVURL(), HtmlDir, TVDir, UpdateAll=UpdateAll)
-    GetIMDB(GetURLs.GetFavoriteMoviesURL(), HtmlDir, MoviesDir, UpdateAll=UpdateAll)
-    #GetGoodReads(GetURLs.GetFavoriteBooksURL(), HtmlDir, BooksDir, UpdateAll=UpdateAll)
+    #GetIMDB(GetURLs.GetFavoriteTVURL(), HtmlDir, TVDir, UpdateAll=UpdateAll)
+    #GetIMDB(GetURLs.GetFavoriteMoviesURL(), HtmlDir, MoviesDir, UpdateAll=UpdateAll)
+    GetGoodReads(GetURLs.GetFavoriteBooksURL(), HtmlDir, BooksDir, UpdateAll=UpdateAll)
     #GetRawg(GetURLs.GetFavoriteGamesURL(), HtmlDir, GamesDir, UpdateAll=UpdateAll)
     #GetFirefox(GetURLs.GetFavoriteBookmarksURL(), HtmlDir, BookmarksDir, UpdateAll=UpdateAll)
     pass
