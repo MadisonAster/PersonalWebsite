@@ -1,0 +1,37 @@
+{'EntryAdded': '06-05-2020',
+ 'EntryPath': 'Favorites/Books/snapshot/The-Book-Of-Atrus',
+ 'EntryURL': 'https://www.goodreads.com/book/show/159764.The_Book_of_Atrus',
+ 'Entry_json': 'Favorites/Books/snapshot/The-Book-Of-Atrus/entry.json',
+ 'Entry_py': 'Favorites/Books/snapshot/The-Book-Of-Atrus/info.py',
+ 'Entry_thumb': 'Favorites/Books/snapshot/The-Book-Of-Atrus/thumb.jpg',
+ 'authors': [{'id': '34408',
+              'image_url': '\n'
+                           'https://images.gr-assets.com/authors/1357132622p5/34408.jpg\n',
+              'link': 'https://www.goodreads.com/author/show/34408.Rand_Miller',
+              'name': 'Rand Miller',
+              'role': None,
+              'small_image_url': '\n'
+                                 'https://images.gr-assets.com/authors/1357132622p2/34408.jpg\n'}],
+ 'description': 'Based on the best-selling CD-ROM game, a fantasy novel fills '
+                "out the lives of the game's characters, tracing the strange "
+                'apprenticeship of Atrus to his father, Gehn, who wields the '
+                'power to create worlds.',
+ 'edition_information': None,
+ 'format': 'Mass Market Paperback',
+ 'id': '159764',
+ 'image_url': 'https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png',
+ 'isbn': '0786881887',
+ 'isbn13': '9780786881888',
+ 'large_image_url': None,
+ 'link': 'https://www.goodreads.com/book/show/159764.The_Book_of_Atrus',
+ 'num_pages': '422',
+ 'publication_day': '1',
+ 'publication_month': '11',
+ 'publication_year': '1996',
+ 'published': '1996',
+ 'publisher': 'Hyperion',
+ 'small_image_url': 'https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png',
+ 'title': 'The Book of Atrus (Myst, #1)',
+ 'title_without_series': 'The Book of Atrus',
+ 'uri': 'kca://book/amzn1.gr.book.v1.WBNKFON2cAZ8motlhqfSEA',
+ 'work': '  '}
