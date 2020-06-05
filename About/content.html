@@ -156,8 +156,8 @@
                 var ContactInfoCaptcha = document.getElementById("ContactInfoCaptcha");
                 var ContactInfo = document.getElementById("ContactInfo");
                 ContactInfo.style.display = "block";
-                var encodedData = window.atob("PHA+PGJyLz48YnIvPmluZm9ATWFkaXNvbkFzdGVyLmNvbTxici8+PGJyLz4xLTgxOC0yNzAtNjUxNzxici8+PGJyLz5Ib2xseXdvb2QgQ0EsIDkwMDI4PC9wPg==");
-                ContactInfo.innerHTML = encodedData;
+                var ContactData = GetEmail()+'\n'+GetPhone()+'\n'+GetAddress();
+                ContactInfo.innerHTML = ContactData;
                 ContactInfoCaptcha.style.display = "none";
             }
             </script>
