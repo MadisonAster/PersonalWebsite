@@ -10,7 +10,7 @@ from xml.etree import ElementTree
 from bs4 import BeautifulSoup
 import requests
 
-import gatherFavorites
+import GatherFavorites
 
 
 
@@ -49,12 +49,12 @@ def main(user_id, key):
     
     HtmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0].replace('\\','/')
     OutputDir = 'Favorites/Books/snapshot/'
-    UpdateAll = gatherFavorites.GetSchedule()
+    UpdateAll = GatherFavorites.GetSchedule()
     
-    Entries = gatherFavorites.GetEntries(HtmlDir+OutputDir)
+    Entries = GatherFavorites.GetEntries(HtmlDir+OutputDir)
     URLList = GetListData(user_id, 'read', key)
     #URLList = GetListData(user_id, 'favorite', key)
-    gatherFavorites.TestData(Entries, URLList)
+    GatherFavorites.TestData(Entries, URLList)
     
 def GetListData(user_id, shelf, key):
     URLList = []
