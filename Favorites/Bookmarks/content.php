@@ -55,5 +55,5 @@ foreach ($dirs as &$dir){
 </script>
 </div>
 -->
-Live access to my bookmarks, coming soon!
+Synced access to my research bookmarks, coming soon!
 </div>
