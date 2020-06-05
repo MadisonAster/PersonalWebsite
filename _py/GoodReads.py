@@ -48,31 +48,6 @@ def main(user_id, key):
         Entries[Entry['EntryURL']] = Entry
     
     GatherFavorites.WriteEntries(HtmlDir, Entries)
-    
-    '''
-    Book['id'] = book.find('id').text
-    Book['isbn'] = book.find('isbn').text
-    Book['isbn13'] = book.find('isbn13').text
-    Book['uri'] = book.find('uri').text
-    Book['title'] = book.find('title').text
-    Book['tite_without_series'] = book.find('tite_without_series').text
-    Book['img_url'] = book.find('img_url').text
-    Book['small_image_url'] = book.find('small_image_url').text
-    Book['large_image_url'] = book.find('large_image_url').text
-    Book['link'] = book.find('link').text
-    Book['num_pages'] = book.find('num_pages').text
-    Book['format'] = book.find('format').text
-    Book['edition_information'] = book.find('edition_information').text
-    Book['publisher'] = book.find('publisher').text
-    Book['publication_day'] = book.find('publication_day').text
-    Book['publication_year'] = book.find('publication_year').text
-    Book['publication_month'] = book.find('publication_month').text
-    Book['description'] = book.find('description').text
-    Book['authors'] = book.find('authors').text
-    Book['published'] = book.find('published').text
-    Book['work'] = book.find('work').text
-    '''
-
 
 def RemoveReviews(MyDict):
     delete_keys = ['text_reviews_count', 'ratings_count', 'average_rating']
