@@ -1,5 +1,5 @@
 function GetPhone() {
-    var EncodedString = "MzIzLTIzOC05NDY0";
+    var EncodedString = "MS0zMjMtMjM4LTk0NjQ=";
     return DecodeData(EncodedString);
 }
 
@@ -9,7 +9,7 @@ function GetEmail() {
 }
 
 function GetAddress() {
-    var EncodedString = "SG9sbHl3b29kIENBLCA5MDAyOA==";
+    var EncodedString = "SG9sbHl3b29kIENhbGlmb3JuaWE=";
     return DecodeData(EncodedString);
 }
 
