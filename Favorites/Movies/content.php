@@ -62,23 +62,7 @@ foreach ($Moviedirs as &$dir){
             echo "    <br/>\n";
         };
         
-        #if (sizeof($infoArray['Countries']) > 1) {
-        #    echo "    Countries:\n";
-        #    echo "    ".implode(", ", $infoArray['Countries'])."\n";
-        #    echo "    <br/>\n";
-        #};
-        
-        #echo "    Ratings:\n";
-        #echo "    ".$infoArray['Ratings']['PrimeWire']." | \n";
         echo "    <a target='_blank' href='".$infoArray['EntryURL']."'>IMDB</a>\n";
-        #echo "    ".$infoArray['Ratings']['IMDB']."\n";
-        #echo "    <br/>\n";
-        
-        #if ($infoArray['Runtime'] != 'NA' ){
-        #    echo "    Runtime:\n";
-        #    echo "    ".$infoArray['Runtime']."\n";
-        #    echo "    <br/>\n";
-        #};
         
         if (sizeof($infoArray['genre']) > 1) {
             echo "    Genres:\n";
