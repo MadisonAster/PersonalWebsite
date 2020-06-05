@@ -51,7 +51,7 @@ def main(user_id, key):
     
     Entries = GatherFavorites.GetEntries(HtmlDir+OutputDir)
     #URLList = GetListData(user_id, 'read', key)
-    Books = GetListData(user_id, 'favorite', key)
+    Books = GetListData(user_id, 'favorites', key)
     GatherFavorites.TestData(Entries, Books.keys())
     
     for Book in Books.values():
