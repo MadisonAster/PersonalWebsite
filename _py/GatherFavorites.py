@@ -152,7 +152,8 @@ def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
                 os.makedirs(HtmlDir+EntryPath)
             Entry = Item #Overwrite possibly existing Entry reference here to update data
         Entries[Entry['EntryURL']] = Entry
-        DownloadThumbIfNecessary(Entry['image'], HtmlDir+Entry['Entry_thumb'])
+        if 'image' in Entry.keys():
+            DownloadThumbIfNecessary(Entry['image'], HtmlDir+Entry['Entry_thumb'])
             
     WriteEntries(HtmlDir, Entries)
 
