@@ -242,7 +242,7 @@ Shuffle.ClassName = {
 
 function CalculateGutterWidth(containerWidth){
     var ColumnWidth = 150;
-    var MinGutterWidth = 25;
+    var MinGutterWidth = 40;
     
     var MinTotalWidth = ColumnWidth+MinGutterWidth;
     var NumberOfColumns = Math.floor(containerWidth/MinTotalWidth);
