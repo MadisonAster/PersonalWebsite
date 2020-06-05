@@ -36,7 +36,7 @@ foreach ($Booksdirs as &$dir){
         echo "    <td style='width:150px;'>\n";
         echo "    <img src='./_Assets/150x225_loading.gif' psrc='./_Assets/150x225_loading.gif' rsrc='$dir/thumb.jpg' style='width:150px;height:225px;'></img>\n";
         echo "    <div style='width:150px;height:80px;text-align:center;color:#FFFFFF;text-shadow: 2px 2px 0px rgba(0, 0, 0, 1.0);'>\n";
-        echo "    ".$infoArray['name']."\n";
+        echo "    ".$infoArray['title_without_series']."\n";
         echo "    </div>\n";
         echo "    </td>\n";
         echo "    <td>\n";
@@ -82,7 +82,7 @@ foreach ($Booksdirs as &$dir){
         echo "    <img src='./_Assets/150x225_loading.gif' psrc='./_Assets/150x225_loading.gif' rsrc='$dir/thumb.jpg' data-original='$dir/thumb.jpg' style='width:150px;height:225px;'></img>\n";
         echo "    <br/>\n";
         echo "    <div style='width:150px;height:80px;text-align:center;color:#FFFFFF;text-shadow: 2px 2px 0px rgba(0, 0, 0, 1.0);'>\n";
-        echo "    ".$infoArray['name']."\n";
+        echo "    ".$infoArray['title_without_series']."\n";
         echo "    </div>\n";
         echo "    </a>\n";
         echo "</figure>\n";
