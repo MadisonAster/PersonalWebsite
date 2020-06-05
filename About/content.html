@@ -156,7 +156,7 @@
                 var ContactInfoCaptcha = document.getElementById("ContactInfoCaptcha");
                 var ContactInfo = document.getElementById("ContactInfo");
                 ContactInfo.style.display = "block";
-                var ContactData = GetEmail()+'\n'+GetPhone()+'\n'+GetAddress();
+                var ContactData = GetEmail()+'\n<br/>\n'+GetPhone()+'\n<br/>\n'+GetAddress();
                 ContactInfo.innerHTML = ContactData;
                 ContactInfoCaptcha.style.display = "none";
             }
