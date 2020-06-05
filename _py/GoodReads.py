@@ -43,11 +43,18 @@ def main(user_id, key):
             
             if not os.path.exists(HtmlDir+EntryPath):
                 os.makedirs(HtmlDir+EntryPath)
-            GatherFavorites.DownloadThumbIfNecessary(Book['image_url'], HtmlDir+Book['Entry_thumb'])
+            GatherFavorites.DownloadThumbIfNecessary(GetImageURL(Book['EntryURL']), HtmlDir+Book['Entry_thumb'])
         Entry = Book #Overwrite Entry reference
         Entries[Entry['EntryURL']] = Entry
     
     GatherFavorites.WriteEntries(HtmlDir, Entries)
+
+def GetImageURL(BookURL):
+    source = requests.get(BookURL).text
+    soup = BeautifulSoup(source, 'lxml')
+    img = soup.find('img', id="coverImage")
+    print(img['src'])
+    return img['src']
 
 def RemoveReviews(MyDict):
     delete_keys = ['text_reviews_count', 'ratings_count', 'average_rating']
