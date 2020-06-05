@@ -21,17 +21,21 @@ def main():
     BooksDir = 'Favorites/Books/snapshot/'
     GamesDir = 'Favorites/Games/snapshot'
     BookmarksDir = 'Favorites/Bookmarks/snapshot'
+    UpdateAll = GetSchedule()
     
+    GetIMDB(GetURLs.GetFavoriteTVURL(), HtmlDir, TVDir, UpdateAll=UpdateAll)
+    GetIMDB(GetURLs.GetFavoriteMoviesURL(), HtmlDir, MoviesDir, UpdateAll=UpdateAll)
+    #GetRawg(GetURLs.GetFavoriteGamesURL(), HtmlDir, GamesDir, UpdateAll=UpdateAll)
+    #GetFirefox(GetURLs.GetFavoriteBookmarksURL(), HtmlDir, BookmarksDir, UpdateAll=UpdateAll)
+    pass
+
+def GetSchedule():
     if int(datetime.datetime.strftime(datetime.datetime.now(), '%d')) == 1: #UpdateAll every 1st of the month
         UpdateAll = True
     else:
         UpdateAll = False
-    #GetIMDB(GetURLs.GetFavoriteTVURL(), HtmlDir, TVDir, UpdateAll=UpdateAll)
-    #GetIMDB(GetURLs.GetFavoriteMoviesURL(), HtmlDir, MoviesDir, UpdateAll=UpdateAll)
-    GetGoodReads(GetURLs.GetFavoriteBooksURL(), HtmlDir, BooksDir, UpdateAll=UpdateAll)
-    #GetRawg(GetURLs.GetFavoriteGamesURL(), HtmlDir, GamesDir, UpdateAll=UpdateAll)
-    #GetFirefox(GetURLs.GetFavoriteBookmarksURL(), HtmlDir, BookmarksDir, UpdateAll=UpdateAll)
-    pass
+    return UpdateAll
+
 
 def GetEntries(OutputDir, UsePy=False):
     Entries = {}
@@ -148,30 +152,6 @@ def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
             ffmpegScripts.ResizeImage(HtmlDir+Entry['Entry_thumb'], 150, 225)
         
     WriteEntries(HtmlDir, Entries)
-
-def GetGoodReadsListData(url, HtmlDir, OutputDir):
-    URLList = []
-    source = requests.get(url).text
-    soup = BeautifulSoup(source, 'lxml')
-    print('writing', HtmlDir+OutputDir+'index.html')
-    
-    
-    #'data-resource-id'
-    
-    with open(HtmlDir+OutputDir+'/index.html', 'wb') as file:
-        file.write(bytes(soup.prettify(), 'utf-8'))
-    return URLList
-
-def GetGoodReads(url, HtmlDir, OutputDir, UpdateAll=False):
-    print('GetGoodReads!', url, HtmlDir, OutputDir)
-    #match = soup.find('div', class_='footer')
-    #for match in soup.find_all('div', class_='footer')
-    
-    Entries = GetEntries(HtmlDir+OutputDir)
-    URLList = GetGoodReadsListData(url, HtmlDir, OutputDir)
-    TestData(Entries, URLList)
-    
-    
 
 def GetRawg(url, HtmlDir, OutputDir, UpdateAll=False):
     ExistingEntries = os.listdir(OutputDir)

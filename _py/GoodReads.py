@@ -49,20 +49,22 @@ def main(user_id, key):
     
     HtmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0].replace('\\','/')
     OutputDir = 'Favorites/Books/snapshot/'
-    if int(datetime.datetime.strftime(datetime.datetime.now(), '%d')) == 1: #UpdateAll every 1st of the month
-        UpdateAll = True
-    else:
-        UpdateAll = False
+    UpdateAll = gatherFavorites.GetSchedule()
     
     Entries = gatherFavorites.GetEntries(HtmlDir+OutputDir)
-    URLList = GetListData(user_id, key)
+    URLList = GetListData(user_id, 'read', key)
+    #URLList = GetListData(user_id, 'favorite', key)
     gatherFavorites.TestData(Entries, URLList)
     
-def GetListData(user_id, key):
+def GetListData(user_id, shelf, key):
     URLList = []
     
-    response = requests.get('https://www.goodreads.com/shelf/list.xml?'+'key='+key+'&user_id='+user_id)
-    print(response)
+    response = requests.get('https://www.goodreads.com/review/list?v=2&id='+user_id+'&shelf='+shelf+'&key='+key)
+    pprint(response.text.split('\n'))
+    tree = ElementTree.fromstring(response.content)
+    
+    #for leaves in tree[1]:
+    #    pprint(leaves)
     
     return []
 
