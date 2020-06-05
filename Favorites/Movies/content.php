@@ -8,6 +8,7 @@ Sort:
     <option value='rating'>Rating</option>
     <option value='imdbscore'>IMDBscore</option>
 </select>
+<br/><br/>
 <div id='MoviesGrid' class='row-fluid' style='width:100%;margins:0;padding:0;'>
 <?php
 $blacklist = array('.', '..');

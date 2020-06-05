@@ -6,7 +6,7 @@ Sort:
     <option value='released'>Released</option>
     <option value='title'>Title</option>
 </select>
-
+<br/><br/>
 <div id='BooksGrid' class='row-fluid' style='width:100%;margins:0;padding:0;'>
 <?php
 $blacklist = array('.', '..');
