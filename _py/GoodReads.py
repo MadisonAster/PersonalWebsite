@@ -50,44 +50,37 @@ def main(user_id, key):
     UpdateAll = GatherFavorites.GetSchedule()
     
     Entries = GatherFavorites.GetEntries(HtmlDir+OutputDir)
-    URLList = GetListData(user_id, 'read', key)
-    #URLList = GetListData(user_id, 'favorite', key)
-    GatherFavorites.TestData(Entries, URLList)
-
-
-def RemoveReviews(MyDict):
-    delete_keys = ['text_reviews_count', 'ratings_count', 'average_rating']
-    for key in delete_keys:
-        if key in MyDict.keys():
-            del MyDict[key]
-def GetTextData(DataTree):
-    Result = {}
-    for child in DataTree:
-        Result[child.tag] = child.text
-    RemoveReviews(Result)
-    return Result
+    #URLList = GetListData(user_id, 'read', key)
+    Books = GetListData(user_id, 'favorite', key)
+    GatherFavorites.TestData(Entries, Books.keys())
     
-def GetListData(user_id, shelf, key):
-    URLList = []
-    page = '1'
-    per_page = '200'
-    response = requests.get('https://www.goodreads.com/review/list?v=2&id='+user_id+'&shelf='+shelf+'&page='+page+'&per_page='+per_page+'&key='+key)
-    #pprint(response.text.split('\n'))
-    tree = ElementTree.fromstring(response.content)
-    reviews = tree.find('reviews')
+    for Book in Books.values():
+        Entry = None
+        if Book['EntryURL'] in Entries.keys():
+            Entry = Entries[Book['EntryURL']]
+            EntryPath = Entry['EntryPath']
+            Book['EntryPath'] = Entry['EntryPath']
+            Book['Entry_py'] = Entry['Entry_py']
+            Book['Entry_json'] = Entry['Entry_json']
+            Book['Entry_thumb'] = Entry['Entry_thumb']
+            Book['EntryAdded'] = Entry['EntryAdded']
+        else:
+            EntryPath = OutputDir+'/'+GatherFavorites.SanitizeTitle(Book['title_without_series'])
+            EntryPath = EntryPath.replace('\\','/').replace('//','/')
+            Book['EntryPath'] = EntryPath
+            Book['Entry_py'] = EntryPath+'/info.py'
+            Book['Entry_json'] = EntryPath+'/entry.json'
+            Book['Entry_thumb'] = EntryPath+'/thumb.jpg'
+            Book['EntryAdded'] = datetime.datetime.strftime(datetime.datetime.now(), '%m-%d-%Y')
+            
+            if not os.path.exists(HtmlDir+EntryPath):
+                os.makedirs(HtmlDir+EntryPath)
+            print('DownloadThumbIfNecessary!', )
+            GatherFavorites.DownloadThumbIfNecessary(Book['image_url'], HtmlDir+Book['Entry_thumb'])
+        Entry = Book #Overwrite Entry reference
+        Entries[Entry['EntryURL']] = Entry
     
-    Books = []
-    for review in reviews:
-        print(review.tag, review.attrib, review.text)
-        bookdata = review.find('book')
-        Book = GetTextData(bookdata)
-        Authors = []
-        for authordata in bookdata.find('authors'):
-            Author = GetTextData(authordata)
-            Authors.append(Author)
-        Book['authors'] = Authors
-        Books.append(Book)
-    pprint(Books)
+    GatherFavorites.WriteEntries(HtmlDir, Entries)
     
     '''
     Book['id'] = book.find('id').text
@@ -112,8 +105,41 @@ def GetListData(user_id, shelf, key):
     Book['published'] = book.find('published').text
     Book['work'] = book.find('work').text
     '''
+
+
+def RemoveReviews(MyDict):
+    delete_keys = ['text_reviews_count', 'ratings_count', 'average_rating']
+    for key in delete_keys:
+        if key in MyDict.keys():
+            del MyDict[key]
+
+def GetTextData(DataTree):
+    Result = {}
+    for child in DataTree:
+        Result[child.tag] = child.text
+    RemoveReviews(Result)
+    return Result
+
+def GetListData(user_id, shelf, key):
+    page = '1'
+    per_page = '200'
     
-    return []
+    response = requests.get('https://www.goodreads.com/review/list?v=2&id='+user_id+'&shelf='+shelf+'&page='+page+'&per_page='+per_page+'&key='+key)
+    tree = ElementTree.fromstring(response.content)
+    
+    Books = {}
+    for review in tree.find('reviews'):
+        print(review.tag, review.attrib, review.text)
+        bookdata = review.find('book')
+        Book = GetTextData(bookdata)
+        Authors = []
+        for authordata in bookdata.find('authors'):
+            Author = GetTextData(authordata)
+            Authors.append(Author)
+        Book['authors'] = Authors
+        Book['EntryURL'] = Book['link']
+        Books[Book['EntryURL']] = Book
+    return Books
 
 if __name__ == '__main__':
     user_id = sys.argv[1]

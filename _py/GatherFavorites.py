@@ -99,6 +99,17 @@ def SanitizeTitle(Title):
             Result += '-'
     return Result
 
+def DownloadThumbIfNecessary(ThumbURL, Entry_thumb):
+    if not os.path.exists(Entry_thumb):
+        jpg = urllib.urlopen(ThumbURL)
+        with open(Entry_thumb, 'wb') as file:
+            file.write(jpg.read())
+        streamdict = ffmpegScripts.ffmpeg_getStream(Entry_thumb)
+        width = int(streamdict['width'])
+        height = int(streamdict['height'])
+        if width != 150 or height != 225:
+            ffmpegScripts.ResizeImage(Entry_thumb, 150, 225)
+
 def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
     #print('GetIMDB!', url, HtmlDir, OutputDir)
     #match = soup.find('div', class_='footer')
@@ -141,16 +152,8 @@ def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
                 os.makedirs(HtmlDir+EntryPath)
             Entry = Item #Overwrite possibly existing Entry reference here to update data
         Entries[Entry['EntryURL']] = Entry
-        if not os.path.exists(HtmlDir+Entry['Entry_thumb']):
-            jpg = urllib.urlopen(Entry['image'])
-            with open(HtmlDir+Entry['Entry_thumb'], 'wb') as file:
-                file.write(jpg.read())
-        streamdict = ffmpegScripts.ffmpeg_getStream(HtmlDir+Entry['Entry_thumb'])
-        width = int(streamdict['width'])
-        height = int(streamdict['height'])
-        if width != 150 or height != 225:
-            ffmpegScripts.ResizeImage(HtmlDir+Entry['Entry_thumb'], 150, 225)
-        
+        DownloadThumbIfNecessary(Entry['image'], HtmlDir+Entry['Entry_thumb'])
+            
     WriteEntries(HtmlDir, Entries)
 
 def GetRawg(url, HtmlDir, OutputDir, UpdateAll=False):
