@@ -240,7 +240,17 @@ Shuffle.ClassName = {
   CONCEALED: 'concealed'
 };
 
-
+function CalculateGutterWidth(containerWidth){
+    var ColumnWidth = 150;
+    var MinGutterWidth = 10;
+    
+    var MinTotalWidth = ColumnWidth+MinGutterWidth;
+    var NumberOfColumns = Math.floor(containerWidth/MinTotalWidth);
+    var NumberOfGutters = NumberOfColumns-1;
+    var TotalGutterSpace = containerWidth-(ColumnWidth*NumberOfColumns);
+    var GutterWidth = TotalGutterSpace/NumberOfGutters;
+    return GutterWidth;
+}
 // Overrideable options
 Shuffle.options = {
   group: ALL_ITEMS, // Initial filter group.
@@ -248,7 +258,7 @@ Shuffle.options = {
   easing: 'ease-out', // CSS easing function to use.
   itemSelector: '', // e.g. '.picture-item'.
   sizer: null, // Sizer element. Use an element to determine the size of columns and gutters.
-  gutterWidth: 100, // A static number or function that tells the plugin how wide the gutters between columns are (in pixels).
+  gutterWidth: CalculateGutterWidth, // A static number or function that tells the plugin how wide the gutters between columns are (in pixels).
   columnWidth: 150, // A static number or function that returns a number which tells the plugin how wide the columns are (in pixels).
   delimeter: null, // If your group is not json, and is comma delimeted, you could set delimeter to ','.
   buffer: 0, // Useful for percentage based heights when they might not always be exactly the same (in pixels).
