@@ -40,7 +40,7 @@ def main(user_id, key):
             
             if not os.path.exists(HtmlDir+EntryPath):
                 os.makedirs(HtmlDir+EntryPath)
-            GatherFavorites.DownloadThumbIfNecessary(Game['background_image'], HtmlDir+Game['Entry_thumb'])
+            GatherFavorites.DownloadThumbIfNecessary(Game['background_image'], HtmlDir+Game['Entry_thumb'], crop=True)
         else:
             Entry = Entries[Game['EntryURL']]
             for key in Entry.keys():

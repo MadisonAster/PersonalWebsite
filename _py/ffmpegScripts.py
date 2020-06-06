@@ -29,14 +29,28 @@ def ffmpeg_getStream(filePath):
         
     return streamDict
 
-def ResizeImage(FilePath, width, height):
+def ResizeImage(FilePath, width, height, crop=False):
     FilePath = FilePath.replace('\\','/')
     streamdict = ffmpeg_getStream(FilePath)
     owidth = int(streamdict['width'])
     oheight = int(streamdict['height'])
     TempPath = FilePath.rsplit('/',1)[0]+'/old_'+FilePath.rsplit('/',1)[-1]
     os.rename(FilePath, TempPath)
-    ffmpegStr = "ffmpeg -i "+TempPath+" -vf scale="+str(width)+":"+str(height)+" "+FilePath
+    if crop:
+        print('CROOOOOOOOOOOOOOOOOOOOOOOOOP')
+        if owidth/width > oheight/height:
+            cheight = height
+            cwidth = owidth/(oheight/height)
+            mwidth = (cwidth-width)/2
+            cropeffect = 'crop='+str(width)+':'+str(height)+':'+str(mwidth)+':0'
+        else:
+            cwidth = width
+            cheight = oheight/(owidth/width)
+            mheight = (cheight-height)/2
+            cropeffect = 'crop='+str(width)+':'+str(height)+':0:'+str(mheight)
+        ffmpegStr = "ffmpeg -i "+TempPath+" -vf scale="+str(cwidth)+":"+str(cheight)+","+cropeffect+" "+FilePath
+    else:
+        ffmpegStr = "ffmpeg -i "+TempPath+" -vf scale="+str(width)+":"+str(height)+" "+FilePath
     subprocess.call(ffmpegStr, shell=True)
     os.remove(TempPath)
     

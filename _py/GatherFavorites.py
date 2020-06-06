@@ -99,7 +99,7 @@ def SanitizeTitle(Title):
             Result += '-'
     return Result
 
-def DownloadThumbIfNecessary(ThumbURL, Entry_thumb):
+def DownloadThumbIfNecessary(ThumbURL, Entry_thumb, crop=False):
     if not os.path.exists(Entry_thumb):
         jpg = urllib.urlopen(ThumbURL)
         with open(Entry_thumb, 'wb') as file:
@@ -108,7 +108,7 @@ def DownloadThumbIfNecessary(ThumbURL, Entry_thumb):
         width = int(streamdict['width'])
         height = int(streamdict['height'])
         if width != 150 or height != 225:
-            ffmpegScripts.ResizeImage(Entry_thumb, 150, 225)
+            ffmpegScripts.ResizeImage(Entry_thumb, 150, 225, crop=crop)
 
 def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
     #print('GetIMDB!', url, HtmlDir, OutputDir)
