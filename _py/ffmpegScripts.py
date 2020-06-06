@@ -37,7 +37,6 @@ def ResizeImage(FilePath, width, height, crop=False):
     TempPath = FilePath.rsplit('/',1)[0]+'/old_'+FilePath.rsplit('/',1)[-1]
     os.rename(FilePath, TempPath)
     if crop:
-        print('CROOOOOOOOOOOOOOOOOOOOOOOOOP')
         if owidth/width > oheight/height:
             cheight = height
             cwidth = owidth/(oheight/height)

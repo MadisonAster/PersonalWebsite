@@ -47,7 +47,6 @@ def main(user_id, key):
                 Game[key] = Entry[key]
         Entry = Game #Overwrite Entry reference
         Entries[Entry['EntryURL']] = Entry
-        break
     GatherFavorites.WriteEntries(HtmlDir, Entries)
 
 def GetImageURL(BookURL):
@@ -70,10 +69,13 @@ def PopulateGame(Game):
     #gamedata.populate()
     
     Game['name'] = gamedata.name
-    Game['genres'] = gamedata.genres
     Game['added'] = gamedata.added
     Game['slug']  = gamedata.slug
     Game['background_image'] = gamedata.background_image
+    genres = []
+    for genre in gamedata.genres:
+        genres.append(genre.name)
+    Game['genres'] = genres
     platforms = []
     for platform in gamedata.platforms:
         platforms.append(platform.name)
@@ -82,12 +84,10 @@ def PopulateGame(Game):
     for developer in gamedata.developers:
         developers.append(developer.name)
     Game['developers'] = developers
-    #Game['developers'] = gamedata.developers
     publishers = []
     for publisher in gamedata.publishers:
         publishers.append(publisher.name)
     Game['publishers'] = publishers
-    #Game['publishers'] = gamedata.publishers
     
     if hasattr(gamedata, 'released'):
         Game['released'] = gamedata.released
@@ -100,9 +100,8 @@ def GetListData(user_id, shelf, key):
     global _RAWG
     user = _RAWG.get_user(user_id)
     user.populate()
-    
     Games = {}
-    for gamedata in user.games:
+    for gamedata in user.beaten:
         Game = {
             'name' : gamedata.name,
             'slug' : gamedata.slug,
