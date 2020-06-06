@@ -47,6 +47,7 @@ def main(user_id, key):
                 Game[key] = Entry[key]
         Entry = Game #Overwrite Entry reference
         Entries[Entry['EntryURL']] = Entry
+        break
     GatherFavorites.WriteEntries(HtmlDir, Entries)
 
 def GetImageURL(BookURL):
@@ -70,12 +71,23 @@ def PopulateGame(Game):
     
     Game['name'] = gamedata.name
     Game['genres'] = gamedata.genres
-    Game['platforms'] = gamedata.platforms
-    Game['developers'] = gamedata.developers
-    Game['publishers'] = gamedata.publishers
     Game['added'] = gamedata.added
     Game['slug']  = gamedata.slug
     Game['background_image'] = gamedata.background_image
+    platforms = []
+    for platform in gamedata.platforms:
+        platforms.append(platform.name)
+    Game['platforms'] = platforms
+    developers = []
+    for developer in gamedata.developers:
+        developers.append(developer.name)
+    Game['developers'] = developers
+    #Game['developers'] = gamedata.developers
+    publishers = []
+    for publisher in gamedata.publishers:
+        publishers.append(publisher.name)
+    Game['publishers'] = publishers
+    #Game['publishers'] = gamedata.publishers
     
     if hasattr(gamedata, 'released'):
         Game['released'] = gamedata.released
