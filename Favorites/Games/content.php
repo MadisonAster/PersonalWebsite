@@ -28,7 +28,7 @@ foreach ($Gamesdirs as &$dir){
         $infoArray['Description'] = str_replace('\x94', '"', $infoArray['Description']);
         $infoArray['Description'] = str_replace('\x97', "", $infoArray['Description']);
         
-        echo "<figure id='fig_movInfo_$varName' class='picture-item' style='margin:0;' data-groups=\"['none']\" data-added='".$infoArray['Added']."' data-released='".$infoArray['Released']."' data-title='".$infoArray['Title']."' data-rating='".$infoArray['Ratings']['Votes']."' data-imdbscore='".$infoArray['Ratings']['IMDB']."'>\n";
+        echo "<figure id='fig_movInfo_$varName' class='picture-item' style='margin:0;' data-groups=\"['none']\" data-added='".$infoArray['EntryAdded']."' data-released='".$infoArray['released']."' data-title='".$infoArray['name']."' data-rating='".$infoArray['Ratings']['Votes']."' data-imdbscore='".$infoArray['Ratings']['IMDB']."'>\n";
         echo "    <div id='movInfo_$varName' style='width:100%;height:305px;background-color:#111111;padding:1%;display:none;overflow-y:scroll;'>\n";
         
         echo "    <table style='width:100%;'>\n";
@@ -36,7 +36,7 @@ foreach ($Gamesdirs as &$dir){
         echo "    <td style='width:150px;'>\n";
         echo "    <img src='./_Assets/150x225_loading.gif' psrc='./_Assets/150x225_loading.gif' rsrc='$dir/thumb.jpg' style='width:150px;height:225px;'></img>\n";
         echo "    <div style='width:150px;height:80px;text-align:center;color:#FFFFFF;text-shadow: 2px 2px 0px rgba(0, 0, 0, 1.0);'>\n";
-        echo "    ".$infoArray['title_without_series']."\n";
+        echo "    ".$infoArray['name']."\n";
         echo "    </div>\n";
         echo "    </td>\n";
         echo "    <td>\n";
@@ -94,7 +94,7 @@ foreach ($Gamesdirs as &$dir){
         echo "    <img src='./_Assets/150x225_loading.gif' psrc='./_Assets/150x225_loading.gif' rsrc='$dir/thumb.jpg' data-original='$dir/thumb.jpg' style='width:150px;height:225px;'></img>\n";
         echo "    <br/>\n";
         echo "    <div style='width:150px;height:80px;text-align:center;color:#FFFFFF;text-shadow: 2px 2px 0px rgba(0, 0, 0, 1.0);'>\n";
-        echo "    ".$infoArray['title_without_series']."\n";
+        echo "    ".$infoArray['name']."\n";
         echo "    </div>\n";
         echo "    </a>\n";
         echo "</figure>\n";
