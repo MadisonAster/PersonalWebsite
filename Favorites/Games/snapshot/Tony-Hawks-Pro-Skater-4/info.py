@@ -6,6 +6,14 @@
  'Entry_thumb': 'Favorites/Games/snapshot/Tony-Hawks-Pro-Skater-4/thumb.jpg',
  'added': 152,
  'background_image': 'https://media.rawg.io/media/screenshots/c39/c391b587cffb4e013d7854e03a03647c.jpg',
+ 'description': "<p>Tony Hawk's Pro Skater 4 is a sports-arcade game developed "
+                'by Beenox, Neversoft and Vicarious Visions. It was originally '
+                'released in 2002. It was published by Aspyr. Most rawgers '
+                'rated the game as "Recommended". <br>Tony Hawk\'s Pro Skater '
+                '4 is available on PC, Xbox, GameCube and Classic Macintosh. '
+                '</p>\n'
+                '\n'
+                '<p></p>',
  'developers': ['Beenox', 'Neversoft', 'Vicarious Visions'],
  'genres': ['Sports', 'Arcade'],
  'name': "Tony Hawk's Pro Skater 4",

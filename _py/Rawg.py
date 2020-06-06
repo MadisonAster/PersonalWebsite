@@ -66,9 +66,9 @@ def PopulateGame(Game):
     global _RAWG
     print('PopulateGame!', Game)
     gamedata = _RAWG.get_game(Game['slug'])
-    #gamedata.populate()
     
     Game['name'] = gamedata.name
+    Game['description'] = gamedata.description
     Game['added'] = gamedata.added
     Game['slug']  = gamedata.slug
     Game['background_image'] = gamedata.background_image

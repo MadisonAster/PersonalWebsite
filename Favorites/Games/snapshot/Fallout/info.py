@@ -6,6 +6,8 @@
  'Entry_thumb': 'Favorites/Games/snapshot/Fallout/thumb.jpg',
  'added': 13,
  'background_image': 'https://media.rawg.io/media/screenshots/db0/db0f4370a65a6edf37292819fc80e2f2.jpg',
+ 'description': '<p>This is a game great for Call Of Duty fans and for FPS '
+                'fans.</p>',
  'developers': ['DA games'],
  'genres': [],
  'name': 'Fallout',

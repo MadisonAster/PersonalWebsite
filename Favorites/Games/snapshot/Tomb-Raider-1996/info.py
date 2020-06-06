@@ -6,6 +6,13 @@
  'Entry_thumb': 'Favorites/Games/snapshot/Tomb-Raider-1996/thumb.jpg',
  'added': 292,
  'background_image': 'https://media.rawg.io/media/screenshots/dfc/dfc6b42f0833183b0491403ec93653a7.jpg',
+ 'description': '<p>Take control of the most famous woman in gaming, in Lara’s '
+                'original adventure that started it all. Explore massive '
+                'prehistoric worlds, fight savage beasts and outwit rival '
+                'treasure hunters. Fraught with intrigue, excitement and '
+                'danger, Lara’s adventure takes her from the ancient ruins of '
+                'the Incans to the lost city of Atlantis in search of the '
+                'mysterious Scion.</p>',
  'developers': ['Core Design Limited'],
  'genres': ['Action'],
  'name': 'Tomb Raider',

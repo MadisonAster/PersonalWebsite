@@ -6,6 +6,13 @@
  'Entry_thumb': 'Favorites/Games/snapshot/Ultima-8-Pagan/thumb.jpg',
  'added': 53,
  'background_image': 'https://media.rawg.io/media/screenshots/c78/c7851aa3b3e7c60f56f675684ba11c3e.jpg',
+ 'description': '<p>Ultima VIII: Pagan is a RPG game developed by Origin '
+                'Systems. It was originally released in 1994. It was published '
+                'by Electronic Arts. Most rawgers rated the game as "Meh". '
+                '<br>You can play Ultima VIII: Pagan on PC. <br>It was '
+                'produced by Richard Garriott. It was directed by Mike '
+                'McShaffry. It was scored by Kirk Winterrowd and Nenad '
+                'Vugrinec. <br></p>',
  'developers': ['Origin Systems'],
  'genres': ['RPG'],
  'name': 'Ultima VIII: Pagan',

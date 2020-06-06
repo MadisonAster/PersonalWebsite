@@ -6,6 +6,10 @@
  'Entry_thumb': 'Favorites/Games/snapshot/Fable-2/thumb.jpg',
  'added': 57,
  'background_image': 'https://media.rawg.io/media/screenshots/686/6861d78c6705ac95094f528e35de3106.jpg',
+ 'description': '<p>Fable is an action, adventure and RPG game. It was '
+                'originally released in 2004. Most rawgers rated the game as '
+                '"Recommended". <br>Fable is available on macOS, Xbox and PC. '
+                '<br>Danny Elfman and Russell Shaw scored the game. <br></p>',
  'developers': [],
  'genres': ['Action', 'Adventure', 'RPG'],
  'name': 'Fable',
