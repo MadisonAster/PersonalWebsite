@@ -40,10 +40,11 @@ DONE - Combine DemoReel into Projects
 DONE - Fix Movie favorites
 DONE - Fix TV favorites
 DONE - Add GoodReads
+DONE - Add rawg.io
+DONE - Fix favorites thumbnail layout
 
-Add rawg.io
-Fix favorites thumbnail layout
 Add Firefox Bookmarks tree
+Fix favorites popup content layout
 
 Add wall tracing line
 Add right wall tracing
