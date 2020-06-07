@@ -14,7 +14,7 @@ import rawgpy
 
 import GatherFavorites
 
-def main(user_id, key):
+def main(user_id):
     global _RAWG
     _RAWG = rawgpy.RAWG("User-Agent, www.MadisonAster.com/Favorites")
     
@@ -23,7 +23,7 @@ def main(user_id, key):
     UpdateAll = GatherFavorites.GetSchedule()
     
     Entries = GatherFavorites.GetEntries(HtmlDir+OutputDir)
-    Games = GetListData(user_id, 'favorites', key)
+    Games = GetListData(user_id, 'favorites')
     GatherFavorites.TestData(Entries, Games.keys())
     
     for Game in Games.values():
@@ -96,7 +96,7 @@ def PopulateGame(Game):
     if hasattr(gamedata, 'share_image'):
         Game['share_image'] = gamedata.share_image
 
-def GetListData(user_id, shelf, key):
+def GetListData(user_id, shelf):
     global _RAWG
     user = _RAWG.get_user(user_id)
     user.populate()
@@ -113,8 +113,5 @@ def GetListData(user_id, shelf, key):
 
 if __name__ == '__main__':
     user_id = sys.argv[1]
-    #key = sys.argv[2]
-    key = 'none'
-    print('user_id', user_id)
-    main(user_id, key)
+    main(user_id)
 

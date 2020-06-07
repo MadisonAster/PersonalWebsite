@@ -25,9 +25,6 @@ def main():
     
     GetIMDB(GetURLs.GetFavoriteTVURL(), HtmlDir, TVDir, UpdateAll=UpdateAll)
     GetIMDB(GetURLs.GetFavoriteMoviesURL(), HtmlDir, MoviesDir, UpdateAll=UpdateAll)
-    #GetRawg(GetURLs.GetFavoriteGamesURL(), HtmlDir, GamesDir, UpdateAll=UpdateAll)
-    #GetFirefox(GetURLs.GetFavoriteBookmarksURL(), HtmlDir, BookmarksDir, UpdateAll=UpdateAll)
-    pass
 
 def GetSchedule():
     if int(datetime.datetime.strftime(datetime.datetime.now(), '%d')) == 1: #UpdateAll every 1st of the month
@@ -156,40 +153,6 @@ def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
             DownloadThumbIfNecessary(Entry['image'], HtmlDir+Entry['Entry_thumb'])
             
     WriteEntries(HtmlDir, Entries)
-
-def GetRawg(url, HtmlDir, OutputDir, UpdateAll=False):
-    ExistingEntries = os.listdir(OutputDir)
-    html = getAndSanitize(url)
-    
-    with open(OutputDir+'/index.html', 'w') as file:
-        file.write(html)
-
-def GetFirefox(url, HtmlDir, OutputDir, UpdateAll=False):
-    ExistingEntries = os.listdir(OutputDir)
-    html = getAndSanitize(url)
-    
-    with open(OutputDir+'/index.html', 'w') as file:
-        file.write(html)
-
-def getAndSanitize(url):
-    domain = url.strip('http://')
-    domain = domain.strip('https://')
-    domain = 'http://'+domain.split('/',1)[0]+'/'
-    
-    response = urllib2.urlopen(url)
-    html = response.read()
-
-    expression = re.compile('<script.*?/script>', flags=re.DOTALL)
-    html = re.sub(expression, '', html)
-
-    expression = re.compile('<iframe.*?/iframe>', flags=re.DOTALL)
-    html = re.sub(expression, '', html)
-    
-    html = html.replace('<a href="/', '<a href="'+domain)
-    html = html.replace("<a href='/", "<a href='"+domain)
-    
-    return html
-    
 
 if __name__ == '__main__':
     main()
