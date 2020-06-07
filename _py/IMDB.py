@@ -36,7 +36,7 @@ def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
     #match = soup.find('div', class_='footer')
     #for match in soup.find_all('div', class_='footer')
     
-    Entries = GatherFavoritesGetEntries(HtmlDir+OutputDir)
+    Entries = GatherFavorites.GetEntries(HtmlDir+OutputDir)
     URLList = GetIMDBListData(url)
     GatherFavorites.TestData(Entries, URLList)
     
