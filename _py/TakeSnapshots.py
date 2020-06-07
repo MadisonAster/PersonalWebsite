@@ -400,4 +400,7 @@ if __name__ == '__main__':
     FunctionName = sys.argv[0]
     url = sys.argv[1]
     SnapshotFolder = sys.argv[2]
+    print('FunctionName', FunctionName)
+    print('url', url)
+    print('SnapshotFolder', SnapshotFolder)
     main(FunctionName, url, SnapshotFolder)
