@@ -8,7 +8,6 @@ import json
 from bs4 import BeautifulSoup
 import requests
 
-import GetURLs
 import GatherFavorites
 
 def main(url, OutputDir):
@@ -80,11 +79,6 @@ def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
     GatherFavorites.WriteEntries(HtmlDir, Entries)
 
 if __name__ == '__main__':
-    MoviesDir = 'Favorites/Movies/snapshot/'
-    TVDir = 'Favorites/TV/snapshot/'
-    main(GetURLs.GetFavoriteTVURL(), TVDir)
-    main(GetURLs.GetFavoriteMoviesURL(), MoviesDir)
-    
     url = sys.argv[0]
     OutputDir = sys.argv[1]
     main(url, OutputDir)
