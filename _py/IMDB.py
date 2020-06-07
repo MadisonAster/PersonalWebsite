@@ -81,6 +81,4 @@ def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
 if __name__ == '__main__':
     url = sys.argv[1]
     OutputDir = sys.argv[2]
-    print('url', url)
-    print('OutputDir', OutputDir)
     main(url, OutputDir)
