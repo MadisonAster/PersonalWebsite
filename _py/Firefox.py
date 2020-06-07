@@ -22,6 +22,7 @@ def main(username):
     
     
     
+    
 def ExecuteQuery(cursor, query):
     try:
         cursor.execute(query)
