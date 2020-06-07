@@ -3,27 +3,21 @@ import urllib.request as urllib
 import traceback
 import datetime, time
 
-import GetURLs
-
-def main():
+def main(FunctionName, url, SnapshotFolder):
     #Takes:
     #Performs: calls to getAndSanitizeHTML, downloadFiles_SaveHTML
     #Returns:
     
-    htmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0]
-    try:
-        GetIMDB(GetURLs.GetIMDBURL(), htmlDir+'IMDB/snapshot')
-    except:
-        print(traceback.format_exc())
-    try:
-        GetGitHub(GetURLs.GetGitHubURL(), htmlDir+'GitHub/snapshot')
-    except:
-        print(traceback.format_exc())
-    try:
-        GetCodeWars(GetURLs.GetCodeWarsURL(), htmlDir+'CodeWars/snapshot')
-    except:
-        print(traceback.format_exc())
-    #GetLinkedIn(GetURLs.GetLinkedInURL(), htmlDir+'LinkedIn/snapshot')
+    HtmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0]
+    
+    if FunctionName == 'GetIMDB':
+        GetIMDB(url, HtmlDir+SnapshotFolder)
+    elif FunctionName == 'GetGitHub':
+        GetGitHub(url, HtmlDir+SnapshotFolder)
+    elif FunctionName == 'GetCodeWars':
+        GetCodeWars(url, HtmlDir+SnapshotFolder)
+    elif FunctionName == 'GetLinkedIn':
+        GetLinkedIn(url, HtmlDir+SnapshotFolder)
 
 def GetElementsBySearchString(html, SearchString):
     sections = html.split(SearchString)
@@ -41,13 +35,12 @@ def GetAttrValueFromStringElement(StringElement, AttributeName):
         return  c[1:].split(c[0],1)[0]
     else:
         return c
-        
-        
+
 def GetLinkedIn(url, SnapshotFolder):
     #Takes: url as valid public url
     #Performs: downloads html response from server
     #Returns: html as str
-    
+    return 
     #########################Load HTML############################
     domain = url.strip('http://')
     domain = domain.strip('https://')
@@ -147,6 +140,7 @@ def GetLinkedIn(url, SnapshotFolder):
     file.write(html.encode('utf-8'))
     file.close()
     ###############################################################
+
 def GetCodeWars(url, SnapshotFolder):
     #Takes: url as valid public url
     #Performs: downloads html response from server
@@ -402,6 +396,8 @@ def GetIMDB(url, SnapshotFolder):
     file.close()
     ###############################################################
 
-    
 if __name__ == '__main__':
-    main()
+    FunctionName = sys.argv[0]
+    url = sys.argv[1]
+    SnapshotFolder = sys.argv[2]
+    main(FunctionName, url, SnapshotFolder)
