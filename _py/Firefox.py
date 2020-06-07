@@ -16,7 +16,7 @@ def main(username):
     Bookmarks, StudiesFolder = GetFolderTree(cursor, TargetFolder='Studies')
     Bookmarks = GetBookmarks(cursor, Bookmarks)
     Bookmarks = GetKeywords(cursor, Bookmarks)
-    #pprint(StudiesFolder)
+    pprint(StudiesFolder)
 
     cursor.close()
     
@@ -71,7 +71,6 @@ def GetFolderTree(cursor, TargetFolder=None):
         if TargetFolder:
             if title == TargetFolder:
                 SelectedFolder = Bookmarks['AllFolders'][str(id)]
-                SelectedFolder['AllFolders'] = Bookmarks['AllFolders']
     return Bookmarks, SelectedFolder
 
 def GetBookmarks(cursor, Bookmarks):
