@@ -52,6 +52,8 @@ Add CoolWalls folder scan
 Add CoolWalls async loading
 Debug Maze
 
+Arrest New Tab race condition
+
 Update skills list
 Rewrite About Me
 Update seo tags
