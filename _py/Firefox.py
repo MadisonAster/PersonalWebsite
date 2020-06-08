@@ -40,8 +40,8 @@ def main(username):
     #################################
     
     ##########Write Data#############
+    #pprint(StudiesFolder)
     Entries = {'StudiesFolder' : StudiesFolder}
-    
     GatherFavorites.WriteEntries(HtmlDir, Entries)
     #################################
     
@@ -84,17 +84,21 @@ def GetFolderTree(cursor, TargetFolder=None):
         title = row[2]
         
         Bookmarks['AllFolders'][str(id)] = {
-            'id':id,
-            'parent':parent,
-            '_title':title,
+            'id':str(id),
+            'parent':str(parent),
+            '_title':str(title),
             'folders':[],
             'links':[],
         }
-        Bookmarks['AllFolders'][str(parent)]['folders'].append(Bookmarks['AllFolders'][str(id)])
-        
         if TargetFolder:
             if title == TargetFolder:
                 SelectedFolder = Bookmarks['AllFolders'][str(id)]
+    for folderkey in Bookmarks['AllFolders'].keys():
+        if folderkey == '0':
+            continue
+        else:
+            folder = Bookmarks['AllFolders'][folderkey]
+        Bookmarks['AllFolders'][folder['parent']]['folders'].append(folder)
     return Bookmarks, SelectedFolder
 
 def GetBookmarks(cursor, Bookmarks):
@@ -130,10 +134,10 @@ def GetBookmarks(cursor, Bookmarks):
     for row in cursor:
         bookmark = {}
         for key, item in zip(keys, row):
-            bookmark[key] = item
-        ParentFolder = Bookmarks['AllFolders'][str(bookmark['parent'])]
+            bookmark[key] = str((item))
+        ParentFolder = Bookmarks['AllFolders'][bookmark['parent']]
         ParentFolder['links'].append(bookmark)
-        Bookmarks['AllLinks'][str(bookmark['place_id'])] = bookmark
+        Bookmarks['AllLinks'][bookmark['place_id']] = bookmark
     return Bookmarks
 
 def GetKeywords(cursor, Bookmarks):
@@ -147,7 +151,7 @@ def GetKeywords(cursor, Bookmarks):
         place_id = row[2]
         bookmark = Bookmarks['AllLinks'][str(place_id)]
         for key, item in zip(keys, row):
-            bookmark[key] = item
+            bookmark[key] = str(item)
     return Bookmarks
 
 if __name__ == '__main__':
