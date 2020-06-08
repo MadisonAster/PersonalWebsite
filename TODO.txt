@@ -44,8 +44,13 @@ DONE - Add rawg.io
 DONE - Fix favorites thumbnail layout
 DONE - Rewrite About Me
 
+Add Firefox Bookmarks data
 Add Firefox Bookmarks tree
+Clean up bookmarks folder
+Connect Skills tree links to positional Favorites tab links
 Fix favorites popup content layout
+Install firefox on server or gain access to mozilla data endpoint
+Enable firefox cron job
 
 Add wall tracing line
 Add right wall tracing
@@ -53,6 +58,8 @@ Add CoolWalls folder scan
 Add CoolWalls async loading
 Debug Maze
 
+Write PersonalWebsite README
+Write list of interview questions
 Arrest New Tab race condition
 
 Update skills list
@@ -60,10 +67,6 @@ Update seo tags
 Combine resume/cv
 Add Bookshelf project
 Add Toyota Project
-
-Write list of interview questions
-
-Write PersonalWebsite README
 
 Fix Backups
 
