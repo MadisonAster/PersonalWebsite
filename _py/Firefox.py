@@ -3,6 +3,8 @@ import sqlite3
 from pprint import pprint
 
 def main(username):
+    HtmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0].replace('\\','/')
+    
     bookmarks_path = "C:/Users/"+username+"/AppData/Roaming/Mozilla/Firefox/Profiles/"
     profiles = [i for i in os.listdir(bookmarks_path) if i.endswith('.default-release')]
     sqlite_path = bookmarks_path+ profiles[0]+'/places.sqlite'
@@ -17,7 +19,9 @@ def main(username):
     Bookmarks = GetBookmarks(cursor, Bookmarks)
     Bookmarks = GetKeywords(cursor, Bookmarks)
     pprint(StudiesFolder)
-
+    
+    
+    
     cursor.close()
     
     
