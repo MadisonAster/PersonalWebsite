@@ -1,6 +1,10 @@
 import os, sys
+import datetime, time
 import sqlite3
 from pprint import pprint
+
+import GatherFavorites
+
 
 def main(username):
     ############Paths################
@@ -21,22 +25,22 @@ def main(username):
     Bookmarks, StudiesFolder = GetFolderTree(cursor, TargetFolder='Studies')
     Bookmarks = GetBookmarks(cursor, Bookmarks)
     Bookmarks = GetKeywords(cursor, Bookmarks)
-    pprint(StudiesFolder)
+    #pprint(StudiesFolder)
     
     cursor.close()
     #################################
     
     ######Populate standard keys#####
-    Bookmarks['EntryURL'] = bookmarks_path
-    Bookmarks['EntryPath'] = OutputDir
-    Bookmarks['Entry_py'] = OutputDir+'/info.py'
-    Bookmarks['Entry_json'] = OutputDir+'/entry.json'
-    Bookmarks['Entry_thumb'] = OutputDir+'/thumb.jpg'
-    Bookmarks['EntryAdded'] = datetime.datetime.strftime(datetime.datetime.now(), '%m-%d-%Y')
+    StudiesFolder['EntryURL'] = sqlite_path
+    StudiesFolder['EntryPath'] = OutputDir
+    StudiesFolder['Entry_py'] = OutputDir+'info.py'
+    StudiesFolder['Entry_json'] = OutputDir+'entry.json'
+    StudiesFolder['Entry_thumb'] = OutputDir+'thumb.jpg'
+    StudiesFolder['EntryAdded'] = datetime.datetime.strftime(datetime.datetime.now(), '%m-%d-%Y')
     #################################
     
     ##########Write Data#############
-    Entries = [Bookmarks]
+    Entries = {'StudiesFolder' : StudiesFolder}
     
     GatherFavorites.WriteEntries(HtmlDir, Entries)
     #################################
@@ -64,7 +68,7 @@ def GetFolderTree(cursor, TargetFolder=None):
         '0': {
             'id':'0',
             'parent':'',
-            'title':'',
+            '_title':'',
             'folders':[],
             'links':[],
         },
@@ -82,7 +86,7 @@ def GetFolderTree(cursor, TargetFolder=None):
         Bookmarks['AllFolders'][str(id)] = {
             'id':id,
             'parent':parent,
-            'title':title,
+            '_title':title,
             'folders':[],
             'links':[],
         }
@@ -113,7 +117,7 @@ def GetBookmarks(cursor, Bookmarks):
     """
     keys = [
             'id',                       'type',                     'fk',
-            'parent',                   'position',                 'title',
+            'parent',                   'position',                 '_title',
             'keyword_id',               'folder_type',              'dateAdded',
             'lastModified',             'guid',                     
             'place_id',                 'url',                      'place_title',              'rev_host',
