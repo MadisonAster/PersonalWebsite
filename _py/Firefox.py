@@ -59,7 +59,7 @@ def GetFolderTree(cursor, TargetFolder=None):
     #Returns: A reference to the entire tree, as well as a reference to the tree from the specified folder down
     
     SQLliteQuery="""
-    SELECT moz_bookmarks.id, moz_bookmarks.parent, moz_bookmarks.title
+    SELECT moz_bookmarks.id, moz_bookmarks.parent, moz_bookmarks.title, moz_bookmarks.position
     FROM moz_bookmarks
     WHERE moz_bookmarks.type = 2;
     """
@@ -69,6 +69,7 @@ def GetFolderTree(cursor, TargetFolder=None):
             'id':'0',
             'parent':'',
             '_title':'',
+            'position':'0',
             'folders':[],
             'links':[],
         },
@@ -82,11 +83,13 @@ def GetFolderTree(cursor, TargetFolder=None):
         id = row[0]
         parent = row[1]
         title = row[2]
+        position = row[3]
         
         Bookmarks['AllFolders'][str(id)] = {
             'id':str(id),
             'parent':str(parent),
             '_title':str(title),
+            'position':str(position),
             'folders':[],
             'links':[],
         }
