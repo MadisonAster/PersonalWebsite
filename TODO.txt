@@ -42,6 +42,7 @@ DONE - Fix TV favorites
 DONE - Add GoodReads
 DONE - Add rawg.io
 DONE - Fix favorites thumbnail layout
+DONE - Rewrite About Me
 
 Add Firefox Bookmarks tree
 Fix favorites popup content layout
@@ -55,7 +56,6 @@ Debug Maze
 Arrest New Tab race condition
 
 Update skills list
-Rewrite About Me
 Update seo tags
 Combine resume/cv
 Add Bookshelf project
