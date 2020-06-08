@@ -3,28 +3,43 @@ import sqlite3
 from pprint import pprint
 
 def main(username):
+    ############Paths################
     HtmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0].replace('\\','/')
+    OutputDir = 'Favorites/Bookmarks/snapshot/'
+    UpdateAll = GatherFavorites.GetSchedule()
     
     bookmarks_path = "C:/Users/"+username+"/AppData/Roaming/Mozilla/Firefox/Profiles/"
     profiles = [i for i in os.listdir(bookmarks_path) if i.endswith('.default-release')]
     sqlite_path = bookmarks_path+ profiles[0]+'/places.sqlite'
+    #################################
     
+    ##########Get Data Tree##########
     if os.path.exists(sqlite_path):
         firefox_connection = sqlite3.connect(sqlite_path)
     cursor = firefox_connection.cursor()
-    
-    
     
     Bookmarks, StudiesFolder = GetFolderTree(cursor, TargetFolder='Studies')
     Bookmarks = GetBookmarks(cursor, Bookmarks)
     Bookmarks = GetKeywords(cursor, Bookmarks)
     pprint(StudiesFolder)
     
-    
-    
     cursor.close()
+    #################################
     
+    ######Populate standard keys#####
+    Bookmarks['EntryURL'] = bookmarks_path
+    Bookmarks['EntryPath'] = OutputDir
+    Bookmarks['Entry_py'] = OutputDir+'/info.py'
+    Bookmarks['Entry_json'] = OutputDir+'/entry.json'
+    Bookmarks['Entry_thumb'] = OutputDir+'/thumb.jpg'
+    Bookmarks['EntryAdded'] = datetime.datetime.strftime(datetime.datetime.now(), '%m-%d-%Y')
+    #################################
     
+    ##########Write Data#############
+    Entries = [Bookmarks]
+    
+    GatherFavorites.WriteEntries(HtmlDir, Entries)
+    #################################
     
     
 def ExecuteQuery(cursor, query):
