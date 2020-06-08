@@ -61,6 +61,10 @@ Combine resume/cv
 Add Bookshelf project
 Add Toyota Project
 
+Write list of interview questions
+
+Write PersonalWebsite README
+
 Fix Backups
 
 Overhaul video player
