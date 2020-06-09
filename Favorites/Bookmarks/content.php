@@ -158,20 +158,7 @@ foreach ($Bookmarks['folders'] as &$folder){
             active: true,
             as: 'html',  // or "class" or skip if using background-image url
             close: '<i class="fa fa-minus red"></i>', // or 'fa fa-minus' or './Favorits/Bookmarks/imgs/Remove2.png'
-            //close: '<i background-image="./Favorits/Bookmarks/imgs/Remove2.png"></i>',
             open: '<i class="fa fa-plus"></i>', // or 'fa fa-plus' or './Favorits/Bookmarks/imgs/Add2.png'
-            //open: '<i background-image="./Favorits/Bookmarks/imgs/Add2.png"></i>',
-            /*
-            openerCss: {
-                'float': 'left', // Default value
-                'display': 'inline-block', // Default value
-                'background-position': 'center center', // Default value
-                'background-repeat': 'no-repeat' // Default value
-                'width': '18px',
-                'height': '18px',
-                'margin-left': '-40px',
-                'margin-right': '5px',
-            },*/
             // or like a class. Note that class can not rewrite default values. To rewrite defaults you have to do it through css object.
             openerClass: 's-l-opener',
         },
