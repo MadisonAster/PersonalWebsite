@@ -166,7 +166,7 @@ foreach ($Bookmarks['folders'] as &$folder){
                 'float': 'left', // Default value
                 'width': '18px',
                 'height': '18px',
-                'margin-left': '-35px',
+                'margin-left': '-50px',
                 'margin-right': '5px',
                 'background-position': 'center center', // Default value
                 'background-repeat': 'no-repeat' // Default value
