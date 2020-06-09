@@ -23,3 +23,25 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+
+.c3 {
+    color: #f77720;
+}
+
+.fa-plus::before {
+    content: "\f067";
+}
+
+.fa-minus::before {
+    content: "\f068";
+}
+
+.s-l-opener {
+    float: left;
+    display: inline-block;
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin-left: -35px;
+    margin-right: 5px;
+    font-size: 1.1em;
+}

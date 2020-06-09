@@ -167,7 +167,7 @@ foreach ($Bookmarks['folders'] as &$folder){
                 'background-repeat': 'no-repeat' // Default value
             },
             // or like a class. Note that class can not rewrite default values. To rewrite defaults you have to do it through css object.
-            openerClass: 'yourClassName',
+            openerClass: 's-l-opener',
         },
         
         
