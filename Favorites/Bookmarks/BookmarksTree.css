@@ -20,6 +20,12 @@
     background-color: #151515;
     border: 1px solid #3f3f3f;
 }
+.LinkWrapper
+{
+    display:inline-block;
+    border:none;
+    margin-top:1px;
+}
 .LinkContent
 {
     padding: 7px;
