@@ -21,7 +21,7 @@ foreach ($Bookmarks['folders'] as &$folder){
         echo "<li id='item_".$subfolder['id']."' data-module='".$subfolder['id']."' class='s-l-closed'>";
         echo "<div>".$subfolder['_title']."</div>";
         echo "<ul class='' style=''>";
-        foreach ($folder['links'] as &$link){
+        foreach ($subfolder['links'] as &$link){
             echo "<li id='item_".$link['id']."' data-module='".$link['id']."' class='s-l-closed'>";
             echo "<div><a target='_blank' href='".$link['url']."'>".$link['_title']."</a></div>";
             echo "</li>";
