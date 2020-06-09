@@ -2,7 +2,7 @@
 <div id='BookmarksDiv' style='padding:0;margin:0;display:none;text-align:right;'>
 <div id='BookmarksTree' class='' style='width:100%;margins:0;padding:0;'>
 <ul>
-<!--
+
 <?php
 $Entry_json = './Favorites/Bookmarks/snapshot/entry.json'
 $json = file_get_contents($Entry_json);
@@ -25,7 +25,7 @@ foreach ($Bookmarks['folders'] as &$folder){
     //echo "</li>";
 };
 ?>
--->
+
 </ul>
 </div>
 Synced access to my research bookmarks, coming soon!
