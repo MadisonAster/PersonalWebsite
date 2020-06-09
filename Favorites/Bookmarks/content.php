@@ -25,7 +25,7 @@ foreach ($Bookmarks['folders'] as &$folder){
             echo "<li id='item_".$link['id']."' data-module='".$link['id']."' class='s-l-closed'>";
             echo "<div><a target='_blank' href='".$link['url']."'>".$link['_title']."</a></div>";
             echo "<ul class='' style='display:inline-block;'>";
-                echo "<div>";
+                echo "<div class='LinkContent'>";
                 if ($link['description'] != 'None'){
                     echo $link['description'];
                 };
@@ -43,7 +43,7 @@ foreach ($Bookmarks['folders'] as &$folder){
         echo "<li id='item_".$link['id']."' data-module='".$link['id']."' class='s-l-closed'>";
         echo "<div><a target='_blank' href='".$link['url']."'>".$link['_title']."</a></div>";
         echo "<ul class='' style='display:inline-block;'>";
-            echo "<div>";
+            echo "<div class='LinkContent'>";
             if ($link['description'] != 'None'){
                 echo $link['description'];
             };
