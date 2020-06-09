@@ -1,59 +1,28 @@
-<div id='BookmarksDiv' style='padding:0;margin:0;height:1000px;display:none;text-align:center;'>
-<!--
-<div id='BookmarksGrid' class='row-fluid' style='width:100%;margins:0;padding:0;'>
-<div id="jstree-proton-3">
-</div>
-PlaceHolder
+<div id='BookmarksDiv' style='padding:0;margin:0;display:none;text-align:right;'>
 
-<script>
-$(function() {
-  $('#jstree-proton-3').jstree({
-        'plugins': ["wholerow"],
-        'core': {
-            'data': [
-?  <php
-$blacklist = array('.', '..');
-$dirs = array_filter(glob('./Favorites/Bookmarks/snapshot/*'), 'is_dir');
-foreach ($dirs as &$dir){
-    if(!in_array($dir, $blacklist)){
-		$dirArray = explode("/", $dir);
-        $lastEl = array_pop((array_slice($dirArray, -1)));
-		if(file_exists($dir.'/info.php')){
-            include $dir.'/info.php';
-            echo '                    {';
-            echo '                        "text": "'.$lastEl.'",';
-            echo '                        "state": {';
-            echo '                            "selected": false';
-            echo '                        },';
-            echo '                        "children": [';
-			foreach ($infoArray as $Link => $Title){
-                echo '                            {';
-				//$tags = get_meta_tags($Link);
-				//echo "<pre>";
-				//echo "<a href='".$Link."'>".$Title."</a>";
-                echo '                            "text": "'.$Title.'",';
-                echo '                            "state": {';
-                echo '                            "selected": false';
-                echo '                            }';
-                echo '                            }, ';
-			};
-            echo '                        ]';
-            echo '                    },';
-        };
-    };
+
+<div id='BookmarksTree' class='' style='width:100%;margins:0;padding:0;'>
+<?php
+$Entry_json = './Favorites/Bookmarks/snapshot/entry.json'
+$json = file_get_contents($Entry_json);
+$Bookmarks = json_decode($json, TRUE);
+
+foreach ($Bookmarks['folders'] as &$folder){
+    $dirArray = explode("/", $dir);
+    $folderName = current(array_slice($dirArray, -1));
+    $varName = str_replace("-", "", $folderName);
+    
+    $Bookmarks['description'] = str_replace('\n', '', $Bookmarks['description']);
+    $Bookmarks['description'] = str_replace('\r', '', $Bookmarks['description']);
+    $Bookmarks['description'] = str_replace('\x92', "'", $Bookmarks['description']);
+    $Bookmarks['description'] = str_replace('\x93', '"', $Bookmarks['description']);
+    $Bookmarks['description'] = str_replace('\x94', '"', $Bookmarks['description']);
+    $Bookmarks['description'] = str_replace('\x97', "", $Bookmarks['description']);
+    
+    //echo "<figure id='fig_movInfo_$varName' class='picture-item' style='margin:0;' data-groups=\"['none']\" data-added='".$infoArray['Added']."' data-released='".$infoArray['Released']."' data-title='".$infoArray['Title']."' data-rating='".$infoArray['Ratings']['Votes']."' data-imdbscore='".$infoArray['Ratings']['IMDB']."'>\n";
+    //echo "</figure>\n";
 };
 ?>
-            ],
-            'themes': {
-                'name': 'proton',
-                'responsive': true
-            }
-        }
-    });
-    
-});
-</script>
 </div>
--->
 Synced access to my research bookmarks, coming soon!
 </div>
