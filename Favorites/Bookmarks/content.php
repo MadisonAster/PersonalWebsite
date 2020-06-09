@@ -135,9 +135,9 @@ foreach ($Bookmarks['folders'] as &$folder){
             active: true,
             as: 'html',  // or "class" or skip if using background-image url
             //close: '<i class="fa fa-minus red"></i>', // or 'fa fa-minus' or './Favorits/Bookmarks/imgs/Remove2.png'
-            close: './Favorits/Bookmarks/imgs/Remove2.png',
+            close: '<i class="./Favorits/Bookmarks/imgs/Remove2.png"></i>',
             //open: '<i class="fa fa-plus"></i>', // or 'fa fa-plus' or './Favorits/Bookmarks/imgs/Add2.png'
-            open: './Favorits/Bookmarks/imgs/Add2.png',
+            open: '<i class="./Favorits/Bookmarks/imgs/Add2.png"></i>',
             openerCss: {
                 'display': 'inline-block', // Default value
                 'float': 'left', // Default value
