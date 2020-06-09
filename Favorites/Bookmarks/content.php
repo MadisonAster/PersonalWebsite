@@ -43,7 +43,7 @@ foreach ($Bookmarks['folders'] as &$folder){
 </div>
 
 <link rel='stylesheet' type='text/css' href='./Favorites/Bookmarks/BookmarksTree.css' />
-<link rel='stylesheet' type='text/css' href='./Favorites/Bookmarks/font-awesome-4.7.0/font-awesome.min.css' />
+<link rel='stylesheet' type='text/css' href='./Favorites/Bookmarks/font-awesome-4.7.0/css/font-awesome.min.css' />
 
 <script src='./Favorites/Bookmarks/jquery-sortable-lists-mobile.js'></script>
 <script>
