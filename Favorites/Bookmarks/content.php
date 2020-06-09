@@ -1,10 +1,11 @@
 
 <script type='text/css'>
-#sTree2 li, #sortableListsBase li { background-color:#ddf, padding-left:50px }
+#BookmarksTree li, #sortableListsBase li { background-color:#ddf, padding-left:50px }
 </script>
 
 <script src='./Favorites/Bookmarks/jquery-sortable-lists-mobile.js'></script>
 <script>
+    /*
     var options = {
         placeholderCss: {'background-color': '#ff8'},
         hintCss: {'background-color':'#bbf'},
@@ -69,11 +70,11 @@
             }
         }
     };
-
+    
     $('#sTree2').sortableLists( options );
     //$('#sTreePlus').sortableLists( optionsPlus );
-
-    /*
+    */
+    
     var options = {
         // Like a css class name. Class will be removed after drop.
         currElClass: 'currElemClass',
@@ -133,12 +134,11 @@
     
     }
     $('#BookmarksTree').sortableLists(options);
-    */
+    
 </script>
 
-
 <div id='BookmarksDiv' style='padding:0;margin:0;display:none;text-align:left;'>
-<ul id='sTree2 listsClass' class='sTree2'>
+<ul id='BookmarksTree listsClass' class='BookmarksTree'>
 
 <?php
 $Entry_json = './Favorites/Bookmarks/snapshot/entry.json';
