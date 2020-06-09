@@ -13,6 +13,11 @@
     padding: 7px;
     background-color: #222;
 }
+ul, #BookmarksTree
+{
+    padding: 0;
+    background-color: #151515;
+}
 
 .fa {
     display: inline-block;
