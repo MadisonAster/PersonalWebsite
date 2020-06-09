@@ -903,7 +903,7 @@
                          'visit_count': '1'}],
               'parent': '1478',
               'position': '5'},
-             {'_title': '|Javascript|2002|50%',
+             {'_title': '|Javascript|2002|80%',
               'folders': [{'_title': 'playcanvas',
                            'folders': [],
                            'id': '1124',
@@ -5652,7 +5652,7 @@
                          'visit_count': '1'}],
               'parent': '1478',
               'position': '54'},
-             {'_title': '|Git|2013|80%',
+             {'_title': '|Git|2013|90%',
               'folders': [],
               'id': '1530',
               'links': [{'_title': 'A successful Git branching model » '
