@@ -23,8 +23,7 @@ foreach ($Bookmarks['folders'] as &$folder){
 </ul>
 </div>
 
-
-<link rel='stylesheet' type='text/css' href='./_css/MainStyle.css' />
+<link rel='stylesheet' type='text/css' href='./Favorites/Bookmarks/BookmarksTree.css' />
 
 <script src='./Favorites/Bookmarks/jquery-sortable-lists-mobile.js'></script>
 <script>
