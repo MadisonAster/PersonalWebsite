@@ -1,5 +1,5 @@
 <div id='BookmarksDiv' style='padding:0;margin:0;display:none;text-align:left;'>
-<ul id='BookmarksTree listsClass' class='BookmarksTree'>
+<ul class='FolderTree listsClass' id='BookmarksTree'>
 
 <?php
 $Entry_json = './Favorites/Bookmarks/snapshot/entry.json';
@@ -114,12 +114,12 @@ foreach ($Bookmarks['folders'] as &$folder){
         // or like a jQuery css object
         hintCss: {'background-color':'green', 'border':'1px dashed white'},
         
-        listSelector: 'ol',
-        hintWrapperClass: 'hintClass',
+        listSelector: 'ul',
+        hintWrapperClass: 'hintWrapperClass',
         // or like a jQuery css object
         hintWrapperCss: {'background-color':'green', 'border':'1px dashed white'},
     
-        listSelector: 'ol',
+        listSelector: 'ul',
         listsClass: 'FolderTree',
         // or like a jQuery css object
         listsCss: {'background-color':'silver', 'border':'1px solid white'},   
