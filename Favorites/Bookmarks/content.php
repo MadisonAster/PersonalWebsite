@@ -1,13 +1,3 @@
-<!--<link rel='stylesheet' href='./Favorites/jstree/dist/themes/proton/style.min.css' />-->
-<!--<script src='./Favorites/jstree/dist/jstree.min.js'></script>-->
-<script src='./Favorites/jquery-sortable-lists-mobile.min.js'></script>
-
-<script>
-    var options = {
-        insertZonePlus: true
-    }
-    $('.sortableLists').sortableLists(options);
-</script>
 
 <div id='BookmarksDiv' style='padding:0;margin:0;display:none;text-align:right;'>
 <div id='BookmarksTree' class='' style='width:100%;margins:0;padding:0;'>
@@ -29,9 +19,9 @@ foreach ($Bookmarks['folders'] as &$folder){
     $Bookmarks['description'] = str_replace('\x94', '"', $Bookmarks['description']);
     $Bookmarks['description'] = str_replace('\x97', "", $Bookmarks['description']);
     
-    echo "<li>";
-    echo "<div>".$Bookmarks['_title']."</div>";
-    echo "</li>";
+    //echo "<li>";
+    //echo "<div>".$Bookmarks['_title']."</div>";
+    //echo "</li>";
 };
 ?>
 </ul>
