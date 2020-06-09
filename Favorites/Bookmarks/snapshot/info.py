@@ -8142,7 +8142,7 @@
                          'visit_count': '2'}],
               'parent': '1478',
               'position': '68'},
-             {'_title': '|Agisoft Photoscan|50%|2016',
+             {'_title': '|Agisoft Photoscan|2016|50%',
               'folders': [],
               'id': '1542',
               'links': [{'_title': 'Orthophoto & DEM Generation (with GCPs)',
@@ -8604,7 +8604,7 @@
                          'visit_count': '0'}],
               'parent': '1478',
               'position': '43'},
-             {'_title': '|Smart Sheets|60%|2019',
+             {'_title': '|Smart Sheets|2019|60%',
               'folders': [],
               'id': '1547',
               'links': [{'_title': 'Collaboration Software & Solutions | '
