@@ -14,7 +14,7 @@ foreach ($Bookmarks['folders'] as &$folder){
     $Bookmarks['description'] = str_replace('\x94', '"', $Bookmarks['description']);
     $Bookmarks['description'] = str_replace('\x97', "", $Bookmarks['description']);
     
-    echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."'>";
+    echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='s-l-closed'>";
     echo "<div>".$folder['_title']."</div>";
     echo "</li>";
 };
@@ -101,12 +101,11 @@ foreach ($Bookmarks['folders'] as &$folder){
         // Like a css class name. Class will be removed after drop.
         currElClass: 'currElemClass',
         // or like a jQuery css object. Note that css object settings can't be removed
-        currElCss: {'background-color':'green', 'color':'#fff'},
+        currElCss: {'background-color':'red', 'color':'#fff'},
         
         placeholderClass: 'placeholderClass',
         // or like a jQuery css object
         placeholderCss: {'background-color':'yellow'},
-        
         
         hintClass: 'hintClass',
         // or like a jQuery css object
@@ -115,7 +114,7 @@ foreach ($Bookmarks['folders'] as &$folder){
         listSelector: 'ul',
         hintWrapperClass: 'hintWrapperClass',
         // or like a jQuery css object
-        hintWrapperCss: {'background-color':'green', 'border':'1px dashed white'},
+        hintWrapperCss: {'background-color':'blue', 'border':'1px dashed white'},
     
         listSelector: 'ul',
         listsClass: 'FolderTree',
