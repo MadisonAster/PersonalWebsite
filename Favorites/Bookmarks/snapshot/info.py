@@ -2682,7 +2682,7 @@
               'links': [],
               'parent': '1478',
               'position': '29'},
-             {'_title': '|DVD Byte Programming|2009|85%',
+             {'_title': '|DVD Byte Coding|2009|85%',
               'folders': [],
               'id': '1508',
               'links': [{'_title': 'DimadSoft : DvdReMake home',
