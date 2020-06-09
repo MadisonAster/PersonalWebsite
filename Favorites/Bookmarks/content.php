@@ -32,10 +32,10 @@ foreach ($Bookmarks['folders'] as &$folder){
         echo "</li>";
     };
     foreach ($folder['links'] as &$link){
-        echo "<li id='item_".$link['id']."' data-module='".$link['id']."' class='s-l-closed'>";
-        echo "::marker";
-        echo "<div><a target='_blank' href='".$link['url']."'>".$link['_title']."</a></div>";
-        echo "</li>";
+        echo "<li id='item_".$link['id']."' data-module='".$link['id']."' class='s-l-closed'>" .
+             "::marker" .
+             "<div><a target='_blank' href='".$link['url']."'>".$link['_title']."</a></div>" .
+             "</li>";
     };
     echo "</ul>";
     echo "</li>";
