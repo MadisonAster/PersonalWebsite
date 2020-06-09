@@ -6,7 +6,7 @@
 <?php
 $Entry_json = './Favorites/Bookmarks/snapshot/entry.json';
 $json = file_get_contents($Entry_json);
-//$Bookmarks = json_decode($json, TRUE);
+$Bookmarks = json_decode($json, TRUE);
 
 //foreach ($Bookmarks['folders'] as &$folder){
 //    $dirArray = explode("/", $dir);
