@@ -1,7 +1,17 @@
+<!--<link rel='stylesheet' href='./Favorites/jstree/dist/themes/proton/style.min.css' />-->
+<!--<script src='./Favorites/jstree/dist/jstree.min.js'></script>-->
+<script src='./Favorites/jquery-sortable-lists-mobile.min.js'></script>
+
+<script>
+    var options = {
+        insertZonePlus: true
+    }
+    $('.sortableLists').sortableLists(options);
+</script>
+
 <div id='BookmarksDiv' style='padding:0;margin:0;display:none;text-align:right;'>
-
-
 <div id='BookmarksTree' class='' style='width:100%;margins:0;padding:0;'>
+<ul>
 <?php
 $Entry_json = './Favorites/Bookmarks/snapshot/entry.json'
 $json = file_get_contents($Entry_json);
@@ -19,10 +29,12 @@ foreach ($Bookmarks['folders'] as &$folder){
     $Bookmarks['description'] = str_replace('\x94', '"', $Bookmarks['description']);
     $Bookmarks['description'] = str_replace('\x97', "", $Bookmarks['description']);
     
-    //echo "<figure id='fig_movInfo_$varName' class='picture-item' style='margin:0;' data-groups=\"['none']\" data-added='".$infoArray['Added']."' data-released='".$infoArray['Released']."' data-title='".$infoArray['Title']."' data-rating='".$infoArray['Ratings']['Votes']."' data-imdbscore='".$infoArray['Ratings']['IMDB']."'>\n";
-    //echo "</figure>\n";
+    echo "<li>";
+    echo "<div>".$Bookmarks['_title']."</div>";
+    echo "</li>";
 };
 ?>
+</ul>
 </div>
 Synced access to my research bookmarks, coming soon!
 </div>
