@@ -14,8 +14,7 @@ foreach ($Bookmarks['folders'] as &$folder){
     $Bookmarks['description'] = str_replace('\x94', '"', $Bookmarks['description']);
     $Bookmarks['description'] = str_replace('\x97', "", $Bookmarks['description']);
     
-    echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='s-l-closed'>";
-    echo ::marker;
+    echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='s-l-closed'>::marker";
     echo "<div>".$folder['_title']."</div>";
     echo "<ul class='' style=''>";
     foreach ($folder['folders'] as &$subfolder){
