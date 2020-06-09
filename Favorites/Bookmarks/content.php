@@ -10,15 +10,15 @@ $Bookmarks = json_decode($json, TRUE);
 
 foreach ($Bookmarks['folders'] as &$folder){
     $Bookmarks['description'] = str_replace('\n', '', $Bookmarks['description']);
-//    $Bookmarks['description'] = str_replace('\r', '', $Bookmarks['description']);
-//    $Bookmarks['description'] = str_replace('\x92', "'", $Bookmarks['description']);
-//    $Bookmarks['description'] = str_replace('\x93', '"', $Bookmarks['description']);
-//    $Bookmarks['description'] = str_replace('\x94', '"', $Bookmarks['description'])//;
-//    $Bookmarks['description'] = str_replace('\x97', "", $Bookmarks['description']);
-//    
-//    //echo "<li>";
-//    //echo "<div>".$Bookmarks['_title']."</div>";
-//    //echo "</li>";
+    $Bookmarks['description'] = str_replace('\r', '', $Bookmarks['description']);
+    $Bookmarks['description'] = str_replace('\x92', "'", $Bookmarks['description']);
+    $Bookmarks['description'] = str_replace('\x93', '"', $Bookmarks['description']);
+    $Bookmarks['description'] = str_replace('\x94', '"', $Bookmarks['description'])//;
+    $Bookmarks['description'] = str_replace('\x97', "", $Bookmarks['description']);
+    
+    echo "<li>";
+    echo "<div>".$Bookmarks['_title']."</div>";
+    echo "</li>";
 };
 ?>
 
