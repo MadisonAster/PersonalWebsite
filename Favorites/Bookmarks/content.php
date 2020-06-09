@@ -28,6 +28,9 @@ foreach ($Bookmarks['folders'] as &$folder){
 </script>
 
 <script src='./Favorites/Bookmarks/jquery-sortable-lists-mobile.js'></script>
+<pre>
+<code>$('.sortableLists').sortableLists( options );</code>
+</pre>
 <script>
     var options = {
         placeholderCss: {'background-color': '#ff8'},
