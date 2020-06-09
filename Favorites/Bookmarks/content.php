@@ -24,7 +24,7 @@ foreach ($Bookmarks['folders'] as &$folder){
         foreach ($subfolder['links'] as &$link){
             echo "<li id='item_".$link['id']."' data-module='".$link['id']."' class='s-l-closed'>";
             echo "<div><a target='_blank' href='".$link['url']."'>".$link['_title']."</a></div>";
-            echo "<ul class='' style='display:inline-block;'>";
+            //echo "<ul class='' style='display:inline-block;'>";
                 echo "<div class='LinkContent'>";
                 if ($link['description'] != 'None'){
                     echo $link['description'];
@@ -33,7 +33,7 @@ foreach ($Bookmarks['folders'] as &$folder){
                     echo $link['keyword'];
                 };
                 echo "</div>";
-            echo "</ul>";
+            //echo "</ul>";
             echo "</li>";
         };
         echo "</ul>";
@@ -42,7 +42,7 @@ foreach ($Bookmarks['folders'] as &$folder){
     foreach ($folder['links'] as &$link){
         echo "<li id='item_".$link['id']."' data-module='".$link['id']."' class='s-l-closed'>";
         echo "<div><a target='_blank' href='".$link['url']."'>".$link['_title']."</a></div>";
-        echo "<ul class='' style='display:inline-block;'>";
+        //echo "<ul class='' style='display:inline-block;'>";
             echo "<div class='LinkContent'>";
             if ($link['description'] != 'None'){
                 echo $link['description'];
@@ -51,7 +51,7 @@ foreach ($Bookmarks['folders'] as &$folder){
                 echo $link['keyword'];
             };
             echo "</div>";
-        echo "</ul>";
+        //echo "</ul>";
         echo "</li>";
     };
     echo "</ul>";
