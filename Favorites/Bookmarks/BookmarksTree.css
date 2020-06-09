@@ -17,6 +17,7 @@ ul, #BookmarksTree
 {
     padding: 0;
     background-color: #151515;
+    border: 1px solid #3f3f3f;
 }
 
 .fa {
