@@ -17,7 +17,7 @@ foreach ($Bookmarks['folders'] as &$folder){
     $Bookmarks['description'] = str_replace('\x97', "", $Bookmarks['description']);
     
     echo "<li>";
-    echo "<div>".$Bookmarks['_title']."</div>";
+    echo "<div>".$folder['_title']."</div>";
     echo "</li>";
 };
 ?>
