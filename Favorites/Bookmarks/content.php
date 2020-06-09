@@ -150,9 +150,9 @@ foreach ($Bookmarks['folders'] as &$folder){
         
         insertZone: 50,
         
-        insertZonePlus: true,
+        //insertZonePlus: true,
         
-        scroll: 20,
+        //scroll: 20,
         
         opener: {
             active: true,
