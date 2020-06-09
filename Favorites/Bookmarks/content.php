@@ -23,23 +23,8 @@ foreach ($Bookmarks['folders'] as &$folder){
 </ul>
 </div>
 
-<script type='text/css'>
-#BookmarksTree li, #sortableListsBase li 
-{
-    background-color:#ddf,
-    padding-left:50px,
-    margin: 5px;
-    border: 1px solid #3f3f3f;
-    background-color: #3f3f3f;
-    list-style-type: none;
-    color: #b5e853;
-}
-#BookmarksTree li div 
-{
-    padding: 7px;
-    background-color: #222;
-}
-</script>
+
+<link rel='stylesheet' type='text/css' href='./_css/MainStyle.css' />
 
 <script src='./Favorites/Bookmarks/jquery-sortable-lists-mobile.js'></script>
 <script>
