@@ -6,7 +6,7 @@
         <th style='width:125px;'>Skill Level</th>
         </tr>
 <?php
-$table = file("./About/xpTable.csv");
+$table = file("./Favorites/Bookmarks/snapshot/xpTable.csv");
 foreach ($table as &$line){
     echo "\r\n        <tr>\r\n            ";
     $items = explode(",", $line);

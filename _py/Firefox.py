@@ -35,7 +35,7 @@ def main(username):
     StudiesFolder['EntryPath'] = OutputDir
     StudiesFolder['Entry_py'] = OutputDir+'info.py'
     StudiesFolder['Entry_json'] = OutputDir+'entry.json'
-    StudiesFolder['Entry_thumb'] = OutputDir+'thumb.jpg'
+    StudiesFolder['Entry_table'] = OutputDir+'xpTable.csv'
     StudiesFolder['EntryAdded'] = datetime.datetime.strftime(datetime.datetime.now(), '%m-%d-%Y')
     #################################
     
@@ -43,9 +43,20 @@ def main(username):
     #pprint(StudiesFolder)
     Entries = {'StudiesFolder' : StudiesFolder}
     GatherFavorites.WriteEntries(HtmlDir, Entries)
+    
+    WriteXPTable(HtmlDir, StudiesFolder)
     #################################
-    
-    
+
+def WriteXPTable(HtmlDir, StudiesFolder):
+    filelines = []
+    for folder in StudiesFolder['folders']:
+        if '|' in folder['_title']:
+            _, title, year, level = folder['_title'].split('|')
+            newline = "<a target='_blank' href='https://www.MadisonAster.com/Favorites'>"+title+"</a>,"+year+","+level+"\n"
+            filelines.append(newline)
+    with open(HtmlDir+StudiesFolder['Entry_table'], 'w') as file:
+        file.writelines(filelines)
+
 def ExecuteQuery(cursor, query):
     try:
         cursor.execute(query)
