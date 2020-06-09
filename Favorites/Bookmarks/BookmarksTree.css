@@ -47,8 +47,9 @@
     display: inline-block;
     background-position: center center;
     background-repeat: no-repeat;
-    margin-left: -50px;
-    
+    width: 18px;
+    height: 18px;
+    margin-left: -40px;
     margin-right: 5px;
     font-size: 1.1em;
 }
