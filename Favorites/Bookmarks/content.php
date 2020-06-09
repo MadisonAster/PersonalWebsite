@@ -1,4 +1,4 @@
-<div id='BookmarksDiv' style='padding:0;margin:0;display:none;text-align:right;'>
+<div id='BookmarksDiv' style='padding:0;margin:0;display:none;text-align:center;'>
 <ul id='BookmarksTree'>
 
 <?php
@@ -25,6 +25,8 @@ foreach ($Bookmarks['folders'] as &$folder){
 
 <script src='./Favorites/jquery-sortable-lists-mobile.min.js'></script>
 <script>
+    console.log('#BookmarksTree');
+    console.log($('#BookmarksTree'));
     var options = {
         //insertZonePlus: true
     }
