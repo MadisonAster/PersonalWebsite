@@ -48,38 +48,13 @@ RecursivelyPrintFolders($Bookmarks['folders']);
 <script src='./Favorites/Bookmarks/jquery-sortable-lists-mobile.js'></script>
 <script>
     var options = {
-        // Like a css class name. Class will be removed after drop.
-        //currElClass: 'currElemClass',
-        // or like a jQuery css object. Note that css object settings can't be removed
-        //currElCss: {'background-color':'red', 'color':'#fff'},
-        
-        //placeholderClass: 'placeholderClass',
-        // or like a jQuery css object
-        //placeholderCss: {'background-color':'yellow'},
-        
-        //hintClass: 'hintClass',
-        // or like a jQuery css object
-        //hintCss: {'background-color':'green', 'border':'1px dashed white'},
-        
-        //listSelector: 'ul',
-        //hintWrapperClass: 'hintWrapperClass',
-        // or like a jQuery css object
-        //hintWrapperCss: {'background-color':'blue', 'border':'1px dashed white'},
-    
         listSelector: 'ul',
         listsClass: 'FolderTree',
-        // or like a jQuery css object
         listsCss: {'background-color':'silver', 'border':'1px solid white'},   
         
-        // All elements with class clickable will be clickable
         ignoreClass: 'clickable',
         
         insertZone: 50,
-        
-        //insertZonePlus: true,
-        
-        //scroll: 20,
-        
         opener: {
             active: true,
             as: 'html',  // or "class" or skip if using background-image url
