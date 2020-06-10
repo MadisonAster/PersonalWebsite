@@ -47,13 +47,18 @@ def main(username):
     WriteXPTable(HtmlDir, StudiesFolder)
     #################################
 
-def WriteXPTable(HtmlDir, StudiesFolder):
-    filelines = []
-    for folder in StudiesFolder['folders']:
+def GatherSkills(filelines, folders):
+    for folder in folders:
+        filelines = GatherSkills(filelines, folder['folders'])
         if '|' in folder['_title']:
             _, title, year, level = folder['_title'].split('|')
             newline = "<a target='_blank' href='https://www.MadisonAster.com/Favorites'>"+title+"</a>,"+year+","+level+"\n"
             filelines.append(newline)
+    return filelines
+    
+    
+def WriteXPTable(HtmlDir, StudiesFolder):
+    filelines = GatherSkills([], StudiesFolder['folders'])
     with open(HtmlDir+StudiesFolder['Entry_table'], 'w') as file:
         file.writelines(filelines)
 
