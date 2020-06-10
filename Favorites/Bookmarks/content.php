@@ -40,11 +40,12 @@ function RecursivelyPrintFolders($folders) {
                     echo "</div>";
                     echo "<div class='clickable' style='clear:both;padding:0;margin:0;'></div>";
                 echo "</div>";
+            echo "<ol class='clickable' style='display:none;'>";
             } else {
                 echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='s-l-open clickable'>";
                 echo "<div class='clickable'>".$folder['_title']."</div>";
+            echo "<ol class='clickable' style='display:block;'>";
             };
-            echo "<ol class='clickable' style='display:inline-block;'>";
             RecursivelyPrintFolders($folder['folders']);
             $links = $folder['links'];
             usort($links, 'SortByPosition');
