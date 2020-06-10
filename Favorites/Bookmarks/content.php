@@ -28,9 +28,9 @@ function RecursivelyPrintFolders($folders) {
         if (strpos($folder['_title'], '|') !== false) {
             list($none, $title, $year, $level) = explode('|', $folder['_title']);
             echo "<div class='clickable'>";
-                echo "<div class='clickable'>";
-                    echo "<p class='clickable' style='width:50%;float:left;'>".$title."</p>";
-                    echo "<p class='clickable' style='width:50%;float:right;'>".$year."|".$level."</p>";
+                echo "<div class='clickable' style='padding:0;margin:0;'>";
+                    echo "<p class='clickable' style='margin:0;width:50%;float:left;'>".$title."</p>";
+                    echo "<p class='clickable' style='margin:0;width:50%;float:right;'>".$year."|".$level."</p>";
                 echo "</div>";
                 echo "<div class='clickable' style='clear:both;'></div>";
             echo "</div>";
