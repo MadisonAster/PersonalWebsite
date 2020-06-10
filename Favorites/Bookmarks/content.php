@@ -34,11 +34,12 @@ function RecursivelyPrintFolders($folders) {
             echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='sortableListsClosed clickable'>";
                 list($none, $title, $year, $level) = explode('|', $folder['_title']);
                 echo "<div class='clickable'>";
-                    echo "<div class='clickable' style='padding:0;margin:0;'>";
-                        echo "<p class='clickable' style='margin:0;width:50%;float:left;text-align:left;'>".$title."</p>";
-                        echo "<p class='clickable' style='margin:0;width:50%;float:right;text-align:right;'><span style='color:#4f4f4f;'>Proficiency</span> ".$level."    <span style='color:#4f4f4f;'>|</span>    ".$year."</p>";
-                    echo "</div>";
-                    echo "<div class='clickable' style='clear:both;padding:0;margin:0;'></div>";
+                    echo $title."   -   <span style='color:#4f4f4f;'>My Proficiency</span> ".$level."    <span style='color:#4f4f4f;'>|</span>    ".$year;
+                    //echo "<div class='clickable' style='padding:0;margin:0;'>";
+                    //    echo "<p class='clickable' style='margin:0;width:50%;float:left;text-align:left;'>".$title."</p>";
+                    //    echo "<p class='clickable' style='margin:0;width:50%;float:right;text-align:right;'><span style='color:#4f4f4f;'>Proficiency</span> ".$level."    <span style='color:#4f4f4f;'>|</span>    ".$year."</p>";
+                    //echo "</div>";
+                    //echo "<div class='clickable' style='clear:both;padding:0;margin:0;'></div>";
                 echo "</div>";
             //echo "<ol class='clickable' style='display:none;'>";
             } else {
