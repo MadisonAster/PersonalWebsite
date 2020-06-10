@@ -48,6 +48,11 @@ DONE - Update skills list
 DONE - Add Firefox Bookmarks data
 DONE - Add Firefox Bookmarks tree
 
+
+Fix Bookmarks Menu hidden skills
+Fix Bookmarks Menu priority
+Fix Favorites Page mobile scaling
+
 Add More Bookmarks
 Connect Skills tree links to positional Favorites tab links
 Fix favorites popup content layout
