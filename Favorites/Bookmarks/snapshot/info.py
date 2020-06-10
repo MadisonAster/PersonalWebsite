@@ -8976,7 +8976,188 @@
                            'position': '4'},
                           {'_title': 'Graphics APIs',
                            'folders': [{'_title': '|WebGL|2017|35%',
-                                        'folders': [],
+                                        'folders': [{'_title': 'Three.js',
+                                                     'folders': [],
+                                                     'id': '1713',
+                                                     'links': [{'_title': 'Mesh '
+                                                                          '– '
+                                                                          'three.js '
+                                                                          'docs',
+                                                                'dateAdded': '1591821106246000',
+                                                                'description': 'None',
+                                                                'fk': '3606',
+                                                                'folder_type': 'None',
+                                                                'foreign_count': '1',
+                                                                'frecency': '2250',
+                                                                'guid': 'b6uVKjs8yMrz',
+                                                                'hidden': '0',
+                                                                'id': '1712',
+                                                                'keyword_id': 'None',
+                                                                'lastModified': '1591821276913000',
+                                                                'last_visit_date': '1591821101420000',
+                                                                'origin_id': '691',
+                                                                'parent': '1713',
+                                                                'place_guid': 'bAR-h8Fl8wfY',
+                                                                'place_id': '3606',
+                                                                'place_title': 'Mesh '
+                                                                               '– '
+                                                                               'three.js '
+                                                                               'docs',
+                                                                'position': '0',
+                                                                'preview_image_url': 'None',
+                                                                'rev_host': 'gro.sjeerht.',
+                                                                'type': '1',
+                                                                'typed': '1',
+                                                                'url': 'https://threejs.org/docs/#api/en/objects/Mesh',
+                                                                'url_hash': '47358350330948',
+                                                                'visit_count': '3'},
+                                                               {'_title': 'How '
+                                                                          'to '
+                                                                          'use '
+                                                                          'WebGL '
+                                                                          '2 – '
+                                                                          'three.js '
+                                                                          'docs',
+                                                                'dateAdded': '1591821303773000',
+                                                                'description': 'None',
+                                                                'fk': '9029',
+                                                                'folder_type': 'None',
+                                                                'foreign_count': '1',
+                                                                'frecency': '175',
+                                                                'guid': 'JFL7oY5rYiFz',
+                                                                'hidden': '0',
+                                                                'id': '1714',
+                                                                'keyword_id': 'None',
+                                                                'lastModified': '1591821309067000',
+                                                                'last_visit_date': '1591821301590000',
+                                                                'origin_id': '691',
+                                                                'parent': '1713',
+                                                                'place_guid': 'ZHl3Mtfo6sKZ',
+                                                                'place_id': '9029',
+                                                                'place_title': 'How '
+                                                                               'to '
+                                                                               'use '
+                                                                               'WebGL '
+                                                                               '2 '
+                                                                               '– '
+                                                                               'three.js '
+                                                                               'docs',
+                                                                'position': '1',
+                                                                'preview_image_url': 'None',
+                                                                'rev_host': 'gro.sjeerht.',
+                                                                'type': '1',
+                                                                'typed': '0',
+                                                                'url': 'https://threejs.org/docs/#manual/en/introduction/How-to-use-WebGL2',
+                                                                'url_hash': '47357102889469',
+                                                                'visit_count': '1'},
+                                                               {'_title': 'Loading '
+                                                                          '3D '
+                                                                          'models '
+                                                                          '– '
+                                                                          'three.js '
+                                                                          'docs',
+                                                                'dateAdded': '1591821342522000',
+                                                                'description': 'None',
+                                                                'fk': '9035',
+                                                                'folder_type': 'None',
+                                                                'foreign_count': '1',
+                                                                'frecency': '175',
+                                                                'guid': 't6NBKPkZ1IXi',
+                                                                'hidden': '0',
+                                                                'id': '1715',
+                                                                'keyword_id': 'None',
+                                                                'lastModified': '1591821345274000',
+                                                                'last_visit_date': '1591821336407000',
+                                                                'origin_id': '691',
+                                                                'parent': '1713',
+                                                                'place_guid': 'LRJd3Polnl0E',
+                                                                'place_id': '9035',
+                                                                'place_title': 'Loading '
+                                                                               '3D '
+                                                                               'models '
+                                                                               '– '
+                                                                               'three.js '
+                                                                               'docs',
+                                                                'position': '2',
+                                                                'preview_image_url': 'None',
+                                                                'rev_host': 'gro.sjeerht.',
+                                                                'type': '1',
+                                                                'typed': '0',
+                                                                'url': 'https://threejs.org/docs/#manual/en/introduction/Loading-3D-models',
+                                                                'url_hash': '47356765982594',
+                                                                'visit_count': '1'},
+                                                               {'_title': 'Animation '
+                                                                          'system '
+                                                                          '– '
+                                                                          'three.js '
+                                                                          'docs',
+                                                                'dateAdded': '1591821534511000',
+                                                                'description': 'None',
+                                                                'fk': '9054',
+                                                                'folder_type': 'None',
+                                                                'foreign_count': '1',
+                                                                'frecency': '175',
+                                                                'guid': 'fF949_CXw1TO',
+                                                                'hidden': '0',
+                                                                'id': '1720',
+                                                                'keyword_id': 'None',
+                                                                'lastModified': '1591821536484000',
+                                                                'last_visit_date': '1591821522269000',
+                                                                'origin_id': '691',
+                                                                'parent': '1713',
+                                                                'place_guid': 'dPhouThyQas_',
+                                                                'place_id': '9054',
+                                                                'place_title': 'Animation '
+                                                                               'system '
+                                                                               '– '
+                                                                               'three.js '
+                                                                               'docs',
+                                                                'position': '3',
+                                                                'preview_image_url': 'None',
+                                                                'rev_host': 'gro.sjeerht.',
+                                                                'type': '1',
+                                                                'typed': '0',
+                                                                'url': 'https://threejs.org/docs/index.html#manual/en/introduction/Animation-system',
+                                                                'url_hash': '47360304975463',
+                                                                'visit_count': '1'},
+                                                               {'_title': 'Testing '
+                                                                          'with '
+                                                                          'NPM '
+                                                                          '– '
+                                                                          'three.js '
+                                                                          'docs',
+                                                                'dateAdded': '1591821564099000',
+                                                                'description': 'None',
+                                                                'fk': '9058',
+                                                                'folder_type': 'None',
+                                                                'foreign_count': '1',
+                                                                'frecency': '175',
+                                                                'guid': 'NwfHU_w2kbWX',
+                                                                'hidden': '0',
+                                                                'id': '1721',
+                                                                'keyword_id': 'None',
+                                                                'lastModified': '1591821566363000',
+                                                                'last_visit_date': '1591821552553000',
+                                                                'origin_id': '691',
+                                                                'parent': '1713',
+                                                                'place_guid': 'YWHHt_ZpEHk0',
+                                                                'place_id': '9058',
+                                                                'place_title': 'Testing '
+                                                                               'with '
+                                                                               'NPM '
+                                                                               '– '
+                                                                               'three.js '
+                                                                               'docs',
+                                                                'position': '4',
+                                                                'preview_image_url': 'None',
+                                                                'rev_host': 'gro.sjeerht.',
+                                                                'type': '1',
+                                                                'typed': '0',
+                                                                'url': 'https://threejs.org/docs/index.html#manual/en/buildTools/Testing-with-NPM',
+                                                                'url_hash': '47358684427047',
+                                                                'visit_count': '1'}],
+                                                     'parent': '1548',
+                                                     'position': '3'}],
                                         'id': '1548',
                                         'links': [{'_title': 'Amazon.com: '
                                                              'OpenGL ES 3.0 '
@@ -10228,13 +10409,13 @@
                                                    'fk': '8590',
                                                    'folder_type': 'None',
                                                    'foreign_count': '1',
-                                                   'frecency': '167',
+                                                   'frecency': '2250',
                                                    'guid': 'sieh0151Ycsx',
                                                    'hidden': '0',
                                                    'id': '1639',
                                                    'keyword_id': 'None',
                                                    'lastModified': '1591659096717000',
-                                                   'last_visit_date': '1591659085369000',
+                                                   'last_visit_date': '1591821629904000',
                                                    'origin_id': '1072',
                                                    'parent': '1559',
                                                    'place_guid': '77sOv5HwrA1X',
@@ -10244,9 +10425,147 @@
                                                    'preview_image_url': 'https://www.tensorflow.org/images/tf_logo_social.png',
                                                    'rev_host': 'gro.wolfrosnet.www.',
                                                    'type': '1',
-                                                   'typed': '0',
+                                                   'typed': '1',
                                                    'url': 'https://www.tensorflow.org/',
                                                    'url_hash': '47359488520876',
+                                                   'visit_count': '2'},
+                                                  {'_title': 'Effective '
+                                                             'TensorFlow 2 \xa0'
+                                                             '|\xa0 TensorFlow '
+                                                             'Core',
+                                                   'dateAdded': '1591821651568000',
+                                                   'description': 'None',
+                                                   'fk': '9062',
+                                                   'folder_type': 'None',
+                                                   'foreign_count': '1',
+                                                   'frecency': '175',
+                                                   'guid': 'Mk2qhWl87KjF',
+                                                   'hidden': '0',
+                                                   'id': '1722',
+                                                   'keyword_id': 'None',
+                                                   'lastModified': '1591821664849000',
+                                                   'last_visit_date': '1591821649237000',
+                                                   'origin_id': '1072',
+                                                   'parent': '1559',
+                                                   'place_guid': '848s84hEn0HB',
+                                                   'place_id': '9062',
+                                                   'place_title': 'Effective '
+                                                                  'TensorFlow '
+                                                                  '2 \xa0|\xa0 '
+                                                                  'TensorFlow '
+                                                                  'Core',
+                                                   'position': '2',
+                                                   'preview_image_url': 'https://www.tensorflow.org/images/tf_logo_social.png',
+                                                   'rev_host': 'gro.wolfrosnet.www.',
+                                                   'type': '1',
+                                                   'typed': '0',
+                                                   'url': 'https://www.tensorflow.org/guide/effective_tf2',
+                                                   'url_hash': '47358914613473',
+                                                   'visit_count': '1'},
+                                                  {'_title': 'Migrate your '
+                                                             'TensorFlow 1 '
+                                                             'code to '
+                                                             'TensorFlow 2 \xa0'
+                                                             '|\xa0 TensorFlow '
+                                                             'Core',
+                                                   'dateAdded': '1591821670296000',
+                                                   'description': 'None',
+                                                   'fk': '9063',
+                                                   'folder_type': 'None',
+                                                   'foreign_count': '1',
+                                                   'frecency': '175',
+                                                   'guid': 'szkkelCtOajL',
+                                                   'hidden': '0',
+                                                   'id': '1723',
+                                                   'keyword_id': 'None',
+                                                   'lastModified': '1591821672750000',
+                                                   'last_visit_date': '1591821668350000',
+                                                   'origin_id': '1072',
+                                                   'parent': '1559',
+                                                   'place_guid': '7ObNQ69Z8rXF',
+                                                   'place_id': '9063',
+                                                   'place_title': 'Migrate '
+                                                                  'your '
+                                                                  'TensorFlow '
+                                                                  '1 code to '
+                                                                  'TensorFlow '
+                                                                  '2 \xa0|\xa0 '
+                                                                  'TensorFlow '
+                                                                  'Core',
+                                                   'position': '3',
+                                                   'preview_image_url': 'https://www.tensorflow.org/images/tf_logo_social.png',
+                                                   'rev_host': 'gro.wolfrosnet.www.',
+                                                   'type': '1',
+                                                   'typed': '0',
+                                                   'url': 'https://www.tensorflow.org/guide/migrate',
+                                                   'url_hash': '47359585235632',
+                                                   'visit_count': '1'},
+                                                  {'_title': 'The Keras '
+                                                             'functional '
+                                                             'API \xa0|\xa0 '
+                                                             'TensorFlow Core',
+                                                   'dateAdded': '1591821682015000',
+                                                   'description': 'None',
+                                                   'fk': '9064',
+                                                   'folder_type': 'None',
+                                                   'foreign_count': '1',
+                                                   'frecency': '175',
+                                                   'guid': 'pxrySRpTJBeN',
+                                                   'hidden': '0',
+                                                   'id': '1724',
+                                                   'keyword_id': 'None',
+                                                   'lastModified': '1591821684382000',
+                                                   'last_visit_date': '1591821679512000',
+                                                   'origin_id': '1072',
+                                                   'parent': '1559',
+                                                   'place_guid': 'b7pX6EoNp1Pg',
+                                                   'place_id': '9064',
+                                                   'place_title': 'The Keras '
+                                                                  'functional '
+                                                                  'API \xa0'
+                                                                  '|\xa0 '
+                                                                  'TensorFlow '
+                                                                  'Core',
+                                                   'position': '4',
+                                                   'preview_image_url': 'https://www.tensorflow.org/images/tf_logo_social.png',
+                                                   'rev_host': 'gro.wolfrosnet.www.',
+                                                   'type': '1',
+                                                   'typed': '0',
+                                                   'url': 'https://www.tensorflow.org/guide/keras/functional',
+                                                   'url_hash': '47359049049372',
+                                                   'visit_count': '1'},
+                                                  {'_title': 'Eager '
+                                                             'execution \xa0'
+                                                             '|\xa0 TensorFlow '
+                                                             'Core',
+                                                   'dateAdded': '1591821705015000',
+                                                   'description': 'None',
+                                                   'fk': '9065',
+                                                   'folder_type': 'None',
+                                                   'foreign_count': '1',
+                                                   'frecency': '175',
+                                                   'guid': '_anwp8JDfEG5',
+                                                   'hidden': '0',
+                                                   'id': '1725',
+                                                   'keyword_id': 'None',
+                                                   'lastModified': '1591821706683000',
+                                                   'last_visit_date': '1591821691716000',
+                                                   'origin_id': '1072',
+                                                   'parent': '1559',
+                                                   'place_guid': 'hnftNUzvM7mG',
+                                                   'place_id': '9065',
+                                                   'place_title': 'Eager '
+                                                                  'execution \xa0'
+                                                                  '|\xa0 '
+                                                                  'TensorFlow '
+                                                                  'Core',
+                                                   'position': '5',
+                                                   'preview_image_url': 'https://www.tensorflow.org/images/tf_logo_social.png',
+                                                   'rev_host': 'gro.wolfrosnet.www.',
+                                                   'type': '1',
+                                                   'typed': '0',
+                                                   'url': 'https://www.tensorflow.org/guide/eager',
+                                                   'url_hash': '47356379470346',
                                                    'visit_count': '1'}],
                                         'parent': '1667',
                                         'position': '0'}],
@@ -10498,7 +10817,31 @@
                                                    'url_hash': '47356741863904',
                                                    'visit_count': '1'}],
                                         'parent': '1690',
-                                        'position': '0'}],
+                                        'position': '0'},
+                                       {'_title': 'EXR',
+                                        'folders': [],
+                                        'id': '1716',
+                                        'links': [],
+                                        'parent': '1690',
+                                        'position': '2'},
+                                       {'_title': 'FBX',
+                                        'folders': [],
+                                        'id': '1717',
+                                        'links': [],
+                                        'parent': '1690',
+                                        'position': '3'},
+                                       {'_title': 'OBJ',
+                                        'folders': [],
+                                        'id': '1718',
+                                        'links': [],
+                                        'parent': '1690',
+                                        'position': '4'},
+                                       {'_title': 'MDL',
+                                        'folders': [],
+                                        'id': '1719',
+                                        'links': [],
+                                        'parent': '1690',
+                                        'position': '5'}],
                            'id': '1690',
                            'links': [],
                            'parent': '1672',
