@@ -7,7 +7,7 @@ $json = file_get_contents($Entry_json);
 $Bookmarks = json_decode($json, TRUE);
 
 function PrintLink($link) {
-    echo "<li id='item_".$link['id']."' data-module='".$link['id']."' class='s-l-closed clickable'>";
+    echo "<li id='item_".$link['id']."' data-module='".$link['id']."' class='sortableListsClosed clickable'>";
     echo "<div class='clickable'><a target='_blank' href='".$link['url']."'>".$link['_title']."</a></div>";
     echo "<ol class='LinkWrapper clickable'>";
         echo "<div class='LinkContent clickable'>";
@@ -31,7 +31,7 @@ function RecursivelyPrintFolders($folders) {
         if(substr($folder['_title'], 0, 1) !== '_'){
             if (strpos($folder['_title'], '|') !== false) {
                 
-            echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='s-l-closed clickable'>";
+            echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='sortableListsClosed clickable'>";
                 list($none, $title, $year, $level) = explode('|', $folder['_title']);
                 echo "<div class='clickable'>";
                     echo "<div class='clickable' style='padding:0;margin:0;'>";
@@ -42,7 +42,7 @@ function RecursivelyPrintFolders($folders) {
                 echo "</div>";
             echo "<ol class='clickable' style='display:none;'>";
             } else {
-                echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='s-l-open clickable'>";
+                echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='sortableListsOpened clickable'>";
                 echo "<div class='clickable'>".$folder['_title']."</div>";
             echo "<ol class='clickable' style='display:block;'>";
             };
@@ -83,7 +83,7 @@ RecursivelyPrintFolders($Bookmarks['folders']);
             close: '<i class="fa fa-minus red"></i>', // or 'fa fa-minus' or './Favorits/Bookmarks/imgs/Remove2.png'
             open: '<i class="fa fa-plus"></i>', // or 'fa fa-plus' or './Favorits/Bookmarks/imgs/Add2.png'
             // or like a class. Note that class can not rewrite default values. To rewrite defaults you have to do it through css object.
-            openerClass: 's-l-opener',
+            openerClass: 'sortableListsOpener',
         },
     }
     $('#BookmarksTree').sortableLists(options);
