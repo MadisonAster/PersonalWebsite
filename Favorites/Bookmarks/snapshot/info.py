@@ -8010,7 +8010,7 @@
                            'links': [],
                            'parent': '1661',
                            'position': '2'},
-                          {'_title': '|Kubernetes|2019|5%',
+                          {'_title': '|Kubernetes|2019|15%',
                            'folders': [],
                            'id': '1644',
                            'links': [],
@@ -9403,7 +9403,7 @@
                                                    'visit_count': '0'}],
                                         'parent': '1650',
                                         'position': '2'},
-                                       {'_title': '|Vulkan|2018|5%',
+                                       {'_title': '|Vulkan|2018|10%',
                                         'folders': [],
                                         'id': '1562',
                                         'links': [{'_title': 'Vulkan – '

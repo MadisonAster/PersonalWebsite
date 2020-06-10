@@ -62,10 +62,15 @@ def GatherSkills(filelines, folders, titles = None):
             titles.append(newtitle)
     return titles
 
+def HexFromPercent(Percent):
+    Percent = int(Percent)
+    Percent = Percent / 100
+    return hex(int(Percent*255))
+
 def GetFileLines(titles):
     filelines = []
     for title in titles:
-        newline = "<a href='https://www.MadisonAster.com/Favorites'>"+title['title']+"</a>,"+title['year']+",<span style='color:rgba(0,255,0,0."+title['level'][0:2]+");'>"+title['level']+"</span>\n"
+        newline = "<a href='https://www.MadisonAster.com/Favorites'>"+title['title']+"</a>,"+title['year']+",<span style='color:#00FF00"+HexFromPercent(title['level'][0:2])+";'>"+title['level']+"</span>\n"
         filelines.append(newline)
     return filelines
 
