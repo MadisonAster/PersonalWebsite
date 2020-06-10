@@ -48,7 +48,8 @@ function RecursivelyPrintFolders($folders, $colors, $root=false, $color=null) {
                 echo "<div class='clickable'>".$folder['_title']."</div>";
             };
             if ($root){
-                echo "<ol class='clickable' style='border-color:#".$color.";background-color:#".$color.";'>";
+                //echo "<ol class='clickable' style='border-color:#".$color.";background-color:#".$color.";'>";
+                echo "<ol class='clickable'>";
             } else {
                 echo "<ol class='clickable'>";
             }
