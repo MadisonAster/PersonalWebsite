@@ -71,6 +71,10 @@ $Colors = Array(
     '1A742B',
     '3333D1',
     '781C72',
+    '3F3F3F',
+    '3F3F3F',
+    '3F3F3F',
+    '3F3F3F',
 );
 RecursivelyPrintFolders($Bookmarks['folders'], $Colors, true, null);
 ?>
