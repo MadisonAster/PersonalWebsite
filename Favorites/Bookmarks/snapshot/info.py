@@ -5817,7 +5817,222 @@
                                       'typed': '0',
                                       'url': 'http://www.gdcvault.com/browse/vrdc-16',
                                       'url_hash': '125510016238230',
-                                      'visit_count': '0'}],
+                                      'visit_count': '0'},
+                                     {'_title': 'Computer Graphics - ACM '
+                                                'SIGGRAPH',
+                                      'dateAdded': '1591822564367000',
+                                      'description': 'President’s Corner- What '
+                                                     'Does it Take to Put on a '
+                                                     'Virtual Conference? As '
+                                                     'the organizers who '
+                                                     'scrambled to put on the '
+                                                     'first conferences that '
+                                                     'went virtual this spring '
+                                                     'have emphatically said, '
+                                                     'a virtual conference\xa0'
+                                                     'is just as big an '
+                                                     'undertaking as an '
+                                                     'in-person c',
+                                      'fk': '9087',
+                                      'folder_type': 'None',
+                                      'foreign_count': '1',
+                                      'frecency': '175',
+                                      'guid': 'w0BCucxErKOY',
+                                      'hidden': '0',
+                                      'id': '1738',
+                                      'keyword_id': 'None',
+                                      'lastModified': '1591822576401000',
+                                      'last_visit_date': '1591822561940000',
+                                      'origin_id': '1114',
+                                      'parent': '801',
+                                      'place_guid': 'jRIKNtvYdTX9',
+                                      'place_id': '9087',
+                                      'place_title': 'Computer Graphics - ACM '
+                                                     'SIGGRAPH',
+                                      'position': '1',
+                                      'preview_image_url': 'https://www.siggraph.org/wp-content/uploads/2020/05/SIGGRAPH-Blog-Header-6.png',
+                                      'rev_host': 'gro.hparggis.www.',
+                                      'type': '1',
+                                      'typed': '0',
+                                      'url': 'https://www.siggraph.org/',
+                                      'url_hash': '47358638357662',
+                                      'visit_count': '1'},
+                                     {'_title': 'E3 Presents - E3 Expo',
+                                      'dateAdded': '1591822586496000',
+                                      'description': 'E3 is the world’s '
+                                                     'premier event for '
+                                                     'computer and video games '
+                                                     'and related products. At '
+                                                     'E3, the video game '
+                                                     'industry’s top talent '
+                                                     'pack the Los Angeles '
+                                                     'Convention Center, '
+                                                     'connecting tens of '
+                                                     'thousands of the best, '
+                                                     'brightest, and most '
+                                                     'innovative in the '
+                                                     'interacti',
+                                      'fk': '9090',
+                                      'folder_type': 'None',
+                                      'foreign_count': '1',
+                                      'frecency': '175',
+                                      'guid': '_TPSIgND-IRq',
+                                      'hidden': '0',
+                                      'id': '1739',
+                                      'keyword_id': 'None',
+                                      'lastModified': '1591822589161000',
+                                      'last_visit_date': '1591822585211000',
+                                      'origin_id': '1115',
+                                      'parent': '801',
+                                      'place_guid': 'Zob00Ag7NASz',
+                                      'place_id': '9090',
+                                      'place_title': 'E3 Presents - E3 Expo',
+                                      'position': '2',
+                                      'preview_image_url': 'https://www.e3expo.com/wp-content/uploads/2020/01/media.jpg',
+                                      'rev_host': 'moc.opxe3e.www.',
+                                      'type': '1',
+                                      'typed': '0',
+                                      'url': 'https://www.e3expo.com/',
+                                      'url_hash': '47358755807803',
+                                      'visit_count': '1'},
+                                     {'_title': 'Watch the GTC 2020 Keynote by '
+                                                'NVIDIA CEO Jensen Huang',
+                                      'dateAdded': '1591822615481000',
+                                      'description': 'Explore the Company’s '
+                                                     'Next Generation GPU '
+                                                     'Architecture at GTC '
+                                                     'Digital.',
+                                      'fk': '9095',
+                                      'folder_type': 'None',
+                                      'foreign_count': '1',
+                                      'frecency': '175',
+                                      'guid': 'eG4m-1YUVC3a',
+                                      'hidden': '0',
+                                      'id': '1740',
+                                      'keyword_id': 'None',
+                                      'lastModified': '1591822617629000',
+                                      'last_visit_date': '1591822609656000',
+                                      'origin_id': '858',
+                                      'parent': '801',
+                                      'place_guid': 'eTUhzvpuOl_k',
+                                      'place_id': '9095',
+                                      'place_title': 'Watch the GTC 2020 '
+                                                     'Keynote by NVIDIA CEO '
+                                                     'Jensen Huang',
+                                      'position': '3',
+                                      'preview_image_url': 'https://www.nvidia.com/content/dam/en-zz/Solutions/gtc/social-image/GTC20-SV-OG-TWITTER-JHH-LP-3-1200x630.jpg',
+                                      'rev_host': 'moc.aidivn.www.',
+                                      'type': '1',
+                                      'typed': '0',
+                                      'url': 'https://www.nvidia.com/en-us/gtc/',
+                                      'url_hash': '47357241261040',
+                                      'visit_count': '1'},
+                                     {'_title': '2020 NAB Show',
+                                      'dateAdded': '1591822626295000',
+                                      'description': 'NAB Show is the tech '
+                                                     'show where visionaries '
+                                                     'convene to bring content '
+                                                     'to life. Gain knowledge, '
+                                                     'experience cutting-edge '
+                                                     'training and discover '
+                                                     'the latest technology.',
+                                      'fk': '9099',
+                                      'folder_type': 'None',
+                                      'foreign_count': '1',
+                                      'frecency': '175',
+                                      'guid': 'VhmOVpELpV33',
+                                      'hidden': '0',
+                                      'id': '1741',
+                                      'keyword_id': 'None',
+                                      'lastModified': '1591822628601000',
+                                      'last_visit_date': '1591822624659000',
+                                      'origin_id': '1117',
+                                      'parent': '801',
+                                      'place_guid': 'h9XHxTbDjcZU',
+                                      'place_id': '9099',
+                                      'place_title': '2020 NAB Show',
+                                      'position': '4',
+                                      'preview_image_url': 'https://nabshow.com/2020/wp-content/uploads/sites/3/2020/01/crowd2-featured.png',
+                                      'rev_host': 'moc.wohsban.',
+                                      'type': '1',
+                                      'typed': '0',
+                                      'url': 'https://nabshow.com/2020/',
+                                      'url_hash': '47358362739415',
+                                      'visit_count': '1'},
+                                     {'_title': 'CES - The Global Stage for '
+                                                'Innovation - CES 2021',
+                                      'dateAdded': '1591822641688000',
+                                      'description': "CES is the world's "
+                                                     'gathering place for all '
+                                                     'those who thrive on the '
+                                                     'business of consumer '
+                                                     'technologies. It has '
+                                                     'served as the proving '
+                                                     'ground for innovators '
+                                                     'and breakthrough '
+                                                     'technologies for 50 '
+                                                     'years — the global stage '
+                                                     'where next-generation '
+                                                     'innovations are int',
+                                      'fk': '9102',
+                                      'folder_type': 'None',
+                                      'foreign_count': '1',
+                                      'frecency': '175',
+                                      'guid': 'Cs3RiXJKXe-p',
+                                      'hidden': '0',
+                                      'id': '1742',
+                                      'keyword_id': 'None',
+                                      'lastModified': '1591822643652000',
+                                      'last_visit_date': '1591822640564000',
+                                      'origin_id': '1118',
+                                      'parent': '801',
+                                      'place_guid': 'Fma12OSunN9A',
+                                      'place_id': '9102',
+                                      'place_title': 'CES - The Global Stage '
+                                                     'for Innovation - CES '
+                                                     '2021',
+                                      'position': '5',
+                                      'preview_image_url': 'http://www.ces.tech/',
+                                      'rev_host': 'hcet.sec.www.',
+                                      'type': '1',
+                                      'typed': '0',
+                                      'url': 'https://www.ces.tech/',
+                                      'url_hash': '47358165849738',
+                                      'visit_count': '1'},
+                                     {'_title': 'VRLA - Home | Facebook',
+                                      'dateAdded': '1591822691685000',
+                                      'description': 'VRLA, Los Angeles, '
+                                                     'California. 7.7K likes. '
+                                                     'Experience the latest in '
+                                                     'virtual reality and '
+                                                     'immersive technology '
+                                                     'from the leading '
+                                                     'companies in the field '
+                                                     "at VRLA, the world's "
+                                                     'largest VR event.',
+                                      'fk': '9111',
+                                      'folder_type': 'None',
+                                      'foreign_count': '1',
+                                      'frecency': '175',
+                                      'guid': 'xUGMqLBNQ0wA',
+                                      'hidden': '0',
+                                      'id': '1743',
+                                      'keyword_id': 'None',
+                                      'lastModified': '1591822694171000',
+                                      'last_visit_date': '1591822688349000',
+                                      'origin_id': '141',
+                                      'parent': '801',
+                                      'place_guid': 'XhWuvW9ck-QS',
+                                      'place_id': '9111',
+                                      'place_title': 'VRLA - Home | Facebook',
+                                      'position': '6',
+                                      'preview_image_url': 'https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-1/p200x200/1899940_1416275325290651_1974688495_n.png?_nc_cat=104&_nc_sid=dbb9e7&_nc_ohc=08yr1yFFzecAX-V6aEf&_nc_ht=scontent-lax3-1.xx&oh=f9eb5cbf11d7fa07a564e3ff822909f5&oe=5F072F5F',
+                                      'rev_host': 'moc.koobecaf.www.',
+                                      'type': '1',
+                                      'typed': '0',
+                                      'url': 'https://www.facebook.com/virtualrealityla/',
+                                      'url_hash': '47356811011685',
+                                      'visit_count': '1'}],
                            'parent': '1655',
                            'position': '5'},
                           {'_title': '|Systems Administration|2005|75%',
