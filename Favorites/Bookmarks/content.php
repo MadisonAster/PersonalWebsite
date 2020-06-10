@@ -29,7 +29,7 @@ function RecursivelyPrintFolders($folders) {
     usort($folders, 'SortByPosition');
     foreach ($folders as &$folder){
         if(substr($folder['_title'], 0, 1) !== '_'){
-            echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='s-l-closed clickable'>";
+            echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='s-l-open clickable'>";
             if (strpos($folder['_title'], '|') !== false) {
                 list($none, $title, $year, $level) = explode('|', $folder['_title']);
                 echo "<div class='clickable'>";
