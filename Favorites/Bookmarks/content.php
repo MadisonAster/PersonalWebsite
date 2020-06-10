@@ -8,7 +8,7 @@ $Bookmarks = json_decode($json, TRUE);
 
 function PrintLink($link) {
     echo "<li id='item_".$link['id']."' data-module='".$link['id']."' class='sortableListsClosed clickable'>";
-    echo "<div class='clickable'><a target='_blank' href='".$link['url']."'>".$link['_title']."</a></div>";
+    echo "<div class='clickable'><a class='clickable' target='_blank' href='".$link['url']."'>".$link['_title']."</a></div>";
     echo "<ol class='LinkWrapper clickable'>";
         echo "<div class='LinkContent clickable'>";
         if ($link['description'] != 'None'){
