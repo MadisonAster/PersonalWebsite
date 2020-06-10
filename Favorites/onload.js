@@ -13,9 +13,9 @@ function Favorites_onload(){
         resortGrid($('#'+window.lastFavoritesTab+'Grid'));
     });
     
-    resortGrid($('#MoviesGrid'));
-    resortGrid($('#TVGrid'));
-    window.lastFavoritesTab = 'TV';
+    //resortGrid($('#MoviesGrid'));
+    //resortGrid($('#TVGrid'));
+    window.lastFavoritesTab = 'Bookmarks';
     switchFavoritesTabs('Bookmarks');
 };
 
