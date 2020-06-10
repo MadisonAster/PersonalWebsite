@@ -34,7 +34,7 @@ function RecursivelyPrintFolders($folders) {
             echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='sortableListsClosed clickable'>";
                 list($none, $title, $year, $level) = explode('|', $folder['_title']);
                 echo "<div class='clickable'>";
-                    echo $title."<span style='color:#4f4f4f;'>&nbsp&nbsp&nbsp-&nbsp&nbsp&nbspMy Proficiency </span>".$level."<span style='color:#4f4f4f;'>    |    ".$year."</span>";
+                    echo $title."<span style='color:#4f4f4f;'>&nbsp&nbsp&nbsp-&nbsp&nbsp&nbsp</span>".$level."<span style='color:#4f4f4f;'> Proficiency    |    First Used ".$year."</span>";
                 echo "</div>";
             } else {
                 echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='sortableListsOpen clickable'>";
