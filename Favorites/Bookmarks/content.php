@@ -32,7 +32,7 @@ function RecursivelyPrintFolders($folders) {
                     echo "<p class='clickable' style='margin:0;width:50%;float:left;'>".$title."</p>";
                     echo "<p class='clickable' style='margin:0;width:50%;float:right;'>".$year."|".$level."</p>";
                 echo "</div>";
-                echo "<div class='clickable' style='clear:both;'></div>";
+                echo "<div class='clickable' style='clear:both;padding:0;margin:0;'></div>";
             echo "</div>";
         } else {
             echo "<div class='clickable'>".$folder['_title']."</div>";
