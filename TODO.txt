@@ -45,9 +45,9 @@ DONE - Fix favorites thumbnail layout
 DONE - Rewrite About Me
 DONE - Clean up bookmarks folder
 DONE - Update skills list
+DONE - Add Firefox Bookmarks data
+DONE - Add Firefox Bookmarks tree
 
-Add Firefox Bookmarks data
-Add Firefox Bookmarks tree
 Add More Bookmarks
 Connect Skills tree links to positional Favorites tab links
 Fix favorites popup content layout
