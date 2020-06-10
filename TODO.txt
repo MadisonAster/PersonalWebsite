@@ -48,7 +48,7 @@ DONE - Update skills list
 DONE - Add Firefox Bookmarks data
 DONE - Add Firefox Bookmarks tree
 
-
+Remove font awesome
 Fix Bookmarks Menu hidden skills
 Fix Bookmarks Menu priority
 Fix Favorites Page mobile scaling
