@@ -24,14 +24,14 @@ function PrintLink($link) {
 
 function RecursivelyPrintFolders($folders) {
     foreach ($folders as &$folder){
-        if(substr($dir, 0, 1) !== '_'){
+        if(substr($folder['_title'], 0, 1) !== '_'){
             echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='s-l-closed clickable'>";
             if (strpos($folder['_title'], '|') !== false) {
                 list($none, $title, $year, $level) = explode('|', $folder['_title']);
                 echo "<div class='clickable'>";
                     echo "<div class='clickable' style='padding:0;margin:0;'>";
                         echo "<p class='clickable' style='margin:0;width:50%;float:left;text-align:left;'>".$title."</p>";
-                        echo "<p class='clickable' style='margin:0;width:50%;float:right;text-align:right;'><span style='color:#4f4f4f;'>Skill Level</span> ".$level."    <span style='color:#4f4f4f;'>|</span>    ".$year."</p>";
+                        echo "<p class='clickable' style='margin:0;width:50%;float:right;text-align:right;'><span style='color:#4f4f4f;'>Proficiency</span> ".$level."    <span style='color:#4f4f4f;'>|</span>    ".$year."</p>";
                     echo "</div>";
                     echo "<div class='clickable' style='clear:both;padding:0;margin:0;'></div>";
                 echo "</div>";
