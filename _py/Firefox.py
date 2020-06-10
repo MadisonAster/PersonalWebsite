@@ -65,7 +65,7 @@ def GatherSkills(filelines, folders, titles = None):
 def GetFileLines(titles):
     filelines = []
     for title in titles:
-        newline = "<a target='_blank' href='https://www.MadisonAster.com/Favorites'>"+title['title']+"</a>,"+title['year']+","+title['level']+"\n"
+        newline = "<a href='https://www.MadisonAster.com/Favorites'>"+title['title']+"</a>,"+title['year']+",<span style='color:rgba(0,255,0,0."+title['level'][0:2]+");'>"+title['level']+"</span>\n"
         filelines.append(newline)
     return filelines
 
