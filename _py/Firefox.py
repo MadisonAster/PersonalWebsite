@@ -47,18 +47,34 @@ def main(username):
     WriteXPTable(HtmlDir, StudiesFolder)
     #################################
 
-def GatherSkills(filelines, folders):
+def GatherSkills(filelines, folders, titles = None):
+    if titles == None:
+        titles = []
     for folder in folders:
-        filelines = GatherSkills(filelines, folder['folders'])
+        titles = GatherSkills(filelines, folder['folders'], titles=titles)
         if '|' in folder['_title']:
             _, title, year, level = folder['_title'].split('|')
-            newline = "<a target='_blank' href='https://www.MadisonAster.com/Favorites'>"+title+"</a>,"+year+","+level+"\n"
-            filelines.append(newline)
+            newtitle = {
+                'title' : title,
+                'year' : year,
+                'level' : level,
+            }
+            titles.append(newtitle)
+    return titles
+
+def GetFileLines(titles):
+    filelines = []
+    for title in titles:
+        newline = "<a target='_blank' href='https://www.MadisonAster.com/Favorites'>"+title['title']+"</a>,"+title['year']+","+title['level']+"\n"
+        filelines.append(newline)
     return filelines
-    
-    
+
 def WriteXPTable(HtmlDir, StudiesFolder):
-    filelines = GatherSkills([], StudiesFolder['folders'])
+    titles = GatherSkills([], StudiesFolder['folders'])
+    titles_s = sorted(titles, key=lambda k: k['year'])
+    #from operator import itemgetter
+    #titles_s = sorted(titles, key=itemgetter('year')) 
+    filelines = GetFileLines(titles_s)
     with open(HtmlDir+StudiesFolder['Entry_table'], 'w') as file:
         file.writelines(filelines)
 
