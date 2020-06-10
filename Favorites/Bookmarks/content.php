@@ -84,9 +84,6 @@ RecursivelyPrintFolders($Bookmarks['folders']);
             // or like a class. Note that class can not rewrite default values. To rewrite defaults you have to do it through css object.
             openerClass: 's-l-opener',
         },
-        
-        
-    
     }
     $('#BookmarksTree').sortableLists(options);
     
