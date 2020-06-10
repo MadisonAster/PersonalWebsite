@@ -27,7 +27,7 @@ function RecursivelyPrintFolders($folders) {
         echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='s-l-closed clickable'>";
         if (strpos($folder['_title'], '|') !== false) {
             list($title, $year, $level) = split('|', $folder['_title'], 3);
-            echo "<div class='clickable'>".$none."</div>";
+            echo "<div class='clickable'>".$title."</div>";
         } else {
             echo "<div class='clickable'>".$folder['_title']."</div>";
         };
