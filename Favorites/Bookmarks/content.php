@@ -65,13 +65,13 @@ function RecursivelyPrintFolders($folders, $colors, $root=false, $color=null) {
     };
 };
 $Colors = Array(
+    '3F3F3F',
     'D23747',
     'DAA35B',
     'DDDD6B',
     '1A742B',
     '3333D1',
     '781C72',
-    '3F3F3F',
     '3F3F3F',
     '3F3F3F',
     '3F3F3F',
