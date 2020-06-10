@@ -4262,32 +4262,6 @@
                                       'url': 'http://www.valorebooks.com/textbooks/introduction-to-algorithms-third-edition-3rd-edition/9780262033848?utm_medium=referral&utm_campaign=Froogle&utm_source=Froogle&date=01/22/12&buy=3',
                                       'url_hash': '125509072243126',
                                       'visit_count': '0'},
-                                     {'_title': 'C++ - Wikipedia',
-                                      'dateAdded': '1591654084069000',
-                                      'description': 'None',
-                                      'fk': '8441',
-                                      'folder_type': 'None',
-                                      'foreign_count': '1',
-                                      'frecency': '1972',
-                                      'guid': 'tYWD1vMLUnUc',
-                                      'hidden': '0',
-                                      'id': '1584',
-                                      'keyword_id': 'None',
-                                      'lastModified': '1591654090277000',
-                                      'last_visit_date': '1591654082231000',
-                                      'origin_id': '108',
-                                      'parent': '1493',
-                                      'place_guid': 'dVg3T4QvzTFw',
-                                      'place_id': '8441',
-                                      'place_title': 'C++ - Wikipedia',
-                                      'position': '1',
-                                      'preview_image_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png',
-                                      'rev_host': 'gro.aidepikiw.ne.',
-                                      'type': '1',
-                                      'typed': '1',
-                                      'url': 'https://en.wikipedia.org/wiki/C%2B%2B',
-                                      'url_hash': '47360100258147',
-                                      'visit_count': '1'},
                                      {'_title': 'C++ Data Types - '
                                                 'Tutorialspoint',
                                       'dateAdded': '1591819330685000',
@@ -4315,7 +4289,7 @@
                                       'place_id': '8968',
                                       'place_title': 'C++ Data Types - '
                                                      'Tutorialspoint',
-                                      'position': '2',
+                                      'position': '1',
                                       'preview_image_url': 'None',
                                       'rev_host': 'moc.tniopslairotut.www.',
                                       'type': '1',
@@ -4342,7 +4316,7 @@
                                       'place_id': '8974',
                                       'place_title': 'Reference - C++ '
                                                      'Reference',
-                                      'position': '3',
+                                      'position': '2',
                                       'preview_image_url': 'None',
                                       'rev_host': 'moc.sulpsulpc.www.',
                                       'type': '1',
@@ -4370,7 +4344,7 @@
                                       'place_id': '8991',
                                       'place_title': 'C++ Language Reference | '
                                                      'Microsoft Docs',
-                                      'position': '4',
+                                      'position': '3',
                                       'preview_image_url': 'None',
                                       'rev_host': 'moc.tfosorcim.scod.',
                                       'type': '1',
@@ -4400,7 +4374,7 @@
                                       'place_title': 'Organization of the C '
                                                      'Language Reference | '
                                                      'Microsoft Docs',
-                                      'position': '5',
+                                      'position': '4',
                                       'preview_image_url': 'None',
                                       'rev_host': 'moc.tfosorcim.scod.',
                                       'type': '1',
@@ -4431,7 +4405,7 @@
                                                      'Precedence and '
                                                      'Associativity | '
                                                      'Microsoft Docs',
-                                      'position': '6',
+                                      'position': '5',
                                       'preview_image_url': 'None',
                                       'rev_host': 'moc.tfosorcim.scod.',
                                       'type': '1',
@@ -4459,7 +4433,7 @@
                                       'place_id': '8996',
                                       'place_title': 'Keywords (C++) | '
                                                      'Microsoft Docs',
-                                      'position': '7',
+                                      'position': '6',
                                       'preview_image_url': 'None',
                                       'rev_host': 'moc.tfosorcim.scod.',
                                       'type': '1',
@@ -4487,7 +4461,7 @@
                                       'place_id': '8999',
                                       'place_title': 'Preprocessor directives '
                                                      '| Microsoft Docs',
-                                      'position': '8',
+                                      'position': '7',
                                       'preview_image_url': 'None',
                                       'rev_host': 'moc.tfosorcim.scod.',
                                       'type': '1',
@@ -4515,7 +4489,7 @@
                                       'place_id': '9000',
                                       'place_title': 'Preprocessor operators | '
                                                      'Microsoft Docs',
-                                      'position': '9',
+                                      'position': '8',
                                       'preview_image_url': 'None',
                                       'rev_host': 'moc.tfosorcim.scod.',
                                       'type': '1',
@@ -4546,7 +4520,7 @@
                                       'place_id': '9001',
                                       'place_title': 'Predefined macros | '
                                                      'Microsoft Docs',
-                                      'position': '10',
+                                      'position': '9',
                                       'preview_image_url': 'https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png',
                                       'rev_host': 'moc.tfosorcim.scod.',
                                       'type': '1',
@@ -4766,7 +4740,7 @@
                                                    'place_guid': 'lJnSWqo8jewZ',
                                                    'place_id': '707',
                                                    'place_title': 'None',
-                                                   'position': '0',
+                                                   'position': '1',
                                                    'preview_image_url': 'None',
                                                    'rev_host': 'moc.wolfrevokcats.',
                                                    'type': '1',
@@ -4796,7 +4770,7 @@
                                                    'place_guid': 'sNAbzmgg1-qT',
                                                    'place_id': '1119',
                                                    'place_title': 'None',
-                                                   'position': '1',
+                                                   'position': '2',
                                                    'preview_image_url': 'None',
                                                    'rev_host': 'gro.nohtyp.sgub.',
                                                    'type': '1',
@@ -4805,42 +4779,42 @@
                                                    'url_hash': '125508491944909',
                                                    'visit_count': '0'},
                                                   {'_title': 'Python Release '
-                                                             'Python 3.4.0 | '
+                                                             'Python 3.6.8 | '
                                                              'Python.org',
-                                                   'dateAdded': '1591658255586000',
+                                                   'dateAdded': '1591821915708000',
                                                    'description': 'The '
                                                                   'official '
                                                                   'home of the '
                                                                   'Python '
                                                                   'Programming '
                                                                   'Language',
-                                                   'fk': '8511',
+                                                   'fk': '5516',
                                                    'folder_type': 'None',
                                                    'foreign_count': '1',
-                                                   'frecency': '1972',
-                                                   'guid': 'PqsjJzWwiOMQ',
+                                                   'frecency': '298',
+                                                   'guid': '1MAk3pS0IbOz',
                                                    'hidden': '0',
-                                                   'id': '1616',
+                                                   'id': '1726',
                                                    'keyword_id': 'None',
-                                                   'lastModified': '1591658296029000',
-                                                   'last_visit_date': '1591658254052000',
+                                                   'lastModified': '1591821928155000',
+                                                   'last_visit_date': '1591821914038000',
                                                    'origin_id': '810',
                                                    'parent': '1529',
-                                                   'place_guid': '4RYOKVzyKReV',
-                                                   'place_id': '8511',
+                                                   'place_guid': 'hyg85D4R4WOe',
+                                                   'place_id': '5516',
                                                    'place_title': 'Python '
                                                                   'Release '
                                                                   'Python '
-                                                                  '3.4.0 | '
+                                                                  '3.6.8 | '
                                                                   'Python.org',
-                                                   'position': '2',
+                                                   'position': '0',
                                                    'preview_image_url': 'https://www.python.org/static/opengraph-icon-200x200.png',
                                                    'rev_host': 'gro.nohtyp.www.',
                                                    'type': '1',
                                                    'typed': '0',
-                                                   'url': 'https://www.python.org/downloads/release/python-340/',
-                                                   'url_hash': '47359493873278',
-                                                   'visit_count': '1'}],
+                                                   'url': 'https://www.python.org/downloads/release/python-368/',
+                                                   'url_hash': '47357646431531',
+                                                   'visit_count': '2'}],
                                         'parent': '1522',
                                         'position': '0'}],
                            'id': '1522',
