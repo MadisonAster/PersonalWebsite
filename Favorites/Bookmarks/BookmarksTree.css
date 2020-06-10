@@ -14,7 +14,7 @@
     padding: 7px;
     background-color: #222;
 }
-#BookmarksTree, #BookmarksTree ul
+#BookmarksTree, #BookmarksTree ol
 {
     padding: 0;
     background-color: #151515;

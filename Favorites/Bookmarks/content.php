@@ -1,5 +1,5 @@
 <div id='BookmarksDiv' style='padding:0;margin:0;display:none;text-align:left;'>
-<ul class='FolderTree listsClass' id='BookmarksTree'>
+<ol class='FolderTree listsClass' id='BookmarksTree'>
 
 <?php
 $Entry_json = './Favorites/Bookmarks/snapshot/entry.json';
@@ -9,7 +9,7 @@ $Bookmarks = json_decode($json, TRUE);
 function PrintLink($link) {
     echo "<li id='item_".$link['id']."' data-module='".$link['id']."' class='s-l-closed clickable'>";
     echo "<div class='clickable'><a target='_blank' href='".$link['url']."'>".$link['_title']."</a></div>";
-    echo "<ul class='LinkWrapper clickable'>";
+    echo "<ol class='LinkWrapper clickable'>";
         echo "<div class='LinkContent clickable'>";
         if ($link['description'] != 'None'){
             echo $link['description'];
@@ -18,7 +18,7 @@ function PrintLink($link) {
             echo $link['keyword'];
         };
         echo "</div>";
-    echo "</ul>";
+    echo "</ol>";
     echo "</li>";
 };
 
@@ -38,12 +38,12 @@ function RecursivelyPrintFolders($folders) {
             } else {
                 echo "<div class='clickable'>".$folder['_title']."</div>";
             };
-            echo "<ul class='clickable' style='display:inline-block;'>";
+            echo "<ol class='clickable' style='display:inline-block;'>";
+            RecursivelyPrintFolders($folder['folders']);
             foreach ($folder['links'] as &$link){
                 PrintLink($link);
             };
-            RecursivelyPrintFolders($folder['folders']);
-            echo "</ul>";
+            echo "</ol>";
             echo "</li>";
         };
     };
@@ -52,7 +52,7 @@ function RecursivelyPrintFolders($folders) {
 RecursivelyPrintFolders($Bookmarks['folders']);
 ?>
 
-</ul>
+</ol>
 </div>
 
 <link rel='stylesheet' type='text/css' href='./Favorites/Bookmarks/BookmarksTree.css' />
@@ -61,7 +61,7 @@ RecursivelyPrintFolders($Bookmarks['folders']);
 <script src='./Favorites/Bookmarks/jquery-sortable-lists-mobile.js'></script>
 <script>
     var options = {
-        listSelector: 'ul',
+        listSelector: 'ol',
         listsClass: 'FolderTree',
         listsCss: {'background-color':'silver', 'border':'1px solid white'},   
         
