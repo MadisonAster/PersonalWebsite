@@ -14,15 +14,15 @@ foreach ($Bookmarks['folders'] as &$folder){
     $Bookmarks['description'] = str_replace('\x94', '"', $Bookmarks['description']);
     $Bookmarks['description'] = str_replace('\x97', "", $Bookmarks['description']);
     
-    echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='s-l-closed'>";
+    echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='s-l-closed clickable'>";
     echo "<div>".$folder['_title']."</div>";
     echo "<ul class='' style='display:inline-block;'>";
     foreach ($folder['folders'] as &$subfolder){
-        echo "<li id='item_".$subfolder['id']."' data-module='".$subfolder['id']."' class='s-l-closed'>";
+        echo "<li id='item_".$subfolder['id']."' data-module='".$subfolder['id']."' class='s-l-closed clickable'>";
         echo "<div>".$subfolder['_title']."</div>";
         echo "<ul class='' style='display:inline-block;'>";
         foreach ($subfolder['links'] as &$link){
-            echo "<li id='item_".$link['id']."' data-module='".$link['id']."' class='s-l-closed'>";
+            echo "<li id='item_".$link['id']."' data-module='".$link['id']."' class='s-l-closed clickable'>";
             echo "<div><a target='_blank' href='".$link['url']."'>".$link['_title']."</a></div>";
             echo "<ul class='LinkWrapper'>";
                 echo "<div class='LinkContent'>";
@@ -40,7 +40,7 @@ foreach ($Bookmarks['folders'] as &$folder){
         echo "</li>";
     };
     foreach ($folder['links'] as &$link){
-        echo "<li id='item_".$link['id']."' data-module='".$link['id']."' class='s-l-closed'>";
+        echo "<li id='item_".$link['id']."' data-module='".$link['id']."' class='s-l-closed clickable'>";
         echo "<div><a target='_blank' href='".$link['url']."'>".$link['_title']."</a></div>";
         echo "<ul class='LinkWrapper'>";
             echo "<div class='LinkContent'>";
