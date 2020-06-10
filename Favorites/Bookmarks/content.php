@@ -39,10 +39,10 @@ function RecursivelyPrintFolders($folders) {
                 echo "<div class='clickable'>".$folder['_title']."</div>";
             };
             echo "<ul class='clickable' style='display:inline-block;'>";
-            RecursivelyPrintFolders($folder['folders']);
             foreach ($folder['links'] as &$link){
                 PrintLink($link);
             };
+            RecursivelyPrintFolders($folder['folders']);
             echo "</ul>";
             echo "</li>";
         };
