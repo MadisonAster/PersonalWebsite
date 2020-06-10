@@ -23,7 +23,7 @@
 .LinkWrapper
 {
     display:inline-block;
-    border:none;
+    border:none !important;
     margin:0px;
     margin-top:1px;
 }
