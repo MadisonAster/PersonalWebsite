@@ -42,7 +42,7 @@ function RecursivelyPrintFolders($folders) {
                 echo "</div>";
             echo "<ol class='clickable' style='display:none;'>";
             } else {
-                echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='sortableListsOpened clickable'>";
+                echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='sortableListsOpen clickable'>";
                 echo "<div class='clickable'>".$folder['_title']."</div>";
             echo "<ol class='clickable' style='display:block;'>";
             };
