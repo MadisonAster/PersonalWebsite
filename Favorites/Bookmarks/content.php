@@ -21,8 +21,12 @@ function PrintLink($link) {
     echo "</ol>";
     echo "</li>";
 };
+function SortByPosition($a, $b) {
+    return $a['position'] - $b['position'];
+}
 
 function RecursivelyPrintFolders($folders) {
+    usort($folders, 'SortByPosition');
     foreach ($folders as &$folder){
         if(substr($folder['_title'], 0, 1) !== '_'){
             echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='s-l-closed clickable'>";
@@ -40,6 +44,8 @@ function RecursivelyPrintFolders($folders) {
             };
             echo "<ol class='clickable' style='display:inline-block;'>";
             RecursivelyPrintFolders($folder['folders']);
+            $links = $folder['links'];
+            usort($links, 'SortByPosition');
             foreach ($folder['links'] as &$link){
                 PrintLink($link);
             };
