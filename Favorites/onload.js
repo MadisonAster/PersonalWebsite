@@ -16,7 +16,7 @@ function Favorites_onload(){
     resortGrid($('#MoviesGrid'));
     resortGrid($('#TVGrid'));
     window.lastFavoritesTab = 'TV';
-    switchFavoritesTabs('Movies');
+    switchFavoritesTabs('Bookmarks');
 };
 
 function cache_delayed(){
