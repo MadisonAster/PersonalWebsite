@@ -65,7 +65,7 @@ def GatherSkills(filelines, folders, titles = None):
 def HexFromPercent(Percent):
     Percent = int(Percent)
     Percent = Percent / 100
-    return hex(int(Percent*255))
+    return str(hex(int(Percent*255)))[2:]
 
 def GetFileLines(titles):
     filelines = []
