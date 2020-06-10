@@ -139,22 +139,22 @@ foreach ($Bookmarks['folders'] as &$folder){
     
     var options = {
         // Like a css class name. Class will be removed after drop.
-        currElClass: 'currElemClass',
+        //currElClass: 'currElemClass',
         // or like a jQuery css object. Note that css object settings can't be removed
-        currElCss: {'background-color':'red', 'color':'#fff'},
+        //currElCss: {'background-color':'red', 'color':'#fff'},
         
-        placeholderClass: 'placeholderClass',
+        //placeholderClass: 'placeholderClass',
         // or like a jQuery css object
-        placeholderCss: {'background-color':'yellow'},
+        //placeholderCss: {'background-color':'yellow'},
         
-        hintClass: 'hintClass',
+        //hintClass: 'hintClass',
         // or like a jQuery css object
-        hintCss: {'background-color':'green', 'border':'1px dashed white'},
+        //hintCss: {'background-color':'green', 'border':'1px dashed white'},
         
-        listSelector: 'ul',
-        hintWrapperClass: 'hintWrapperClass',
+        //listSelector: 'ul',
+        //hintWrapperClass: 'hintWrapperClass',
         // or like a jQuery css object
-        hintWrapperCss: {'background-color':'blue', 'border':'1px dashed white'},
+        //hintWrapperCss: {'background-color':'blue', 'border':'1px dashed white'},
     
         listSelector: 'ul',
         listsClass: 'FolderTree',
