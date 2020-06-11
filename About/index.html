@@ -7,10 +7,22 @@ String.prototype.rsplit = function(sep, maxsplit) {
     var split = this.split(sep);
     return maxsplit ? [ split.slice(0, -maxsplit).join(sep) ].concat(split.slice(-maxsplit)) : split;
 };
-String.prototype.rstrip = function() {
-    return this.replace(/\s*$/g, "")
+String.prototype.rstrip = function(chr=null) {
+    i = 0
+    while (true){
+        if (this.slice(i-1) == chr){
+            i -= 1;
+        } else {
+            break;
+        }
+    };
+    if (i != 0){
+        return this.slice(0,i);
+    } else {
+        return this;
+    };
 }
-CleanedPath = window.location.href.replace(/\/$/, "").rstrip('#').rstrip('?').rstrip('/');
+CleanedPath = window.location.href.replace(/\/$/, '').rstrip('#').rstrip('?').rstrip('/');
 //CleanedPath = window.location.href.replace(/\/$/, "");
 console.log('CleanedPath', CleanedPath);
 
