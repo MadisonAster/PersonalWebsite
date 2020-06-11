@@ -48,14 +48,6 @@
     color: #f77720;
 }
 
-.fa-plus::before {
-    content: "\f067";
-}
-
-.fa-minus::before {
-    content: "\f068";
-}
-
 .sortableListsOpener {
     float: left;
     display: inline-block;
