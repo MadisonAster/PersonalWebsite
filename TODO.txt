@@ -50,8 +50,9 @@ DONE - Add Firefox Bookmarks tree
 DONE - Remove font awesome
 DONE - Fix Bookmarks Menu priority
 DONE - Fix Bookmarks Menu hidden skills
+DONE - Fix Favorites Page mobile scaling
 
-Fix Favorites Page mobile scaling
+Improve loading times
 
 Add More Bookmarks
 Connect Skills tree links to positional Favorites tab links
