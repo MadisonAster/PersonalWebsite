@@ -54,6 +54,8 @@ def GatherSkills(filelines, folders, titles = None):
         titles = GatherSkills(filelines, folder['folders'], titles=titles)
         if '|' in folder['_title']:
             _, title, year, level = folder['_title'].split('|')
+            if _ == '_':
+                continue
             newtitle = {
                 'title' : title,
                 'year' : year,

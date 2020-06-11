@@ -8444,7 +8444,7 @@
               'parent': '1478',
               'position': '2'},
              {'_title': 'Audio Tools',
-              'folders': [{'_title': '|Pro Tools|2007|25%',
+              'folders': [{'_title': '_|Pro Tools|2007|25%',
                            'folders': [],
                            'id': '1501',
                            'links': [{'_title': 'Pro Tools - Music Software - '
@@ -8488,7 +8488,7 @@
                                       'visit_count': '1'}],
                            'parent': '1662',
                            'position': '1'},
-                          {'_title': '|Reason|2008|15%',
+                          {'_title': '_|Reason|2008|15%',
                            'folders': [],
                            'id': '1502',
                            'links': [{'_title': 'Reason 11: Music Production '
@@ -8531,7 +8531,7 @@
                                       'visit_count': '1'}],
                            'parent': '1662',
                            'position': '2'},
-                          {'_title': '|Audacity|2006|45%',
+                          {'_title': '_|Audacity|2006|45%',
                            'folders': [],
                            'id': '1670',
                            'links': [],
