@@ -98,8 +98,10 @@ RecursivelyPrintFolders($Bookmarks['folders'], $Colors, true, null);
         opener: {
             active: true,
             as: 'html',  // or "class" or skip if using background-image url
-            close: '<i class="fa fa-minus red"></i>', // or 'fa fa-minus' or './Favorits/Bookmarks/imgs/Remove2.png'
-            open: '<i class="fa fa-plus"></i>', // or 'fa fa-plus' or './Favorits/Bookmarks/imgs/Add2.png'
+            //close: '<i class="fa fa-minus red"></i>', // or 'fa fa-minus' or './Favorits/Bookmarks/imgs/Remove2.png'
+            close: '<i src="./Favorites/Bookmarks/imgs/Remove.png"></i>',
+            //open: '<i class="fa fa-plus"></i>', // or 'fa fa-plus' or './Favorits/Bookmarks/imgs/Add2.png'
+            open: '<i src="./Favorites/Bookmarks/imgs/Add.png"></i>', 
             // or like a class. Note that class can not rewrite default values. To rewrite defaults you have to do it through css object.
             openerClass: 'sortableListsOpener',
         },
