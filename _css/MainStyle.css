@@ -275,6 +275,16 @@ th:active,
 .MenuItem{
 }
 
+.FavoritesTabs {
+    font-size:2.4vw;
+}
+
+@media screen and (min-width: 1200px) {
+    .FavoritesTabs {
+        font-size:1.5em;
+    }
+}
+
 .PageContainer{
     transition:             display 500ms ease;
         -moz-transition:    display 500ms ease;
