@@ -7,8 +7,11 @@ String.prototype.rsplit = function(sep, maxsplit) {
     var split = this.split(sep);
     return maxsplit ? [ split.slice(0, -maxsplit).join(sep) ].concat(split.slice(-maxsplit)) : split;
 };
-//CleanedPath = window.location.href.replace(/\/$/, "").rstrip('#').rstrip('?').rstrip('/');
-CleanedPath = window.location.href.replace(/\/$/, "");
+String.prototype.rstrip = function() {
+    return this.replace(/\s*$/g, "")
+}
+CleanedPath = window.location.href.replace(/\/$/, "").rstrip('#').rstrip('?').rstrip('/');
+//CleanedPath = window.location.href.replace(/\/$/, "");
 console.log('CleanedPath', CleanedPath);
 
 PageName = CleanedPath.rsplit('/',1).slice(-1)[0];
