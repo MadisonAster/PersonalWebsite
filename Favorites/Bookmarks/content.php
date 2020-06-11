@@ -56,7 +56,7 @@ function RecursivelyPrintFolders($folders, $colors, $root=false, $color=null) {
             RecursivelyPrintFolders($folder['folders'], $colors, false, $color);
             $links = $folder['links'];
             usort($links, 'SortByPosition');
-            foreach ($folder['links'] as &$link){
+            foreach ($links as &$link){
                 PrintLink($link);
             };
             echo "</ol>";
