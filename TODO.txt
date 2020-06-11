@@ -49,8 +49,8 @@ DONE - Add Firefox Bookmarks data
 DONE - Add Firefox Bookmarks tree
 DONE - Remove font awesome
 DONE - Fix Bookmarks Menu priority
+DONE - Fix Bookmarks Menu hidden skills
 
-Fix Bookmarks Menu hidden skills
 Fix Favorites Page mobile scaling
 
 Add More Bookmarks
