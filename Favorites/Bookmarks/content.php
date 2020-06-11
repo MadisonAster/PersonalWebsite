@@ -32,36 +32,36 @@ function RecursivelyPrintFolders($folders, $colors, $root=false, $color=null) {
             $colorindex = intval($folder['position']) % sizeof($colors);
             $color = $colors[$colorindex];
         }
-        if(substr($folder['_title'], 0, 1) !== '_'){
-            if (strpos($folder['_title'], '|') !== false) {
-                echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='sortableListsClosed clickable' style='border-color:#".$color.";background-color:#".$color.";'>";
-                list($none, $title, $year, $level) = explode('|', $folder['_title']);
-                echo "<div class='clickable'>";
-                    echo $title."<span class='clickable' style='color:#4f4f4f;'>  -  </span><span class='clickable' style='color:rgba(0,255,0,0.".substr($level,0,2).");'>".$level."</span><span class='clickable' style='color:#4f4f4f;'> Proficiency    |    First Used ".$year."</span>";
-                echo "</div>";
-            } else {
-                if ($root){
-                    echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='sortableListsOpen clickable' style='border-color:#".$color.";background-color:#".$color.";'>";
-                } else {
-                    echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='sortableListsOpen clickable'>";
-                }
-                echo "<div class='clickable'>".$folder['_title']."</div>";
+        if (strpos($folder['_title'], '|') !== false) {
+            echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='sortableListsClosed clickable' style='border-color:#".$color.";background-color:#".$color.";'>";
+            list($none, $title, $year, $level) = explode('|', $folder['_title']);
+            echo "<div class='clickable'>";
+                echo $title."<span class='clickable' style='color:#4f4f4f;'>  -  </span><span class='clickable' style='color:rgba(0,255,0,0.".substr($level,0,2).");'>".$level."</span><span class='clickable' style='color:#4f4f4f;'> Proficiency    |    First Used ".$year."</span>";
+            echo "</div>";
+        } else {
+            if(substr($folder['_title'], 0, 1) == '_'){
+                continue;
             };
             if ($root){
-                echo "<ol class='clickable' style='border-color:#".$color.";'>";
-                //echo "<ol class='clickable'>";
+                echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='sortableListsOpen clickable' style='border-color:#".$color.";background-color:#".$color.";'>";
             } else {
-                echo "<ol class='clickable'>";
+                echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='sortableListsOpen clickable'>";
             }
-            RecursivelyPrintFolders($folder['folders'], $colors, false, $color);
-            $links = $folder['links'];
-            usort($links, 'SortByPosition');
-            foreach ($links as &$link){
-                PrintLink($link);
-            };
-            echo "</ol>";
-            echo "</li>";
+            echo "<div class='clickable'>".$folder['_title']."</div>";
         };
+        if ($root){
+            echo "<ol class='clickable' style='border-color:#".$color.";'>";
+        } else {
+            echo "<ol class='clickable'>";
+        }
+        RecursivelyPrintFolders($folder['folders'], $colors, false, $color);
+        $links = $folder['links'];
+        usort($links, 'SortByPosition');
+        foreach ($links as &$link){
+            PrintLink($link);
+        };
+        echo "</ol>";
+        echo "</li>";
     };
 };
 $Colors = Array(
