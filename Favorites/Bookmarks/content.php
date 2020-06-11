@@ -95,8 +95,8 @@ RecursivelyPrintFolders($Bookmarks['folders'], $Colors, true, null);
         opener: {
             active: true,
             as: 'html', 
-            close: '<img src="./Favorites/Bookmarks/imgs/Remove.png" style="width:20px;height:20px;"></img>',
-            open: '<img src="./Favorites/Bookmarks/imgs/Add.png" style="width:20px;height:20px;"></img>', 
+            close: '<img src="./Favorites/Bookmarks/imgs/Remove.png" style="width:18px;height:18px;"></img>',
+            open: '<img src="./Favorites/Bookmarks/imgs/Add.png" style="width:18px;height:18px;"></img>', 
             openerClass: 'sortableListsOpener',
         },
     }
