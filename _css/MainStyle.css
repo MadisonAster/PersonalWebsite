@@ -253,7 +253,7 @@ th:active,
     border-color: #333333;
 }
 .DialogContainer{
-    position:absolute;
+    position:inline;
     margin:0;
     padding:20px;
     top:0;
