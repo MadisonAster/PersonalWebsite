@@ -2810,7 +2810,148 @@
                                        {'_title': '|Unity|2015|10%',
                                         'folders': [],
                                         'id': '1671',
-                                        'links': [],
+                                        'links': [{'_title': 'Unity - '
+                                                             'Scripting API: '
+                                                             'UnityEvent',
+                                                   'dateAdded': '1591922595845000',
+                                                   'description': 'None',
+                                                   'fk': '9572',
+                                                   'folder_type': 'None',
+                                                   'foreign_count': '1',
+                                                   'frecency': '175',
+                                                   'guid': 'pM49FIZKe31Q',
+                                                   'hidden': '0',
+                                                   'id': '1804',
+                                                   'keyword_id': 'None',
+                                                   'lastModified': '1591922604432000',
+                                                   'last_visit_date': '1591922533800000',
+                                                   'origin_id': '1162',
+                                                   'parent': '1671',
+                                                   'place_guid': '1Lr9GVjOvoLY',
+                                                   'place_id': '9572',
+                                                   'place_title': 'Unity - '
+                                                                  'Scripting '
+                                                                  'API: '
+                                                                  'UnityEvent',
+                                                   'position': '0',
+                                                   'preview_image_url': 'https://unity3d.com/files/images/ogimg.jpg',
+                                                   'rev_host': 'moc.d3ytinu.scod.',
+                                                   'type': '1',
+                                                   'typed': '0',
+                                                   'url': 'https://docs.unity3d.com/2020.2/Documentation/ScriptReference/Events.UnityEvent.html',
+                                                   'url_hash': '47356820900748',
+                                                   'visit_count': '1'},
+                                                  {'_title': 'The Maya to '
+                                                             'Unity Pipeline - '
+                                                             'Unity Learn',
+                                                   'dateAdded': '1591922792017000',
+                                                   'description': 'In this '
+                                                                  'project, '
+                                                                  'you will '
+                                                                  'learn the '
+                                                                  'asset '
+                                                                  'pipeline '
+                                                                  'from Unity '
+                                                                  'to Maya. '
+                                                                  'You will '
+                                                                  'work '
+                                                                  'through a '
+                                                                  'series of '
+                                                                  'challenges '
+                                                                  'to learn '
+                                                                  'how to '
+                                                                  'polish your '
+                                                                  'assets in '
+                                                                  'Maya as '
+                                                                  'well as '
+                                                                  'best '
+                                                                  'practices '
+                                                                  'for '
+                                                                  'importing '
+                                                                  'them back '
+                                                                  'into '
+                                                                  'Unity.  ',
+                                                   'fk': '9588',
+                                                   'folder_type': 'None',
+                                                   'foreign_count': '1',
+                                                   'frecency': '175',
+                                                   'guid': '5Scyu1gb9Tdk',
+                                                   'hidden': '0',
+                                                   'id': '1805',
+                                                   'keyword_id': 'None',
+                                                   'lastModified': '1591922794006000',
+                                                   'last_visit_date': '1591922779825000',
+                                                   'origin_id': '1164',
+                                                   'parent': '1671',
+                                                   'place_guid': '2yaLFVEa1CHa',
+                                                   'place_id': '9588',
+                                                   'place_title': 'The Maya to '
+                                                                  'Unity '
+                                                                  'Pipeline - '
+                                                                  'Unity Learn',
+                                                   'position': '1',
+                                                   'preview_image_url': 'https://connect-prd-cdn.unity.com/20190813/learn/images/695a149e-2105-4557-bfff-ba496e57f466_FBXMayaToUnity_ISS.png',
+                                                   'rev_host': 'moc.ytinu.nrael.',
+                                                   'type': '1',
+                                                   'typed': '0',
+                                                   'url': 'https://learn.unity.com/project/the-maya-to-unity-pipeline',
+                                                   'url_hash': '47356394268509',
+                                                   'visit_count': '1'},
+                                                  {'_title': '3DS Max to Unity '
+                                                             'Pipeline - Unity '
+                                                             'Learn',
+                                                   'dateAdded': '1591922819685000',
+                                                   'description': 'in this '
+                                                                  'project, '
+                                                                  'you will '
+                                                                  'learn the '
+                                                                  'asset '
+                                                                  'pipeline '
+                                                                  'from Unity '
+                                                                  'to 3DS Max. '
+                                                                  'You will '
+                                                                  'work '
+                                                                  'through a '
+                                                                  'series of '
+                                                                  'challenges '
+                                                                  'to learn '
+                                                                  'how to add '
+                                                                  'custom '
+                                                                  'textures '
+                                                                  'your assets '
+                                                                  'in 3DS Max, '
+                                                                  'generate '
+                                                                  'LODs, and '
+                                                                  'then import '
+                                                                  'the model '
+                                                                  'back into '
+                                                                  'Unity.  ',
+                                                   'fk': '9589',
+                                                   'folder_type': 'None',
+                                                   'foreign_count': '1',
+                                                   'frecency': '175',
+                                                   'guid': 'u-hVOyubp9U6',
+                                                   'hidden': '0',
+                                                   'id': '1806',
+                                                   'keyword_id': 'None',
+                                                   'lastModified': '1591922824464000',
+                                                   'last_visit_date': '1591922807283000',
+                                                   'origin_id': '1164',
+                                                   'parent': '1671',
+                                                   'place_guid': 'QrjWU6LfbJuL',
+                                                   'place_id': '9589',
+                                                   'place_title': '3DS Max to '
+                                                                  'Unity '
+                                                                  'Pipeline - '
+                                                                  'Unity Learn',
+                                                   'position': '2',
+                                                   'preview_image_url': 'https://connect-prd-cdn.unity.com/20190826/learn/images/0ceb181f-766f-4ed6-8662-bfb736d02024_Unity_2019_08_26_16_54_53.png',
+                                                   'rev_host': 'moc.ytinu.nrael.',
+                                                   'type': '1',
+                                                   'typed': '0',
+                                                   'url': 'https://learn.unity.com/project/3ds-max-to-unity-pipeline',
+                                                   'url_hash': '47359993678197',
+                                                   'visit_count': '1'}],
                                         'parent': '1653',
                                         'position': '1'}],
                            'id': '1653',
@@ -8763,115 +8904,6 @@
                                       'url': 'https://www.youtube.com/watch?v=cSf8cO0WB4o',
                                       'url_hash': '47359491702968',
                                       'visit_count': '0'},
-                                     {'_title': 'Version Control with Git - 01 '
-                                                '- Intro to Version Control - '
-                                                'YouTube',
-                                      'dateAdded': '1520360773000000',
-                                      'description': 'None',
-                                      'fk': '1009',
-                                      'folder_type': 'None',
-                                      'foreign_count': '1',
-                                      'frecency': '32',
-                                      'guid': 'mRSrMdXUUjbE',
-                                      'hidden': '0',
-                                      'id': '819',
-                                      'keyword_id': 'None',
-                                      'lastModified': '1591649276037000',
-                                      'last_visit_date': 'None',
-                                      'origin_id': '38',
-                                      'parent': '1530',
-                                      'place_guid': 'jpQ3cczyaZz8',
-                                      'place_id': '1009',
-                                      'place_title': 'None',
-                                      'position': '3',
-                                      'preview_image_url': 'None',
-                                      'rev_host': 'moc.ebutuoy.www.',
-                                      'type': '1',
-                                      'typed': '0',
-                                      'url': 'https://www.youtube.com/watch?v=uTF03VXiuGg',
-                                      'url_hash': '47356772823623',
-                                      'visit_count': '0'},
-                                     {'_title': 'Version Control with Git - 02 '
-                                                '- Intro to Git - YouTube',
-                                      'dateAdded': '1520360773000000',
-                                      'description': 'None',
-                                      'fk': '555',
-                                      'folder_type': 'None',
-                                      'foreign_count': '1',
-                                      'frecency': '32',
-                                      'guid': 'HzUHiElQ3CPL',
-                                      'hidden': '0',
-                                      'id': '820',
-                                      'keyword_id': 'None',
-                                      'lastModified': '1591649276037000',
-                                      'last_visit_date': 'None',
-                                      'origin_id': '38',
-                                      'parent': '1530',
-                                      'place_guid': 'R7rkZr5LhFBQ',
-                                      'place_id': '555',
-                                      'place_title': 'None',
-                                      'position': '4',
-                                      'preview_image_url': 'None',
-                                      'rev_host': 'moc.ebutuoy.www.',
-                                      'type': '1',
-                                      'typed': '0',
-                                      'url': 'https://www.youtube.com/watch?v=2sweefxLMFk',
-                                      'url_hash': '47360146849897',
-                                      'visit_count': '0'},
-                                     {'_title': 'Version Control with Git - 03 '
-                                                '- Undoing Things - YouTube',
-                                      'dateAdded': '1520360773000000',
-                                      'description': 'None',
-                                      'fk': '502',
-                                      'folder_type': 'None',
-                                      'foreign_count': '1',
-                                      'frecency': '32',
-                                      'guid': 'F3q9jPKXRyHR',
-                                      'hidden': '0',
-                                      'id': '821',
-                                      'keyword_id': 'None',
-                                      'lastModified': '1591649276037000',
-                                      'last_visit_date': 'None',
-                                      'origin_id': '38',
-                                      'parent': '1530',
-                                      'place_guid': '_R2yItds8upo',
-                                      'place_id': '502',
-                                      'place_title': 'None',
-                                      'position': '5',
-                                      'preview_image_url': 'None',
-                                      'rev_host': 'moc.ebutuoy.www.',
-                                      'type': '1',
-                                      'typed': '0',
-                                      'url': 'https://www.youtube.com/watch?v=1x-xQji0yAU',
-                                      'url_hash': '47357201645439',
-                                      'visit_count': '0'},
-                                     {'_title': 'Version Control with Git - 04 '
-                                                '- Remotes - YouTube',
-                                      'dateAdded': '1520360773000000',
-                                      'description': 'None',
-                                      'fk': '1122',
-                                      'folder_type': 'None',
-                                      'foreign_count': '1',
-                                      'frecency': '32',
-                                      'guid': 'vLzy9DF8W-Af',
-                                      'hidden': '0',
-                                      'id': '822',
-                                      'keyword_id': 'None',
-                                      'lastModified': '1591649276037000',
-                                      'last_visit_date': 'None',
-                                      'origin_id': '38',
-                                      'parent': '1530',
-                                      'place_guid': 'zhf4_O52P6cj',
-                                      'place_id': '1122',
-                                      'place_title': 'None',
-                                      'position': '6',
-                                      'preview_image_url': 'None',
-                                      'rev_host': 'moc.ebutuoy.www.',
-                                      'type': '1',
-                                      'typed': '0',
-                                      'url': 'https://www.youtube.com/watch?v=W1o8BR17GVM',
-                                      'url_hash': '47360283476365',
-                                      'visit_count': '0'},
                                      {'_title': 'GitHub Glossary - User '
                                                 'Documentation',
                                       'dateAdded': '1520360773000000',
@@ -8891,7 +8923,7 @@
                                       'place_guid': 'yLDcjg03idHa',
                                       'place_id': '483',
                                       'place_title': 'None',
-                                      'position': '7',
+                                      'position': '3',
                                       'preview_image_url': 'None',
                                       'rev_host': 'moc.buhtig.pleh.',
                                       'type': '1',
@@ -8918,7 +8950,7 @@
                                       'place_guid': 'DNFOjfruIDD9',
                                       'place_id': '693',
                                       'place_title': 'None',
-                                      'position': '8',
+                                      'position': '4',
                                       'preview_image_url': 'None',
                                       'rev_host': 'moc.wolfrevokcats.',
                                       'type': '1',
@@ -8952,7 +8984,7 @@
                                                      'Git to upload only '
                                                      'changed files to FTP '
                                                      'servers.',
-                                      'position': '9',
+                                      'position': '5',
                                       'preview_image_url': 'https://avatars0.githubusercontent.com/u/4178408?s=400&v=4',
                                       'rev_host': 'moc.buhtig.',
                                       'type': '1',
@@ -8978,7 +9010,7 @@
                                       'place_guid': 'Y6UJ8VKsfcNc',
                                       'place_id': '4790',
                                       'place_title': 'git(1)',
-                                      'position': '10',
+                                      'position': '6',
                                       'preview_image_url': 'None',
                                       'rev_host': 'gro.lenrek.egde.srorrim.',
                                       'type': '1',
@@ -9004,7 +9036,7 @@
                                       'place_guid': 'j82nd20ygWlz',
                                       'place_id': '4994',
                                       'place_title': 'Git - Git Objects',
-                                      'position': '11',
+                                      'position': '7',
                                       'preview_image_url': 'None',
                                       'rev_host': 'moc.mcs-tig.',
                                       'type': '1',
@@ -9099,7 +9131,7 @@
                                       'visit_count': '0'}],
                            'parent': '1661',
                            'position': '1'},
-                          {'_title': '|Rez|2017|65%',
+                          {'_title': '_|Rez|2017|65%',
                            'folders': [],
                            'id': '1549',
                            'links': [{'_title': 'nerdvegas/rez: An integrated '
@@ -9143,19 +9175,275 @@
                           {'_title': '|Docker|2019|15%',
                            'folders': [],
                            'id': '1643',
-                           'links': [],
+                           'links': [{'_title': 'Use the Docker command line | '
+                                                'Docker Documentation',
+                                      'dateAdded': '1591922090908000',
+                                      'description': "Docker's CLI command "
+                                                     'description and usage',
+                                      'fk': '9547',
+                                      'folder_type': 'None',
+                                      'foreign_count': '1',
+                                      'frecency': '175',
+                                      'guid': 'cXHgi9RAvuOp',
+                                      'hidden': '0',
+                                      'id': '1796',
+                                      'keyword_id': 'None',
+                                      'lastModified': '1591922096796000',
+                                      'last_visit_date': '1591922086249000',
+                                      'origin_id': '1159',
+                                      'parent': '1643',
+                                      'place_guid': 'EtkVONU0Nhj9',
+                                      'place_id': '9547',
+                                      'place_title': 'Use the Docker command '
+                                                     'line | Docker '
+                                                     'Documentation',
+                                      'position': '0',
+                                      'preview_image_url': 'https://docs.docker.com/favicons/docs@2x.ico',
+                                      'rev_host': 'moc.rekcod.scod.',
+                                      'type': '1',
+                                      'typed': '0',
+                                      'url': 'https://docs.docker.com/engine/reference/commandline/cli/',
+                                      'url_hash': '47358719993561',
+                                      'visit_count': '1'},
+                                     {'_title': 'Develop with Docker Engine '
+                                                'API | Docker Documentation',
+                                      'dateAdded': '1591922110416000',
+                                      'description': 'Using Docker APIs to '
+                                                     'automate Docker tasks in '
+                                                     'your language of choice',
+                                      'fk': '9548',
+                                      'folder_type': 'None',
+                                      'foreign_count': '1',
+                                      'frecency': '175',
+                                      'guid': 'PucmGU8nQb2B',
+                                      'hidden': '0',
+                                      'id': '1797',
+                                      'keyword_id': 'None',
+                                      'lastModified': '1591922112319000',
+                                      'last_visit_date': '1591922108347000',
+                                      'origin_id': '1159',
+                                      'parent': '1643',
+                                      'place_guid': 'AWVg3tltMVMY',
+                                      'place_id': '9548',
+                                      'place_title': 'Develop with Docker '
+                                                     'Engine API | Docker '
+                                                     'Documentation',
+                                      'position': '1',
+                                      'preview_image_url': 'https://docs.docker.com/favicons/docs@2x.ico',
+                                      'rev_host': 'moc.rekcod.scod.',
+                                      'type': '1',
+                                      'typed': '0',
+                                      'url': 'https://docs.docker.com/engine/api/',
+                                      'url_hash': '47358889790205',
+                                      'visit_count': '1'},
+                                     {'_title': 'Overview of docker-compose '
+                                                'CLI | Docker Documentation',
+                                      'dateAdded': '1591922121630000',
+                                      'description': 'Overview of '
+                                                     'docker-compose CLI',
+                                      'fk': '9549',
+                                      'folder_type': 'None',
+                                      'foreign_count': '1',
+                                      'frecency': '175',
+                                      'guid': 'f8MPChL1bRkU',
+                                      'hidden': '0',
+                                      'id': '1798',
+                                      'keyword_id': 'None',
+                                      'lastModified': '1591922123945000',
+                                      'last_visit_date': '1591922115928000',
+                                      'origin_id': '1159',
+                                      'parent': '1643',
+                                      'place_guid': 'V9qE-6r4H_Pf',
+                                      'place_id': '9549',
+                                      'place_title': 'Overview of '
+                                                     'docker-compose CLI | '
+                                                     'Docker Documentation',
+                                      'position': '2',
+                                      'preview_image_url': 'https://docs.docker.com/favicons/docs@2x.ico',
+                                      'rev_host': 'moc.rekcod.scod.',
+                                      'type': '1',
+                                      'typed': '0',
+                                      'url': 'https://docs.docker.com/compose/reference/overview/',
+                                      'url_hash': '47357802104671',
+                                      'visit_count': '1'},
+                                     {'_title': 'Dockerfile reference | Docker '
+                                                'Documentation',
+                                      'dateAdded': '1591922133144000',
+                                      'description': 'Dockerfiles use a simple '
+                                                     'DSL which allows you to '
+                                                     'automate the steps you '
+                                                     'would normally manually '
+                                                     'take to create an image.',
+                                      'fk': '9550',
+                                      'folder_type': 'None',
+                                      'foreign_count': '1',
+                                      'frecency': '175',
+                                      'guid': 'wJ17PMxUZQmE',
+                                      'hidden': '0',
+                                      'id': '1799',
+                                      'keyword_id': 'None',
+                                      'lastModified': '1591922134647000',
+                                      'last_visit_date': '1591922128518000',
+                                      'origin_id': '1159',
+                                      'parent': '1643',
+                                      'place_guid': 'UVXXCDtYcAs6',
+                                      'place_id': '9550',
+                                      'place_title': 'Dockerfile reference | '
+                                                     'Docker Documentation',
+                                      'position': '3',
+                                      'preview_image_url': 'https://docs.docker.com/favicons/docs@2x.ico',
+                                      'rev_host': 'moc.rekcod.scod.',
+                                      'type': '1',
+                                      'typed': '0',
+                                      'url': 'https://docs.docker.com/engine/reference/builder/',
+                                      'url_hash': '47358017373096',
+                                      'visit_count': '1'}],
                            'parent': '1661',
                            'position': '2'},
                           {'_title': '|Kubernetes|2019|15%',
                            'folders': [],
                            'id': '1644',
-                           'links': [],
+                           'links': [{'_title': 'kubernetes-client/python: '
+                                                'Official Python client '
+                                                'library for kubernetes',
+                                      'dateAdded': '1591922370949000',
+                                      'description': 'Official Python client '
+                                                     'library for kubernetes. '
+                                                     'Contribute to '
+                                                     'kubernetes-client/python '
+                                                     'development by creating '
+                                                     'an account on GitHub.',
+                                      'fk': '9562',
+                                      'folder_type': 'None',
+                                      'foreign_count': '1',
+                                      'frecency': '175',
+                                      'guid': 'ASDs0xjbcd7X',
+                                      'hidden': '0',
+                                      'id': '1802',
+                                      'keyword_id': 'None',
+                                      'lastModified': '1591922377246000',
+                                      'last_visit_date': '1591922367293000',
+                                      'origin_id': '28',
+                                      'parent': '1644',
+                                      'place_guid': 'mYta0Z3JGm3p',
+                                      'place_id': '9562',
+                                      'place_title': 'kubernetes-client/python: '
+                                                     'Official Python client '
+                                                     'library for kubernetes',
+                                      'position': '0',
+                                      'preview_image_url': 'https://avatars3.githubusercontent.com/u/26615988?s=400&v=4',
+                                      'rev_host': 'moc.buhtig.',
+                                      'type': '1',
+                                      'typed': '0',
+                                      'url': 'https://github.com/kubernetes-client/python',
+                                      'url_hash': '47356933211926',
+                                      'visit_count': '1'},
+                                     {'_title': 'Overview of kubectl - '
+                                                'Kubernetes',
+                                      'dateAdded': '1591922419702000',
+                                      'description': 'Kubectl is a command '
+                                                     'line tool for '
+                                                     'controlling Kubernetes '
+                                                     'clusters. kubectl looks '
+                                                     'for a file named config '
+                                                     'in the $HOME/.kube '
+                                                     'directory. You can '
+                                                     'specify other kubeconfig '
+                                                     'files by setting the '
+                                                     'KUBECONFIG environment '
+                                                     'variable or by setting '
+                                                     'the --kubeconfig fla',
+                                      'fk': '9566',
+                                      'folder_type': 'None',
+                                      'foreign_count': '1',
+                                      'frecency': '175',
+                                      'guid': '-sTOrvG_EQVN',
+                                      'hidden': '0',
+                                      'id': '1803',
+                                      'keyword_id': 'None',
+                                      'lastModified': '1591922421745000',
+                                      'last_visit_date': '1591922416314000',
+                                      'origin_id': '1161',
+                                      'parent': '1644',
+                                      'place_guid': 'FYy6fDpFsDMx',
+                                      'place_id': '9566',
+                                      'place_title': 'Overview of kubectl - '
+                                                     'Kubernetes',
+                                      'position': '1',
+                                      'preview_image_url': 'https://kubernetes.io/images/kubernetes-horizontal-color.png',
+                                      'rev_host': 'oi.setenrebuk.',
+                                      'type': '1',
+                                      'typed': '0',
+                                      'url': 'https://kubernetes.io/docs/reference/kubectl/overview/',
+                                      'url_hash': '47356461444725',
+                                      'visit_count': '1'}],
                            'parent': '1661',
                            'position': '3'},
-                          {'_title': '|Visual Studio|2012|25%',
+                          {'_title': '_|Visual Studio|2012|25%',
                            'folders': [],
                            'id': '1669',
-                           'links': [],
+                           'links': [{'_title': 'Visual Studio Code User and '
+                                                'Workspace Settings',
+                                      'dateAdded': '1591922213081000',
+                                      'description': 'How to modify Visual '
+                                                     'Studio Code User and '
+                                                     'Workspace Settings.',
+                                      'fk': '9553',
+                                      'folder_type': 'None',
+                                      'foreign_count': '1',
+                                      'frecency': '175',
+                                      'guid': 'dG33zHaYhktb',
+                                      'hidden': '0',
+                                      'id': '1800',
+                                      'keyword_id': 'None',
+                                      'lastModified': '1591922217395000',
+                                      'last_visit_date': '1591922206517000',
+                                      'origin_id': '1160',
+                                      'parent': '1669',
+                                      'place_guid': 'K7Rr25J3oQRa',
+                                      'place_id': '9553',
+                                      'place_title': 'Visual Studio Code User '
+                                                     'and Workspace Settings',
+                                      'position': '0',
+                                      'preview_image_url': 'https://code.visualstudio.com/opengraphimg/opengraph-docs.png',
+                                      'rev_host': 'moc.oidutslausiv.edoc.',
+                                      'type': '1',
+                                      'typed': '0',
+                                      'url': 'https://code.visualstudio.com/docs/getstarted/settings',
+                                      'url_hash': '47358848176588',
+                                      'visit_count': '1'},
+                                     {'_title': 'Configure Visual Studio Code '
+                                                'for Microsoft C++',
+                                      'dateAdded': '1591922282810000',
+                                      'description': 'Configure the C++ '
+                                                     'extension in Visual '
+                                                     'Studio Code to target '
+                                                     'Microsoft C++ on '
+                                                     'Windows.',
+                                      'fk': '9556',
+                                      'folder_type': 'None',
+                                      'foreign_count': '1',
+                                      'frecency': '175',
+                                      'guid': 'gPcT3LlKAcdh',
+                                      'hidden': '0',
+                                      'id': '1801',
+                                      'keyword_id': 'None',
+                                      'lastModified': '1591922284801000',
+                                      'last_visit_date': '1591922279163000',
+                                      'origin_id': '1160',
+                                      'parent': '1669',
+                                      'place_guid': '-YUVYrNIpUSB',
+                                      'place_id': '9556',
+                                      'place_title': 'Configure Visual Studio '
+                                                     'Code for Microsoft C++',
+                                      'position': '1',
+                                      'preview_image_url': 'https://code.visualstudio.com/opengraphimg/opengraph-docs.png',
+                                      'rev_host': 'moc.oidutslausiv.edoc.',
+                                      'type': '1',
+                                      'typed': '0',
+                                      'url': 'https://code.visualstudio.com/docs/cpp/config-msvc',
+                                      'url_hash': '47356400127758',
+                                      'visit_count': '1'}],
                            'parent': '1661',
                            'position': '4'}],
               'id': '1661',
@@ -12662,13 +12950,107 @@
                                        {'_title': '_|Numpy|2013|40%',
                                         'folders': [],
                                         'id': '1687',
-                                        'links': [],
+                                        'links': [{'_title': 'NumPy Reference '
+                                                             '— NumPy v1.18 '
+                                                             'Manual',
+                                                   'dateAdded': '1591920232725000',
+                                                   'description': 'None',
+                                                   'fk': '9497',
+                                                   'folder_type': 'None',
+                                                   'foreign_count': '1',
+                                                   'frecency': '175',
+                                                   'guid': 'GcJZx6Zxkd5l',
+                                                   'hidden': '0',
+                                                   'id': '1794',
+                                                   'keyword_id': 'None',
+                                                   'lastModified': '1591920242170000',
+                                                   'last_visit_date': '1591920227796000',
+                                                   'origin_id': '1152',
+                                                   'parent': '1687',
+                                                   'place_guid': '9CZGFx5hYVJD',
+                                                   'place_id': '9497',
+                                                   'place_title': 'NumPy '
+                                                                  'Reference — '
+                                                                  'NumPy v1.18 '
+                                                                  'Manual',
+                                                   'position': '0',
+                                                   'preview_image_url': 'None',
+                                                   'rev_host': 'gro.ypmun.',
+                                                   'type': '1',
+                                                   'typed': '0',
+                                                   'url': 'https://numpy.org/doc/1.18/reference/index.html',
+                                                   'url_hash': '47360061441828',
+                                                   'visit_count': '1'}],
                                         'parent': '1747',
                                         'position': '3'},
                                        {'_title': '_|Scipy|2015|10%',
                                         'folders': [],
                                         'id': '1688',
-                                        'links': [],
+                                        'links': [{'_title': 'SciPy — SciPy '
+                                                             'v1.4.1 Reference '
+                                                             'Guide',
+                                                   'dateAdded': '1591920253575000',
+                                                   'description': 'None',
+                                                   'fk': '9499',
+                                                   'folder_type': 'None',
+                                                   'foreign_count': '1',
+                                                   'frecency': '175',
+                                                   'guid': 'mNhzotkxVph4',
+                                                   'hidden': '0',
+                                                   'id': '1795',
+                                                   'keyword_id': 'None',
+                                                   'lastModified': '1591920261169000',
+                                                   'last_visit_date': '1591920250379000',
+                                                   'origin_id': '1156',
+                                                   'parent': '1688',
+                                                   'place_guid': 'SvZdrJlQN4UX',
+                                                   'place_id': '9499',
+                                                   'place_title': 'SciPy — '
+                                                                  'SciPy '
+                                                                  'v1.4.1 '
+                                                                  'Reference '
+                                                                  'Guide',
+                                                   'position': '0',
+                                                   'preview_image_url': 'None',
+                                                   'rev_host': 'gro.ypics.scod.',
+                                                   'type': '1',
+                                                   'typed': '0',
+                                                   'url': 'https://docs.scipy.org/doc/scipy/reference/',
+                                                   'url_hash': '47359797777860',
+                                                   'visit_count': '1'},
+                                                  {'_title': 'Basic functions '
+                                                             '— SciPy v1.4.1 '
+                                                             'Reference Guide',
+                                                   'dateAdded': '1591922942352000',
+                                                   'description': 'None',
+                                                   'fk': '9590',
+                                                   'folder_type': 'None',
+                                                   'foreign_count': '1',
+                                                   'frecency': '175',
+                                                   'guid': 'dzJXudYm5Adw',
+                                                   'hidden': '0',
+                                                   'id': '1807',
+                                                   'keyword_id': 'None',
+                                                   'lastModified': '1591922945113000',
+                                                   'last_visit_date': '1591922938000000',
+                                                   'origin_id': '1156',
+                                                   'parent': '1688',
+                                                   'place_guid': 'mDCD8vMVD5V8',
+                                                   'place_id': '9590',
+                                                   'place_title': 'Basic '
+                                                                  'functions — '
+                                                                  'SciPy '
+                                                                  'v1.4.1 '
+                                                                  'Reference '
+                                                                  'Guide',
+                                                   'position': '1',
+                                                   'preview_image_url': 'None',
+                                                   'rev_host': 'gro.ypics.scod.',
+                                                   'type': '1',
+                                                   'typed': '0',
+                                                   'url': 'https://docs.scipy.org/doc/scipy/reference/tutorial/basic.html',
+                                                   'url_hash': '47359761073605',
+                                                   'visit_count': '1'}],
                                         'parent': '1747',
                                         'position': '4'}],
                            'id': '1747',
