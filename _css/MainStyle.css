@@ -234,6 +234,7 @@ th:active,
     left:9%;
     width:82%;
     height:82%;
+    padding:40px;
 }
 .DialogBox{
     display:none;
