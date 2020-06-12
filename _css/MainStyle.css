@@ -253,8 +253,8 @@ th:active,
     border-color: #333333;
 }
 .DialogContainer{
-    margin:40px;
-    padding:0;
+    margin:0;
+    padding:20px;
     top:0;
     left:0;
     width:100%;
