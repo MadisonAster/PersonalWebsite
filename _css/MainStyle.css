@@ -44,23 +44,7 @@ th,
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 1.0);
     margin:1px;
 }
-.DialogBox{
-    display:none;
-    z-index:150;
-    position:fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    margin:0px;
-    padding-top:20px;
-    padding-left:40px;
-    padding-right:40px;
-    padding-bottom:40px;
-    background-color:rgba(0,0,0,0.85);
-    border-style: double;
-    border-width: 3px;
-    border-color: #333333;
-}
+
 .DialogButton{
     background-color:#555555;
     border:0;
@@ -245,6 +229,25 @@ th:active,
     /*font-size:16px;*/
     font-size:2.0vh;
 }
+.DialogBox{
+    display:none;
+    z-index:150;
+    position:fixed;
+    top: 9%;
+    left: 9%;
+    width: 82%;
+    transform: translate(-50%, -50%);
+    margin:0px;
+    padding-top:20px;
+    padding-left:40px;
+    padding-right:40px;
+    padding-bottom:40px;
+    background-color:rgba(0,0,0,0.85);
+    border-style: double;
+    border-width: 3px;
+    border-color: #333333;
+}
+
 #FooterContainer{
     z-index:0;
     position:inline;
