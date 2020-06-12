@@ -13,6 +13,7 @@ function ResumeDialog() {
     
     $('#ResumeDialog').dialog('open');
     $('#DialogFocuser').css('display', 'block');
+    
 }
 function CVDialog() {
     $( "#CVDialog" ).dialog({
