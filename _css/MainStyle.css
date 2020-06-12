@@ -229,13 +229,18 @@ th:active,
     /*font-size:16px;*/
     font-size:2.0vh;
 }
+#ResumeDialog{
+    top:9%;
+    left:9%;
+    width:82%;
+    height:82%;
+}
 .DialogBox{
     display:none;
     z-index:150;
     position:fixed;
-    top: 9%;
-    left: 9%;
-    width: 82%;
+    top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
     margin:0px;
     padding-top:20px;
