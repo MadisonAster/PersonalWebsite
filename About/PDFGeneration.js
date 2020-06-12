@@ -370,6 +370,30 @@ function ResumeSave(doc, PositionTitle) {
     CloseResumeDialog();
 }
 
+
+function SoftwareEngineer_Resume() {
+    var doc = ResumeSetup();
+    
+    var PositionTitle = "Software Engineer";
+    var Objective = "Looking .";
+    var SkillsArray = [
+    {"id": "Python:", "desc": "5 Years professional experience"},
+    {"id": "C++/UE4 Blueprint:", "desc": "2 Years development experience. Oculus, Vive, Daydream, Leap Motion, Virtuix Omni"},
+    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
+    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
+    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
+    ];
+    
+    ResumeContactDetails(doc, PositionTitle);    
+    ResumeProfile(doc, Objective);
+    ResumeKeySkills(doc, SkillsArray);
+    ResumeEducation(doc);
+    ResumeProfessionalExperience(doc);
+    ResumeExperienceTable(doc);
+    ResumeSave(doc, PositionTitle);
+}
+
+
 function VRGameDeveloper_Resume() {
     var doc = ResumeSetup();
     
