@@ -53,7 +53,24 @@ DONE - Fix Bookmarks Menu hidden skills
 DONE - Fix Favorites Page mobile scaling
 DONE - Arrest New Tab race condition
 
-Improve loading times
+Improve loading times 
+    Use php to fill current page.
+    Queue: (Don't include current page)
+        0   Background
+        1   About
+        2   Bookmarks
+        3   Profiles/GitHub
+        4   Profiles/IMDB
+        5   Profiles/CodeWars
+        6   Projects
+        7   Favorites/Games
+        8   Favorites/Books
+        9   Favorites/TV
+        10  Favorites/Movies
+      
+      #For each queued page, use javascript to make php request for content.php in folder. 
+      #Set innerHtml once request is received and queue position is called, this should start contents loading.
+      #Notify queue when complete
 
 Add More Bookmarks
 Connect Skills tree links to positional Favorites tab links
