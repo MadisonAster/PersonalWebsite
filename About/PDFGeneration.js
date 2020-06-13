@@ -25,7 +25,7 @@ function ResumeDialog() {
    if ($('#DialogProjectsList').children().length == 0){
         console.log(window.Projects);
         for (var key in window.Projects) {
-            if (['pagination','remove','sortOn'].indexOf(key) > -1){
+            if (['pagination','remove','sortOn'].indexOf(key) == -1){
                 var Project = window.Projects[key];
                 console.log('key',key);
                 console.log('Project',Project);
