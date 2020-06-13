@@ -13,10 +13,10 @@ function ResumeDialog() {
     
     $('#ResumeDialog').dialog('open');
     $('#DialogFocuser').css('display', 'block');
-    //$('#ResumeDialog').css('top', '9%');
-    //$('#ResumeDialog').css('left', '9%');
-    //$('#ResumeDialog').css('width', '82%');
-    //$('#ResumeDialog').css('height', '82%');
+    $('#ResumeDialog').css('top', '9%');
+    $('#ResumeDialog').css('left', '9%');
+    $('#ResumeDialog').css('width', 'calc(82% - 80px)');
+    $('#ResumeDialog').css('height', 'calc(82% - 80px)');
 }
 function CVDialog() {
     $( "#CVDialog" ).dialog({
