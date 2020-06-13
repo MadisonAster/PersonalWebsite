@@ -29,7 +29,7 @@ function ResumeDialog() {
                 var Skill = SkillSets[color][i];
                 $('#DialogSkillsCloud').append('<button type="button" class="SkillButton" style="background:#'+color+'">'+Skill['title']+'</button>');
             };
-            $('#DialogSkillsCloud').append('<br/><br/>');
+            $('#DialogSkillsCloud').append('<br/>');
         };
     };
     
