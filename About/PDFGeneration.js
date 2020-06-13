@@ -12,7 +12,7 @@ function ResumeDialog() {
     });
     for (var i = 0; i < window.Skills.length; i++) {
         var Skill = window.Skills[i];
-        var title = Skill['title'].split('<')[1];
+        var title = Skill['title'].split('<')[1].split('>')[1];
         console.log(title);
         $('#DialogSkillsCloud').append('<button type="button" class="SkillButton">'+title+'</button>');
     };
