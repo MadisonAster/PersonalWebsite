@@ -23,9 +23,9 @@ function ResumeDialog() {
     };
     
    if ($('#DialogProjectsList').children().length == 0){
-        for (var i = 0; i < window.Projects.length; i++) {
+        for (var key in window.Projects) {
             if (key != 'pagination'){
-                var Project = window.Projects[i];
+                var Project = window.Projects[key];
                 $('#DialogProjectsList').append('<li>'+Project['title']+'</li>');
             };
         };
