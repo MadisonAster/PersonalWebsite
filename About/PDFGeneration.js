@@ -10,12 +10,13 @@ function ResumeDialog() {
             modal: true,
             autoOpen: false,
     });
-    
+    for (var i = 0; i < window.Skills.length; i++) {
+        var Skill = window.Skills[i];
+        $('#DialogSkillsCloud').append('<li>'+Skill['title']+'</li>');
+    };
     for (var i = 0; i < window.Projects.length; i++) {
         var Project = window.Projects[i];
-        
-        $('#DialogProjectsList').append('<li>'+Project['title']+'</li>')
-    
+        $('#DialogProjectsList').append('<li>'+Project['title']+'</li>');
     };
     $('#ResumeDialog').dialog('open');
     $('#DialogFocuser').css('display', 'block');
@@ -540,9 +541,9 @@ function PipelineDeveloper_Resume() {
 function CacheImagesAndGenerate(SelectedTags, PositionTitle) {
     SortProjects(SelectedTags);
     window.ImageCache = new Array;
-    for (var i = 0; i < Projects.length; i++) {
-        if(Projects[i]['images'].length > 0){
-            var imgPath = Projects[i]['images'][0];
+    for (var i = 0; i < window.Projects.length; i++) {
+        if(window.Projects[i]['images'].length > 0){
+            var imgPath = window.Projects[i]['images'][0];
             //window.ImageCache[i] = new Image();
             //window.ImageCache[i].src = imgPath;
             
@@ -553,7 +554,7 @@ function CacheImagesAndGenerate(SelectedTags, PositionTitle) {
     };
     
     waitforload = function() {
-        for (var i = 0; i < Projects.length; i++) {
+        for (var i = 0; i < window.Projects.length; i++) {
             if (!window.ImageCache[i].complete || window.ImageCache[i].naturalWidth == 0 || window.ImageCache[i].naturalWidth == 'undefined'){
                 console.log('cache waiting for image');
                 setTimeout(waitforload, 100);
@@ -565,18 +566,18 @@ function CacheImagesAndGenerate(SelectedTags, PositionTitle) {
     waitforload();
 };
 function SortProjects(SelectedTags) {
-    for (var i = 0; i < Projects.length; i++) {
+    for (var i = 0; i < window.Projects.length; i++) {
         var TagCount = 0;
-        for (var j = 0; j < Projects[i]["tags"].length; j++) {
-            var thistag = Projects[i]["tags"][j].rstrip();
+        for (var j = 0; j < window.Projects[i]["tags"].length; j++) {
+            var thistag = window.Projects[i]["tags"][j].rstrip();
             if (SelectedTags.indexOf(thistag) > -1){
                 TagCount += 1;
             };
         };
-        Projects[i]["TagCount"] = TagCount;
+        window.Projects[i]["TagCount"] = TagCount;
     };
-    Projects.sortOn("TagCount");
-    window.Projects = Projects.reverse();
+    window.Projects.sortOn("TagCount");
+    window.Projects = window.Projects.reverse();
 };
 function Generate_CV_PDF(PositionTitle){
     var doc = CVSetup();
@@ -660,35 +661,35 @@ function CVProjects(doc) {
     var ImageYPosition = 220;
     var ProjectCounter = 1;
     
-    for (var i = 0; i < Projects.length; i++) {
-        if (Projects[i]["TagCount"] < 3) {
+    for (var i = 0; i < window.Projects.length; i++) {
+        if (window.Projects[i]["TagCount"] < 3) {
             continue;
         };
-        if (ProjectCounter >= 5 && Projects.length > i+1) {
+        if (ProjectCounter >= 5 && window.Projects.length > i+1) {
             ProjectCounter = 0;
             ImageYPosition = 78;
             CVAddPage(doc);
         };
         doc.setFontStyle('bold');
         doc.setFontSize(16);
-        doc.drawText(201, ImageYPosition+10, '.'+Projects[i]["title"]);
+        doc.drawText(201, ImageYPosition+10, '.'+window.Projects[i]["title"]);
         doc.setFontStyle('normal');
         doc.setFontSize(10);
-        doc.drawText(206, ImageYPosition+20, Projects[i]["date"]);
+        doc.drawText(206, ImageYPosition+20, window.Projects[i]["date"]);
         doc.setFontSize(16);
-        for (var j = 0; j < Projects[i]["shortdescription"].length; j++) {
-            var descriptiontext = Projects[i]["shortdescription"][j];
+        for (var j = 0; j < window.Projects[i]["shortdescription"].length; j++) {
+            var descriptiontext = window.Projects[i]["shortdescription"][j];
             descriptiontext = descriptiontext.replaceAll('\n', '');
             descriptiontext = descriptiontext.replaceAll('\r', '');
             doc.drawText(201, ImageYPosition+18+20*(j+1), descriptiontext);
         };
 
-        if(Projects[i]['images'].length > 0){
-            var imgPath = Projects[i]['images'][0];
+        if(window.Projects[i]['images'].length > 0){
+            var imgPath = window.Projects[i]['images'][0];
             var imgData = getBase64FromImageUrl(imgPath);
-            if (Projects[i]['images'][0].rsplit('.',1)[-1] == 'jpg'){
+            if (window.Projects[i]['images'][0].rsplit('.',1)[-1] == 'jpg'){
                 doc.addImage(imgData, 'JPEG', 1, ImageYPosition, 178, 100);
-            } else if(Projects[i]['images'][0].rsplit('.',1)[-1] == 'png'){
+            } else if(window.Projects[i]['images'][0].rsplit('.',1)[-1] == 'png'){
                 doc.addImage(imgData, 'PNG', 1, ImageYPosition, 178, 100);
             } else {
                 doc.addImage(imgData, 'GIF', 1, ImageYPosition, 178, 100);

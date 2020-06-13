@@ -62,7 +62,6 @@ foreach($Projectdirs as &$Projectdir){
 };
 
 echo "        <script type='text/javascript'>";
-//echo "        var Projects = ".json_encode($ProjectObjects).";";
 echo "          window.Projects = ".json_encode($ProjectObjects).";";
 echo "        </script>";
 ?>
