@@ -26,6 +26,8 @@ function ResumeDialog() {
         };
         console.log('SkillSets', SkillSets);
         for (var color in SkillSets){
+            console.log('color', color);
+            console.log('color', SkillSets[color]);
             for (var i; i < SkillSets[color].length; i++){
                 var Skill = SkillSets[color][i];
                 console.log(Skill);
