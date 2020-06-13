@@ -25,9 +25,11 @@ function SortByPosition($a, $b) {
     return $a['position'] - $b['position'];
 }
 
-function RecursivelyPrintFolders($folders, $colors, $root=false, $color=null) {
+function RecursivelyPrintFolders($folders, $colors, $root=false, $color=null, $Skills=null) {
     usort($folders, 'SortByPosition');
-    $Skills = array();
+    if ($Skills == null){
+        $Skills = array();
+    };
     foreach ($folders as &$folder){
         if ($root){
             $colorindex = intval($folder['position']) % sizeof($colors);
@@ -39,7 +41,7 @@ function RecursivelyPrintFolders($folders, $colors, $root=false, $color=null) {
             echo "<div class='clickable'>";
                 echo $title."<span class='clickable ExtraInfo' style='color:#4f4f4f;'>  -  </span><span class='clickable ExtraInfo' style='color:rgba(0,255,0,0.".substr($level,0,2).");'>".$level."</span><span class='clickable ExtraInfo' style='color:#4f4f4f;'> Proficiency    |    First Used ".$year."</span>";
             echo "</div>";
-            //if($none != '_'){
+            if($none != '_'){
                 $SkillsObject = array(
                     "title" => $title,
                     "year" => $year,
@@ -47,7 +49,7 @@ function RecursivelyPrintFolders($folders, $colors, $root=false, $color=null) {
                     "color " => $color,
                 );
                 array_push($Skills, $SkillsObject);
-            //};
+            };
         } else {
             if(substr($folder['_title'], 0, 1) == '_'){
                 continue;
@@ -64,7 +66,7 @@ function RecursivelyPrintFolders($folders, $colors, $root=false, $color=null) {
         } else {
             echo "<ol class='clickable'>";
         }
-        RecursivelyPrintFolders($folder['folders'], $colors, false, $color);
+        RecursivelyPrintFolders($folder['folders'], $colors, false, $color, $Skills);
         $links = $folder['links'];
         usort($links, 'SortByPosition');
         foreach ($links as &$link){
@@ -74,9 +76,7 @@ function RecursivelyPrintFolders($folders, $colors, $root=false, $color=null) {
         echo "</li>";
     };
     
-    echo "        <script type='text/javascript'>";
-    echo "          window.Skills = ".json_encode($Skills).";";
-    echo "        </script>";
+    return $Skills;
 };
 $Colors = Array(
     '3F3F3F',
@@ -90,7 +90,10 @@ $Colors = Array(
     '3F3F3F',
     '3F3F3F',
 );
-RecursivelyPrintFolders($Bookmarks['folders'], $Colors, true, null);
+$Skills = RecursivelyPrintFolders($Bookmarks['folders'], $Colors, true, null);
+echo "        <script type='text/javascript'>";
+echo "          window.Skills = ".json_encode($Skills).";";
+echo "        </script>";
 ?>
 
 </ol>
