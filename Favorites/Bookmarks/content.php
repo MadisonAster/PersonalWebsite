@@ -27,7 +27,7 @@ function SortByPosition($a, $b) {
 
 function RecursivelyPrintFolders($folders, $colors, $root=false, $color=null) {
     usort($folders, 'SortByPosition');
-    $Skills = [];
+    $Skills = array();
     foreach ($folders as &$folder){
         if ($root){
             $colorindex = intval($folder['position']) % sizeof($colors);
