@@ -248,7 +248,7 @@ th:active,
     border-width: 3px;
     border-color: #333333;
 }
-.SkillButton{
+.SkillButton, .SkillButton a{
     display:inline-block;
     line-height: 1.5;
     text-transform: uppercase;
