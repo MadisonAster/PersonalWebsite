@@ -12,7 +12,7 @@ function ResumeDialog() {
     });
     for (var i = 0; i < window.Skills.length; i++) {
         var Skill = window.Skills[i];
-        $('#DialogSkillsCloud').append('<li>'+Skill['title']+'</li>');
+        $('#DialogSkillsCloud').append('<li><button type="button" class="SkillButton">'+Skill['title']+'</button></li>');
     };
     for (var i = 0; i < window.Projects.length; i++) {
         var Project = window.Projects[i];

@@ -248,6 +248,23 @@ th:active,
     border-width: 3px;
     border-color: #333333;
 }
+.SkillButton{
+    display:inline-block;
+    line-height: 1.5;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.14);
+    box-shadow: 0 4px 9px 0 rgba(0, 0, 0, 0.2);
+    
+    border-radius:100px;
+    font-size:13px;
+    font-weight:bold;
+    letter-spacing:1px;
+    border-color:#007bff;
+    border: 1px solid transparent;
+    transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    
+    
+}
 
 #FooterContainer{
     z-index:0;
