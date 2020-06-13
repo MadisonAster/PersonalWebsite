@@ -22,10 +22,15 @@ function ResumeDialog() {
         };
     };
     
-    for (var i = 0; i < window.Projects.length; i++) {
-        var Project = window.Projects[i];
-        $('#DialogProjectsList').append('<li>'+Project['title']+'</li>');
+   if ($('#DialogProjectsList').children().length == 0){
+        for (var i = 0; i < window.Projects.length; i++) {
+            if (key != 'pagination'){
+                var Project = window.Projects[i];
+                $('#DialogProjectsList').append('<li>'+Project['title']+'</li>');
+            };
+        };
     };
+    
     $('#ResumeDialog').dialog('open');
     $('#DialogFocuser').css('display', 'block');
     $('#ResumeDialog').css('top', '9%');
