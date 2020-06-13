@@ -7,16 +7,9 @@
         </tr>
 <?php
 $table = file("./Favorites/Bookmarks/snapshot/xpTable.csv");
-//$Skills = [];
 foreach ($table as &$line){
     echo "\r\n        <tr>\r\n            ";
     $items = explode(",", $line);
-    //$SkillsObject = array(
-    //    "title" => $items[0],
-    //    "year" => $items[1],
-    //    "proficiency " => $items[1],
-    //);
-    //array_push($Skills, $SkillsObject);
     foreach ($items as $item){
         $item = trim(preg_replace('/\s+/', ' ', $item));
         echo "<td>";
@@ -25,9 +18,6 @@ foreach ($table as &$line){
     };
     echo "\r\n        </tr>";
 };
-//echo "        <script type='text/javascript'>";
-//echo "          window.Skills = ".json_encode($Skills).";";
-//echo "        </script>";
 ?>
 </tbody>
 </table>

@@ -92,9 +92,9 @@ $Colors = Array(
 );
 $Skills = RecursivelyPrintFolders($Bookmarks['folders'], $Colors, true, null);
 $Skills['pagination'] = array('count' => 999);
-echo "        <script type='text/javascript'>";
-echo "          window.Skills = ".json_encode($Skills).";";
-echo "        </script>";
+echo "<script type='text/javascript'>";
+echo "    window.Skills = ".json_encode($Skills).";";
+echo "</script>";
 ?>
 
 </ol>
