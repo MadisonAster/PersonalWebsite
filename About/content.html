@@ -41,9 +41,17 @@
                     <input type='Submit' value='Download' class='DialogButton'>
                 </form>
                 <br/><br/>
-                Select a job type:
-                <br/><br/>
-                {ComboBox}
+                Job type:
+                <div class="dropdown">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Dropdown button
+                    </button>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        <a class="dropdown-item" href="#">Action</a>
+                        <a class="dropdown-item" href="#">Another action</a>
+                        <a class="dropdown-item" href="#">Something else here</a>
+                    </div>
+                </div>
             </div>
             <div id='DialogSkillsCloud' style='overflow-y:scroll;height:30%;'></div>
             <div id='DialogProjectsContainer' style='overflow-y:scroll;overflow-x:hidden;postion:relative;height:30%;'>
