@@ -11,6 +11,12 @@ function ResumeDialog() {
             autoOpen: false,
     });
     
+    for (var i = 0; i < window.Projects.length; i++) {
+        var Project = window.Projects[i];
+        
+        $('#DialogProjectsList').append('<li>'+Project['title']+'</li>')
+    
+    };
     $('#ResumeDialog').dialog('open');
     $('#DialogFocuser').css('display', 'block');
     $('#ResumeDialog').css('top', '9%');
