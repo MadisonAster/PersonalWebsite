@@ -10,6 +10,7 @@ function ResumeDialog() {
             modal: true,
             autoOpen: false,
     });
+    console.log(window.Skills);
     for (var i = 0; i < window.Skills.length; i++) {
         var Skill = window.Skills[i];
         var title = Skill['title'].split('<')[1].split('>')[1];
