@@ -232,8 +232,8 @@ th:active,
 #ResumeDialog{
     top:9%;
     left:9%;
-    width:82%;
-    height:82%;
+    width:calc(82% - 40px);
+    height:calc(82% - 40px);
 }
 .DialogBox{
     display:none;
