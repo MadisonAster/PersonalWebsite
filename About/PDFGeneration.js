@@ -23,6 +23,7 @@ function ResumeDialog() {
     };
     
    if ($('#DialogProjectsList').children().length == 0){
+        console.log(window.Projects);
         for (var key in window.Projects) {
             if (key != 'pagination'){
                 var Project = window.Projects[key];
