@@ -27,6 +27,8 @@ function ResumeDialog() {
         for (var key in window.Projects) {
             if (key != 'pagination'){
                 var Project = window.Projects[key];
+                console.log('key',key);
+                console.log('Project',Project);
                 $('#DialogProjectsList').append('<li>'+Project['title']+'</li>');
             };
         };
