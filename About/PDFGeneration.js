@@ -11,11 +11,13 @@ function ResumeDialog() {
             autoOpen: false,
     });
     console.log(window.Skills);
-    for (var i = 0; i < window.Skills.length; i++) {
-        var Skill = window.Skills[i];
-        var title = Skill['title'].split('<')[1].split('>')[1];
-        console.log(title);
-        $('#DialogSkillsCloud').append('<button type="button" class="SkillButton">'+title+'</button>');
+    for (var key in window.Skills) {
+        if (key != 'pagination'){
+            var Skill = window.Skills[key];
+            var title = Skill['title'].split('<')[1].split('>')[1];
+            console.log(title);
+            $('#DialogSkillsCloud').append('<button type="button" class="SkillButton">'+title+'</button>');
+        };
     };
     for (var i = 0; i < window.Projects.length; i++) {
         var Project = window.Projects[i];
