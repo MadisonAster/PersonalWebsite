@@ -45,8 +45,8 @@ function RecursivelyPrintFolders($folders, $colors, $root=false, $color=null, $S
                 $SkillsObject = array(
                     "title" => $title,
                     "year" => $year,
-                    "proficiency " => $level,
-                    "color " => $color,
+                    "proficiency" => $level,
+                    "color" => $color,
                 );
                 array_push($Skills, $SkillsObject);
             };
