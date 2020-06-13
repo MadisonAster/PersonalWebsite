@@ -13,16 +13,26 @@ function ResumeDialog() {
     
     
    if ($('#DialogSkillsCloud').children().length == 0){
-       for (var key in window.Skills) {
+        var SkillSets = {};
+       
+        for (var key in window.Skills){
             if (key != 'pagination'){
                 var Skill = window.Skills[key];
-                $('#DialogSkillsCloud').append('<button type="button" class="SkillButton" style="background:#'+Skill['color']+'">'+Skill['title']+'</button>');
+                if (!(Skill['color'] in SkillSets)) {
+                    SkillSets['color'] =[];
+                };
+                SkillSets['color'].push(Skill);
+            };
+        };
+        for (var color in SkillSets){
+            for (var Skill in SkillSets['color']){
+                $('#DialogSkillsCloud').append('<button type="button" class="SkillButton" style="background:#'+color+'">'+Skill['title']+'</button>');
             };
         };
     };
     
    if ($('#DialogProjectsList').children().length == 0){
-        for (var key in window.Projects) {
+        for (var key in window.Projects){
             if (['pagination','remove','sortOn'].indexOf(key) == -1){
                 var Project = window.Projects[key];
                 $('#DialogProjectsList').append('<li>'+Project['title']+'</li>');
