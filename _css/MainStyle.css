@@ -297,7 +297,7 @@ th:active,
     top: 0px;
     left: 0px;
     will-change: transform;
-    display: none;
+    display: block;
     z-index: 1000;
         float: left;
     min-width: 10rem;
