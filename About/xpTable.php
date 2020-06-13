@@ -11,15 +11,14 @@ $Skills = [];
 foreach ($table as &$line){
     echo "\r\n        <tr>\r\n            ";
     $items = explode(",", $line);
+    $SkillsObject = array(
+        "title" => $items[0],
+        "year" => $items[1],
+        "proficiency " => $items[1],
+    );
+    array_push($Skills, $SkillsObject);
     foreach ($items as $item){
         $item = trim(preg_replace('/\s+/', ' ', $item));
-        $SkillsObject = array(
-            "title" => $item[0],
-            "year" => $item[1],
-            "proficiency " => $item[1],
-        );
-        array_push($Skills, $SkillsObject);
-        
         echo "<td>";
         echo $item;
         echo "</td>";
