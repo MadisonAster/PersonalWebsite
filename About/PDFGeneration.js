@@ -14,9 +14,7 @@ function ResumeDialog() {
     for (var key in window.Skills) {
         if (key != 'pagination'){
             var Skill = window.Skills[key];
-            console.log(Skill);
             var title = Skill['title'];
-            console.log(title);
             $('#DialogSkillsCloud').append('<button type="button" class="SkillButton">'+title+'</button>');
         };
     };
