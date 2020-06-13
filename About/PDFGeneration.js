@@ -15,7 +15,7 @@ function ResumeDialog() {
         if (key != 'pagination'){
             var Skill = window.Skills[key];
             var title = Skill['title'];
-            $('#DialogSkillsCloud').append('<button type="button" class="SkillButton" style="#'+Skill['color']+'">'+Skill['title']+'</button>');
+            $('#DialogSkillsCloud').append('<button type="button" class="SkillButton" style="background:#'+Skill['color']+'">'+Skill['title']+'</button>');
         };
     };
     for (var i = 0; i < window.Projects.length; i++) {
