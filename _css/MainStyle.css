@@ -259,7 +259,9 @@ th:active,
     font-size:13px;
     font-weight:bold;
     letter-spacing:1px;
+    color: #ffffff;
     border-color:#007bff;
+    background: #5a7ce2;
     border: 1px solid transparent;
     transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
