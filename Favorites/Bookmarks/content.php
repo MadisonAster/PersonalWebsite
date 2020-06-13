@@ -41,15 +41,15 @@ function RecursivelyPrintFolders($folders, $colors, $root=false, $color=null, $S
             echo "<div class='clickable'>";
                 echo $title."<span class='clickable ExtraInfo' style='color:#4f4f4f;'>  -  </span><span class='clickable ExtraInfo' style='color:rgba(0,255,0,0.".substr($level,0,2).");'>".$level."</span><span class='clickable ExtraInfo' style='color:#4f4f4f;'> Proficiency    |    First Used ".$year."</span>";
             echo "</div>";
-            //if($none != '_'){
-            $SkillsObject = array(
-                "title" => $title,
-                "year" => $year,
-                "proficiency " => $level,
-                "color " => $color,
-            );
-            array_push($Skills, $SkillsObject);
-            //};
+            if($none != '_'){
+                $SkillsObject = array(
+                    "title" => $title,
+                    "year" => $year,
+                    "proficiency " => $level,
+                    "color " => $color,
+                );
+                array_push($Skills, $SkillsObject);
+            };
         } else {
             if(substr($folder['_title'], 0, 1) == '_'){
                 continue;
