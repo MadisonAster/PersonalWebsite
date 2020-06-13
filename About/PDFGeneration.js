@@ -24,15 +24,12 @@ function ResumeDialog() {
                 SkillSets[Skill['color']].push(Skill);
             };
         };
-        console.log('SkillSets', SkillSets);
         for (var color in SkillSets){
-            console.log('color', color);
-            console.log('colorset', SkillSets[color].length);
             for (var i = 0; i < SkillSets[color].length; i++){
                 var Skill = SkillSets[color][i];
-                console.log('skill', Skill);
                 $('#DialogSkillsCloud').append('<button type="button" class="SkillButton" style="background:#'+color+'">'+Skill['title']+'</button>');
             };
+            $('#DialogSkillsCloud').append('<br/><br/>');
         };
     };
     
