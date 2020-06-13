@@ -294,7 +294,7 @@ th:active,
 .dropdown-menu{
     transform: translate3d(0px, 38px, 0px);
     will-change: transform;
-    display: block;
+    display: none;
     cursor: pointer;
     z-index: 1000;
         float: left;
