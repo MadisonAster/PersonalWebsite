@@ -19,9 +19,9 @@ function ResumeDialog() {
             if (key != 'pagination'){
                 var Skill = window.Skills[key];
                 if (!(Skill['color'] in SkillSets)) {
-                    SkillSets['color'] =[];
+                    SkillSets[Skill['color']] = [];
                 };
-                SkillSets['color'].push(Skill);
+                SkillSets[Skill['color']].push(Skill);
             };
         };
         console.log('SkillSets', SkillSets);
