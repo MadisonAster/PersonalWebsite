@@ -28,6 +28,7 @@ function ResumeDialog() {
         for (var color in SkillSets){
             for (var Skill in SkillSets[color]){
                 var Skill = SkillSets[color][Skill];
+                console.log(Skill);
                 $('#DialogSkillsCloud').append('<button type="button" class="SkillButton" style="background:#'+color+'">'+Skill['title']+'</button>');
             };
         };
