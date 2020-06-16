@@ -12,7 +12,21 @@ function ResumeDialog() {
     });
     
     
-   if ($('#DialogSkillsCloud').children().length == 0){
+    if ($('#DialogSkillsMenu').children().length == 0){
+        var JobTypes = {
+            'Software Engineer' : {},
+            'Graphics Engineer' : {},
+            'Full Stack Engineer' : {},
+            'Backend Engineer' : {},
+            'VFX Engineer' : {},
+            'Game Developer' : {},
+        }
+        for (var title in JobTypes) {
+            var JobData = JobTypes[title];
+            $('DialogSkillsMenu').append('<a class="dropdown-item" href="#">'+title+'</a>');
+        };
+    };
+    if ($('#DialogSkillsCloud').children().length == 0){
         var SkillSets = {};
        
         for (var key in window.Skills){
