@@ -352,6 +352,11 @@ th:active,
     font-size:2.1vmax;
     list-style-type: none;
     padding:0px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
 }
 #Menu a{
     text-decoration: none;
