@@ -21,15 +21,8 @@ h2 {
     margin-block-end: 0.83em;
     font-weight: bold;
 }
-*, ::after, ::before {
-    box-sizing: content-box;
-}
-td::after, td::before{
-    box-sizing: border-box;
-}
 table {
     border-collapse: separate;
-    box-sizing: border-box;
 }
 /*end bootstrap overrides*/
 
