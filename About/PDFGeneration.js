@@ -25,7 +25,7 @@ function ResumeDialog() {
         for (var title in JobTypes) {
             console.log(title);
             var JobData = JobTypes[title];
-            $('DialogSkillsMenu').append('<a class="dropdown-item" href="#">'+title+'</a>');
+            $('#DialogSkillsMenu').append('<a class="dropdown-item" href="#">'+title+'</a>');
         };
     };
     if ($('#DialogSkillsCloud').children().length == 0){
