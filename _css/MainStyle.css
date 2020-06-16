@@ -24,6 +24,9 @@ h2 {
 *, ::after, ::before {
     box-sizing: content-box;
 }
+td {
+    box-sizing: border-box;
+}
 table {
     border-collapse: separate;
     box-sizing: border-box;
