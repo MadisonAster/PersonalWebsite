@@ -12,6 +12,11 @@ body {
     overflow-x: hidden;
 }
 
+/*boostrap overrides*/
+*, ::after, ::before {
+    box-sizing: content-box;
+}
+
 p,
 .ContentDiv {
     position:inline;
