@@ -12,20 +12,11 @@ body {
     overflow-x: hidden;
 }
 
-/*boostrap overrides*/
-body {
-    line-height:1.15;
-}
-h2 {
+h1, h2, h3, h4 {
     margin-block-start: 0.83em;
     margin-block-end: 0.83em;
     font-weight: bold;
 }
-table {
-    border-collapse: separate;
-}
-/*end bootstrap overrides*/
-
 p,
 .ContentDiv {
     position:inline;
