@@ -24,7 +24,7 @@ h2 {
 *, ::after, ::before {
     box-sizing: content-box;
 }
-td {
+td::after, td::before{
     box-sizing: border-box;
 }
 table {
