@@ -16,6 +16,10 @@ body {
 *, ::after, ::before {
     box-sizing: content-box;
 }
+table {
+    border-collapse: separate;
+}
+/*end bootstrap overrides*/
 
 p,
 .ContentDiv {
