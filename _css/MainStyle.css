@@ -13,6 +13,9 @@ body {
 }
 
 /*boostrap overrides*/
+body {
+    line-height:1.15;
+}
 *, ::after, ::before {
     box-sizing: content-box;
 }
