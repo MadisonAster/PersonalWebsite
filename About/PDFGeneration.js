@@ -13,6 +13,7 @@ function ResumeDialog() {
     
     
     if ($('#DialogSkillsMenu').children().length == 0){
+        console.log('SUCCCESSSSS');
         var JobTypes = {
             'Software Engineer' : {},
             'Graphics Engineer' : {},
@@ -22,6 +23,7 @@ function ResumeDialog() {
             'Game Developer' : {},
         }
         for (var title in JobTypes) {
+            console.log(title);
             var JobData = JobTypes[title];
             $('DialogSkillsMenu').append('<a class="dropdown-item" href="#">'+title+'</a>');
         };
