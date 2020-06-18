@@ -9,6 +9,17 @@ WORKDIR /var/www/html
 EXPOSE 80
 
 
+#ADD https://raw.githubusercontent.com/mlocati/docker-php-extension-installer/master/install-php-extensions /usr/local/bin/
+
+#RUN chmod uga+x /usr/local/bin/install-php-extensions && sync && \
+#    install-php-extensions gd 
+#    install-php-extensions gd bcmath imagick imap inotify \
+#    intl mbstring mcrypt soap xmlrpc 
+#    mysql mysqli pdo_mysql pdo_sqlite
+
+
+
+
 #WORKDIR /code
 #RUN pwd
 #RUN echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~echo!"
