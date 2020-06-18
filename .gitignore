@@ -3,11 +3,9 @@
 .git-ftp.log
 .git-ftp-tmp
 /stats
-/_Assets/pngSequences
 *.pyc
 Thumbs.db
 .DS_Store
 Desktop.ini
-_js/three.js/
 _js/Windows95Maze/
 _py/cronjobs.sh
