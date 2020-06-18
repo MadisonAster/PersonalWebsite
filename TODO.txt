@@ -52,6 +52,11 @@ DONE - Fix Bookmarks Menu priority
 DONE - Fix Bookmarks Menu hidden skills
 DONE - Fix Favorites Page mobile scaling
 DONE - Arrest New Tab race condition
+DONE = Fix Backups
+DONE - Add PHP Container
+
+Add Firefox container
+Add Compose file
 
 Improve loading times 
     Use php to fill current page.
@@ -71,6 +76,8 @@ Improve loading times
       #For each queued page, use javascript to make php request for content.php in folder. 
       #Set innerHtml once request is received and queue position is called, this should start contents loading.
       #Notify queue when complete
+
+
 
 Add More Bookmarks
 Connect Skills tree links to positional Favorites tab links
@@ -92,7 +99,6 @@ Combine resume/cv
 Add Bookshelf project
 Add Toyota Project
 
-Fix Backups
 
 Overhaul video player
 Video ScrubBrush

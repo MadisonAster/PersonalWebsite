@@ -3,7 +3,7 @@
 #ENV DEBIAN_FRONTEND noninteractive
 #ENV DEBCONF_NONINTERACTIVE_SEEN true
 
-FROM php:5.6.0-apache
+FROM php:apache
 COPY . /var/www/html
 WORKDIR /var/www/html
 EXPOSE 80
