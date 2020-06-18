@@ -1,0 +1,13 @@
+**/.git
+**/.gitignore
+**/.git-ftp.log
+**/.git-ftp-tmp
+**/Dockerfile
+**/README.md
+**/.drone.yml
+**/docker-compose.yml
+**/Thumbs.db
+**/.DS_Store
+**/Desktop.ini
+
+**/_old
