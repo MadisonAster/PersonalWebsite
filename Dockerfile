@@ -3,9 +3,13 @@
 #ENV DEBIAN_FRONTEND noninteractive
 #ENV DEBCONF_NONINTERACTIVE_SEEN true
 
-#docker image tag server:latest myname/server:latest
+FROM php:7.3.0-apache
+COPY . /var/www/html
+WORKDIR /var/www/html
+EXPOSE 80
 
-#WORKDIR /mnt/w/Portfolio/PersonalWebsite
+
+#WORKDIR /code
 #RUN pwd
 #RUN echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~echo!"
 
@@ -15,12 +19,6 @@
 #python 3.6.8
 #ffmpeg
 #firefox
-
-
-FROM php:7.4-cli
-COPY . /usr/src/myapp
-WORKDIR /usr/src/myapp
-CMD [ "php", "./index.php" ]
 
 
 
