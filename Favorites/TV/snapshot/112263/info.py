@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Chris Cooper',
             'url': '/name/nm0177933/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 67672,
-                     'ratingValue': '8.2',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 67672,
+                      'ratingValue': '8.2',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Bridget Carpenter',
@@ -38,16 +38,16 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTk1NjE5MjUwM15BMl5BanBnXkFtZTgwODk3NTk2OTE@._V1_.jpg',
  'keywords': 'time travel,historical event,year 1963,dallas texas,conspiracy',
  'name': '11.22.63',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'High school teacher Jake Epping travels back in '
-                            'time to prevent the assassination of President '
-                            'John F. Kennedy - but his mission is threatened '
-                            'by Lee Harvey Oswald, falling in love, and the '
-                            "past itself, which doesn't want to be changed.",
-             'embedUrl': '/video/imdb/vi313242905',
-             'name': 'Trailer #1',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTU3NzI5MzcyOV5BMl5BanBnXkFtZTgwODAzNjg2NzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTU3NzI5MzcyOV5BMl5BanBnXkFtZTgwODAzNjg2NzE@._V1_.jpg',
-             'uploadDate': '2016-01-12T14:12:59Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'High school teacher Jake Epping travels back in '
+                             'time to prevent the assassination of President '
+                             'John F. Kennedy - but his mission is threatened '
+                             'by Lee Harvey Oswald, falling in love, and the '
+                             "past itself, which doesn't want to be changed.",
+              'embedUrl': '/video/imdb/vi313242905',
+              'name': 'Trailer #1',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTU3NzI5MzcyOV5BMl5BanBnXkFtZTgwODAzNjg2NzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTU3NzI5MzcyOV5BMl5BanBnXkFtZTgwODAzNjg2NzE@._V1_.jpg',
+              'uploadDate': '2016-01-12T14:12:59Z'}],
  'url': '/title/tt2879552/'}

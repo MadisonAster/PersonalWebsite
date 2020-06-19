@@ -14,11 +14,11 @@
            {'@type': 'Person',
             'name': 'Chris Parnell',
             'url': '/name/nm0663177/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 131880,
-                     'ratingValue': '8.6',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 131880,
+                      'ratingValue': '8.6',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Adam Reed',
@@ -37,14 +37,14 @@
  'keywords': 'spy,espionage,domineering mother,retro style secret '
              'agent,fictional spy agency',
  'name': 'Archer',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Brace for the thrust. Watch the official trailer '
-                            'for "Archer: 1999," which premieres Wednesday, '
-                            'May 29, on FXX.',
-             'embedUrl': '/video/imdb/vi1934671129',
-             'name': 'Season 10 Official Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZDQ0ODQyMmYtYzdkNC00NDNlLWIwNjUtYWI1MTI0NWY2OWM2XkEyXkFqcGdeQWZlZGVyaWdh._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZDQ0ODQyMmYtYzdkNC00NDNlLWIwNjUtYWI1MTI0NWY2OWM2XkEyXkFqcGdeQWZlZGVyaWdh._V1_.jpg',
-             'uploadDate': '2019-04-16T13:53:54Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Brace for the thrust. Watch the official trailer '
+                             'for "Archer: 1999," which premieres Wednesday, '
+                             'May 29, on FXX.',
+              'embedUrl': '/video/imdb/vi1934671129',
+              'name': 'Season 10 Official Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZDQ0ODQyMmYtYzdkNC00NDNlLWIwNjUtYWI1MTI0NWY2OWM2XkEyXkFqcGdeQWZlZGVyaWdh._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZDQ0ODQyMmYtYzdkNC00NDNlLWIwNjUtYWI1MTI0NWY2OWM2XkEyXkFqcGdeQWZlZGVyaWdh._V1_.jpg',
+              'uploadDate': '2019-04-16T13:53:54Z'}],
  'url': '/title/tt1486217/'}

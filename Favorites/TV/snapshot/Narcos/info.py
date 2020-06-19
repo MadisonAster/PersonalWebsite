@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Alberto Ammann',
             'url': '/name/nm2975962/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 332974,
-                     'ratingValue': '8.8',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 332974,
+                      'ratingValue': '8.8',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Carlo Bernard',
@@ -48,19 +48,19 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNmFjODU3YzgtMGUwNC00ZGI3LWFkZjQtMjkxZDc3NmQ1MzcyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg',
  'keywords': 'colombia,based on true story,murder,deception,jungle',
  'name': 'Narcos',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Now that the bloody hunt for Pablo Escobar has '
-                            'ended, the DEA turns its attention to the richest '
-                            'drug trafficking organization in the world: the '
-                            'Cali Cartel. Led by four powerful godfathers, '
-                            'this cartel operates much differently than '
-                            "Escobar's, preferring to bribe government "
-                            'officials and keep its violent actions out of the '
-                            'headlines.',
-             'embedUrl': '/video/imdb/vi3929979161',
-             'name': 'Season 3 Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMzI4ZDgyOTEtZTM2Yi00MDkyLWEwMDItMzlmNTNjOWJmMDA1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMzI4ZDgyOTEtZTM2Yi00MDkyLWEwMDItMzlmNTNjOWJmMDA1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
-             'uploadDate': '2017-08-03T16:25:01Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Now that the bloody hunt for Pablo Escobar has '
+                             'ended, the DEA turns its attention to the '
+                             'richest drug trafficking organization in the '
+                             'world: the Cali Cartel. Led by four powerful '
+                             'godfathers, this cartel operates much '
+                             "differently than Escobar's, preferring to bribe "
+                             'government officials and keep its violent '
+                             'actions out of the headlines.',
+              'embedUrl': '/video/imdb/vi3929979161',
+              'name': 'Season 3 Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMzI4ZDgyOTEtZTM2Yi00MDkyLWEwMDItMzlmNTNjOWJmMDA1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMzI4ZDgyOTEtZTM2Yi00MDkyLWEwMDItMzlmNTNjOWJmMDA1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
+              'uploadDate': '2017-08-03T16:25:01Z'}],
  'url': '/title/tt2707408/'}

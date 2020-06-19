@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Walton Goggins',
             'url': '/name/nm0324658/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 490342,
-                     'ratingValue': '7.8',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 490342,
+                      'ratingValue': '7.8',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Quentin Tarantino',
@@ -35,23 +35,23 @@
                 'Russell, and Jennifer Jason Leigh. In the dead of a Wyoming '
                 'winter, a bounty hunter and his prisoner find shelter in a '
                 'cabin currently inhabited by a collection of...',
- 'director': {'@type': 'Person',
-              'name': 'Quentin Tarantino',
-              'url': '/name/nm0000233/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Quentin Tarantino',
+               'url': '/name/nm0000233/'}],
  'duration': 'PT2H48M',
  'genre': ['Crime', 'Drama', 'Mystery', 'Thriller', 'Western'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_.jpg',
  'keywords': 'murder,bounty hunter,blizzard,blood vomiting,projectile vomiting',
  'name': 'The Hateful Eight',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'In post-Civil War Wyoming, bounty hunters try to '
-                            'find shelter during a blizzard but get involved '
-                            'in a plot of betrayal and deception. Will they '
-                            'survive?',
-             'embedUrl': '/video/imdb/vi2079306521',
-             'name': 'Teaser',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjE4MjQ3MzgyNl5BMl5BanBnXkFtZTgwNDcwMDM1NjE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjE4MjQ3MzgyNl5BMl5BanBnXkFtZTgwNDcwMDM1NjE@._V1_.jpg',
-             'uploadDate': '2015-08-13T06:24:30Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'In post-Civil War Wyoming, bounty hunters try to '
+                             'find shelter during a blizzard but get involved '
+                             'in a plot of betrayal and deception. Will they '
+                             'survive?',
+              'embedUrl': '/video/imdb/vi2079306521',
+              'name': 'Teaser',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjE4MjQ3MzgyNl5BMl5BanBnXkFtZTgwNDcwMDM1NjE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjE4MjQ3MzgyNl5BMl5BanBnXkFtZTgwNDcwMDM1NjE@._V1_.jpg',
+              'uploadDate': '2015-08-13T06:24:30Z'}],
  'url': '/title/tt3460252/'}

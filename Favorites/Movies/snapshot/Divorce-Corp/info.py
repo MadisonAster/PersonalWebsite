@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Dennis Braun',
             'url': '/name/nm6112906/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 394,
-                     'ratingValue': '8.1',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 394,
+                      'ratingValue': '8.1',
+                      'worstRating': '1.0'}],
  'contentRating': 'Not Rated',
  'creator': [{'@type': 'Person',
               'name': 'Blake Harjes',
@@ -42,23 +42,23 @@
                 'and Alexandra Borg. More money flows through the family '
                 'courts, than in all other court systems in America combined, '
                 'over $50 billion a year. Through extensive research...',
- 'director': {'@type': 'Person',
-              'name': 'Joseph Sorge',
-              'url': '/name/nm3348253/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Joseph Sorge',
+               'url': '/name/nm3348253/'}],
  'duration': 'PT1H33M',
  'genre': ['Documentary', 'Drama', 'History', 'News'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTU2MzgxOTEzOF5BMl5BanBnXkFtZTgwNzAwNzg2MDE@._V1_.jpg',
  'keywords': 'social injustice,court,custody,marriage,feminism',
  'name': 'Divorce Corp',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'An exposÃ© of the inner workings of the $50 '
-                            'billion a year U.S. family law industry that '
-                            'shines a bright light on the waste and collusive '
-                            'practices seen daily in family courts.',
-             'embedUrl': '/video/imdb/vi270247961',
-             'name': 'Theatrical Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjI0MTAyMzA5MF5BMl5BanBnXkFtZTgwNDgxNDM3MDE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjI0MTAyMzA5MF5BMl5BanBnXkFtZTgwNDgxNDM3MDE@._V1_.jpg',
-             'uploadDate': '2013-12-04T11:09:32Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'An exposÃ© of the inner workings of the $50 '
+                             'billion a year U.S. family law industry that '
+                             'shines a bright light on the waste and collusive '
+                             'practices seen daily in family courts.',
+              'embedUrl': '/video/imdb/vi270247961',
+              'name': 'Theatrical Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjI0MTAyMzA5MF5BMl5BanBnXkFtZTgwNDgxNDM3MDE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjI0MTAyMzA5MF5BMl5BanBnXkFtZTgwNDgxNDM3MDE@._V1_.jpg',
+              'uploadDate': '2013-12-04T11:09:32Z'}],
  'url': '/title/tt2636456/'}

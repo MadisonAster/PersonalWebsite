@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Vanessa Chong',
             'url': '/name/nm2878323/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 45354,
-                     'ratingValue': '6.8',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 45354,
+                      'ratingValue': '6.8',
+                      'worstRating': '1.0'}],
  'contentRating': 'PG-13',
  'creator': [{'@type': 'Person',
               'name': 'Jez Butterworth',
@@ -47,25 +47,25 @@
                 'Sonya Davison. CIA operative Valerie Plame discovers her '
                 'identity is allegedly leaked by the government as payback for '
                 'an op-ed article her husband wrote criticizing the Bush...',
- 'director': {'@type': 'Person',
-              'name': 'Doug Liman',
-              'url': '/name/nm0510731/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Doug Liman',
+               'url': '/name/nm0510731/'}],
  'duration': 'PT1H48M',
  'genre': ['Biography', 'Drama', 'Thriller'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjIyOTg1NzU0Ml5BMl5BanBnXkFtZTcwMjA2OTY5Mw@@._V1_.jpg',
  'keywords': 'cia agent,year 1972,year 1985,year 1982,year 1992',
  'name': 'Fair Game',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'CIA operative Valerie Plame (Watts), who is '
-                            'investigating the existence of Weapons of Mass '
-                            'Destruction in Iraq, discovers her identity '
-                            'allegedly leaked by the government as payback for '
-                            'an op-ed article her husband (Penn) wrote '
-                            'criticizing the Bush administration.',
-             'embedUrl': '/video/imdb/vi3772581401',
-             'name': 'Fair Game',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjI5MzU2NTM3M15BMl5BanBnXkFtZTgwNjc1NzYzMzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjI5MzU2NTM3M15BMl5BanBnXkFtZTgwNjc1NzYzMzE@._V1_.jpg',
-             'uploadDate': '2010-08-20T12:21:40Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'CIA operative Valerie Plame (Watts), who is '
+                             'investigating the existence of Weapons of Mass '
+                             'Destruction in Iraq, discovers her identity '
+                             'allegedly leaked by the government as payback '
+                             'for an op-ed article her husband (Penn) wrote '
+                             'criticizing the Bush administration.',
+              'embedUrl': '/video/imdb/vi3772581401',
+              'name': 'Fair Game',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjI5MzU2NTM3M15BMl5BanBnXkFtZTgwNjc1NzYzMzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjI5MzU2NTM3M15BMl5BanBnXkFtZTgwNjc1NzYzMzE@._V1_.jpg',
+              'uploadDate': '2010-08-20T12:21:40Z'}],
  'url': '/title/tt0977855/'}

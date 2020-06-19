@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'William Julius Wilson',
             'url': '/name/nm1352293/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 5109,
-                     'ratingValue': '7.9',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 5109,
+                      'ratingValue': '7.9',
+                      'worstRating': '1.0'}],
  'contentRating': 'Not Rated',
  'creator': [{'@type': 'Person',
               'name': 'Eugene Jarecki',
@@ -45,24 +45,24 @@
                 'Simon, and Shanequa Benitez. From the dealer to the narcotics '
                 'officer, the inmate to the federal judge, a penetrating look '
                 "inside America's criminal justice system,...",
- 'director': {'@type': 'Person',
-              'name': 'Eugene Jarecki',
-              'url': '/name/nm0418659/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Eugene Jarecki',
+               'url': '/name/nm0418659/'}],
  'duration': 'PT1H48M',
  'genre': 'Documentary',
  'image': 'https://m.media-amazon.com/images/M/MV5BMTk4ODQxNzE4N15BMl5BanBnXkFtZTcwMjY3MjUzOA@@._V1_.jpg',
  'keywords': 'u.s. mexico border,despair,american history,judge,federal judge',
  'name': 'The House I Live In',
- 'trailer': {'@type': 'VideoObject',
-             'description': "An investigative look at America's war on drugs "
-                            'and its impact on the criminal justice system, '
-                            'with a focus on the experiences of Nannie Jeter, '
-                            "a former employee of filmmaker Eugene Jarecki's "
-                            'family.',
-             'embedUrl': '/video/imdb/vi4175930393',
-             'name': 'Theatrical Version',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTQyNjUzMzI1MV5BMl5BanBnXkFtZTcwODc3MTM0OA@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTQyNjUzMzI1MV5BMl5BanBnXkFtZTcwODc3MTM0OA@@._V1_.jpg',
-             'uploadDate': '2012-09-05T09:07:20Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': "An investigative look at America's war on drugs "
+                             'and its impact on the criminal justice system, '
+                             'with a focus on the experiences of Nannie Jeter, '
+                             "a former employee of filmmaker Eugene Jarecki's "
+                             'family.',
+              'embedUrl': '/video/imdb/vi4175930393',
+              'name': 'Theatrical Version',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTQyNjUzMzI1MV5BMl5BanBnXkFtZTcwODc3MTM0OA@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTQyNjUzMzI1MV5BMl5BanBnXkFtZTcwODc3MTM0OA@@._V1_.jpg',
+              'uploadDate': '2012-09-05T09:07:20Z'}],
  'url': '/title/tt2125653/'}

@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Michael Cera',
             'url': '/name/nm0148418/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 129080,
-                     'ratingValue': '7.4',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 129080,
+                      'ratingValue': '7.4',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Aaron Sorkin',
@@ -40,23 +40,23 @@
                 'Elba, and Kevin Costner. The true story of Molly Bloom, an '
                 "Olympic-class skier who ran the world's most exclusive "
                 'high-stakes poker game and became an FBI target.',
- 'director': {'@type': 'Person',
-              'name': 'Aaron Sorkin',
-              'url': '/name/nm0815070/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Aaron Sorkin',
+               'url': '/name/nm0815070/'}],
  'duration': 'PT2H20M',
  'genre': ['Biography', 'Crime', 'Drama'],
  'image': 'https://m.media-amazon.com/images/M/MV5BNTkzMzRlYjEtMTQ5Yi00OWY3LWI0NzYtNGQ4ZDkzZTU0M2IwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg',
  'keywords': 'short skirt with heels,poker,lawyer,playing cards,female '
              'protagonist',
  'name': "Molly's Game",
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Aaron Sorkin annotates the theatrical trailer for '
-                            "'Molly's Game' to give you more insight to his "
-                            'movie.',
-             'embedUrl': '/video/imdb/vi1887483929',
-             'name': 'Trailer With Commentary From Director Aaron Sorkin',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZDNhZTM2NDYtZGU2MS00YThmLTk3OTMtNDRjY2ZjY2EwYWI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZDNhZTM2NDYtZGU2MS00YThmLTk3OTMtNDRjY2ZjY2EwYWI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
-             'uploadDate': '2017-12-22T19:33:55Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Aaron Sorkin annotates the theatrical trailer '
+                             "for 'Molly's Game' to give you more insight to "
+                             'his movie.',
+              'embedUrl': '/video/imdb/vi1887483929',
+              'name': 'Trailer With Commentary From Director Aaron Sorkin',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZDNhZTM2NDYtZGU2MS00YThmLTk3OTMtNDRjY2ZjY2EwYWI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZDNhZTM2NDYtZGU2MS00YThmLTk3OTMtNDRjY2ZjY2EwYWI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
+              'uploadDate': '2017-12-22T19:33:55Z'}],
  'url': '/title/tt4209788/'}

@@ -18,12 +18,12 @@
            {'@type': 'Person',
             'name': 'Marc Meltonville',
             'url': '/name/nm3010809/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 251,
-                     'ratingValue': '8.3',
-                     'worstRating': '1.0'},
- 'creator': {'@type': 'Organization', 'url': '/company/co0133443/'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 251,
+                      'ratingValue': '8.3',
+                      'worstRating': '1.0'}],
+ 'creator': [{'@type': 'Organization', 'url': '/company/co0133443/'}],
  'datePublished': '2004-08-28',
  'description': 'The Worst Jobs in History is a TV series starring Tony '
                 'Robinson, Damian Brooke, and Jonathan Foyle. Tony Robinson '

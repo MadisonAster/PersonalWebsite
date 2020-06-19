@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Emma Myles',
             'url': '/name/nm1787501/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 272095,
-                     'ratingValue': '8.1',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 272095,
+                      'ratingValue': '8.1',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Jenji Kohan',
@@ -40,14 +40,14 @@
  'keywords': 'prison gang,prison life,prison corruption,american '
              'prison,violence',
  'name': 'Orange Is the New Black',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'The epic conclusion of the series that changed '
-                            'everything. "Orange Is the New Black"\'s final '
-                            'season arrives July 26.',
-             'embedUrl': '/video/imdb/vi4029332505',
-             'name': 'Official Season 7 Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BOTliM2Y0OTYtZmYxZi00YjRkLThmMjUtM2YzNjBhODE3ZDAyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BOTliM2Y0OTYtZmYxZi00YjRkLThmMjUtM2YzNjBhODE3ZDAyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
-             'uploadDate': '2019-06-26T15:38:24Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'The epic conclusion of the series that changed '
+                             'everything. "Orange Is the New Black"\'s final '
+                             'season arrives July 26.',
+              'embedUrl': '/video/imdb/vi4029332505',
+              'name': 'Official Season 7 Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BOTliM2Y0OTYtZmYxZi00YjRkLThmMjUtM2YzNjBhODE3ZDAyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BOTliM2Y0OTYtZmYxZi00YjRkLThmMjUtM2YzNjBhODE3ZDAyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
+              'uploadDate': '2019-06-26T15:38:24Z'}],
  'url': '/title/tt2372162/'}

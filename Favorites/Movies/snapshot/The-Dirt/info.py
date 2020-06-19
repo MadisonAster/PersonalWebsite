@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Daniel Webber',
             'url': '/name/nm3206486/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 35690,
-                     'ratingValue': '7.0',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 35690,
+                      'ratingValue': '7.0',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Amanda Adelson',
@@ -51,25 +51,25 @@
                 'Machine Gun Kelly. Based on the bestselling autobiography '
                 'from Mötley Crüe, the film is an unflinching tale of success '
                 'and excess as four misfits rise from the streets of...',
- 'director': {'@type': 'Person',
-              'name': 'Jeff Tremaine',
-              'url': '/name/nm0871860/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Jeff Tremaine',
+               'url': '/name/nm0871860/'}],
  'duration': 'PT1H47M',
  'genre': ['Biography', 'Comedy', 'Drama', 'Music'],
  'image': 'https://m.media-amazon.com/images/M/MV5BODhiMzkwYTctYzgwOC00MDM2LWExYjQtMzY4MDljZjQ3M2RmXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg',
  'keywords': 'junkie,poseur,soft rock,topless female nudity,squirting',
  'name': 'The Dirt',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Based on the bestselling autobiography from '
-                            'Mötley Crüe, the film is an unflinching tale of '
-                            'success and excess as four misfits rise from the '
-                            'streets of Hollywood to the heights of '
-                            'international fame, starring Douglas Booth, Iwan '
-                            'Rheon, Colson Baker, and Daniel Webber.',
-             'embedUrl': '/video/imdb/vi1064221209',
-             'name': "Netflix's Mötley Crüe Biopic - Official Trailer",
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZTIyYzI3YzctMjYxOC00ZmFkLTg5NmEtZmUxNDlmYmNjYzUzXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZTIyYzI3YzctMjYxOC00ZmFkLTg5NmEtZmUxNDlmYmNjYzUzXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg',
-             'uploadDate': '2019-02-19T15:15:51Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Based on the bestselling autobiography from '
+                             'Mötley Crüe, the film is an unflinching tale of '
+                             'success and excess as four misfits rise from the '
+                             'streets of Hollywood to the heights of '
+                             'international fame, starring Douglas Booth, Iwan '
+                             'Rheon, Colson Baker, and Daniel Webber.',
+              'embedUrl': '/video/imdb/vi1064221209',
+              'name': "Netflix's Mötley Crüe Biopic - Official Trailer",
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZTIyYzI3YzctMjYxOC00ZmFkLTg5NmEtZmUxNDlmYmNjYzUzXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZTIyYzI3YzctMjYxOC00ZmFkLTg5NmEtZmUxNDlmYmNjYzUzXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg',
+              'uploadDate': '2019-02-19T15:15:51Z'}],
  'url': '/title/tt0800325/'}

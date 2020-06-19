@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Kodi Smit-McPhee',
             'url': '/name/nm2240346/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 16925,
-                     'ratingValue': '6.5',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 16925,
+                      'ratingValue': '6.5',
+                      'worstRating': '1.0'}],
  'contentRating': 'Not Rated',
  'creator': [{'@type': 'Person',
               'name': 'Stanislaw Lem',
@@ -40,23 +40,23 @@
                 'and Jon Hamm. An aging, out-of-work actress accepts one last '
                 'job, though the consequences of her decision affect her in '
                 "ways she didn't consider.",
- 'director': {'@type': 'Person',
-              'name': 'Ari Folman',
-              'url': '/name/nm0284369/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Ari Folman',
+               'url': '/name/nm0284369/'}],
  'duration': 'PT2H2M',
  'genre': ['Animation', 'Drama', 'Sci-Fi'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjE5MTUzNDk3M15BMl5BanBnXkFtZTgwMTUwNTQ5MTE@._V1_.jpg',
  'keywords': 'satire,dystopia,cinema,tom cruise character,barcode license '
              'plate',
  'name': 'The Congress',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'An aging, out-of-work actress accepts one last '
-                            'job, though the consequences of her decision '
-                            "affect her in ways she didn't consider",
-             'embedUrl': '/video/imdb/vi892512537',
-             'name': 'International Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjk1ODkwNzMwNV5BMl5BanBnXkFtZTgwMjU3NDAwMDE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjk1ODkwNzMwNV5BMl5BanBnXkFtZTgwMjU3NDAwMDE@._V1_.jpg',
-             'uploadDate': '2013-08-06T19:57:14Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'An aging, out-of-work actress accepts one last '
+                             'job, though the consequences of her decision '
+                             "affect her in ways she didn't consider",
+              'embedUrl': '/video/imdb/vi892512537',
+              'name': 'International Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjk1ODkwNzMwNV5BMl5BanBnXkFtZTgwMjU3NDAwMDE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjk1ODkwNzMwNV5BMl5BanBnXkFtZTgwMjU3NDAwMDE@._V1_.jpg',
+              'uploadDate': '2013-08-06T19:57:14Z'}],
  'url': '/title/tt1821641/'}

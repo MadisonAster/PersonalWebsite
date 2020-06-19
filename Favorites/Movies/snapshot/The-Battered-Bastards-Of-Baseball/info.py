@@ -14,11 +14,11 @@
            {'@type': 'Person',
             'name': 'Jim Swanson',
             'url': '/name/nm6262807/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 2957,
-                     'ratingValue': '8.0',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 2957,
+                      'ratingValue': '8.0',
+                      'worstRating': '1.0'}],
  'datePublished': '2014-07-11',
  'description': 'The Battered Bastards of Baseball is a movie starring Todd '
                 'Field, Kurt Russell, and Rob Nelson. The Battered Bastards of '

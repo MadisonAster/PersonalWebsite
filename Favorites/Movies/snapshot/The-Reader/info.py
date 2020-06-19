@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Jeanette Hain',
             'url': '/name/nm0354198/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 225644,
-                     'ratingValue': '7.6',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 225644,
+                      'ratingValue': '7.6',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'David Hare',
@@ -41,23 +41,24 @@
                 'and Bruno Ganz. Post-WWII Germany: Nearly a decade after his '
                 'affair with an older woman came to a mysterious end, law '
                 'student Michael Berg re-encounters his former lover as...',
- 'director': {'@type': 'Person',
-              'name': 'Stephen Daldry',
-              'url': '/name/nm0197636/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Stephen Daldry',
+               'url': '/name/nm0197636/'}],
  'duration': 'PT2H4M',
  'genre': ['Drama', 'Romance'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTM0NDQxNjA0N15BMl5BanBnXkFtZTcwNDUwMzcwMg@@._V1_.jpg',
  'keywords': 'war crime,trial,secret,sex with a minor,nazi',
  'name': 'The Reader',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Post-WWII Germany: Nearly a decade after his '
-                            'affair with an older woman came to a mysterious '
-                            'end, a law student re-encounters his former lover '
-                            '(Winslet) as she testifies in a war-crimes trial.',
-             'embedUrl': '/video/imdb/vi1750597657',
-             'name': 'The Reader: Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTAxODY1Mzc4MzdeQTJeQWpwZ15BbWU4MDY2NTMxMzMx._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTAxODY1Mzc4MzdeQTJeQWpwZ15BbWU4MDY2NTMxMzMx._V1_.jpg',
-             'uploadDate': '2008-11-06T10:49:07Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Post-WWII Germany: Nearly a decade after his '
+                             'affair with an older woman came to a mysterious '
+                             'end, a law student re-encounters his former '
+                             'lover (Winslet) as she testifies in a war-crimes '
+                             'trial.',
+              'embedUrl': '/video/imdb/vi1750597657',
+              'name': 'The Reader: Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTAxODY1Mzc4MzdeQTJeQWpwZ15BbWU4MDY2NTMxMzMx._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTAxODY1Mzc4MzdeQTJeQWpwZ15BbWU4MDY2NTMxMzMx._V1_.jpg',
+              'uploadDate': '2008-11-06T10:49:07Z'}],
  'url': '/title/tt0976051/'}

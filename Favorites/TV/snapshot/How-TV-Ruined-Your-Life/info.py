@@ -18,12 +18,12 @@
            {'@type': 'Person',
             'name': 'Beth Cordingly',
             'url': '/name/nm0179596/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 1160,
-                     'ratingValue': '8.3',
-                     'worstRating': '1.0'},
- 'creator': {'@type': 'Organization', 'url': '/company/co0104481/'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 1160,
+                      'ratingValue': '8.3',
+                      'worstRating': '1.0'}],
+ 'creator': [{'@type': 'Organization', 'url': '/company/co0104481/'}],
  'datePublished': '2011-01-25',
  'description': 'How TV Ruined Your Life is a TV mini-series starring Charlie '
                 'Brooker, Liz May Brice, and Kevin Eldon. A comedic '

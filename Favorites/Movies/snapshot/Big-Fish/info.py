@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Jessica Lange',
             'url': '/name/nm0001448/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 404774,
-                     'ratingValue': '8.0',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 404774,
+                      'ratingValue': '8.0',
+                      'worstRating': '1.0'}],
  'contentRating': 'PG-13',
  'creator': [{'@type': 'Person',
               'name': 'Daniel Wallace',
@@ -38,23 +38,23 @@
  'description': 'Big Fish is a movie starring Ewan McGregor, Albert Finney, '
                 'and Billy Crudup. A frustrated son tries to determine the '
                 "fact from fiction in his dying father's life.",
- 'director': {'@type': 'Person',
-              'name': 'Tim Burton',
-              'url': '/name/nm0000318/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Tim Burton',
+               'url': '/name/nm0000318/'}],
  'duration': 'PT2H5M',
  'genre': ['Adventure', 'Drama', 'Fantasy', 'Romance'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMmU3NzIyODctYjVhOC00NzBmLTlhNWItMzBlODEwZTlmMjUzXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg',
  'keywords': 'fish,father son relationship,death of father,flashback,growing '
              'up',
  'name': 'Big Fish',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'A son tries to learn more about his dying father '
-                            'by reliving stories and myths he told about his '
-                            'life.',
-             'embedUrl': '/video/imdb/vi1493149209',
-             'name': 'Theatrical Version',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTk2OTYzNzE3M15BMl5BanBnXkFtZTcwMDY0NTMzOQ@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTk2OTYzNzE3M15BMl5BanBnXkFtZTcwMDY0NTMzOQ@@._V1_.jpg',
-             'uploadDate': '2013-04-03T14:49:06Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A son tries to learn more about his dying father '
+                             'by reliving stories and myths he told about his '
+                             'life.',
+              'embedUrl': '/video/imdb/vi1493149209',
+              'name': 'Theatrical Version',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTk2OTYzNzE3M15BMl5BanBnXkFtZTcwMDY0NTMzOQ@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTk2OTYzNzE3M15BMl5BanBnXkFtZTcwMDY0NTMzOQ@@._V1_.jpg',
+              'uploadDate': '2013-04-03T14:49:06Z'}],
  'url': '/title/tt0319061/'}

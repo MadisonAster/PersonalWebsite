@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Brandon Potter',
             'url': '/name/nm2743770/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 11560,
-                     'ratingValue': '5.1',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 11560,
+                      'ratingValue': '5.1',
+                      'worstRating': '1.0'}],
  'contentRating': 'Not Rated',
  'creator': [{'@type': 'Person',
               'name': 'Hajime Isayama',
@@ -49,25 +49,25 @@
                 'Papenbrook, and Monica Rial. In a world where giant humanoid '
                 'Titans prey on humans, Eren joins the scouting legion to get '
                 'revenge on the monsters who killed everyone in his...',
- 'director': {'@type': 'Person',
-              'name': 'Shinji Higuchi',
-              'url': '/name/nm0383688/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Shinji Higuchi',
+               'url': '/name/nm0383688/'}],
  'duration': 'PT1H38M',
  'genre': ['Action', 'Adventure', 'Drama', 'Fantasy', 'Horror', 'Sci-Fi'],
  'image': 'https://m.media-amazon.com/images/M/MV5BZDk5MTcxZmItYWM2Ny00NjIwLWE2YWQtYjczMWFiZThjN2JkXkEyXkFqcGdeQXVyNDQyNzIwNDQ@._V1_.jpg',
  'keywords': 'live action remake of anime,titan,giant,man eating giant,two '
              'parts',
  'name': 'Shingeki no kyojin',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'The story of a world where most of humanity has '
-                            'been destroyed by giants and where the last of '
-                            'mankind fights to survive behind three concentric '
-                            'walls - walls that were once impenetrable to the '
-                            'giants.',
-             'embedUrl': '/video/imdb/vi780120857',
-             'name': 'U.S. Theatrical Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjIzMzgxMjE5M15BMl5BanBnXkFtZTgwNjgyMjM5NjE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjIzMzgxMjE5M15BMl5BanBnXkFtZTgwNjgyMjM5NjE@._V1_.jpg',
-             'uploadDate': '2015-10-01T09:38:53Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'The story of a world where most of humanity has '
+                             'been destroyed by giants and where the last of '
+                             'mankind fights to survive behind three '
+                             'concentric walls - walls that were once '
+                             'impenetrable to the giants.',
+              'embedUrl': '/video/imdb/vi780120857',
+              'name': 'U.S. Theatrical Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjIzMzgxMjE5M15BMl5BanBnXkFtZTgwNjgyMjM5NjE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjIzMzgxMjE5M15BMl5BanBnXkFtZTgwNjgyMjM5NjE@._V1_.jpg',
+              'uploadDate': '2015-10-01T09:38:53Z'}],
  'url': '/title/tt2072230/'}

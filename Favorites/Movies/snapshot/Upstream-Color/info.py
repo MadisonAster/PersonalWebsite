@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Andrew Sensenig',
             'url': '/name/nm2426419/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 30328,
-                     'ratingValue': '6.7',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 30328,
+                      'ratingValue': '6.7',
+                      'worstRating': '1.0'}],
  'contentRating': 'Not Rated',
  'creator': [{'@type': 'Person',
               'name': 'Shane Carruth',
@@ -33,24 +33,24 @@
                 'and Shane Carruth. A man and woman are drawn together, '
                 'entangled in the life cycle of an ageless organism. Identity '
                 'becomes an illusion as they struggle to assemble the...',
- 'director': {'@type': 'Person',
-              'name': 'Shane Carruth',
-              'url': '/name/nm1503403/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Shane Carruth',
+               'url': '/name/nm1503403/'}],
  'duration': 'PT1H36M',
  'genre': ['Drama', 'Sci-Fi'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTQzMzQ4MDAyNF5BMl5BanBnXkFtZTcwNzE0MDk3OA@@._V1_.jpg',
  'keywords': 'underwater scene,blue orchid,psychological thriller,very little '
              'dialogue,caterpillar',
  'name': 'Upstream Color',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'A man and woman are drawn together, entangled in '
-                            'the life cycle of an ageless organism. Identity '
-                            'becomes an illusion as they struggle to assemble '
-                            'the loose fragments of wrecked lives.',
-             'embedUrl': '/video/imdb/vi3090851609',
-             'name': 'U.S. Version #3',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMzU2MTE3NTMwNl5BMl5BanBnXkFtZTcwNzY5ODY5OA@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMzU2MTE3NTMwNl5BMl5BanBnXkFtZTcwNzY5ODY5OA@@._V1_.jpg',
-             'uploadDate': '2013-01-17T08:28:49Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A man and woman are drawn together, entangled in '
+                             'the life cycle of an ageless organism. Identity '
+                             'becomes an illusion as they struggle to assemble '
+                             'the loose fragments of wrecked lives.',
+              'embedUrl': '/video/imdb/vi3090851609',
+              'name': 'U.S. Version #3',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMzU2MTE3NTMwNl5BMl5BanBnXkFtZTcwNzY5ODY5OA@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMzU2MTE3NTMwNl5BMl5BanBnXkFtZTcwNzY5ODY5OA@@._V1_.jpg',
+              'uploadDate': '2013-01-17T08:28:49Z'}],
  'url': '/title/tt2084989/'}

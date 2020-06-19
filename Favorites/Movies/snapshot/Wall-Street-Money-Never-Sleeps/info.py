@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Josh Brolin',
             'url': '/name/nm0000982/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 96298,
-                     'ratingValue': '6.2',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 96298,
+                      'ratingValue': '6.2',
+                      'worstRating': '1.0'}],
  'contentRating': 'PG-13',
  'creator': [{'@type': 'Person',
               'name': 'Allan Loeb',
@@ -45,29 +45,29 @@
                 'LaBeouf, Michael Douglas, and Carey Mulligan. Now out of '
                 'prison but still disgraced by his peers, Gordon Gekko works '
                 'his future son-in-law, an idealistic stock broker, when he...',
- 'director': {'@type': 'Person',
-              'name': 'Oliver Stone',
-              'url': '/name/nm0000231/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Oliver Stone',
+               'url': '/name/nm0000231/'}],
  'duration': 'PT2H13M',
  'genre': 'Drama',
  'image': 'https://m.media-amazon.com/images/M/MV5BMTU5MDEzMzYwMF5BMl5BanBnXkFtZTcwNTcwMjUxMw@@._V1_.jpg',
  'keywords': 'finance industry,businessman,stocktrader,stockbroker,stock '
              'market',
  'name': 'Wall Street: Money Never Sleeps',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Emerging from a lengthy prison stint, Gordon '
-                            'Gekko finds himself on the outside of a world he '
-                            'once dominated. Looking to repair his damaged '
-                            'relationship with his daughter, Gekko forms an '
-                            'alliance with her fiancÃ© Jacob (Shia LaBeouf), '
-                            'and Jacob begins to see him as a father figure. '
-                            'But Jacob learns the hard way that Gekko Â– still '
-                            'a master manipulator and player Â– is after '
-                            'something very different from redemption.',
-             'embedUrl': '/video/imdb/vi875627545',
-             'name': 'Wall Street: Money Never Sleeps',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTQ0MTYwOTYwNl5BMl5BanBnXkFtZTgwMTkxNDczMzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTQ0MTYwOTYwNl5BMl5BanBnXkFtZTgwMTkxNDczMzE@._V1_.jpg',
-             'uploadDate': '2010-01-28T08:30:58Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Emerging from a lengthy prison stint, Gordon '
+                             'Gekko finds himself on the outside of a world he '
+                             'once dominated. Looking to repair his damaged '
+                             'relationship with his daughter, Gekko forms an '
+                             'alliance with her fiancÃ© Jacob (Shia LaBeouf), '
+                             'and Jacob begins to see him as a father figure. '
+                             'But Jacob learns the hard way that Gekko Â– '
+                             'still a master manipulator and player Â– is '
+                             'after something very different from redemption.',
+              'embedUrl': '/video/imdb/vi875627545',
+              'name': 'Wall Street: Money Never Sleeps',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTQ0MTYwOTYwNl5BMl5BanBnXkFtZTgwMTkxNDczMzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTQ0MTYwOTYwNl5BMl5BanBnXkFtZTgwMTkxNDczMzE@._V1_.jpg',
+              'uploadDate': '2010-01-28T08:30:58Z'}],
  'url': '/title/tt1027718/'}

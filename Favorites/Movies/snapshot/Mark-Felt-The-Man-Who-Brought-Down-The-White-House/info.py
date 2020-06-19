@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Tony Goldwyn',
             'url': '/name/nm0001282/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 11138,
-                     'ratingValue': '6.4',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 11138,
+                      'ratingValue': '6.4',
+                      'worstRating': '1.0'}],
  'contentRating': 'PG-13',
  'creator': [{'@type': 'Person',
               'name': 'Mark Felt',
@@ -43,23 +43,23 @@
                 'movie starring Liam Neeson, Diane Lane, and Marton Csokas. '
                 'The story of Mark Felt, who under the name "Deep Throat" '
                 'helped journalists Bob Woodward and Carl Bernstein uncover...',
- 'director': {'@type': 'Person',
-              'name': 'Peter Landesman',
-              'url': '/name/nm1481618/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Peter Landesman',
+               'url': '/name/nm1481618/'}],
  'duration': 'PT1H43M',
  'genre': ['Biography', 'Drama', 'History', 'Thriller'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjQzMDEwMjMyNF5BMl5BanBnXkFtZTgwNjA1NTA1MzI@._V1_.jpg',
  'keywords': 'whistleblower,father daughter relationship,mother daughter '
              'relationship,hippie,commune',
  'name': 'Mark Felt: The Man Who Brought Down the White House',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'The story of Mark Felt, who under the name "Deep '
-                            'Throat" helped journalists Bob Woodward and Carl '
-                            'Bernstein uncover the Watergate scandal in 1974.',
-             'embedUrl': '/video/imdb/vi52345113',
-             'name': 'Official Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTU3MzAwNjg4MV5BMl5BanBnXkFtZTgwNDYxNjczMzI@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTU3MzAwNjg4MV5BMl5BanBnXkFtZTgwNDYxNjczMzI@._V1_.jpg',
-             'uploadDate': '2017-08-29T14:34:36Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'The story of Mark Felt, who under the name "Deep '
+                             'Throat" helped journalists Bob Woodward and Carl '
+                             'Bernstein uncover the Watergate scandal in 1974.',
+              'embedUrl': '/video/imdb/vi52345113',
+              'name': 'Official Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTU3MzAwNjg4MV5BMl5BanBnXkFtZTgwNDYxNjczMzI@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTU3MzAwNjg4MV5BMl5BanBnXkFtZTgwNDYxNjczMzI@._V1_.jpg',
+              'uploadDate': '2017-08-29T14:34:36Z'}],
  'url': '/title/tt5175450/'}

@@ -16,11 +16,11 @@
             'name': 'Katheryn Winnick',
             'url': '/name/nm0935395/'},
            {'@type': 'Person', 'name': 'Fei Ren', 'url': '/name/nm6699375/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 68712,
-                     'ratingValue': '6.3',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 68712,
+                      'ratingValue': '6.3',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Jayson Rothwell',
@@ -35,27 +35,28 @@
                 'and Katheryn Winnick. A retiring assassin suddenly finds '
                 'himself on the receiving end of a hit, contracted by none '
                 'other than his own employer seeking to cash in on the...',
- 'director': {'@type': 'Person',
-              'name': 'Jonas Åkerlund',
-              'url': '/name/nm0959774/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Jonas Åkerlund',
+               'url': '/name/nm0959774/'}],
  'duration': 'PT1H58M',
  'genre': ['Action', 'Crime', 'Drama', 'Thriller'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMzA5MjNjODEtOWYxYi00OTdmLTlhNTAtN2VhMTMxNWJjM2ZmXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg',
  'keywords': 'based on comic book,female nudity,bare breasts,based on '
              'comic,bare butt',
  'name': 'Polar',
- 'trailer': {'@type': 'VideoObject',
-             'description': "The world's top assassin, Duncan Vizla, aka The "
-                            'Black Kaiser (Mads Mikkelsen), is settling into '
-                            'retirement when his former employer marks him as '
-                            'a liability to the firm. Against his will, he '
-                            'finds himself back in the game going head to head '
-                            'with an army of younger, faster, ruthless killers '
-                            'who will stop at nothing to have him silenced.',
-             'embedUrl': '/video/imdb/vi1546435097',
-             'name': 'Official Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMmQxMWRiZWYtNGE2Yi00NTA2LWI0M2EtOWY3ZGI3YTk2YjMwXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMmQxMWRiZWYtNGE2Yi00NTA2LWI0M2EtOWY3ZGI3YTk2YjMwXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg',
-             'uploadDate': '2019-01-07T17:43:24Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': "The world's top assassin, Duncan Vizla, aka The "
+                             'Black Kaiser (Mads Mikkelsen), is settling into '
+                             'retirement when his former employer marks him as '
+                             'a liability to the firm. Against his will, he '
+                             'finds himself back in the game going head to '
+                             'head with an army of younger, faster, ruthless '
+                             'killers who will stop at nothing to have him '
+                             'silenced.',
+              'embedUrl': '/video/imdb/vi1546435097',
+              'name': 'Official Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMmQxMWRiZWYtNGE2Yi00NTA2LWI0M2EtOWY3ZGI3YTk2YjMwXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMmQxMWRiZWYtNGE2Yi00NTA2LWI0M2EtOWY3ZGI3YTk2YjMwXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg',
+              'uploadDate': '2019-01-07T17:43:24Z'}],
  'url': '/title/tt4139588/'}

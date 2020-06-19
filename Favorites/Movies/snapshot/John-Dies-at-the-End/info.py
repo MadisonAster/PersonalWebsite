@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Clancy Brown',
             'url': '/name/nm0000317/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 35508,
-                     'ratingValue': '6.4',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 35508,
+                      'ratingValue': '6.4',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Don Coscarelli',
@@ -38,24 +38,24 @@
                 'Rob Mayes, and Paul Giamatti. A new street drug that sends '
                 'its users across time and dimensions has one drawback: some '
                 'people return no longer human. Can two college...',
- 'director': {'@type': 'Person',
-              'name': 'Don Coscarelli',
-              'url': '/name/nm0181741/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Don Coscarelli',
+               'url': '/name/nm0181741/'}],
  'duration': 'PT1H39M',
  'genre': ['Comedy', 'Fantasy', 'Horror', 'Sci-Fi'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTUyNzIyNzc0MV5BMl5BanBnXkFtZTcwOTM5ODg1OA@@._V1_.jpg',
  'keywords': 'multiple dimensions,male friendship,cult film,mind altering '
              'drug,bullet time',
  'name': 'John Dies at the End',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'A pair of college dropouts who can barely hold '
-                            'down jobs are enlisted to save humanity from a '
-                            'paranormal, psychoactive drug that promises an '
-                            'out-of-body experience with each hit.',
-             'embedUrl': '/video/imdb/vi643671065',
-             'name': 'No. 1',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTcwMTY0ODI5Ml5BMl5BanBnXkFtZTcwNzE3NTg2OA@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTcwMTY0ODI5Ml5BMl5BanBnXkFtZTcwNzE3NTg2OA@@._V1_.jpg',
-             'uploadDate': '2012-11-01T15:47:16Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A pair of college dropouts who can barely hold '
+                             'down jobs are enlisted to save humanity from a '
+                             'paranormal, psychoactive drug that promises an '
+                             'out-of-body experience with each hit.',
+              'embedUrl': '/video/imdb/vi643671065',
+              'name': 'No. 1',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTcwMTY0ODI5Ml5BMl5BanBnXkFtZTcwNzE3NTg2OA@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTcwMTY0ODI5Ml5BMl5BanBnXkFtZTcwNzE3NTg2OA@@._V1_.jpg',
+              'uploadDate': '2012-11-01T15:47:16Z'}],
  'url': '/title/tt1783732/'}

@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Craig Van Hook',
             'url': '/name/nm3995471/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 238459,
-                     'ratingValue': '7.3',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 238459,
+                      'ratingValue': '7.3',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Derek Cianfrance',
@@ -45,25 +45,25 @@
                 'Bradley Cooper, and Eva Mendes. A motorcycle stunt rider '
                 'turns to robbing banks as a way to provide for his lover and '
                 'their newborn child, a decision that puts him on a...',
- 'director': {'@type': 'Person',
-              'name': 'Derek Cianfrance',
-              'url': '/name/nm0161834/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Derek Cianfrance',
+               'url': '/name/nm0161834/'}],
  'duration': 'PT2H20M',
  'genre': ['Crime', 'Drama', 'Thriller'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjc1OTEwNjU4N15BMl5BanBnXkFtZTcwNzUzNDIwOQ@@._V1_.jpg',
  'keywords': 'bank robbery,neo noir,original story,bank,high school student',
  'name': 'The Place Beyond the Pines',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'A motorcycle stunt rider turns to robbing banks '
-                            'as a way to provide for his lover and their '
-                            'newborn child, a decision that puts him on a '
-                            'collision course with an ambitious rookie cop '
-                            'navigating a department ruled by a corrupt '
-                            'detective.',
-             'embedUrl': '/video/imdb/vi267494937',
-             'name': 'UK Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjIyMzkwNzU0N15BMl5BanBnXkFtZTcwODczNzAzOQ@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjIyMzkwNzU0N15BMl5BanBnXkFtZTcwODczNzAzOQ@@._V1_.jpg',
-             'uploadDate': '2013-03-28T05:18:03Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A motorcycle stunt rider turns to robbing banks '
+                             'as a way to provide for his lover and their '
+                             'newborn child, a decision that puts him on a '
+                             'collision course with an ambitious rookie cop '
+                             'navigating a department ruled by a corrupt '
+                             'detective.',
+              'embedUrl': '/video/imdb/vi267494937',
+              'name': 'UK Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjIyMzkwNzU0N15BMl5BanBnXkFtZTcwODczNzAzOQ@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjIyMzkwNzU0N15BMl5BanBnXkFtZTcwODczNzAzOQ@@._V1_.jpg',
+              'uploadDate': '2013-03-28T05:18:03Z'}],
  'url': '/title/tt1817273/'}

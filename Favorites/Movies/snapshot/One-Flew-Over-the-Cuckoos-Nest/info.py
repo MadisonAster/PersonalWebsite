@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Michael Berryman',
             'url': '/name/nm0077720/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 881159,
-                     'ratingValue': '8.7',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 881159,
+                      'ratingValue': '8.7',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Lawrence Hauben',
@@ -43,23 +43,23 @@
                 'pleads insanity and is admitted to a mental institution, '
                 'where he rebels against the oppressive nurse and rallies '
                 'up...',
- 'director': {'@type': 'Person',
-              'name': 'Milos Forman',
-              'url': '/name/nm0001232/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Milos Forman',
+               'url': '/name/nm0001232/'}],
  'duration': 'PT2H13M',
  'genre': 'Drama',
  'image': 'https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg',
  'keywords': 'mental institution,mental illness,nurse,escape,tragicomedy',
  'name': "One Flew Over the Cuckoo's Nest",
- 'trailer': {'@type': 'VideoObject',
-             'description': 'A criminal pleads insanity after getting into '
-                            'trouble again and once in the mental institution '
-                            'rebels against the oppressive nurse and rallies '
-                            'up the scared patients.',
-             'embedUrl': '/video/imdb/vi3943282969',
-             'name': 'Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BM2NhZWYwOWEtNmRjMC00YTVjLWIxZjYtNWY2OGIwZTM5OTdlXkEyXkFqcGdeQXVyMjM4OTI2MTU@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BM2NhZWYwOWEtNmRjMC00YTVjLWIxZjYtNWY2OGIwZTM5OTdlXkEyXkFqcGdeQXVyMjM4OTI2MTU@._V1_.jpg',
-             'uploadDate': '2017-09-08T01:58:01Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A criminal pleads insanity after getting into '
+                             'trouble again and once in the mental institution '
+                             'rebels against the oppressive nurse and rallies '
+                             'up the scared patients.',
+              'embedUrl': '/video/imdb/vi3943282969',
+              'name': 'Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BM2NhZWYwOWEtNmRjMC00YTVjLWIxZjYtNWY2OGIwZTM5OTdlXkEyXkFqcGdeQXVyMjM4OTI2MTU@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BM2NhZWYwOWEtNmRjMC00YTVjLWIxZjYtNWY2OGIwZTM5OTdlXkEyXkFqcGdeQXVyMjM4OTI2MTU@._V1_.jpg',
+              'uploadDate': '2017-09-08T01:58:01Z'}],
  'url': '/title/tt0073486/'}

@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Tom Sturridge',
             'url': '/name/nm0836432/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 50215,
-                     'ratingValue': '5.7',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 50215,
+                      'ratingValue': '5.7',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Dan Gilroy',
@@ -31,24 +31,24 @@
                 'Russo, and Zawe Ashton. A satire set in the contemporary art '
                 'world scene of Los Angeles, where big money artists and '
                 'mega-collectors pay a high price when art collides with...',
- 'director': {'@type': 'Person',
-              'name': 'Dan Gilroy',
-              'url': '/name/nm0319659/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Dan Gilroy',
+               'url': '/name/nm0319659/'}],
  'duration': 'PT1H53M',
  'genre': ['Horror', 'Mystery', 'Thriller'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjExMDQ1NjMzOV5BMl5BanBnXkFtZTgwMjkxMzMyNzM@._V1_.jpg',
  'keywords': 'artist,satire,gay man has sex with a woman,supernatural '
              'horror,dark satire',
  'name': 'Velvet Buzzsaw',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'After a series of paintings by an unknown artist '
-                            'are discovered, a supernatural force enacts '
-                            'revenge on those who have allowed their greed to '
-                            'get in the way of art.',
-             'embedUrl': '/video/imdb/vi487701017',
-             'name': 'Official Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMmYwZWI2YjItYmEwMC00NzBlLWE2ZTQtODgwMGVhNWZhODM1XkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMmYwZWI2YjItYmEwMC00NzBlLWE2ZTQtODgwMGVhNWZhODM1XkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg',
-             'uploadDate': '2019-01-10T14:48:31Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'After a series of paintings by an unknown artist '
+                             'are discovered, a supernatural force enacts '
+                             'revenge on those who have allowed their greed to '
+                             'get in the way of art.',
+              'embedUrl': '/video/imdb/vi487701017',
+              'name': 'Official Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMmYwZWI2YjItYmEwMC00NzBlLWE2ZTQtODgwMGVhNWZhODM1XkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMmYwZWI2YjItYmEwMC00NzBlLWE2ZTQtODgwMGVhNWZhODM1XkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg',
+              'uploadDate': '2019-01-10T14:48:31Z'}],
  'url': '/title/tt7043012/'}

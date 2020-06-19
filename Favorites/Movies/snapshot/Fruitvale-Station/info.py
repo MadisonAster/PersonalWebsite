@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Kevin Durand',
             'url': '/name/nm0243806/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 72132,
-                     'ratingValue': '7.5',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 72132,
+                      'ratingValue': '7.5',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Ryan Coogler',
@@ -34,24 +34,24 @@
                 'Melonie Diaz, and Octavia Spencer. The story of Oscar Grant '
                 'III, a 22-year-old Bay Area resident, who crosses paths with '
                 'friends, enemies, family, and strangers on the last...',
- 'director': {'@type': 'Person',
-              'name': 'Ryan Coogler',
-              'url': '/name/nm3363032/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Ryan Coogler',
+               'url': '/name/nm3363032/'}],
  'duration': 'PT1H25M',
  'genre': ['Biography', 'Crime', 'Drama', 'Romance'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTQ0OTU1MDkxMF5BMl5BanBnXkFtZTcwNjI5OTA3OQ@@._V1_.jpg',
  'keywords': 'gay,friendship,reference to the pittsburgh steelers,ex '
              'convict,officer',
  'name': 'Fruitvale Station',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'The true story of Oscar, a 22-year-old Bay Area '
-                            'resident, who crosses paths with friends, '
-                            'enemies, family, and strangers on the last day of '
-                            '2008.',
-             'embedUrl': '/video/imdb/vi1457760537',
-             'name': 'New Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTYxMzQxMDQyN15BMl5BanBnXkFtZTcwMjkxNTE5OQ@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTYxMzQxMDQyN15BMl5BanBnXkFtZTcwMjkxNTE5OQ@@._V1_.jpg',
-             'uploadDate': '2013-07-23T08:31:45Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'The true story of Oscar, a 22-year-old Bay Area '
+                             'resident, who crosses paths with friends, '
+                             'enemies, family, and strangers on the last day '
+                             'of 2008.',
+              'embedUrl': '/video/imdb/vi1457760537',
+              'name': 'New Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTYxMzQxMDQyN15BMl5BanBnXkFtZTcwMjkxNTE5OQ@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTYxMzQxMDQyN15BMl5BanBnXkFtZTcwMjkxNTE5OQ@@._V1_.jpg',
+              'uploadDate': '2013-07-23T08:31:45Z'}],
  'url': '/title/tt2334649/'}

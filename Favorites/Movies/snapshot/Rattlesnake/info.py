@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Apollonia Pratt',
             'url': '/name/nm9722439/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 6552,
-                     'ratingValue': '4.6',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 6552,
+                      'ratingValue': '4.6',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Zak Hilditch',
@@ -32,24 +32,24 @@
                 'Emma Greenwell. When a single mother accepts the help of a '
                 'mysterious woman after her daughter is bitten by a '
                 'rattlesnake, she finds herself making an unthinkable deal...',
- 'director': {'@type': 'Person',
-              'name': 'Zak Hilditch',
-              'url': '/name/nm1991847/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Zak Hilditch',
+               'url': '/name/nm1991847/'}],
  'duration': 'PT1H25M',
  'genre': ['Drama', 'Horror', 'Mystery', 'Thriller'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjlhZTVmMzktMmQzMy00MzQ2LWJkNzQtYTdjMjZjZmY0NjQ5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
  'keywords': 'single mother,roadtrip,rattlesnake bite,deal with the '
              'devil,sunset',
  'name': 'Rattlesnake',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'When a single mother accepts the help of a '
-                            'mysterious woman after her daughter is bitten by '
-                            'a rattlesnake, she finds herself making an '
-                            'unthinkable deal to repay her debt.',
-             'embedUrl': '/video/imdb/vi3448749849',
-             'name': 'Official Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMmE0YWZhZjMtNzgwZC00YTQ3LThjNzAtMWFmZDIwYzE2NTJkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMmE0YWZhZjMtNzgwZC00YTQ3LThjNzAtMWFmZDIwYzE2NTJkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
-             'uploadDate': '2019-10-10T20:00:14Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'When a single mother accepts the help of a '
+                             'mysterious woman after her daughter is bitten by '
+                             'a rattlesnake, she finds herself making an '
+                             'unthinkable deal to repay her debt.',
+              'embedUrl': '/video/imdb/vi3448749849',
+              'name': 'Official Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMmE0YWZhZjMtNzgwZC00YTQ3LThjNzAtMWFmZDIwYzE2NTJkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMmE0YWZhZjMtNzgwZC00YTQ3LThjNzAtMWFmZDIwYzE2NTJkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
+              'uploadDate': '2019-10-10T20:00:14Z'}],
  'url': '/title/tt9257484/'}

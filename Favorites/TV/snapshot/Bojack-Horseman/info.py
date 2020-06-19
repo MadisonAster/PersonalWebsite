@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Aaron Paul',
             'url': '/name/nm0666739/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 97548,
-                     'ratingValue': '8.7',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 97548,
+                      'ratingValue': '8.7',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Raphael Bob-Waksberg',
@@ -41,14 +41,14 @@
  'keywords': 'sadness,21st century,anthropomorphism,black comedy,talking '
              'animal',
  'name': 'BoJack Horseman',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'See how it all ends. The final episodes of '
-                            '"BoJack Horseman" are only on Netflix January 31, '
-                            '2020.',
-             'embedUrl': '/video/imdb/vi1350483737',
-             'name': 'Season 6 Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BOTViMjBjZGMtOTI0MS00MDQwLTgwMzktOWVlNjIyMmNkYTUwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BOTViMjBjZGMtOTI0MS00MDQwLTgwMzktOWVlNjIyMmNkYTUwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
-             'uploadDate': '2020-01-15T20:08:08Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'See how it all ends. The final episodes of '
+                             '"BoJack Horseman" are only on Netflix January '
+                             '31, 2020.',
+              'embedUrl': '/video/imdb/vi1350483737',
+              'name': 'Season 6 Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BOTViMjBjZGMtOTI0MS00MDQwLTgwMzktOWVlNjIyMmNkYTUwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BOTViMjBjZGMtOTI0MS00MDQwLTgwMzktOWVlNjIyMmNkYTUwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
+              'uploadDate': '2020-01-15T20:08:08Z'}],
  'url': '/title/tt3398228/'}

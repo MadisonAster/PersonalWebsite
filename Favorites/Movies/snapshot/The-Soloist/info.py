@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Tom Hollander',
             'url': '/name/nm0390903/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 50425,
-                     'ratingValue': '6.7',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 50425,
+                      'ratingValue': '6.7',
+                      'worstRating': '1.0'}],
  'contentRating': 'PG-13',
  'creator': [{'@type': 'Person',
               'name': 'Susannah Grant',
@@ -38,23 +38,23 @@
  'description': 'The Soloist is a movie starring Jamie Foxx, Robert Downey '
                 'Jr., and Catherine Keener. A newspaper journalist discovers a '
                 'homeless musical genius and tries to improve his situation.',
- 'director': {'@type': 'Person',
-              'name': 'Joe Wright',
-              'url': '/name/nm0942504/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Joe Wright',
+               'url': '/name/nm0942504/'}],
  'duration': 'PT1H57M',
  'genre': ['Biography', 'Drama', 'Music'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjExODQ3MTI5Nl5BMl5BanBnXkFtZTcwMDEyMTQ5MQ@@._V1_.jpg',
  'keywords': 'wearing a traffic cone as a hat,reference to jascha '
              'heifetz,schizophrenia,juilliard school,facial injury',
  'name': 'The Soloist',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'This is the theatrical trailer for The Soloist, '
-                            'directed by Joe Wright and starring Jamie Foxx '
-                            'and Robert Downey Jr.',
-             'embedUrl': '/video/imdb/vi3497984025',
-             'name': 'The Soloist: Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjE3MjE3MzA1OV5BMl5BanBnXkFtZTgwODg4MTMyMzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjE3MjE3MzA1OV5BMl5BanBnXkFtZTgwODg4MTMyMzE@._V1_.jpg',
-             'uploadDate': '2008-10-16T12:52:44Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'This is the theatrical trailer for The Soloist, '
+                             'directed by Joe Wright and starring Jamie Foxx '
+                             'and Robert Downey Jr.',
+              'embedUrl': '/video/imdb/vi3497984025',
+              'name': 'The Soloist: Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjE3MjE3MzA1OV5BMl5BanBnXkFtZTgwODg4MTMyMzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjE3MjE3MzA1OV5BMl5BanBnXkFtZTgwODg4MTMyMzE@._V1_.jpg',
+              'uploadDate': '2008-10-16T12:52:44Z'}],
  'url': '/title/tt0821642/'}

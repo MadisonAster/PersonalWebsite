@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Wes Bentley',
             'url': '/name/nm0004747/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 1039336,
-                     'ratingValue': '8.3',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 1039336,
+                      'ratingValue': '8.3',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Alan Ball',
@@ -34,24 +34,24 @@
                 'Bening, and Thora Birch. A sexually frustrated suburban '
                 'father has a mid-life crisis after becoming infatuated with '
                 "his daughter's best friend.",
- 'director': {'@type': 'Person',
-              'name': 'Sam Mendes',
-              'url': '/name/nm0005222/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Sam Mendes',
+               'url': '/name/nm0005222/'}],
  'duration': 'PT2H2M',
  'genre': 'Drama',
  'image': 'https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg',
  'keywords': 'adulterous wife,cheating wife,midlife crisis,unfaithful '
              'wife,virginity',
  'name': 'American Beauty',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Lester Burnham, a depressed suburban father in a '
-                            'mid-life crisis, decides to turn his hectic life '
-                            'around after developing an infatuation for his '
-                            "daughter's attractive friend.",
-             'embedUrl': '/video/imdb/vi788506137',
-             'name': 'Theatrical Version',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTU5NDcyNTgzNl5BMl5BanBnXkFtZTgwNTMwNzU0NzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTU5NDcyNTgzNl5BMl5BanBnXkFtZTgwNTMwNzU0NzE@._V1_.jpg',
-             'uploadDate': '2013-04-03T14:22:07Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Lester Burnham, a depressed suburban father in a '
+                             'mid-life crisis, decides to turn his hectic life '
+                             'around after developing an infatuation for his '
+                             "daughter's attractive friend.",
+              'embedUrl': '/video/imdb/vi788506137',
+              'name': 'Theatrical Version',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTU5NDcyNTgzNl5BMl5BanBnXkFtZTgwNTMwNzU0NzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTU5NDcyNTgzNl5BMl5BanBnXkFtZTgwNTMwNzU0NzE@._V1_.jpg',
+              'uploadDate': '2013-04-03T14:22:07Z'}],
  'url': '/title/tt0169547/'}

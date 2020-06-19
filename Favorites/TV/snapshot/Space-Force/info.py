@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Diana Silvers',
             'url': '/name/nm9537602/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 17809,
-                     'ratingValue': '6.9',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 17809,
+                      'ratingValue': '6.9',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Steve Carell',
@@ -40,15 +40,15 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNWYwMzE2MGItOTYwYy00YmQyLWE0NGQtZWViMTU4ZTk4ZjQxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
  'keywords': 'space,america,china,rank,moon',
  'name': 'Space Force',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Space is...hard. A four-star general begrudgingly '
-                            'teams up with an eccentric scientist to get the '
-                            "U.S. military's newest agency — Space Force — "
-                            'ready for lift-off.',
-             'embedUrl': '/video/imdb/vi1875164697',
-             'name': 'Official Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNmRmZTE4NGEtZjlmNi00NmFlLTg1NTktMzA2Yzk4ZTkzM2I1XkEyXkFqcGdeQWRvb2xpbmhk._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNmRmZTE4NGEtZjlmNi00NmFlLTg1NTktMzA2Yzk4ZTkzM2I1XkEyXkFqcGdeQWRvb2xpbmhk._V1_.jpg',
-             'uploadDate': '2020-05-19T14:25:16Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Space is...hard. A four-star general '
+                             'begrudgingly teams up with an eccentric '
+                             "scientist to get the U.S. military's newest "
+                             'agency — Space Force — ready for lift-off.',
+              'embedUrl': '/video/imdb/vi1875164697',
+              'name': 'Official Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNmRmZTE4NGEtZjlmNi00NmFlLTg1NTktMzA2Yzk4ZTkzM2I1XkEyXkFqcGdeQWRvb2xpbmhk._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNmRmZTE4NGEtZjlmNi00NmFlLTg1NTktMzA2Yzk4ZTkzM2I1XkEyXkFqcGdeQWRvb2xpbmhk._V1_.jpg',
+              'uploadDate': '2020-05-19T14:25:16Z'}],
  'url': '/title/tt9612516/'}

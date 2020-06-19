@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Fran Kranz',
             'url': '/name/nm0469823/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 361565,
-                     'ratingValue': '7.0',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 361565,
+                      'ratingValue': '7.0',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Joss Whedon',
@@ -40,24 +40,24 @@
                 'Chris Hemsworth, and Anna Hutchison. Five friends go for a '
                 'break at a remote cabin, where they get more than they '
                 'bargained for, discovering the truth behind the cabin in...',
- 'director': {'@type': 'Person',
-              'name': 'Drew Goddard',
-              'url': '/name/nm1206844/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Drew Goddard',
+               'url': '/name/nm1206844/'}],
  'duration': 'PT1H35M',
  'genre': 'Horror',
  'image': 'https://m.media-amazon.com/images/M/MV5BNTUxNzYyMjg2N15BMl5BanBnXkFtZTcwMTExNzExNw@@._V1_.jpg',
  'keywords': 'cabin in the woods,interrupted sex,girl stripped down to '
              'panties,lovecraftian,oral sex',
  'name': 'The Cabin in the Woods',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Five friends go for a break at a remote cabin in '
-                            'the woods, where they get more than they '
-                            'bargained for. Together, they must discover the '
-                            'truth behind the cabin in the woods.',
-             'embedUrl': '/video/imdb/vi2572394777',
-             'name': 'No.2',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTk0NTI3NDAzM15BMl5BanBnXkFtZTcwNDAyODA1Nw@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTk0NTI3NDAzM15BMl5BanBnXkFtZTcwNDAyODA1Nw@@._V1_.jpg',
-             'uploadDate': '2012-03-08T13:42:33Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Five friends go for a break at a remote cabin in '
+                             'the woods, where they get more than they '
+                             'bargained for. Together, they must discover the '
+                             'truth behind the cabin in the woods.',
+              'embedUrl': '/video/imdb/vi2572394777',
+              'name': 'No.2',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTk0NTI3NDAzM15BMl5BanBnXkFtZTcwNDAyODA1Nw@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTk0NTI3NDAzM15BMl5BanBnXkFtZTcwNDAyODA1Nw@@._V1_.jpg',
+              'uploadDate': '2012-03-08T13:42:33Z'}],
  'url': '/title/tt1259521/'}

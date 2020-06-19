@@ -18,12 +18,12 @@
            {'@type': 'Person',
             'name': 'Laura Ling',
             'url': '/name/nm2053030/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 51,
-                     'ratingValue': '7.8',
-                     'worstRating': '1.0'},
- 'creator': {'@type': 'Organization', 'url': '/company/co0160937/'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 51,
+                      'ratingValue': '7.8',
+                      'worstRating': '1.0'}],
+ 'creator': [{'@type': 'Organization', 'url': '/company/co0160937/'}],
  'datePublished': '2006-04-19',
  'description': 'Vanguard is a TV series starring Mariana van Zeller, Christof '
                 'Putzel, and Adam Yamaguchi. TV documentary about "stand your '

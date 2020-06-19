@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Mark Consuelos',
             'url': '/name/nm0176175/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 4160,
-                     'ratingValue': '7.5',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 4160,
+                      'ratingValue': '7.5',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Garry Trudeau',
@@ -40,15 +40,15 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTQyNDcwMDU5Nl5BMl5BanBnXkFtZTgwMDEwMjE4MjE@._V1_.jpg',
  'keywords': 'politics',
  'name': 'Alpha House',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Four Republican senators share the same D.C. '
-                            'house rental, and face re-election battles, '
-                            'looming indictments, and parties -- all with a '
-                            'sense of humor.',
-             'embedUrl': '/video/imdb/vi149597977',
-             'name': 'Season 2 Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTQ2OTEwNjk5Nl5BMl5BanBnXkFtZTgwOTY1MTQ5MjE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTQ2OTEwNjk5Nl5BMl5BanBnXkFtZTgwOTY1MTQ5MjE@._V1_.jpg',
-             'uploadDate': '2014-10-11T14:18:04Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Four Republican senators share the same D.C. '
+                             'house rental, and face re-election battles, '
+                             'looming indictments, and parties -- all with a '
+                             'sense of humor.',
+              'embedUrl': '/video/imdb/vi149597977',
+              'name': 'Season 2 Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTQ2OTEwNjk5Nl5BMl5BanBnXkFtZTgwOTY1MTQ5MjE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTQ2OTEwNjk5Nl5BMl5BanBnXkFtZTgwOTY1MTQ5MjE@._V1_.jpg',
+              'uploadDate': '2014-10-11T14:18:04Z'}],
  'url': '/title/tt3012160/'}

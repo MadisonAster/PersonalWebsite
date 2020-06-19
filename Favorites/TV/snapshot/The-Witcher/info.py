@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Mimi Ndiweni',
             'url': '/name/nm5507408/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 255852,
-                     'ratingValue': '8.3',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 255852,
+                      'ratingValue': '8.3',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Lauren Schmidt',
@@ -40,15 +40,15 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BOGE4MmVjMDgtMzIzYy00NjEwLWJlODMtMDI1MGY2ZDlhMzE2XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg',
  'keywords': 'magic,monster hunter,violence,based on novel,mutation',
  'name': 'The Witcher',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'On a Continent riddled with evil, the paths of a '
-                            'monster hunter, a sorceress and a runaway '
-                            'princess converge. "The Witcher," starring Henry '
-                            'Cavill, arrives December 20, only on Netflix.',
-             'embedUrl': '/video/imdb/vi840285977',
-             'name': 'Final Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BYjhmYWZhNzctNTI3NS00OTNlLTlmNWItNTU4OWI3NGI3OGRmXkEyXkFqcGdeQWpnYW1i._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BYjhmYWZhNzctNTI3NS00OTNlLTlmNWItNTU4OWI3NGI3OGRmXkEyXkFqcGdeQWpnYW1i._V1_.jpg',
-             'uploadDate': '2019-12-12T22:45:50Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'On a Continent riddled with evil, the paths of a '
+                             'monster hunter, a sorceress and a runaway '
+                             'princess converge. "The Witcher," starring Henry '
+                             'Cavill, arrives December 20, only on Netflix.',
+              'embedUrl': '/video/imdb/vi840285977',
+              'name': 'Final Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BYjhmYWZhNzctNTI3NS00OTNlLTlmNWItNTU4OWI3NGI3OGRmXkEyXkFqcGdeQWpnYW1i._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BYjhmYWZhNzctNTI3NS00OTNlLTlmNWItNTU4OWI3NGI3OGRmXkEyXkFqcGdeQWpnYW1i._V1_.jpg',
+              'uploadDate': '2019-12-12T22:45:50Z'}],
  'url': '/title/tt5180504/'}

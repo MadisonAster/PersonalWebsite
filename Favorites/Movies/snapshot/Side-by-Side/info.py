@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Dion Beebe',
             'url': '/name/nm0066244/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 12850,
-                     'ratingValue': '7.6',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 12850,
+                      'ratingValue': '7.6',
+                      'worstRating': '1.0'}],
  'contentRating': 'Not Rated',
  'creator': [{'@type': 'Person',
               'name': 'Christopher Kenneally',
@@ -33,23 +33,23 @@
                 'Ballhaus, and Andrzej Bartkowiak. The documentary '
                 'investigates the history, process and workflow of both '
                 'digital and photochemical film creation.',
- 'director': {'@type': 'Person',
-              'name': 'Christopher Kenneally',
-              'url': '/name/nm0447863/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Christopher Kenneally',
+               'url': '/name/nm0447863/'}],
  'duration': 'PT1H39M',
  'genre': 'Documentary',
  'image': 'https://m.media-amazon.com/images/M/MV5BNjY4MTE5NTE1M15BMl5BanBnXkFtZTcwODA4MzEzOA@@._V1_.jpg',
  'keywords': 'text based poster,cinematographer,interview,filmmaking,reference '
              'to star wars',
  'name': 'Side by Side',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'The documentary investigates the history, process '
-                            'and workflow of both digital and photochemical '
-                            'film creation.',
-             'embedUrl': '/video/imdb/vi3788088601',
-             'name': 'Theatrical Version',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTg5MzQxMzM2OF5BMl5BanBnXkFtZTgwNDQxMjQzMzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTg5MzQxMzM2OF5BMl5BanBnXkFtZTgwNDQxMjQzMzE@._V1_.jpg',
-             'uploadDate': '2012-08-22T15:51:00Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'The documentary investigates the history, '
+                             'process and workflow of both digital and '
+                             'photochemical film creation.',
+              'embedUrl': '/video/imdb/vi3788088601',
+              'name': 'Theatrical Version',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTg5MzQxMzM2OF5BMl5BanBnXkFtZTgwNDQxMjQzMzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTg5MzQxMzM2OF5BMl5BanBnXkFtZTgwNDQxMjQzMzE@._V1_.jpg',
+              'uploadDate': '2012-08-22T15:51:00Z'}],
  'url': '/title/tt2014338/'}

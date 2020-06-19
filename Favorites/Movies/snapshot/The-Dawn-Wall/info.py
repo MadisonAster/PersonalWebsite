@@ -15,11 +15,11 @@
            {'@type': 'Person',
             'name': 'Kevin Jorgeson',
             'url': '/name/nm3658537/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 12237,
-                     'ratingValue': '8.1',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 12237,
+                      'ratingValue': '8.1',
+                      'worstRating': '1.0'}],
  'contentRating': 'Not Rated',
  'creator': [{'@type': 'Organization', 'url': '/company/co0294964/'},
              {'@type': 'Organization', 'url': '/company/co0224712/'}],
@@ -40,16 +40,16 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNjE3NzU0NDctZTZjMi00OGE2LWFiOWMtNGZhMjQ1MmViNzZlXkEyXkFqcGdeQXVyNDI3MDA5MDQ@._V1_.jpg',
  'keywords': 'climbing,rock climbing',
  'name': 'The Dawn Wall',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'In January, 2015, American rock climbers Tommy '
-                            'Caldwell and Kevin Jorgeson captivated the world '
-                            'with their effort to climb The Dawn Wall, a '
-                            'seemingly impossible 3,000 foot rock face in '
-                            'Yosemite National Park, California.',
-             'embedUrl': '/video/imdb/vi3669670425',
-             'name': 'The Dawn Wall',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZGM3NGI0ZGEtYzExYy00YjIzLTg3NTYtNzA3ZTEzOTJmYzZlXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZGM3NGI0ZGEtYzExYy00YjIzLTg3NTYtNzA3ZTEzOTJmYzZlXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg',
-             'uploadDate': '2018-09-27T18:35:26Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'In January, 2015, American rock climbers Tommy '
+                             'Caldwell and Kevin Jorgeson captivated the world '
+                             'with their effort to climb The Dawn Wall, a '
+                             'seemingly impossible 3,000 foot rock face in '
+                             'Yosemite National Park, California.',
+              'embedUrl': '/video/imdb/vi3669670425',
+              'name': 'The Dawn Wall',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZGM3NGI0ZGEtYzExYy00YjIzLTg3NTYtNzA3ZTEzOTJmYzZlXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZGM3NGI0ZGEtYzExYy00YjIzLTg3NTYtNzA3ZTEzOTJmYzZlXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg',
+              'uploadDate': '2018-09-27T18:35:26Z'}],
  'url': '/title/tt7286916/'}

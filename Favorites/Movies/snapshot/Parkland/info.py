@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Paul Giamatti',
             'url': '/name/nm0316079/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 14696,
-                     'ratingValue': '6.3',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 14696,
+                      'ratingValue': '6.3',
+                      'worstRating': '1.0'}],
  'contentRating': 'PG-13',
  'creator': [{'@type': 'Person',
               'name': 'Peter Landesman',
@@ -36,23 +36,23 @@
                 'Billy Bob Thornton. A recounting of the chaotic events that '
                 "occurred at Dallas' Parkland Hospital on the day U.S. "
                 'President John F. Kennedy was assassinated.',
- 'director': {'@type': 'Person',
-              'name': 'Peter Landesman',
-              'url': '/name/nm1481618/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Peter Landesman',
+               'url': '/name/nm1481618/'}],
  'duration': 'PT1H33M',
  'genre': ['Drama', 'History', 'Mystery', 'Thriller'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjE2NjkwNDE2MF5BMl5BanBnXkFtZTgwNDY5ODIxMDE@._V1_.jpg',
  'keywords': 'john f. kennedy assassination,secret '
              'service,assassination,motorcade,year 1963',
  'name': 'Parkland',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'A recounting of the chaotic events that occurred '
-                            "at Dallas' Parkland Hospital on the day U.S. "
-                            'President John F. Kennedy was assassinated.',
-             'embedUrl': '/video/imdb/vi2669390105',
-             'name': 'Official Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNzY0MjAyODQ3NF5BMl5BanBnXkFtZTgwMzg0ODAxMDE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNzY0MjAyODQ3NF5BMl5BanBnXkFtZTgwMzg0ODAxMDE@._V1_.jpg',
-             'uploadDate': '2013-08-24T12:58:29Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A recounting of the chaotic events that occurred '
+                             "at Dallas' Parkland Hospital on the day U.S. "
+                             'President John F. Kennedy was assassinated.',
+              'embedUrl': '/video/imdb/vi2669390105',
+              'name': 'Official Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNzY0MjAyODQ3NF5BMl5BanBnXkFtZTgwMzg0ODAxMDE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNzY0MjAyODQ3NF5BMl5BanBnXkFtZTgwMzg0ODAxMDE@._V1_.jpg',
+              'uploadDate': '2013-08-24T12:58:29Z'}],
  'url': '/title/tt2345112/'}

@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Tom Goodman-Hill',
             'url': '/name/nm0329259/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 34196,
-                     'ratingValue': '8.0',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 34196,
+                      'ratingValue': '8.0',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-14',
  'creator': [{'@type': 'Organization', 'url': '/company/co0110977/'},
              {'@type': 'Organization', 'url': '/company/co0103528/'},
@@ -37,16 +37,16 @@
  'keywords': 'based on tv series,female protagonist,robot,humanoid,artificial '
              'intelligence',
  'name': 'Humans',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'In a parallel present where the latest must-have '
-                            "gadget for any busy family is a 'Synth' - a "
-                            "highly-developed robotic servant that's so "
-                            "similar to a real human it's transforming the way "
-                            'we live.',
-             'embedUrl': '/video/imdb/vi2429007385',
-             'name': 'Season 2 Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTUwMzY2ODkxOF5BMl5BanBnXkFtZTgwMjI5MzE4MDI@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTUwMzY2ODkxOF5BMl5BanBnXkFtZTgwMjI5MzE4MDI@._V1_.jpg',
-             'uploadDate': '2016-12-09T12:39:26Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'In a parallel present where the latest must-have '
+                             "gadget for any busy family is a 'Synth' - a "
+                             "highly-developed robotic servant that's so "
+                             "similar to a real human it's transforming the "
+                             'way we live.',
+              'embedUrl': '/video/imdb/vi2429007385',
+              'name': 'Season 2 Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTUwMzY2ODkxOF5BMl5BanBnXkFtZTgwMjI5MzE4MDI@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTUwMzY2ODkxOF5BMl5BanBnXkFtZTgwMjI5MzE4MDI@._V1_.jpg',
+              'uploadDate': '2016-12-09T12:39:26Z'}],
  'url': '/title/tt4122068/'}

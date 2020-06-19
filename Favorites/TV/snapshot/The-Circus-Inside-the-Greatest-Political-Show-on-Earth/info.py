@@ -18,13 +18,13 @@
            {'@type': 'Person',
             'name': 'Mark Halperin',
             'url': '/name/nm0356927/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 694,
-                     'ratingValue': '7.1',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 694,
+                      'ratingValue': '7.1',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-14',
- 'creator': {'@type': 'Organization', 'url': '/company/co0354558/'},
+ 'creator': [{'@type': 'Organization', 'url': '/company/co0354558/'}],
  'datePublished': '2016-01-17',
  'description': 'The Circus: Inside the Greatest Political Show on Earth is a '
                 'TV series starring John Heilemann, Mark McKinnon, and Alex '
@@ -34,14 +34,14 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTRlYmI5NTUtNDYzNS00NjY3LWE4NTUtMThhNDE1NWM2YzkxXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg',
  'keywords': 'politics',
  'name': 'The Circus: Inside the Greatest Political Show on Earth',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'The Circus: Inside The Greatest Political Show On '
-                            'Earth: Season 3',
-             'embedUrl': '/video/imdb/vi938655001',
-             'name': 'The Circus: Inside The Greatest Political Show On Earth: '
-                     'Season 3',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNDUzOTUwOTgtMjlmMS00MGFkLThiY2EtZWY0MTJkYTMyNWQ1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNDUzOTUwOTgtMjlmMS00MGFkLThiY2EtZWY0MTJkYTMyNWQ1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
-             'uploadDate': '2019-03-18T18:41:42Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'The Circus: Inside The Greatest Political Show '
+                             'On Earth: Season 3',
+              'embedUrl': '/video/imdb/vi938655001',
+              'name': 'The Circus: Inside The Greatest Political Show On '
+                      'Earth: Season 3',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNDUzOTUwOTgtMjlmMS00MGFkLThiY2EtZWY0MTJkYTMyNWQ1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNDUzOTUwOTgtMjlmMS00MGFkLThiY2EtZWY0MTJkYTMyNWQ1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
+              'uploadDate': '2019-03-18T18:41:42Z'}],
  'url': '/title/tt5351176/'}

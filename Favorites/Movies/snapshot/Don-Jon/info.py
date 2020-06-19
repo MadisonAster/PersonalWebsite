@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Tony Danza',
             'url': '/name/nm0001103/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 224228,
-                     'ratingValue': '6.5',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 224228,
+                      'ratingValue': '6.5',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Joseph Gordon-Levitt',
@@ -36,25 +36,25 @@
                 'Johansson, and Julianne Moore. A New Jersey guy dedicated to '
                 'his family, friends, and church, develops unrealistic '
                 'expectations from watching porn and works to find...',
- 'director': {'@type': 'Person',
-              'name': 'Joseph Gordon-Levitt',
-              'url': '/name/nm0330687/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Joseph Gordon-Levitt',
+               'url': '/name/nm0330687/'}],
  'duration': 'PT1H30M',
  'genre': ['Comedy', 'Drama', 'Romance'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTQxNTc3NDM2MF5BMl5BanBnXkFtZTcwNzQ5NTQ3OQ@@._V1_.jpg',
  'keywords': 'sex,watching porn,pornography,husband wife '
              'relationship,pornography addict',
  'name': 'Don Jon',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Watch a TV spot for Don Jon.  A New Jersey guy '
-                            'dedicated to his family, friends, and church, '
-                            'develops unrealistic expectations from watching '
-                            'porn and works to find happiness and intimacy '
-                            'with his potential true love.',
-             'embedUrl': '/video/imdb/vi2483071257',
-             'name': 'TV Spot',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjI1ODg1MDI1NV5BMl5BanBnXkFtZTgwOTI5NjkyMzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjI1ODg1MDI1NV5BMl5BanBnXkFtZTgwOTI5NjkyMzE@._V1_.jpg',
-             'uploadDate': '2013-08-27T03:19:34Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Watch a TV spot for Don Jon.  A New Jersey guy '
+                             'dedicated to his family, friends, and church, '
+                             'develops unrealistic expectations from watching '
+                             'porn and works to find happiness and intimacy '
+                             'with his potential true love.',
+              'embedUrl': '/video/imdb/vi2483071257',
+              'name': 'TV Spot',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjI1ODg1MDI1NV5BMl5BanBnXkFtZTgwOTI5NjkyMzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjI1ODg1MDI1NV5BMl5BanBnXkFtZTgwOTI5NjkyMzE@._V1_.jpg',
+              'uploadDate': '2013-08-27T03:19:34Z'}],
  'url': '/title/tt2229499/'}

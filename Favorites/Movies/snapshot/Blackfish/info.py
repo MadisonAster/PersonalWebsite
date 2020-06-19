@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Dean Gomersall',
             'url': '/name/nm5747282/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 60000,
-                     'ratingValue': '8.1',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 60000,
+                      'ratingValue': '8.1',
+                      'worstRating': '1.0'}],
  'contentRating': 'PG-13',
  'creator': [{'@type': 'Person',
               'name': 'Gabriela Cowperthwaite',
@@ -38,24 +38,25 @@
                 'Samantha Berg. A documentary following the controversial '
                 'captivity of killer whales, and its dangers for both humans '
                 'and whales.',
- 'director': {'@type': 'Person',
-              'name': 'Gabriela Cowperthwaite',
-              'url': '/name/nm1363250/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Gabriela Cowperthwaite',
+               'url': '/name/nm1363250/'}],
  'duration': 'PT1H23M',
  'genre': ['Documentary', 'News'],
  'image': 'https://m.media-amazon.com/images/M/MV5BNTkyNTkwMzkxMl5BMl5BanBnXkFtZTcwMzAwOTE2OQ@@._V1_.jpg',
  'keywords': 'shark attack,sea,footage,marine park,marine',
  'name': 'Blackfish',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Notorious killer whale Tilikum is responsible for '
-                            'the deaths of three individuals, including a top '
-                            'animal trainer. Blackfish shows the sometimes '
-                            'devastating consequences of keeping such '
-                            'intelligent and sentient creatures in captivity.',
-             'embedUrl': '/video/imdb/vi3228149273',
-             'name': 'Theatrical Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTcxOTA0MTk3MF5BMl5BanBnXkFtZTgwMTIzMDcyMzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTcxOTA0MTk3MF5BMl5BanBnXkFtZTgwMTIzMDcyMzE@._V1_.jpg',
-             'uploadDate': '2013-06-04T14:03:13Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Notorious killer whale Tilikum is responsible '
+                             'for the deaths of three individuals, including a '
+                             'top animal trainer. Blackfish shows the '
+                             'sometimes devastating consequences of keeping '
+                             'such intelligent and sentient creatures in '
+                             'captivity.',
+              'embedUrl': '/video/imdb/vi3228149273',
+              'name': 'Theatrical Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTcxOTA0MTk3MF5BMl5BanBnXkFtZTgwMTIzMDcyMzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTcxOTA0MTk3MF5BMl5BanBnXkFtZTgwMTIzMDcyMzE@._V1_.jpg',
+              'uploadDate': '2013-06-04T14:03:13Z'}],
  'url': '/title/tt2545118/'}

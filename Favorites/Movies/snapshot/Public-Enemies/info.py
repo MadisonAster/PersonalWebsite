@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Jason Clarke',
             'url': '/name/nm0164809/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 274225,
-                     'ratingValue': '7.0',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 274225,
+                      'ratingValue': '7.0',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Ronan Bennett',
@@ -48,24 +48,24 @@
                 'Depp, and Christian Stolte. The Feds try to take down '
                 'notorious American gangsters John Dillinger, Baby Face Nelson '
                 'and Pretty Boy Floyd during a booming crime wave in the...',
- 'director': {'@type': 'Person',
-              'name': 'Michael Mann',
-              'url': '/name/nm0000520/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Michael Mann',
+               'url': '/name/nm0000520/'}],
  'duration': 'PT2H20M',
  'genre': ['Biography', 'Crime', 'Drama', 'History'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMGI4YTIxMDQtNDlmNC00ZDJhLWIyZGItM2QyODRiMTEzN2ViXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg',
  'keywords': 'celebrity criminal,manhunt,great depression,ends with '
              'biographical notes,reference to arizona',
  'name': 'Public Enemies',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'FBI agent Melvin Purvis (Bale) sets his sights on '
-                            'American gangster John Dillinger (Depp) and '
-                            'others in an attempt to curb a rampant Chicago '
-                            'crime spree during the 1930s.',
-             'embedUrl': '/video/imdb/vi3372221209',
-             'name': 'Public Enemies',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTQxNTIyMzA4NV5BMl5BanBnXkFtZTgwNjc4MTEzMzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTQxNTIyMzA4NV5BMl5BanBnXkFtZTgwNjc4MTEzMzE@._V1_.jpg',
-             'uploadDate': '2009-03-06T18:32:06Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'FBI agent Melvin Purvis (Bale) sets his sights '
+                             'on American gangster John Dillinger (Depp) and '
+                             'others in an attempt to curb a rampant Chicago '
+                             'crime spree during the 1930s.',
+              'embedUrl': '/video/imdb/vi3372221209',
+              'name': 'Public Enemies',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTQxNTIyMzA4NV5BMl5BanBnXkFtZTgwNjc4MTEzMzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTQxNTIyMzA4NV5BMl5BanBnXkFtZTgwNjc4MTEzMzE@._V1_.jpg',
+              'uploadDate': '2009-03-06T18:32:06Z'}],
  'url': '/title/tt1152836/'}

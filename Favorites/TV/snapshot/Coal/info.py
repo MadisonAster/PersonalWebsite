@@ -18,12 +18,12 @@
            {'@type': 'Person',
             'name': 'R.B. Davis',
             'url': '/name/nm4330459/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 90,
-                     'ratingValue': '8.3',
-                     'worstRating': '1.0'},
- 'creator': {'@type': 'Organization', 'url': '/company/co0013072/'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 90,
+                      'ratingValue': '8.3',
+                      'worstRating': '1.0'}],
+ 'creator': [{'@type': 'Organization', 'url': '/company/co0013072/'}],
  'datePublished': '2011-03-30',
  'description': 'Coal is a TV series starring Andrew Christian, Andy '
                 'Christian, and Mike Crowder. A docuseries chronicling the '

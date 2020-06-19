@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Genesis Rodriguez',
             'url': '/name/nm1270009/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 44447,
-                     'ratingValue': '5.3',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 44447,
+                      'ratingValue': '5.3',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Kevin Smith',
@@ -33,23 +33,23 @@
                 'Haley Joel Osment. A brash and arrogant podcaster gets more '
                 'than he bargained for when he travels to Canada to interview '
                 'a mysterious recluse... who has a rather disturbing...',
- 'director': {'@type': 'Person',
-              'name': 'Kevin Smith',
-              'url': '/name/nm0003620/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Kevin Smith',
+               'url': '/name/nm0003620/'}],
  'duration': 'PT1H42M',
  'genre': ['Comedy', 'Drama', 'Horror'],
  'image': 'https://m.media-amazon.com/images/M/MV5BNmQyMmUzMmYtMTA4OS00ZmRjLWE0NWYtNjc0ZGM0N2E4YzQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg',
  'keywords': 'walrus,canada,search,deception,mansion',
  'name': 'Tusk',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'When his best friend and podcast co-host goes '
-                            'missing in the backwoods of Canada, a young guy '
-                            "joins forces with his friend's girlfriend to "
-                            'search for him.',
-             'embedUrl': '/video/imdb/vi154446873',
-             'name': 'Trailer #1',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTk0NTE1OTAwOV5BMl5BanBnXkFtZTgwMTE1NzAyMzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTk0NTE1OTAwOV5BMl5BanBnXkFtZTgwMTE1NzAyMzE@._V1_.jpg',
-             'uploadDate': '2014-07-27T09:00:11Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'When his best friend and podcast co-host goes '
+                             'missing in the backwoods of Canada, a young guy '
+                             "joins forces with his friend's girlfriend to "
+                             'search for him.',
+              'embedUrl': '/video/imdb/vi154446873',
+              'name': 'Trailer #1',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTk0NTE1OTAwOV5BMl5BanBnXkFtZTgwMTE1NzAyMzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTk0NTE1OTAwOV5BMl5BanBnXkFtZTgwMTE1NzAyMzE@._V1_.jpg',
+              'uploadDate': '2014-07-27T09:00:11Z'}],
  'url': '/title/tt3099498/'}

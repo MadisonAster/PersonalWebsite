@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Rooney Mara',
             'url': '/name/nm1913734/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 514695,
-                     'ratingValue': '8.0',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 514695,
+                      'ratingValue': '8.0',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Spike Jonze',
@@ -31,9 +31,9 @@
                 'Scarlett Johansson. In a near future, a lonely writer '
                 'develops an unlikely relationship with an operating system '
                 'designed to meet his every need.',
- 'director': {'@type': 'Person',
-              'name': 'Spike Jonze',
-              'url': '/name/nm0005069/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Spike Jonze',
+               'url': '/name/nm0005069/'}],
  'duration': 'PT2H6M',
  'genre': ['Drama', 'Romance', 'Sci-Fi'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_.jpg',
@@ -41,14 +41,14 @@
              'intelligence,future,artificial intelligence,relationship '
              'problems',
  'name': 'Her',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'A lonely writer develops an unlikely relationship '
-                            "with his newly purchased operating system that's "
-                            'designed to meet his every need.',
-             'embedUrl': '/video/imdb/vi4112492569',
-             'name': 'Trailer #2',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjI3ODI3Nzg3Ml5BMl5BanBnXkFtZTgwMTY3NzQ3MDE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjI3ODI3Nzg3Ml5BMl5BanBnXkFtZTgwMTY3NzQ3MDE@._V1_.jpg',
-             'uploadDate': '2013-12-06T14:15:10Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A lonely writer develops an unlikely '
+                             'relationship with his newly purchased operating '
+                             "system that's designed to meet his every need.",
+              'embedUrl': '/video/imdb/vi4112492569',
+              'name': 'Trailer #2',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjI3ODI3Nzg3Ml5BMl5BanBnXkFtZTgwMTY3NzQ3MDE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjI3ODI3Nzg3Ml5BMl5BanBnXkFtZTgwMTY3NzQ3MDE@._V1_.jpg',
+              'uploadDate': '2013-12-06T14:15:10Z'}],
  'url': '/title/tt1798709/'}

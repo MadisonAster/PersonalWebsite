@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Michael Rispoli',
             'url': '/name/nm0728346/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 97289,
-                     'ratingValue': '6.2',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 97289,
+                      'ratingValue': '6.2',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Bruce Robinson',
@@ -39,24 +39,24 @@
                 'Ribisi, and Aaron Eckhart. American journalist Paul Kemp '
                 'takes on a freelance job in Puerto Rico for a local newspaper '
                 'during the 1960s and struggles to find a balance between...',
- 'director': {'@type': 'Person',
-              'name': 'Bruce Robinson',
-              'url': '/name/nm0732430/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Bruce Robinson',
+               'url': '/name/nm0732430/'}],
  'duration': 'PT1H59M',
  'genre': ['Comedy', 'Drama'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTM5ODA4MjYxM15BMl5BanBnXkFtZTcwMTM3NTE5Ng@@._V1_.jpg',
  'keywords': 'based on novel,journalist,puerto rico,san juan puerto '
              'rico,newspaper',
  'name': 'The Rum Diary',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Paul Kemp is a freelance journalist who finds '
-                            'himself at a critical turning point in his life '
-                            'while writing for a run-down newspaper in the '
-                            'Caribbean',
-             'embedUrl': '/video/imdb/vi2617613337',
-             'name': 'Trailer #1',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTY5Njc0MTcyMV5BMl5BanBnXkFtZTcwNzkyMjU0Ng@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTY5Njc0MTcyMV5BMl5BanBnXkFtZTcwNzkyMjU0Ng@@._V1_.jpg',
-             'uploadDate': '2011-08-27T09:09:41Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Paul Kemp is a freelance journalist who finds '
+                             'himself at a critical turning point in his life '
+                             'while writing for a run-down newspaper in the '
+                             'Caribbean',
+              'embedUrl': '/video/imdb/vi2617613337',
+              'name': 'Trailer #1',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTY5Njc0MTcyMV5BMl5BanBnXkFtZTcwNzkyMjU0Ng@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTY5Njc0MTcyMV5BMl5BanBnXkFtZTcwNzkyMjU0Ng@@._V1_.jpg',
+              'uploadDate': '2011-08-27T09:09:41Z'}],
  'url': '/title/tt0376136/'}

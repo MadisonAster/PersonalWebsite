@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'David Miscavige',
             'url': '/name/nm1719336/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 35934,
-                     'ratingValue': '8.0',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 35934,
+                      'ratingValue': '8.0',
+                      'worstRating': '1.0'}],
  'contentRating': 'Not Rated',
  'creator': [{'@type': 'Person',
               'name': 'Alex Gibney',
@@ -38,24 +38,24 @@
                 'starring Paul Haggis, Jason Beghe, and Spanky Taylor. A '
                 'documentary looking at the inner-workings of the Church of '
                 'Scientology.',
- 'director': {'@type': 'Person',
-              'name': 'Alex Gibney',
-              'url': '/name/nm0316795/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Alex Gibney',
+               'url': '/name/nm0316795/'}],
  'duration': 'PT1H59M',
  'genre': 'Documentary',
  'image': 'https://m.media-amazon.com/images/M/MV5BZjYxYTA0MWQtYWViYi00YmRhLWEzNzctMDkwMGQ5ODFmM2FjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg',
  'keywords': 'dianetics,scientology,based on book,year 2013,e meter',
  'name': 'Going Clear: Scientology & the Prison of Belief',
- 'trailer': {'@type': 'VideoObject',
-             'description': "A documentary based on Lawrence Wright's book of "
-                            'the same name. Scientology is laid bare by a film '
-                            'that brings together archive footage, '
-                            'testimonials from former high ranking officials '
-                            'and public, and dramatic reconstructions.',
-             'embedUrl': '/video/imdb/vi1277800729',
-             'name': 'Official Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjI4MTg1OTk1NV5BMl5BanBnXkFtZTgwMzU5NTAxNTE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjI4MTg1OTk1NV5BMl5BanBnXkFtZTgwMzU5NTAxNTE@._V1_.jpg',
-             'uploadDate': '2015-03-31T18:57:28Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': "A documentary based on Lawrence Wright's book of "
+                             'the same name. Scientology is laid bare by a '
+                             'film that brings together archive footage, '
+                             'testimonials from former high ranking officials '
+                             'and public, and dramatic reconstructions.',
+              'embedUrl': '/video/imdb/vi1277800729',
+              'name': 'Official Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjI4MTg1OTk1NV5BMl5BanBnXkFtZTgwMzU5NTAxNTE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjI4MTg1OTk1NV5BMl5BanBnXkFtZTgwMzU5NTAxNTE@._V1_.jpg',
+              'uploadDate': '2015-03-31T18:57:28Z'}],
  'url': '/title/tt4257858/'}

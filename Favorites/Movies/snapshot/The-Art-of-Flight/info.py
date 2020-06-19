@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Nicolas Müller',
             'url': '/name/nm1903764/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 7490,
-                     'ratingValue': '8.2',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 7490,
+                      'ratingValue': '8.2',
+                      'worstRating': '1.0'}],
  'contentRating': 'PG-13',
  'creator': [{'@type': 'Organization', 'url': '/company/co0341726/'},
              {'@type': 'Organization', 'url': '/company/co0758861/'},
@@ -35,24 +35,24 @@
                 'Landvik, and John Jackson. Two years in the making, this film '
                 'gives snowboarder [ling=nm1751071] and friends the '
                 'opportunity to redefine what is possible in the mountains.',
- 'director': {'@type': 'Person',
-              'name': 'Curt Morgan',
-              'url': '/name/nm3240319/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Curt Morgan',
+               'url': '/name/nm3240319/'}],
  'duration': 'PT1H20M',
  'genre': ['Documentary', 'Adventure', 'Sport'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTc1NjUwMDU1MF5BMl5BanBnXkFtZTcwMzU5NjA4OA@@._V1_.jpg',
  'keywords': 'four word title,snowboarding,snowboard',
  'name': 'The Art of Flight',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Snowboarder Travis Rice and his friends redefine '
-                            'what is possible in the mountains. Experience the '
-                            'highs, as new tricks are landed and new zones '
-                            'opened, alongside the lows, where avalanches, '
-                            'accidents, and wrong-turns strike.',
-             'embedUrl': '/video/imdb/vi3382421273',
-             'name': 'Theatrical Version',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTU2Mzg5NTA5NF5BMl5BanBnXkFtZTgwMTk4NjgyMzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTU2Mzg5NTA5NF5BMl5BanBnXkFtZTgwMTk4NjgyMzE@._V1_.jpg',
-             'uploadDate': '2012-12-04T19:26:45Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Snowboarder Travis Rice and his friends redefine '
+                             'what is possible in the mountains. Experience '
+                             'the highs, as new tricks are landed and new '
+                             'zones opened, alongside the lows, where '
+                             'avalanches, accidents, and wrong-turns strike.',
+              'embedUrl': '/video/imdb/vi3382421273',
+              'name': 'Theatrical Version',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTU2Mzg5NTA5NF5BMl5BanBnXkFtZTgwMTk4NjgyMzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTU2Mzg5NTA5NF5BMl5BanBnXkFtZTgwMTk4NjgyMzE@._V1_.jpg',
+              'uploadDate': '2012-12-04T19:26:45Z'}],
  'url': '/title/tt1646967/'}

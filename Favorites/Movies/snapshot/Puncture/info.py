@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Marshall Bell',
             'url': '/name/nm0068382/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 22325,
-                     'ratingValue': '6.8',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 22325,
+                      'ratingValue': '6.8',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Paul Danziger',
@@ -52,15 +52,15 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTYzODIxNjAxNV5BMl5BanBnXkFtZTcwOTcxNzQzNg@@._V1_.jpg',
  'keywords': 'based on real people,based on real person,man,lawyer,needle',
  'name': 'Puncture',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'A David and Goliath law drama about a '
-                            'drug-addicted lawyer who takes on a health supply '
-                            'corporation while battling his own personal '
-                            'demons.',
-             'embedUrl': '/video/imdb/vi3910179865',
-             'name': 'Theatrical',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BOTg0NjMwMjQ0OF5BMl5BanBnXkFtZTcwMTU2NzQzNg@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BOTg0NjMwMjQ0OF5BMl5BanBnXkFtZTcwMTU2NzQzNg@@._V1_.jpg',
-             'uploadDate': '2011-08-18T08:37:14Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A David and Goliath law drama about a '
+                             'drug-addicted lawyer who takes on a health '
+                             'supply corporation while battling his own '
+                             'personal demons.',
+              'embedUrl': '/video/imdb/vi3910179865',
+              'name': 'Theatrical',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BOTg0NjMwMjQ0OF5BMl5BanBnXkFtZTcwMTU2NzQzNg@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BOTg0NjMwMjQ0OF5BMl5BanBnXkFtZTcwMTU2NzQzNg@@._V1_.jpg',
+              'uploadDate': '2011-08-18T08:37:14Z'}],
  'url': '/title/tt1582248/'}

@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Skylar Gaertner',
             'url': '/name/nm3228287/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 155787,
-                     'ratingValue': '8.4',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 155787,
+                      'ratingValue': '8.4',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Bill Dubuque',
@@ -41,19 +41,19 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BM2Q3MjQ3NDAtZDk4NS00MDIwLTllZGUtMmY1ZDU2OTJkNGY2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg',
  'keywords': 'netflix original,missouri,mexico,drug cartel,financial advisor',
  'name': 'Ozark',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Official Trailer for Ozark Season 3. All new '
-                            'episodes arrive on Netflix March 27, 2020. They '
-                            'are all in. The Byrdes are back in business and '
-                            'the stakes have never been higher. As tensions '
-                            'mount surrounding their new casino, The Missouri '
-                            'Belle, Marty and Wendy struggle to balance their '
-                            "family's safety with the growing success of their "
-                            'money laundering empire.',
-             'embedUrl': '/video/imdb/vi3030564377',
-             'name': 'Season 3 Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BODEzZGZmNWQtNTI4Ny00MGNiLWFlMGYtNzdlM2EyZGNhYTc4XkEyXkFqcGdeQWFybm8@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BODEzZGZmNWQtNTI4Ny00MGNiLWFlMGYtNzdlM2EyZGNhYTc4XkEyXkFqcGdeQWFybm8@._V1_.jpg',
-             'uploadDate': '2020-03-05T18:13:26Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Official Trailer for Ozark Season 3. All new '
+                             'episodes arrive on Netflix March 27, 2020. They '
+                             'are all in. The Byrdes are back in business and '
+                             'the stakes have never been higher. As tensions '
+                             'mount surrounding their new casino, The Missouri '
+                             'Belle, Marty and Wendy struggle to balance their '
+                             "family's safety with the growing success of "
+                             'their money laundering empire.',
+              'embedUrl': '/video/imdb/vi3030564377',
+              'name': 'Season 3 Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BODEzZGZmNWQtNTI4Ny00MGNiLWFlMGYtNzdlM2EyZGNhYTc4XkEyXkFqcGdeQWFybm8@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BODEzZGZmNWQtNTI4Ny00MGNiLWFlMGYtNzdlM2EyZGNhYTc4XkEyXkFqcGdeQWFybm8@._V1_.jpg',
+              'uploadDate': '2020-03-05T18:13:26Z'}],
  'url': '/title/tt5071412/'}

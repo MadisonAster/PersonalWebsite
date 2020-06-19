@@ -18,12 +18,12 @@
            {'@type': 'Person',
             'name': 'Richard Harte',
             'url': '/name/nm1479382/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 258,
-                     'ratingValue': '8.4',
-                     'worstRating': '1.0'},
- 'creator': {'@type': 'Organization', 'url': '/company/co0194193/'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 258,
+                      'ratingValue': '8.4',
+                      'worstRating': '1.0'}],
+ 'creator': [{'@type': 'Organization', 'url': '/company/co0194193/'}],
  'datePublished': '2008-02-29',
  'description': 'Battle 360 is a TV series starring Alan Pietruszewski, Garth '
                 "R. Hassell, and Pedro Sandoval. This series chronicle's the "
@@ -33,14 +33,14 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMjEzODY2NDY3MF5BMl5BanBnXkFtZTcwMjQyNTkxMw@@._V1_.jpg',
  'keywords': 'world war two,u.s. navy,sea battle,pacific theatre,naval battle',
  'name': 'Battle 360',
- 'trailer': {'@type': 'VideoObject',
-             'description': "Military Combat: Relive History's Most Intense "
-                            'Battles: Vol 3',
-             'embedUrl': '/video/imdb/vi1626520601',
-             'name': "Military Combat: Relive History's Most Intense Battles: "
-                     'Vol 3',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BOTYyYjllYTMtYmJlNi00NDJiLTkzZTQtZTE2MzdlZDUwOGY3XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BOTYyYjllYTMtYmJlNi00NDJiLTkzZTQtZTE2MzdlZDUwOGY3XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg',
-             'uploadDate': '2019-04-28T13:09:30Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': "Military Combat: Relive History's Most Intense "
+                             'Battles: Vol 3',
+              'embedUrl': '/video/imdb/vi1626520601',
+              'name': "Military Combat: Relive History's Most Intense Battles: "
+                      'Vol 3',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BOTYyYjllYTMtYmJlNi00NDJiLTkzZTQtZTE2MzdlZDUwOGY3XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BOTYyYjllYTMtYmJlNi00NDJiLTkzZTQtZTE2MzdlZDUwOGY3XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg',
+              'uploadDate': '2019-04-28T13:09:30Z'}],
  'url': '/title/tt1194698/'}

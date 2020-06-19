@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Lucy DeVito',
             'url': '/name/nm2192439/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 26200,
-                     'ratingValue': '6.4',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 26200,
+                      'ratingValue': '6.4',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Tim Blake Nelson',
@@ -38,23 +38,23 @@
                 'Russell, and Henry Max Nelson. An Ivy League professor is '
                 'lured back to his Oklahoma hometown, where his twin brother, '
                 'a small-time pot grower, has concocted a scheme to take...',
- 'director': {'@type': 'Person',
-              'name': 'Tim Blake Nelson',
-              'url': '/name/nm0625789/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Tim Blake Nelson',
+               'url': '/name/nm0625789/'}],
  'duration': 'PT1H45M',
  'genre': ['Comedy', 'Crime', 'Drama', 'Thriller'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjI1MzE2ODI1NV5BMl5BanBnXkFtZTcwNDkwNzAyMw@@._V1_.jpg',
  'keywords': 'stabbed in the stomach,menorah,synagogue,crossbow,stoner comedy',
  'name': 'Leaves of Grass',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'An Ivy League professor is lured back to his '
-                            'Oklahoma hometown, where his twin brother, a '
-                            'small-time pot grower, has concocted a scheme to '
-                            'take down a local drug lord.',
-             'embedUrl': '/video/imdb/vi68289561',
-             'name': 'Leaves of Grass',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTkzMzY3OTU5N15BMl5BanBnXkFtZTcwODI2OTgxMw@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTkzMzY3OTU5N15BMl5BanBnXkFtZTcwODI2OTgxMw@@._V1_.jpg',
-             'uploadDate': '2010-02-16T10:59:20Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'An Ivy League professor is lured back to his '
+                             'Oklahoma hometown, where his twin brother, a '
+                             'small-time pot grower, has concocted a scheme to '
+                             'take down a local drug lord.',
+              'embedUrl': '/video/imdb/vi68289561',
+              'name': 'Leaves of Grass',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTkzMzY3OTU5N15BMl5BanBnXkFtZTcwODI2OTgxMw@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTkzMzY3OTU5N15BMl5BanBnXkFtZTcwODI2OTgxMw@@._V1_.jpg',
+              'uploadDate': '2010-02-16T10:59:20Z'}],
  'url': '/title/tt1151359/'}

@@ -14,11 +14,11 @@
             'name': 'Tilda Swinton',
             'url': '/name/nm0842770/'},
            {'@type': 'Person', 'name': 'Ed Harris', 'url': '/name/nm0000438/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 291698,
-                     'ratingValue': '7.1',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 291698,
+                      'ratingValue': '7.1',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Jacques Lob',
@@ -52,25 +52,25 @@
                 'Tilda Swinton. In a future where a failed climate-change '
                 'experiment has killed all life except for the lucky few who '
                 'boarded the Snowpiercer, a train that travels around...',
- 'director': {'@type': 'Person',
-              'name': 'Bong Joon Ho',
-              'url': '/name/nm0094435/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Bong Joon Ho',
+               'url': '/name/nm0094435/'}],
  'duration': 'PT2H6M',
  'genre': ['Action', 'Drama', 'Sci-Fi'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_.jpg',
  'keywords': 'train,perpetual winter,closed ecological system,population '
              'control,dystopia',
  'name': 'Snowpiercer',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'In a future where a failed global-warming '
-                            'experiment kills off all life on the planet '
-                            'except for a lucky few that boarded the '
-                            'Snowpiercer, a train that travels around the '
-                            'globe, where a class system evolves.',
-             'embedUrl': '/video/imdb/vi1214688537',
-             'name': 'Official Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjE5OTYwNjUxNV5BMl5BanBnXkFtZTgwODc5MTAyMzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjE5OTYwNjUxNV5BMl5BanBnXkFtZTgwODc5MTAyMzE@._V1_.jpg',
-             'uploadDate': '2014-05-31T08:20:53Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'In a future where a failed global-warming '
+                             'experiment kills off all life on the planet '
+                             'except for a lucky few that boarded the '
+                             'Snowpiercer, a train that travels around the '
+                             'globe, where a class system evolves.',
+              'embedUrl': '/video/imdb/vi1214688537',
+              'name': 'Official Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjE5OTYwNjUxNV5BMl5BanBnXkFtZTgwODc5MTAyMzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjE5OTYwNjUxNV5BMl5BanBnXkFtZTgwODc5MTAyMzE@._V1_.jpg',
+              'uploadDate': '2014-05-31T08:20:53Z'}],
  'url': '/title/tt1706620/'}

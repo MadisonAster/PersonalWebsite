@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Keri Russell',
             'url': '/name/nm0005392/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 48967,
-                     'ratingValue': '6.9',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 48967,
+                      'ratingValue': '6.9',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Gary Ross',
@@ -42,23 +42,23 @@
                 'Gugu Mbatha-Raw, and Mahershala Ali. A disillusioned '
                 'Confederate army deserter returns to Mississippi and leads a '
                 'militia of fellow deserters and women in an uprising...',
- 'director': {'@type': 'Person',
-              'name': 'Gary Ross',
-              'url': '/name/nm0002657/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Gary Ross',
+               'url': '/name/nm0002657/'}],
  'duration': 'PT2H19M',
  'genre': ['Action', 'Biography', 'Drama', 'History', 'War', 'Western'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTA4NTYyMTcwNTFeQTJeQWpwZ15BbWU4MDI0NTg0MDkx._V1_.jpg',
  'keywords': 'civil war,american civil war,shot in the head,pocket watch,man '
              'carrying a man',
  'name': 'Free State of Jones',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'As civil war divides the nation, a poor farmer '
-                            'from Mississippi leads a group of rebels against '
-                            'the Confederate army.',
-             'embedUrl': '/video/imdb/vi2267132953',
-             'name': 'Trailer #2',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTc3NDQyNTg0NV5BMl5BanBnXkFtZTgwMzI1Mzk5ODE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTc3NDQyNTg0NV5BMl5BanBnXkFtZTgwMzI1Mzk5ODE@._V1_.jpg',
-             'uploadDate': '2016-05-24T15:22:55Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'As civil war divides the nation, a poor farmer '
+                             'from Mississippi leads a group of rebels against '
+                             'the Confederate army.',
+              'embedUrl': '/video/imdb/vi2267132953',
+              'name': 'Trailer #2',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTc3NDQyNTg0NV5BMl5BanBnXkFtZTgwMzI1Mzk5ODE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTc3NDQyNTg0NV5BMl5BanBnXkFtZTgwMzI1Mzk5ODE@._V1_.jpg',
+              'uploadDate': '2016-05-24T15:22:55Z'}],
  'url': '/title/tt1124037/'}

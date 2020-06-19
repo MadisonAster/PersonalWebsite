@@ -14,11 +14,11 @@
            {'@type': 'Person',
             'name': 'Patrick Roach',
             'url': '/name/nm1200571/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 1831,
-                     'ratingValue': '7.5',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 1831,
+                      'ratingValue': '7.5',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Organization', 'url': '/company/co0734919/'},
              {'@type': 'Organization', 'url': '/company/co0801491/'},
@@ -36,15 +36,15 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BY2M1NjcwZmMtODZmZS00Y2JhLWFlM2YtZmUyY2UyNTY3MTg3XkEyXkFqcGdeQXVyMTkwNDUxOQ@@._V1_.jpg',
  'keywords': 'based on live action tv series',
  'name': 'Trailer Park Boys: The Animated Series',
- 'trailer': {'@type': 'VideoObject',
-             'description': "Nova Scotia's favorite miscreants have always "
-                            'been super sketchy. Now, carrying on from the '
-                            'Season 12 finale, the boys have become complete '
-                            'cartoons.',
-             'embedUrl': '/video/imdb/vi1595456793',
-             'name': 'Official Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNGFmYjhjMzQtZGIzNC00NTFiLWEwOGUtODljMzJiZTNiODQ3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNGFmYjhjMzQtZGIzNC00NTFiLWEwOGUtODljMzJiZTNiODQ3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
-             'uploadDate': '2019-04-11T13:47:16Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': "Nova Scotia's favorite miscreants have always "
+                             'been super sketchy. Now, carrying on from the '
+                             'Season 12 finale, the boys have become complete '
+                             'cartoons.',
+              'embedUrl': '/video/imdb/vi1595456793',
+              'name': 'Official Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNGFmYjhjMzQtZGIzNC00NTFiLWEwOGUtODljMzJiZTNiODQ3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNGFmYjhjMzQtZGIzNC00NTFiLWEwOGUtODljMzJiZTNiODQ3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
+              'uploadDate': '2019-04-11T13:47:16Z'}],
  'url': '/title/tt9814900/'}

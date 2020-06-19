@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Caleb Landry Jones',
             'url': '/name/nm2655177/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 400581,
-                     'ratingValue': '8.2',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 400581,
+                      'ratingValue': '8.2',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Martin McDonagh',
@@ -35,24 +35,24 @@
                 'Frances McDormand, Woody Harrelson, and Sam Rockwell. A '
                 'mother personally challenges the local authorities to solve '
                 "her daughter's murder when they fail to catch the...",
- 'director': {'@type': 'Person',
-              'name': 'Martin McDonagh',
-              'url': '/name/nm1732981/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Martin McDonagh',
+               'url': '/name/nm1732981/'}],
  'duration': 'PT1H55M',
  'genre': ['Comedy', 'Crime', 'Drama'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_.jpg',
  'keywords': 'billboard,police brutality,black comedy,ambiguous ending,thrown '
              'through a window',
  'name': 'Three Billboards Outside Ebbing, Missouri',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'In this darkly comic drama, a mother personally '
-                            'challenges the local authorities to solve her '
-                            "daughter's murder, when they fail to catch the "
-                            'culprit.',
-             'embedUrl': '/video/imdb/vi3585980441',
-             'name': 'Now Playing',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BOTUxMzJjNDEtNzI3MS00OWFkLTliZjYtYjc3ZTZiMDc2YWZhXkEyXkFqcGdeQXVyNzQ0MDUyMzg@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BOTUxMzJjNDEtNzI3MS00OWFkLTliZjYtYjc3ZTZiMDc2YWZhXkEyXkFqcGdeQXVyNzQ0MDUyMzg@._V1_.jpg',
-             'uploadDate': '2017-11-20T23:46:09Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'In this darkly comic drama, a mother personally '
+                             'challenges the local authorities to solve her '
+                             "daughter's murder, when they fail to catch the "
+                             'culprit.',
+              'embedUrl': '/video/imdb/vi3585980441',
+              'name': 'Now Playing',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BOTUxMzJjNDEtNzI3MS00OWFkLTliZjYtYjc3ZTZiMDc2YWZhXkEyXkFqcGdeQXVyNzQ0MDUyMzg@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BOTUxMzJjNDEtNzI3MS00OWFkLTliZjYtYjc3ZTZiMDc2YWZhXkEyXkFqcGdeQXVyNzQ0MDUyMzg@._V1_.jpg',
+              'uploadDate': '2017-11-20T23:46:09Z'}],
  'url': '/title/tt5027774/'}

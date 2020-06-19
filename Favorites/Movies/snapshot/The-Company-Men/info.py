@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Suzanne Rico',
             'url': '/name/nm0725648/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 42652,
-                     'ratingValue': '6.7',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 42652,
+                      'ratingValue': '6.7',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'John Wells',
@@ -36,24 +36,24 @@
                 'Cooper, and Tommy Lee Jones. The story centers on a year in '
                 'the life of three men trying to survive a round of corporate '
                 'downsizing at a major company - and how that affects...',
- 'director': {'@type': 'Person',
-              'name': 'John Wells',
-              'url': '/name/nm0920274/'},
+ 'director': [{'@type': 'Person',
+               'name': 'John Wells',
+               'url': '/name/nm0920274/'}],
  'duration': 'PT1H44M',
  'genre': 'Drama',
  'image': 'https://m.media-amazon.com/images/M/MV5BMTQxMTgyNDc5M15BMl5BanBnXkFtZTcwMzk4OTM5Mw@@._V1_.jpg',
  'keywords': 'downsizing,porsche,corporate downsizing,bra,topless female '
              'nudity',
  'name': 'The Company Men',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'A year in the life of three men trying to survive '
-                            'a round of corporate downsizing at a major '
-                            'company - and how that affects them, their '
-                            'families, and their communities.',
-             'embedUrl': '/video/imdb/vi3740599833',
-             'name': 'The Company Men: Trailer #2',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTQzNDIwNDg3OF5BMl5BanBnXkFtZTgwMzc3Nzg4MjE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTQzNDIwNDg3OF5BMl5BanBnXkFtZTgwMzc3Nzg4MjE@._V1_.jpg',
-             'uploadDate': '2010-07-28T09:50:39Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A year in the life of three men trying to '
+                             'survive a round of corporate downsizing at a '
+                             'major company - and how that affects them, their '
+                             'families, and their communities.',
+              'embedUrl': '/video/imdb/vi3740599833',
+              'name': 'The Company Men: Trailer #2',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTQzNDIwNDg3OF5BMl5BanBnXkFtZTgwMzc3Nzg4MjE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTQzNDIwNDg3OF5BMl5BanBnXkFtZTgwMzc3Nzg4MjE@._V1_.jpg',
+              'uploadDate': '2010-07-28T09:50:39Z'}],
  'url': '/title/tt1172991/'}

@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Luke Treadaway',
             'url': '/name/nm2008435/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 3465,
-                     'ratingValue': '6.5',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 3465,
+                      'ratingValue': '6.5',
+                      'worstRating': '1.0'}],
  'creator': [{'@type': 'Person',
               'name': 'Rowan Athale',
               'url': '/name/nm1424282/'},
@@ -35,25 +35,25 @@
                 'Matthew Lewis. A young man recently released from prison '
                 'recruits his three best friends to rob the local drug kingpin '
                 'who is responsible for his incarceration. Can he get...',
- 'director': {'@type': 'Person',
-              'name': 'Rowan Athale',
-              'url': '/name/nm1424282/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Rowan Athale',
+               'url': '/name/nm1424282/'}],
  'duration': 'PT1H48M',
  'genre': ['Crime', 'Drama', 'Thriller'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjE2ODYyNDM5OV5BMl5BanBnXkFtZTcwNDMyODk3OQ@@._V1_.jpg',
  'keywords': 'revenge,release from prison,planning robbery,welding,police '
              'interrogation',
  'name': 'The Rise',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'A young Englishman recently released from prison '
-                            'recruits his three best friends and to rob the '
-                            'local drug kingpin who is responsible for his '
-                            'incarceration. Can he get revenge and win back '
-                            'his fed-up girlfriend?',
-             'embedUrl': '/video/imdb/vi847620377',
-             'name': 'Theatrical Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTUxMDkwNTM0M15BMl5BanBnXkFtZTgwODU4NzAyMzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTUxMDkwNTM0M15BMl5BanBnXkFtZTgwODU4NzAyMzE@._V1_.jpg',
-             'uploadDate': '2013-07-11T10:07:29Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A young Englishman recently released from prison '
+                             'recruits his three best friends and to rob the '
+                             'local drug kingpin who is responsible for his '
+                             'incarceration. Can he get revenge and win back '
+                             'his fed-up girlfriend?',
+              'embedUrl': '/video/imdb/vi847620377',
+              'name': 'Theatrical Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTUxMDkwNTM0M15BMl5BanBnXkFtZTgwODU4NzAyMzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTUxMDkwNTM0M15BMl5BanBnXkFtZTgwODU4NzAyMzE@._V1_.jpg',
+              'uploadDate': '2013-07-11T10:07:29Z'}],
  'url': '/title/tt1981140/'}

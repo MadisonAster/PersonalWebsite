@@ -18,35 +18,35 @@
            {'@type': 'Person',
             'name': 'David Heath',
             'url': '/name/nm6227502/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 287,
-                     'ratingValue': '7.2',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 287,
+                      'ratingValue': '7.2',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-G',
  'datePublished': '2013-01-12',
  'description': 'Cavedigger is a short starring Ra Paulette, Pierre Delattre, '
                 'and Suzanne Eliel. In this OSCAR® NOMINATED documentary '
                 'short, artist Ra Paulette digs other-worldly, sculptural '
                 'caves using nothing but hand tools. But, as patrons cut...',
- 'director': {'@type': 'Person',
-              'name': 'Jeffrey Karoff',
-              'url': '/name/nm5366058/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Jeffrey Karoff',
+               'url': '/name/nm5366058/'}],
  'duration': 'PT39M',
  'genre': ['Documentary', 'Short', 'Biography'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTgyMTU0OTYxOV5BMl5BanBnXkFtZTgwNDUyNTEwMTE@._V1_.jpg',
  'name': 'Cavedigger',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'An unsung land artist who creates singular, '
-                            "cathedral-like 'eighth wonder of the world' "
-                            'sculptural caves with nothing but hand tools, '
-                            'grit and passion struggles with unappreciative '
-                            'patrons, poverty, and his aging body.  He strives '
-                            'to complete his magnum opus.',
-             'embedUrl': '/video/imdb/vi3467422489',
-             'name': 'CaveDigger',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTY3MjUwMjY5N15BMl5BanBnXkFtZTgwNDE3ODQwMTE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTY3MjUwMjY5N15BMl5BanBnXkFtZTgwNDE3ODQwMTE@._V1_.jpg',
-             'uploadDate': '2014-01-26T18:28:03Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'An unsung land artist who creates singular, '
+                             "cathedral-like 'eighth wonder of the world' "
+                             'sculptural caves with nothing but hand tools, '
+                             'grit and passion struggles with unappreciative '
+                             'patrons, poverty, and his aging body.  He '
+                             'strives to complete his magnum opus.',
+              'embedUrl': '/video/imdb/vi3467422489',
+              'name': 'CaveDigger',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTY3MjUwMjY5N15BMl5BanBnXkFtZTgwNDE3ODQwMTE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTY3MjUwMjY5N15BMl5BanBnXkFtZTgwNDE3ODQwMTE@._V1_.jpg',
+              'uploadDate': '2014-01-26T18:28:03Z'}],
  'url': '/title/tt2516860/'}

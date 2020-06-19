@@ -16,13 +16,13 @@
            {'@type': 'Person',
             'name': 'Bob Costas',
             'url': '/name/nm0182471/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 580,
-                     'ratingValue': '7.8',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 580,
+                      'ratingValue': '7.8',
+                      'worstRating': '1.0'}],
  'contentRating': 'Not Rated',
- 'creator': {'@type': 'Organization', 'url': '/company/co0328799/'},
+ 'creator': [{'@type': 'Organization', 'url': '/company/co0328799/'}],
  'datePublished': '2013-10-16',
  'description': 'Schooled: The Price of College Sports is a movie starring '
                 'Kevin Anderson, Jay Bilas, and Taylor Branch. A documentary '
@@ -42,14 +42,14 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTQ2NjI0NDU3Nl5BMl5BanBnXkFtZTgwMDU4OTgzMDE@._V1_.jpg',
  'keywords': 'athlete,college sports,narration,six word title,colon in title',
  'name': 'Schooled: The Price of College Sports',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'A documentary that examines how college sports in '
-                            'America became a billion dollar enterprise built '
-                            'on the backs of its unpaid athletes.',
-             'embedUrl': '/video/imdb/vi1185785881',
-             'name': 'Theatrical Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTUzNDIwNjM3N15BMl5BanBnXkFtZTgwOTcwNDcyMzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTUzNDIwNjM3N15BMl5BanBnXkFtZTgwOTcwNDcyMzE@._V1_.jpg',
-             'uploadDate': '2013-10-03T15:56:44Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A documentary that examines how college sports '
+                             'in America became a billion dollar enterprise '
+                             'built on the backs of its unpaid athletes.',
+              'embedUrl': '/video/imdb/vi1185785881',
+              'name': 'Theatrical Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTUzNDIwNjM3N15BMl5BanBnXkFtZTgwOTcwNDcyMzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTUzNDIwNjM3N15BMl5BanBnXkFtZTgwOTcwNDcyMzE@._V1_.jpg',
+              'uploadDate': '2013-10-03T15:56:44Z'}],
  'url': '/title/tt3057718/'}

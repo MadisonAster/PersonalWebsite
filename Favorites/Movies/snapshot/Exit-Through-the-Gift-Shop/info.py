@@ -16,33 +16,33 @@
            {'@type': 'Person',
             'name': 'Debora Guetta',
             'url': '/name/nm4565713/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 61017,
-                     'ratingValue': '8.0',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 61017,
+                      'ratingValue': '8.0',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
- 'creator': {'@type': 'Organization', 'url': '/company/co0295606/'},
+ 'creator': [{'@type': 'Organization', 'url': '/company/co0295606/'}],
  'datePublished': '2010-03-05',
  'description': 'Exit Through the Gift Shop is a movie starring Banksy, Mr. '
                 'Brainwash, and Space Invader. Following the style of some of '
                 "the world's most prolific street artists, an amateur "
                 'filmmaker makes a foray into the art world.',
- 'director': {'@type': 'Person', 'name': 'Banksy', 'url': '/name/nm2612991/'},
+ 'director': [{'@type': 'Person', 'name': 'Banksy', 'url': '/name/nm2612991/'}],
  'duration': 'PT1H27M',
  'genre': ['Documentary', 'Comedy', 'Crime', 'History'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjE2NTg1NDM4Ml5BMl5BanBnXkFtZTcwMzMxOTkyMw@@._V1_.jpg',
  'keywords': 'street artist,graffiti artist,art,west bank,political statement',
  'name': 'Exit Through the Gift Shop',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'The story of how an eccentric French shop keeper '
-                            'and amateur film maker attempted to locate and '
-                            'befriend Banksy, only to have the artist turn the '
-                            'camera back on its owner.',
-             'embedUrl': '/video/imdb/vi2018051097',
-             'name': 'Exit Through the Gift Shop',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNzkwMDQ2NjU5MV5BMl5BanBnXkFtZTgwMjYyMTczMzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNzkwMDQ2NjU5MV5BMl5BanBnXkFtZTgwMjYyMTczMzE@._V1_.jpg',
-             'uploadDate': '2010-04-01T06:55:10Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'The story of how an eccentric French shop keeper '
+                             'and amateur film maker attempted to locate and '
+                             'befriend Banksy, only to have the artist turn '
+                             'the camera back on its owner.',
+              'embedUrl': '/video/imdb/vi2018051097',
+              'name': 'Exit Through the Gift Shop',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNzkwMDQ2NjU5MV5BMl5BanBnXkFtZTgwMjYyMTczMzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNzkwMDQ2NjU5MV5BMl5BanBnXkFtZTgwMjYyMTczMzE@._V1_.jpg',
+              'uploadDate': '2010-04-01T06:55:10Z'}],
  'url': '/title/tt1587707/'}

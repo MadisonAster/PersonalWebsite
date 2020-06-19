@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Alice Krige',
             'url': '/name/nm0000481/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 84830,
-                     'ratingValue': '7.9',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 84830,
+                      'ratingValue': '7.9',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Zal Batmanglij',
@@ -43,15 +43,15 @@
  'keywords': 'near death experience,blindness,kidnapping,supernatural '
              'power,psychotronic series',
  'name': 'The OA',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'OA successfully jumps dimensions but finds '
-                            'herself at the center of a mystery she cannot '
-                            'solve without the help of a cynical private '
-                            'detective.',
-             'embedUrl': '/video/imdb/vi274315801',
-             'name': 'Season 2 Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZjVhYTMyYTktZGFhMi00M2ZmLTlhMTAtZWM2NzNiZDkwYmZlXkEyXkFqcGdeQWFybm8@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZjVhYTMyYTktZGFhMi00M2ZmLTlhMTAtZWM2NzNiZDkwYmZlXkEyXkFqcGdeQWFybm8@._V1_.jpg',
-             'uploadDate': '2019-02-27T15:27:27Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'OA successfully jumps dimensions but finds '
+                             'herself at the center of a mystery she cannot '
+                             'solve without the help of a cynical private '
+                             'detective.',
+              'embedUrl': '/video/imdb/vi274315801',
+              'name': 'Season 2 Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZjVhYTMyYTktZGFhMi00M2ZmLTlhMTAtZWM2NzNiZDkwYmZlXkEyXkFqcGdeQWFybm8@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZjVhYTMyYTktZGFhMi00M2ZmLTlhMTAtZWM2NzNiZDkwYmZlXkEyXkFqcGdeQWFybm8@._V1_.jpg',
+              'uploadDate': '2019-02-27T15:27:27Z'}],
  'url': '/title/tt4635282/'}

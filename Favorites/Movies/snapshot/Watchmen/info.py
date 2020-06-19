@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Malin Akerman',
             'url': '/name/nm0015196/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 485628,
-                     'ratingValue': '7.6',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 485628,
+                      'ratingValue': '7.6',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'David Hayter',
@@ -44,24 +44,24 @@
                 'Wilson, and Carla Gugino. In 1985 where former superheroes '
                 'exist, the murder of a colleague sends active vigilante '
                 'Rorschach into his own sprawling investigation, uncovering...',
- 'director': {'@type': 'Person',
-              'name': 'Zack Snyder',
-              'url': '/name/nm0811583/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Zack Snyder',
+               'url': '/name/nm0811583/'}],
  'duration': 'PT2H42M',
  'genre': ['Action', 'Drama', 'Mystery', 'Sci-Fi'],
  'image': 'https://m.media-amazon.com/images/M/MV5BY2IzNGNiODgtOWYzOS00OTI0LTgxZTUtOTA5OTQ5YmI3NGUzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg',
  'keywords': 'rape,conspiracy,doomsday clock,false promise of the american '
              'dream,nihilist',
  'name': 'Watchmen',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'When an ex-superhero is murdered, a vigilante '
-                            'named Rorshach begins an investigation into the '
-                            'murder, which begins to lead to a much more '
-                            'terrifying conclusion.',
-             'embedUrl': '/video/imdb/vi3326279705',
-             'name': 'Watchmen: Trailer #2',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BOTUzODA1MDE3Ml5BMl5BanBnXkFtZTgwMzAzOTYzMzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BOTUzODA1MDE3Ml5BMl5BanBnXkFtZTgwMzAzOTYzMzE@._V1_.jpg',
-             'uploadDate': '2008-11-15T16:33:12Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'When an ex-superhero is murdered, a vigilante '
+                             'named Rorshach begins an investigation into the '
+                             'murder, which begins to lead to a much more '
+                             'terrifying conclusion.',
+              'embedUrl': '/video/imdb/vi3326279705',
+              'name': 'Watchmen: Trailer #2',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BOTUzODA1MDE3Ml5BMl5BanBnXkFtZTgwMzAzOTYzMzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BOTUzODA1MDE3Ml5BMl5BanBnXkFtZTgwMzAzOTYzMzE@._V1_.jpg',
+              'uploadDate': '2008-11-15T16:33:12Z'}],
  'url': '/title/tt0409459/'}

@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Joe Mantello',
             'url': '/name/nm0544079/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 19672,
-                     'ratingValue': '7.6',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 19672,
+                      'ratingValue': '7.6',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Ian Brennan',
@@ -40,15 +40,15 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BODc5ZDZmNTEtZDJjZC00ZmMzLWJlZWQtOWNiODI5YjE0YzBmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg',
  'keywords': 'hollywood,1940s,post world war two,actor,filmmaking',
  'name': 'Hollywood',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'In post-World War II Hollywood, an ambitious '
-                            'group of aspiring actors and filmmakers will do '
-                            'almost anything to make their showbiz dreams come '
-                            'true.',
-             'embedUrl': '/video/imdb/vi1727970841',
-             'name': 'Official Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BOTI2ZGYwODQtNzkzYi00MGExLTk5ZDEtYmY2NWQ2ZGFlZjlhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BOTI2ZGYwODQtNzkzYi00MGExLTk5ZDEtYmY2NWQ2ZGFlZjlhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
-             'uploadDate': '2020-04-20T15:16:27Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'In post-World War II Hollywood, an ambitious '
+                             'group of aspiring actors and filmmakers will do '
+                             'almost anything to make their showbiz dreams '
+                             'come true.',
+              'embedUrl': '/video/imdb/vi1727970841',
+              'name': 'Official Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BOTI2ZGYwODQtNzkzYi00MGExLTk5ZDEtYmY2NWQ2ZGFlZjlhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BOTI2ZGYwODQtNzkzYi00MGExLTk5ZDEtYmY2NWQ2ZGFlZjlhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
+              'uploadDate': '2020-04-20T15:16:27Z'}],
  'url': '/title/tt9827854/'}

@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Linh Dan Pham',
             'url': '/name/nm0199006/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 209335,
-                     'ratingValue': '7.8',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 209335,
+                      'ratingValue': '7.8',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Jaco Van Dormael',
@@ -58,26 +58,26 @@
                 'Diane Kruger. A boy stands on a station platform as a train '
                 'is about to leave. Should he go with his mother or stay with '
                 'his father? Infinite possibilities arise from this...',
- 'director': {'@type': 'Person',
-              'name': 'Jaco Van Dormael',
-              'url': '/name/nm0233757/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Jaco Van Dormael',
+               'url': '/name/nm0233757/'}],
  'duration': 'PT2H21M',
  'genre': ['Drama', 'Fantasy', 'Romance', 'Sci-Fi'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTg4ODkzMDQ3Nl5BMl5BanBnXkFtZTgwNTEwMTkxMDE@._V1_.jpg',
  'keywords': 'multiple outcomes,stepbrother stepsister relationship,nonlinear '
              'timeline,mother spanking child,butterfly effect',
  'name': 'Mr. Nobody',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'A young boy stands on a station platform. The '
-                            'train is about to leave. Should he go with his '
-                            'mother or stay with his father? An infinity of '
-                            'possibilities rise from this decision. As long as '
-                            "he doesn't choose, anything is possible. Every "
-                            'life deserves to be lived.',
-             'embedUrl': '/video/imdb/vi23832857',
-             'name': 'Theatrical Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTc2MjQ5ODgyMV5BMl5BanBnXkFtZTgwNTk3NjAyMzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTc2MjQ5ODgyMV5BMl5BanBnXkFtZTgwNTk3NjAyMzE@._V1_.jpg',
-             'uploadDate': '2013-09-13T10:37:07Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A young boy stands on a station platform. The '
+                             'train is about to leave. Should he go with his '
+                             'mother or stay with his father? An infinity of '
+                             'possibilities rise from this decision. As long '
+                             "as he doesn't choose, anything is possible. "
+                             'Every life deserves to be lived.',
+              'embedUrl': '/video/imdb/vi23832857',
+              'name': 'Theatrical Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTc2MjQ5ODgyMV5BMl5BanBnXkFtZTgwNTk3NjAyMzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTc2MjQ5ODgyMV5BMl5BanBnXkFtZTgwNTk3NjAyMzE@._V1_.jpg',
+              'uploadDate': '2013-09-13T10:37:07Z'}],
  'url': '/title/tt0485947/'}

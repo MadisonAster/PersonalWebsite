@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Marquis Rodriguez',
             'url': '/name/nm2532658/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 74149,
-                     'ratingValue': '8.9',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 74149,
+                      'ratingValue': '8.9',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Ava DuVernay',
@@ -40,16 +40,16 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BZmJjM2YzOWEtOTYxYi00YjhkLTliMzgtMTA2MTc0NDQ1MDM4XkEyXkFqcGdeQXVyODY5OTk4MA@@._V1_.jpg',
  'keywords': 'agitprop,new york city,central park,rape accusation,1980s',
  'name': 'When They See Us',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Based on a true story that gripped the country, '
-                            'When They See Us will chronicle the notorious '
-                            'case of five teenagers of color, labeled the '
-                            'Central Park Five, who were convicted of a rape '
-                            'they did not commit.',
-             'embedUrl': '/video/imdb/vi719305753',
-             'name': 'New Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZmVhODNjODItMTQ5NC00MDJkLWJhZWMtMTM4MjVlNDczMWYyXkEyXkFqcGdeQXN3aWZ0dw@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZmVhODNjODItMTQ5NC00MDJkLWJhZWMtMTM4MjVlNDczMWYyXkEyXkFqcGdeQXN3aWZ0dw@@._V1_.jpg',
-             'uploadDate': '2019-05-28T15:17:00Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Based on a true story that gripped the country, '
+                             'When They See Us will chronicle the notorious '
+                             'case of five teenagers of color, labeled the '
+                             'Central Park Five, who were convicted of a rape '
+                             'they did not commit.',
+              'embedUrl': '/video/imdb/vi719305753',
+              'name': 'New Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZmVhODNjODItMTQ5NC00MDJkLWJhZWMtMTM4MjVlNDczMWYyXkEyXkFqcGdeQXN3aWZ0dw@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZmVhODNjODItMTQ5NC00MDJkLWJhZWMtMTM4MjVlNDczMWYyXkEyXkFqcGdeQXN3aWZ0dw@@._V1_.jpg',
+              'uploadDate': '2019-05-28T15:17:00Z'}],
  'url': '/title/tt7137906/'}

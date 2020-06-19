@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Robert Pralgo',
             'url': '/name/nm1128418/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 43171,
-                     'ratingValue': '6.9',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 43171,
+                      'ratingValue': '6.9',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Peter Landesman',
@@ -39,26 +39,26 @@
                 'Patrick, and Jena Sims. Journalist Gary Webb, California '
                 "1996, started investigating CIA's role in the 1980s in "
                 'getting crack cocaine to the black part of LA to get money...',
- 'director': {'@type': 'Person',
-              'name': 'Michael Cuesta',
-              'url': '/name/nm0191147/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Michael Cuesta',
+               'url': '/name/nm0191147/'}],
  'duration': 'PT1H52M',
  'genre': ['Biography', 'Crime', 'Drama', 'Mystery', 'Thriller'],
  'image': 'https://m.media-amazon.com/images/M/MV5BNDM5MDIxNzYyNV5BMl5BanBnXkFtZTgwMDUzMTk4MTE@._V1_.jpg',
  'keywords': 'based on true story,journalist,nicaraguan contras,smear '
              'campaign,cocaine',
  'name': 'Kill the Messenger',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'A reporter becomes the target of a vicious smear '
-                            'campaign that drives him to the point of suicide '
-                            "after he exposes the CIA's role in arming Contra "
-                            'rebels in Nicaragua and importing cocaine into '
-                            'California. Based on the true story of journalist '
-                            'Gary Webb.',
-             'embedUrl': '/video/imdb/vi2405870873',
-             'name': 'Trailer #1',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNzI3MDUxMjMzOF5BMl5BanBnXkFtZTgwMzAyMTE5MTE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNzI3MDUxMjMzOF5BMl5BanBnXkFtZTgwMzAyMTE5MTE@._V1_.jpg',
-             'uploadDate': '2014-05-31T09:37:54Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A reporter becomes the target of a vicious smear '
+                             'campaign that drives him to the point of suicide '
+                             "after he exposes the CIA's role in arming Contra "
+                             'rebels in Nicaragua and importing cocaine into '
+                             'California. Based on the true story of '
+                             'journalist Gary Webb.',
+              'embedUrl': '/video/imdb/vi2405870873',
+              'name': 'Trailer #1',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNzI3MDUxMjMzOF5BMl5BanBnXkFtZTgwMzAyMTE5MTE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNzI3MDUxMjMzOF5BMl5BanBnXkFtZTgwMzAyMTE5MTE@._V1_.jpg',
+              'uploadDate': '2014-05-31T09:37:54Z'}],
  'url': '/title/tt1216491/'}

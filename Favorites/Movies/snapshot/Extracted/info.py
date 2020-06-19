@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Richard Riehle',
             'url': '/name/nm0726223/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 11280,
-                     'ratingValue': '6.5',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 11280,
+                      'ratingValue': '6.5',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Nir Paniry',
@@ -40,26 +40,26 @@
                 'Dominic Bogart. A scientist who has invented a technology to '
                 "construct virtual realities from people's memories finds "
                 'himself in a perilous situation, after he reluctantly...',
- 'director': {'@type': 'Person',
-              'name': 'Nir Paniry',
-              'url': '/name/nm2040027/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Nir Paniry',
+               'url': '/name/nm2040027/'}],
  'duration': 'PT1H25M',
  'genre': ['Drama', 'Sci-Fi'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTQ3MzExNjczOF5BMl5BanBnXkFtZTcwMTE3Mjg4OQ@@._V1_.jpg',
  'keywords': 'bumming a cigarette,murder,scientist,memory,sousveillance',
  'name': 'Extracted',
- 'trailer': {'@type': 'VideoObject',
-             'description': "A scientist invents a technique to enter people's "
-                            'memories deep within their subconscious when '
-                            'their mind is at its most vulnerable state. When '
-                            "he is tasked with entering a convicted criminal's "
-                            'mind to see whether he committed murder, he is '
-                            'faced with his most dangerous and risky memory '
-                            'extraction ever.',
-             'embedUrl': '/video/imdb/vi2448468249',
-             'name': 'Theatrical Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNjA5MDA5NTcwM15BMl5BanBnXkFtZTgwMjQyMTYyMzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNjA5MDA5NTcwM15BMl5BanBnXkFtZTgwMjQyMTYyMzE@._V1_.jpg',
-             'uploadDate': '2013-07-16T08:40:00Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A scientist invents a technique to enter '
+                             "people's memories deep within their subconscious "
+                             'when their mind is at its most vulnerable state. '
+                             'When he is tasked with entering a convicted '
+                             "criminal's mind to see whether he committed "
+                             'murder, he is faced with his most dangerous and '
+                             'risky memory extraction ever.',
+              'embedUrl': '/video/imdb/vi2448468249',
+              'name': 'Theatrical Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNjA5MDA5NTcwM15BMl5BanBnXkFtZTgwMjQyMTYyMzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNjA5MDA5NTcwM15BMl5BanBnXkFtZTgwMjQyMTYyMzE@._V1_.jpg',
+              'uploadDate': '2013-07-16T08:40:00Z'}],
  'url': '/title/tt1757746/'}

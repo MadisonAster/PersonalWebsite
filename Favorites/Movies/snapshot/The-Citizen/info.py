@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'William Atherton',
             'url': '/name/nm0040472/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 3140,
-                     'ratingValue': '7.0',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 3140,
+                      'ratingValue': '7.0',
+                      'worstRating': '1.0'}],
  'contentRating': 'PG-13',
  'creator': [{'@type': 'Person',
               'name': 'Jazmen Darnell Brown',
@@ -39,21 +39,23 @@
                 'Bruckner, and Rizwan Manji. An Arab immigrant wins the '
                 'American green card lottery, arriving in New York City on '
                 'September 10, 2001.',
- 'director': {'@type': 'Person', 'name': 'Sam Kadi', 'url': '/name/nm3018890/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Sam Kadi',
+               'url': '/name/nm3018890/'}],
  'duration': 'PT1H39M',
  'genre': 'Drama',
  'image': 'https://m.media-amazon.com/images/M/MV5BNjMwMjUxMzUxNF5BMl5BanBnXkFtZTcwNDIyNTUzOA@@._V1_.jpg',
  'keywords': 'city',
  'name': 'The Citizen',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'A drama centered on Ibrahim, an Arab immigrant '
-                            'who wins the American green card lottery, '
-                            'arriving in New York City on September 10th, '
-                            '2001.',
-             'embedUrl': '/video/imdb/vi539796761',
-             'name': 'U.S. Version',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjA5MjU2MTIyNF5BMl5BanBnXkFtZTcwNzY1OTQzOA@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjA5MjU2MTIyNF5BMl5BanBnXkFtZTcwNzY1OTQzOA@@._V1_.jpg',
-             'uploadDate': '2012-08-29T08:51:59Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A drama centered on Ibrahim, an Arab immigrant '
+                             'who wins the American green card lottery, '
+                             'arriving in New York City on September 10th, '
+                             '2001.',
+              'embedUrl': '/video/imdb/vi539796761',
+              'name': 'U.S. Version',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjA5MjU2MTIyNF5BMl5BanBnXkFtZTcwNzY1OTQzOA@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjA5MjU2MTIyNF5BMl5BanBnXkFtZTcwNzY1OTQzOA@@._V1_.jpg',
+              'uploadDate': '2012-08-29T08:51:59Z'}],
  'url': '/title/tt1942989/'}

@@ -14,11 +14,11 @@
            {'@type': 'Person',
             'name': 'Betsy Brandt',
             'url': '/name/nm1336827/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 1359381,
-                     'ratingValue': '9.5',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 1359381,
+                      'ratingValue': '9.5',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Vince Gilligan',
@@ -38,14 +38,14 @@
  'keywords': 'cancer,crystal meth,albuquerque new '
              'mexico,chemistry,methamphetamine',
  'name': 'Breaking Bad',
- 'trailer': {'@type': 'VideoObject',
-             'description': "Here's a look at the final eight episodes of "
-                            'Breaking Bad, which premieres on Sunday, August '
-                            '11 at 9/8c',
-             'embedUrl': '/video/imdb/vi338798873',
-             'name': '"Say My Name"',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg',
-             'uploadDate': '2013-08-06T09:15:19Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': "Here's a look at the final eight episodes of "
+                             'Breaking Bad, which premieres on Sunday, August '
+                             '11 at 9/8c',
+              'embedUrl': '/video/imdb/vi338798873',
+              'name': '"Say My Name"',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg',
+              'uploadDate': '2013-08-06T09:15:19Z'}],
  'url': '/title/tt0903747/'}

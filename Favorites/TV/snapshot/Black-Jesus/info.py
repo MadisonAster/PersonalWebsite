@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Angela Elayne Gibbs',
             'url': '/name/nm0589900/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 3058,
-                     'ratingValue': '6.9',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 3058,
+                      'ratingValue': '6.9',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Mike Clattenburg',
@@ -43,16 +43,16 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BYjdlNjdjZmUtODJmOC00NWMxLWEwNTQtNjY4MTg3ZmQ5ZDI1XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg',
  'keywords': 'satire,religion,jesus in title,color in title,two word title',
  'name': 'Black Jesus',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'A TV series finds Jesus living in present day '
-                            'Compton, CA on a daily mission to spread love and '
-                            'kindness throughout the neighborhood with the '
-                            'help of his small but loyal group of downtrodden '
-                            'followers.',
-             'embedUrl': '/video/imdb/vi2295180313',
-             'name': 'Official Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMzM4Njg2MzU0NV5BMl5BanBnXkFtZTgwMDUzNDgyMjE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMzM4Njg2MzU0NV5BMl5BanBnXkFtZTgwMDUzNDgyMjE@._V1_.jpg',
-             'uploadDate': '2014-07-25T08:48:39Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A TV series finds Jesus living in present day '
+                             'Compton, CA on a daily mission to spread love '
+                             'and kindness throughout the neighborhood with '
+                             'the help of his small but loyal group of '
+                             'downtrodden followers.',
+              'embedUrl': '/video/imdb/vi2295180313',
+              'name': 'Official Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMzM4Njg2MzU0NV5BMl5BanBnXkFtZTgwMDUzNDgyMjE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMzM4Njg2MzU0NV5BMl5BanBnXkFtZTgwMDUzNDgyMjE@._V1_.jpg',
+              'uploadDate': '2014-07-25T08:48:39Z'}],
  'url': '/title/tt3589872/'}

@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Daniel Richter',
             'url': '/name/nm0725220/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 579569,
-                     'ratingValue': '8.3',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 579569,
+                      'ratingValue': '8.3',
+                      'worstRating': '1.0'}],
  'contentRating': 'G',
  'creator': [{'@type': 'Person',
               'name': 'Stanley Kubrick',
@@ -40,24 +40,24 @@
                 'Lockwood, and William Sylvester. After discovering a '
                 'mysterious artifact buried beneath the Lunar surface, mankind '
                 'sets off on a quest to find its origins with help from...',
- 'director': {'@type': 'Person',
-              'name': 'Stanley Kubrick',
-              'url': '/name/nm0000040/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Stanley Kubrick',
+               'url': '/name/nm0000040/'}],
  'duration': 'PT2H29M',
  'genre': ['Adventure', 'Sci-Fi'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg',
  'keywords': 'monolith,star child,human versus computer,number in '
              'title,computer',
  'name': '2001: A Space Odyssey',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Humanity finds a mysterious, obviously artificial '
-                            'object buried beneath the Lunar surface and, with '
-                            'the intelligent computer H.A.L. 9000, sets off on '
-                            'a quest.',
-             'embedUrl': '/video/imdb/vi2674767897',
-             'name': 'New 70mm Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZGJiOGEyYWQtNWYyMC00MWRiLWIzMzMtNTMxNjVlMGEwZWM3XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZGJiOGEyYWQtNWYyMC00MWRiLWIzMzMtNTMxNjVlMGEwZWM3XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg',
-             'uploadDate': '2018-04-20T21:39:40Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Humanity finds a mysterious, obviously '
+                             'artificial object buried beneath the Lunar '
+                             'surface and, with the intelligent computer '
+                             'H.A.L. 9000, sets off on a quest.',
+              'embedUrl': '/video/imdb/vi2674767897',
+              'name': 'New 70mm Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZGJiOGEyYWQtNWYyMC00MWRiLWIzMzMtNTMxNjVlMGEwZWM3XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZGJiOGEyYWQtNWYyMC00MWRiLWIzMzMtNTMxNjVlMGEwZWM3XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg',
+              'uploadDate': '2018-04-20T21:39:40Z'}],
  'url': '/title/tt0062622/'}

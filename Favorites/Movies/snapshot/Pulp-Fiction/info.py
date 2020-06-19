@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Bruce Willis',
             'url': '/name/nm0000246/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 1759456,
-                     'ratingValue': '8.9',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 1759456,
+                      'ratingValue': '8.9',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Quentin Tarantino',
@@ -41,23 +41,23 @@
                 'and Samuel L. Jackson. The lives of two mob hitmen, a boxer, '
                 'a gangster and his wife, and a pair of diner bandits '
                 'intertwine in four tales of violence and redemption.',
- 'director': {'@type': 'Person',
-              'name': 'Quentin Tarantino',
-              'url': '/name/nm0000233/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Quentin Tarantino',
+               'url': '/name/nm0000233/'}],
  'duration': 'PT2H34M',
  'genre': ['Crime', 'Drama'],
  'image': 'https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg',
  'keywords': 'nonlinear timeline,overdose,drug overdose,black comedy,bondage',
  'name': 'Pulp Fiction',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'The lives of two mob hit men, a boxer, a '
-                            "gangster's wife, and a pair of diner bandits "
-                            'intertwine in four tales of violence and '
-                            'redemption.',
-             'embedUrl': '/video/imdb/vi2620371481',
-             'name': 'Official Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjI5MzgxMTQ4M15BMl5BanBnXkFtZTgwNjczMTk0NzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjI5MzgxMTQ4M15BMl5BanBnXkFtZTgwNjczMTk0NzE@._V1_.jpg',
-             'uploadDate': '2015-12-16T10:51:07Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'The lives of two mob hit men, a boxer, a '
+                             "gangster's wife, and a pair of diner bandits "
+                             'intertwine in four tales of violence and '
+                             'redemption.',
+              'embedUrl': '/video/imdb/vi2620371481',
+              'name': 'Official Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjI5MzgxMTQ4M15BMl5BanBnXkFtZTgwNjczMTk0NzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjI5MzgxMTQ4M15BMl5BanBnXkFtZTgwNjczMTk0NzE@._V1_.jpg',
+              'uploadDate': '2015-12-16T10:51:07Z'}],
  'url': '/title/tt0110912/'}

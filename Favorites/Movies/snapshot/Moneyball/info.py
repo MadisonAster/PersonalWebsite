@@ -14,11 +14,11 @@
            {'@type': 'Person',
             'name': 'Philip Seymour Hoffman',
             'url': '/name/nm0000450/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 348229,
-                     'ratingValue': '7.6',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 348229,
+                      'ratingValue': '7.6',
+                      'worstRating': '1.0'}],
  'contentRating': 'PG-13',
  'creator': [{'@type': 'Person',
               'name': 'Steven Zaillian',
@@ -44,23 +44,23 @@
                 'successful attempt to assemble a baseball team on a lean '
                 'budget by employing computer-generated analysis to acquire '
                 'new...',
- 'director': {'@type': 'Person',
-              'name': 'Bennett Miller',
-              'url': '/name/nm0587955/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Bennett Miller',
+               'url': '/name/nm0587955/'}],
  'duration': 'PT2H13M',
  'genre': ['Biography', 'Drama', 'Sport'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_.jpg',
  'keywords': 'strategy,baseball,statistics,voice over,meeting',
  'name': 'Moneyball',
- 'trailer': {'@type': 'VideoObject',
-             'description': "Oakland A's general manager Billy Beane (Brad "
-                            'Pitt) works to put together a baseball club on a '
-                            'budget by employing computer-generated analysis '
-                            'to draft his players.',
-             'embedUrl': '/video/imdb/vi3229326361',
-             'name': 'International Version',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BODM1NDMxMTI3M15BMl5BanBnXkFtZTcwMDAzODY1Ng@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BODM1NDMxMTI3M15BMl5BanBnXkFtZTcwMDAzODY1Ng@@._V1_.jpg',
-             'uploadDate': '2011-09-06T07:41:44Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': "Oakland A's general manager Billy Beane (Brad "
+                             'Pitt) works to put together a baseball club on a '
+                             'budget by employing computer-generated analysis '
+                             'to draft his players.',
+              'embedUrl': '/video/imdb/vi3229326361',
+              'name': 'International Version',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BODM1NDMxMTI3M15BMl5BanBnXkFtZTcwMDAzODY1Ng@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BODM1NDMxMTI3M15BMl5BanBnXkFtZTcwMDAzODY1Ng@@._V1_.jpg',
+              'uploadDate': '2011-09-06T07:41:44Z'}],
  'url': '/title/tt1210166/'}

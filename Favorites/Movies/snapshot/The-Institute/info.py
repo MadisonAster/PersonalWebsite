@@ -16,34 +16,34 @@
            {'@type': 'Person',
             'name': 'Chelsea London Lloyd',
             'url': '/name/nm5061035/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 1111,
-                     'ratingValue': '6.2',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 1111,
+                      'ratingValue': '6.2',
+                      'worstRating': '1.0'}],
  'contentRating': 'Not Rated',
  'datePublished': '2013-10-11',
  'description': 'The Institute is a movie starring Arye Bender, Boston Blake, '
                 'and Jeff Hull. A documentary on the Jejune Institute, a '
                 'mind-bending San Francisco phenomenon where 10,000 people '
                 'became "inducted" without ever quite realizing what...',
- 'director': {'@type': 'Person',
-              'name': 'Spencer McCall',
-              'url': '/name/nm3577075/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Spencer McCall',
+               'url': '/name/nm3577075/'}],
  'duration': 'PT1H32M',
  'genre': ['Documentary', 'Crime', 'Mystery', 'Sci-Fi'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjE3MzQ2Nzk2M15BMl5BanBnXkFtZTcwODE0MDk3OA@@._V1_.jpg',
  'keywords': 'real life',
  'name': 'The Institute',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'A documentary on the Jejune Institute, a '
-                            'mind-bending San Francisco phenomenon where '
-                            '10,000 people became "inducted" without ever '
-                            "quite realizing what they'd signed up for.",
-             'embedUrl': '/video/imdb/vi1386915865',
-             'name': 'Theatrical Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTY4NTgzMjg4N15BMl5BanBnXkFtZTgwMjk5MzUzMDE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTY4NTgzMjg4N15BMl5BanBnXkFtZTgwMjk5MzUzMDE@._V1_.jpg',
-             'uploadDate': '2013-10-01T17:02:35Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A documentary on the Jejune Institute, a '
+                             'mind-bending San Francisco phenomenon where '
+                             '10,000 people became "inducted" without ever '
+                             "quite realizing what they'd signed up for.",
+              'embedUrl': '/video/imdb/vi1386915865',
+              'name': 'Theatrical Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTY4NTgzMjg4N15BMl5BanBnXkFtZTgwMjk5MzUzMDE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTY4NTgzMjg4N15BMl5BanBnXkFtZTgwMjk5MzUzMDE@._V1_.jpg',
+              'uploadDate': '2013-10-01T17:02:35Z'}],
  'url': '/title/tt2386327/'}

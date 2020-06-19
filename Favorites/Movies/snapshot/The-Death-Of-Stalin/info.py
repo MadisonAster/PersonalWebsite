@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Andrea Riseborough',
             'url': '/name/nm2057859/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 78976,
-                     'ratingValue': '7.2',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 78976,
+                      'ratingValue': '7.2',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Armando Iannucci',
@@ -61,26 +61,26 @@
                 'Russell Beale, and Jeffrey Tambor. Moscow, 1953. After being '
                 'in power for nearly thirty years, Soviet dictator Joseph '
                 'Vissarionovich Stalin (Adrian McLoughlin) takes ill...',
- 'director': {'@type': 'Person',
-              'name': 'Armando Iannucci',
-              'url': '/name/nm0406334/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Armando Iannucci',
+               'url': '/name/nm0406334/'}],
  'duration': 'PT1H47M',
  'genre': ['Comedy', 'Drama', 'History'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTcxMDc1NjcyNl5BMl5BanBnXkFtZTgwNDU0NDYxMzI@._V1_.jpg',
  'keywords': 'satire,black comedy,soviet union,nikita khrushchev '
              'character,based on comic book',
  'name': 'The Death of Stalin',
- 'trailer': {'@type': 'VideoObject',
-             'description': "In the days following Stalin's collapse, his core "
-                            'team of ministers tussle for control; some want '
-                            'positive change in the Soviet Union, others have '
-                            'more sinister motives. Their one common trait? '
-                            "They're all just desperately trying to remain "
-                            'alive.',
-             'embedUrl': '/video/imdb/vi1778169881',
-             'name': 'Official Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMzNjYWE2OWUtNWE5Zi00MGFkLTkxNmUtM2JjOGI4MWUzYTBjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMzNjYWE2OWUtNWE5Zi00MGFkLTkxNmUtM2JjOGI4MWUzYTBjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
-             'uploadDate': '2018-01-17T21:00:25Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': "In the days following Stalin's collapse, his "
+                             'core team of ministers tussle for control; some '
+                             'want positive change in the Soviet Union, others '
+                             'have more sinister motives. Their one common '
+                             "trait? They're all just desperately trying to "
+                             'remain alive.',
+              'embedUrl': '/video/imdb/vi1778169881',
+              'name': 'Official Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMzNjYWE2OWUtNWE5Zi00MGFkLTkxNmUtM2JjOGI4MWUzYTBjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMzNjYWE2OWUtNWE5Zi00MGFkLTkxNmUtM2JjOGI4MWUzYTBjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
+              'uploadDate': '2018-01-17T21:00:25Z'}],
  'url': '/title/tt4686844/'}

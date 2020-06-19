@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Betsy Baker',
             'url': '/name/nm0048260/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 180147,
-                     'ratingValue': '7.5',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 180147,
+                      'ratingValue': '7.5',
+                      'worstRating': '1.0'}],
  'contentRating': 'NC-17',
  'creator': [{'@type': 'Person',
               'name': 'Sam Raimi',
@@ -33,23 +33,23 @@
                 'Sandweiss, and Richard DeManincor. Five friends travel to a '
                 'cabin in the woods, where they unknowingly release '
                 'flesh-possessing demons.',
- 'director': {'@type': 'Person',
-              'name': 'Sam Raimi',
-              'url': '/name/nm0000600/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Sam Raimi',
+               'url': '/name/nm0000600/'}],
  'duration': 'PT1H25M',
  'genre': 'Horror',
  'image': 'https://m.media-amazon.com/images/M/MV5BODc2MmVjZmUtNjAzMS00MDNiLWIyM2YtOGEzMjg0YjRhMzRmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg',
  'keywords': 'cult film,evil dead,necronomicon,supernatural rape,book of the '
              'dead',
  'name': 'The Evil Dead',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Five friends travel to a cabin in the woods, '
-                            'where they unknowingly release flesh-possessing '
-                            'demons.',
-             'embedUrl': '/video/imdb/vi37529113',
-             'name': 'U.S. Version',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNTExMzg0OTU4OV5BMl5BanBnXkFtZTgwNTA0OTIyMzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNTExMzg0OTU4OV5BMl5BanBnXkFtZTgwNTA0OTIyMzE@._V1_.jpg',
-             'uploadDate': '2013-04-30T20:03:16Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Five friends travel to a cabin in the woods, '
+                             'where they unknowingly release flesh-possessing '
+                             'demons.',
+              'embedUrl': '/video/imdb/vi37529113',
+              'name': 'U.S. Version',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNTExMzg0OTU4OV5BMl5BanBnXkFtZTgwNTA0OTIyMzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNTExMzg0OTU4OV5BMl5BanBnXkFtZTgwNTA0OTIyMzE@._V1_.jpg',
+              'uploadDate': '2013-04-30T20:03:16Z'}],
  'url': '/title/tt0083907/'}

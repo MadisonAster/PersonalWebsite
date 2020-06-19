@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Jessica Alba',
             'url': '/name/nm0004695/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 72815,
-                     'ratingValue': '5.6',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 72815,
+                      'ratingValue': '5.6',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Kyle Ward',
@@ -42,24 +42,24 @@
                 'PenaVega, and Mel Gibson. The U.S. government recruits '
                 'Machete to battle his way through Mexico in order to take '
                 'down an arms dealer who looks to launch a weapon into space.',
- 'director': {'@type': 'Person',
-              'name': 'Robert Rodriguez',
-              'url': '/name/nm0001675/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Robert Rodriguez',
+               'url': '/name/nm0001675/'}],
  'duration': 'PT1H47M',
  'genre': ['Action', 'Crime', 'Thriller'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjA2MzUxMTM3M15BMl5BanBnXkFtZTgwMzA2NzkxMDE@._V1_.jpg',
  'keywords': "murder of a police officer,time bomb,woman breaks a man's "
              'neck,woman murders a man,murderess',
  'name': 'Machete Kills',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'The U.S. government recruits Machete to battle '
-                            'his way through Mexico in order to take down an '
-                            'arms dealer who looks to launch a weapon into '
-                            'space.',
-             'embedUrl': '/video/imdb/vi496085017',
-             'name': 'Lady Gaga "Aura" Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjExODE0MTUzOV5BMl5BanBnXkFtZTgwMjMxNTczMDE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjExODE0MTUzOV5BMl5BanBnXkFtZTgwMjMxNTczMDE@._V1_.jpg',
-             'uploadDate': '2013-10-05T07:44:30Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'The U.S. government recruits Machete to battle '
+                             'his way through Mexico in order to take down an '
+                             'arms dealer who looks to launch a weapon into '
+                             'space.',
+              'embedUrl': '/video/imdb/vi496085017',
+              'name': 'Lady Gaga "Aura" Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjExODE0MTUzOV5BMl5BanBnXkFtZTgwMjMxNTczMDE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjExODE0MTUzOV5BMl5BanBnXkFtZTgwMjMxNTczMDE@._V1_.jpg',
+              'uploadDate': '2013-10-05T07:44:30Z'}],
  'url': '/title/tt2002718/'}

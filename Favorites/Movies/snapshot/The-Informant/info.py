@@ -14,11 +14,11 @@
            {'@type': 'Person',
             'name': 'Lucas McHugh Carroll',
             'url': '/name/nm3488879/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 61941,
-                     'ratingValue': '6.4',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 61941,
+                      'ratingValue': '6.4',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Scott Z. Burns',
@@ -36,25 +36,25 @@
                 'Patton Oswalt. The U.S. government decides to go after an '
                 'agro-business giant with a price-fixing accusation, based on '
                 'the evidence submitted by their star witness, vice...',
- 'director': {'@type': 'Person',
-              'name': 'Steven Soderbergh',
-              'url': '/name/nm0001752/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Steven Soderbergh',
+               'url': '/name/nm0001752/'}],
  'duration': 'PT1H48M',
  'genre': ['Biography', 'Comedy', 'Crime', 'Drama'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTc4MDIyMTM3NV5BMl5BanBnXkFtZTcwNDQ2Nzg2Mg@@._V1_.jpg',
  'keywords': 'fbi,spy,informant,compulsive liar,investigation',
  'name': 'The Informant!',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'The U.S. government decides to go after an '
-                            'agri-business giant with a price-fixing '
-                            'accusation, based on the evidence submitted by '
-                            'their star witness, '
-                            'company-man-turned-whistleblower Mark Whitacre '
-                            '(Damon).',
-             'embedUrl': '/video/imdb/vi2750218777',
-             'name': 'The Informant!',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTUzNzgyMDY3OF5BMl5BanBnXkFtZTcwNjk1Nzg2Mg@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTUzNzgyMDY3OF5BMl5BanBnXkFtZTcwNjk1Nzg2Mg@@._V1_.jpg',
-             'uploadDate': '2009-07-03T08:00:54Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'The U.S. government decides to go after an '
+                             'agri-business giant with a price-fixing '
+                             'accusation, based on the evidence submitted by '
+                             'their star witness, '
+                             'company-man-turned-whistleblower Mark Whitacre '
+                             '(Damon).',
+              'embedUrl': '/video/imdb/vi2750218777',
+              'name': 'The Informant!',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTUzNzgyMDY3OF5BMl5BanBnXkFtZTcwNjk1Nzg2Mg@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTUzNzgyMDY3OF5BMl5BanBnXkFtZTcwNjk1Nzg2Mg@@._V1_.jpg',
+              'uploadDate': '2009-07-03T08:00:54Z'}],
  'url': '/title/tt1130080/'}

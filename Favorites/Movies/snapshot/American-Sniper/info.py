@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Cole Konis',
             'url': '/name/nm6518675/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 424418,
-                     'ratingValue': '7.3',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 424418,
+                      'ratingValue': '7.3',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Jason Hall',
@@ -48,24 +48,25 @@
                 "Miller, and Kyle Gallner. Navy S.E.A.L. sniper Chris Kyle's "
                 'pinpoint accuracy saves countless lives on the battlefield '
                 'and turns him into a legend. Back home with his family...',
- 'director': {'@type': 'Person',
-              'name': 'Clint Eastwood',
-              'url': '/name/nm0000142/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Clint Eastwood',
+               'url': '/name/nm0000142/'}],
  'duration': 'PT2H13M',
  'genre': ['Action', 'Biography', 'Drama', 'War'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_.jpg',
  'keywords': 'assassin,violence,iraq war,sniper,mercenary',
  'name': 'American Sniper',
- 'trailer': {'@type': 'VideoObject',
-             'description': "Navy SEAL sniper Chris Kyle's pinpoint accuracy "
-                            'saves countless lives on the battlefield and '
-                            'turns him into a legend. Back home to his wife '
-                            'and kids after four tours of duty, however, Chris '
-                            "finds that it is the war he can't leave behind.",
-             'embedUrl': '/video/imdb/vi3484134937',
-             'name': 'Theatrical Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTg0ODI0NDY5M15BMl5BanBnXkFtZTgwMTc3MTU3MzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTg0ODI0NDY5M15BMl5BanBnXkFtZTgwMTc3MTU3MzE@._V1_.jpg',
-             'uploadDate': '2014-12-19T10:52:37Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': "Navy SEAL sniper Chris Kyle's pinpoint accuracy "
+                             'saves countless lives on the battlefield and '
+                             'turns him into a legend. Back home to his wife '
+                             'and kids after four tours of duty, however, '
+                             "Chris finds that it is the war he can't leave "
+                             'behind.',
+              'embedUrl': '/video/imdb/vi3484134937',
+              'name': 'Theatrical Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTg0ODI0NDY5M15BMl5BanBnXkFtZTgwMTc3MTU3MzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTg0ODI0NDY5M15BMl5BanBnXkFtZTgwMTc3MTU3MzE@._V1_.jpg',
+              'uploadDate': '2014-12-19T10:52:37Z'}],
  'url': '/title/tt2179136/'}

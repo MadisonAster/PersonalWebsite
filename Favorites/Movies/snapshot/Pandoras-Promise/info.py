@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Mark Lynas',
             'url': '/name/nm1751915/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 1802,
-                     'ratingValue': '7.4',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 1802,
+                      'ratingValue': '7.4',
+                      'worstRating': '1.0'}],
  'contentRating': 'Not Rated',
  'creator': [{'@type': 'Person',
               'name': 'Robert Stone',
@@ -34,24 +34,24 @@
                 'Rhodes, and Gwyneth Cravens. A feature-length documentary '
                 'about the history and future of nuclear power. The film '
                 "explores how and why mankind's most feared and...",
- 'director': {'@type': 'Person',
-              'name': 'Robert Stone',
-              'url': '/name/nm0832134/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Robert Stone',
+               'url': '/name/nm0832134/'}],
  'duration': 'PT1H27M',
  'genre': 'Documentary',
  'image': 'https://m.media-amazon.com/images/M/MV5BMTgyNDYxMzQxM15BMl5BanBnXkFtZTcwODQ0NTY0OQ@@._V1_.jpg',
  'name': "Pandora's Promise",
- 'trailer': {'@type': 'VideoObject',
-             'description': 'A documentary about the history and future of '
-                            'nuclear power. The film explores how and why '
-                            "mankind's most feared and controversial "
-                            'technological discovery is now passionately '
-                            'embraced by many of those who once led the charge '
-                            'against it',
-             'embedUrl': '/video/imdb/vi2888148505',
-             'name': "Pandora's Promise",
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNzg0MTEyNzEyM15BMl5BanBnXkFtZTgwMTEzOTg4MjE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNzg0MTEyNzEyM15BMl5BanBnXkFtZTgwMTEzOTg4MjE@._V1_.jpg',
-             'uploadDate': '2013-05-03T08:46:02Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A documentary about the history and future of '
+                             'nuclear power. The film explores how and why '
+                             "mankind's most feared and controversial "
+                             'technological discovery is now passionately '
+                             'embraced by many of those who once led the '
+                             'charge against it',
+              'embedUrl': '/video/imdb/vi2888148505',
+              'name': "Pandora's Promise",
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNzg0MTEyNzEyM15BMl5BanBnXkFtZTgwMTEzOTg4MjE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNzg0MTEyNzEyM15BMl5BanBnXkFtZTgwMTEzOTg4MjE@._V1_.jpg',
+              'uploadDate': '2013-05-03T08:46:02Z'}],
  'url': '/title/tt1992193/'}

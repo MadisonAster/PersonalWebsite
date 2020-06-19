@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Dave Burrows',
             'url': '/name/nm10930329/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 14625,
-                     'ratingValue': '7.4',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 14625,
+                      'ratingValue': '7.4',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-14',
  'creator': [{'@type': 'Organization', 'url': '/company/co0720404/'},
              {'@type': 'Organization', 'url': '/company/co0132772/'}],
@@ -42,17 +42,17 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BNWFkMDY1MjItZmNkOS00MDg2LWFlMjMtZWU3YmM0MmY3MWM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
  'keywords': 'working class,blue collar,factory worker,culture clash',
  'name': 'American Factory',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'In post-industrial Ohio, a Chinese billionaire '
-                            'opens a new factory in the husk of an abandoned '
-                            'General Motors plant, hiring two thousand '
-                            'blue-collar Americans. Early days of hope and '
-                            'optimism give way to setbacks as high-tech China '
-                            'clashes with working-class America.',
-             'embedUrl': '/video/imdb/vi4081433625',
-             'name': 'Official Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZTMzY2JjYzMtNGYwYy00MmVjLTgzOGUtN2EzY2U4NDZkM2U1XkEyXkFqcGdeQWFybm8@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZTMzY2JjYzMtNGYwYy00MmVjLTgzOGUtN2EzY2U4NDZkM2U1XkEyXkFqcGdeQWFybm8@._V1_.jpg',
-             'uploadDate': '2019-08-14T15:51:42Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'In post-industrial Ohio, a Chinese billionaire '
+                             'opens a new factory in the husk of an abandoned '
+                             'General Motors plant, hiring two thousand '
+                             'blue-collar Americans. Early days of hope and '
+                             'optimism give way to setbacks as high-tech China '
+                             'clashes with working-class America.',
+              'embedUrl': '/video/imdb/vi4081433625',
+              'name': 'Official Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZTMzY2JjYzMtNGYwYy00MmVjLTgzOGUtN2EzY2U4NDZkM2U1XkEyXkFqcGdeQWFybm8@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZTMzY2JjYzMtNGYwYy00MmVjLTgzOGUtN2EzY2U4NDZkM2U1XkEyXkFqcGdeQWFybm8@._V1_.jpg',
+              'uploadDate': '2019-08-14T15:51:42Z'}],
  'url': '/title/tt9351980/'}

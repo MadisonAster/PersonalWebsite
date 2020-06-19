@@ -16,11 +16,11 @@
            {'@type': 'Person',
             'name': 'Lizzy Caplan',
             'url': '/name/nm0135221/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 62766,
-                     'ratingValue': '6.4',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 62766,
+                      'ratingValue': '6.4',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Jonathan Levine',
@@ -46,25 +46,25 @@
                 'Seth Rogen, and Jillian Bell. On Christmas Eve, three '
                 'lifelong friends spend the night in New York City looking for '
                 'the Holy Grail of Christmas parties.',
- 'director': {'@type': 'Person',
-              'name': 'Jonathan Levine',
-              'url': '/name/nm1349522/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Jonathan Levine',
+               'url': '/name/nm1349522/'}],
  'duration': 'PT1H41M',
  'genre': ['Comedy', 'Fantasy'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTkyNDY1ODQwNV5BMl5BanBnXkFtZTgwNzA2MjUwNzE@._V1_.jpg',
  'keywords': 'christmas,christmas party,new york city,male frontal nudity,drug '
              'dealer',
  'name': 'The Night Before',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'In New York City for their annual tradition of '
-                            'Christmas Eve debauchery, three lifelong best '
-                            'friends set out to find the Holy Grail of '
-                            'Christmas parties since their yearly reunion '
-                            'might be coming to an end.',
-             'embedUrl': '/video/imdb/vi933671449',
-             'name': 'International Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjAxNjM0NzQzMV5BMl5BanBnXkFtZTgwMTczNzQxNzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjAxNjM0NzQzMV5BMl5BanBnXkFtZTgwMTczNzQxNzE@._V1_.jpg',
-             'uploadDate': '2015-10-29T08:57:21Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'In New York City for their annual tradition of '
+                             'Christmas Eve debauchery, three lifelong best '
+                             'friends set out to find the Holy Grail of '
+                             'Christmas parties since their yearly reunion '
+                             'might be coming to an end.',
+              'embedUrl': '/video/imdb/vi933671449',
+              'name': 'International Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjAxNjM0NzQzMV5BMl5BanBnXkFtZTgwMTczNzQxNzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjAxNjM0NzQzMV5BMl5BanBnXkFtZTgwMTczNzQxNzE@._V1_.jpg',
+              'uploadDate': '2015-10-29T08:57:21Z'}],
  'url': '/title/tt3530002/'}

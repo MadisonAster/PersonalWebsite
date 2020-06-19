@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Eva Mendes',
             'url': '/name/nm0578949/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 235197,
-                     'ratingValue': '6.6',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 235197,
+                      'ratingValue': '6.6',
+                      'worstRating': '1.0'}],
  'contentRating': 'PG-13',
  'creator': [{'@type': 'Person',
               'name': 'Adam McKay',
@@ -39,23 +39,23 @@
                 'Wahlberg, and Derek Jeter. Two mismatched New York City '
                 "detectives seize an opportunity to step up like the city's "
                 "top cops, whom they idolize, only things don't quite go as...",
- 'director': {'@type': 'Person',
-              'name': 'Adam McKay',
-              'url': '/name/nm0570912/'},
+ 'director': [{'@type': 'Person',
+               'name': 'Adam McKay',
+               'url': '/name/nm0570912/'}],
  'duration': 'PT1H47M',
  'genre': ['Action', 'Comedy', 'Crime'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTc0NDQzNTA2Ml5BMl5BanBnXkFtZTcwNzI2OTQzMw@@._V1_.jpg',
  'keywords': 'detective,police,new york city,original story,buddy',
  'name': 'The Other Guys',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Two mismatched New York City detectives (Ferrell '
-                            'and Wahlberg) seize an opportunity to step up '
-                            "like the city's top cops whom they idolize -- "
-                            "only things don't quite go as planned.",
-             'embedUrl': '/video/imdb/vi1253639705',
-             'name': 'The Other Guys: International Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTM5MTI1MzI2OF5BMl5BanBnXkFtZTcwMTM0MTk1Mw@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTM5MTI1MzI2OF5BMl5BanBnXkFtZTcwMTM0MTk1Mw@@._V1_.jpg',
-             'uploadDate': '2010-06-22T07:44:54Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Two mismatched New York City detectives (Ferrell '
+                             'and Wahlberg) seize an opportunity to step up '
+                             "like the city's top cops whom they idolize -- "
+                             "only things don't quite go as planned.",
+              'embedUrl': '/video/imdb/vi1253639705',
+              'name': 'The Other Guys: International Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTM5MTI1MzI2OF5BMl5BanBnXkFtZTcwMTM0MTk1Mw@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTM5MTI1MzI2OF5BMl5BanBnXkFtZTcwMTM0MTk1Mw@@._V1_.jpg',
+              'uploadDate': '2010-06-22T07:44:54Z'}],
  'url': '/title/tt1386588/'}

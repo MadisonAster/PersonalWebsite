@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Madeleine West',
             'url': '/name/nm0922210/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 241692,
-                     'ratingValue': '7.5',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 241692,
+                      'ratingValue': '7.5',
+                      'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
               'name': 'Michael Spierig',
@@ -55,17 +55,17 @@
  'keywords': 'time travel,temporal agent,time machine,time paradox,in love '
              'with oneself',
  'name': 'Predestination',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'A Temporal Agent is sent on an intricate series '
-                            'of time-travel journeys designed to ensure the '
-                            'continuation of his law enforcement career for '
-                            'eternity. Now, on his final assignment, he must '
-                            'pursue the one criminal that has eluded him '
-                            'throughout time.',
-             'embedUrl': '/video/imdb/vi100904729',
-             'name': 'International Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjIzMTIzNzYyNV5BMl5BanBnXkFtZTgwNTQwMDE0MzE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjIzMTIzNzYyNV5BMl5BanBnXkFtZTgwNTQwMDE0MzE@._V1_.jpg',
-             'uploadDate': '2014-11-12T10:20:32Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'A Temporal Agent is sent on an intricate series '
+                             'of time-travel journeys designed to ensure the '
+                             'continuation of his law enforcement career for '
+                             'eternity. Now, on his final assignment, he must '
+                             'pursue the one criminal that has eluded him '
+                             'throughout time.',
+              'embedUrl': '/video/imdb/vi100904729',
+              'name': 'International Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMjIzMTIzNzYyNV5BMl5BanBnXkFtZTgwNTQwMDE0MzE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMjIzMTIzNzYyNV5BMl5BanBnXkFtZTgwNTQwMDE0MzE@._V1_.jpg',
+              'uploadDate': '2014-11-12T10:20:32Z'}],
  'url': '/title/tt2397535/'}

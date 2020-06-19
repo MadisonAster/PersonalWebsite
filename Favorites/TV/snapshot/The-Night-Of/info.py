@@ -14,11 +14,11 @@
            {'@type': 'Person',
             'name': 'Amara Karan',
             'url': '/name/nm2496312/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 110805,
-                     'ratingValue': '8.5',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 110805,
+                      'ratingValue': '8.5',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Richard Price',
@@ -41,14 +41,14 @@
  'keywords': 'murder investigation,eczema,muslim,rikers island new york '
              'city,based on british tv series',
  'name': 'The Night Of',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'After a night of partying with a female stranger, '
-                            'a man wakes up to find her stabbed to death and '
-                            'is charged with her murder.',
-             'embedUrl': '/video/imdb/vi2516104985',
-             'name': 'Tonight 9 p.m.',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTYxMjA5MzY1MF5BMl5BanBnXkFtZTgwNDI4MzczOTE@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTYxMjA5MzY1MF5BMl5BanBnXkFtZTgwNDI4MzczOTE@._V1_.jpg',
-             'uploadDate': '2016-07-08T00:40:05Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'After a night of partying with a female '
+                             'stranger, a man wakes up to find her stabbed to '
+                             'death and is charged with her murder.',
+              'embedUrl': '/video/imdb/vi2516104985',
+              'name': 'Tonight 9 p.m.',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTYxMjA5MzY1MF5BMl5BanBnXkFtZTgwNDI4MzczOTE@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTYxMjA5MzY1MF5BMl5BanBnXkFtZTgwNDI4MzczOTE@._V1_.jpg',
+              'uploadDate': '2016-07-08T00:40:05Z'}],
  'url': '/title/tt2401256/'}

@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Maria Blasucci',
             'url': '/name/nm3675501/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 8483,
-                     'ratingValue': '7.8',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 8483,
+                      'ratingValue': '7.8',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-14',
  'creator': [{'@type': 'Person',
               'name': 'Jeremy Konner',
@@ -40,14 +40,15 @@
  'image': 'https://m.media-amazon.com/images/M/MV5BMTY5MTEzNTY4MV5BMl5BanBnXkFtZTcwNjUzMTA3OQ@@._V1_.jpg',
  'keywords': '2010s,u.s. president,president,american history,army',
  'name': 'Drunk History',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'If you want to find out how Frankenstein came to '
-                            'be or whether John F. Kennedy ever took meth, '
-                            'then get excited for Season 6 of "Drunk History".',
-             'embedUrl': '/video/imdb/vi120896025',
-             'name': 'Season 6 Official Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZGE3YTRlYzEtMTJjMS00ZjY0LThiMDAtZmEyNTQxN2ZmZDI5XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZGE3YTRlYzEtMTJjMS00ZjY0LThiMDAtZmEyNTQxN2ZmZDI5XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg',
-             'uploadDate': '2018-12-20T00:15:05Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'If you want to find out how Frankenstein came to '
+                             'be or whether John F. Kennedy ever took meth, '
+                             'then get excited for Season 6 of "Drunk '
+                             'History".',
+              'embedUrl': '/video/imdb/vi120896025',
+              'name': 'Season 6 Official Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZGE3YTRlYzEtMTJjMS00ZjY0LThiMDAtZmEyNTQxN2ZmZDI5XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZGE3YTRlYzEtMTJjMS00ZjY0LThiMDAtZmEyNTQxN2ZmZDI5XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg',
+              'uploadDate': '2018-12-20T00:15:05Z'}],
  'url': '/title/tt2712612/'}

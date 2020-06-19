@@ -18,11 +18,11 @@
            {'@type': 'Person',
             'name': 'Patrick Fabian',
             'url': '/name/nm0264579/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 294520,
-                     'ratingValue': '8.7',
-                     'worstRating': '1.0'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 294520,
+                      'ratingValue': '8.7',
+                      'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
               'name': 'Vince Gilligan',
@@ -45,14 +45,14 @@
  'keywords': 'character flaw,prequel,spin off,financial struggle,shared '
              'universe',
  'name': 'Better Call Saul',
- 'trailer': {'@type': 'VideoObject',
-             'description': 'Welcome to Saul Goodman\'s world. "Better Call '
-                            'Saul" Season 5 premieres Sunday, February 23, '
-                            '2020.',
-             'embedUrl': '/video/imdb/vi4166106905',
-             'name': 'Season 5 Trailer',
-             'thumbnail': {'@type': 'ImageObject',
-                           'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZWEyOTRmN2QtNDlmZS00YThiLWEzNGEtNzIxYTc4OTBjNDY0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
-             'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZWEyOTRmN2QtNDlmZS00YThiLWEzNGEtNzIxYTc4OTBjNDY0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
-             'uploadDate': '2020-01-30T04:14:46Z'},
+ 'trailer': [{'@type': 'VideoObject',
+              'description': 'Welcome to Saul Goodman\'s world. "Better Call '
+                             'Saul" Season 5 premieres Sunday, February 23, '
+                             '2020.',
+              'embedUrl': '/video/imdb/vi4166106905',
+              'name': 'Season 5 Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZWEyOTRmN2QtNDlmZS00YThiLWEzNGEtNzIxYTc4OTBjNDY0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZWEyOTRmN2QtNDlmZS00YThiLWEzNGEtNzIxYTc4OTBjNDY0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
+              'uploadDate': '2020-01-30T04:14:46Z'}],
  'url': '/title/tt3032476/'}

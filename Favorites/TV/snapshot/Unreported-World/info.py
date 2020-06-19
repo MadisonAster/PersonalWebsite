@@ -18,12 +18,12 @@
            {'@type': 'Person',
             'name': 'Ade Adepitan',
             'url': '/name/nm1583979/'}],
- 'aggregateRating': {'@type': 'AggregateRating',
-                     'bestRating': '10.0',
-                     'ratingCount': 99,
-                     'ratingValue': '8.3',
-                     'worstRating': '1.0'},
- 'creator': {'@type': 'Organization', 'url': '/company/co0103528/'},
+ 'aggregateRating': [{'@type': 'AggregateRating',
+                      'bestRating': '10.0',
+                      'ratingCount': 99,
+                      'ratingValue': '8.3',
+                      'worstRating': '1.0'}],
+ 'creator': [{'@type': 'Organization', 'url': '/company/co0103528/'}],
  'datePublished': '2000-09-08',
  'description': 'Unreported World is a TV series starring Krishnan '
                 "Guru-Murthy, Marcel Theroux, and Seyi Rhodes. Channel 4's "
