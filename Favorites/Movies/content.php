@@ -65,7 +65,9 @@ foreach ($Moviedirs as &$dir){
         
         echo "    <a target='_blank' href='".$infoArray['EntryURL']."'>IMDB</a>\n";
         
-        if (sizeof($infoArray['genre']) > 1) {
+        //if (sizeof($infoArray['genre']) > 1) {
+        //if (!empty($infoArray['genre'])) {
+        if (is_array($infoArray['genre']) && sizeof($infoArray['genre']) > 1) {
             echo "    Genres:\n";
             echo "    ".implode(", ", $infoArray['genre'])."\n";
             echo "    <br/>\n";
@@ -73,7 +75,9 @@ foreach ($Moviedirs as &$dir){
         
         echo "    <br/>\n";
         
-        if (sizeof($infoArray['director']) > 1) {
+        //if (sizeof($infoArray['director']) > 1) {
+        //if (!empty($infoArray['director'])) {
+        if (is_array($infoArray['director']) && sizeof($infoArray['director']) > 1) {
             echo "    Director:\n";
             echo "    ";
             foreach ($infoArray['director'] as &$director){
@@ -82,7 +86,9 @@ foreach ($Moviedirs as &$dir){
             echo "\n";
         };
         
-        if (sizeof($infoArray['actor']) > 1) {
+        //if (sizeof($infoArray['actor']) > 1) {
+        //if (!empty($infoArray['actor'])) {
+        if (is_array($infoArray['actor']) && sizeof($infoArray['actor']) > 1) {
             echo "    Actors:\n";
             echo "    ";
             foreach ($infoArray['actor'] as &$actor){
