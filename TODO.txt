@@ -54,8 +54,8 @@ DONE - Fix Favorites Page mobile scaling
 DONE - Arrest New Tab race condition
 DONE = Fix Backups
 DONE - Add PHP Container
+DONE - Fix PHP compatability
 
-Fix PHP compatability
 Add Firefox container
 Add Compose file
 
