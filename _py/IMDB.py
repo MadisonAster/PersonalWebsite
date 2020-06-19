@@ -71,7 +71,14 @@ def GetIMDB(url, HtmlDir, OutputDir, UpdateAll=False):
                 Item['EntryAdded'] = Entry['EntryAdded']
             if not os.path.exists(HtmlDir+EntryPath):
                 os.makedirs(HtmlDir+EntryPath)
+                
             Entry = Item #Overwrite possibly existing Entry reference here to update data
+        
+        #Sanitize Child Arrays
+        for key in Entry.keys():
+            if type(Entry[key]) == dict:
+                Entry[key] = [Entry[key]]
+            
         Entries[Entry['EntryURL']] = Entry
         if 'image' in Entry.keys():
             GatherFavorites.DownloadThumbIfNecessary(Entry['image'], HtmlDir+Entry['Entry_thumb'])
