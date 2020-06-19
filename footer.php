@@ -2,6 +2,6 @@
     Copyright Madison Aster <?php
 //$today = getdate();
 $today = getdate();
-echo $today[year];
+echo $today['year'];
 ?>. All rights reserved.
     </p>
