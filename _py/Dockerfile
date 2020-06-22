@@ -33,12 +33,11 @@ RUN apt-get update && apt-get install -y ffmpeg
 #RUN pip install rawgpy
 
 
-
 RUN apt-get update 
 RUN apt-get -y install cron
-COPY crontest /etc/cron.d/crontest
-RUN chmod 0744 /etc/cron.d/crontest
-RUN crontab /etc/cron.d/crontest
+COPY crontest.sh /etc/cron.d/crontest.sh
+RUN chmod 0744 /etc/cron.d/crontest.sh
+RUN crontab /etc/cron.d/crontest.sh
 RUN touch /var/log/cron.log
 CMD cron && tail -f /var/log/cron.log
 
