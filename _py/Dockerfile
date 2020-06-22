@@ -34,6 +34,8 @@ ADD firefox/user.js /moz-headless/
 
 ##########PYTHON LIBRARIES#########
 RUN pip3 install beautifulsoup4
+RUN pip3 install lxml
+RUN pip3 install html5lib
 RUN pip3 install requests
 RUN pip3 install rawgpy
 ###################################
@@ -48,6 +50,17 @@ CMD cron && tail -f /cron.log
 ###################################
 
 
-###########COPY CODE###############
+######CREATE PROJECT STRUCTURE#####
+RUN mkdir -p /Favorites/Books/snapshot
+RUN mkdir -p /Favorites/TV/snapshot
+RUN mkdir -p /Favorites/Movies/snapshot
+RUN mkdir -p /Favorites/Games/snapshot
+RUN mkdir -p /Favorites/Bookmarks/snapshot
+RUN mkdir -p /IMDB/snapshot
+RUN mkdir -p /GitHub/snapshot
+RUN mkdir -p /Codewars/snapshot
+RUN mkdir -p /LinkedIn/snapshot
+
 COPY . /_py
 ###################################
+
