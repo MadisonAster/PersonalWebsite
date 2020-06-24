@@ -1,5 +1,6 @@
 /_old
 /_testing
+/_logs
 .git-ftp.log
 .git-ftp-tmp
 /stats
