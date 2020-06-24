@@ -18,6 +18,8 @@ def main(FunctionName, url, SnapshotFolder):
         GetCodeWars(url, HtmlDir+SnapshotFolder)
     elif FunctionName == 'GetLinkedIn':
         GetLinkedIn(url, HtmlDir+SnapshotFolder)
+    
+    print('Snapshot Captured!')
 
 def GetElementsBySearchString(html, SearchString):
     sections = html.split(SearchString)

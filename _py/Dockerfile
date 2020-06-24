@@ -48,7 +48,7 @@ RUN mkdir -p /Favorites/Games/snapshot
 RUN mkdir -p /Favorites/Bookmarks/snapshot
 RUN mkdir -p /IMDB/snapshot
 RUN mkdir -p /GitHub/snapshot
-RUN mkdir -p /Codewars/snapshot
+RUN mkdir -p /CodeWars/snapshot
 RUN mkdir -p /LinkedIn/snapshot
 ###################################
 
