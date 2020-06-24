@@ -58,6 +58,14 @@ DONE - Fix PHP compatability
 DONE - Add Firefox container
 
 Add Compose file
+Add snapshots Folder Linkage
+Add Kind layer
+AWS deployment
+Separate Firefox Container
+Create Screenshots Container
+Create Mailer Daemon Container
+Change PHP container to nginx
+
 
 Improve loading times 
     Use php to fill current page.
