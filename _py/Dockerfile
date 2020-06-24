@@ -22,11 +22,15 @@ RUN apt-get update && apt-get install -y ffmpeg
 RUN add-apt-repository -y ppa:mozillateam/firefox-next
 RUN apt-get update && apt-get install -y firefox && rm -rf /var/lib/apt/lists/*
 RUN firefox -CreateProfile "headless /moz-headless"  -headless
-ADD firefox/user.js /moz-headless/
+#ADD firefox/prefs.js /moz-headless/
 
-#ADD firefox/index.html /root/
+COPY FirefoxPrefs.js /moz-headless/prefs.js
+COPY ./config/firefoxprofile/ /moz-headless
+
 #EXPOSE 6000
-#CMD ["firefox", "-p", "headless", "-headless", "--start-debugger-server", "6000", "file:///root/index.html"]
+#CMD ["firefox", "-P", "headless", "-headless", "--start-debugger-server", "6000", "file:///root/index.html"]
+#CMD ["firefox", "-P", "headless", "-headless"]
+
 
 #Fix Firefox database sync here
 ###################################

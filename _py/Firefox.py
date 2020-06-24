@@ -6,15 +6,13 @@ from pprint import pprint
 import GatherFavorites
 
 
-def main(username):
+def main(profile_path):
     ############Paths################
     HtmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0].replace('\\','/')
     OutputDir = 'Favorites/Bookmarks/snapshot/'
     UpdateAll = GatherFavorites.GetSchedule()
     
-    bookmarks_path = "C:/Users/"+username+"/AppData/Roaming/Mozilla/Firefox/Profiles/"
-    profiles = [i for i in os.listdir(bookmarks_path) if i.endswith('.default-release')]
-    sqlite_path = bookmarks_path+ profiles[0]+'/places.sqlite'
+    sqlite_path = profile_path+'/'+'places.sqlite'
     #################################
     
     ##########Get Data Tree##########
@@ -23,6 +21,9 @@ def main(username):
     cursor = firefox_connection.cursor()
     
     Bookmarks, StudiesFolder = GetFolderTree(cursor, TargetFolder='Studies')
+    print('Printing Bookmarks Tree!')
+    pprint(Bookmarks)
+    
     Bookmarks = GetBookmarks(cursor, Bookmarks)
     Bookmarks = GetKeywords(cursor, Bookmarks)
     #pprint(StudiesFolder)
@@ -96,6 +97,8 @@ def GetFolderTree(cursor, TargetFolder=None):
     #Takes:
     #Performs: Creates a dictionary tree called Bookmarks that contains only folders
     #Returns: A reference to the entire tree, as well as a reference to the tree from the specified folder down
+    
+    SelectedFolder = None
     
     SQLliteQuery="""
     SELECT moz_bookmarks.id, moz_bookmarks.parent, moz_bookmarks.title, moz_bookmarks.position
@@ -197,5 +200,11 @@ def GetKeywords(cursor, Bookmarks):
     return Bookmarks
 
 if __name__ == '__main__':
-    username = sys.argv[1]
-    main(username)
+    #For Windows
+    #profiles_path = "C:/Users/"+sys.argv[1]+"/AppData/Roaming/Mozilla/Firefox/Profiles"
+    #profile_path = profiles_path+'/'+[i for i in os.listdir(profiles_path) if i.endswith('.default-release')][0]
+    
+    #For Docker Container
+    profile_path =  "/moz-headless"
+    
+    main(profile_path)
