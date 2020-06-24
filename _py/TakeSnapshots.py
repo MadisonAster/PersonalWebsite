@@ -342,9 +342,9 @@ def GetIMDB(url, SnapshotFolder):
     html = html.replace("href='/", "href='"+domain)
     html = html.replace("<a", "<a target='_blank'")
     
-    html = html.replace(" - as Thomas McVay", "")
+    html = html.replace(" - as Thomas McVay", "") #Uggh why do I have to do this?
     if '<div id="details-akas"' in html:
-        html2 = html.split('<div id="details-akas"',1)
+        html2 = html.split('<div id="details-akas"',1) #Just no... stop it Amazon
         html = html2[0]+html2[1].split('</div>',1)[-1]
     html = html.replace("Thomas McVay", "")
     
@@ -381,6 +381,10 @@ def GetIMDB(url, SnapshotFolder):
     for i, a in enumerate(images):
         imgURL = a.split('src="',1)[1].split('"',1)[0]
         imgExt = imgURL.rsplit('.',1)[-1]
+        if len(imgExt) > 5:
+            imgExt = 'png'
+        elif len(imgExt) < 1:
+            imgExt = 'jpg'
         if imgURL != '' and imgExt != '': #Do better filename validity check here
             imgName = 'image_'+str(i).zfill(3)+'.'+imgExt
             imgFile = urllib.urlopen(imgURL)
