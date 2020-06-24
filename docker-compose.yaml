@@ -4,6 +4,7 @@ services:
   resume-service:
     build: .
     volumes:
+      - ./_logs:/_logs
       - ./Favorites/Books/snapshot:/var/www/html/Favorites/Books/snapshot
       - ./Favorites/TV/snapshot:/var/www/html/Favorites/TV/snapshot
       - ./Favorites/Movies/snapshot:/var/www/html/Favorites/Movies/snapshot
@@ -18,6 +19,7 @@ services:
   datascraper-service:
     build: ./_py
     volumes:
+      - ./_logs:/_logs
       - ./Favorites/Books/snapshot:/Favorites/Books/snapshot
       - ./Favorites/TV/snapshot:/Favorites/TV/snapshot
       - ./Favorites/Movies/snapshot:/Favorites/Movies/snapshot
