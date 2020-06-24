@@ -53,7 +53,7 @@
  'large_image_url': None,
  'link': 'https://www.goodreads.com/book/show/10284614-the-clean-coder',
  'num_pages': '210',
- 'publication_day': '23',
+ 'publication_day': '13',
  'publication_month': '5',
  'publication_year': '2011',
  'published': '2011',
