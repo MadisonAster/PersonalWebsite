@@ -24,8 +24,10 @@ RUN pip3 install lxml
 RUN pip3 install html5lib
 RUN pip3 install requests
 RUN pip3 install rawgpy
+RUN pip3 install pyyaml
 
-RUN python3 LoadConfig.py
+COPY . /_py
+RUN python3 _py/LoadConfig.py
 ###################################
 
 
@@ -33,13 +35,11 @@ RUN python3 LoadConfig.py
 RUN add-apt-repository -y ppa:mozillateam/firefox-next
 RUN apt-get update && apt-get install -y firefox && rm -rf /var/lib/apt/lists/*
 RUN firefox -CreateProfile "headless /moz-headless"  -headless
+
 #ADD firefox/prefs.js /moz-headless/
+#COPY FirefoxPrefs.js /moz-headless/prefs.js
 
-COPY FirefoxPrefs.js /moz-headless/prefs.js
 COPY ./config/firefoxprofile/ /moz-headless
-
-#EXPOSE 6000
-#CMD ["firefox", "-P", "headless", "-headless", "--start-debugger-server", "6000", "file:///root/index.html"]
 CMD ["firefox", "-P", "headless", "-headless"]
 ###################################
 
@@ -63,7 +63,5 @@ RUN mkdir -p /IMDB/snapshot
 RUN mkdir -p /GitHub/snapshot
 RUN mkdir -p /Codewars/snapshot
 RUN mkdir -p /LinkedIn/snapshot
-
-COPY . /_py
 ###################################
 

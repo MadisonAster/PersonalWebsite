@@ -7,4 +7,5 @@
 * * * * * echo "/var/www/html/_py/TakeSnapshots.py" >> /cron_LinkedIn.log
 * * * * * echo "/var/www/html/_py/IMDB.py" >> /cron_TV.log
 * * * * * echo "/var/www/html/_py/IMDB.py" >> /cron_Movies.log
+25 * * * * python3 /_py/Firefox.py /moz-headless Favorites/Bookmarks/snapshot/ >> /cron_Bookmarks.log
 # An empty line is required at the end of this file, line endings must be unix style (LF Only)
