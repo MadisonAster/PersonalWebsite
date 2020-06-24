@@ -1,0 +1,29 @@
+version: '3'
+
+services:
+    resume-service:
+        build: .
+        volumes:
+            - ./Favorites/Books/snapshot:/var/www/html/Favorites/Books/snapshot
+            - ./Favorites/TV/snapshot:/var/www/html/Favorites/TV/snapshot
+            - ./Favorites/Movies/snapshot:/var/www/html/Favorites/Movies/snapshot
+            - ./Favorites/Games/snapshot:/var/www/html/Favorites/Games/snapshot
+            - ./Favorites/Bookmarks/snapshot:/var/www/html/Favorites/Bookmarks/snapshot
+            - ./IMDB/snapshot:/var/www/html/IMDB/snapshot
+            - ./GitHub/snapshot:/var/www/html/GitHub/snapshot
+            - ./CodeWars/snapshot:/var/www/html/CodeWars/snapshot
+            - ./_LinkedIn/snapshot:/var/www/html/_LinkedIn/snapshot
+        ports:
+            - 5001:80
+    datascraper-service:
+        build: ./_py
+        volumes:
+            - ./Favorites/Books/snapshot:/Favorites/Books/snapshot
+            - ./Favorites/TV/snapshot:/Favorites/TV/snapshot
+            - ./Favorites/Movies/snapshot:/Favorites/Movies/snapshot
+            - ./Favorites/Games/snapshot:/Favorites/Games/snapshot
+            - ./Favorites/Bookmarks/snapshot:/Favorites/Bookmarks/snapshot
+            - ./IMDB/snapshot:/IMDB/snapshot
+            - ./GitHub/snapshot:/GitHub/snapshot
+            - ./CodeWars/snapshot:/CodeWars/snapshot
+            - ./_LinkedIn/snapshot:/_LinkedIn/snapshot
