@@ -6,10 +6,10 @@ from pprint import pprint
 import GatherFavorites
 
 
-def main(profile_path):
+def main(profile_path, OutputDir):
     ############Paths################
     HtmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0].replace('\\','/')
-    OutputDir = 'Favorites/Bookmarks/snapshot/'
+    
     UpdateAll = GatherFavorites.GetSchedule()
     
     sqlite_path = profile_path+'/'+'places.sqlite'
@@ -205,6 +205,10 @@ if __name__ == '__main__':
     #profile_path = profiles_path+'/'+[i for i in os.listdir(profiles_path) if i.endswith('.default-release')][0]
     
     #For Docker Container
-    profile_path =  "/moz-headless"
+    #profile_path =  "/moz-headless"
+    profile_path = sys.argv[1]
     
-    main(profile_path)
+    #OutputDir = 'Favorites/Bookmarks/snapshot/'
+    OutputDir = sys.argv[2]
+    
+    main(profile_path, OutputDir)

@@ -22,16 +22,23 @@ def FireFox_CreateProfile(Config, FireFox_ProfilePath, FireFox_PrefsPath):
         file.write(filetext)
 
 if __name__ == '__main__':
+    print('LoadConfig!')
+
     ConfigFilePath = os.path(__file__).split('_py',1)[0]+'config/userconfig.yaml'
+    print('ConfigFilePath', ConfigFilePath)
     Config = Load_Config(ConfigFilePath)
+    pprint(Config)
     
     
     CronJobsPath = os.path(__file__).split('_py',1)[0]+'cronjobs_example.sh'
+    print('CronJobsPath', CronJobsPath)
     Create_CronJobs(Config, CronJobsPath)
     
     
     FireFox_ProfilePath = os.path(__file__).split('_py',1)[0]+'config/firefoxprofile/'
+    print('FireFox_ProfilePath', FireFox_ProfilePath)
     FireFox_PrefsPath = os.path(__file__).split('_py',1)[0]+'FirefoxPrefs.js'
+    print('FireFox_ProfilePath', FireFox_ProfilePath)
     FireFox_CreateProfile(Config, FireFox_ProfilePath, FireFox_PrefsPath)
     
     #Copy these files from your Firefox profile folder (usually in AppData)
