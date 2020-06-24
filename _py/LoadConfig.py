@@ -6,12 +6,12 @@ def Load_Config(ConfigFilePath):
         data_loaded = yaml.safe_load(stream)
     return dict(data_loaded)
 
-def Create_CronJobs(Config, CronJobsPath):
+def Create_CronJobs(Config, CronJobsPath, CronJobs_DestPath):
     with open(CronJobsPath, 'r') as file:
         filetext = file.read()
     for key in Config.keys():
         filetext = filetext.replace('{'+key+'}', str(Config[key]))
-    with open(CronJobsPath, 'w') as file:
+    with open(CronJobs_DestPath, 'w') as file:
         file.write(filetext)
     print(filetext)
     
@@ -33,8 +33,12 @@ if __name__ == '__main__':
     pprint(Config)
     
     CronJobsPath = _py+'/cronjobs.sh'
+    CronTestPath = _py+'/crontest.sh'
+    CronJobs_DestPath = '/etc/cron.d/cronjobs.sh'
+    CronTest_DestPath = '/etc/cron.d/crontest.sh'
     print('CronJobsPath', CronJobsPath)
-    Create_CronJobs(Config, CronJobsPath)
+    Create_CronJobs(Config, CronJobsPath, CronJobs_DestPath)
+    Create_CronJobs(Config, CronTestPath, CronTest_DestPath)
     
     FireFox_PrefsPath = _py+'/FirefoxPrefs.js'
     print('FireFox_PrefsPath', FireFox_PrefsPath)

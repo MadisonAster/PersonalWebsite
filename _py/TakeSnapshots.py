@@ -397,7 +397,10 @@ def GetIMDB(url, SnapshotFolder):
     ###############################################################
 
 if __name__ == '__main__':
-    FunctionName = sys.argv[1]
-    url = sys.argv[2]
-    SnapshotFolder = sys.argv[3]
-    main(FunctionName, url, SnapshotFolder)
+    try:
+        FunctionName = sys.argv[1]
+        url = sys.argv[2]
+        SnapshotFolder = sys.argv[3]
+        main(FunctionName, url, SnapshotFolder)
+    except:
+        print(traceback.format_exc())
