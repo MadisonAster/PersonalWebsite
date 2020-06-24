@@ -49,3 +49,8 @@ if __name__ == '__main__':
     #   signedInUser.json
     
     
+    #To help find the path to your profile you can run:
+    #profiles_path = "C:/Users/"+sys.argv[1]+"/AppData/Roaming/Mozilla/Firefox/Profiles"
+    #profile_path = profiles_path+'/'+[i for i in os.listdir(profiles_path) if i.endswith('.default-release')][0]
+    
+    
