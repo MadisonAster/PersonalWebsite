@@ -58,16 +58,17 @@ RUN python3 _py/LoadConfig.py
 ###################################
 
 
-############RUN FIREFOX############
-CMD ["firefox", "-P", "headless", "-headless"]
-###################################
-
-
 ##########RUN CRON JOBS############
 COPY crontest.sh /etc/cron.d/crontest.sh
 RUN chmod 0744 /etc/cron.d/crontest.sh
 RUN crontab /etc/cron.d/crontest.sh
 RUN touch /cron.log
-CMD cron && tail -f /cron.log
+###################################
+
+
+########RUN FIREFOX && CRON########
+#CMD firefox -P headless -headless >> /firefox.log
+#CMD cron && tail -f /cron.log
+CMD firefox -P headless -headless >> /firefox.log && cron && tail -f /cron.log
 ###################################
 

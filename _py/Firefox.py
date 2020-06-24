@@ -1,4 +1,4 @@
-import os, sys
+import os, sys, shutil
 import datetime, time
 import sqlite3
 from pprint import pprint
@@ -6,13 +6,11 @@ from pprint import pprint
 import GatherFavorites
 
 
-def main(profile_path, OutputDir):
+def main(sqlite_path, OutputDir):
     ############Paths################
     HtmlDir = os.path.dirname(os.path.abspath(__file__)).rsplit('_py',1)[0].replace('\\','/')
     
     UpdateAll = GatherFavorites.GetSchedule()
-    
-    sqlite_path = profile_path+'/'+'places.sqlite'
     #################################
     
     ##########Get Data Tree##########
@@ -206,4 +204,10 @@ if __name__ == '__main__':
     #OutputDir = 'Favorites/Bookmarks/snapshot/'
     OutputDir = sys.argv[2]
     
-    main(profile_path, OutputDir)
+    sqlite_path = profile_path+'/'+'places.sqlite'
+    sqlite_path2 = profile_path+'/'+'places2.sqlite'
+    print('sqlite_path', sqlite_path)
+    print('sqlite_path2', sqlite_path2)
+    
+    shutil.copy(sqlite_path, sqlite_path2)
+    main(sqlite_path2, OutputDir)

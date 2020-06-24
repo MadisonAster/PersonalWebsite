@@ -27,10 +27,10 @@ user_pref("services.sync.engine.tabs", false);
 
 user_pref("services.sync.username", "{USERNAME}");
 
-//user_pref("services.sync.log.appender.console", "Trace");
-//user_pref("services.sync.log.appender.dump", "Trace");
-//user_pref("services.sync.log.appender.file.level", "Trace");
-//user_pref("services.sync.log.appender.file.logOnSuccess", true);
-//user_pref("services.sync.log.logger", "Trace");
-//user_pref("services.sync.log.logger.engine", "Trace");
+user_pref("services.sync.log.appender.console", "Trace");
+user_pref("services.sync.log.appender.dump", "Trace");
+user_pref("services.sync.log.appender.file.level", "Trace");
+user_pref("services.sync.log.appender.file.logOnSuccess", true);
+user_pref("services.sync.log.logger", "Trace");
+user_pref("services.sync.log.logger.engine", "Trace");
 
