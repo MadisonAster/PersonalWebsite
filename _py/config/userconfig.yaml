@@ -1,0 +1,10 @@
+GoodReads_UserNumber: USERNUMBER
+GoodReads_ApiKey: API_KEY
+Rawg_UserName: USERNAME
+GitHub_SnapshotURL: http://github.com/USERNAME
+IMDB_SnapshotURL: http://github.com/USERNAME
+CodeWars_SnapshotURL: http://github.com/USERNAME
+LinkedIn_SnapshotURL: https://www.linkedin.com/in/USERNAME
+FavoriteTV_ListURL: https://www.imdb.com/list/LISTNUMBER
+FavoriteMovies_ListURL: https://www.imdb.com/list/LISTNUMBER
+services.sync.username: USERNAME@EXAMPLE.COM
