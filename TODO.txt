@@ -55,8 +55,8 @@ DONE - Arrest New Tab race condition
 DONE = Fix Backups
 DONE - Add PHP Container
 DONE - Fix PHP compatability
+DONE - Add Firefox container
 
-Add Firefox container
 Add Compose file
 
 Improve loading times 
