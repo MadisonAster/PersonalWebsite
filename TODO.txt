@@ -56,9 +56,9 @@ DONE = Fix Backups
 DONE - Add PHP Container
 DONE - Fix PHP compatability
 DONE - Add Firefox container
+DONE - Add Compose file
+DONE - Fix Live Development environment
 
-Add Compose file
-Add snapshots Folder Linkage
 Add Kind layer
 AWS deployment
 Separate Firefox Container
