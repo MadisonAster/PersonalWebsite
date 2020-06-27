@@ -9,3 +9,25 @@ spec:
         protocol: TCP
         port: 80
         targetPort: 8080
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: resume-deployment
+  labels:
+    role: webserver
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      role: webserver
+  template:
+    metadata:
+      labels:
+        role: webserver
+    spec:
+      containers:
+      - name: resume
+        image: httpd
+        ports:
+        - containerPort: 80
