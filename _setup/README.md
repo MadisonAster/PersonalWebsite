@@ -1,6 +1,6 @@
 # Setup
 
-##     Prerequisites
+## . Prerequisites
         ```
         envsubst
         Python3
