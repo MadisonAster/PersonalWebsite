@@ -1,0 +1,33 @@
+GoodReads_UserNumber: USERNUMBER
+GoodReads_ApiKey: API_KEY
+Rawg_UserName: USERNAME
+GitHub_SnapshotURL: http://github.com/USERNAME
+IMDB_SnapshotURL: http://github.com/USERNAME
+CodeWars_SnapshotURL: http://github.com/USERNAME
+LinkedIn_SnapshotURL: https://www.linkedin.com/in/USERNAME
+FavoriteTV_ListURL: https://www.imdb.com/list/LISTNUMBER
+FavoriteMovies_ListURL: https://www.imdb.com/list/LISTNUMBER
+services.sync.username: USERNAME@EXAMPLE.COM
+aws_account_id: ACCOUNTNUMBER
+aws_region: us-west-2
+instanceType: t3.small
+
+######TODO: Need to generate everything below this point in eks_setup.sh######
+
+aws_key_path: null
+resume_image: null
+datascraper_image: null
+efs_volumeHandle: null
+
+aws_ec2instance_name: null
+aws_efsvolume_name: null
+aws_ekscluster_name: null
+aws_keypair_name: null
+aws_loadbalancer_name: null
+aws_route53_name: null
+aws_securitygroup_name: null
+aws_vpc_name: null
+subnet1_name: null
+subnet2_name: null
+subnet3_name: null
+subnet4_name: null

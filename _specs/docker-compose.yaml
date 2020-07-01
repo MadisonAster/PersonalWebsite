@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  resume-service:
+    build: ../
+    volumes:
+      - ../:/var/www/html/
+    ports:
+      - 8080:80
+  datascraper-service:
+    build: ../_py
+    volumes:
+      - ../_logs:/mnt/w/_logs
+      - ../Favorites/Books/snapshot:/mnt/w/Favorites/Books/snapshot
+      - ../Favorites/TV/snapshot:/mnt/w/Favorites/TV/snapshot
+      - ../Favorites/Movies/snapshot:/mnt/w/Favorites/Movies/snapshot
+      - ../Favorites/Games/snapshot:/mnt/w/Favorites/Games/snapshot
+      - ../Favorites/Bookmarks/snapshot:/mnt/w/Favorites/Bookmarks/snapshot
+      - ../IMDB/snapshot:/mnt/w/IMDB/snapshot
+      - ../GitHub/snapshot:/mnt/w/GitHub/snapshot
+      - ../CodeWars/snapshot:/mnt/w/CodeWars/snapshot
+      - ../_LinkedIn/snapshot:/mnt/w/_LinkedIn/snapshot

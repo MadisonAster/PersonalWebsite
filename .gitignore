@@ -1,6 +1,7 @@
 /_old
 /_testing
 /_logs
+/_config
 .git-ftp.log
 .git-ftp-tmp
 /stats
@@ -8,6 +9,5 @@
 Thumbs.db
 .DS_Store
 Desktop.ini
+
 _js/Windows95Maze/
-_py/cronjobs.sh
-_py/config

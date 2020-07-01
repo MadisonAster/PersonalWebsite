@@ -5,10 +5,12 @@
 **/Dockerfile
 **/README.md
 **/.drone.yml
-**/docker-compose.yml
 **/Thumbs.db
 **/.DS_Store
 **/Desktop.ini
 
+**/_specs
+**/_setup
+**/_config
 **/_old
 **/_py

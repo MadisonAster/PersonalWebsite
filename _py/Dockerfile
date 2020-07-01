@@ -1,6 +1,6 @@
 ###############MAIN################
 FROM ubuntu:latest
-WORKDIR /
+WORKDIR /mnt/w/
 ENV LC_ALL C
 ENV DEBIAN_FRONTEND noninteractive
 ENV DEBCONF_NONINTERACTIVE_SEEN true
@@ -23,8 +23,6 @@ RUN add-apt-repository -y ppa:mozillateam/firefox-next
 RUN apt-get update && apt-get install -y firefox && rm -rf /var/lib/apt/lists/*
 RUN firefox -CreateProfile "headless /moz-headless"  -headless
 COPY ./config/firefoxprofile/ /moz-headless
-#ADD firefox/prefs.js /moz-headless/
-#COPY FirefoxPrefs.js /moz-headless/prefs.js
 ###################################
 
 
@@ -54,21 +52,21 @@ RUN mkdir -p /LinkedIn/snapshot
 
 
 ######LOAD CONFIG (FF & CRON)######
-RUN python3 _py/LoadConfig.py
+RUN python3 /_py/LoadConfig.py
 ###################################
 
 
 ##########RUN CRON JOBS############
-RUN chmod 0744 /etc/cron.d/crontest.sh
-RUN crontab /etc/cron.d/crontest.sh
-#RUN chmod 0744 /etc/cron.d/cronjobs.sh
-#RUN crontab /etc/cron.d/cronjobs.sh
+#RUN chmod 0744 /etc/cron.d/crontest.sh
+#RUN crontab /etc/cron.d/crontest.sh
+RUN chmod 0744 /etc/cron.d/cronjobs.sh
+RUN crontab /etc/cron.d/cronjobs.sh
 ###################################
 
 
 ########RUN FIREFOX && CRON########
-#CMD firefox -P headless -headless >> /firefox.log
-#CMD cron && tail -f /cron.log
-CMD cron && firefox -P headless -headless >> /firefox.log 
+#CMD firefox -P headless -headless >> /_logs/firefox.log
+#CMD cron && tail -f /_logs/cron.log
+CMD cron && firefox -P headless -headless >> /_logs/firefox.log 
 ###################################
 
