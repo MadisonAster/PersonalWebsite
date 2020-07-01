@@ -14,7 +14,7 @@
 
 ## Firefox Setup
 
-**SECURITY WARNING! I don't recommend using this feature if you synchronize passwords or other sensitive data in your mozilla account! Your credentials will be available to anyone who manages to break into the docker container. Mozilla does not provide a way to prevent this. You have been warned!**
+**SECURITY WARNING! I don't recommend using this feature if you synchronize passwords or other sensitive data in your mozilla account! Your credentials will be available to anyone who manages to break into the docker container. Mozilla does not provide a way to prevent this. Firefox would need to be modified to create a separate credential for giving access to only bookmarks data to avoid this issue. YOU HAVE BEEN WARNED!**
 
     Manually disable Mozilla Account Extension, tabs, and password sync
 
