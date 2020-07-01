@@ -13,7 +13,7 @@
         * Firefox account(For bookmarks features)
 
 ## Firefox Setup
-**.    SECURITY WARNING! I don't recommend using this feature if you synchronize passwords or other sensitive data in your mozilla account! Your credentials will be available to anyone who manages to break into the docker container. Mozilla does not provide a way to prevent this. You have been warned!**
+** SECURITY WARNING! I don't recommend using this feature if you synchronize passwords or other sensitive data in your mozilla account! Your credentials will be available to anyone who manages to break into the docker container. Mozilla does not provide a way to prevent this. You have been warned!**
 
     Manually disable Mozilla Account Extension, tabs, and password sync
 
@@ -42,13 +42,12 @@
 
 ## EKS Teardown
 
-#### .. Current Process
+####	Current Process
 > _setup/eks_teardown.sh
 
     On AWS manually delete VPC, KeyPair, SecurityGroup, EC2Instance, EFSVolume, LoadBalancer, Route53
 
 #### .. Future Process
-
 > _setup/eks_teardown.sh
 
 
