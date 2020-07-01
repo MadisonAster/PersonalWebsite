@@ -1,7 +1,6 @@
 # Setup
 
 ## . Prerequisites
-
         * envsubst
         * Python3
         * Docker
@@ -16,7 +15,7 @@
 ## . Firefox Setup
     Manually disable Mozilla Account Extension, tabs, and password sync
 
-    **SECURITY WARNING! I don't recommend using this feature if you synchronize passwords or other sensitive data in your mozilla account! Your credentials will be available to anyone who manages to break into the docker container. Mozilla does not provide a way to prevent this. You have been warned!**
+**    SECURITY WARNING! I don't recommend using this feature if you synchronize passwords or other sensitive data in your mozilla account! Your credentials will be available to anyone who manages to break into the docker container. Mozilla does not provide a way to prevent this. You have been warned!**
 
 > python3 _config/firefoxprofile/get_profile.py
 
