@@ -41,21 +41,16 @@
 ```
 
 ### .. Future Process
-```
-            _setup/eks_setup.sh
-```
+            *_setup/eks_setup.sh*
+
             Fill in _config/userconfig.yaml manually as desired excluding generated section
 
 ## . EKS Teardown
 
 ### .. Current Process
-*
-```
-            _setup/eks_teardown.sh
-```
-*
-            On AWS manually create VPC, KeyPair, SecurityGroup, EC2Instance, EFSVolume, LoadBalancer, Route53
-            run _setup/eks_teardown.sh
+            * *_setup/eks_teardown.sh*
+
+            * On AWS manually create VPC, KeyPair, SecurityGroup, EC2Instance, EFSVolume, LoadBalancer, Route53
 
 ### .. Future Process
 ```
