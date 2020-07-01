@@ -1,13 +1,10 @@
 **This project is currently under heavy development, and I don't suggest trying it out yourself yet**
 
 # Resume++
-
     A Kubernetes resume template for professional software engineers.
 
     ## Setup
-
         See _setup/README.md
-
 
     ## Major Features
         * Declaritive resource provisioning
