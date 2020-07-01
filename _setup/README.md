@@ -21,21 +21,21 @@
 
 ## . Docker Compose Setup
 
-### .. Running Locally
+#### .. Running Locally
 > docker-compose _specs/docker-compose.yaml
 
     Navigate to: http://localhost:8080
 
 ## . EKS Setup
 
-### .. Current Process
+#### .. Current Process
     On AWS manually create VPC, KeyPair, SecurityGroup, EC2Instance, EFSVolume, LoadBalancer, Route53
             
     Fill in _config/userconfig.yaml manually including generated section
     
 > _setup/eks_setup.sh
 
-### .. Future Process
+#### .. Future Process
 > _setup/eks_setup.sh
 
     Fill in _config/userconfig.yaml manually as desired excluding generated section
