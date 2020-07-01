@@ -1,20 +1,20 @@
 # Resume++ Setup
 
 ## Prerequisites
-        * envsubst
-        * Python3
-        * Docker
-        * Docker Compose (For local testing)
-        * AWS user account
-        * AWS command line tools
-        * AWS kubectl installation
-        * AWS configure
-        * WSL2 (If on Windows)
-        * Firefox account(For bookmarks features)
+* envsubst
+* Python3
+* Docker
+* Docker Compose (For local testing)
+* AWS user account
+* AWS command line tools
+* AWS kubectl installation
+* AWS configure
+* WSL2 (If on Windows)
+* Firefox account(For bookmarks features)
 
 ## Firefox Setup
 
-** SECURITY WARNING! I don't recommend using this feature if you synchronize passwords or other sensitive data in your mozilla account! Your credentials will be available to anyone who manages to break into the docker container. Mozilla does not provide a way to prevent this. You have been warned!**
+**SECURITY WARNING! I don't recommend using this feature if you synchronize passwords or other sensitive data in your mozilla account! Your credentials will be available to anyone who manages to break into the docker container. Mozilla does not provide a way to prevent this. You have been warned!**
 
     Manually disable Mozilla Account Extension, tabs, and password sync
 
