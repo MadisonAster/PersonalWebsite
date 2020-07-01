@@ -1,16 +1,16 @@
 # Resume++ Setup
 
 ## Prerequisites
-* envsubst
-* Python3
-* Docker
-* Docker Compose (For local testing)
-* AWS user account
-* AWS command line tools
-* AWS kubectl installation
-* AWS configure
-* WSL2 (If on Windows)
-* Firefox account(For bookmarks features)
+- [ ] envsubst
+- [ ] Python3
+- [ ] Docker
+- [ ] Docker Compose (For local testing)
+- [ ] AWS user account
+- [ ] AWS command line tools
+- [ ] AWS kubectl installation
+- [ ] AWS configure
+- [ ] WSL2 (If on Windows)
+- [ ] Firefox account(For bookmarks features)
 
 ## Firefox Setup
 
