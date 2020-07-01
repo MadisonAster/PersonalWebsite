@@ -53,7 +53,8 @@
     * On AWS manually create VPC, KeyPair, SecurityGroup, EC2Instance, EFSVolume, LoadBalancer, Route53
 
 #### .. Future Process
-    *_setup/eks_teardown.sh*
+
+*_setup/eks_teardown.sh*
 
 
 
