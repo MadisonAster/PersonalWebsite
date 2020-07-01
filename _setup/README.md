@@ -54,7 +54,7 @@
 
 #### .. Future Process
 
-*_setup/eks_teardown.sh*
+*    _setup/eks_teardown.sh*
 
 
 
