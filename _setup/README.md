@@ -42,7 +42,7 @@
 
 ## EKS Teardown
 
-####	Current Process
+	####Current Process
 > _setup/eks_teardown.sh
 
     On AWS manually delete VPC, KeyPair, SecurityGroup, EC2Instance, EFSVolume, LoadBalancer, Route53
