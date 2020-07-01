@@ -50,7 +50,7 @@
 
 ### .. Current Process
 ```
-            _setup/eks_teardown.sh
+_setup/eks_teardown.sh
 ```
             On AWS manually create VPC, KeyPair, SecurityGroup, EC2Instance, EFSVolume, LoadBalancer, Route53
             run _setup/eks_teardown.sh
