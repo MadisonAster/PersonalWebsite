@@ -27,7 +27,7 @@
 
     Navigate to: http://localhost:8080
 
-## EKS Setup
+## AWS Elastic Kubernetes Service Setup
 
 ####	Current Process
     On AWS manually create VPC, KeyPair, SecurityGroup, EC2Instance, EFSVolume, LoadBalancer, Route53
@@ -41,7 +41,7 @@
 
     Fill in _config/userconfig.yaml manually as desired excluding generated section
 
-## EKS Teardown
+## AWS Elastic Kubernetes Service Teardown
 
 ####	Current Process
 > _setup/eks_teardown.sh
