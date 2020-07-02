@@ -25,13 +25,13 @@
 ####	Running Locally
 > cd _setup
 
-> docker_build.sh
+> ./docker_build.sh
 
-> docker-compose_up.sh
+> ./docker-compose_up.sh
 
-    Navigate to: http://localhost:8080
+    Navigate browser to: [http://localhost:8080](http://localhost:8080)
     
-> docker-compose_down.sh
+> ./docker-compose_down.sh
 
 ## AWS Elastic Kubernetes Service Setup
 
