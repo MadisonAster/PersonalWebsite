@@ -28,7 +28,9 @@ spec:
     spec:
       containers:
       - name: resumeplusplus
-        image: ${resume_image}
+        image: php:apache
+        expose: 
+        - 80
         ports:
         - containerPort: 80
         volumeMounts:

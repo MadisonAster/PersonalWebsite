@@ -1,0 +1,1 @@
+docker-compose -f ../_specs/docker-compose.yaml down
