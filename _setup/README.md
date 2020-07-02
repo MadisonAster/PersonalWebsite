@@ -20,9 +20,7 @@
 
 > python3 _config/firefoxprofile/get_profile.py
 
-## Docker Compose Setup
-
-####	Running Locally
+## Docker Compose Setup (For Local Testing)
 > cd _setup
 
 > ./docker_build.sh
