@@ -1,7 +1,7 @@
 #declare $(python3 ../_py/ReadConfig.py)
 
-docker build ../ --tag resume
-docker build ../_py/ --tag datascraper
+docker build ../ --tag datascraper
+docker build ./_webserver --tag resume
 
 #cd ../
 #envsubst Dockerfile < docker build -f -

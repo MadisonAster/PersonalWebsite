@@ -25,7 +25,7 @@ user_pref("services.sync.engine.prefs", false);
 user_pref("services.sync.engine.prefs.modified", false);
 user_pref("services.sync.engine.tabs", false);
 
-user_pref("services.sync.username", "{USERNAME}");
+user_pref("services.sync.username", "{services_sync_username}");
 
 user_pref("services.sync.log.appender.console", "Trace");
 user_pref("services.sync.log.appender.dump", "Trace");

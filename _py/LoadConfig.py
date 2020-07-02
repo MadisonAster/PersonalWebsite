@@ -26,7 +26,9 @@ def FireFox_CreatePrefs(Config, FireFox_PrefsPath, FireFox_PrefsDestPath):
 if __name__ == '__main__':
     print('Running LoadConfig.py!')
     _py = os.path.dirname(os.path.abspath(__file__))
+    print('_py', _py)
     htmldir = _py.rsplit('_py',1)[0].rstrip('/')
+    print('htmldir', htmldir)
     
     if os.path.exists(htmldir+'/_config/myuserconfig.yaml'):
         ConfigFilePath = htmldir+'/_config/myuserconfig.yaml'
