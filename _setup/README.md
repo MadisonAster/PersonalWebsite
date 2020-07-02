@@ -24,7 +24,9 @@
 
 ####	Running Locally
 > cd _setup
+
 > docker_build.sh
+
 > docker-compose_up.sh
 
     Navigate to: http://localhost:8080
