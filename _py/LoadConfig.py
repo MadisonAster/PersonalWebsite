@@ -18,7 +18,7 @@ def Create_CronJobs(Config, CronJobsPath, CronJobs_DestPath):
 def FireFox_CreatePrefs(Config, FireFox_PrefsPath, FireFox_PrefsDestPath):
     with open(FireFox_PrefsPath, 'r') as file:
         filetext = file.read()
-    filetext = filetext.replace('{USERNAME}', Config['services.sync.username'])
+    filetext = filetext.replace('{USERNAME}', Config['services_sync_username'])
     with open(FireFox_PrefsDestPath, 'w') as file:
         file.write(filetext)
     print(filetext)

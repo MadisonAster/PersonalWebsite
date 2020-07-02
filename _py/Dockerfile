@@ -22,7 +22,7 @@ RUN apt-get update && apt-get install -y ffmpeg
 RUN add-apt-repository -y ppa:mozillateam/firefox-next
 RUN apt-get update && apt-get install -y firefox && rm -rf /var/lib/apt/lists/*
 RUN firefox -CreateProfile "headless /moz-headless"  -headless
-COPY ./config/firefoxprofile/ /moz-headless
+COPY ./_firefoxprofile/ /moz-headless
 ###################################
 
 

@@ -8,7 +8,7 @@ CodeWars_SnapshotURL: http://github.com/USERNAME
 LinkedIn_SnapshotURL: https://www.linkedin.com/in/USERNAME
 FavoriteTV_ListURL: https://www.imdb.com/list/LISTNUMBER
 FavoriteMovies_ListURL: https://www.imdb.com/list/LISTNUMBER
-services.sync.username: USERNAME@EXAMPLE.COM
+services_sync_username: USERNAME@EXAMPLE.COM
 aws_account_id: ACCOUNTNUMBER
 aws_region: us-west-2
 instanceType: t3.small
