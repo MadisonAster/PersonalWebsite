@@ -21,15 +21,13 @@
 > python3 _config/_firefoxprofile/get_profile.py
 
 ## Docker Compose Setup (For Local Testing)
-> cd _setup
+> docker build . --tag datascraper
 
-> ./docker_build.sh
-
-> ./docker-compose_up.sh
+> docker-compose -f _specs/docker-compose.yaml up -d 
 
     Navigate browser to: [http://localhost:8080](http://localhost:8080)
     
-> ./docker-compose_down.sh
+> docker-compose -f _specs/docker-compose.yaml down
 
 ## AWS Elastic Kubernetes Service Setup
 
