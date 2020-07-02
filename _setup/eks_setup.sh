@@ -36,7 +36,7 @@ awskubectl apply \
 
 
 #envsubst ../_specs/resume-service.yaml < cat -
-#envsubst ../_specs/resume-service.yaml < cat -
+#envsubst ../_specs/datascraper-service.yaml < cat -
 
 #envsubst ../_specs/resume-service.yaml < awskubectl apply -f -
 #envsubst ../_specs/datascraper-service.yaml < awskubectl apply -f -
