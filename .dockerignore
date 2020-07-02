@@ -9,8 +9,17 @@
 **/.DS_Store
 **/Desktop.ini
 
-**/_specs
+**/_Assets
+**/_css
+**/_js
+**/_LinkedIn
+
 **/_setup
-**/_config
-**/_old
-**/_py
+**/_specs
+**/About
+**/CodeWars
+**/Favorites
+**/GitHub
+**/IMDB
+**/Projects
+

@@ -18,7 +18,7 @@ def Create_CronJobs(Config, CronJobsPath, CronJobs_DestPath):
 def FireFox_CreatePrefs(Config, FireFox_PrefsPath, FireFox_PrefsDestPath):
     with open(FireFox_PrefsPath, 'r') as file:
         filetext = file.read()
-    filetext = filetext.replace('{USERNAME}', Config['services_sync_username'])
+    filetext = filetext.replace('{services_sync_username}', Config['services_sync_username'])
     with open(FireFox_PrefsDestPath, 'w') as file:
         file.write(filetext)
     print(filetext)
@@ -46,7 +46,7 @@ if __name__ == '__main__':
     Create_CronJobs(Config, CronJobsPath, CronJobs_DestPath)
     Create_CronJobs(Config, CronTestPath, CronTest_DestPath)
     
-    FireFox_PrefsPath = htmldir+'/_config/FirefoxPrefs.js'
+    FireFox_PrefsPath = htmldir+'/_py/FirefoxPrefs.js'
     print('FireFox_PrefsPath', FireFox_PrefsPath)
     FireFox_PrefsDestPath = '/moz-headless/prefs.js'
     print('FireFox_PrefsDestPath', FireFox_PrefsDestPath)
