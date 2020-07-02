@@ -1,7 +1,6 @@
-declare $(python3 ../_py/ReadConfig.py)
-
-envsubst ../_specs/aws_efscluster.yaml < cat -
-#envsubst ../_specs/aws_efscluster.yaml < eksctl delete cluster -f -
+eval $(python3 ../_py/ReadConfig.py)
+envsubst < ../_specs/aws_ekscluster.yaml 
+#envsubst ../_specs/aws_ekscluster.yaml < eksctl delete cluster -f -
 
 
 #eksctl delete cluster -f ../_specs/aws_efscluster.yaml
