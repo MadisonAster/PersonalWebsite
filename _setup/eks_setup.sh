@@ -18,6 +18,9 @@
 
 ###############################
 
+declare $(python3 ../_py/ReadConfig.py)
+
+
 eksctl create cluster -f ../_specs/aws_efscluster.yaml
 awskubectl apply -k "github.com/kubernetes-sigs/aws-efs-csi-driver/deploy/kubernetes/overlays/stable/?ref=master"
 

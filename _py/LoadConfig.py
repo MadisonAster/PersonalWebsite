@@ -28,7 +28,10 @@ if __name__ == '__main__':
     _py = os.path.dirname(os.path.abspath(__file__))
     htmldir = _py.rsplit('_py',1)[0].rstrip('/')
     
-    ConfigFilePath = htmldir+'/_config/userconfig.yaml'
+    if os.path.exists(htmldir+'/_config/myuserconfig.yaml'):
+        ConfigFilePath = htmldir+'/_config/myuserconfig.yaml'
+    else:
+        ConfigFilePath = htmldir+'/_config/userconfig.yaml'
     print('ConfigFilePath', ConfigFilePath)
     Config = Load_Config(ConfigFilePath)
     pprint(Config)

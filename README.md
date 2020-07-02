@@ -17,8 +17,8 @@ See [_setup/README.md](_setup/README.md)
 - [x] Profile page iFrames
   - [x] GitHub
   - [x] CodeWars
-  - [x] LinkedIn
   - [x] IMDB
+  - [ ] LinkedIn
 - [x] Favorites lists scraping
   - [x] IMDB
   - [x] GoodReads
@@ -46,10 +46,8 @@ See [_setup/README.md](_setup/README.md)
 - [ ] More hosting options
 - [ ] Instructional videos
 
-
-
-
 ## RoadMap
+
 - [x] Check logs
 - [x] Fix Security certificate
 - [x] Get Demo Maze Working
