@@ -18,7 +18,7 @@
 
     Manually disable Mozilla Account Extension, tabs, and password sync
 
-> python3 _config/firefoxprofile/get_profile.py
+> python3 _config/_firefoxprofile/get_profile.py
 
 ## Docker Compose Setup (For Local Testing)
 > cd _setup
