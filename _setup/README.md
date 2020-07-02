@@ -25,7 +25,7 @@
 
 > docker-compose -f _specs/docker-compose.yaml up -d 
 
-[http://localhost:8080](http://localhost:8080)
+[    http://localhost:8080](http://localhost:8080)
     
 > docker-compose -f _specs/docker-compose.yaml down
 
