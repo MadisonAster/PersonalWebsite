@@ -29,6 +29,26 @@ See [_setup/README.md](_setup/README.md)
 - [x] Automated skills tracking pipeline
 - [ ] Automated PDF resume generation via javascript
 
+## Future Features
+
+- [ ] A Database
+- [ ] Django interface for creating blog content
+- [ ] Django interface for creating snapshot pages
+- [ ] Django interface for adding favorites lists
+- [ ] Secure P2P networking protocol
+- [ ] Django interface for friend's lists
+- [ ] Django interface for private messaging
+- [ ] Django interface for activity feed
+- [ ] Mouse presence
+- [ ] Aggregated friends lists
+- [ ] Resume++ homepage
+- [ ] Resume++ configuration portal
+- [ ] More hosting options
+- [ ] Instructional videos
+
+
+
+
 ## RoadMap
 - [x] Check logs
 - [x] Fix Security certificate
