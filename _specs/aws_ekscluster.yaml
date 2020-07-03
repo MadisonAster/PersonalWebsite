@@ -6,17 +6,17 @@ metadata:
   region: ${aws_region}
 vpc:
   id: ${aws_vpc_name}
-  subnets:
-    private:
-      us-west-2a:
-        id: ${subnet1_name}
-      us-west-2b:
-        id: ${subnet2_name}
-    public:
-      us-west-2c:
-        id: ${subnet3_name}
-      us-west-2d:
-        id: ${subnet4_name}
+#  subnets:
+#    private:
+#      us-west-2a:
+#        id: ${subnet1_name}
+#      us-west-2b:
+#        id: ${subnet2_name}
+#    public:
+#      us-west-2c:
+#        id: ${subnet3_name}
+#      us-west-2d:
+#        id: ${subnet4_name}
 
 managedNodeGroups:
   - name: ResumePP_WebNodes
@@ -29,7 +29,7 @@ managedNodeGroups:
       allow: true
       publicKeyPath: ${aws_key_path}
       # new feature for restricting SSH access to certain AWS security group IDs
-      sourceSecurityGroupIds: [" ${aws_securitygroup_name} "]
+      sourceSecurityGroupIds: [" ${GroupId} "]
     labels: 
       role: webserver
       app: webserver
@@ -51,7 +51,7 @@ managedNodeGroups:
       allow: true
       publicKeyPath: ${aws_key_path}
       # new feature for restricting SSH access to certain AWS security group IDs
-      sourceSecurityGroupIds: [" ${aws_securitygroup_name} "]
+      sourceSecurityGroupIds: [" ${GroupId} "]
     labels: 
       role: datascraper
       app: datascraper

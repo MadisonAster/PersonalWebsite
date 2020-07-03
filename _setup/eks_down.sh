@@ -7,6 +7,11 @@
 #deleted vpc
 
 
+echo "delete-file-system"
+export FileSystemId=$(python3 ../_py/FindKey.py _config/aws_efsvolume_generated.yaml FileSystemId)
+aws efs delete-file-system --file-system-id $FileSystemId
+echo $FileSystemId
+
 echo "delete-security-group"
 export GroupId=$(python3 ../_py/FindKey.py _config/aws_securitygroup_generated.yaml GroupId)
 aws ec2 delete-security-group --group-id $GroupId

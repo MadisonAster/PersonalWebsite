@@ -1,0 +1,9 @@
+CreationToken: ResumePP_EFS      # [REQUIRED] A string of up to 64 ASCII characters.
+PerformanceMode: generalPurpose  # The performance mode of the file system. Valid values are: generalPurpose, maxIO.
+Encrypted: false                 # A Boolean value that, if true, creates an encrypted file system.
+#KmsKeyId: ''                    # The ID of the AWS KMS CMK to be used to protect the encrypted file system.
+ThroughputMode: bursting         # The throughput mode for the file system to be created. Valid values are: bursting, provisioned.
+#ProvisionedThroughputInMibps:   # The throughput, measured in MiB/s, that you want to provision for a file system that you're creating.
+Tags:                            # A value that specifies to create one or more tags associated with the file system.
+- Key: 'Name'                    # [REQUIRED] The tag key (String).
+  Value: 'ResumePP_EFS'          # [REQUIRED] The value of the tag key.

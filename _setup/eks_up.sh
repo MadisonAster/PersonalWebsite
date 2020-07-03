@@ -35,6 +35,13 @@ rm ../_config/aws_securitygroup_temp.yaml
 export GroupId=$(python3 ../_py/FindKey.py _config/aws_securitygroup_generated.yaml GroupId)
 echo $GroupId
 
+echo "create-file-system"
+envsubst < ../_specs/aws_efsvolume.yaml > ../_config/aws_efsvolume_temp.yaml
+aws efs create-file-system --cli-input-yaml file://../_config/aws_efsvolume_temp.yaml --output yaml > ../_config/aws_efsvolume_generated.yaml
+rm ../_config/aws_efsvolume_temp.yaml
+export FileSystemId=$(python3 ../_py/FindKey.py _config/aws_efsvolume_generated.yaml FileSystemId)
+echo $FileSystemId
+
 exit 0
 
 
