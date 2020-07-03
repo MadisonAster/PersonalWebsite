@@ -21,9 +21,17 @@
 
 ###############################
 
-declare $(python3 ../_py/ReadConfig.py)
+eval $(python3 ../_py/ReadConfig.py)
 
-envsubst < ../_specs/aws_vpc.yaml | cat -
+
+envsubst < ../_specs/aws_vpc.yaml > ../_config/aws_vpc_temp.yaml
+aws ec2 create-vpc --cli-input-yaml file://../_config/aws_vpc_temp.yaml --output yaml > ../_config/aws_vpc_generated.yaml
+rm ../_config/aws_vpc_temp.yaml
+cat ../_config/aws_vpc_generated.yaml
+
+
+
+#aws ec2 create-vpc --cidr-block 10.0.0.0/16 --amazon-provided-ipv6-cidr-block
 exit 0
 
 

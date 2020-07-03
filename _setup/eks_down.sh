@@ -2,6 +2,16 @@
 #delete security groups
 #detached/deleted load balancer
 #detached/deleted internet gateway
+#deleted efs
+#deleted subnets
+#deleted vpc
+
+
+export VpcId=$(python3 ../_py/FindKey.py _config/aws_vpc_generated.yaml VpcId)
+aws ec2 delete-vpc --vpc-id $VpcId
+
+exit 0
+
 
 awskubectl delete pods --all
 awskubectl delete service resume-service
