@@ -6,17 +6,17 @@ metadata:
   region: ${aws_region}
 vpc:
   id: ${VpcId}
-#  subnets:
-#    private:
-#      us-west-2a:
-#        id: ${subnet1_name}
-#      us-west-2b:
-#        id: ${subnet2_name}
-#    public:
-#      us-west-2c:
-#        id: ${subnet3_name}
-#      us-west-2d:
-#        id: ${subnet4_name}
+  subnets:
+    private:
+      us-west-2a:
+        id: ${SubnetId}
+      us-west-2b:
+        id: ${SubnetId}
+    public:
+      us-west-2c:
+        id: ${SubnetId}
+      us-west-2d:
+        id: ${SubnetId}
 
 managedNodeGroups:
   - name: ResumePPWebNodes

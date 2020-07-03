@@ -12,6 +12,11 @@ export FileSystemId=$(python3 ../_py/FindKey.py _config/aws_efsvolume_generated.
 aws efs delete-file-system --file-system-id $FileSystemId
 echo $FileSystemId
 
+echo "delete-subnet"
+export SubnetId=$(python3 ../_py/FindKey.py _config/aws_subnet_generated.yaml SubnetId)
+aws ec2 delete-subnet --subnet-id $SubnetId
+echo $SubnetId
+
 echo "delete-security-group"
 export GroupId=$(python3 ../_py/FindKey.py _config/aws_securitygroup_generated.yaml GroupId)
 aws ec2 delete-security-group --group-id $GroupId
