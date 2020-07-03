@@ -6,6 +6,9 @@
 #deleted subnets
 #deleted vpc
 
+aws cloudformation delete-stack --stack-name ResumePPStack
+
+exit 0
 
 echo "delete-file-system"
 export FileSystemId=$(python3 ../_py/FindKey.py _config/aws_efsvolume_generated.yaml FileSystemId)
@@ -13,9 +16,18 @@ aws efs delete-file-system --file-system-id $FileSystemId
 echo $FileSystemId
 
 echo "delete-subnet"
-export SubnetId=$(python3 ../_py/FindKey.py _config/aws_subnet_generated.yaml SubnetId)
-aws ec2 delete-subnet --subnet-id $SubnetId
-echo $SubnetId
+export SubnetId1=$(python3 ../_py/FindKey.py _config/aws_subnet1_generated.yaml SubnetId)
+export SubnetId2=$(python3 ../_py/FindKey.py _config/aws_subnet2_generated.yaml SubnetId)
+export SubnetId3=$(python3 ../_py/FindKey.py _config/aws_subnet3_generated.yaml SubnetId)
+export SubnetId4=$(python3 ../_py/FindKey.py _config/aws_subnet4_generated.yaml SubnetId)
+aws ec2 delete-subnet --subnet-id $SubnetId1
+aws ec2 delete-subnet --subnet-id $SubnetId2
+aws ec2 delete-subnet --subnet-id $SubnetId3
+aws ec2 delete-subnet --subnet-id $SubnetId4
+echo $SubnetId1
+echo $SubnetId2
+echo $SubnetId3
+echo $SubnetId4
 
 echo "delete-security-group"
 export GroupId=$(python3 ../_py/FindKey.py _config/aws_securitygroup_generated.yaml GroupId)

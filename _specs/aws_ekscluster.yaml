@@ -9,14 +9,14 @@ vpc:
   subnets:
     private:
       us-west-2a:
-        id: ${SubnetId}
+        id: ${SubnetId1}
       us-west-2b:
-        id: ${SubnetId}
+        id: ${SubnetId2}
     public:
       us-west-2c:
-        id: ${SubnetId}
+        id: ${SubnetId3}
       us-west-2d:
-        id: ${SubnetId}
+        id: ${SubnetId4}
 
 managedNodeGroups:
   - name: ResumePPWebNodes
