@@ -11,8 +11,6 @@
 #envsubst Dockerfile < docker build -f -
 
 
-
-#aws vpc create -f ../_specs/aws_vpc.yaml
 #aws loadbalancer create -f ../_specs/aws_loadbalancer.yaml
 #aws efs create -f ../_specs/aws_efsvolume.yaml
 
@@ -23,15 +21,20 @@
 
 eval $(python3 ../_py/ReadConfig.py)
 
-
+echo "create-vpc"
 envsubst < ../_specs/aws_vpc.yaml > ../_config/aws_vpc_temp.yaml
 aws ec2 create-vpc --cli-input-yaml file://../_config/aws_vpc_temp.yaml --output yaml > ../_config/aws_vpc_generated.yaml
 rm ../_config/aws_vpc_temp.yaml
-cat ../_config/aws_vpc_generated.yaml
+export VpcId=$(python3 ../_py/FindKey.py _config/aws_vpc_generated.yaml VpcId)
+echo $VpcId
 
+echo "create-security-group"
+envsubst < ../_specs/aws_securitygroup.yaml > ../_config/aws_securitygroup_temp.yaml
+aws ec2 create-security-group --cli-input-yaml file://../_config/aws_securitygroup_temp.yaml --output yaml > ../_config/aws_securitygroup_generated.yaml
+rm ../_config/aws_securitygroup_temp.yaml
+export GroupId=$(python3 ../_py/FindKey.py _config/aws_securitygroup_generated.yaml GroupId)
+echo $GroupId
 
-
-#aws ec2 create-vpc --cidr-block 10.0.0.0/16 --amazon-provided-ipv6-cidr-block
 exit 0
 
 

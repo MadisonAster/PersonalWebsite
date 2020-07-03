@@ -7,8 +7,15 @@
 #deleted vpc
 
 
+echo "delete-security-group"
+export GroupId=$(python3 ../_py/FindKey.py _config/aws_securitygroup_generated.yaml GroupId)
+aws ec2 delete-security-group --group-id $GroupId
+echo $GroupId
+
+echo "delete-vpc"
 export VpcId=$(python3 ../_py/FindKey.py _config/aws_vpc_generated.yaml VpcId)
 aws ec2 delete-vpc --vpc-id $VpcId
+echo $VpcId
 
 exit 0
 
