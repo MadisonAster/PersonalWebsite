@@ -1,7 +1,10 @@
-AvailabilityZone: ''   # The Availability Zone or Local Zone for the subnet.
-AvailabilityZoneId: '' # The AZ ID or the Local Zone ID of the subnet.
-CidrBlock: ''          # [REQUIRED] The IPv4 network range for the subnet, in CIDR notation.
+#AvailabilityZone: ${aws_region}   # The Availability Zone or Local Zone for the subnet.
+#AvailabilityZoneId: '' # The AZ ID or the Local Zone ID of the subnet.
+CidrBlock: ${CidrBlock}          # [REQUIRED] The IPv4 network range for the subnet, in CIDR notation.
 #Ipv6CidrBlock: ''      # The IPv6 network range for the subnet, in CIDR notation.
 #OutpostArn: ''         # The Amazon Resource Name (ARN) of the Outpost.
 VpcId: ${VpcId}        # [REQUIRED] The ID of the VPC.
 DryRun: true          # Checks whether you have the required permissions for the action, without actually making the request, and provides an error response.
+Tags:                            # A value that specifies to create one or more tags associated with the file system.
+- Key: 'Name'                    # [REQUIRED] The tag key (String).
+  Value: 'ResumePP_Subnet'          # [REQUIRED] The value of the tag key.
