@@ -2,7 +2,7 @@ apiVersion: eksctl.io/v1alpha5
 kind: ClusterConfig
 
 metadata:
-  name: ResumePP
+  name: ResumePP_Cluster
   region: ${aws_region}
 vpc:
   id: ${aws_vpc_name}
@@ -19,7 +19,7 @@ vpc:
         id: ${subnet4_name}
 
 managedNodeGroups:
-  - name: ResumePPWebNodes
+  - name: ResumePP_WebNodes
     instanceType: ${instanceType}
     minSize: 1
     maxSize: 3
@@ -41,7 +41,7 @@ managedNodeGroups:
         externalDNS: true
         certManager: true
 
-  - name: ResumePPDataNodes
+  - name: ResumePP_DataNodes
     instanceType: ${instanceType}
     minSize: 1
     maxSize: 1

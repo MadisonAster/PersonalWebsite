@@ -1,0 +1,8 @@
+Type: AWS::EC2::VPC
+Properties: 
+  CidrBlock: ${CidrBlock}
+  EnableDnsHostnames: true
+  EnableDnsSupport: true
+  InstanceTenancy: default
+  Tags: 
+    - name: ResumePP_VPC

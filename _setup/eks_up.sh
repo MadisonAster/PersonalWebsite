@@ -21,8 +21,16 @@
 
 ###############################
 
-#declare $(python3 ../_py/ReadConfig.py)
+declare $(python3 ../_py/ReadConfig.py)
 
+envsubst < ../_specs/aws_vpc.yaml | cat -
+exit 0
+
+
+
+
+#aws eks update-kubeconfig --name ResumePP
+#awskubectl get service -o wide
 
 eksctl create cluster -f ../_specs/aws_efscluster.yaml
 awskubectl apply -k "github.com/kubernetes-sigs/aws-efs-csi-driver/deploy/kubernetes/overlays/stable/?ref=master"
@@ -52,4 +60,3 @@ awskubectl expose deployment resume-deployment  --type=LoadBalancer  --name=bala
 #awskubectl exec -it resume-deployment-5f5d8d6dbb-p4lh7 sh
 
 #awskubectl get services --all-namespaces -o wide
-
