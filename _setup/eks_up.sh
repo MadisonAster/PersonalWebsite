@@ -2,10 +2,14 @@
 eval $(python3 ../_py/ReadConfig.py)
 ##############################################
 
+
+
 ##############docker build####################
 #./docker_build.sh
 #aws ecr push ResumePPImage
 ##############################################
+
+
 
 ##############CloudFormation##################
 echo "aws cloudformation create-stack ResumePPStack"
@@ -22,6 +26,8 @@ echo $PublicSubnet01
 echo $PublicSubnet02
 ##############################################
 
+
+
 ##########Tacking things on###################
 #TODO: All this should be in CloudFormation
 echo "aws efs create-file-system"
@@ -32,15 +38,24 @@ export FileSystemId=$(python3 ../_py/FindKey.py _config/aws_efsvolume_generated.
 echo $FileSystemId
 
 #aws loadbalancer create -f ../_specs/aws_loadbalancer.yaml
+#############################################
+
+exit 0
+
+##############Clone Git Repo#################
+#TODO: Can we do this with CodeDeploy Instead?
 
 #create ec2
 #ec2 sh
-#sudo apt-get install nfs-common
-#sudo mkdir /mnt/w
-#sudo mount -t efs $FileSystemId:/ /mnt/w
-#cd /mnt/w
-#git clone $ProjectForkURL .
-#ls -a
+sudo apt-get install nfs-common
+sudo mkdir /mnt/w
+sudo mount -t efs $FileSystemId:/ /mnt/w
+cd /mnt/w
+git clone $ProjectForkURL .
+ls -a
+exit
+
+#delete ec2
 ##############################################
 
 exit 0
@@ -73,6 +88,8 @@ exit 0
 ##############Shell Commands#######################
 #awskubectl exec -it resume-deployment-############## sh
 ###############################################
+
+
 
 ##########Print Commands#######################
 awskubectl get service -o wide
