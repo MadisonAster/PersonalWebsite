@@ -11,7 +11,8 @@
 
 
 ###Delete Test  EC2 Instance##########
-#delete ec2 
+export InstanceId=$(python3 ../_py/FindKey.py _config/aws_ec2instance_generated.yaml InstanceId)
+aws ec2 terminate-instances --instance-ids $InstanceId
 ######################################
 
 
@@ -30,6 +31,7 @@ echo $FileSystemId
 #####Delete CloudFormation Stack######
 echo "aws cloudformation delete-stack ResumePPStack"
 aws cloudformation delete-stack --stack-name ResumePPStack
+aws cloudformation wait stack-delete-complete --stack-name ResumePPStack
 ######################################
 
 

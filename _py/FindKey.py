@@ -19,6 +19,12 @@ def RecurseKeys(YamlDict, SearchKey):
         if type(value) == dict:
             for a in RecurseKeys(value, SearchKey):
                 yield a
+        if type(value) == list:
+            tempdict = {}
+            for i, v in enumerate(value):
+                tempdict[i] = v                    
+            for a in RecurseKeys(tempdict, SearchKey):
+                yield a
         if key == SearchKey:
             yield value
 

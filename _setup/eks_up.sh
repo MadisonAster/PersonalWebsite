@@ -28,7 +28,7 @@ echo $PublicSubnet02
 
 
 
-############Create TackOns###################
+##########Create TackOns###################
 #TODO: All this should be in CloudFormation
 echo "aws efs create-file-system"
 envsubst < ../_specs/aws_efsvolume.yaml > ../_config/aws_efsvolume_temp.yaml
@@ -40,13 +40,34 @@ echo $FileSystemId
 #aws loadbalancer create -f ../_specs/aws_loadbalancer.yaml
 #############################################
 
-exit 0
+
 
 ##############Clone Git Repo#################
 #TODO: Can we do this with CodeDeploy Instead?
+echo "aws ec2 create-instance"
 
-#create ec2
-#ec2 sh
+#aws ec2 run-instances --cli-input-yaml file://../_config/aws_ec2instance_temp.yaml --output yaml 
+#aws ec2 run-instances --image-id $TestInstanceType --count 1 --instance-type t2.nano --key-name $MyKeyPair --security-group-ids $ControlPlaneSecurityGroup --subnet-id $PublicSubnet02
+#aws ec2 describe-instance --stack-name ResumePPStack --output yaml > ../_config/aws_ec2instance_generated.yaml
+
+envsubst < ../_specs/aws_ec2instance.yaml > ../_config/aws_ec2instance_temp.yaml
+aws ec2 run-instances --cli-input-yaml file://../_config/aws_ec2instance_temp.yaml --output yaml > ../_config/aws_ec2instance_generated.yaml
+export InstanceId=$(python3 ../_py/FindKey.py _config/aws_ec2instance_generated.yaml InstanceId)
+aws ec2 wait instance-running --instance-id $InstanceId
+
+echo $InstanceId
+echo "describe-instances"
+aws ec2 describe-instances --instance-id $InstanceId --output yaml > ../_config/aws_ec2instance_generated.yaml
+export InstanceId=$(python3 ../_py/FindKey.py _config/aws_ec2instance_generated.yaml InstanceId)
+export PublicDnsName=$(python3 ../_py/FindKey.py _config/aws_ec2instance_generated.yaml PublicDnsName)
+echo $InstanceId
+echo $PublicDnsName
+echo $aws_privatekey_path
+
+echo ssh -i $aws_privatekey_path ubuntu@$PublicDnsName
+ssh -i $aws_privatekey_path ubuntu@$PublicDnsName
+
+
 sudo apt-get install nfs-common
 sudo mkdir /mnt/w
 sudo mount -t efs $FileSystemId:/ /mnt/w
@@ -55,8 +76,10 @@ git clone $ProjectForkURL .
 ls -a
 exit
 
-#delete ec2
+
+#aws ec2 terminate-instances --instance-ids $InstanceId
 ##############################################
+
 
 exit 0
 

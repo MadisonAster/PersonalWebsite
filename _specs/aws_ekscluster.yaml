@@ -27,7 +27,7 @@ managedNodeGroups:
     volumeSize: 5
     ssh:
       allow: true
-      publicKeyPath: ${aws_key_path}
+      publicKeyPath: ${aws_publickey_path}
       # new feature for restricting SSH access to certain AWS security group IDs
       sourceSecurityGroupIds: [" ${ControlPlaneSecurityGroup} "]
     labels: 
@@ -49,7 +49,7 @@ managedNodeGroups:
     volumeSize: 5
     ssh:
       allow: true
-      publicKeyPath: ${aws_key_path}
+      publicKeyPath: ${aws_publickey_path}
       # new feature for restricting SSH access to certain AWS security group IDs
       sourceSecurityGroupIds: [" ${ControlPlaneSecurityGroup} "]
     labels: 
