@@ -24,6 +24,9 @@ echo $PrivateSubnet01
 echo $PrivateSubnet02
 echo $PublicSubnet01
 echo $PublicSubnet02
+
+aws ec2 describe-security-groups --filters Name=vpc-id,Values=$VPC --filters Name=group-name,Values=default > ../_config/aws_securitygroup_generated.yaml
+export VPCSecurityGroupId=$(python3 ../_py/FindKey.py _config/aws_securitygroup_generated.yaml GroupId)
 ##############################################
 
 
