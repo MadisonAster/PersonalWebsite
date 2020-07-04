@@ -28,7 +28,7 @@ echo $PublicSubnet02
 
 
 
-##########Tacking things on###################
+############Create TackOns###################
 #TODO: All this should be in CloudFormation
 echo "aws efs create-file-system"
 envsubst < ../_specs/aws_efsvolume.yaml > ../_config/aws_efsvolume_temp.yaml
