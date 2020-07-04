@@ -5,18 +5,18 @@ metadata:
   name: ResumePPCluster
   region: ${aws_region}
 vpc:
-  id: ${VpcId}
+  id: ${VPC}
   subnets:
     private:
       us-west-2a:
-        id: ${SubnetId1}
+        id: ${PrivateSubnet01}
       us-west-2b:
-        id: ${SubnetId2}
+        id: ${PrivateSubnet02}
     public:
       us-west-2c:
-        id: ${SubnetId3}
+        id: ${PublicSubnet01}
       us-west-2d:
-        id: ${SubnetId4}
+        id: ${PublicSubnet02}
 
 managedNodeGroups:
   - name: ResumePPWebNodes
@@ -29,7 +29,7 @@ managedNodeGroups:
       allow: true
       publicKeyPath: ${aws_key_path}
       # new feature for restricting SSH access to certain AWS security group IDs
-      sourceSecurityGroupIds: [" ${GroupId} "]
+      sourceSecurityGroupIds: [" ${ControlPlaneSecurityGroup} "]
     labels: 
       role: webserver
       app: webserver
@@ -51,7 +51,7 @@ managedNodeGroups:
       allow: true
       publicKeyPath: ${aws_key_path}
       # new feature for restricting SSH access to certain AWS security group IDs
-      sourceSecurityGroupIds: [" ${GroupId} "]
+      sourceSecurityGroupIds: [" ${ControlPlaneSecurityGroup} "]
     labels: 
       role: datascraper
       app: datascraper
