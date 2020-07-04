@@ -12,6 +12,7 @@ export FileSystemId=$(python3 ../_py/FindKey.py _config/aws_efsvolume_generated.
 aws efs delete-file-system --file-system-id $FileSystemId
 echo $FileSystemId
 
+echo "aws cloudformation delete-stack ResumePPStack"
 aws cloudformation delete-stack --stack-name ResumePPStack
 
 exit 0
