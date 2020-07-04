@@ -6,14 +6,16 @@
 #deleted subnets
 #deleted vpc
 
-aws cloudformation delete-stack --stack-name ResumePPStack
-
-exit 0
 
 echo "delete-file-system"
 export FileSystemId=$(python3 ../_py/FindKey.py _config/aws_efsvolume_generated.yaml FileSystemId)
 aws efs delete-file-system --file-system-id $FileSystemId
 echo $FileSystemId
+
+aws cloudformation delete-stack --stack-name ResumePPStack
+
+exit 0
+
 
 #echo "delete-subnet"
 #export SubnetId1=$(python3 ../_py/FindKey.py _config/aws_subnet1_generated.yaml SubnetId)
