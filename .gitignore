@@ -11,5 +11,6 @@ Thumbs.db
 Desktop.ini
 .terraform
 *.tfstate
+*.tfstate.backup
 
 _js/Windows95Maze/
