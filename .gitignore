@@ -9,5 +9,7 @@
 Thumbs.db
 .DS_Store
 Desktop.ini
+.terraform
+*.tfstate
 
 _js/Windows95Maze/
