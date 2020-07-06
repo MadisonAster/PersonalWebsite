@@ -61,6 +61,15 @@ resource "aws_security_group" "WebserverSecurityGroup" {
       "192.168.0.0/16",
     ]
   }
+  ingress {
+    from_port = 80
+    to_port   = 80
+    protocol  = "tcp"
+
+    cidr_blocks = [
+      "192.168.0.0/16",
+    ]
+  }
 }
 
 resource "aws_security_group" "DataScraperSecurityGroup" {
@@ -78,4 +87,36 @@ resource "aws_security_group" "DataScraperSecurityGroup" {
       "192.168.0.0/16",
     ]
   }
+  
+  egress {
+    from_port = 8080
+    to_port = 8080
+    protocol = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+}
+
+
+resource "aws_efs_file_system" "ResumePPFileSystem" {
+  creation_token = "ResumePPFileSystem"
+  performance_mode = "generalPurpose"
+  throughput_mode = "bursting"
+  encrypted = "true"
+  tags = {
+    Name = "ResumePPFileSystem"
+    Terraform = "true"
+    Environment = "test"
+  }
+}
+
+resource "aws_efs_mount_target" "ResumePPMountTarget" {
+  count = length(module.vpc.private_subnets)
+
+  file_system_id  = aws_efs_file_system.ResumePPFileSystem.id
+  subnet_id = element(module.vpc.private_subnets, count.index)
+  security_groups = [
+    aws_security_group.ControlPlaneSecurityGroup.id,
+    aws_security_group.WebserverSecurityGroup.id,
+    aws_security_group.DataScraperSecurityGroup.id,
+  ]
 }
