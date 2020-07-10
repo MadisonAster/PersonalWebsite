@@ -7,16 +7,21 @@ data "aws_availability_zones" "available" {}
 
 module "vpc" {
   source  = "terraform-aws-modules/vpc/aws"
-  version = "2.6.0"
+  version = "2.21.0"
 
   name                 = var.vpc_name
-  cidr                 = "10.0.0.0/16"
-  azs                  = data.aws_availability_zones.available.names
-  private_subnets      = ["10.0.1.0/24", "10.0.2.0/24", "10.0.3.0/24"]
-  public_subnets       = ["10.0.4.0/24", "10.0.5.0/24", "10.0.6.0/24"]
-  enable_nat_gateway   = true
-  single_nat_gateway   = true
-  enable_dns_hostnames = true
+  cidr                 = var.vpc_cidr
+  azs                  = var.vpc_azs
+  private_subnets      = var.vpc_private_subnets
+  public_subnets       = var.vpc_public_subnets
+  enable_nat_gateway = var.vpc_enable_nat_gateway
+
+  //azs                  = data.aws_availability_zones.available.names
+  //private_subnets      = ["10.0.1.0/24", "10.0.2.0/24", "10.0.3.0/24"]
+  //public_subnets       = ["10.0.4.0/24", "10.0.5.0/24", "10.0.6.0/24"]  
+  //enable_nat_gateway   = true
+  //single_nat_gateway   = true
+  //enable_dns_hostnames = true
 
   tags = {
     "kubernetes.io/cluster/${var.cluster_name}" = "shared"
@@ -87,7 +92,6 @@ resource "aws_security_group" "DataScraperSecurityGroup" {
       "192.168.0.0/16",
     ]
   }
-  
   egress {
     from_port = 8080
     to_port = 8080
@@ -95,7 +99,6 @@ resource "aws_security_group" "DataScraperSecurityGroup" {
     cidr_blocks = ["0.0.0.0/0"]
   }
 }
-
 
 resource "aws_efs_file_system" "ResumePPFileSystem" {
   creation_token = "ResumePPFileSystem"
@@ -109,14 +112,68 @@ resource "aws_efs_file_system" "ResumePPFileSystem" {
   }
 }
 
-resource "aws_efs_mount_target" "ResumePPMountTarget" {
-  count = length(module.vpc.private_subnets)
+resource "aws_efs_mount_target" "ResumePPMountTargets" {
+  count = length(module.vpc.public_subnets)
 
   file_system_id  = aws_efs_file_system.ResumePPFileSystem.id
-  subnet_id = element(module.vpc.private_subnets, count.index)
+  subnet_id = element(module.vpc.public_subnets, count.index)
   security_groups = [
     aws_security_group.ControlPlaneSecurityGroup.id,
     aws_security_group.WebserverSecurityGroup.id,
     aws_security_group.DataScraperSecurityGroup.id,
   ]
 }
+
+/*
+resource "aws_key_pair" "mykeypair" {
+  key_name   = var.aws_key_pair_name
+  public_key = file(var.public_key_path)
+}
+*/
+
+module "ec2_instances" {
+  source  = "terraform-aws-modules/ec2-instance/aws"
+  version = "2.12.0"
+
+  name = "MyTestInstance"
+  instance_count = 1
+  ami = var.ec2_instance_ami
+  instance_type = "t2.micro"
+  key_name = var.aws_key_pair_name
+  subnet_id = module.vpc.public_subnets[0]
+  vpc_security_group_ids = [
+    aws_security_group.ControlPlaneSecurityGroup.id,
+    aws_security_group.WebserverSecurityGroup.id,
+    aws_security_group.DataScraperSecurityGroup.id,
+  ]
+
+  tags = {
+    Terraform = "true"
+    Environment = "dev"
+  }
+}
+
+
+
+#resource "aws_internet_gateway" "ResumePPGateway" {
+#  vpc_id = module.vpc.vpc_id
+#
+#  tags = {
+#    Name = "ResumePPGateway"
+#  }
+#}
+
+#resource "aws_route_table" "ResumePPRouteTable" {
+#  vpc_id = module.vpc.vpc_id
+#}
+
+#resource "aws_route" "ResumePPRoute" {
+#  route_table_id            = aws_route_table.ResumePPRouteTable.id
+#  destination_cidr_block    = "0.0.0.0/0"
+#  gateway_id = aws_internet_gateway.ResumePPGateway.id
+#}
+
+#resource "aws_route_table_association" "ResumePPRouteAssociation" {
+#  subnet_id      = module.vpc.public_subnets[0]
+#  route_table_id = aws_route_table.ResumePPRouteTable.id
+#}
