@@ -14,7 +14,10 @@ module "vpc" {
   azs                  = var.vpc_azs
   private_subnets      = var.vpc_private_subnets
   public_subnets       = var.vpc_public_subnets
-  enable_nat_gateway = var.vpc_enable_nat_gateway
+  //enable_nat_gateway   = var.vpc_enable_nat_gateway
+  enable_dns_support   = var.enable_dns_support
+  enable_dns_hostnames = var.enable_dns_hostnames
+  single_nat_gateway   = var.single_nat_gateway
 
   //azs                  = data.aws_availability_zones.available.names
   //private_subnets      = ["10.0.1.0/24", "10.0.2.0/24", "10.0.3.0/24"]
@@ -46,10 +49,7 @@ resource "aws_security_group" "ControlPlaneSecurityGroup" {
     from_port = 22
     to_port   = 22
     protocol  = "tcp"
-
-    cidr_blocks = [
-      "10.0.0.0/8",
-    ]
+    cidr_blocks = ["192.168.0.0/16"]
   }
 }
 
@@ -61,19 +61,13 @@ resource "aws_security_group" "WebserverSecurityGroup" {
     from_port = 22
     to_port   = 22
     protocol  = "tcp"
-
-    cidr_blocks = [
-      "192.168.0.0/16",
-    ]
+    cidr_blocks = ["0.0.0.0/0"]
   }
   ingress {
     from_port = 80
     to_port   = 80
     protocol  = "tcp"
-
-    cidr_blocks = [
-      "192.168.0.0/16",
-    ]
+    cidr_blocks = ["0.0.0.0/0"]
   }
 }
 
@@ -85,12 +79,7 @@ resource "aws_security_group" "DataScraperSecurityGroup" {
     from_port = 22
     to_port   = 22
     protocol  = "tcp"
-
-    cidr_blocks = [
-      "10.0.0.0/8",
-      "172.16.0.0/12",
-      "192.168.0.0/16",
-    ]
+    cidr_blocks = ["0.0.0.0/0"]
   }
   egress {
     from_port = 8080
@@ -152,28 +141,3 @@ module "ec2_instances" {
     Environment = "dev"
   }
 }
-
-
-
-#resource "aws_internet_gateway" "ResumePPGateway" {
-#  vpc_id = module.vpc.vpc_id
-#
-#  tags = {
-#    Name = "ResumePPGateway"
-#  }
-#}
-
-#resource "aws_route_table" "ResumePPRouteTable" {
-#  vpc_id = module.vpc.vpc_id
-#}
-
-#resource "aws_route" "ResumePPRoute" {
-#  route_table_id            = aws_route_table.ResumePPRouteTable.id
-#  destination_cidr_block    = "0.0.0.0/0"
-#  gateway_id = aws_internet_gateway.ResumePPGateway.id
-#}
-
-#resource "aws_route_table_association" "ResumePPRouteAssociation" {
-#  subnet_id      = module.vpc.public_subnets[0]
-#  route_table_id = aws_route_table.ResumePPRouteTable.id
-#}

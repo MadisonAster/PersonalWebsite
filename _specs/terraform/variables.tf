@@ -19,7 +19,7 @@ variable "vpc_name" {
 variable "vpc_cidr" {
   description = "CIDR block for VPC"
   type        = string
-  default     = "10.0.0.0/16"
+  default     = "192.168.0.0/16"
 }
 
 variable "vpc_azs" {
@@ -34,16 +34,34 @@ variable "vpc_enable_nat_gateway" {
   default = true
 }
 
+variable "enable_dns_support" {
+  description = ""
+  type    = bool
+  default = true
+}
+
+variable "enable_dns_hostnames" {
+  description = ""
+  type    = bool
+  default = true
+}
+
+variable "single_nat_gateway" {
+  description = ""
+  type    = bool
+  default = true
+}
+
 variable "vpc_private_subnets" {
   description = "Private subnets for VPC"
   type        = list(string)
-  default     = ["10.0.1.0/24", "10.0.2.0/24"]
+  default     = ["192.168.0.0/18", "192.168.64.0/18"]
 }
 
 variable "vpc_public_subnets" {
   description = "Public subnets for VPC"
   type        = list(string)
-  default     = ["10.0.4.0/24", "10.0.5.0/24"]
+  default     = ["192.168.128.0/18", "192.168.192.0/18"]
 }
 
 variable "ec2_instance_ami" {
