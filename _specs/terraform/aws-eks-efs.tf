@@ -37,73 +37,87 @@ module "vpc" {
 }
 
 resource "aws_security_group" "ControlPlaneSecurityGroup" {
-  name_prefix = "ControlPlaneSG"
-  vpc_id      = module.vpc.vpc_id
+  name_prefix   = "ControlPlaneSG"
+  vpc_id        = module.vpc.vpc_id
 
   ingress {
-    from_port = 22
-    to_port   = 22
-    protocol  = "tcp"
+    from_port   = 22
+    to_port     = 22
+    protocol    = "tcp"
     cidr_blocks = ["192.168.0.0/16"]
   }
 }
 
 resource "aws_security_group" "WebserverSecurityGroup" {
-  name_prefix = "WebserverSG"
-  vpc_id      = module.vpc.vpc_id
+  name_prefix   = "WebserverSG"
+  vpc_id        = module.vpc.vpc_id
 
   ingress {
-    from_port = 22
-    to_port   = 22
-    protocol  = "tcp"
+    from_port   = 22
+    to_port     = 22
+    protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
   ingress {
-    from_port = 80
-    to_port   = 80
-    protocol  = "tcp"
+    from_port   = 80
+    to_port     = 80
+    protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
+  /*
+  ingress {
+    from_port   = 0
+    to_port     = 0
+    protocol    = "-1"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+  egress {
+    from_port   = 0
+    to_port     = 0
+    protocol    = "-1"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+   */
 }
 
 resource "aws_security_group" "DataScraperSecurityGroup" {
-  name_prefix = "DataScraperSG"
-  vpc_id      = module.vpc.vpc_id
+  name_prefix   = "DataScraperSG"
+  vpc_id        = module.vpc.vpc_id
 
   ingress {
-    from_port = 22
-    to_port   = 22
-    protocol  = "tcp"
+    from_port   = 22
+    to_port     = 22
+    protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
   ingress {
-    from_port = 2049
-    to_port   = 2049
-    protocol  = "tcp"
+    from_port   = 2049
+    to_port     = 2049
+    protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
   egress {
-    from_port = 8080
-    to_port = 8080
-    protocol = "tcp"
+    from_port   = 8080
+    to_port     = 8080
+    protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
   egress {
-    from_port = 80
-    to_port = 80
-    protocol = "tcp"
+    from_port   = 80
+    to_port     = 80
+    protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
   egress {
-    from_port = 443
-    to_port = 443
-    protocol = "tcp"
+    from_port   = 443
+    to_port     = 443
+    protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
   egress {
-    from_port = 2049
-    to_port   = 2049
-    protocol  = "tcp"
+    from_port   = 2049
+    to_port     = 2049
+    protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
 }
@@ -176,3 +190,33 @@ module "ec2_instances" {
               sudo git clone ${var.project_fork} /mnt/w
   EOF
 }
+
+/*
+module "eks" {
+  source       = "terraform-aws-modules/eks/aws"
+  cluster_name = var.cluster_name
+  subnets      = module.vpc.private_subnets
+
+  tags = {
+    Name = var.cluster_name
+  }
+
+  vpc_id = module.vpc.vpc_id
+  worker_groups = [
+    {
+      name                          = "WebserverWorkerGroup"
+      instance_type                 = var.worker_instance_type
+      //additional_userdata           = ""
+      asg_desired_capacity          = 1
+      additional_security_group_ids = [aws_security_group.WebserverSecurityGroup.id]
+    },
+    {
+      name                          = "DataScraperWorkerGroup"
+      instance_type                 = var.worker_instance_type
+      //additional_userdata           = ""
+      additional_security_group_ids = [aws_security_group.DataScraperSecurityGroup.id]
+      asg_desired_capacity          = 1
+    },
+  ]
+}
+*/

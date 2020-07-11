@@ -93,3 +93,9 @@ variable "project_fork" {
   type        = string
   default     = "https://github.com/MadisonAster/ResumePlusPlus.git"
 }
+
+variable "worker_instance_type" {
+  type        = string
+  default     = "t3.small"
+}
+
