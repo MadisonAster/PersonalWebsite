@@ -14,17 +14,12 @@ module "vpc" {
   azs                  = var.vpc_azs
   private_subnets      = var.vpc_private_subnets
   public_subnets       = var.vpc_public_subnets
+  //private_subnets      = ["10.0.1.0/24", "10.0.2.0/24", "10.0.3.0/24"]
+  //public_subnets       = ["10.0.4.0/24", "10.0.5.0/24", "10.0.6.0/24"] 
   //enable_nat_gateway   = var.vpc_enable_nat_gateway
   enable_dns_support   = var.enable_dns_support
   enable_dns_hostnames = var.enable_dns_hostnames
   single_nat_gateway   = var.single_nat_gateway
-
-  //azs                  = data.aws_availability_zones.available.names
-  //private_subnets      = ["10.0.1.0/24", "10.0.2.0/24", "10.0.3.0/24"]
-  //public_subnets       = ["10.0.4.0/24", "10.0.5.0/24", "10.0.6.0/24"]  
-  //enable_nat_gateway   = true
-  //single_nat_gateway   = true
-  //enable_dns_hostnames = true
 
   tags = {
     "kubernetes.io/cluster/${var.cluster_name}" = "shared"
@@ -81,10 +76,34 @@ resource "aws_security_group" "DataScraperSecurityGroup" {
     protocol  = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
+  ingress {
+    from_port = 2049
+    to_port   = 2049
+    protocol  = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
   egress {
     from_port = 8080
     to_port = 8080
     protocol = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+  egress {
+    from_port = 80
+    to_port = 80
+    protocol = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+  egress {
+    from_port = 443
+    to_port = 443
+    protocol = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+  egress {
+    from_port = 2049
+    to_port   = 2049
+    protocol  = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
 }
@@ -140,4 +159,20 @@ module "ec2_instances" {
     Terraform = "true"
     Environment = "dev"
   }
+  user_data = <<-EOF
+              #! /bin/bash
+              sudo apt-get update
+              sudo apt-get -y install nfs-common
+              sudo apt-get -y install make
+              sudo apt-get -y install binutils
+              sudo git clone https://github.com/aws/efs-utils
+              cd ./efs-utils
+              sudo ./build-deb.sh
+              sudo apt-get -y install ./build/amazon-efs-utils*deb
+
+              sudo mkdir /mnt/w
+              sudo mount -t efs ${aws_efs_mount_target.ResumePPMountTargets[0].dns_name}:/ /mnt/w
+              sudo chmod 777 /mnt/w
+              sudo git clone ${var.project_fork} /mnt/w
+  EOF
 }

@@ -82,3 +82,14 @@ variable "public_key_path" {
   default     = "/usr/local/keys/MasterKey1.pub"
 }
 
+variable "private_key_path" {
+  description = "Key Path"
+  type        = string
+  default     = "/usr/local/keys/MasterKey1.pem"
+}
+
+variable "project_fork" {
+  description = "Project Repo Fork URL"
+  type        = string
+  default     = "https://github.com/MadisonAster/ResumePlusPlus.git"
+}
