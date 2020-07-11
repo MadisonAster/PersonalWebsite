@@ -7,7 +7,7 @@ data "aws_availability_zones" "available" {}
 
 module "vpc" {
   source  = "terraform-aws-modules/vpc/aws"
-  version = "2.21.0"
+  //version = "2.44.0" //last tested version
 
   name                 = var.vpc_name
   cidr                 = var.vpc_cidr
@@ -46,6 +46,19 @@ resource "aws_security_group" "ControlPlaneSecurityGroup" {
     protocol    = "tcp"
     cidr_blocks = ["192.168.0.0/16"]
   }
+
+  ingress {
+    from_port   = 0
+    to_port     = 0
+    protocol    = "-1"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+  egress {
+    from_port   = 0
+    to_port     = 0
+    protocol    = "-1"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
 }
 
 resource "aws_security_group" "WebserverSecurityGroup" {
@@ -64,7 +77,7 @@ resource "aws_security_group" "WebserverSecurityGroup" {
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
-  /*
+  
   ingress {
     from_port   = 0
     to_port     = 0
@@ -77,7 +90,7 @@ resource "aws_security_group" "WebserverSecurityGroup" {
     protocol    = "-1"
     cidr_blocks = ["0.0.0.0/0"]
   }
-   */
+  
 }
 
 resource "aws_security_group" "DataScraperSecurityGroup" {
@@ -120,6 +133,19 @@ resource "aws_security_group" "DataScraperSecurityGroup" {
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
+
+  ingress {
+    from_port   = 0
+    to_port     = 0
+    protocol    = "-1"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+  egress {
+    from_port   = 0
+    to_port     = 0
+    protocol    = "-1"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
 }
 
 resource "aws_efs_file_system" "ResumePPFileSystem" {
@@ -155,7 +181,7 @@ resource "aws_key_pair" "mykeypair" {
 
 module "ec2_instances" {
   source  = "terraform-aws-modules/ec2-instance/aws"
-  version = "2.12.0"
+  //version = "2.15.0" //last tested version
 
   name = "MyTestInstance"
   instance_count = 1
@@ -194,8 +220,11 @@ module "ec2_instances" {
 /*
 module "eks" {
   source       = "terraform-aws-modules/eks/aws"
+  //version = "12.1.0" //last tested version
+
   cluster_name = var.cluster_name
   subnets      = module.vpc.private_subnets
+  cluster_security_group_id = aws_security_group.ControlPlaneSecurityGroup.id
 
   tags = {
     Name = var.cluster_name
