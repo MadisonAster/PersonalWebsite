@@ -14,9 +14,11 @@ terraform apply -auto-approve
 cd ../../_setup
 ##############################################
 
-exit 0
+#exit 0
 
 ##########Create Services#####################
+aws eks update-kubeconfig --name ResumePPCluster
+
 awskubectl apply -k "github.com/kubernetes-sigs/aws-efs-csi-driver/deploy/kubernetes/overlays/stable/?ref=master"
 
 envsubst < ../_specs/eks_efsstorageclass.yaml > ../_config/eks_efsstorageclass_temp.yaml

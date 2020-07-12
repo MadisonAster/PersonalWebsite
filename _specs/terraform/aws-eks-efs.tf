@@ -217,14 +217,16 @@ module "ec2_instances" {
   EOF
 }
 
-/*
+
 module "eks" {
   source       = "terraform-aws-modules/eks/aws"
   //version = "12.1.0" //last tested version
-
+  //cluster_version = "1.16"
+  
   cluster_name = var.cluster_name
   subnets      = module.vpc.private_subnets
   cluster_security_group_id = aws_security_group.ControlPlaneSecurityGroup.id
+  manage_aws_auth = false
 
   tags = {
     Name = var.cluster_name
@@ -248,4 +250,4 @@ module "eks" {
     },
   ]
 }
-*/
+
