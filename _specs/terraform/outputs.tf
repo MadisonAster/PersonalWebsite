@@ -15,6 +15,10 @@ output "ResumePPVPC" {
   value       = module.vpc.vpc_id
 }
 
+output "DefaultSecurityGroup" {
+  value       = module.vpc.default_security_group_id
+}
+
 //output "ResumePPCluster" {
 //  value       = module.eks.cluster_id
 //}

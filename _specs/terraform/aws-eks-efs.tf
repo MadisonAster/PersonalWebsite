@@ -233,19 +233,55 @@ module "eks" {
   }
 
   vpc_id = module.vpc.vpc_id
-  worker_groups = [
+  //worker_groups = [
+  node_groups = [
     {
-      name                          = "WebserverWorkerGroup"
+      name                          = "WebserverGroup"
       instance_type                 = var.worker_instance_type
       //additional_userdata           = ""
       asg_desired_capacity          = 1
-      additional_security_group_ids = [aws_security_group.WebserverSecurityGroup.id]
+      asg_max_size                  = 1
+      additional_security_group_ids = [
+        module.vpc.default_security_group_id,
+        aws_security_group.ControlPlaneSecurityGroup.id,
+        aws_security_group.WebserverSecurityGroup.id
+      ]
+      ssh = {
+        allow = true
+        publicKeyPath = var.public_key_path
+        sourceSecurityGroupIds = [
+          module.vpc.default_security_group_id,
+          aws_security_group.ControlPlaneSecurityGroup.id,
+          aws_security_group.DataScraperSecurityGroup.id
+        ]
+      }
+      /*
+      labels = {
+        role = datascraper
+        app = datascraper
+      }
+      tags = {
+        nodegroup-role = datascraper
+        app = datascraper
+      }
+      iam = {
+        withAddonPolices = {
+          externalDNS = true
+          certManager = true
+        }
+      }
+      */
     },
     {
-      name                          = "DataScraperWorkerGroup"
+      name                          = "DataScraperGroup"
       instance_type                 = var.worker_instance_type
       //additional_userdata           = ""
-      additional_security_group_ids = [aws_security_group.DataScraperSecurityGroup.id]
+      additional_security_group_ids = [
+        module.vpc.default_security_group_id,
+        aws_security_group.ControlPlaneSecurityGroup.id,
+        aws_security_group.DataScraperSecurityGroup.id
+      ]
+      asg_max_size                  = 1
       asg_desired_capacity          = 1
     },
   ]
