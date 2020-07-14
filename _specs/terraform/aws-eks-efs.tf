@@ -37,27 +37,16 @@ provider "kubernetes" {
   token                  = data.aws_eks_cluster_auth.cluster.token
   load_config_file       = false
   //version                = "~> 1.16"
-  version                = "~> 1.11"
+  version                = "~> 1.11" //I don't understand where this version number comes from
 }
 
 data "aws_availability_zones" "available" {
 }
 
-//locals {
-//  cluster_name = "test-eks-${random_string.suffix.result}"
-//}
-
 resource "random_string" "suffix" {
   length  = 8
   special = false
 }
-
-
-
-
-
-
-
 
 
 
@@ -206,11 +195,6 @@ resource "aws_efs_mount_target" "ResumePPMountTargets" {
 
 
 
-
-
-
-
-
 module "vpc" {
   source  = "terraform-aws-modules/vpc/aws"
   //version = "2.44.0" //last tested version
@@ -291,49 +275,6 @@ module "ec2_instances" {
   EOF
 }
 
-/*
-data "aws_iam_policy_document" "kubectl_assume_role_policy" {
-  statement {
-    actions = [
-      "sts:AssumeRole",
-    ]
-    principals {
-      type        = "AWS"
-      identifiers = ["arn:aws:iam::${var.aws_account_id}:root"]
-    }
-  }
-}
-
-resource "aws_iam_role" "eks_kubectl_role" {
-  name               = "${var.cluster_name}-kubectl-access-role"
-  assume_role_policy = ${data.aws_iam_policy_document.kubectl_assume_role_policy.json}
-}
-
-resource "aws_iam_role_policy_attachment" "eks_kubectl-AmazonEKSClusterPolicy" {
-  policy_arn = "arn:aws:iam::aws:policy/AmazonEKSClusterPolicy"
-  role       = "${aws_iam_role.eks_kubectl_role.name}"
-}
-
-resource "aws_iam_role_policy_attachment" "eks_kubectl-AmazonEKSServicePolicy" {
-  policy_arn = "arn:aws:iam::aws:policy/AmazonEKSServicePolicy"
-  role       = "${aws_iam_role.eks_kubectl_role.name}"
-}
-
-resource "aws_iam_role_policy_attachment" "eks_kubectl-AmazonEKSWorkerNodePolicy" {
-  policy_arn = "arn:aws:iam::aws:policy/AmazonEKSWorkerNodePolicy"
-  role       = "${aws_iam_role.eks_kubectl_role.name}"
-}
-*/
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -343,23 +284,22 @@ resource "aws_iam_role_policy_attachment" "eks_kubectl-AmazonEKSWorkerNodePolicy
 
 module "eks" {
   source       = "terraform-aws-modules/eks/aws"
-  //version = "12.1.0" //last tested version
-  //cluster_version = "1.16"
-
-  cluster_name = var.cluster_name
-  subnets      = module.vpc.private_subnets
-  cluster_security_group_id = aws_security_group.ControlPlaneSecurityGroup.id
+  //version                            = "12.1.0" //last tested version
+  //cluster_version                    = "1.16"
+  cluster_name                         = var.cluster_name
+  vpc_id                               = module.vpc.vpc_id
+  subnets                              = module.vpc.private_subnets
+  cluster_security_group_id            = aws_security_group.ControlPlaneSecurityGroup.id
   //manage_aws_auth = false
-
+  map_roles                            = var.map_roles
+  map_users                            = var.map_users
+  map_accounts                         = var.map_accounts
   tags = {
     Name = var.cluster_name
   }
-
-  vpc_id = module.vpc.vpc_id
-  //worker_groups = [
+  
   node_groups = {
     WebserverGroup = {
-      //name                          = "WebserverGroup"
       instance_type                 = var.worker_instance_type
       //additional_userdata           = ""
       asg_desired_capacity          = 1
@@ -375,31 +315,18 @@ module "eks" {
         sourceSecurityGroupIds = [
           module.vpc.default_security_group_id,
           aws_security_group.ControlPlaneSecurityGroup.id,
-          aws_security_group.DataScraperSecurityGroup.id
+          aws_security_group.WebserverSecurityGroup.id
         ]
       }
-      /*
       labels = {
-        role = datascraper
-        app = datascraper
+        app = "webserver"
       }
       tags = {
-        nodegroup-role = datascraper
-        app = datascraper
+        app = "webserver"
       }
-      iam = {
-        withAddonPolices = {
-          externalDNS = true
-          certManager = true
-        }
-      }
-      */
     }
 
-
-    /*
     DataScraperGroup = {
-      //name                          = "DataScraperGroup"
       instance_type                 = var.worker_instance_type
       //additional_userdata           = ""
       additional_security_group_ids = [
@@ -409,14 +336,31 @@ module "eks" {
       ]
       asg_max_size                  = 1
       asg_desired_capacity          = 1
+      ssh = {
+        allow = true
+        publicKeyPath = var.public_key_path
+        sourceSecurityGroupIds = [
+          module.vpc.default_security_group_id,
+          aws_security_group.ControlPlaneSecurityGroup.id,
+          aws_security_group.DataScraperSecurityGroup.id
+        ]
+      }
+      labels = {
+        app = "datascraper"
+      }
+      tags = {
+        app = "datascraper"
+      }
     }
-    */
   }
-
-
-
-  map_roles                            = var.map_roles
-  map_users                            = var.map_users
-  map_accounts                         = var.map_accounts
 }
+
+
+
+//TODO:
+//  * integrate expose command from tf_eks_up.sh
+//  * figure out how pull new version from ecr
+//  * create script for quickly shelling into the datascraper for git pull/push
+//  * shore up the ports
+//  * redirect dns
 
