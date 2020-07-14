@@ -57,3 +57,5 @@ awskubectl get service -o wide
 #awskubectl get pods
 #awskubectl get services --all-namespaces -o wide
 ###############################################
+
+#kubectl set image deployment/datascraper-deployment image=$datascraper_image --record

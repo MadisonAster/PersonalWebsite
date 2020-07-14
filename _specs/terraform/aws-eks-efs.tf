@@ -62,19 +62,6 @@ resource "aws_security_group" "ControlPlaneSecurityGroup" {
     protocol    = "tcp"
     cidr_blocks = ["192.168.0.0/16"]
   }
-
-  ingress {
-    from_port   = 0
-    to_port     = 0
-    protocol    = "-1"
-    cidr_blocks = ["0.0.0.0/0"]
-  }
-  egress {
-    from_port   = 0
-    to_port     = 0
-    protocol    = "-1"
-    cidr_blocks = ["0.0.0.0/0"]
-  }
 }
 
 resource "aws_security_group" "WebserverSecurityGroup" {
@@ -93,20 +80,6 @@ resource "aws_security_group" "WebserverSecurityGroup" {
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
-  
-  ingress {
-    from_port   = 0
-    to_port     = 0
-    protocol    = "-1"
-    cidr_blocks = ["0.0.0.0/0"]
-  }
-  egress {
-    from_port   = 0
-    to_port     = 0
-    protocol    = "-1"
-    cidr_blocks = ["0.0.0.0/0"]
-  }
-  
 }
 
 resource "aws_security_group" "DataScraperSecurityGroup" {
@@ -119,12 +92,12 @@ resource "aws_security_group" "DataScraperSecurityGroup" {
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
-  ingress {
-    from_port   = 2049
-    to_port     = 2049
-    protocol    = "tcp"
-    cidr_blocks = ["0.0.0.0/0"]
-  }
+  //ingress {
+  //  from_port   = 2049
+  //  to_port     = 2049
+  //  protocol    = "tcp"
+  //  cidr_blocks = ["0.0.0.0/0"]
+  //}
   egress {
     from_port   = 8080
     to_port     = 8080
@@ -137,31 +110,18 @@ resource "aws_security_group" "DataScraperSecurityGroup" {
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
-  egress {
-    from_port   = 443
-    to_port     = 443
-    protocol    = "tcp"
-    cidr_blocks = ["0.0.0.0/0"]
-  }
-  egress {
-    from_port   = 2049
-    to_port     = 2049
-    protocol    = "tcp"
-    cidr_blocks = ["0.0.0.0/0"]
-  }
-
-  ingress {
-    from_port   = 0
-    to_port     = 0
-    protocol    = "-1"
-    cidr_blocks = ["0.0.0.0/0"]
-  }
-  egress {
-    from_port   = 0
-    to_port     = 0
-    protocol    = "-1"
-    cidr_blocks = ["0.0.0.0/0"]
-  }
+  //egress {
+  //  from_port   = 443
+  //  to_port     = 443
+  //  protocol    = "tcp"
+  //  cidr_blocks = ["0.0.0.0/0"]
+  //}
+  //egress {
+  //  from_port   = 2049
+  //  to_port     = 2049
+  //  protocol    = "tcp"
+  //  cidr_blocks = ["0.0.0.0/0"]
+  //}
 }
 
 resource "aws_efs_file_system" "ResumePPFileSystem" {
@@ -358,8 +318,6 @@ module "eks" {
 
 
 //TODO:
-//  * figure out how pull new version from ecr
-//  * create script for quickly shelling into the datascraper for git pull/push
 //  * shore up the ports
 //  * redirect dns
 
