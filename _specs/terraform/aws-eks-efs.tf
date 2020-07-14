@@ -62,6 +62,19 @@ resource "aws_security_group" "ControlPlaneSecurityGroup" {
     protocol    = "tcp"
     cidr_blocks = ["192.168.0.0/16"]
   }
+
+  ingress {
+    from_port   = 0
+    to_port     = 0
+    protocol    = "-1"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+  egress {
+    from_port   = 0
+    to_port     = 0
+    protocol    = "-1"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
 }
 
 resource "aws_security_group" "WebserverSecurityGroup" {
@@ -80,6 +93,19 @@ resource "aws_security_group" "WebserverSecurityGroup" {
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
+
+  ingress {
+    from_port   = 0
+    to_port     = 0
+    protocol    = "-1"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+  egress {
+    from_port   = 0
+    to_port     = 0
+    protocol    = "-1"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
 }
 
 resource "aws_security_group" "DataScraperSecurityGroup" {
@@ -92,12 +118,12 @@ resource "aws_security_group" "DataScraperSecurityGroup" {
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
-  //ingress {
-  //  from_port   = 2049
-  //  to_port     = 2049
-  //  protocol    = "tcp"
-  //  cidr_blocks = ["0.0.0.0/0"]
-  //}
+  ingress {
+    from_port   = 2049
+    to_port     = 2049
+    protocol    = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
   egress {
     from_port   = 8080
     to_port     = 8080
@@ -110,18 +136,31 @@ resource "aws_security_group" "DataScraperSecurityGroup" {
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
-  //egress {
-  //  from_port   = 443
-  //  to_port     = 443
-  //  protocol    = "tcp"
-  //  cidr_blocks = ["0.0.0.0/0"]
-  //}
-  //egress {
-  //  from_port   = 2049
-  //  to_port     = 2049
-  //  protocol    = "tcp"
-  //  cidr_blocks = ["0.0.0.0/0"]
-  //}
+  egress {
+    from_port   = 443
+    to_port     = 443
+    protocol    = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+  egress {
+    from_port   = 2049
+    to_port     = 2049
+    protocol    = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+
+  ingress {
+    from_port   = 0
+    to_port     = 0
+    protocol    = "-1"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+  egress {
+    from_port   = 0
+    to_port     = 0
+    protocol    = "-1"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
 }
 
 resource "aws_efs_file_system" "ResumePPFileSystem" {
@@ -142,11 +181,13 @@ resource "aws_efs_mount_target" "ResumePPMountTargets" {
   file_system_id  = aws_efs_file_system.ResumePPFileSystem.id
   subnet_id = element(module.vpc.public_subnets, count.index)
   security_groups = [
+    module.vpc.default_security_group_id,
     aws_security_group.ControlPlaneSecurityGroup.id,
     aws_security_group.WebserverSecurityGroup.id,
     aws_security_group.DataScraperSecurityGroup.id,
   ]
 }
+
 
 
 
@@ -201,10 +242,10 @@ module "ec2_instances" {
   source  = "terraform-aws-modules/ec2-instance/aws"
   //version = "2.15.0" //last tested version
 
-  name = "MyTestInstance"
+  name = "ResumePPGitInstance"
   instance_count = 1
   ami = var.ec2_instance_ami
-  instance_type = "t2.micro"
+  instance_type = var.ec2_instance_type
   key_name = var.aws_key_pair_name
   subnet_id = module.vpc.public_subnets[0]
   vpc_security_group_ids = [
@@ -232,6 +273,7 @@ module "ec2_instances" {
               sudo mount -t efs ${aws_efs_mount_target.ResumePPMountTargets[0].dns_name}:/ /mnt/w
               sudo chmod 777 /mnt/w
               sudo git clone ${var.project_fork} /mnt/w
+              sudo shutdown -h now
   EOF
 }
 
@@ -260,7 +302,7 @@ module "eks" {
   
   node_groups = {
     WebserverGroup = {
-      instance_type                 = var.worker_instance_type
+      instance_type                 = var.webserver_instance_type
       //additional_userdata           = ""
       asg_desired_capacity          = 1
       asg_max_size                  = 1
@@ -287,7 +329,7 @@ module "eks" {
     }
 
     DataScraperGroup = {
-      instance_type                 = var.worker_instance_type
+      instance_type                 = var.datascraper_instance_type
       //additional_userdata           = ""
       additional_security_group_ids = [
         module.vpc.default_security_group_id,

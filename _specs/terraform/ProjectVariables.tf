@@ -88,10 +88,21 @@ variable "project_fork" {
   default     = "https://github.com/MadisonAster/ResumePlusPlus.git"
 }
 
-variable "worker_instance_type" {
+variable "ec2_instance_type" {
+  type        = string
+  default     = "t2.micro"
+}
+
+variable "webserver_instance_type" {
   type        = string
   default     = "t3.small"
 }
+
+variable "datascraper_instance_type" {
+  type        = string
+  default     = "t3.medium"
+}
+
 
 
 
