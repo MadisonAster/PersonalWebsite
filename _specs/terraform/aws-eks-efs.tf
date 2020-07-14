@@ -358,7 +358,6 @@ module "eks" {
 
 
 //TODO:
-//  * integrate expose command from tf_eks_up.sh
 //  * figure out how pull new version from ecr
 //  * create script for quickly shelling into the datascraper for git pull/push
 //  * shore up the ports
