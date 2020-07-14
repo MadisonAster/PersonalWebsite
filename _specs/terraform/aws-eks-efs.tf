@@ -81,19 +81,20 @@ resource "aws_security_group" "WebserverSecurityGroup" {
   name_prefix   = "WebserverSG"
   vpc_id        = module.vpc.vpc_id
 
+  /*
   ingress {
     from_port   = 22
     to_port     = 22
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
-  }
+  }*/
   ingress {
     from_port   = 80
     to_port     = 80
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
-
+  /*
   ingress {
     from_port   = 0
     to_port     = 0
@@ -105,7 +106,7 @@ resource "aws_security_group" "WebserverSecurityGroup" {
     to_port     = 0
     protocol    = "-1"
     cidr_blocks = ["0.0.0.0/0"]
-  }
+  }*/
 }
 
 resource "aws_security_group" "DataScraperSecurityGroup" {
@@ -273,6 +274,11 @@ module "ec2_instances" {
               sudo mount -t efs ${aws_efs_mount_target.ResumePPMountTargets[0].dns_name}:/ /mnt/w
               sudo chmod 777 /mnt/w
               sudo git clone ${var.project_fork} /mnt/w
+
+              sudo mkdir /mnt/w/_js/Windows95Maze
+              sudo chmod 777 /mnt/w/_js/Windows95Maze
+              sudo git clone ${var.bg_fork} /mnt/w/_js/Windows95Maze
+
               sudo shutdown -h now
   EOF
 }

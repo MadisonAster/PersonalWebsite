@@ -88,6 +88,13 @@ variable "project_fork" {
   default     = "https://github.com/MadisonAster/ResumePlusPlus.git"
 }
 
+variable "bg_fork" {
+  description = "Background Repo Fork URL"
+  type        = string
+  default     = "https://github.com/MadisonAster/Windows95Maze.git"
+}
+
+
 variable "ec2_instance_type" {
   type        = string
   default     = "t2.micro"

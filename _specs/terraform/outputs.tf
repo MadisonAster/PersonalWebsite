@@ -1,23 +1,39 @@
 
 output "ResumePPFileSystem" {
-  value       = aws_efs_file_system.ResumePPFileSystem.id
+  value = aws_efs_file_system.ResumePPFileSystem.id
 }
 
+//output "ResumePPFileSystemDNS" {
+//  value = aws_efs_mount_target.ResumePPMountTargets[0].dns_name
+//}
+
+//output "ResumePPGitControlID" {
+//  value = module.ec2_instances.ResumePPGitInstance.id
+//}
+
+//output "ResumePPGitControlDNS" {
+//  value = module.ec2_instances.ResumePPGitInstance.dns
+//}
+
 output "WebserverSecurityGroup" {
-  value       = aws_security_group.WebserverSecurityGroup.id
+  value = aws_security_group.WebserverSecurityGroup.id
 }
 
 output "DataScraperSecurityGroup" {
-  value       = aws_security_group.DataScraperSecurityGroup.id
+  value = aws_security_group.DataScraperSecurityGroup.id
 }
 
 output "ResumePPVPC" {
-  value       = module.vpc.vpc_id
+  value = module.vpc.vpc_id
 }
 
 output "DefaultSecurityGroup" {
-  value       = module.vpc.default_security_group_id
+  value = module.vpc.default_security_group_id
 }
+
+//output "private_key_path" {
+//  value = var.private_key_path
+//}
 
 //output "ResumePPCluster" {
 //  value       = module.eks.cluster_id
