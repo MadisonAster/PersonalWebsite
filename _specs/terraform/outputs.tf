@@ -3,9 +3,9 @@ output "ResumePPFileSystem" {
   value = aws_efs_file_system.ResumePPFileSystem.id
 }
 
-//output "ResumePPFileSystemDNS" {
-//  value = aws_efs_mount_target.ResumePPMountTargets[0].dns_name
-//}
+output "ResumePPFileSystemDNS" {
+  value = aws_efs_mount_target.ResumePPMountTargets[0].dns_name
+}
 
 //output "ResumePPGitControlID" {
 //  value = module.ec2_instances.ResumePPGitInstance.id
@@ -31,9 +31,9 @@ output "DefaultSecurityGroup" {
   value = module.vpc.default_security_group_id
 }
 
-//output "private_key_path" {
-//  value = var.private_key_path
-//}
+output "private_key_path" {
+  value = var.private_key_path
+}
 
 //output "ResumePPCluster" {
 //  value       = module.eks.cluster_id

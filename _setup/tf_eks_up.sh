@@ -43,21 +43,22 @@ awskubectl apply -f ../_config/datascraper-service_temp.yaml
 awskubectl expose deployment resume-deployment  --type=LoadBalancer  --name=resumeppbalancer-service
 ###############################################
 
-exit 0
-
-##############Shell Commands#######################
-#awskubectl exec -it resume-deployment-############## sh
-###############################################
-
 
 
 ##########Print Commands#######################
-awskubectl get service -o wide
-#awskubectl get all
+awskubectl get all
+#awskubectl get service -o wide
 #awskubectl describe all
 #awskubectl describe pods
 #awskubectl get pods
 #awskubectl get services --all-namespaces -o wide
 ###############################################
 
-#kubectl set image deployment/datascraper-deployment image=$datascraper_image --record
+##############Shell Commands#######################
+#awskubectl exec -it resume-deployment-############## sh
+###############################################
+
+##################Refresh Image################
+#awskubectl set image deployment/datascraper-deployment image=$datascraper_image --record
+###############################################
+
