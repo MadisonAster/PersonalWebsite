@@ -1,9 +1,3 @@
-variable "aws_region" {
-  description = "Name of Aws Region"
-  type        = string
-  default     = "us-west-2"
-}
-
 variable "cluster_name" {
   description = "Name of EKS Cluster"
   type        = string
@@ -98,4 +92,9 @@ variable "worker_instance_type" {
   type        = string
   default     = "t3.small"
 }
+
+
+
+
+
 

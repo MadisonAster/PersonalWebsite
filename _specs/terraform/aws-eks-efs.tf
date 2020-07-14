@@ -1,40 +1,67 @@
+terraform {
+  required_version = ">= 0.12.0"
+}
+
 provider "aws" {
   version = ">= 2.28.1"
-  region  = var.aws_region
+  region  = var.region
 }
 
-data "aws_availability_zones" "available" {}
-
-module "vpc" {
-  source  = "terraform-aws-modules/vpc/aws"
-  //version = "2.44.0" //last tested version
-
-  name                 = var.vpc_name
-  cidr                 = var.vpc_cidr
-  azs                  = var.vpc_azs
-  private_subnets      = var.vpc_private_subnets
-  public_subnets       = var.vpc_public_subnets
-  //private_subnets      = ["10.0.1.0/24", "10.0.2.0/24", "10.0.3.0/24"]
-  //public_subnets       = ["10.0.4.0/24", "10.0.5.0/24", "10.0.6.0/24"] 
-  //enable_nat_gateway   = var.vpc_enable_nat_gateway
-  enable_dns_support   = var.enable_dns_support
-  enable_dns_hostnames = var.enable_dns_hostnames
-  single_nat_gateway   = var.single_nat_gateway
-
-  tags = {
-    "kubernetes.io/cluster/${var.cluster_name}" = "shared"
-  }
-
-  public_subnet_tags = {
-    "kubernetes.io/cluster/${var.cluster_name}" = "shared"
-    "kubernetes.io/role/elb"                      = "1"
-  }
-
-  private_subnet_tags = {
-    "kubernetes.io/cluster/${var.cluster_name}" = "shared"
-    "kubernetes.io/role/internal-elb"             = "1"
-  }
+provider "random" {
+  version = "~> 2.1"
 }
+
+provider "local" {
+  version = "~> 1.2"
+}
+
+provider "null" {
+  version = "~> 2.1"
+}
+
+provider "template" {
+  version = "~> 2.1"
+}
+
+data "aws_eks_cluster" "cluster" {
+  name = module.eks.cluster_id
+}
+
+data "aws_eks_cluster_auth" "cluster" {
+  name = module.eks.cluster_id
+}
+
+provider "kubernetes" {
+  host                   = data.aws_eks_cluster.cluster.endpoint
+  cluster_ca_certificate = base64decode(data.aws_eks_cluster.cluster.certificate_authority.0.data)
+  token                  = data.aws_eks_cluster_auth.cluster.token
+  load_config_file       = false
+  //version                = "~> 1.16"
+  version                = "~> 1.11"
+}
+
+data "aws_availability_zones" "available" {
+}
+
+//locals {
+//  cluster_name = "test-eks-${random_string.suffix.result}"
+//}
+
+resource "random_string" "suffix" {
+  length  = 8
+  special = false
+}
+
+
+
+
+
+
+
+
+
+
+
 
 resource "aws_security_group" "ControlPlaneSecurityGroup" {
   name_prefix   = "ControlPlaneSG"
@@ -172,6 +199,53 @@ resource "aws_efs_mount_target" "ResumePPMountTargets" {
   ]
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+module "vpc" {
+  source  = "terraform-aws-modules/vpc/aws"
+  //version = "2.44.0" //last tested version
+
+  name                 = var.vpc_name
+  cidr                 = var.vpc_cidr
+  azs                  = var.vpc_azs
+  private_subnets      = var.vpc_private_subnets
+  public_subnets       = var.vpc_public_subnets
+  //private_subnets      = ["10.0.1.0/24", "10.0.2.0/24", "10.0.3.0/24"]
+  //public_subnets       = ["10.0.4.0/24", "10.0.5.0/24", "10.0.6.0/24"] 
+  enable_nat_gateway   = var.vpc_enable_nat_gateway
+  enable_dns_support   = var.enable_dns_support
+  enable_dns_hostnames = var.enable_dns_hostnames
+  single_nat_gateway   = var.single_nat_gateway
+  
+  tags = {
+    "kubernetes.io/cluster/${var.cluster_name}"   = "shared"
+  }
+  public_subnet_tags = {
+    "kubernetes.io/cluster/${var.cluster_name}"   = "shared"
+    "kubernetes.io/role/elb"                      = "1"
+  }
+  private_subnet_tags = {
+    "kubernetes.io/cluster/${var.cluster_name}"   = "shared"
+    "kubernetes.io/role/internal-elb"             = "1"
+  }
+}
+
+
+
+
+
+
+
 /*
 resource "aws_key_pair" "mykeypair" {
   key_name   = var.aws_key_pair_name
@@ -217,6 +291,55 @@ module "ec2_instances" {
   EOF
 }
 
+/*
+data "aws_iam_policy_document" "kubectl_assume_role_policy" {
+  statement {
+    actions = [
+      "sts:AssumeRole",
+    ]
+    principals {
+      type        = "AWS"
+      identifiers = ["arn:aws:iam::${var.aws_account_id}:root"]
+    }
+  }
+}
+
+resource "aws_iam_role" "eks_kubectl_role" {
+  name               = "${var.cluster_name}-kubectl-access-role"
+  assume_role_policy = ${data.aws_iam_policy_document.kubectl_assume_role_policy.json}
+}
+
+resource "aws_iam_role_policy_attachment" "eks_kubectl-AmazonEKSClusterPolicy" {
+  policy_arn = "arn:aws:iam::aws:policy/AmazonEKSClusterPolicy"
+  role       = "${aws_iam_role.eks_kubectl_role.name}"
+}
+
+resource "aws_iam_role_policy_attachment" "eks_kubectl-AmazonEKSServicePolicy" {
+  policy_arn = "arn:aws:iam::aws:policy/AmazonEKSServicePolicy"
+  role       = "${aws_iam_role.eks_kubectl_role.name}"
+}
+
+resource "aws_iam_role_policy_attachment" "eks_kubectl-AmazonEKSWorkerNodePolicy" {
+  policy_arn = "arn:aws:iam::aws:policy/AmazonEKSWorkerNodePolicy"
+  role       = "${aws_iam_role.eks_kubectl_role.name}"
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 module "eks" {
   source       = "terraform-aws-modules/eks/aws"
@@ -226,7 +349,7 @@ module "eks" {
   cluster_name = var.cluster_name
   subnets      = module.vpc.private_subnets
   cluster_security_group_id = aws_security_group.ControlPlaneSecurityGroup.id
-  manage_aws_auth = false
+  //manage_aws_auth = false
 
   tags = {
     Name = var.cluster_name
@@ -234,9 +357,9 @@ module "eks" {
 
   vpc_id = module.vpc.vpc_id
   //worker_groups = [
-  node_groups = [
-    {
-      name                          = "WebserverGroup"
+  node_groups = {
+    WebserverGroup = {
+      //name                          = "WebserverGroup"
       instance_type                 = var.worker_instance_type
       //additional_userdata           = ""
       asg_desired_capacity          = 1
@@ -271,9 +394,12 @@ module "eks" {
         }
       }
       */
-    },
-    {
-      name                          = "DataScraperGroup"
+    }
+
+
+    /*
+    DataScraperGroup = {
+      //name                          = "DataScraperGroup"
       instance_type                 = var.worker_instance_type
       //additional_userdata           = ""
       additional_security_group_ids = [
@@ -283,7 +409,14 @@ module "eks" {
       ]
       asg_max_size                  = 1
       asg_desired_capacity          = 1
-    },
-  ]
+    }
+    */
+  }
+
+
+
+  map_roles                            = var.map_roles
+  map_users                            = var.map_users
+  map_accounts                         = var.map_accounts
 }
 

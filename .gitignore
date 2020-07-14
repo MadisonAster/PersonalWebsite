@@ -12,6 +12,8 @@ Desktop.ini
 .terraform
 *.tfstate
 *.tfstate.backup
+*.tfvars
 kubeconfig_*
+
 
 _js/Windows95Maze/
