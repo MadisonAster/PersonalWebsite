@@ -81,16 +81,36 @@ resource "aws_security_group" "WebserverSecurityGroup" {
   name_prefix   = "WebserverSG"
   vpc_id        = module.vpc.vpc_id
 
-  /*
+  
   ingress {
     from_port   = 22
     to_port     = 22
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
-  }*/
+  }
+  ingress {
+    from_port   = 2049
+    to_port     = 2049
+    protocol    = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
   ingress {
     from_port   = 80
     to_port     = 80
+    protocol    = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+
+
+  egress {
+    from_port   = 443
+    to_port     = 443
+    protocol    = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+  egress {
+    from_port   = 2049
+    to_port     = 2049
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
@@ -119,12 +139,12 @@ resource "aws_security_group" "DataScraperSecurityGroup" {
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
-  ingress {
-    from_port   = 2049
-    to_port     = 2049
-    protocol    = "tcp"
-    cidr_blocks = ["0.0.0.0/0"]
-  }
+  //ingress {
+  //  from_port   = 2049
+  //  to_port     = 2049
+  //  protocol    = "tcp"
+  //  cidr_blocks = ["0.0.0.0/0"]
+  //}
   egress {
     from_port   = 8080
     to_port     = 8080
@@ -143,13 +163,14 @@ resource "aws_security_group" "DataScraperSecurityGroup" {
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
-  egress {
-    from_port   = 2049
-    to_port     = 2049
-    protocol    = "tcp"
-    cidr_blocks = ["0.0.0.0/0"]
-  }
+  //egress {
+  //  from_port   = 2049
+  //  to_port     = 2049
+  //  protocol    = "tcp"
+  //  cidr_blocks = ["0.0.0.0/0"]
+  //}
 
+  /*
   ingress {
     from_port   = 0
     to_port     = 0
@@ -162,6 +183,7 @@ resource "aws_security_group" "DataScraperSecurityGroup" {
     protocol    = "-1"
     cidr_blocks = ["0.0.0.0/0"]
   }
+  */
 }
 
 resource "aws_efs_file_system" "ResumePPFileSystem" {
@@ -307,6 +329,7 @@ module "eks" {
   }
   
   node_groups = {
+    /*
     WebserverGroup = {
       instance_type                 = var.webserver_instance_type
       //additional_userdata           = ""
@@ -333,7 +356,7 @@ module "eks" {
         app = "webserver"
       }
     }
-
+    */
     DataScraperGroup = {
       instance_type                 = var.datascraper_instance_type
       //additional_userdata           = ""

@@ -97,17 +97,20 @@ variable "bg_fork" {
 
 variable "ec2_instance_type" {
   type        = string
-  default     = "t2.micro"
+  //default     = "t2.micro"
+  default     = "t3a.micro"
 }
 
 variable "webserver_instance_type" {
   type        = string
-  default     = "t3.small"
+  //default     = "t3.small"
+  default     = "t3a.micro"
 }
 
 variable "datascraper_instance_type" {
   type        = string
-  default     = "t3.medium"
+  //default     = "t3.medium"
+  default     = "t3a.small"
 }
 
 
