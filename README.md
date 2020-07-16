@@ -5,7 +5,7 @@ A Kubernetes resume template for professional software engineers.
 See [_setup/README.md](_setup/README.md)
 
 ## Major Features
-- [ ] Declaritive resource provisioning
+- [x] Declaritive resource provisioning
 - [x] Hands off administration
 - [x] Simple LAMP folder structure
 - [x] Automatic folder scanning
@@ -109,13 +109,12 @@ See [_setup/README.md](_setup/README.md)
 - [x] Add Compose file
 - [x] Fix Live Development environment
 - [x] Write PersonalWebsite README
+- [x] AWS deployment
 
-- [ ] Add Kind layer
-- [ ] AWS deployment
-- [ ] Separate Firefox Container
-- [ ] Create Screenshots Container
-- [ ] Create Mailer Daemon Container
-- [ ] Change PHP container to nginx
+- [ ] Connect Skills tree links to positional Favorites tab links
+- [ ] Fix favorites popup content layout
+- [ ] Install firefox on server or gain access to mozilla data endpoint
+- [ ] Enable firefox cron job
 
 - [ ] Improve loading times 
   - Use php to fill current page.
@@ -135,10 +134,10 @@ See [_setup/README.md](_setup/README.md)
     9 Favorites/TV
     10 Favorites/Movies
 
-- [ ] Connect Skills tree links to positional Favorites tab links
-- [ ] Fix favorites popup content layout
-- [ ] Install firefox on server or gain access to mozilla data endpoint
-- [ ] Enable firefox cron job
+- [ ] Separate Firefox Container
+- [ ] Create Screenshots Container
+- [ ] Create Mailer Daemon Container
+- [ ] Change PHP container to nginx
 
 - [ ] Add wall tracing line
 - [ ] Add right wall tracing
