@@ -1,6 +1,6 @@
 
 ##############terraform destroy###############
-awskubectl delete service resumeppbalancer-service
+awskubectl delete service loadbalancer-service
 
 cd ../_specs/terraform
 terraform destroy -auto-approve

@@ -33,14 +33,16 @@ envsubst < ../_specs/eks_efsclaim.yaml > ../_config/eks_efsclaim_temp.yaml
 envsubst < ../_specs/eks_efsvolume.yaml > ../_config/eks_efsvolume_temp.yaml
 envsubst < ../_specs/resume-service.yaml > ../_config/resume-service_temp.yaml
 envsubst < ../_specs/datascraper-service.yaml > ../_config/datascraper-service_temp.yaml
+envsubst < ../_specs/loadbalancer-service.yaml > ../_config/loadbalancer-service_temp.yaml
 
 awskubectl apply -f ../_config/eks_efsstorageclass_temp.yaml
 awskubectl apply -f ../_config/eks_efsclaim_temp.yaml
 awskubectl apply -f ../_config/eks_efsvolume_temp.yaml
 awskubectl apply -f ../_config/resume-service_temp.yaml
 awskubectl apply -f ../_config/datascraper-service_temp.yaml
+awskubectl apply -f ../_config/loadbalancer-service_temp.yaml
 
-awskubectl expose deployment resume-deployment  --type=LoadBalancer  --name=resumeppbalancer-service
+#awskubectl expose service resume-service  --type=LoadBalancer  --name=loadbalancer-service #For http only
 ###############################################
 
 
