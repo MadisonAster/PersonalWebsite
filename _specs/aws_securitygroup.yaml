@@ -1,4 +1,0 @@
-Description: ResumePP_SecurityGroup     # [REQUIRED] A description for the security group.
-GroupName: ResumePP_SecurityGroup       # [REQUIRED] The name of the security group.
-VpcId: ${VpcId}                         # [EC2-VPC] The ID of the VPC.
-#DryRun: true                           # Checks whether you have the required permissions for the action, without actually making the request, and provides an error response.
