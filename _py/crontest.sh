@@ -6,5 +6,8 @@
 #06 * * * * python3 /mnt/w/_py/TakeSnapshots.py GetLinkedIn {LinkedIn_SnapshotURL} GetLinkedIn/snapshot >> /mnt/w/_logs/cron_LinkedIn.log
 07 * * * * python3 /mnt/w/_py/IMDB.py {FavoriteTV_ListURL} Favorites/TV/snapshot/ >> /mnt/w/_logs/cron_TV.log
 08 * * * * python3 /mnt/w/_py/IMDB.py {FavoriteMovies_ListURL} Favorites/Movies/snapshot/ >> /mnt/w/_logs/cron_Movies.log
-09 * * * * python3 /mnt/w/_py/Firefox.py /moz-headless Favorites/Bookmarks/snapshot/ >> /mnt/w/_logs/cron_Bookmarks.log
+
+18 * * * * firefox -P headless -headless --first-startup >> /mnt/w/_logs/firefox.log 
+23 * * * * pkill -f firefox
+24 * * * * python3 /mnt/w/_py/Firefox.py /moz-headless Favorites/Bookmarks/snapshot/ >> /mnt/w/_logs/cron_Bookmarks.log
 # An empty line is required at the end of this file, line endings must be unix style (LF Only)
