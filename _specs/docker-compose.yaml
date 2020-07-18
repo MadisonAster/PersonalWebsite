@@ -10,6 +10,7 @@ services:
     ports:
       - 8080:80
   datascraper-service:
-    build: ../
+    #build: ../
+    image: datascraper:latest
     volumes:
       - ../:/mnt/w/
