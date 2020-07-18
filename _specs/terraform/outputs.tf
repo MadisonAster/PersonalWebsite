@@ -31,9 +31,22 @@ output "DefaultSecurityGroup" {
   value = module.vpc.default_security_group_id
 }
 
+output "aws_account_id" {
+  value = var.aws_account_id
+}
+
+output "aws_user_id" {
+  value = var.aws_user_id
+}
+
+output "aws_region" {
+  value = var.aws_region
+}
+
 output "private_key_path" {
   value = var.private_key_path
 }
+
 
 //output "ResumePPCluster" {
 //  value       = module.eks.cluster_id

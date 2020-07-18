@@ -10,7 +10,7 @@ ENV DEBCONF_NONINTERACTIVE_SEEN true
 RUN apt-get update && apt-get install -y software-properties-common
 RUN apt-get update && apt-get -y install python3-pip
 RUN apt-get update && apt-get -y install cron
-RUN apt-get update && apt-get -y install wget
+#RUN apt-get update && apt-get -y install wget
 RUN apt-get update && apt-get install -y ffmpeg
 ###################################
 
@@ -30,9 +30,9 @@ RUN pip3 install html5lib
 RUN pip3 install requests
 RUN pip3 install rawgpy
 RUN pip3 install pyyaml
-RUN pip3 install selenium
-RUN wget https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux64.tar.gz -P /
-RUN tar -zxf /geckodriver-v0.26.0-linux64.tar.gz -C /usr/bin
+#RUN pip3 install selenium
+#RUN wget https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux64.tar.gz -P /
+#RUN tar -zxf /geckodriver-v0.26.0-linux64.tar.gz -C /usr/bin
 ###################################
 
 

@@ -56,14 +56,14 @@ resource "aws_security_group" "ControlPlaneSecurityGroup" {
   name_prefix   = "ControlPlaneSG"
   vpc_id        = module.vpc.vpc_id
 
-  /*
+  
   ingress {
     from_port   = 22
     to_port     = 22
     protocol    = "tcp"
-    cidr_blocks = ["192.168.0.0/16"]
+    cidr_blocks = ["0.0.0.0/0"]
   }
-  */
+  
   ingress {
     from_port   = 2049
     to_port     = 2049

@@ -6,9 +6,7 @@ eval $(python3 ../_py/ReadConfig.py)
 
 ##############docker build####################
 #./docker_build.sh
-#aws ecr get-login-password --region $region | docker login --username AWS --password-stdin $(aws_account_id).dkr.ecr.$(region).amazonaws.com
-#docker tag $datascraper_image_id $(aws_account_id).dkr.ecr.$(region).amazonaws.com/rpp_datascraper-service
-#docker push $(aws_account_id).dkr.ecr.$(region).amazonaws.com/rpp_datascraper-service
+#./ecr_push.sh
 ##############################################
 
 

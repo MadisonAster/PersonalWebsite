@@ -4,6 +4,12 @@ variable "aws_account_id" {
   default     = "USER ACCOUNT NUMBER"
 }
 
+variable "aws_user_id" {
+  description = "<YOUR USER #>"
+  type        = string
+  default     = "USER USER NUMBER"
+}
+
 variable "aws_region" {
   description = "Name of Aws Region"
   type        = string
