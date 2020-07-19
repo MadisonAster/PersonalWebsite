@@ -8,9 +8,9 @@
 #08 * * * * python3 /mnt/w/_py/TakeSnapshots.py GetLinkedIn {LinkedIn_SnapshotURL} GetLinkedIn/snapshot >> /mnt/w/_logs/cron_LinkedIn.log
 
 #10 * * * * setsid firefox -P headless -headless >> /mnt/w/_logs/firefox.log 
-35 * * * * firefox -P headless -headless --first-startup >> /mnt/w/_logs/firefox.log 
-37 * * * * pkill -f firefox
-38 * * * * python3 /mnt/w/_py/Firefox.py /moz-headless Favorites/Bookmarks/snapshot/ >> /mnt/w/_logs/cron_Bookmarks.log
+10 * * * * firefox -P headless -headless --first-startup >> /mnt/w/_logs/firefox.log 
+12 * * * * pkill -f firefox
+13 * * * * python3 /mnt/w/_py/Firefox.py /moz-headless Favorites/Bookmarks/snapshot/ >> /mnt/w/_logs/cron_Bookmarks.log
 #14 * * * * rm -rf /moz-headless && cp -r /_firefoxprofile/ /moz-headless/
 #15 * * * * firefox -CreateProfile "headless /moz-headless"  -headless
 #16 * * * * cp -r /_firefoxprofile/ /moz-headless
