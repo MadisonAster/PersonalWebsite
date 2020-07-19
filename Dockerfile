@@ -15,14 +15,6 @@ RUN apt-get update && apt-get install -y ffmpeg
 ###################################
 
 
-##########SETUP FIREFOX############
-RUN add-apt-repository -y ppa:mozillateam/firefox-next
-RUN apt-get update && apt-get install -y firefox && rm -rf /var/lib/apt/lists/*
-RUN firefox -CreateProfile "headless /moz-headless"  -headless
-COPY ./_config/_firefoxprofile/ /moz-headless
-###################################
-
-
 ##########PYTHON LIBRARIES#########
 RUN pip3 install beautifulsoup4
 RUN pip3 install lxml
@@ -36,13 +28,23 @@ RUN pip3 install pyyaml
 ###################################
 
 
+##########SETUP FIREFOX############
+RUN add-apt-repository -y ppa:mozillateam/firefox-next
+RUN apt-get update && apt-get install -y firefox && rm -rf /var/lib/apt/lists/*
+RUN firefox -CreateProfile "headless /moz-headless"  -headless
+COPY ./_config/_firefoxprofile/ /moz-headless
+COPY ./_config/_firefoxprofile/ /_firefoxprofile
+###################################
+
+
 ######CREATE PROJECT STRUCTURE#####
-COPY _config /mnt/w/_config
+COPY ./_config /mnt/w/_config
 COPY ./_py /mnt/w/_py
 ###################################
 
 
 ######LOAD CONFIG (FF & CRON)######
+#RUN envsubst < ./_config/_firefoxprofile/PrefsTemplate.js > ./_config/_firefoxprofile/prefs.js
 RUN python3 /mnt/w/_py/LoadConfig.py
 ###################################
 

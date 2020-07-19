@@ -206,9 +206,4 @@ if __name__ == '__main__':
     OutputDir = sys.argv[2]
     
     sqlite_path = profile_path+'/'+'places.sqlite'
-    sqlite_path2 = profile_path+'/'+'places2.sqlite'
-    print('sqlite_path', sqlite_path)
-    print('sqlite_path2', sqlite_path2)
-    
-    shutil.copy(sqlite_path, sqlite_path2)
-    main(sqlite_path2, OutputDir)
+    main(sqlite_path, OutputDir)

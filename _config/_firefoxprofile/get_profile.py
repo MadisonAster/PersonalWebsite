@@ -27,7 +27,7 @@ def main(username):
 
 
 def GetProfilePath(username):
-    profiles_path = "C:/Users/"+username+"/AppData/Roaming/Mozilla/Firefox/Profiles"
+    profiles_path = "/mnt/c/Users/"+username+"/AppData/Roaming/Mozilla/Firefox/Profiles"
     profile_path = profiles_path+'/'+[i for i in os.listdir(profiles_path) if i.endswith('.default-release')][0]
     return profile_path
 

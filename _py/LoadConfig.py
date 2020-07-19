@@ -46,19 +46,17 @@ if __name__ == '__main__':
     Create_CronJobs(Config, CronJobsPath, CronJobs_DestPath)
     Create_CronJobs(Config, CronTestPath, CronTest_DestPath)
     
-    FireFox_PrefsPath = htmldir+'/_py/FirefoxPrefs.js'
+    FireFox_PrefsPath = htmldir+'/_config/_firefoxprofile/PrefsTemplate.js'
     print('FireFox_PrefsPath', FireFox_PrefsPath)
-    FireFox_PrefsDestPath = '/moz-headless/prefs.js'
-    print('FireFox_PrefsDestPath', FireFox_PrefsDestPath)
-    FireFox_CreatePrefs(Config, FireFox_PrefsPath, FireFox_PrefsDestPath)
+    FireFox_CreatePrefs(Config, FireFox_PrefsPath, '/_firefoxprofile/prefs.js')
+    FireFox_CreatePrefs(Config, FireFox_PrefsPath, '/moz-headless/prefs.js')
     
     #Copy these files from your Firefox profile folder (usually in AppData)
-    #to _config/firefoxprofile/ before running this script.
+    #to _config/_firefoxprofile/ before running this script.
     #   key4.db
     #   logins.json
     #   signedInUser.json
     
-    
     #To help find the path to your profile you can run:
-    #/_config/firefoxprofile/get_profile.py
+    #/_config/_firefoxprofile/get_profile.py
     
