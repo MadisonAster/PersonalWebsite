@@ -49,7 +49,8 @@ function ResumeDialog() {
         };
     };
     
-   if ($('#DialogProjectsList').children().length == 0){
+    /*
+    if ($('#DialogProjectsList').children().length == 0){
         for (var key in window.Projects){
             if (['pagination','remove','sortOn'].indexOf(key) == -1){
                 var Project = window.Projects[key];
@@ -57,6 +58,7 @@ function ResumeDialog() {
             };
         };
     };
+    */
     
     $('#ResumeDialog').dialog('open');
     $('#DialogFocuser').css('display', 'block');

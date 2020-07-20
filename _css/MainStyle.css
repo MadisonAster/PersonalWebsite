@@ -326,6 +326,27 @@ th:active,
     text-align:center;
 }
 
+.DialogScrollDiv {
+   overflow-y:scroll;
+   height:30%;
+   border-width:1px;
+   border-color:rgba(255,255,255,0.5); 
+   border-style:solid;
+   padding:10px;
+}
+.DialogScrollDiv::-webkit-scrollbar {
+    width: 5px;
+}
+
+.DialogScrollDiv::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.0); 
+}
+
+.DialogScrollDiv::-webkit-scrollbar-thumb {
+    -webkit-box-shadow: inset 0 0 6px rgba(255,255,255,0.5); 
+}
+​
+
 #FooterContainer{
     z-index:0;
     position:inline;

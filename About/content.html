@@ -33,32 +33,39 @@
         </div>
 
         <div class='DialogBox' id='ResumeDialog'>
-            <h1 style='text-align:left;'>Resume Generator:</h1>
+            
             <form method='post' action='javascript:CloseResumeDialog();'>
                 <input type='Submit' value='x' class='CloseButton'>
             </form>
             
-            <div style='text-align:right;'>
-                <form method='post' action='javascript:SoftwareEngineer_Resume();'>
-                    <input type='Submit' value='Download' class='DialogButton'>
-                </form>
-                <br/><br/>
-                Job type:
-                <div class="dropdown">
-                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Dropdown button
-                    </button>
-                    <div id="DialogSkillsMenu" class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                    </div>
+            <h5 style='text-align:left;'>Job Templates:</h5>
+            <div class="dropdown">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Dropdown button
+                </button>
+                <div id="DialogSkillsMenu" class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 </div>
             </div>
+
             <br/>
-            <div id='DialogSkillsCloud' style='overflow-y:scroll;height:30%;'></div>
+
+            <h5 style='text-align:left;'>Included Skills:</h5>
+            <div id='DialogSkillsCloud' class='DialogScrollDiv'></div>
+
             <br/>
-            <div id='DialogProjectsContainer' style='overflow-y:scroll;overflow-x:hidden;postion:relative;height:30%;'>
+
+            <h5 style='text-align:left;'>Included Projects:</h5>
+            <div id='DialogProjectsContainer' class='DialogScrollDiv'>
                 <ol id='DialogProjectsList'>
                 </ol>
             </div>
+
+            <br/>
+
+            <form method='post' action='javascript:SoftwareEngineer_Resume();' style='text-align:right;'>
+                <input type='Submit' value='Download Resume' class='DialogButton' style='width:30%;'>&nbsp;&nbsp;&nbsp;&nbsp;
+            </form>
         </div>
 
         <br/><br/>
