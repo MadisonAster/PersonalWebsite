@@ -110,6 +110,8 @@ See [_setup/README.md](_setup/README.md)
 - [x] Fix Live Development environment
 - [x] Write PersonalWebsite README
 - [x] AWS deployment
+- [x] Add Bookshelf project
+- [x] Add Toyota Project
 
 - [ ] Connect Skills tree links to positional Favorites tab links
 - [ ] Fix favorites popup content layout
@@ -149,8 +151,6 @@ See [_setup/README.md](_setup/README.md)
 
 - [ ] Update seo tags
 - [ ] Combine resume/cv
-- [ ] Add Bookshelf project
-- [ ] Add Toyota Project
 
 - [ ] Overhaul video player
 - [ ] Video ScrubBrush
