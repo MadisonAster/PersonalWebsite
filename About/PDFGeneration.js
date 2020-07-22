@@ -41,10 +41,11 @@ function ResumeDialog() {
         };
 
         var SkillButtonClasses = [
-            "SkillButtonDarkGrey",
+            /*"SkillButtonDarkGrey",*/
             "SkillButtonRed",
             "SkillButtonOrange",
             "SkillButtonYellow",
+            "SkillButtonGreen",
             "SkillButtonBlue",
             "SkillButtonViolet",
         ];

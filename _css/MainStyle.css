@@ -283,11 +283,11 @@ th:active,
 }
 
 .SkillButtonOrange {
-    background: linear-gradient(135deg, #e5ae09 0%,#ffd044 50%,#ffc107 51%,#fc9014 71%,#f1890b 100%);
+    background: linear-gradient(135deg, #ff8e09 0%,#ff9044 50%,#ff8107 51%,#ff7014 71%,#ff790b 100%);
 }
 
 .SkillButtonYellow {
-    background: linear-gradient(135deg, #e5ae09 0%,#ffd044 50%,#ffc107 51%,#fc9014 71%,#f1890b 100%);
+    background: linear-gradient(135deg, #c5ae09 0%,#dfd044 50%,#dcc107 51%,#dc9014 71%,#d1890b 100%);
 }
 
 .SkillButtonGreen {
@@ -303,7 +303,7 @@ th:active,
 }
 
 .SkillButtonViolet {
-    background: linear-gradient(135deg, #5a7ce2 0%,#8283e8 50%,#5c5de8 51%,#565bd8 71%,#575cdb 100%);
+    background: linear-gradient(135deg, #9a7ce2 0%,#a283e8 50%,#9c5de8 51%,#965bd8 71%,#975cdb 100%);
 }
 
 .SkillButtonGray {
