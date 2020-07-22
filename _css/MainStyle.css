@@ -322,7 +322,42 @@ th:active,
 }
 
 
+.SkillButtonDarkDarkGrey {
+    background: linear-gradient(135deg, #141a20 0%,#343434 50%,#404040 51%,#262626 71%,#232323 100%) !important;
+}
+.SkillButtonDarkDarkDarkerGrey {
+    background: linear-gradient(135deg, #202020 0%,#303030 50%,#282828 51%,#262626 71%,#202020 100%) !important;
+}
 
+
+#ResumeDownloadButton{
+    display:inline-block;
+    line-height: 1.5;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.14);
+    text-decoration:none;
+    /*box-shadow: 0 4px 9px 0 rgba(0, 0, 0, 0.2);*/
+    
+    border-radius:0px;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:12px;
+    padding-right:12px;
+    font-size:18px;
+    font-weight:bold;   
+    letter-spacing:1px;
+    color: #ffffff;
+    border-width: 1px solid transparent;
+
+    /*border-radius: .25rem;*/
+
+    /*border-color:#007bff;*/
+    /*background: #5a7ce2;*/
+    /*border: 1px solid;*/
+    /*
+    transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    */
+}
 
 
 
@@ -351,7 +386,8 @@ th:active,
     padding: .375rem .75rem;
     font-size: 1rem;
     line-height: 1.5;
-    border-radius: .25rem;
+    /*border-radius: .25rem;*/
+
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
     text-transform: none;
 }
