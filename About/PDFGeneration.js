@@ -30,20 +30,33 @@ function ResumeDialog() {
     };
     if ($('#DialogSkillsCloud').children().length == 0){
         var SkillSets = {};
-       
         for (var key in window.Skills){
             if (key != 'pagination'){
                 var Skill = window.Skills[key];
-                if (!(Skill['color'] in SkillSets)) {
-                    SkillSets[Skill['color']] = [];
+                if (!(Skill['skillset'] in SkillSets)) {
+                    SkillSets[Skill['skillset']] = [];
                 };
-                SkillSets[Skill['color']].push(Skill);
+                SkillSets[Skill['skillset']].push(Skill);
             };
         };
-        for (var color in SkillSets){
-            for (var i = 0; i < SkillSets[color].length; i++){
-                var Skill = SkillSets[color][i];
-                $('#DialogSkillsCloud').append('<button type="button" class="SkillButton" style="background:#'+color+'">'+Skill['title']+'</button>');
+
+        var SkillButtonClasses = [
+            "SkillButtonDarkGrey",
+            "SkillButtonRed",
+            "SkillButtonOrange",
+            "SkillButtonYellow",
+            "SkillButtonBlue",
+            "SkillButtonViolet",
+        ];
+        var count = 0;
+        for (var skillset in SkillSets){
+            var SkillButtonClass = SkillButtonClasses[count];
+            count += 1;
+            for (var i = 0; i < SkillSets[skillset].length; i++){
+                var Skill = SkillSets[skillset][i];
+                //$('#DialogSkillsCloud').append('<button type="button" class="SkillButton" style="background:#'+color+'">'+Skill['title']+'</button>');
+                //$('#DialogSkillsCloud').append('<label class="SkillButton" style="background:#'+color+';border-color:#'+color+'"><input class="SkillCheckBox" type="checkbox" checked autocomplete="off">'+Skill['title']+'</label>');
+                $('#DialogSkillsCloud').append('<label class="SkillButton '+SkillButtonClass+'"><input class="SkillCheckBox" type="checkbox" checked autocomplete="off">'+Skill['title']+'</label>');
             };
             $('#DialogSkillsCloud').append('<br/>');
         };

@@ -261,18 +261,74 @@ th:active,
     text-decoration:none;
     box-shadow: 0 4px 9px 0 rgba(0, 0, 0, 0.2);
     
-    border-radius:100px;
+    border-radius:20px;
+    padding-top:3px;
+    padding-bottom:3px;
+    padding-left:12px;
+    padding-right:12px;
     font-size:13px;
-    font-weight:bold;
+    font-weight:bold;   
     letter-spacing:1px;
     color: #ffffff;
-    border-color:#007bff;
-    background: #5a7ce2;
-    border: 1px solid transparent;
+    /*border-color:#007bff;*/
+    /*background: #5a7ce2;*/
+    /*border: 1px solid;*/
     /*
     transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
     */
 }
+
+.SkillButtonRed {
+    background: linear-gradient(135deg, #e81216 0%,#f45355 50%,#f6290c 51%,#ed0e11 71%,#fc1b21 100%);
+}
+
+.SkillButtonOrange {
+    background: linear-gradient(135deg, #e5ae09 0%,#ffd044 50%,#ffc107 51%,#fc9014 71%,#f1890b 100%);
+}
+
+.SkillButtonYellow {
+    background: linear-gradient(135deg, #e5ae09 0%,#ffd044 50%,#ffc107 51%,#fc9014 71%,#f1890b 100%);
+}
+
+.SkillButtonGreen {
+    background: linear-gradient(135deg, #05ac50 0%,#21dd72 50%,#05c44e 51%,#05ac50 71%,#05ac50 100%);
+}
+
+.SkillButtonBlue {
+    background: linear-gradient(135deg, #5a7ce2 0%,#8283e8 50%,#5c5de8 51%,#565bd8 71%,#575cdb 100%);
+}
+
+.SkillButtonIndigo {
+    background: linear-gradient(135deg, #01a8c1 0%,#2adbf7 50%,#00b5d1 51%,#0aafc9 71%,#0599b1 100%);
+}
+
+.SkillButtonViolet {
+    background: linear-gradient(135deg, #5a7ce2 0%,#8283e8 50%,#5c5de8 51%,#565bd8 71%,#575cdb 100%);
+}
+
+.SkillButtonGray {
+    background: linear-gradient(135deg, #797b7f 0%,#b5b8bf 50%,#8e9397 51%,#8e9397 71%,#828589 100%);
+}
+
+.SkillButtonDarkGrey {
+    background: linear-gradient(135deg, #343a40 0%,#667584 50%,#4e5256 51%,#242a30 71%,#343a40 100%);
+}
+
+.SkillButtonWhite {
+    background: linear-gradient(135deg, #f2f2f2 0%,#dddddd 50%,#ffffff 51%,#ffffff 71%,#f6f8fb 100%);
+}
+
+
+
+
+
+
+
+.SkillCheckBox{
+    width: 0px;
+}
+
+
 .dropdown button{
     color: #fff;
     background-color: #545b62;
@@ -322,9 +378,7 @@ th:active,
     display:block;
 }
 
-#DialogSkillsCloud{
-    text-align:center;
-}
+
 
 
 #FooterContainer{
@@ -458,7 +512,9 @@ canvas:focus {
     margin: 2px;
 }
 
-
+#DialogSkillsCloud{
+    text-align:center;
+}
 
 .DialogScrollDiv {
    overflow-y:scroll;
