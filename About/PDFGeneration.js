@@ -12,8 +12,7 @@ function ResumeDialog() {
     });
     
     
-    if ($('#DialogSkillsMenu').children().length == 0){
-        console.log('SUCCCESSSSS');
+    if ($('#JobTypeDropdownMenu').children().length == 0){
         var JobTypes = {
             'Software Engineer' : {},
             'Graphics Engineer' : {},
@@ -22,10 +21,10 @@ function ResumeDialog() {
             'VFX Engineer' : {},
             'Game Developer' : {},
         }
+        $('#JobTypeDropdownButton').text("Software Engineer");
         for (var title in JobTypes) {
-            console.log(title);
             var JobData = JobTypes[title];
-            $('#DialogSkillsMenu').append('<a class="dropdown-item" href="#">'+title+'</a>');
+            $('#JobTypeDropdownMenu').append('<a class="dropdown-item" href="#">'+title+'</a>');
         };
     };
     if ($('#DialogSkillsCloud').children().length == 0){
