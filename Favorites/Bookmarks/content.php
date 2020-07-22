@@ -25,7 +25,7 @@ function SortByPosition($a, $b) {
     return $a['position'] - $b['position'];
 }
 
-function RecursivelyPrintFolders($folders, $colors, $root=false, $color=null, $Skills=null) {
+function RecursivelyPrintFolders($folders, $colors, $root=false, $color=null, $skillset=null, $Skills=null) {
     usort($folders, 'SortByPosition');
     if ($Skills == null){
         $Skills = array();
@@ -34,6 +34,7 @@ function RecursivelyPrintFolders($folders, $colors, $root=false, $color=null, $S
         if ($root){
             $colorindex = intval($folder['position']) % sizeof($colors);
             $color = $colors[$colorindex];
+            $skillset = $folder['_title'];
         }
         if (strpos($folder['_title'], '|') !== false) {
             echo "<li id='item_".$folder['id']."' data-module='".$folder['id']."' class='sortableListsClosed clickable' style='border-color:#".$color.";background-color:#".$color.";'>";
@@ -47,6 +48,9 @@ function RecursivelyPrintFolders($folders, $colors, $root=false, $color=null, $S
                     "year" => $year,
                     "proficiency" => $level,
                     "color" => $color,
+                    "skillset" => $skillset,
+                    //"skillsetyear" => $skillsetyear,
+                    //"skillsetyear" => $skillsetlevel,
                 );
                 array_push($Skills, $SkillsObject);
             };
@@ -66,7 +70,7 @@ function RecursivelyPrintFolders($folders, $colors, $root=false, $color=null, $S
         } else {
             echo "<ol class='clickable'>";
         }
-        $Skills = RecursivelyPrintFolders($folder['folders'], $colors, false, $color, $Skills);
+        $Skills = RecursivelyPrintFolders($folder['folders'], $colors, false, $color, $skillset, $Skills);
         $links = $folder['links'];
         usort($links, 'SortByPosition');
         foreach ($links as &$link){
@@ -90,7 +94,7 @@ $Colors = Array(
     '3F3F3F',
     '3F3F3F',
 );
-$Skills = RecursivelyPrintFolders($Bookmarks['folders'], $Colors, true, null);
+$Skills = RecursivelyPrintFolders($Bookmarks['folders'], $Colors, true);
 $Skills['pagination'] = array('count' => 999);
 echo "<script type='text/javascript'>";
 echo "    window.Skills = ".json_encode($Skills).";";
