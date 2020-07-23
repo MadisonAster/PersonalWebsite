@@ -41,3 +41,4 @@ function EncodeData(InputData) {
     alert(result);
     return result;
 }
+
