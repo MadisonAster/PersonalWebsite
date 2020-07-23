@@ -82,14 +82,36 @@ function ResumeDialog() {
     $('#ResumeDialog').css('height', 'calc(82% - 80px)');
 }
 
-function SetJobType(JobTypeTitle){
-    console.log('SetJobType', JobTypeTitle);
+function GenerateResume(){
+    var ActiveSkills = GetActiveSkillList();
+    var JobTitle = GetJobTitle();
+    var JobType = GetJobType();
+    console.log(ActiveSkills);
+    console.log(JobTitle);
+    console.log(JobType);
+}
 
+function GetActiveSkillList(){
+    var ActiveSkills = [];
+    $("[id^=cbox]").each(function() {
+        if (this.checked){
+            ActiveSkills.push(this.id.replaceAll('cbox_',''));
+        };
+    });
+    return ActiveSkills;
+}
+
+function GetJobType(){
+    return window.JobTypes[GetJobTitle()];
+}
+
+function GetJobTitle(){
+    return $('#JobTypeDropdownButton').text();
+}
+
+function SetJobType(JobTypeTitle){
     $('#JobTypeDropdownButton').text(JobTypeTitle);
     var JobData = window.JobTypes[JobTypeTitle];
-
-
-    console.log('SetJobType', JobData);
 }
 
 function CVDialog() {
