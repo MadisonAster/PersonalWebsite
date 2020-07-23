@@ -14,14 +14,25 @@ function ResumeDialog() {
     
     if ($('#JobTypeDropdownMenu').children().length == 0){
         window.JobTypes = {
-            'Software Engineer' : {},
-            'Graphics Engineer' : {},
-            'Full Stack Engineer' : {},
-            'Backend Engineer' : {},
-            'VFX Engineer' : {},
-            'Game Developer' : {},
+            'Software Engineer' : {
+                'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "CSS", "Java", "ActionScript", "SQL", "x86 Assembly", "VBA", "Vulkan", "WebGL", "OpenGL", "Qt", "Tensorflow", "Django", "Windows", "Linux", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Terraform", "Unreal", "Unity", "RealityCapture", "Houdini", "Maya", "3D Printing", "Nuke", "Ffmpeg", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Patent Authoring", "Excel", "LiveCycle", "Access", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
+            },
+            'Graphics Engineer' : {
+                'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "CSS", "Vulkan", "WebGL", "OpenGL", "Qt", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Maya", "ZBrush", "Cinema 4D", "LightWave 3D", "Softimage", "Nuke", "Photoshop", "Flame", "Premier", "Avid", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Shotgun", "FileMaker Pro", "Smart Sheets"],
+            },
+            'Full Stack Engineer' : {
+                'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "CSS", "SQL", "WebGL", "Qt", "Tensorflow", "Django", "Windows", "Linux", "Git", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Maya", "Nuke", "Photoshop", "Ffmpeg", "After Effects", "Illustrator", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Excel", "LiveCycle"],
+            },
+            'Backend Engineer' : {
+                'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "Java", "SQL", "x86 Assembly", "VBA", "WebGL", "Qt", "Tensorflow", "Django", "Windows", "Linux", "Android", "Git", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Maya", "Nuke", "Photoshop", "Ffmpeg", "After Effects", "Illustrator", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Excel", "LiveCycle"],
+            },
+            'VFX Engineer' : {
+                'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "CSS", "Vulkan", "WebGL", "OpenGL", "Qt", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Maya", "ZBrush", "Cinema 4D", "LightWave 3D", "Softimage", "Nuke", "Photoshop", "Flame", "Premier", "Avid", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Shotgun", "FileMaker Pro", "Smart Sheets"],
+            },
+            'Game Developer' : {
+                'ActiveSkills' : ["Python", "C++", "Javascript", "ActionScript", "Vulkan", "WebGL", "OpenGL", "Qt", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "Boujou", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Fusion360", "Alias", "Maya", "ZBrush", "Substance Designer", "Cinema 4D", "LightWave 3D", "Blender", "3D Printing", "Softimage", "Nuke", "Photoshop", "Flame", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Project Management", "Systems Administration", "CCNA", "Excel", "Shotgun", "FileMaker Pro", "Smart Sheets"],
+            },
         }
-        $('#JobTypeDropdownButton').text("Software Engineer");
         for (var title in window.JobTypes) {
             var JobData = window.JobTypes[title];
             //$('#JobTypeDropdownMenu').append('<a class="dropdown-item" href="#">'+title+'</a>');
@@ -76,6 +87,7 @@ function ResumeDialog() {
     
 
     //Show Dialog
+    SetJobType('Software Engineer');
     $('#ResumeDialog').dialog('open');
     $('#DialogFocuser').css('display', 'block');
     $('#ResumeDialog').css('width', 'calc(82% - 80px)');
@@ -101,6 +113,17 @@ function GetActiveSkillList(){
     return ActiveSkills;
 }
 
+function SetActiveSkillList(ActiveSkills){
+    $("[id^=cbox]").each(function() {
+        var skillname = this.id.replaceAll('cbox_','');
+        if (ActiveSkills.indexOf(skillname) > -1){
+            this.checked = true;
+        } else {
+            this.checked = false;
+        }
+    });
+}
+
 function GetJobType(){
     return window.JobTypes[GetJobTitle()];
 }
@@ -112,6 +135,7 @@ function GetJobTitle(){
 function SetJobType(JobTypeTitle){
     $('#JobTypeDropdownButton').text(JobTypeTitle);
     var JobData = window.JobTypes[JobTypeTitle];
+    SetActiveSkillList(JobData['ActiveSkills']);
 }
 
 function CVDialog() {
