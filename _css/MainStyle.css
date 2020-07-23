@@ -267,40 +267,57 @@ th:active,
     font-weight:bold;   
     letter-spacing:1px;
     color: #ffffff;
-    /*border-color:#007bff;*/
-    /*background: #5a7ce2;*/
-    /*border: 1px solid;*/
+    border-style:solid;
+    border-width:1px;
     /*
     transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
     */
 }
+input[type=checkbox]:not(:checked)+.SkillButton {
+  background:none;
+  opacity: 0.5;
+}
+input[type=checkbox]:checked+.SkillButton {
+  opacity: 1.0;
+}
+.SkillCheckBox{
+    display: none;
+}
+
 
 .SkillButtonRed {
     background: linear-gradient(135deg, #e81216 0%,#f45355 50%,#f6290c 51%,#ed0e11 71%,#fc1b21 100%);
+    border-color: red;
 }
 
 .SkillButtonOrange {
     background: linear-gradient(135deg, #ff8e09 0%,#ff9044 50%,#ff8107 51%,#ff7014 71%,#ff790b 100%);
+    border-color: orange;
 }
 
 .SkillButtonYellow {
     background: linear-gradient(135deg, #c5ae09 0%,#dfd044 50%,#dcc107 51%,#dc9014 71%,#d1890b 100%);
+    border-color: yellow;
 }
 
 .SkillButtonGreen {
     background: linear-gradient(135deg, #05ac50 0%,#21dd72 50%,#05c44e 51%,#05ac50 71%,#05ac50 100%);
+    border-color: green;
 }
 
 .SkillButtonBlue {
     background: linear-gradient(135deg, #5a7ce2 0%,#8283e8 50%,#5c5de8 51%,#565bd8 71%,#575cdb 100%);
+    border-color: blue;
 }
 
 .SkillButtonIndigo {
     background: linear-gradient(135deg, #01a8c1 0%,#2adbf7 50%,#00b5d1 51%,#0aafc9 71%,#0599b1 100%);
+    border-color: indigo;
 }
 
 .SkillButtonViolet {
     background: linear-gradient(135deg, #9a7ce2 0%,#a283e8 50%,#9c5de8 51%,#965bd8 71%,#975cdb 100%);
+    border-color: violet;
 }
 
 .SkillButtonGray {
@@ -354,11 +371,6 @@ th:active,
 }
 
 
-
-
-.SkillCheckBox{
-    width: 0px;
-}
 
 
 .dropdown button{

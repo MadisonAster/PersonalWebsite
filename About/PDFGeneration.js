@@ -55,9 +55,9 @@ function ResumeDialog() {
             count += 1;
             for (var i = 0; i < SkillSets[skillset].length; i++){
                 var Skill = SkillSets[skillset][i];
-                //$('#DialogSkillsCloud').append('<button type="button" class="SkillButton" style="background:#'+color+'">'+Skill['title']+'</button>');
-                //$('#DialogSkillsCloud').append('<label class="SkillButton" style="background:#'+color+';border-color:#'+color+'"><input class="SkillCheckBox" type="checkbox" checked autocomplete="off">'+Skill['title']+'</label>');
-                $('#DialogSkillsCloud').append('<label class="SkillButton '+SkillButtonClass+'"><input class="SkillCheckBox" type="checkbox" checked autocomplete="off">'+Skill['title']+'</label>');
+                $('#DialogSkillsCloud').append('<input class="SkillCheckBox '+SkillButtonClass+'" type="checkbox" checked autocomplete="off" id="cbox_'+Skill['title']+'">');
+                $('#DialogSkillsCloud').append('<label class="btn checkbox SkillButton '+SkillButtonClass+'" for="cbox_'+Skill['title']+'">'+Skill['title']+'</label>');
+                
             };
             $('#DialogSkillsCloud').append('<br/>');
         };
@@ -74,10 +74,12 @@ function ResumeDialog() {
     };
     */
     
+
+    //Show Dialog
     $('#ResumeDialog').dialog('open');
     $('#DialogFocuser').css('display', 'block');
     $('#ResumeDialog').css('width', 'calc(82% - 80px)');
-    $('#ResumeDialog').css('height', 'calc(82% - 80px)');   
+    $('#ResumeDialog').css('height', 'calc(82% - 80px)');
 }
 
 function SetJobType(JobTypeTitle){
