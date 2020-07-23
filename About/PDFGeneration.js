@@ -13,7 +13,7 @@ function ResumeDialog() {
     
     
     if ($('#JobTypeDropdownMenu').children().length == 0){
-        var JobTypes = {
+        window.JobTypes = {
             'Software Engineer' : {},
             'Graphics Engineer' : {},
             'Full Stack Engineer' : {},
@@ -22,9 +22,10 @@ function ResumeDialog() {
             'Game Developer' : {},
         }
         $('#JobTypeDropdownButton').text("Software Engineer");
-        for (var title in JobTypes) {
-            var JobData = JobTypes[title];
-            $('#JobTypeDropdownMenu').append('<a class="dropdown-item" href="#">'+title+'</a>');
+        for (var title in window.JobTypes) {
+            var JobData = window.JobTypes[title];
+            //$('#JobTypeDropdownMenu').append('<a class="dropdown-item" href="#">'+title+'</a>');
+            $('#JobTypeDropdownMenu').append('<a class="dropdown-item" href="javascript:void(0);" onclick="SetJobType(\''+title+'\');">'+title+'</a>');
         };
     };
     if ($('#DialogSkillsCloud').children().length == 0){
@@ -80,6 +81,17 @@ function ResumeDialog() {
     $('#ResumeDialog').css('width', 'calc(82% - 80px)');
     $('#ResumeDialog').css('height', 'calc(82% - 80px)');
 }
+
+function SetJobType(JobTypeTitle){
+    console.log('SetJobType', JobTypeTitle);
+
+    $('#JobTypeDropdownButton').text(JobTypeTitle);
+    var JobData = window.JobTypes[JobTypeTitle];
+
+
+    console.log('SetJobType', JobData);
+}
+
 function CVDialog() {
     $( "#CVDialog" ).dialog({
             modal: true,

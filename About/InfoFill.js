@@ -25,8 +25,7 @@ Date.prototype.yyyymmdd = function() {
           (mm>9 ? '' : '0') + mm,
           (dd>9 ? '' : '0') + dd
          ].join('');
-};
-
+}
 
 function GetGenerationDate() {
     return new Date().toLocaleString();
