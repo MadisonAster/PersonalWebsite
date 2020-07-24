@@ -28,7 +28,8 @@ spec:
     spec:
       containers:
       - name: resumeplusplus
-        image: php:apache
+        #image: php:apache
+        image: ${myapache_image}
         #expose: 
         #- 80
         ports:
