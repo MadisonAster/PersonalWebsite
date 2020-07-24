@@ -148,15 +148,32 @@ function ResumeDialog() {
 
     //Show Dialog
     SetJobType('Software Engineer');
+    disableScroll();
     $('#ResumeDialog').dialog('open');
     $('#DialogFocuser').css('display', 'block');
     $('#ResumeDialog').css('width', 'calc(82% - 80px)');
     $('#ResumeDialog').css('height', 'calc(82% - 80px)');
 }
+function enableScroll() { 
+    window.onscroll = window.old_onscroll;
+} 
+function disableScroll() { 
+    // Get the current page scroll position 
+    window.old_onscroll = window.onscroll;
+
+    scrollTop = window.pageYOffset || document.documentElement.scrollTop; 
+    scrollLeft = window.pageXOffset || document.documentElement.scrollLeft, 
+  
+        // if any scroll is attempted, set this to the previous value 
+        window.onscroll = function() { 
+            window.scrollTo(scrollLeft, scrollTop); 
+        }; 
+} 
 
 function CloseResumeDialog() {
     $('#ResumeDialog').dialog('close');
     $('#DialogFocuser').css('display', 'none');
+    enableScroll();
 }
 
 function GetActiveSkillList(){
@@ -553,7 +570,6 @@ function ResumeExperienceTable(doc) {
 function ResumeSave(doc, PositionTitle) {
     var date = new Date();
     doc.save('MadisonAster_'+PositionTitle.replaceAll(' ','')+'_Resume'+date.yyyymmdd()+'.pdf');
-    CloseResumeDialog();
 }
 
 
