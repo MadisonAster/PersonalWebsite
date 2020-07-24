@@ -2,7 +2,8 @@ version: '3'
 
 services:
   resume-service:
-    image: php:apache
+    #image: php:apache
+    image: myapache:latest
     expose:
       - 80
     volumes:

@@ -1,0 +1,1 @@
+docker build ../_specs/www/ --tag myapache

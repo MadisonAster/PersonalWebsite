@@ -5,7 +5,8 @@ eval $(python3 ../_py/ReadConfig.py)
 
 
 ##############docker build####################
-#./docker_build.sh
+#./datascraper_build.sh
+#./myapache_build.sh
 #./ecr_push.sh
 ##############################################
 
