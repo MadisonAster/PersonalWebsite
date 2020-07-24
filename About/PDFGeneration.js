@@ -94,13 +94,9 @@ function ResumeDialog() {
     $('#ResumeDialog').css('height', 'calc(82% - 80px)');
 }
 
-function GenerateResume(){
-    var ActiveSkills = GetActiveSkillList();
-    var JobTitle = GetJobTitle();
-    var JobType = GetJobType();
-    console.log(ActiveSkills);
-    console.log(JobTitle);
-    console.log(JobType);
+function CloseResumeDialog() {
+    $('#ResumeDialog').dialog('close');
+    $('#DialogFocuser').css('display', 'none');
 }
 
 function GetActiveSkillList(){
@@ -138,29 +134,46 @@ function SetJobType(JobTypeTitle){
     SetActiveSkillList(JobData['ActiveSkills']);
 }
 
-function CVDialog() {
-    $( "#CVDialog" ).dialog({
-            modal: true,
-            autoOpen: false,
-    });
-    
-    $('#CVDialog').dialog('open');
-    $('#DialogFocuser').css('display', 'block');
-    $('#CVDialog').css('width', '50%');
-    $('#CVDialog').css('height', '25%');
-    $('#CVDialog').css('min-height', '12cm');
-    $('#CVDialog').css('max-height', '500px');
-    $('#CVDialog').css('min-width', '20cm');
-    $('#CVDialog').css('max-width', '600px')
+function GenerateResume(){
+    var ActiveSkills = GetActiveSkillList();
+    var JobTitle = GetJobTitle();
+    var JobType = GetJobType();
+    console.log(ActiveSkills);
+    console.log(JobTitle);
+    console.log(JobType);
+
+    if (JobTitle == 'Software Engineer') {
+        SoftwareEngineer_Resume();
+    } else if (JobTitle == 'Graphics Engineer') {
+        GraphicsEngineer_Resume();
+    } else if (JobTitle == 'Full Stack Engineer') {
+        FullStackEngineer_Resume();
+    } else if (JobTitle == 'Backend Engineer') {
+        BackEndEngineer_Resume();
+    } else if (JobTitle == 'VFX Engineer') {
+        VFXEngineer_Resume();
+    } else if (JobTitle == 'Game Developer') {
+        GameDeveloper_Resume();
+    };
 }
-function CloseResumeDialog() {
-    $('#ResumeDialog').dialog('close');
-    $('#DialogFocuser').css('display', 'none');
-}
-function CloseCVDialog() {
-    $('#CVDialog').dialog('close');
-    $('#DialogFocuser').css('display', 'none');
-}
+
+
+function SortProjects(SelectedTags) {
+    for (var i = 0; i < window.Projects.length; i++) {
+        var TagCount = 0;
+        for (var j = 0; j < window.Projects[i]["tags"].length; j++) {
+            var thistag = window.Projects[i]["tags"][j].rstrip();
+            if (SelectedTags.indexOf(thistag) > -1){
+                TagCount += 1;
+            };
+        };
+        window.Projects[i]["TagCount"] = TagCount;
+    };
+    window.Projects.sortOn("TagCount");
+    window.Projects = window.Projects.reverse();
+};
+
+
 
 function ResumeSetup(){
     var doc = new jsPDF('p', 'pt', 'letter');
@@ -508,124 +521,7 @@ function SoftwareEngineer_Resume() {
     ResumeExperienceTable(doc);
     ResumeSave(doc, PositionTitle);
 }
-
-
-function VRGameDeveloper_Resume() {
-    var doc = ResumeSetup();
-    
-    var PositionTitle = "VR Game Developer";
-    var Objective = "Looking to work on VR Games with challenging coding problems and inspiring designs, with a keen interest in experimental hardware.";
-    var SkillsArray = [
-    {"id": "Python:", "desc": "5 Years professional experience"},
-    {"id": "C++/UE4 Blueprint:", "desc": "2 Years development experience. Oculus, Vive, Daydream, Leap Motion, Virtuix Omni"},
-    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-    ];
-    
-    ResumeContactDetails(doc, PositionTitle);    
-    ResumeProfile(doc, Objective);
-    ResumeKeySkills(doc, SkillsArray);
-    ResumeEducation(doc);
-    ResumeProfessionalExperience(doc);
-    ResumeExperienceTable(doc);
-    ResumeSave(doc, PositionTitle);
-}
-function PythonDeveloper_Resume() {
-    var doc = ResumeSetup();
-    
-    var PositionTitle = "Python Developer";
-    var Objective = "Looking for work on highly modular software projects with long evolution curves.";
-    var SkillsArray = [
-    {"id": "Python:", "desc": "5 years professional experience"},
-    {"id": "PySide/PyQt:", "desc": "2 years professional experience"},
-    {"id": "C++:", "desc": "2 years professional experience"},
-    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-    ];
-    
-    ResumeContactDetails(doc, PositionTitle);    
-    ResumeProfile(doc, Objective);
-    ResumeKeySkills(doc, SkillsArray);
-    ResumeEducation(doc);
-    ResumeProfessionalExperience(doc);
-    ResumeExperienceTable(doc);
-    ResumeSave(doc, PositionTitle);
-}
-function SoftwareDeveloper_Resume() {
-    var doc = ResumeSetup();
-    
-    var PositionTitle = "Software Developer";
-    var Objective = "Seeking work on highly modular software projects that require succinctly written and maintainable code.";
-    var SkillsArray = [
-    {"id": "Python:", "desc": "5 Years experience"},
-    {"id": "PySide/PyQt:", "desc": "2 years professional experience"},
-    {"id": "C++:", "desc": "2 years professional experience"},
-    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-    ];
-    
-    ResumeContactDetails(doc, PositionTitle);    
-    ResumeProfile(doc, Objective);
-    ResumeKeySkills(doc, SkillsArray);
-    ResumeEducation(doc);
-    ResumeProfessionalExperience(doc);
-    ResumeExperienceTable(doc);
-    ResumeSave(doc, PositionTitle);
-}
-function VFXTechnicalDirector_Resume() {
-    var doc = ResumeSetup();
-    
-    var PositionTitle = "VFX Technical Director";
-    var Objective = "Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.";
-    var SkillsArray = [
-    {"id": "Python:", "desc": "5 Years experience"},
-    {"id": "C++/UE4 Blueprint:", "desc": "2 Years experience"},
-    {"id": "Nuke Python API", "desc": "3 Years professional experience"},
-    {"id": "DI Finishing Pipeline", "desc": "1 Year professional experience"},
-    {"id": "Maya Pipeline", "desc": "1 Year professional experience"},
-    {"id": "VFX Compositing", "desc": "1 Years professional experience"},
-    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-    ];
-    
-    ResumeContactDetails(doc, PositionTitle);    
-    ResumeProfile(doc, Objective);
-    ResumeKeySkills(doc, SkillsArray);
-    ResumeEducation(doc);
-    ResumeProfessionalExperience(doc);
-    ResumeExperienceTable(doc);
-    ResumeSave(doc, PositionTitle);
-}
-function SystemsEngineer_Resume() {
-    var doc = ResumeSetup();
-    
-    var PositionTitle = "Systems Engineer";
-    var Objective = "Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.";
-    var SkillsArray = [
-    {"id": "Python:", "desc": "5 Years experience"},
-    {"id": "C++/UE4 Blueprint:", "desc": "2 Years experience"},
-    {"id": "Nuke Python API", "desc": "3 Years professional experience"},
-    {"id": "DI Finishing Pipeline", "desc": "1 Year professional experience"},
-    {"id": "Maya Pipeline", "desc": "1 Year professional experience"},
-    {"id": "VFX Compositing", "desc": "1 Years professional experience"},
-    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-    ];
-    
-    ResumeContactDetails(doc, PositionTitle);    
-    ResumeProfile(doc, Objective);
-    ResumeKeySkills(doc, SkillsArray);
-    ResumeEducation(doc);
-    ResumeProfessionalExperience(doc);
-    ResumeExperienceTable(doc);
-    ResumeSave(doc, PositionTitle);
-}
-function PipelineDeveloper_Resume() {
+function GraphicsEngineer_Resume() {
     var doc = ResumeSetup();
     
     var PositionTitle = "Pipeline Developer";
@@ -650,7 +546,122 @@ function PipelineDeveloper_Resume() {
     ResumeExperienceTable(doc);
     ResumeSave(doc, PositionTitle);
 }
+function FullStackEngineer_Resume() {
+    var doc = ResumeSetup();
+    
+    var PositionTitle = "Python Developer";
+    var Objective = "Looking for work on highly modular software projects with long evolution curves.";
+    var SkillsArray = [
+    {"id": "Python:", "desc": "5 years professional experience"},
+    {"id": "PySide/PyQt:", "desc": "2 years professional experience"},
+    {"id": "C++:", "desc": "2 years professional experience"},
+    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
+    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
+    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
+    ];
+    
+    ResumeContactDetails(doc, PositionTitle);    
+    ResumeProfile(doc, Objective);
+    ResumeKeySkills(doc, SkillsArray);
+    ResumeEducation(doc);
+    ResumeProfessionalExperience(doc);
+    ResumeExperienceTable(doc);
+    ResumeSave(doc, PositionTitle);
+}
+function VFXEngineer_Resume() {
+    var doc = ResumeSetup();
+    
+    var PositionTitle = "VFX Technical Director";
+    var Objective = "Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.";
+    var SkillsArray = [
+    {"id": "Python:", "desc": "5 Years experience"},
+    {"id": "C++/UE4 Blueprint:", "desc": "2 Years experience"},
+    {"id": "Nuke Python API", "desc": "3 Years professional experience"},
+    {"id": "DI Finishing Pipeline", "desc": "1 Year professional experience"},
+    {"id": "Maya Pipeline", "desc": "1 Year professional experience"},
+    {"id": "VFX Compositing", "desc": "1 Years professional experience"},
+    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
+    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
+    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
+    ];
+    
+    ResumeContactDetails(doc, PositionTitle);    
+    ResumeProfile(doc, Objective);
+    ResumeKeySkills(doc, SkillsArray);
+    ResumeEducation(doc);
+    ResumeProfessionalExperience(doc);
+    ResumeExperienceTable(doc);
+    ResumeSave(doc, PositionTitle);
+}
+function BackendEngineer_Resume() {
+    var doc = ResumeSetup();
+    
+    var PositionTitle = "Systems Engineer";
+    var Objective = "Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.";
+    var SkillsArray = [
+    {"id": "Python:", "desc": "5 Years experience"},
+    {"id": "C++/UE4 Blueprint:", "desc": "2 Years experience"},
+    {"id": "Nuke Python API", "desc": "3 Years professional experience"},
+    {"id": "DI Finishing Pipeline", "desc": "1 Year professional experience"},
+    {"id": "Maya Pipeline", "desc": "1 Year professional experience"},
+    {"id": "VFX Compositing", "desc": "1 Years professional experience"},
+    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
+    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
+    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
+    ];
+    
+    ResumeContactDetails(doc, PositionTitle);    
+    ResumeProfile(doc, Objective);
+    ResumeKeySkills(doc, SkillsArray);
+    ResumeEducation(doc);
+    ResumeProfessionalExperience(doc);
+    ResumeExperienceTable(doc);
+    ResumeSave(doc, PositionTitle);
+}
+function GameDeveloper_Resume() {
+    var doc = ResumeSetup();
+    
+    var PositionTitle = "VR Game Developer";
+    var Objective = "Looking to work on VR Games with challenging coding problems and inspiring designs, with a keen interest in experimental hardware.";
+    var SkillsArray = [
+    {"id": "Python:", "desc": "5 Years professional experience"},
+    {"id": "C++/UE4 Blueprint:", "desc": "2 Years development experience. Oculus, Vive, Daydream, Leap Motion, Virtuix Omni"},
+    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
+    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
+    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
+    ];
+    
+    ResumeContactDetails(doc, PositionTitle);    
+    ResumeProfile(doc, Objective);
+    ResumeKeySkills(doc, SkillsArray);
+    ResumeEducation(doc);
+    ResumeProfessionalExperience(doc);
+    ResumeExperienceTable(doc);
+    ResumeSave(doc, PositionTitle);
+}
 
+
+
+/*
+function CVDialog() {
+    $( "#CVDialog" ).dialog({
+            modal: true,
+            autoOpen: false,
+    });
+    
+    $('#CVDialog').dialog('open');
+    $('#DialogFocuser').css('display', 'block');
+    $('#CVDialog').css('width', '50%');
+    $('#CVDialog').css('height', '25%');
+    $('#CVDialog').css('min-height', '12cm');
+    $('#CVDialog').css('max-height', '500px');
+    $('#CVDialog').css('min-width', '20cm');
+    $('#CVDialog').css('max-width', '600px')
+}
+function CloseCVDialog() {
+    $('#CVDialog').dialog('close');
+    $('#DialogFocuser').css('display', 'none');
+}
 function CacheImagesAndGenerate(SelectedTags, PositionTitle) {
     SortProjects(SelectedTags);
     window.ImageCache = new Array;
@@ -922,4 +933,4 @@ function PipelineDeveloper_CV() {
     ];
     CacheImagesAndGenerate(SelectedTags, PositionTitle);
 }
-
+*/
