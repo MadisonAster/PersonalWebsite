@@ -453,8 +453,9 @@ function ResumeExperienceTable(doc) {
     {title: "FirstUse", dataKey: "FirstUse"},
     {title: "CurrentSkillLevel", dataKey: "CurrentSkillLevel"},
     ];
+    
     var rows9 = [];
-    var csvurl = window.location.href+'/xpTable.csv';
+    var csvurl = window.location.href.rsplit('/',1)[0]+'/Favorites/Bookmarks/snapshot/xpTable.csv';
     var cvsdata = loadPage(csvurl);
     var cvslines = cvsdata.split('\n');
     for (var i = 0; i < cvslines.length-2; i++) {
@@ -466,6 +467,7 @@ function ResumeExperienceTable(doc) {
         linedata['CurrentSkillLevel'] = line.split(',')[2];
         rows9.push(linedata);
     };
+    
     doc.autoTable(columns9, rows9, {
         theme: 'grid',
         startY: doc.autoTable.previous.finalY,        
@@ -492,6 +494,7 @@ function ResumeExperienceTable(doc) {
             };
         },
     });
+    
 }
 function ResumeSave(doc, PositionTitle) {
     var date = new Date();
@@ -518,7 +521,7 @@ function SoftwareEngineer_Resume() {
     ResumeKeySkills(doc, SkillsArray);
     ResumeEducation(doc);
     ResumeProfessionalExperience(doc);
-    ResumeExperienceTable(doc);
+    //ResumeExperienceTable(doc);
     ResumeSave(doc, PositionTitle);
 }
 function GraphicsEngineer_Resume() {
@@ -543,7 +546,7 @@ function GraphicsEngineer_Resume() {
     ResumeKeySkills(doc, SkillsArray);
     ResumeEducation(doc);
     ResumeProfessionalExperience(doc);
-    ResumeExperienceTable(doc);
+    //ResumeExperienceTable(doc);
     ResumeSave(doc, PositionTitle);
 }
 function FullStackEngineer_Resume() {
@@ -565,7 +568,7 @@ function FullStackEngineer_Resume() {
     ResumeKeySkills(doc, SkillsArray);
     ResumeEducation(doc);
     ResumeProfessionalExperience(doc);
-    ResumeExperienceTable(doc);
+    //ResumeExperienceTable(doc);
     ResumeSave(doc, PositionTitle);
 }
 function VFXEngineer_Resume() {
@@ -590,7 +593,7 @@ function VFXEngineer_Resume() {
     ResumeKeySkills(doc, SkillsArray);
     ResumeEducation(doc);
     ResumeProfessionalExperience(doc);
-    ResumeExperienceTable(doc);
+    //ResumeExperienceTable(doc);
     ResumeSave(doc, PositionTitle);
 }
 function BackendEngineer_Resume() {
@@ -615,7 +618,7 @@ function BackendEngineer_Resume() {
     ResumeKeySkills(doc, SkillsArray);
     ResumeEducation(doc);
     ResumeProfessionalExperience(doc);
-    ResumeExperienceTable(doc);
+    //ResumeExperienceTable(doc);
     ResumeSave(doc, PositionTitle);
 }
 function GameDeveloper_Resume() {
@@ -636,7 +639,7 @@ function GameDeveloper_Resume() {
     ResumeKeySkills(doc, SkillsArray);
     ResumeEducation(doc);
     ResumeProfessionalExperience(doc);
-    ResumeExperienceTable(doc);
+    //ResumeExperienceTable(doc);
     ResumeSave(doc, PositionTitle);
 }
 
