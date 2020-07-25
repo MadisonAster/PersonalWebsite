@@ -341,6 +341,68 @@ input[type=checkbox]:checked+.SkillButton {
 }
 
 
+input[type=checkbox]:not(:checked)+.ProjectCheckBox:after {
+  color: rgba(255, 255, 255, 0.0);
+}
+input[type=checkbox]:checked+.ProjectCheckBox:after {
+  color: rgba(255, 255, 255, 1.0);
+}
+.ProjectCheckBox:after {
+  content: "\2713";
+}
+.ProjectCheckBox{
+    height: 15px;
+    width: 15px;
+    border: 2px;
+
+    cursor: pointer;
+    border: solid white;
+    background-color: #111111;
+    border-color: #555555;
+    font-size: 25px;
+    line-height: 8px;
+
+    /*
+    position: absolute;
+    top:20px;
+    left:10px;
+    */
+    
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:35px;
+    margin-bottom:35px;
+}
+
+.CheckboxContainer{
+    position:relative;
+    padding:5px;
+    margin-top:10px;
+    margin-bottom:10px;
+    height:120px;
+}
+
+.ProjectLabel{
+    cursor: pointer;
+    width: 90%;
+    height: 100px;
+    background-color: #151515;
+    position: absolute;
+    top:0px;
+    left:50px;
+    margin:0px;
+    padding:10px;
+    overflow:hidden;
+    color:#aaaaaa;
+}
+
+.ProjectTagsSpan {
+    position: absolute;
+    right:10px;
+    bottom:2px;
+    font-size: 10px;
+}
+
 #ResumeDownloadButton{
     display:inline-block;
     line-height: 1.5;

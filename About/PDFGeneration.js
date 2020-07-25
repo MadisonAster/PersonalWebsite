@@ -134,16 +134,18 @@ function ResumeDialog() {
         };
     };
     
-    /*
+    
     if ($('#DialogProjectsList').children().length == 0){
         for (var key in window.Projects){
             if (['pagination','remove','sortOn'].indexOf(key) == -1){
                 var Project = window.Projects[key];
-                $('#DialogProjectsList').append('<li>'+Project['title']+'</li>');
+                $('#DialogProjectsList').append('<div class="CheckboxContainer"><input type="checkbox" checked autocomplete="off" id="pbox_'+Project['title']+'" style="display:none;">'
+                                                +'<label class="ProjectCheckBox" for="pbox_'+Project['title']+'"></label>'
+                                                +'<label class="ProjectLabel" for="pbox_'+Project['title']+'">'+'<h5 style="color:#ffffff;">'+Project['title']+'</h5>'+'    '+Project['shortdescription']
+                                                +'<span class="ProjectTagsSpan">'+Project['tags'].toString().replaceAll(',','')+'</span>'+'</label></div>');
             };
         };
     };
-    */
     
 
     //Show Dialog
@@ -174,6 +176,27 @@ function CloseResumeDialog() {
     $('#ResumeDialog').dialog('close');
     $('#DialogFocuser').css('display', 'none');
     enableScroll();
+}
+
+function GetActiveProjectsList(){
+    var ActiveProjects = [];
+    $("[id^=pbox]").each(function() {
+        if (this.checked){
+            ActiveProjects.push(this.id.replaceAll('pbox_',''));
+        };
+    });
+    return ActiveProjects;
+}
+
+function SetActiveProjectsList(ActiveSkills){
+    $("[id^=pbox]").each(function() {
+        var projectname = this.id.replaceAll('pbox_','');
+        if (ActiveSkills.indexOf(skillname) > -1){
+            this.checked = true;
+        } else {
+            this.checked = false;
+        }
+    });
 }
 
 function GetActiveSkillList(){
@@ -212,13 +235,17 @@ function SetJobType(JobTypeTitle){
 }
 
 function GenerateResume(){
-    var ActiveSkills = GetActiveSkillList();
     var JobTitle = GetJobTitle();
     var JobType = GetJobType();
-    console.log(ActiveSkills);
+    var ActiveSkills = GetActiveSkillList();
+    var ActiveProjects = GetActiveProjectsList();
+
     console.log(JobTitle);
     console.log(JobType);
+    console.log(ActiveSkills);
+    console.log(ActiveProjects);
 
+    /*
     var doc = ResumeSetup();
     ResumeContactDetails(doc, JobTitle);    
     ResumeProfile(doc, JobType['Objective']);
@@ -227,6 +254,8 @@ function GenerateResume(){
     ResumeProfessionalExperience(doc);
     //ResumeExperienceTable(doc);
     ResumeSave(doc, JobTitle);
+    */
+    CacheImagesAndGenerate(ActiveSkills, JobTitle);
 }
 
 
@@ -243,7 +272,7 @@ function SortProjects(SelectedTags) {
     };
     window.Projects.sortOn("TagCount");
     window.Projects = window.Projects.reverse();
-};
+}
 
 
 function ResumeSetup(){
@@ -569,30 +598,15 @@ function ResumeExperienceTable(doc) {
 }
 function ResumeSave(doc, PositionTitle) {
     var date = new Date();
-    doc.save('MadisonAster_'+PositionTitle.replaceAll(' ','')+'_Resume'+date.yyyymmdd()+'.pdf');
+    doc.save('MadisonAster_'+PositionTitle.replaceAll(' ','')+'_Resume_'+date.yyyymmdd()+'.pdf');
+}
+function Generate_CV_PDF(PositionTitle){
+    var doc = CVSetup();
+    CVContactDetails(doc, PositionTitle);
+    CVProjects(doc);
+    ResumeSave(doc, PositionTitle);
 }
 
-
-/*
-function CVDialog() {
-    $( "#CVDialog" ).dialog({
-            modal: true,
-            autoOpen: false,
-    });
-    
-    $('#CVDialog').dialog('open');
-    $('#DialogFocuser').css('display', 'block');
-    $('#CVDialog').css('width', '50%');
-    $('#CVDialog').css('height', '25%');
-    $('#CVDialog').css('min-height', '12cm');
-    $('#CVDialog').css('max-height', '500px');
-    $('#CVDialog').css('min-width', '20cm');
-    $('#CVDialog').css('max-width', '600px')
-}
-function CloseCVDialog() {
-    $('#CVDialog').dialog('close');
-    $('#DialogFocuser').css('display', 'none');
-}
 function CacheImagesAndGenerate(SelectedTags, PositionTitle) {
     SortProjects(SelectedTags);
     window.ImageCache = new Array;
@@ -619,8 +633,10 @@ function CacheImagesAndGenerate(SelectedTags, PositionTitle) {
         Generate_CV_PDF(PositionTitle);
     };
     waitforload();
-};
+}
 function SortProjects(SelectedTags) {
+    console.log("SortProjects");
+    console.log(window.Projects);
     for (var i = 0; i < window.Projects.length; i++) {
         var TagCount = 0;
         for (var j = 0; j < window.Projects[i]["tags"].length; j++) {
@@ -633,14 +649,8 @@ function SortProjects(SelectedTags) {
     };
     window.Projects.sortOn("TagCount");
     window.Projects = window.Projects.reverse();
-};
-function Generate_CV_PDF(PositionTitle){
-    var doc = CVSetup();
-    CVContactDetails(doc, PositionTitle);
-    CVProjects(doc);
-    CVSave(doc, PositionTitle);
-    CloseCVDialog();
-};
+}
+
 function CVSetup(){
     var doc = new jsPDF('p', 'pt', 'letter');
     doc.setFontSize(12);
@@ -685,7 +695,7 @@ function CVAddPage(doc) {
     doc.addPage();
     doc.setFillColor(0);
     doc.rect(0, 0, 152, doc.internal.pageSize.height, 'F');
-};
+}
 function CVContactDetails(doc, PositionTitle) {
     doc.addFont('Candara.ttf', 'Candara', 'normal', 'WinAnsiEncoding');
     doc.addFont('Candarai.ttf', 'Candara', 'italic', 'WinAnsiEncoding');
@@ -711,7 +721,7 @@ function CVContactDetails(doc, PositionTitle) {
     doc.drawText(201, 160, 'www.MadisonAster.com');
     imgData1 = getBase64FromImageUrl("./_Assets/CVThumb.jpg");
     doc.addImage(imgData1, 'JPEG', 1, 78, 178, 100);
-};
+}
 function CVProjects(doc) {
     var ImageYPosition = 220;
     var ProjectCounter = 1;
@@ -753,13 +763,39 @@ function CVProjects(doc) {
         ImageYPosition += 142;
         ProjectCounter += 1;
     };
-};
+}
+
+
+
+
+/*
 function CVSave(doc, PositionTitle) {
     var date = new Date();
     doc.save('MadisonAster_'+PositionTitle.replaceAll(' ','').replace('.','')+'_CV'+date.yyyymmdd()+'.pdf');
     CloseCVDialog();
 };
+function CVDialog() {
+    $( "#CVDialog" ).dialog({
+            modal: true,
+            autoOpen: false,
+    });
+    
+    $('#CVDialog').dialog('open');
+    $('#DialogFocuser').css('display', 'block');
+    $('#CVDialog').css('width', '50%');
+    $('#CVDialog').css('height', '25%');
+    $('#CVDialog').css('min-height', '12cm');
+    $('#CVDialog').css('max-height', '500px');
+    $('#CVDialog').css('min-width', '20cm');
+    $('#CVDialog').css('max-width', '600px')
+}
+function CloseCVDialog() {
+    $('#CVDialog').dialog('close');
+    $('#DialogFocuser').css('display', 'none');
+}
+*/
 
+/*
 AllTags = [
     '3D Modeling',
     'C++',
