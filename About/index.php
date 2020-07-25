@@ -29,8 +29,8 @@ PageName = CleanedPath.rsplit('/',1).slice(-1)[0];
 Directory = CleanedPath.rsplit('/',1)[0];
 console.log('PageName', PageName);
 console.log('Directory', Directory);
-//window.location.href = Directory+"/?"+PageName;
-window.location.href = Directory;
+window.location.href = Directory+"/?"+PageName;
+//window.location.href = Directory;
 };
 </script>
 </head>
