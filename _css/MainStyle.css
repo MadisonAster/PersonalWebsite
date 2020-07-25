@@ -361,7 +361,7 @@ input[type=checkbox]:checked+.ProjectCheckBox:after {
     border-color: #555555;
     font-size: 25px;
     line-height: 8px;
-    
+
     margin-left:10px;
     margin-right:10px;
     margin-top:35px;
@@ -459,18 +459,19 @@ input[type=checkbox]:checked+.ProjectCheckBox:after {
     display: none;
     cursor: pointer;
     z-index: 1000;
-        float: left;
+    float: left;
     min-width: 10rem;
     padding: .5rem 0;
     margin: .125rem 0 0;
     font-size: 1rem;
-    color: #212529;
+    color: #ffffff;
     text-align: left;
     list-style: none;
-    background-color: #fff;
+    background-color: #555555;
     background-clip: padding-box;
     border: 1px solid rgba(0,0,0,.15);
     border-radius: .25rem;
+    overflow: hidden;
 }
 .dropdown-menu.show{
     display:none;
@@ -478,7 +479,10 @@ input[type=checkbox]:checked+.ProjectCheckBox:after {
 .dropdown-menu.show{
     display:block;
 }
-
+.dropdown-item{
+    color: #ffffff;
+    width:100%;
+}
 
 
 
