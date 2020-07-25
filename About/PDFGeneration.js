@@ -139,9 +139,9 @@ function ResumeDialog() {
         for (var key in window.Projects){
             if (['pagination','remove','sortOn'].indexOf(key) == -1){
                 var Project = window.Projects[key];
-                $('#DialogProjectsList').append('<div class="CheckboxContainer"><input type="checkbox" checked autocomplete="off" id="pbox_'+Project['title']+'" style="display:none;">'
-                                                +'<label class="ProjectCheckBox" for="pbox_'+Project['title']+'"></label>'
-                                                +'<label class="ProjectLabel" for="pbox_'+Project['title']+'">'+'<h5 style="color:#ffffff;">'+Project['title']+'</h5>'+'    '+Project['shortdescription']
+                $('#DialogProjectsList').append('<div class="CheckboxContainer"><input type="checkbox" checked autocomplete="off" id="pbox_'+Project['title'].replaceAll(' ','')+'" style="display:none;">'
+                                                +'<label class="ProjectCheckBox" for="pbox_'+Project['title'].replaceAll(' ','')+'"></label>'
+                                                +'<label class="ProjectLabel" for="pbox_'+Project['title'].replaceAll(' ','')+'">'+'<h5 style="color:#ffffff;">'+Project['title']+'</h5>'+'    '+Project['shortdescription']
                                                 +'<span class="ProjectTagsSpan">'+Project['tags'].toString().replaceAll(',','')+'</span>'+'</label></div>');
             };
         };
@@ -189,14 +189,20 @@ function GetActiveProjectsList(){
 }
 
 function SetActiveProjectsList(ActiveSkills){
-    $("[id^=pbox]").each(function() {
-        var projectname = this.id.replaceAll('pbox_','');
-        if (ActiveSkills.indexOf(skillname) > -1){
-            this.checked = true;
-        } else {
-            this.checked = false;
-        }
-    });
+    for (var key in window.Projects){
+        if (['pagination','remove','sortOn'].indexOf(key) == -1){
+            var Project = window.Projects[key];
+            var pboxid = "pbox_"+Project['title'].replaceAll(' ','');
+            var checkbox = document.getElementById(pboxid);
+            checkbox.checked = false;
+            for (var tag in Project['tags']) {
+                var tagname = Project['tags'][tag].toString().replace(/[\r\n]+/gm, '');
+                if (ActiveSkills.indexOf(tagname) > -1){
+                    checkbox.checked = true;
+                };
+            };
+        };
+    };
 }
 
 function GetActiveSkillList(){
@@ -232,6 +238,7 @@ function SetJobType(JobTypeTitle){
     $('#JobTypeDropdownButton').text(JobTypeTitle);
     var JobData = window.JobTypes[JobTypeTitle];
     SetActiveSkillList(JobData['ActiveSkills']);
+    SetActiveProjectsList(JobData['ActiveSkills']);
 }
 
 function GenerateResume(){
