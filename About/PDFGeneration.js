@@ -421,13 +421,6 @@ function GetActiveProjectsData(){
     return Result;
 }
 
-function LoadPage(href) {
-    var xmlhttp = new XMLHttpRequest();
-    xmlhttp.open("GET", href, false);
-    xmlhttp.send();
-    return xmlhttp.responseText;
-}
-
 function GetSEOTags(){
     var wordlisturl = window.location.href+'/WordList.csv';
     var wordlistdata = LoadPage(wordlisturl);
@@ -494,7 +487,7 @@ function AddProfileDetails(doc, PositionTitle) {
     
     doc.setFontSize(20);
     doc.setFontStyle('bold');
-    doc.drawText(194, 38, '.madison aster');
+    doc.drawText(194, 38, GetFullName());
     
     doc.setFontSize(18);
     doc.setFontStyle('italic');
