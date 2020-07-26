@@ -306,7 +306,7 @@ function GenerateResume(){
     var doc = PDFSetup();
     AddSEOData(doc, SEOTags);
     AddPageStyling(doc);
-    //AddProfileDetails(doc, JobTitle);
+    AddProfileDetails(doc, JobTitle);
     //AddProfessionalExperience(doc);
     //AddEducation(doc);
     //AddSkills(doc, ActiveSkillsData);
