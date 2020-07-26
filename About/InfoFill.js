@@ -22,26 +22,31 @@ function GetFullName() {
 function GetGitHubURL() {
     GetConfigData();
     return window.ConfigData['GitHub_SnapshotURL'];
+    //return window.ConfigData['GitHub_ResumeURL'];
 }
 
 function GetDockerHubURL() {
     GetConfigData();
     return window.ConfigData['DockerHub_SnapshotURL'];
+    //return window.ConfigData['DockerHub_ResumeURL'];
 }
 
 function GetIMDBURL() {
     GetConfigData();
     return window.ConfigData['IMDB_SnapshotURL'];
+    //return window.ConfigData['IMDB_ResumeURL'];
 }
 
 function GetCodeWarsURL(){
     GetConfigData();
     return window.ConfigData['CodeWars_SnapshotURL'];
+    //return window.ConfigData['CodeWars_ResumeURL'];
 }
 
 function GetLinkedInURL(){
     GetConfigData();
     return window.ConfigData['LinkedIn_SnapshotURL'];
+    //return window.ConfigData['LinkedIn_ResumeURL'];
 }
 
 function GetPhone() {
