@@ -260,14 +260,8 @@ function ResumeDialog() {
     $('#ResumeDialog').css('height', 'calc(82% - 80px)');
 }
 
-function loadPage(href) {
-    var xmlhttp = new XMLHttpRequest();
-    xmlhttp.open("GET", href, false);
-    xmlhttp.send();
-    return xmlhttp.responseText;
-}
-
-function enableScroll() { 
+function enableScroll() {
+    //console.log('enabling scroll');
     window.onscroll = window.old_onscroll;
 }
 
@@ -311,13 +305,13 @@ function GenerateResume(){
 
     var doc = PDFSetup();
     AddSEOData(doc, SEOTags);
-    AddPageStyling(doc);
-    AddProfileDetails(doc, JobTitle);
-    AddProfessionalExperience(doc);
-    AddEducation(doc);
+    //AddPageStyling(doc);
+    //AddProfileDetails(doc, JobTitle);
+    //AddProfessionalExperience(doc);
+    //AddEducation(doc);
     //AddSkills(doc, ActiveSkillsData);
 
-    var ImageData = CacheImages(ActiveProjectsData); //blocks until caching is complete
+    //var ImageData = CacheImages(ActiveProjectsData); //blocks until caching is complete
     //AddProfileImages(doc, ImageData);
     //AddProjects(doc, ActiveProjectsData, ImageData);
 
@@ -328,10 +322,12 @@ function GenerateResume(){
 
 ///////////////////Data Gathering/////////////////////
 function SetJobTitle(JobTitle){
+    //console.log('SetJobTitle');
     $('#JobTypeDropdownButton').text(JobTitle);
 }
 
 function GetJobTitle(){
+    //console.log('GetJobTitle');
     return $('#JobTypeDropdownButton').text();
 }
 
@@ -343,6 +339,7 @@ function SetJobType(JobTypeTitle){
 }
 
 function GetJobType(){
+    //console.log('GetJobType');
     return window.JobTypes[GetJobTitle()];
 }
 
@@ -424,9 +421,18 @@ function GetActiveProjectsData(){
     return Result;
 }
 
+function LoadPage(href) {
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.open("GET", href, false);
+    xmlhttp.send();
+    return xmlhttp.responseText;
+}
+
 function GetSEOTags(){
-    var SEOTags = [];
-    return SEOTags;
+    var wordlisturl = window.location.href+'/WordList.csv';
+    var wordlistdata = LoadPage(wordlisturl);
+    var wordlistlines = wordlistdata.replace(/[\r\n]+/gm, '').split(',');
+    return wordlistlines;
 }
 ////////////////////////////////////////////////////
 
@@ -454,31 +460,27 @@ function PDFSetup(){
             id: {fontStyle: 'bold'}
         },
     });
-    
-    var wordlisturl = window.location.href+'/WordList.csv';
-    var wordlistdata = loadPage(wordlisturl);
-    var wordlistlines = wordlistdata.split('\n');
-    doc.setTextColor(255, 255, 255);
-    for (var i = 0; i < wordlistlines.length; i++) {
-        doc.text(wordlistlines[i].replace(',',''), 44, 20);
-    };
-    doc.setFillColor(255, 255, 255);
-    doc.rect(0, 0, doc.internal.pageSize.width, 25, 'F');
-    doc.setTextColor(89, 92, 98);
-    
-    doc.setFillColor(0);
-    doc.rect(0, 0, 152, doc.internal.pageSize.height, 'F');
-    
+
     //doc.addPage();
     return doc;
 }
 
 function AddSEOData(doc, SEOTags){
-
+    var wordlisturl = window.location.href+'/WordList.csv';
+    var wordlistdata = LoadPage(wordlisturl);
+    var wordlistlines = wordlistdata.split('\n');
+    doc.setTextColor(255, 255, 255);
+    for (var i = 0; i < SEOTags.length; i++) {
+        doc.text(SEOTags[i], 44, 20);
+    };
+    doc.setFillColor(255, 255, 255);
+    doc.rect(0, 0, doc.internal.pageSize.width, 25, 'F');
+    doc.setTextColor(89, 92, 98);
 }
 
 function AddPageStyling(doc){
-
+    doc.setFillColor(0);
+    doc.rect(0, 0, 152, doc.internal.pageSize.height, 'F');
 }
 
 function AddProfileDetails(doc, PositionTitle) {
@@ -725,7 +727,7 @@ function ResumeExperienceTable(doc) {
     
     var rows9 = [];
     var csvurl = window.location.href.rsplit('/',1)[0]+'/Favorites/Bookmarks/snapshot/xpTable.csv';
-    var cvsdata = loadPage(csvurl);
+    var cvsdata = LoadPage(csvurl);
     var cvslines = cvsdata.split('\n');
     for (var i = 0; i < cvslines.length-2; i++) {
         var line = cvslines[i];
@@ -851,7 +853,7 @@ function ResumeSetup(){
     });
     
     var wordlisturl = window.location.href+'/WordList.csv';
-    var wordlistdata = loadPage(wordlisturl);
+    var wordlistdata = LoadPage(wordlisturl);
     var wordlistlines = wordlistdata.split('\n');
     doc.setTextColor(255, 255, 255);
     for (var i = 0; i < wordlistlines.length; i++) {
