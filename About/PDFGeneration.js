@@ -297,29 +297,30 @@ function GenerateResume(){
     var JobTitle = GetJobTitle();
     var JobType = GetJobType();
     var ActiveSkills = GetActiveSkillList();
+    var ActiveSkillsData = GetActiveSkillsData();
     var ActiveProjects = GetActiveProjectsList();
     var ActiveProjectsData = GetActiveProjectsData();
-
+    var SEOTags = GetSEOTags();
     console.log(JobTitle);
     console.log(JobType);
     console.log(ActiveSkills);
+    console.log(ActiveSkillsData);
     console.log(ActiveProjects);
     console.log(ActiveProjectsData);
+    console.log(SEOTags);
 
-    /*
-    var doc = ResumeSetup();
-    ResumeContactDetails(doc, JobTitle);    
-    ResumeProfile(doc, JobType['Objective']);
-    ResumeKeySkills(doc, JobType['SkillsArray']);
-    ResumeEducation(doc);
-    ResumeProfessionalExperience(doc);
-    //ResumeExperienceTable(doc);
-    ResumeSave(doc, JobTitle);
-    */
     var doc = PDFSetup();
-    CVContactDetails(doc, JobTitle);
-    CacheImages(ActiveProjectsData);
-    /*AddProjects(doc, ActiveProjectsData);*/
+    AddSEOData(doc, SEOTags);
+    AddPageStyling(doc);
+    AddProfileDetails(doc, JobTitle);
+    AddProfessionalExperience(doc);
+    AddEducation(doc);
+    //AddSkills(doc, ActiveSkillsData);
+
+    var ImageData = CacheImages(ActiveProjectsData); //blocks until caching is complete
+    //AddProfileImages(doc, ImageData);
+    //AddProjects(doc, ActiveProjectsData, ImageData);
+
     PDFSave(doc, JobTitle);
 }
 //////////////////////////////////////////////////////
@@ -422,39 +423,15 @@ function GetActiveProjectsData(){
     };
     return Result;
 }
+
+function GetSEOTags(){
+    var SEOTags = [];
+    return SEOTags;
+}
 ////////////////////////////////////////////////////
 
 
 //////////////////Resume Content////////////////////
-function ResumeKeySkills(doc, SkillsArray) {
-    var columns5 = [
-    {title: "", dataKey: "id"},
-    {title: "", dataKey: "desc"},
-    ];
-    doc.autoTable(columns5, SkillsArray, {
-        theme: 'grid',
-        startY: doc.autoTable.previous.finalY + 15,
-        
-        tableLineColor: [174, 186, 213],
-        tableLineWidth: 1,
-        styles: {
-        overflow: 'linebreak',
-        },
-        columnStyles: {id: {columnWidth: 100}},
-        drawRow: function (row, data) {
-            doc.setFontSize(12);
-            doc.setFontStyle('bold');
-            doc.setTextColor(89, 92, 98);
-            doc.setFont('helvetica');
-            if (row.index === 0) {
-                doc.autoTableText("Key Skills", 44, row.y-10, {
-                    valign: 'middle',
-                });
-            }
-        }
-    });
-}
-
 function PDFSetup(){
     var doc = new jsPDF('p', 'pt', 'letter');
     doc.setFontSize(12);
@@ -494,6 +471,41 @@ function PDFSetup(){
     
     //doc.addPage();
     return doc;
+}
+
+function AddSEOData(doc, SEOTags){
+
+}
+
+function AddPageStyling(doc){
+
+}
+
+function AddProfileDetails(doc, PositionTitle) {
+    doc.addFont('Candara.ttf', 'Candara', 'normal', 'WinAnsiEncoding');
+    doc.addFont('Candarai.ttf', 'Candara', 'italic', 'WinAnsiEncoding');
+    doc.addFont('Candarab.ttf', 'Candara', 'bold', 'WinAnsiEncoding');
+    doc.setFont('Candara');
+    doc.setDefaultFonts(0, 'Candara');    //English default
+    doc.setCharSpace(0);
+    doc.setTextColor(0, 0, 0);
+    
+    doc.setFontSize(20);
+    doc.setFontStyle('bold');
+    doc.drawText(194, 38, '.madison aster');
+    
+    doc.setFontSize(18);
+    doc.setFontStyle('italic');
+    doc.drawText(194, 61, PositionTitle);
+    
+    doc.setFontSize(16);
+    doc.setFontStyle('normal');
+    doc.drawText(201, 100, '.'+GetAddress());
+    doc.drawText(201, 120, '.'+GetPhone());
+    doc.drawText(201, 140, GetEmail());
+    doc.drawText(201, 160, 'www.MadisonAster.com');
+    imgData1 = getBase64FromImageUrl("./_Assets/CVThumb.jpg");
+    doc.addImage(imgData1, 'JPEG', 1, 78, 178, 100);
 }
 
 function AddProfessionalExperience(doc) {
@@ -562,6 +574,10 @@ function AddEducation(doc) {
     });
 }
 
+function AddSkills(doc, ActiveSkillsData){
+
+}
+
 function CacheImages(ActiveProjectsData) {
     window.ImageCache = new Array;
 
@@ -591,9 +607,15 @@ function CacheImages(ActiveProjectsData) {
         */
     };
     waitforload();
+
+    return window.ImageCache;
 }
 
-function AddProjects(doc, ActiveProjectsData) {
+function AddProfileImages(doc, ImageData) {
+
+}
+
+function AddProjects(doc, ActiveProjectsData, ImageData) {
     var ImageYPosition = 220;
     var ProjectCounter = 1;
     
@@ -653,31 +675,15 @@ function PDFSave(doc, PositionTitle) {
 
 
 /////////////Keeping for Reference//////////////////
-function CVContactDetails(doc, PositionTitle) {
-    doc.addFont('Candara.ttf', 'Candara', 'normal', 'WinAnsiEncoding');
-    doc.addFont('Candarai.ttf', 'Candara', 'italic', 'WinAnsiEncoding');
-    doc.addFont('Candarab.ttf', 'Candara', 'bold', 'WinAnsiEncoding');
-    doc.setFont('Candara');
-    doc.setDefaultFonts(0, 'Candara');    //English default
-    doc.setCharSpace(0);
-    doc.setTextColor(0, 0, 0);
-    
-    doc.setFontSize(20);
-    doc.setFontStyle('bold');
-    doc.drawText(194, 38, '.madison aster');
-    
-    doc.setFontSize(18);
-    doc.setFontStyle('italic');
-    doc.drawText(194, 61, PositionTitle);
-    
-    doc.setFontSize(16);
-    doc.setFontStyle('normal');
-    doc.drawText(201, 100, '.'+GetAddress());
-    doc.drawText(201, 120, '.'+GetPhone());
-    doc.drawText(201, 140, GetEmail());
-    doc.drawText(201, 160, 'www.MadisonAster.com');
-    imgData1 = getBase64FromImageUrl("./_Assets/CVThumb.jpg");
-    doc.addImage(imgData1, 'JPEG', 1, 78, 178, 100);
+function GenerateResumePDF(){
+    var doc = ResumeSetup();
+    ResumeContactDetails(doc, JobTitle);    
+    ResumeProfile(doc, JobType['Objective']);
+    ResumeKeySkills(doc, JobType['SkillsArray']);
+    ResumeEducation(doc);
+    ResumeProfessionalExperience(doc);
+    //ResumeExperienceTable(doc);
+    ResumeSave(doc, JobTitle);
 }
 
 function ResumeExperienceTable(doc) {
@@ -785,6 +791,35 @@ function ResumeProfile(doc, Objective) {
             doc.setFont('helvetica');
             if (row.index === 0) {
                 doc.autoTableText("Profile", 44, row.y-10, {
+                    valign: 'middle',
+                });
+            }
+        }
+    });
+}
+
+function ResumeKeySkills(doc, SkillsArray) {
+    var columns5 = [
+    {title: "", dataKey: "id"},
+    {title: "", dataKey: "desc"},
+    ];
+    doc.autoTable(columns5, SkillsArray, {
+        theme: 'grid',
+        startY: doc.autoTable.previous.finalY + 15,
+        
+        tableLineColor: [174, 186, 213],
+        tableLineWidth: 1,
+        styles: {
+        overflow: 'linebreak',
+        },
+        columnStyles: {id: {columnWidth: 100}},
+        drawRow: function (row, data) {
+            doc.setFontSize(12);
+            doc.setFontStyle('bold');
+            doc.setTextColor(89, 92, 98);
+            doc.setFont('helvetica');
+            if (row.index === 0) {
+                doc.autoTableText("Key Skills", 44, row.y-10, {
                     valign: 'middle',
                 });
             }
