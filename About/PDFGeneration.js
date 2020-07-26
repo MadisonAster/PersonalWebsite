@@ -371,9 +371,12 @@ function GenerateResume(){
     //ResumeExperienceTable(doc);
     ResumeSave(doc, JobTitle);
     */
+    var doc = CVSetup();
+    CVContactDetails(doc, JobTitle);
     CacheImagesAndGenerate(ActiveSkills, JobTitle);
+    /*CVProjects(doc);*/
+    ResumeSave(doc, JobTitle);
 }
-
 
 function SortProjects(SelectedTags) {
     for (var i = 0; i < window.Projects.length; i++) {
@@ -716,12 +719,6 @@ function ResumeSave(doc, PositionTitle) {
     var date = new Date();
     doc.save('MadisonAster_'+PositionTitle.replaceAll(' ','')+'_Resume_'+date.yyyymmdd()+'.pdf');
 }
-function Generate_CV_PDF(PositionTitle){
-    var doc = CVSetup();
-    CVContactDetails(doc, PositionTitle);
-    /*CVProjects(doc);*/
-    ResumeSave(doc, PositionTitle);
-}
 
 function CacheImagesAndGenerate(SelectedTags, PositionTitle) {
     SortProjects(SelectedTags);
@@ -751,7 +748,6 @@ function CacheImagesAndGenerate(SelectedTags, PositionTitle) {
             };    
         };
         */
-        Generate_CV_PDF(PositionTitle);
     };
     waitforload();
 }
