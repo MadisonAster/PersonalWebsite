@@ -13,8 +13,30 @@ function ResumeDialog() {
     
     if ($('#JobTypeDropdownMenu').children().length == 0){
         window.JobTypes = {
+            'Principal Engineer' : {
+                'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "CSS", "Java", "ActionScript", "SQL", "x86 Assembly", "VBA", "Bash", "Vulkan", "WebGL", "OpenGL", "Qt", "Tensorflow", "Django", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "Boujou", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Fusion360", "Alias", "Maya", "ZBrush", "Substance Designer", "Cinema 4D", "LightWave 3D", "Blender", "3D Printing", "Softimage", "Nuke", "Fusion", "Photoshop", "Flame", "Premier", "Avid", "Final Cut Pro", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Patent Authoring", "Excel", "LiveCycle", "Access", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
+                'Objective' : 'Looking .',
+                'SkillsArray' : [
+                    {"id": "Python:", "desc": "5 Years professional experience"},
+                    {"id": "C++/UE4 Blueprint:", "desc": "2 Years development experience. Oculus, Vive, Daydream, Leap Motion, Virtuix Omni"},
+                    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
+                    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
+                    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
+                ],
+            },
+            'Lead Engineer' : {
+                'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "CSS", "Java", "ActionScript", "SQL", "x86 Assembly", "VBA", "Bash", "Vulkan", "WebGL", "OpenGL", "Qt", "Tensorflow", "Django", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "Boujou", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Fusion360", "Alias", "Maya", "ZBrush", "Substance Designer", "Cinema 4D", "LightWave 3D", "Blender", "3D Printing", "Softimage", "Nuke", "Fusion", "Photoshop", "Flame", "Premier", "Avid", "Final Cut Pro", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Patent Authoring", "Excel", "LiveCycle", "Access", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
+                'Objective' : 'Looking .',
+                'SkillsArray' : [
+                    {"id": "Python:", "desc": "5 Years professional experience"},
+                    {"id": "C++/UE4 Blueprint:", "desc": "2 Years development experience. Oculus, Vive, Daydream, Leap Motion, Virtuix Omni"},
+                    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
+                    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
+                    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
+                ],
+            },
             'Software Engineer' : {
-                'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "CSS", "Java", "ActionScript", "SQL", "x86 Assembly", "VBA", "Vulkan", "WebGL", "OpenGL", "Qt", "Tensorflow", "Django", "Windows", "Linux", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Terraform", "Unreal", "Unity", "RealityCapture", "Houdini", "Maya", "3D Printing", "Nuke", "Ffmpeg", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Patent Authoring", "Excel", "LiveCycle", "Access", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
+                'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "Javascript", "CSS", "Java", "ActionScript", "SQL", "x86 Assembly", "VBA", "Vulkan", "WebGL", "OpenGL", "Qt", "Tensorflow", "Django", "Windows", "Linux", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Terraform", "Unreal", "Unity", "RealityCapture", "Houdini", "Maya", "3D Printing", "Nuke", "Ffmpeg", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Patent Authoring", "Excel", "LiveCycle", "Access", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
                 'Objective' : 'Looking .',
                 'SkillsArray' : [
                     {"id": "Python:", "desc": "5 Years professional experience"},
@@ -25,7 +47,7 @@ function ResumeDialog() {
                 ],
             },
             'Graphics Engineer' : {
-                'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "CSS", "Vulkan", "WebGL", "OpenGL", "Qt", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Maya", "ZBrush", "Cinema 4D", "LightWave 3D", "Softimage", "Nuke", "Photoshop", "Flame", "Premier", "Avid", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Shotgun", "FileMaker Pro", "Smart Sheets"],
+                'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "Javascript", "CSS", "Vulkan", "WebGL", "OpenGL", "Qt", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Maya", "ZBrush", "Cinema 4D", "LightWave 3D", "Softimage", "Nuke", "Photoshop", "Flame", "Premier", "Avid", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Shotgun", "FileMaker Pro", "Smart Sheets"],
                 'Objective' : 'Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.',
                 'SkillsArray' : [
                     {"id": "Python:", "desc": "5 Years experience"},
@@ -40,7 +62,7 @@ function ResumeDialog() {
                 ],
             },
             'Full Stack Engineer' : {
-                'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "CSS", "SQL", "WebGL", "Qt", "Tensorflow", "Django", "Windows", "Linux", "Git", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Maya", "Nuke", "Photoshop", "Ffmpeg", "After Effects", "Illustrator", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Excel", "LiveCycle"],
+                'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "Javascript", "CSS", "SQL", "WebGL", "Qt", "Tensorflow", "Django", "Windows", "Linux", "Git", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Maya", "Nuke", "Photoshop", "Ffmpeg", "After Effects", "Illustrator", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Excel", "LiveCycle"],
                 'Objective' : 'Looking for work on highly modular software projects with long evolution curves.',
                 'SkillsArray' : [
                     {"id": "Python:", "desc": "5 years professional experience"},
@@ -52,7 +74,7 @@ function ResumeDialog() {
                 ],
             },
             'DevOps Engineer': {
-                'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "SQL", "Qt", "Django", "Windows", "Linux", "Git", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Maya", "Nuke", "Ffmpeg", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Excel", "LiveCycle", "Access", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
+                'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "SQL", "Qt", "Django", "Windows", "Linux", "Git", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Maya", "Nuke", "Ffmpeg", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Excel", "LiveCycle", "Access", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
                 'Objective' : 'Looking for work on highly modular software projects with long evolution curves.',
                 'SkillsArray' : [
                     {"id": "Python:", "desc": "5 years professional experience"},
@@ -64,7 +86,7 @@ function ResumeDialog() {
                 ],
             },
             'Backend Engineer' : {
-                'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "Java", "SQL", "x86 Assembly", "VBA", "WebGL", "Qt", "Tensorflow", "Django", "Windows", "Linux", "Android", "Git", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Maya", "Nuke", "Photoshop", "Ffmpeg", "After Effects", "Illustrator", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Excel", "LiveCycle"],
+                'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "Javascript", "Java", "SQL", "x86 Assembly", "VBA", "WebGL", "Qt", "Tensorflow", "Django", "Windows", "Linux", "Android", "Git", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Maya", "Nuke", "Photoshop", "Ffmpeg", "After Effects", "Illustrator", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Excel", "LiveCycle"],
                 'Objective' : 'Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.',
                 'SkillsArray' : [
                     {"id": "Python:", "desc": "5 Years experience"},
@@ -94,7 +116,7 @@ function ResumeDialog() {
                 ],
             },
             'VFX Engineer' : {
-                'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "CSS", "Vulkan", "WebGL", "OpenGL", "Qt", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "Boujou", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Fusion360", "Alias", "Maya", "ZBrush", "Substance Designer", "Cinema 4D", "LightWave 3D", "Blender", "3D Printing", "Softimage", "Nuke", "Fusion", "Photoshop", "Flame", "Premier", "Avid", "Final Cut Pro", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Excel", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
+                'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "Javascript", "CSS", "Vulkan", "WebGL", "OpenGL", "Qt", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "Boujou", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Fusion360", "Alias", "Maya", "ZBrush", "Substance Designer", "Cinema 4D", "LightWave 3D", "Blender", "3D Printing", "Softimage", "Nuke", "Fusion", "Photoshop", "Flame", "Premier", "Avid", "Final Cut Pro", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Excel", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
                 'Objective' : 'Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.',
                 'SkillsArray' : [
                     {"id": "Python:", "desc": "5 Years experience"},
@@ -109,7 +131,7 @@ function ResumeDialog() {
                 ],
             },
             'AI Engineer' : {
-                'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "CSS", "Java", "SQL", "x86 Assembly", "Vulkan", "WebGL", "OpenGL", "Qt", "Tensorflow", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Agisoft Photoscan", "RealityCapture", "PFTrack", "Maya", "Nuke", "Ffmpeg", "CCNA", "Excel"],
+                'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "Javascript", "CSS", "Java", "SQL", "x86 Assembly", "Vulkan", "WebGL", "OpenGL", "Qt", "Tensorflow", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Agisoft Photoscan", "RealityCapture", "PFTrack", "Maya", "Nuke", "Ffmpeg", "CCNA", "Excel"],
                 'Objective' : 'Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.',
                 'SkillsArray' : [
                     {"id": "Python:", "desc": "5 Years experience"},
@@ -124,7 +146,7 @@ function ResumeDialog() {
                 ],
             },
             'Game Developer' : {
-                'ActiveSkills' : ["Python", "C++", "Javascript", "ActionScript", "Vulkan", "WebGL", "OpenGL", "Qt", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "Boujou", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Fusion360", "Alias", "Maya", "ZBrush", "Substance Designer", "Cinema 4D", "LightWave 3D", "Blender", "3D Printing", "Softimage", "Nuke", "Photoshop", "Flame", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Project Management", "Systems Administration", "CCNA", "Excel", "Shotgun", "FileMaker Pro", "Smart Sheets"],
+                'ActiveSkills' : ["Python", "Bash", "C++", "Javascript", "ActionScript", "Vulkan", "WebGL", "OpenGL", "Qt", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "Boujou", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Fusion360", "Alias", "Maya", "ZBrush", "Substance Designer", "Cinema 4D", "LightWave 3D", "Blender", "3D Printing", "Softimage", "Nuke", "Photoshop", "Flame", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Project Management", "Systems Administration", "CCNA", "Excel", "Shotgun", "FileMaker Pro", "Smart Sheets"],
                 'Objective' : 'Looking to work on VR Games with challenging coding problems and inspiring designs, with a keen interest in experimental hardware.',
                 'SkillsArray' : [
                     {"id": "Python:", "desc": "5 Years professional experience"},
@@ -135,7 +157,7 @@ function ResumeDialog() {
                 ],
             },
             'Embedded Engineer' : {
-                'ActiveSkills' : ["Python", "C++", "Java", "x86 Assembly", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Docker", "Unreal", "Unity", "Fusion360", "Alias", "Maya", "Blender", "3D Printing", "Nuke", "Ffmpeg", "Systems Administration", "CCNA", "Excel"],
+                'ActiveSkills' : ["Python", "Bash", "C++", "Java", "x86 Assembly", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Docker", "Unreal", "Unity", "Fusion360", "Alias", "Maya", "Blender", "3D Printing", "Nuke", "Ffmpeg", "Systems Administration", "CCNA", "Excel"],
                 'Objective' : 'Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.',
                 'SkillsArray' : [
                     {"id": "Python:", "desc": "5 Years experience"},
@@ -150,7 +172,7 @@ function ResumeDialog() {
                 ],
             },
             'Robotics Engineer' : {
-                'ActiveSkills' : ["Python", "C++", "Java", "x86 Assembly", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Docker", "Unreal", "Unity", "Fusion360", "Alias", "Maya", "Blender", "3D Printing", "Nuke", "Ffmpeg", "Systems Administration", "CCNA", "Excel"],
+                'ActiveSkills' : ["Python", "Bash", "C++", "Java", "x86 Assembly", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Docker", "Unreal", "Unity", "Fusion360", "Alias", "Maya", "Blender", "3D Printing", "Nuke", "Ffmpeg", "Systems Administration", "CCNA", "Excel"],
                 'Objective' : 'Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.',
                 'SkillsArray' : [
                     {"id": "Python:", "desc": "5 Years experience"},
@@ -165,7 +187,7 @@ function ResumeDialog() {
                 ],
             },
             'Electronics Engineer' : {
-                'ActiveSkills' : ["Python", "C++", "Java", "x86 Assembly", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Docker", "Unreal", "Unity", "Fusion360", "Alias", "Maya", "Blender", "3D Printing", "Nuke", "Ffmpeg", "Systems Administration", "CCNA", "Excel"],
+                'ActiveSkills' : ["Python", "Bash", "C++", "Java", "x86 Assembly", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Docker", "Unreal", "Unity", "Fusion360", "Alias", "Maya", "Blender", "3D Printing", "Nuke", "Ffmpeg", "Systems Administration", "CCNA", "Excel"],
                 'Objective' : 'Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.',
                 'SkillsArray' : [
                     {"id": "Python:", "desc": "5 Years experience"},
