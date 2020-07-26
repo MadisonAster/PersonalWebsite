@@ -719,13 +719,15 @@ function ResumeSave(doc, PositionTitle) {
 function Generate_CV_PDF(PositionTitle){
     var doc = CVSetup();
     CVContactDetails(doc, PositionTitle);
-    CVProjects(doc);
+    /*CVProjects(doc);*/
     ResumeSave(doc, PositionTitle);
 }
 
 function CacheImagesAndGenerate(SelectedTags, PositionTitle) {
     SortProjects(SelectedTags);
     window.ImageCache = new Array;
+
+    /*
     for (var i = 0; i < window.Projects.length; i++) {
         if(window.Projects[i]['images'].length > 0){
             var imgPath = window.Projects[i]['images'][0];
@@ -737,8 +739,10 @@ function CacheImagesAndGenerate(SelectedTags, PositionTitle) {
             window.ImageCache[i].style = 'display:none;';
         };
     };
+    */
     
     waitforload = function() {
+        /*
         for (var i = 0; i < window.Projects.length; i++) {
             if (!window.ImageCache[i].complete || window.ImageCache[i].naturalWidth == 0 || window.ImageCache[i].naturalWidth == 'undefined'){
                 console.log('cache waiting for image');
@@ -746,6 +750,7 @@ function CacheImagesAndGenerate(SelectedTags, PositionTitle) {
                 return;
             };    
         };
+        */
         Generate_CV_PDF(PositionTitle);
     };
     waitforload();
