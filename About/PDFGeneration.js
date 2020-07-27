@@ -639,6 +639,26 @@ function CacheImages(ActiveProjectsData) {
     ImageElements['ProfileImage'].src = './_Assets/ProfileImage.jpg';
     ImageElements['ProfileImage'].style = 'display:none;';
     
+    ImageElements['CodeWarsImage'] = document.createElement('img');
+    ImageElements['CodeWarsImage'].src = './About/ResumeImages/CodeWars.png';
+    ImageElements['CodeWarsImage'].style = 'display:none;';
+
+    ImageElements['DockerHubImage'] = document.createElement('img');
+    ImageElements['DockerHubImage'].src = './About/ResumeImages/DockerHub.png';
+    ImageElements['DockerHubImage'].style = 'display:none;';
+
+    ImageElements['GitHubImage'] = document.createElement('img');
+    ImageElements['GitHubImage'].src = './About/ResumeImages/GitHub.png';
+    ImageElements['GitHubImage'].style = 'display:none;';
+
+    ImageElements['IMDBImage'] = document.createElement('img');
+    ImageElements['IMDBImage'].src = './About/ResumeImages/IMDB.png';
+    ImageElements['IMDBImage'].style = 'display:none;';
+
+    ImageElements['LinkedInImage'] = document.createElement('img');
+    ImageElements['LinkedInImage'].src = './About/ResumeImages/LinkedIn.png';
+    ImageElements['LinkedInImage'].style = 'display:none;';
+
     waitforload = function() {
         for (var key in ImageElements){
             var Image = ImageElements[key];
@@ -657,6 +677,11 @@ function CacheImages(ActiveProjectsData) {
 function AddProfileImages(doc, ImageElements) {
     console.log('AddProfileImages');
     doc.addImage(ImageElements['ProfileImage'], 'JPG', 69, 17, 136, 140);
+    doc.addImage(ImageElements['GitHubImage'], 'PNG', 16, 116, 18, 18);
+    doc.addImage(ImageElements['DockerHubImage'], 'PNG', 16, 136, 18, 18);
+    doc.addImage(ImageElements['CodeWarsImage'], 'PNG', 16, 156, 18, 18);
+    doc.addImage(ImageElements['IMDBImage'], 'PNG', 16, 176, 18, 18);
+    //doc.addImage(ImageElements['LinkedInImage'], 'PNG', 16, 196, 18, 18);
 }
 
 function AddProjects(doc, ActiveProjectsData, ImageData) {
