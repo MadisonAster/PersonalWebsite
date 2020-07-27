@@ -297,7 +297,7 @@ function GenerateResume(){
     var doc = PDFSetup();
     AddSEOData(doc, SEOTags);
     AddPageStyling(doc);
-    AddProfileDetails(doc, JobTitle);
+    //AddProfileDetails(doc, JobTitle);
     //AddProfessionalExperience(doc);
     //AddEducation(doc);
     //AddSkills(doc, ActiveSkillSets);
@@ -480,8 +480,31 @@ function AddSEOData(doc, SEOTags){
 }
 
 function AddPageStyling(doc){
-    doc.setFillColor(0);
-    doc.rect(0, 0, 152, doc.internal.pageSize.height, 'F');
+    console.log('doc size!');
+    console.log(doc.internal.pageSize.width);
+    console.log(doc.internal.pageSize.height);
+
+    doc.setFillColor(231, 221, 222);
+    doc.rect(0, 0, doc.internal.pageSize.width, 115, 'F');
+    doc.rect(0, 0, 50, doc.internal.pageSize.height, 'F');
+
+    doc.setFillColor(149, 186, 155);
+    doc.rect(0, 115, doc.internal.pageSize.width, 20, 'F');
+    doc.setFillColor(242, 204, 168);
+    doc.rect(0, 135, doc.internal.pageSize.width, 20, 'F');
+    doc.setFillColor(246, 135, 128);
+    doc.rect(0, 155, doc.internal.pageSize.width, 20, 'F');
+    doc.setFillColor(227, 84, 104);
+    doc.rect(0, 175, doc.internal.pageSize.width, 20, 'F');
+
+    doc.setFillColor(51, 60, 67);
+    doc.rect(50, 0, 176, doc.internal.pageSize.height, 'F');
+
+    doc.setFillColor(255, 255, 255);
+    doc.rect(60, 8, 156, 187, 'F');
+
+    //doc.setFillColor(0);
+    //doc.rect(0, 0, 152, doc.internal.pageSize.height, 'F');
 }
 
 function AddProfileDetails(doc, PositionTitle) {
