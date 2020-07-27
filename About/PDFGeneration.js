@@ -203,16 +203,7 @@ function ResumeDialog() {
         };
     };
     if ($('#DialogSkillsCloud').children().length == 0){
-        var SkillSets = {};
-        for (var key in window.Skills){
-            if (key != 'pagination'){
-                var Skill = window.Skills[key];
-                if (!(Skill['skillset'] in SkillSets)) {
-                    SkillSets[Skill['skillset']] = [];
-                };
-                SkillSets[Skill['skillset']].push(Skill);
-            };
-        };
+        var SkillSets = GetSkillSets();
 
         var SkillButtonClasses = [
             /*"SkillButtonDarkGrey",*/
@@ -291,14 +282,14 @@ function GenerateResume(){
     var JobTitle = GetJobTitle();
     var JobType = GetJobType();
     var ActiveSkills = GetActiveSkillList();
-    var ActiveSkillsData = GetActiveSkillsData();
+    var ActiveSkillSets = GetActiveSkillSets();
     var ActiveProjects = GetActiveProjectsList();
     var ActiveProjectsData = GetActiveProjectsData();
     var SEOTags = GetSEOTags();
     console.log(JobTitle);
     console.log(JobType);
     console.log(ActiveSkills);
-    console.log(ActiveSkillsData);
+    console.log(ActiveSkillSets);
     console.log(ActiveProjects);
     console.log(ActiveProjectsData);
     console.log(SEOTags);
@@ -309,7 +300,7 @@ function GenerateResume(){
     AddProfileDetails(doc, JobTitle);
     //AddProfessionalExperience(doc);
     //AddEducation(doc);
-    //AddSkills(doc, ActiveSkillsData);
+    //AddSkills(doc, ActiveSkillSets);
 
     //var ImageData = CacheImages(ActiveProjectsData); //blocks until caching is complete
     //AddProfileImages(doc, ImageData);
@@ -343,6 +334,37 @@ function GetJobType(){
     return window.JobTypes[GetJobTitle()];
 }
 
+function GetSkillSets(){
+    var SkillSets = {};
+    for (var key in window.Skills){
+        if (key != 'pagination'){
+            var Skill = window.Skills[key];
+            if (!(Skill['skillset'] in SkillSets)) {
+                SkillSets[Skill['skillset']] = [];
+            };
+            SkillSets[Skill['skillset']].push(Skill);
+        };
+    };
+    return SkillSets;
+}
+
+function GetActiveSkillSets(){
+    var ActiveSkills = GetActiveSkillList();
+    var SkillSets = {};
+    for (var key in window.Skills){
+        if (key != 'pagination'){
+            var Skill = window.Skills[key];
+            if (!(Skill['skillset'] in SkillSets)) {
+                SkillSets[Skill['skillset']] = [];
+            };
+            if (ActiveSkills.indexOf(Skill['title']) > -1) {
+                SkillSets[Skill['skillset']].push(Skill);
+            };
+        };
+    };
+    return SkillSets;
+}
+
 function SetActiveSkillList(ActiveSkills){
     $("[id^=cbox]").each(function() {
         var skillname = this.id.replaceAll('cbox_','');
@@ -362,21 +384,6 @@ function GetActiveSkillList(){
         };
     });
     return ActiveSkills;
-}
-
-function GetActiveSkillsData(){
-    var Result = [];
-    var ActiveSkills = GetActiveSkillList();
-    for (var skill in ActiveSkills){
-        for (var i = 0; i < window.Skills.length; i++) {
-            var Skill = window.Skills[i];
-            if (Skill['title'] == skill){
-                Result.push(Skill);
-                break
-            };
-        };
-    };
-    return Result;
 }
 
 function SetActiveProjectsList(ActiveSkills){
@@ -409,10 +416,11 @@ function GetActiveProjectsList(){
 function GetActiveProjectsData(){
     var Result = [];
     var ActiveProjects = GetActiveProjectsList();
-    for (var ProjectName in ActiveProjects){
+    for (var a = 0; a < ActiveProjects.length; a++){
+        var ProjectName = ActiveProjects[a];
         for (var i = 0; i < window.Projects.length; i++) {
             var Project = window.Projects[i];
-            if (Project['title'] == ProjectName){
+            if (Project['title'].replaceAll(' ','') == ProjectName){
                 Result.push(Project);
                 break;
             };
