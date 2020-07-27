@@ -498,22 +498,25 @@ function AddProfileDetails(doc, PositionTitle) {
     //doc.setDefaultFonts(0, 'Candara');    //English default
 
     doc.setFont('helvetica');
-
     doc.setCharSpace(0);
+
     doc.setTextColor(255, 255, 255);
-    
     doc.setFontSize(26);
     doc.setFontStyle('bold');
-    //doc.text(GetFullName(), 70, 205, {maxWidth: 156, align: "right"});
     doc.text(GetFullName().toUpperCase(), 216, 230, {maxWidth: 156, align: "right"});
     
+    doc.setTextColor(255, 255, 255);
     doc.setFontSize(18);
     doc.setFontStyle('italic');
-    //doc.drawText(194, 61, PositionTitle);
     doc.text(PositionTitle, 216, 285, {maxWidth: 156, align: "right"});
     
-    doc.setFontSize(16);
+    doc.setTextColor(51, 60, 67);
+    doc.setFontSize(12);
     doc.setFontStyle('normal');
+    doc.text('www.MadisonAster.com', 250, 130, {align: "left"});
+    doc.text(GetEmail(), 250, 150, {align: "left"});
+    doc.text(GetPhone(), 250, 170, {align: "left"});
+    doc.text(GetAddress(), 250, 190, {align: "left"});
     //doc.drawText(201, 100, GetAddress());
     //doc.drawText(201, 120, GetPhone());
     //doc.drawText(201, 140, GetEmail());
