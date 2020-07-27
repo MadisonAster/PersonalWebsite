@@ -297,7 +297,7 @@ function GenerateResume(){
     var doc = PDFSetup();
     AddSEOData(doc, SEOTags);
     AddPageStyling(doc);
-    //AddProfileDetails(doc, JobTitle);
+    AddProfileDetails(doc, JobTitle);
     //AddProfessionalExperience(doc);
     //AddEducation(doc);
     //AddSkills(doc, ActiveSkillSets);
@@ -443,24 +443,7 @@ function PDFSetup(){
     var doc = new jsPDF('p', 'pt', 'letter');
     doc.setFontSize(12);
     doc.setTextColor(89, 92, 98);
-    doc.setFont('candara');
-
-    doc.autoTableSetDefaults({
-        headerStyles: {
-            fontStyle: 'bold',
-            font: "candara",
-            textColor: [89, 92, 98],
-            lineColor: [174, 186, 213],
-            fillColor: [234, 237, 244],
-        },
-        columnStyles: {
-            font: "candara",
-            textColor: [89, 92, 98],
-            lineWidth: 1,
-            lineColor: [174, 186, 213],
-            id: {fontStyle: 'bold'}
-        },
-    });
+    doc.setFont('helvetica');
 
     //doc.addPage();
     return doc;
@@ -508,30 +491,36 @@ function AddPageStyling(doc){
 }
 
 function AddProfileDetails(doc, PositionTitle) {
-    doc.addFont('Candara.ttf', 'Candara', 'normal', 'WinAnsiEncoding');
-    doc.addFont('Candarai.ttf', 'Candara', 'italic', 'WinAnsiEncoding');
-    doc.addFont('Candarab.ttf', 'Candara', 'bold', 'WinAnsiEncoding');
-    doc.setFont('Candara');
-    doc.setDefaultFonts(0, 'Candara');    //English default
+    //doc.addFont('Candara.ttf', 'Candara', 'normal', 'WinAnsiEncoding');
+    //doc.addFont('Candarai.ttf', 'Candara', 'italic', 'WinAnsiEncoding');
+    //doc.addFont('Candarab.ttf', 'Candara', 'bold', 'WinAnsiEncoding');
+    //doc.setFont('Candara');
+    //doc.setDefaultFonts(0, 'Candara');    //English default
+
+    doc.setFont('helvetica');
+
     doc.setCharSpace(0);
-    doc.setTextColor(0, 0, 0);
+    doc.setTextColor(255, 255, 255);
     
-    doc.setFontSize(20);
+    doc.setFontSize(32);
     doc.setFontStyle('bold');
-    doc.drawText(194, 38, GetFullName());
+    //doc.text(GetFullName(), 70, 205, {maxWidth: 156, align: "right"});
+    doc.text(GetFullName().toUpperCase(), 216, 235, {maxWidth: 156, align: "right"});
     
     doc.setFontSize(18);
     doc.setFontStyle('italic');
-    doc.drawText(194, 61, PositionTitle);
+    //doc.drawText(194, 61, PositionTitle);
     
     doc.setFontSize(16);
     doc.setFontStyle('normal');
-    doc.drawText(201, 100, '.'+GetAddress());
-    doc.drawText(201, 120, '.'+GetPhone());
-    doc.drawText(201, 140, GetEmail());
-    doc.drawText(201, 160, 'www.MadisonAster.com');
-    imgData1 = getBase64FromImageUrl("./_Assets/CVThumb.jpg");
-    doc.addImage(imgData1, 'JPEG', 1, 78, 178, 100);
+    //doc.drawText(201, 100, GetAddress());
+    //doc.drawText(201, 120, GetPhone());
+    //doc.drawText(201, 140, GetEmail());
+    //doc.drawText(201, 160, 'www.MadisonAster.com');
+    
+    //imgData1 = getBase64FromImageUrl("./_Assets/CVThumb.jpg");
+    //doc.addImage(imgData1, 'JPEG', 1, 78, 178, 100);
+
 }
 
 function AddProfessionalExperience(doc) {
