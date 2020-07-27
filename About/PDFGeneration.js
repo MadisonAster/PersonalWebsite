@@ -483,7 +483,7 @@ function AddPageStyling(doc){
     doc.setFillColor(51, 60, 67);
     doc.rect(50, 0, 176, doc.internal.pageSize.height, 'F');
 
-    doc.setFillColor(255, 255, 255);
+    doc.setFillColor(240, 240, 240);
     doc.rect(60, 8, 156, 187, 'F');
 
     //doc.setFillColor(0);
@@ -497,21 +497,33 @@ function AddProfileDetails(doc, PositionTitle) {
     //doc.setFont('Candara');
     //doc.setDefaultFonts(0, 'Candara');    //English default
 
-    doc.setFont('helvetica');
+    //doc.setFont('helvetica');
+    
+    //doc.addFont('mesmerize-cd-lt-normal.ttf', 'mesmerize-cd-lt', 'normal');
+    //doc.setFont('mesmerize-cd-lt');
+    //doc.addFont('mesmerize-cd-sb-normal.ttf', 'mesmerize-cd-sb', 'normal');
+    //doc.setFont('mesmerize-cd-sb');
+    doc.addFont('mesmerize-rg-normal.ttf', 'mesmerize-rg', 'normal');
+    doc.setFont('mesmerize-rg');
     doc.setCharSpace(0);
 
     doc.setTextColor(255, 255, 255);
-    doc.setFontSize(26);
-    doc.setFontStyle('bold');
-    doc.text(GetFullName().toUpperCase(), 216, 230, {maxWidth: 156, align: "right"});
+    doc.setFontSize(24);
+    doc.setFontStyle('normal');
+    doc.text(GetFullName().toUpperCase(), 216, 225, {maxWidth: 156, align: "right"});
+    //doc.text(GetFullName(), 216, 230, {maxWidth: 156, align: "right"});
     
     doc.setTextColor(255, 255, 255);
     doc.setFontSize(18);
-    doc.setFontStyle('italic');
-    doc.text(PositionTitle, 216, 285, {maxWidth: 156, align: "right"});
+    doc.addFont('mesmerize-ul-normal.ttf', 'mesmerize-ul', 'normal');
+    doc.setFont('mesmerize-ul');
+    doc.setFontStyle('normal');
+    doc.text(PositionTitle.toLowerCase(), 216, 270, {maxWidth: 156, align: "right"});
     
     doc.setTextColor(51, 60, 67);
     doc.setFontSize(12);
+    doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
+    doc.setFont('mesmerize-el');
     doc.setFontStyle('normal');
     doc.text('www.MadisonAster.com', 250, 130, {align: "left"});
     doc.text(GetEmail(), 250, 150, {align: "left"});
