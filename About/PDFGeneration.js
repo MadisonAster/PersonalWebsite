@@ -302,8 +302,8 @@ function GenerateResume(){
     //AddEducation(doc);
     //AddSkills(doc, ActiveSkillSets);
 
-    //var ImageData = CacheImages(ActiveProjectsData); //blocks until caching is complete
-    //AddProfileImages(doc, ImageData);
+    var ImageData = CacheImages(ActiveProjectsData); //blocks until caching is complete
+    AddProfileImages(doc, ImageData);
     //AddProjects(doc, ActiveProjectsData, ImageData);
 
     PDFSave(doc, JobTitle);
@@ -502,14 +502,15 @@ function AddProfileDetails(doc, PositionTitle) {
     doc.setCharSpace(0);
     doc.setTextColor(255, 255, 255);
     
-    doc.setFontSize(32);
+    doc.setFontSize(26);
     doc.setFontStyle('bold');
     //doc.text(GetFullName(), 70, 205, {maxWidth: 156, align: "right"});
-    doc.text(GetFullName().toUpperCase(), 216, 235, {maxWidth: 156, align: "right"});
+    doc.text(GetFullName().toUpperCase(), 216, 230, {maxWidth: 156, align: "right"});
     
     doc.setFontSize(18);
     doc.setFontStyle('italic');
     //doc.drawText(194, 61, PositionTitle);
+    doc.text(PositionTitle, 216, 285, {maxWidth: 156, align: "right"});
     
     doc.setFontSize(16);
     doc.setFontStyle('normal');
@@ -520,8 +521,7 @@ function AddProfileDetails(doc, PositionTitle) {
     
     //imgData1 = getBase64FromImageUrl("./_Assets/CVThumb.jpg");
     //doc.addImage(imgData1, 'JPEG', 1, 78, 178, 100);
-
-}
+    }
 
 function AddProfessionalExperience(doc) {
     var columns7 = [
@@ -594,8 +594,18 @@ function AddSkills(doc, ActiveSkillsData){
 }
 
 function CacheImages(ActiveProjectsData) {
-    window.ImageCache = new Array;
-
+    var ImageCache = new Array;
+    var ImageElements = {};
+    
+    /*
+    for (var key in ActiveProjectsData) {
+        var Project = ActiveProjectsData[key];
+        var imgPath = Project['images'][0];
+        ImageElements[key] = document.createElement('img');
+        ImageElements[key].src = imgPath;
+        ImageElements[key].style = 'display:none;';
+    };
+    */
     /*
     for (var i = 0; i < window.Projects.length; i++) {
         if(window.Projects[i]['images'].length > 0){
@@ -609,25 +619,29 @@ function CacheImages(ActiveProjectsData) {
         };
     };
     */
+
+    ImageElements['ProfileImage'] = document.createElement('img');
+    ImageElements['ProfileImage'].src = './_Assets/ProfileImage.jpg';
+    ImageElements['ProfileImage'].style = 'display:none;';
     
     waitforload = function() {
-        /*
-        for (var i = 0; i < window.Projects.length; i++) {
-            if (!window.ImageCache[i].complete || window.ImageCache[i].naturalWidth == 0 || window.ImageCache[i].naturalWidth == 'undefined'){
+        for (var key in ImageElements){
+            var Image = ImageElements[key];
+            if (!Image.complete || Image.naturalWidth == 0 || Image.naturalWidth == 'undefined'){
                 console.log('cache waiting for image');
                 setTimeout(waitforload, 100);
                 return;
-            };    
+            };  
         };
-        */
     };
     waitforload();
-
-    return window.ImageCache;
+    console.log('Caching complete.');
+    return ImageElements;
 }
 
-function AddProfileImages(doc, ImageData) {
-
+function AddProfileImages(doc, ImageElements) {
+    console.log('AddProfileImages');
+    doc.addImage(ImageElements['ProfileImage'], 'JPG', 69, 17, 136, 140);
 }
 
 function AddProjects(doc, ActiveProjectsData, ImageData) {
@@ -677,6 +691,7 @@ function PDFAddPage(doc) {
 }
 
 function PDFSave(doc, PositionTitle) {
+    console.log('PDFSave');
     var date = new Date();
     doc.save('MadisonAster_'+PositionTitle.replaceAll(' ','')+'_Resume_'+date.yyyymmdd()+'.pdf');
 }
