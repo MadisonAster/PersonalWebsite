@@ -677,11 +677,18 @@ function CacheImages(ActiveProjectsData) {
 function AddProfileImages(doc, ImageElements) {
     console.log('AddProfileImages');
     doc.addImage(ImageElements['ProfileImage'], 'JPG', 69, 17, 136, 140);
+
     doc.addImage(ImageElements['GitHubImage'], 'PNG', 16, 116, 18, 18);
     doc.addImage(ImageElements['DockerHubImage'], 'PNG', 16, 136, 18, 18);
     doc.addImage(ImageElements['CodeWarsImage'], 'PNG', 16, 156, 18, 18);
     doc.addImage(ImageElements['IMDBImage'], 'PNG', 16, 176, 18, 18);
     //doc.addImage(ImageElements['LinkedInImage'], 'PNG', 16, 196, 18, 18);
+
+    doc.link(16, 116, 18, 18, {url: GetGitHubURL()});
+    doc.link(16, 136, 18, 18, {url: GetDockerHubURL()});
+    doc.link(16, 156, 18, 18, {url: GetCodeWarsURL()});
+    doc.link(16, 176, 18, 18, {url: GetIMDBURL()});
+    //doc.link(16, 196, 18, 18, {url: GetLinkedInURL()});
 }
 
 function AddProjects(doc, ActiveProjectsData, ImageData) {
