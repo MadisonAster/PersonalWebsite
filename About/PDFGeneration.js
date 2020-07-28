@@ -327,6 +327,9 @@ function PDFSetup(){
     doc.setTextColor(89, 92, 98);
     doc.setFont('helvetica');
     doc.pagecount = 1;
+    doc.addFont('mesmerize-rg-normal.ttf', 'mesmerize-rg', 'normal');
+    doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
+    doc.addFont('mesmerize-ul-normal.ttf', 'mesmerize-ul', 'normal');
     return doc;
 }
 
@@ -377,7 +380,6 @@ function AddSubsequentPageStyling(doc){
 }
 
 function AddNameAndTitle(doc, PositionTitle, ycursor, headerspace){
-    doc.addFont('mesmerize-rg-normal.ttf', 'mesmerize-rg', 'normal');
     doc.setFont('mesmerize-rg');
     doc.setCharSpace(0);
 
@@ -389,7 +391,6 @@ function AddNameAndTitle(doc, PositionTitle, ycursor, headerspace){
     
     doc.setTextColor(255, 255, 255);
     doc.setFontSize(18);
-    doc.addFont('mesmerize-ul-normal.ttf', 'mesmerize-ul', 'normal');
     doc.setFont('mesmerize-ul');
     doc.setFontStyle('normal');
     doc.text(PositionTitle.toLowerCase(), 216, ycursor, {maxWidth: 156, align: "right"});
@@ -414,7 +415,6 @@ function AddAvailability(doc, ycursor, headerspace){
     var Availability = GetAvailability().toLowerCase();
     doc.setTextColor(255, 255, 255);
     doc.setFontSize(18);
-    doc.addFont('mesmerize-ul-normal.ttf', 'mesmerize-ul', 'normal');
     doc.setFont('mesmerize-ul');
     doc.setFontStyle('normal');
     doc.text(Availability, 216, ycursor+5, {maxWidth: 156, align: "right"});
@@ -431,7 +431,6 @@ function AddAvailability(doc, ycursor, headerspace){
 function AddProfileDetails(doc, PositionTitle, ycursor, headerspace) {
     doc.setTextColor(51, 60, 67);
     doc.setFontSize(12);
-    doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
     doc.setFont('mesmerize-el');
     doc.setFontStyle('normal');
     doc.textWithLink(GetProfileURL(), 250, ycursor, {align: 'left', url:'https://'+GetProfileURL()});
@@ -449,7 +448,6 @@ function AddProfileDetails(doc, PositionTitle, ycursor, headerspace) {
 
 function AddAboutMe(doc, AboutText, ycursor, headerspace){
     doc.setTextColor(51, 60, 67);
-    doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
     doc.setFont('mesmerize-el');
     doc.setFontStyle('normal');
     doc.setFontSize(16);
@@ -493,10 +491,6 @@ function AddProfessionalExperience(doc, ycursor, headerspace) {
         'https://cognition.la',
         'http://www.litpost.com',
     ];
-
-    doc.addFont('mesmerize-rg-normal.ttf', 'mesmerize-rg', 'normal');
-    doc.addFont('mesmerize-ul-normal.ttf', 'mesmerize-ul', 'normal');
-    doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
 
     doc.setTextColor(51, 60, 67);
     doc.setFont('mesmerize-el');
@@ -543,8 +537,6 @@ function AddEducation(doc, ycursor, headerspace) {
         " + CCNA 1-4, 2006-2007",
     ];
 
-    doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
-
     doc.setTextColor(51, 60, 67);
     doc.setFont('mesmerize-el');
     doc.setFontStyle('normal');
@@ -585,17 +577,11 @@ function AddSkills(doc, ActiveSkillSets, ycursor, headerspace){
         '2D Tools',
         'Business Tools',
     ]
-
-    doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
-    doc.addFont('mesmerize-rg-normal.ttf', 'mesmerize-rg', 'normal');
+    
     doc.setTextColor(255, 255, 255);
     for (var c = 0; c < SkillCategories.length; c++) {
         var category = SkillCategories[c];
-        if (category == 'Business Tools'){ //Temporary hack, remove in an hour
-            var skills = ActiveSkillSets['Business'];
-        } else {
-            var skills = ActiveSkillSets[category];
-        };
+        var skills = ActiveSkillSets[category];
         
         if (ycursor >= 740){
             ycursor = 20;
@@ -613,7 +599,7 @@ function AddSkills(doc, ActiveSkillSets, ycursor, headerspace){
             doc.setFont('mesmerize-el');
             doc.setFontSize(10);
             doc.text(skill['title'], 65, ycursor, {maxWidth: 80, align: "left"});
-            doc.text(skill['proficiency'], 216, ycursor, {maxWidth: 156, align: "right"});
+            AddStars(doc, skill['proficiency'], ycursor);
             ycursor += Math.round(Math.ceil(doc.getTextWidth(skill['title']) / 80) * 10); //lineheight
             ycursor += 2; //margin
             if (ycursor > 762){
@@ -633,6 +619,16 @@ function AddSkills(doc, ActiveSkillSets, ycursor, headerspace){
 
     return ycursor;
 }
+
+function AddStars(doc, proficiency, ycursor){
+    var percent = parseInt(proficiency);
+    console.log(percent);
+    doc.setFont('helvetica');
+    //\u1F7DB
+    var startext = '* * * * *';
+    doc.text(startext, 216, ycursor, {maxWidth: 156, align: "right"});
+    //doc.text(proficiency, 216, ycursor, {maxWidth: 156, align: "right"});
+};
 
 function AddProjects(doc, ActiveProjectsData, ImageData) {
     var ImageYPosition = 220;
