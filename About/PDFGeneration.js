@@ -612,9 +612,9 @@ function AddSkills(doc, ActiveSkillSets, ycursor, headerspace){
             var skill = skills[s];
             doc.setFont('mesmerize-el');
             doc.setFontSize(10);
-            doc.text(skill['title'], 65, ycursor, {maxWidth: 156, align: "left"});
+            doc.text(skill['title'], 65, ycursor, {maxWidth: 80, align: "left"});
             doc.text(skill['proficiency'], 216, ycursor, {maxWidth: 156, align: "right"});
-            ycursor += 10; //lineheight
+            ycursor += Math.round(Math.ceil(doc.getTextWidth(skill['title']) / 80) * 10); //lineheight
             ycursor += 2; //margin
             if (ycursor > 762){
                 ycursor = 20;
@@ -630,7 +630,7 @@ function AddSkills(doc, ActiveSkillSets, ycursor, headerspace){
             PDFAddPage(doc);
         };
     };
-    
+
     return ycursor;
 }
 
