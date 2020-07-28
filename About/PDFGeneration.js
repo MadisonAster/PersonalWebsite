@@ -559,45 +559,42 @@ function AddEducation(doc, ycursor, headerspace) {
 function AddProjects(doc, ActiveProjectsData, ycursor, headerspace) {
     console.log('AddProjects');
     console.log(ActiveProjectsData);
-    /*
-    var ImageYPosition = 220;
-    var ProjectCounter = 1;
-    
-    for (var i = 0; i < window.Projects.length; i++) {
-        if (ProjectCounter >= 5 && window.Projects.length > i+1) {
-            ProjectCounter = 0;
-            ImageYPosition = 78;
+
+    PDFSetPage(doc, 2);
+    ycursor = 40;
+
+    doc.setTextColor(51, 60, 67);
+    doc.setFont('mesmerize-el');
+    doc.setFontStyle('normal');
+    doc.setFontSize(16);
+    doc.text('Projects', 250, ycursor, {align: "left"});
+    ycursor += headerspace;
+
+    for (var p = 0; p < ActiveProjectsData.length; p++) {
+        var project = ActiveProjectsData[p];
+
+        doc.setFont('mesmerize-rg');
+        doc.setFontSize(11);
+        //doc.textWithLink(project['title'], 260, ycursor, {maxWidth: 320, align: "left", url:GetProfileURL()+'/Projects#'+project['foldernumber']});
+        doc.text(project['title'], 260, ycursor, {maxWidth: 320, align: "left"});
+        ycursor += Math.ceil(doc.getTextWidth(project['title']) / 320) * 12;//spacing
+
+        doc.setFont('mesmerize-ul');
+        doc.setFontSize(9);
+        doc.text(project['date'], 260, ycursor, {maxWidth: 320, align: "left"});
+        ycursor += Math.ceil(doc.getTextWidth(project['date']) / 320) * 10;//spacing
+
+        doc.setFont('mesmerize-el');
+        doc.setFontSize(9);
+        doc.text(String(project['shortdescription']).replace(/[\r\n]+/gm, ''), 260, ycursor, {maxWidth: 320, align: "left"});
+        ycursor += Math.ceil(doc.getTextWidth(project['shortdescription']) / 320) * 10;//spacing
+
+        ycursor += 12; //margin
+        if (ycursor > 780){
+            ycursor = 20;
             PDFAddPage(doc);
         };
-        doc.setFontStyle('bold');
-        doc.setFontSize(16);
-        doc.drawText(201, ImageYPosition+10, '.'+window.Projects[i]["title"]);
-        doc.setFontStyle('normal');
-        doc.setFontSize(10);
-        doc.drawText(206, ImageYPosition+20, window.Projects[i]["date"]);
-        doc.setFontSize(16);
-        for (var j = 0; j < window.Projects[i]["shortdescription"].length; j++) {
-            var descriptiontext = window.Projects[i]["shortdescription"][j];
-            descriptiontext = descriptiontext.replaceAll('\n', '');
-            descriptiontext = descriptiontext.replaceAll('\r', '');
-            doc.drawText(201, ImageYPosition+18+20*(j+1), descriptiontext);
-        };
-
-        if(window.Projects[i]['images'].length > 0){
-            var imgPath = window.Projects[i]['images'][0];
-            var imgData = getBase64FromImageUrl(imgPath);
-            if (window.Projects[i]['images'][0].rsplit('.',1)[-1] == 'jpg'){
-                doc.addImage(imgData, 'JPEG', 1, ImageYPosition, 178, 100);
-            } else if(window.Projects[i]['images'][0].rsplit('.',1)[-1] == 'png'){
-                doc.addImage(imgData, 'PNG', 1, ImageYPosition, 178, 100);
-            } else {
-                doc.addImage(imgData, 'GIF', 1, ImageYPosition, 178, 100);
-            };
-        };
-        ImageYPosition += 142;
-        ProjectCounter += 1;
     };
-    */
 
     return ycursor;
 };
