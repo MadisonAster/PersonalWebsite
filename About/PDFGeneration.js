@@ -428,7 +428,6 @@ function AddAvailability(doc, ycursor, headerspace){
     return ycursor
 }
 
-
 function AddProfileDetails(doc, PositionTitle, ycursor, headerspace) {
     doc.setTextColor(51, 60, 67);
     doc.setFontSize(12);
@@ -574,8 +573,65 @@ function AddGenerationDate(doc) {
     doc.text(DateText, doc.internal.pageSize.width-5, doc.internal.pageSize.height-12, {align: "right", url:GetProfileURL()});
 };
 
-function AddSkills(doc, ActiveSkillsData){
-    PDFAddPage(doc);
+function AddSkills(doc, ActiveSkillSets, ycursor, headerspace){
+    console.log('AddSkills');
+    console.log(ActiveSkillSets);
+    
+    var SkillCategories = [
+        'Programming Languages',
+        'Programming Libraries',
+        'Programming Tools',
+        '3D Tools',
+        '2D Tools',
+        'Business Tools',
+    ]
+
+    doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
+    doc.addFont('mesmerize-rg-normal.ttf', 'mesmerize-rg', 'normal');
+    doc.setTextColor(255, 255, 255);
+    for (var c = 0; c < SkillCategories.length; c++) {
+        var category = SkillCategories[c];
+        if (category == 'Business Tools'){ //Temporary hack, remove in an hour
+            var skills = ActiveSkillSets['Business'];
+        } else {
+            var skills = ActiveSkillSets[category];
+        };
+        
+        if (ycursor >= 740){
+            ycursor = 20;
+            PDFAddPage(doc);
+        };
+
+        doc.setFont('mesmerize-rg');
+        doc.setFontSize(12);
+        doc.text(category, 141, ycursor, {maxWidth: 156, align: "center"});
+        ycursor += 12; //lineheight
+        ycursor += 5; //margin
+
+        for (var s = 0; s < skills.length; s++){
+            var skill = skills[s];
+            doc.setFont('mesmerize-el');
+            doc.setFontSize(10);
+            doc.text(skill['title'], 65, ycursor, {maxWidth: 156, align: "left"});
+            doc.text(skill['proficiency'], 216, ycursor, {maxWidth: 156, align: "right"});
+            ycursor += 10; //lineheight
+            ycursor += 2; //margin
+            if (ycursor > 762){
+                ycursor = 20;
+                PDFAddPage(doc);
+            };
+        };
+
+        doc.setFillColor(240, 240, 240);
+        doc.rect(60, ycursor, 156, 1, 'F'); //DividingLine
+        ycursor += headerspace;
+        if (ycursor > 762){
+            ycursor = 20;
+            PDFAddPage(doc);
+        };
+    };
+    
+    return ycursor;
 }
 
 function AddProjects(doc, ActiveProjectsData, ImageData) {
