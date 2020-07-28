@@ -168,7 +168,7 @@ function GenerateResume(){
 
     var ycursor1 = 225;
     ycursor1 = AddNameAndTitle(doc, JobTitle, ycursor1);
-    //AddSkills(doc, ActiveSkillSets, ycursor1);
+    //ycursor1 = AddSkills(doc, ActiveSkillSets, ycursor1);
 
     var ycursor2 = 130;
     var headerspace = 30;
@@ -176,11 +176,10 @@ function GenerateResume(){
     ycursor2 = AddAboutMe(doc, JobType['Objective'], ycursor2, headerspace);
     ycursor2 = AddProfessionalExperience(doc, ycursor2, headerspace);
     ycursor2 = AddEducation(doc, ycursor2, headerspace);
-    ycursor2 = AddGenerationDates(doc);
-
-    var ImageData = CacheImages(doc, ActiveProjectsData); //blocks until caching is complete
-    AddProfileImages(doc, ImageData);
     //ycursor2 = AddProjects(doc, ActiveProjectsData, ImageData, ycursor2);
+
+    AddGenerationDates(doc);
+    AddImages(doc); //blocks until caching is complete
 
     PDFSave(doc, JobTitle);
 }
@@ -386,6 +385,12 @@ function AddNameAndTitle(doc, PositionTitle, ycursor){
     doc.text(PositionTitle.toLowerCase(), 216, ycursor, {maxWidth: 156, align: "right"});
     ycursor += 40;
 
+    window.PDFImageCache.push(['./_Assets/ProfileImage.jpg', 'JPG', 69, 17, 136, 140, {url:'https://'+GetProfileURL()}]);
+    window.PDFImageCache.push(['./About/ResumeImages/GitHub.png', 'PNG', 16, 116, 18, 18, {url:GetGitHubURL()}]);
+    window.PDFImageCache.push(['./About/ResumeImages/DockerHub.png', 'PNG', 16, 136, 18, 18, {url:GetDockerHubURL()}]);
+    window.PDFImageCache.push(['./About/ResumeImages/CodeWars.png', 'PNG', 16, 156, 18, 18, {url:GetCodeWarsURL()}]);
+    window.PDFImageCache.push(['./About/ResumeImages/IMDB.png', 'PNG', 16, 176, 18, 18, {url:GetIMDBURL()}]);
+
     return ycursor;
 }
 
@@ -419,13 +424,6 @@ function AddAboutMe(doc, AboutText, ycursor, headerspace){
     doc.setFontSize(12);
     doc.text(AboutText, 260, ycursor, {maxWidth: 345, align: "left"});
     ycursor += Math.round(Math.ceil(doc.getTextWidth(AboutText) / 345) * 12);//spacing
-    console.log('AboutMeasure');
-    console.log(doc.getTextWidth(AboutText));
-    console.log(doc.getTextWidth(AboutText) / 345);
-    console.log(Math.ceil(doc.getTextWidth(AboutText) / 345));
-    console.log(Math.ceil(doc.getTextWidth(AboutText) / 345) * 12.14);
-    console.log(Math.round(Math.ceil(doc.getTextWidth(AboutText) / 345) * 12.14));
-    //ycursor += 85; //measure text function?
     ycursor += headerspace; //spacing
     return ycursor;
 }
@@ -540,90 +538,8 @@ function AddGenerationDates(doc) {
     doc.text(DateText, doc.internal.pageSize.width-5, doc.internal.pageSize.height-12, {align: "right", url:GetProfileURL()});
 };
 
-
 function AddSkills(doc, ActiveSkillsData){
 
-}
-
-function CacheImages(doc, ActiveProjectsData) {
-    var ImageElements = {};
-    
-    for (var i = 0; i < window.PDFImageCache.length; i++) {
-        var image = window.PDFImageCache[i];
-        image.push(document.createElement('img'));
-        image[7].src = image[0];
-        image[7].style = 'display:none;'
-    };
-
-    ImageElements['ProfileImage'] = document.createElement('img');
-    ImageElements['ProfileImage'].src = './_Assets/ProfileImage.jpg';
-    ImageElements['ProfileImage'].style = 'display:none;';
-    
-    ImageElements['CodeWarsImage'] = document.createElement('img');
-    ImageElements['CodeWarsImage'].src = './About/ResumeImages/CodeWars.png';
-    ImageElements['CodeWarsImage'].style = 'display:none;';
-
-    ImageElements['DockerHubImage'] = document.createElement('img');
-    ImageElements['DockerHubImage'].src = './About/ResumeImages/DockerHub.png';
-    ImageElements['DockerHubImage'].style = 'display:none;';
-
-    ImageElements['GitHubImage'] = document.createElement('img');
-    ImageElements['GitHubImage'].src = './About/ResumeImages/GitHub.png';
-    ImageElements['GitHubImage'].style = 'display:none;';
-
-    ImageElements['IMDBImage'] = document.createElement('img');
-    ImageElements['IMDBImage'].src = './About/ResumeImages/IMDB.png';
-    ImageElements['IMDBImage'].style = 'display:none;';
-
-    ImageElements['LinkedInImage'] = document.createElement('img');
-    ImageElements['LinkedInImage'].src = './About/ResumeImages/LinkedIn.png';
-    ImageElements['LinkedInImage'].style = 'display:none;';
-
-    waitforload = function() {
-        for (var key in ImageElements){
-            var Image = ImageElements[key];
-            if (!Image.complete || Image.naturalWidth == 0 || Image.naturalWidth == 'undefined'){
-                console.log('cache waiting for image');
-                setTimeout(waitforload, 100);
-                return;
-            };  
-        };
-        for (var i = 0; i < window.PDFImageCache.length; i++) {
-            var image = window.PDFImageCache[i];
-            if (!Image.complete || Image.naturalWidth == 0 || Image.naturalWidth == 'undefined'){
-                console.log('cache waiting for image');
-                setTimeout(waitforload, 100);
-                return;
-            };  
-        };
-    };
-    waitforload();
-    console.log('Caching complete.');
-
-    for (var i = 0; i < window.PDFImageCache.length; i++) {
-        var image = window.PDFImageCache[i];
-        doc.addImage(image[7], image[1], image[2], image[3], image[4], image[5]);
-        doc.link(image[2], image[3], image[4], image[5], image[6]);
-    };    
-
-    return ImageElements;
-}
-
-function AddProfileImages(doc, ImageElements) {
-    console.log('AddProfileImages');
-    doc.addImage(ImageElements['ProfileImage'], 'JPG', 69, 17, 136, 140);
-
-    doc.addImage(ImageElements['GitHubImage'], 'PNG', 16, 116, 18, 18);
-    doc.addImage(ImageElements['DockerHubImage'], 'PNG', 16, 136, 18, 18);
-    doc.addImage(ImageElements['CodeWarsImage'], 'PNG', 16, 156, 18, 18);
-    doc.addImage(ImageElements['IMDBImage'], 'PNG', 16, 176, 18, 18);
-    //doc.addImage(ImageElements['LinkedInImage'], 'PNG', 16, 196, 18, 18);
-
-    doc.link(16, 116, 18, 18, {url: GetGitHubURL()});
-    doc.link(16, 136, 18, 18, {url: GetDockerHubURL()});
-    doc.link(16, 156, 18, 18, {url: GetCodeWarsURL()});
-    doc.link(16, 176, 18, 18, {url: GetIMDBURL()});
-    //doc.link(16, 196, 18, 18, {url: GetLinkedInURL()});
 }
 
 function AddProjects(doc, ActiveProjectsData, ImageData) {
@@ -663,6 +579,20 @@ function AddProjects(doc, ActiveProjectsData, ImageData) {
         };
         ImageYPosition += 142;
         ProjectCounter += 1;
+    };
+}
+
+function AddImages(doc) {
+    for (var i = 0; i < window.PDFImageCache.length; i++) {
+        var image = window.PDFImageCache[i];
+        image.push(document.createElement('img'));
+        image[7].src = image[0];
+        image[7].style = 'display:none;'
+    };
+    for (var i = 0; i < window.PDFImageCache.length; i++) {
+        var image = window.PDFImageCache[i];
+        doc.addImage(image[7], image[1], image[2], image[3], image[4], image[5]);
+        doc.link(image[2], image[3], image[4], image[5], image[6]);
     };
 }
 
