@@ -153,6 +153,7 @@ function GenerateResume(){
     var ActiveSkillSets = GetActiveSkillSets();
     var ActiveProjects = GetActiveProjectsList();
     var ActiveProjectsData = GetActiveProjectsData();
+    window.PDFImageCache = [];
 
     console.log(JobTitle);
     console.log(JobType);
@@ -176,7 +177,7 @@ function GenerateResume(){
     ycursor2 = AddProfessionalExperience(doc, ycursor2, headerspace);
     ycursor2 = AddEducation(doc, ycursor2, headerspace);
 
-    var ImageData = CacheImages(ActiveProjectsData); //blocks until caching is complete
+    var ImageData = CacheImages(doc, ActiveProjectsData); //blocks until caching is complete
     AddProfileImages(doc, ImageData);
     //ycursor2 = AddProjects(doc, ActiveProjectsData, ImageData, ycursor2);
 
@@ -448,7 +449,17 @@ function AddProfessionalExperience(doc, ycursor, headerspace) {
         'Nov 2011 – Mar 2015, 3 years 5 months',
         'Architected and Implemented a custom VFX pipeline to connect 3D, Compositing, and Color departments.',
         ],
-    ]
+    ];
+    var JobIcons = [
+        './About/ResumeImages/SaatchiLogo.png',
+        './About/ResumeImages/CognitionLogo.png',
+        './About/ResumeImages/LitLogo.png',
+    ];
+    var JobURLs = [
+        'http://3d.saatchila.com',
+        'https://cognition.la',
+        'http://www.litpost.com',
+    ];
 
     doc.addFont('mesmerize-rg-normal.ttf', 'mesmerize-rg', 'normal');
     doc.addFont('mesmerize-ul-normal.ttf', 'mesmerize-ul', 'normal');
@@ -464,22 +475,24 @@ function AddProfessionalExperience(doc, ycursor, headerspace) {
     for (var j=0; j < Jobs.length; j++){
         var job = Jobs[j];
 
+        window.PDFImageCache.push([JobIcons[j], 'PNG', 245, ycursor-10, 30, 30, {url:JobURLs[j]}]);
+
         doc.setFont('mesmerize-rg');
         doc.setFontSize(12);
-        doc.text(job[0], 280, ycursor, {maxWidth: 320, align: "left"});
+        doc.textWithLink(job[0], 280, ycursor, {maxWidth: 320, align: "left", url:JobURLs[j]});
         ycursor += Math.ceil(doc.getTextWidth(job[0]) / 320) * 15;//spacing
 
         doc.setFont('mesmerize-el');
         doc.setFontSize(10);
-        doc.text(job[1], 280, ycursor, {maxWidth: 320, align: "left"});
+        doc.textWithLink(job[1], 280, ycursor, {maxWidth: 320, align: "left", url:JobURLs[j]});
         ycursor += Math.ceil(doc.getTextWidth(job[1]) / 320) * 15;//spacing
 
         doc.setFont('mesmerize-ul');
-        doc.text(job[2], 280, ycursor, {maxWidth: 320, align: "left"});
+        doc.textWithLink(job[2], 280, ycursor, {maxWidth: 320, align: "left", url:JobURLs[j]});
         ycursor += Math.ceil(doc.getTextWidth(job[2]) / 320) * 15;//spacing
 
         doc.setFont('mesmerize-el');
-        doc.text(job[3], 280, ycursor, {maxWidth: 320, align: "left"});
+        doc.textWithLink(job[3], 280, ycursor, {maxWidth: 320, align: "left", url:JobURLs[j]});
         ycursor += Math.ceil(doc.getTextWidth(job[3]) / 320 + 0.1) * 15;//spacing
         
         ycursor += 5;//spacing
@@ -520,32 +533,15 @@ function AddSkills(doc, ActiveSkillsData){
 
 }
 
-function CacheImages(ActiveProjectsData) {
-    var ImageCache = new Array;
+function CacheImages(doc, ActiveProjectsData) {
     var ImageElements = {};
     
-    /*
-    for (var key in ActiveProjectsData) {
-        var Project = ActiveProjectsData[key];
-        var imgPath = Project['images'][0];
-        ImageElements[key] = document.createElement('img');
-        ImageElements[key].src = imgPath;
-        ImageElements[key].style = 'display:none;';
+    for (var i = 0; i < window.PDFImageCache.length; i++) {
+        var image = window.PDFImageCache[i];
+        image.push(document.createElement('img'));
+        image[7].src = image[0];
+        image[7].style = 'display:none;'
     };
-    */
-    /*
-    for (var i = 0; i < window.Projects.length; i++) {
-        if(window.Projects[i]['images'].length > 0){
-            var imgPath = window.Projects[i]['images'][0];
-            //window.ImageCache[i] = new Image();
-            //window.ImageCache[i].src = imgPath;
-            
-            window.ImageCache[i] = document.createElement('img');
-            window.ImageCache[i].src = imgPath;
-            window.ImageCache[i].style = 'display:none;';
-        };
-    };
-    */
 
     ImageElements['ProfileImage'] = document.createElement('img');
     ImageElements['ProfileImage'].src = './_Assets/ProfileImage.jpg';
@@ -580,9 +576,24 @@ function CacheImages(ActiveProjectsData) {
                 return;
             };  
         };
+        for (var i = 0; i < window.PDFImageCache.length; i++) {
+            var image = window.PDFImageCache[i];
+            if (!Image.complete || Image.naturalWidth == 0 || Image.naturalWidth == 'undefined'){
+                console.log('cache waiting for image');
+                setTimeout(waitforload, 100);
+                return;
+            };  
+        };
     };
     waitforload();
     console.log('Caching complete.');
+
+    for (var i = 0; i < window.PDFImageCache.length; i++) {
+        var image = window.PDFImageCache[i];
+        doc.addImage(image[7], image[1], image[2], image[3], image[4], image[5]);
+        doc.link(image[2], image[3], image[4], image[5], image[6]);
+    };    
+
     return ImageElements;
 }
 
