@@ -176,6 +176,7 @@ function GenerateResume(){
     ycursor2 = AddAboutMe(doc, JobType['Objective'], ycursor2, headerspace);
     ycursor2 = AddProfessionalExperience(doc, ycursor2, headerspace);
     ycursor2 = AddEducation(doc, ycursor2, headerspace);
+    ycursor2 = AddGenerationDates(doc);
 
     var ImageData = CacheImages(doc, ActiveProjectsData); //blocks until caching is complete
     AddProfileImages(doc, ImageData);
@@ -394,7 +395,7 @@ function AddProfileDetails(doc, PositionTitle, ycursor, headerspace) {
     doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
     doc.setFont('mesmerize-el');
     doc.setFontStyle('normal');
-    doc.text(GetProfileURL(), 250, ycursor, {align: "left"});
+    doc.textWithLink(GetProfileURL(), 250, ycursor, {align: 'left', url:'https://'+GetProfileURL()});
     ycursor += 20;
     doc.text(GetEmail(), 250, ycursor, {align: "left"});
     ycursor += 20;
@@ -528,6 +529,17 @@ function AddEducation(doc, ycursor, headerspace) {
 
     return ycursor;
 }
+
+function AddGenerationDates(doc) {
+    DateText = 'Resume Generated on '+GetGenerationDate()+'\n This content is updated dynamically. Visit https://'+GetProfileURL()+' to generate a fresh copy.'
+
+    doc.setTextColor(51, 60, 67);
+    doc.setFont('mesmerize-el');
+    doc.setFontStyle('normal');
+    doc.setFontSize(8);
+    doc.text(DateText, doc.internal.pageSize.width-5, doc.internal.pageSize.height-12, {align: "right", url:GetProfileURL()});
+};
+
 
 function AddSkills(doc, ActiveSkillsData){
 
