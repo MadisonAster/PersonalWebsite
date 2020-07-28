@@ -592,7 +592,7 @@ function AddSkills(doc, ActiveSkillSets, ycursor, headerspace){
         var category = SkillCategories[c];
         var skills = ActiveSkillSets[category];
         
-        if (ycursor >= 740){
+        if (ycursor >= 760){
             ycursor = 20;
             PDFAddPage(doc);
         };
@@ -606,12 +606,19 @@ function AddSkills(doc, ActiveSkillSets, ycursor, headerspace){
         for (var s = 0; s < skills.length; s++){
             var skill = skills[s];
             doc.setFont('mesmerize-el');
-            doc.setFontSize(10);
-            doc.text(skill['title'], 65, ycursor, {maxWidth: 80, align: "left"});
+            var fontsize = 10;
+            doc.setFontSize(fontsize);
+            if (Math.ceil(doc.getTextWidth(skill['title']) / 100) > 1){
+                fontsize = 9;
+                doc.setFontSize(fontsize);
+            };
+            
+            doc.text(skill['title'], 65, ycursor, {maxWidth: 100, align: "left"});
+            //doc.textWithLink(skill['title'], 65, ycursor, {maxWidth: 100, align: "left", url:GetProfileURL()+'/Favorites/Bookmarks#'+skill['title']});
             AddStars(doc, skill['proficiency'], ycursor);
-            ycursor += Math.round(Math.ceil(doc.getTextWidth(skill['title']) / 80) * 10); //lineheight
+            ycursor += Math.round(Math.ceil(doc.getTextWidth(skill['title']) / 100) * fontsize); //lineheight
             ycursor += 2; //margin
-            if (ycursor > 762){
+            if (ycursor > 780){
                 ycursor = 20;
                 PDFAddPage(doc);
             };
@@ -621,7 +628,7 @@ function AddSkills(doc, ActiveSkillSets, ycursor, headerspace){
         //doc.rect(60, ycursor, 156, 1, 'F'); //DividingLine
 
         ycursor += 10; //margin
-        if (ycursor > 762){
+        if (ycursor > 780){
             ycursor = 20;
             PDFAddPage(doc);
         };
