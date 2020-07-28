@@ -6,64 +6,7 @@ function ResumeDialog() {
     });
     
     if ($('#JobTypeDropdownMenu').children().length == 0){
-        window.JobTypes = {
-            'Principal Engineer' : {
-                'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "CSS", "Java", "ActionScript", "SQL", "x86 Assembly", "VBA", "Bash", "Vulkan", "WebGL", "OpenGL", "Qt", "Tensorflow", "Django", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "Boujou", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Fusion360", "Alias", "Maya", "ZBrush", "Substance Designer", "Cinema 4D", "LightWave 3D", "Blender", "3D Printing", "Softimage", "Nuke", "Fusion", "Photoshop", "Flame", "Premier", "Avid", "Final Cut Pro", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Patent Authoring", "Excel", "LiveCycle", "Access", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
-                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
-            },
-            'Lead Engineer' : {
-                'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "CSS", "Java", "ActionScript", "SQL", "x86 Assembly", "VBA", "Bash", "Vulkan", "WebGL", "OpenGL", "Qt", "Tensorflow", "Django", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "Boujou", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Fusion360", "Alias", "Maya", "ZBrush", "Substance Designer", "Cinema 4D", "LightWave 3D", "Blender", "3D Printing", "Softimage", "Nuke", "Fusion", "Photoshop", "Flame", "Premier", "Avid", "Final Cut Pro", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Patent Authoring", "Excel", "LiveCycle", "Access", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
-                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
-            },
-            'Software Engineer' : {
-                'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "Javascript", "CSS", "Java", "ActionScript", "SQL", "x86 Assembly", "VBA", "Vulkan", "WebGL", "OpenGL", "Qt", "Tensorflow", "Django", "Windows", "Linux", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Terraform", "Unreal", "Unity", "RealityCapture", "Houdini", "Maya", "3D Printing", "Nuke", "Ffmpeg", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Patent Authoring", "Excel", "LiveCycle", "Access", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
-                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
-            },
-            'Graphics Engineer' : {
-                'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "Javascript", "CSS", "Vulkan", "WebGL", "OpenGL", "Qt", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Maya", "ZBrush", "Cinema 4D", "LightWave 3D", "Softimage", "Nuke", "Photoshop", "Flame", "Premier", "Avid", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Shotgun", "FileMaker Pro", "Smart Sheets"],
-                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
-            },
-            'Full Stack Engineer' : {
-                'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "Javascript", "CSS", "SQL", "WebGL", "Qt", "Tensorflow", "Django", "Windows", "Linux", "Git", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Maya", "Nuke", "Photoshop", "Ffmpeg", "After Effects", "Illustrator", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Excel", "LiveCycle"],
-                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
-            },
-            'DevOps Engineer': {
-                'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "SQL", "Qt", "Django", "Windows", "Linux", "Git", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Maya", "Nuke", "Ffmpeg", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Excel", "LiveCycle", "Access", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
-                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
-            },
-            'Backend Engineer' : {
-                'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "Javascript", "Java", "SQL", "x86 Assembly", "VBA", "WebGL", "Qt", "Tensorflow", "Django", "Windows", "Linux", "Android", "Git", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Maya", "Nuke", "Photoshop", "Ffmpeg", "After Effects", "Illustrator", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Excel", "LiveCycle"],
-                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
-            },
-            'Frontend Engineer' : {
-                'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "CSS", "Java", "ActionScript", "SQL", "Vulkan", "WebGL", "OpenGL", "Qt", "Tensorflow", "Django", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "VR", "Maya", "Cinema 4D", "Nuke", "Photoshop", "Premier", "Avid", "Final Cut Pro", "Ffmpeg", "Color Science", "After Effects", "Illustrator", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Excel", "LiveCycle", "Shotgun"],
-                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
-            },
-            'VFX Engineer' : {
-                'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "Javascript", "CSS", "Vulkan", "WebGL", "OpenGL", "Qt", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "Boujou", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Fusion360", "Alias", "Maya", "ZBrush", "Substance Designer", "Cinema 4D", "LightWave 3D", "Blender", "3D Printing", "Softimage", "Nuke", "Fusion", "Photoshop", "Flame", "Premier", "Avid", "Final Cut Pro", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Excel", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
-                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
-            },
-            'AI Engineer' : {
-                'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "Javascript", "CSS", "Java", "SQL", "x86 Assembly", "Vulkan", "WebGL", "OpenGL", "Qt", "Tensorflow", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Agisoft Photoscan", "RealityCapture", "PFTrack", "Maya", "Nuke", "Ffmpeg", "CCNA", "Excel"],
-                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
-            },
-            'Game Developer' : {
-                'ActiveSkills' : ["Python", "Bash", "C++", "Javascript", "ActionScript", "Vulkan", "WebGL", "OpenGL", "Qt", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "Boujou", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Fusion360", "Alias", "Maya", "ZBrush", "Substance Designer", "Cinema 4D", "LightWave 3D", "Blender", "3D Printing", "Softimage", "Nuke", "Photoshop", "Flame", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Project Management", "Systems Administration", "CCNA", "Excel", "Shotgun", "FileMaker Pro", "Smart Sheets"],
-                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
-            },
-            'Embedded Engineer' : {
-                'ActiveSkills' : ["Python", "Bash", "C++", "Java", "x86 Assembly", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Docker", "Unreal", "Unity", "Fusion360", "Alias", "Maya", "Blender", "3D Printing", "Nuke", "Ffmpeg", "Systems Administration", "CCNA", "Excel"],
-                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
-            },
-            'Robotics Engineer' : {
-                'ActiveSkills' : ["Python", "Bash", "C++", "Java", "x86 Assembly", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Docker", "Unreal", "Unity", "Fusion360", "Alias", "Maya", "Blender", "3D Printing", "Nuke", "Ffmpeg", "Systems Administration", "CCNA", "Excel"],
-                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
-            },
-            'Electronics Engineer' : {
-                'ActiveSkills' : ["Python", "Bash", "C++", "Java", "x86 Assembly", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Docker", "Unreal", "Unity", "Fusion360", "Alias", "Maya", "Blender", "3D Printing", "Nuke", "Ffmpeg", "Systems Administration", "CCNA", "Excel"],
-                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
-            },
-        }
+        window.JobTypes = GetJobTypesInfo();
         for (var title in window.JobTypes) {
             var JobData = window.JobTypes[title];
             //$('#JobTypeDropdownMenu').append('<a class="dropdown-item" href="#">'+title+'</a>');
@@ -96,7 +39,6 @@ function ResumeDialog() {
         };
     };
     
-    
     if ($('#DialogProjectsList').children().length == 0){
         for (var key in window.Projects){
             if (['pagination','remove','sortOn'].indexOf(key) == -1){
@@ -109,9 +51,8 @@ function ResumeDialog() {
         };
     };
     
-
     //Show Dialog
-    SetJobType('Software Engineer');
+    SetJobType(GetDefaultJobType());
     disableScroll();
     $('#ResumeDialog').dialog('open');
     $('#DialogFocuser').css('display', 'block');
@@ -470,36 +411,9 @@ function AddAboutMe(doc, AboutText, ycursor, headerspace){
 }
 
 function AddProfessionalExperience(doc, ycursor, headerspace) {
-    var Jobs = [
-        [
-        'Senior 3D Pipeline Developer',
-        'Saatchi & Saatchi - 555 Aviation blvd, El Segundo CA 310-214-6000',
-        'Nov 2017 – May 2020, 2 years 7 months',
-        'Conceived, built, and maintained a series of projects for processing Engineering data from Toyota Motors for the automotive advertising industry.',
-        ],
-        [
-        'Senior Software Developer',
-        'Cognition LA - 900 Cahuenga blvd, Hollywood CA 323-874-4487',
-        'Apr 2015 – Oct 2017, 2 years 7 months',
-        'Built a series of experimental game projects with a variety of experimental VR hardware.',
-        ],
-        [
-        'VFX Pipeline Developer',
-        'Lit Post - 2255 N Ontario st ste 100A, Burbank CA',
-        'Nov 2011 – Mar 2015, 3 years 5 months',
-        'Architected and Implemented a custom VFX pipeline to connect 3D, Compositing, and Color departments.',
-        ],
-    ];
-    var JobIcons = [
-        './About/ResumeImages/SaatchiLogo.png',
-        './About/ResumeImages/CognitionLogo.png',
-        './About/ResumeImages/LitLogo.png',
-    ];
-    var JobURLs = [
-        'http://3d.saatchila.com',
-        'https://cognition.la',
-        'http://www.litpost.com',
-    ];
+    var ProfessionalJobs = GetProfessionalJobs();
+    var ProfessionalJobIcons = GetProfessionalJobIcons();
+    var ProfessionalJobURLs = GetProfessionalJobURLs();
 
     doc.setTextColor(51, 60, 67);
     doc.setFont('mesmerize-el');
@@ -508,23 +422,23 @@ function AddProfessionalExperience(doc, ycursor, headerspace) {
     doc.text('Experience', 250, ycursor, {align: "left"});
     ycursor += headerspace;//spacing
 
-    for (var j=0; j < Jobs.length; j++){
-        var job = Jobs[j];
+    for (var j=0; j < ProfessionalJobs.length; j++){
+        var job = ProfessionalJobs[j];
 
-        window.PDFImageCache.push([JobIcons[j], 'PNG', 245, ycursor-10, 30, 30, {url:JobURLs[j]}]);
+        window.PDFImageCache.push([ProfessionalJobIcons[j], 'PNG', 245, ycursor-10, 30, 30, {url:ProfessionalJobURLs[j]}]);
 
         doc.setFont('mesmerize-rg');
         doc.setFontSize(12);
-        doc.textWithLink(job[0], 280, ycursor, {maxWidth: 320, align: "left", url:JobURLs[j]});
+        doc.textWithLink(job[0], 280, ycursor, {maxWidth: 320, align: "left", url:ProfessionalJobURLs[j]});
         ycursor += Math.ceil(doc.getTextWidth(job[0]) / 320) * 15;//spacing
 
         doc.setFont('mesmerize-el');
         doc.setFontSize(10);
-        doc.textWithLink(job[1], 280, ycursor, {maxWidth: 320, align: "left", url:JobURLs[j]});
+        doc.textWithLink(job[1], 280, ycursor, {maxWidth: 320, align: "left", url:ProfessionalJobURLs[j]});
         ycursor += Math.ceil(doc.getTextWidth(job[1]) / 320) * 15;//spacing
 
         doc.setFont('mesmerize-ul');
-        doc.textWithLink(job[2], 280, ycursor, {maxWidth: 320, align: "left", url:JobURLs[j]});
+        doc.textWithLink(job[2], 280, ycursor, {maxWidth: 320, align: "left", url:ProfessionalJobURLs[j]});
         ycursor += Math.ceil(doc.getTextWidth(job[2]) / 320) * 15;//spacing
 
         doc.setFont('mesmerize-el');
@@ -538,14 +452,7 @@ function AddProfessionalExperience(doc, ycursor, headerspace) {
 }
 
 function AddEducation(doc, ycursor, headerspace) {
-    var EducationText = [
-        "Collins College - Tempe AZ",
-        "BA in Digital Video Effects, 2007 to 2010",
-        "",    
-        "Hanford West High School - Hanford CA",
-        " + CCNA 1-4, 2006-2007",
-    ];
-
+    var EducationText =  GetEducationText();
     doc.setTextColor(51, 60, 67);
     doc.setFont('mesmerize-el');
     doc.setFontStyle('normal');
@@ -578,14 +485,7 @@ function AddSkills(doc, ActiveSkillSets, ycursor, headerspace){
     console.log('AddSkills');
     console.log(ActiveSkillSets);
     
-    var SkillCategories = [
-        'Programming Languages',
-        'Programming Libraries',
-        'Programming Tools',
-        '3D Tools',
-        '2D Tools',
-        'Business Tools',
-    ]
+    var SkillCategories = GetSkillCategories();
 
     doc.setTextColor(255, 255, 255);
     for (var c = 0; c < SkillCategories.length; c++) {
