@@ -154,6 +154,9 @@ function GenerateResume(){
     var ActiveProjects = GetActiveProjectsList();
     var ActiveProjectsData = GetActiveProjectsData();
     window.PDFImageCache = [];
+    window.FullStarImageCache = [];
+    window.HalfStarImageCache = [];
+    window.EmptyStarImageCache = [];
 
     console.log(JobTitle);
     console.log(JobType);
@@ -166,7 +169,7 @@ function GenerateResume(){
     AddSEOData(doc);
     AddFirstPageStyling(doc);
 
-    doc.setPage(1);
+    PDFSetPage(doc, 1);
 
     var headerspace = 20;
     var ycursor1 = 225;
@@ -174,7 +177,7 @@ function GenerateResume(){
     ycursor1 = AddAvailability(doc, ycursor1, headerspace);
     ycursor1 = AddSkills(doc, ActiveSkillSets, ycursor1, headerspace);
 
-    doc.setPage(1);
+    PDFSetPage(doc, 1);
 
     var headerspace = 30;
     var ycursor2 = 130;
@@ -184,7 +187,7 @@ function GenerateResume(){
     ycursor2 = AddEducation(doc, ycursor2, headerspace);
     //ycursor2 = AddProjects(doc, ActiveProjectsData, ImageData, ycursor2);
 
-    doc.setPage(1);
+    PDFSetPage(doc, 1);
 
     AddImages(doc); //blocks until caching is complete
     AddGenerationDate(doc);
@@ -336,7 +339,13 @@ function PDFSetup(){
 function PDFAddPage(doc){
     doc.addPage();
     doc.pagecount ++;
+    doc.currentpage ++;
     AddSubsequentPageStyling(doc);
+}
+
+function PDFSetPage(doc, page){
+    doc.setPage(page);
+    doc.currentpage = page;
 }
 
 function AddSEOData(doc, SEOTags){
@@ -561,7 +570,7 @@ function AddGenerationDate(doc) {
     doc.setFont('mesmerize-el');
     doc.setFontStyle('normal');
     doc.setFontSize(8);
-    doc.setPage(doc.pagecount);
+    PDFSetPage(doc, doc.pagecount);
     doc.text(DateText, doc.internal.pageSize.width-5, doc.internal.pageSize.height-12, {align: "right", url:GetProfileURL()});
 };
 
@@ -577,7 +586,7 @@ function AddSkills(doc, ActiveSkillSets, ycursor, headerspace){
         '2D Tools',
         'Business Tools',
     ]
-    
+
     doc.setTextColor(255, 255, 255);
     for (var c = 0; c < SkillCategories.length; c++) {
         var category = SkillCategories[c];
@@ -624,9 +633,25 @@ function AddStars(doc, proficiency, ycursor){
     var percent = parseInt(proficiency);
     console.log(percent);
     doc.setFont('helvetica');
-    //\u1F7DB
-    var startext = '* * * * *';
-    doc.text(startext, 216, ycursor, {maxWidth: 156, align: "right"});
+
+    for (var i=0; i<5; i++){
+        if (percent >= i * 20 - 5){
+            window.FullStarImageCache.push([doc.currentpage, 'PNG', 166+10*i, ycursor-10, 10, 10, {}]);
+        } else if (percent >= i * 20 - 15){
+            window.HalfStarImageCache.push([doc.currentpage, 'PNG', 166+10*i, ycursor-10, 10, 10, {}]);
+        } else {
+            window.EmptyStarImageCache.push([doc.currentpage, 'PNG', 166+10*i, ycursor-10, 10, 10, {}]);
+        }
+    }
+
+    //window.FullStarImageCache.push([doc.currentpage, 'PNG', 166, ycursor-10, 10, 10, {}]);
+    //window.FullStarImageCache.push([doc.currentpage, 'PNG', 176, ycursor-10, 10, 10, {}]);
+    //window.FullStarImageCache.push([doc.currentpage, 'PNG', 186, ycursor-10, 10, 10, {}]);
+    //window.FullStarImageCache.push([doc.currentpage, 'PNG', 196, ycursor-10, 10, 10, {}]);
+    //window.FullStarImageCache.push([doc.currentpage, 'PNG', 206, ycursor-10, 10, 10, {}]);
+    
+    //var startext = '* * * * *';
+    //doc.text(startext, 216, ycursor, {maxWidth: 156, align: "right"});
     //doc.text(proficiency, 216, ycursor, {maxWidth: 156, align: "right"});
 };
 
@@ -675,12 +700,37 @@ function AddImages(doc) {
         var image = window.PDFImageCache[i];
         image.push(document.createElement('img'));
         image[7].src = image[0];
-        image[7].style = 'display:none;'
+        image[7].style = 'display:none;';
     };
     for (var i = 0; i < window.PDFImageCache.length; i++) {
         var image = window.PDFImageCache[i];
         doc.addImage(image[7], image[1], image[2], image[3], image[4], image[5]);
         doc.link(image[2], image[3], image[4], image[5], image[6]);
+    };
+
+    var FullStarImage = document.createElement('img');
+    FullStarImage.src = './About/ResumeImages/FullStar.png';
+    FullStarImage.style = 'display:none;';
+    var HalfStarImage = document.createElement('img');
+    HalfStarImage.src = './About/ResumeImages/HalfStar.png';
+    HalfStarImage.style = 'display:none;';
+    var EmptyStarImage = document.createElement('img');
+    EmptyStarImage.src = './About/ResumeImages/EmptyStar.png';
+    EmptyStarImage.style = 'display:none;';
+    for (var i = 0; i < window.FullStarImageCache.length; i++) {
+        var image = window.FullStarImageCache[i];
+        PDFSetPage(doc, image[0]);
+        doc.addImage(FullStarImage, image[1], image[2], image[3], image[4], image[5]);
+    };
+    for (var i = 0; i < window.HalfStarImageCache.length; i++) {
+        var image = window.HalfStarImageCache[i];
+        PDFSetPage(doc, image[0]);
+        doc.addImage(HalfStarImage, image[1], image[2], image[3], image[4], image[5]);
+    };
+    for (var i = 0; i < window.EmptyStarImageCache.length; i++) {
+        var image = window.EmptyStarImageCache[i];
+        PDFSetPage(doc, image[0]);
+        doc.addImage(EmptyStarImage, image[1], image[2], image[3], image[4], image[5]);
     };
 }
 
