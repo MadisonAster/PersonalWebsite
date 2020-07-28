@@ -58,12 +58,12 @@ function ResumeDialog() {
     $('#DialogFocuser').css('display', 'block');
     $('#ResumeDialog').css('width', 'calc(82% - 80px)');
     $('#ResumeDialog').css('height', 'calc(82% - 80px)');
-}
+};
 
 function enableScroll() {
     //console.log('enabling scroll');
     window.onscroll = window.old_onscroll;
-}
+};
 
 function disableScroll() { 
     // Get the current page scroll position 
@@ -76,18 +76,19 @@ function disableScroll() {
         window.onscroll = function() { 
             window.scrollTo(scrollLeft, scrollTop); 
         }; 
-} 
+};
 
 function CloseResumeDialog() {
     $('#ResumeDialog').dialog('close');
     $('#DialogFocuser').css('display', 'none');
     enableScroll();
-}
+};
 ////////////////////////////////////////////////////
 
 
 ///////////////////////Main/////////////////////////
 function GenerateResume(){
+    //Data Gathering////////
     var JobTitle = GetJobTitle();
     var JobType = GetJobType();
     var ActiveSkills = GetActiveSkillList();
@@ -105,35 +106,44 @@ function GenerateResume(){
     console.log(ActiveSkillSets);
     console.log(ActiveProjects);
     console.log(ActiveProjectsData);
+    ////////////////////////
 
+    //Document Setup////////
     var doc = PDFSetup();
     AddSEOData(doc);
     AddFirstPageStyling(doc);
+    ////////////////////////
 
-    PDFSetPage(doc, 1);
+    PDFSetPage(doc, 1); //Reset to page 1
 
+    //Left Column Content///
     var headerspace = 20;
     var ycursor1 = 225;
     ycursor1 = AddNameAndTitle(doc, JobTitle, ycursor1, headerspace);
     ycursor1 = AddAvailability(doc, ycursor1, headerspace);
     ycursor1 = AddSkills(doc, ActiveSkillSets, ycursor1, headerspace);
+    ////////////////////////
 
-    PDFSetPage(doc, 1);
+    PDFSetPage(doc, 1); //Reset to page 1
 
+    //Right Column Content//
     var headerspace = 30;
     var ycursor2 = 130;
     ycursor2 = AddProfileDetails(doc, JobTitle, ycursor2, headerspace);
     ycursor2 = AddAboutMe(doc, JobType['Objective'], ycursor2, headerspace);
     ycursor2 = AddProfessionalExperience(doc, ycursor2, headerspace);
     ycursor2 = AddEducation(doc, ycursor2, headerspace);
-    //ycursor2 = AddProjects(doc, ActiveProjectsData, ImageData, ycursor2);
+    ycursor2 = AddProjects(doc, ActiveProjectsData, ycursor2, headerspace);
+    ////////////////////////
 
-    PDFSetPage(doc, 1);
+    PDFSetPage(doc, 1); //Reset to page 1
 
+    //Document Setup////////
     AddImages(doc); //blocks until caching is complete
     AddGenerationDate(doc);
     PDFSave(doc, JobTitle);
-}
+    ///////////////////////
+};
 //////////////////////////////////////////////////////
 
 
@@ -141,24 +151,24 @@ function GenerateResume(){
 function SetJobTitle(JobTitle){
     //console.log('SetJobTitle');
     $('#JobTypeDropdownButton').text(JobTitle);
-}
+};
 
 function GetJobTitle(){
     //console.log('GetJobTitle');
     return $('#JobTypeDropdownButton').text();
-}
+};
 
 function SetJobType(JobTypeTitle){
     $('#JobTypeDropdownButton').text(JobTypeTitle);
     var JobData = window.JobTypes[JobTypeTitle];
     SetActiveSkillList(JobData['ActiveSkills']);
     SetActiveProjectsList(JobData['ActiveSkills']);
-}
+};
 
 function GetJobType(){
     //console.log('GetJobType');
     return window.JobTypes[GetJobTitle()];
-}
+};
 
 function GetSkillSets(){
     var SkillSets = {};
@@ -172,7 +182,7 @@ function GetSkillSets(){
         };
     };
     return SkillSets;
-}
+};
 
 function GetActiveSkillSets(){
     var ActiveSkills = GetActiveSkillList();
@@ -189,7 +199,7 @@ function GetActiveSkillSets(){
         };
     };
     return SkillSets;
-}
+};
 
 function SetActiveSkillList(ActiveSkills){
     $("[id^=cbox]").each(function() {
@@ -200,7 +210,7 @@ function SetActiveSkillList(ActiveSkills){
             this.checked = false;
         }
     });
-}
+};
 
 function GetActiveSkillList(){
     var ActiveSkills = [];
@@ -210,7 +220,7 @@ function GetActiveSkillList(){
         };
     });
     return ActiveSkills;
-}
+};
 
 function SetActiveProjectsList(ActiveSkills){
     for (var key in window.Projects){
@@ -227,7 +237,7 @@ function SetActiveProjectsList(ActiveSkills){
             };
         };
     };
-}
+};
 
 function GetActiveProjectsList(){
     var ActiveProjects = [];
@@ -237,7 +247,7 @@ function GetActiveProjectsList(){
         };
     });
     return ActiveProjects;
-}
+};
 
 function GetActiveProjectsData(){
     var Result = [];
@@ -253,18 +263,18 @@ function GetActiveProjectsData(){
         };
     };
     return Result;
-}
+};
 
 function GetSEOTags(){
     var wordlisturl = window.location.href+'/WordList.csv';
     var wordlistdata = LoadPage(wordlisturl);
     var wordlistlines = wordlistdata.replace(/[\r\n]+/gm, '').split(',');
     return wordlistlines;
-}
+};
 ////////////////////////////////////////////////////
 
 
-//////////////////Resume Content////////////////////
+//////////////////Document Setup////////////////////
 function PDFSetup(){
     var doc = new jsPDF('p', 'pt', 'letter');
     doc.setFontSize(12);
@@ -275,19 +285,19 @@ function PDFSetup(){
     doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
     doc.addFont('mesmerize-ul-normal.ttf', 'mesmerize-ul', 'normal');
     return doc;
-}
+};
 
 function PDFAddPage(doc){
     doc.addPage();
     doc.pagecount ++;
     doc.currentpage ++;
     AddSubsequentPageStyling(doc);
-}
+};
 
 function PDFSetPage(doc, page){
     doc.setPage(page);
     doc.currentpage = page;
-}
+};
 
 function AddSEOData(doc, SEOTags){
     var SEOTags = GetSEOTags();
@@ -301,7 +311,52 @@ function AddSEOData(doc, SEOTags){
     doc.setFillColor(255, 255, 255);
     doc.rect(0, 0, doc.internal.pageSize.width, 25, 'F');
     doc.setTextColor(89, 92, 98);
-}
+};
+
+function AddImages(doc) {
+    for (var i = 0; i < window.PDFImageCache.length; i++) {
+        var image = window.PDFImageCache[i];
+        image.push(document.createElement('img'));
+        image[7].src = image[0];
+        image[7].style = 'display:none;';
+    };
+    for (var i = 0; i < window.PDFImageCache.length; i++) {
+        var image = window.PDFImageCache[i];
+        doc.addImage(image[7], image[1], image[2], image[3], image[4], image[5]);
+        doc.link(image[2], image[3], image[4], image[5], image[6]);
+    };
+
+    var FullStarImage = document.createElement('img');
+    FullStarImage.src = './About/ResumeImages/FullStar.png';
+    FullStarImage.style = 'display:none;';
+    var HalfStarImage = document.createElement('img');
+    HalfStarImage.src = './About/ResumeImages/HalfStar.png';
+    HalfStarImage.style = 'display:none;';
+    var EmptyStarImage = document.createElement('img');
+    EmptyStarImage.src = './About/ResumeImages/EmptyStar.png';
+    EmptyStarImage.style = 'display:none;';
+    for (var i = 0; i < window.FullStarImageCache.length; i++) {
+        var image = window.FullStarImageCache[i];
+        PDFSetPage(doc, image[0]);
+        doc.addImage(FullStarImage, image[1], image[2], image[3], image[4], image[5]);
+    };
+    for (var i = 0; i < window.HalfStarImageCache.length; i++) {
+        var image = window.HalfStarImageCache[i];
+        PDFSetPage(doc, image[0]);
+        doc.addImage(HalfStarImage, image[1], image[2], image[3], image[4], image[5]);
+    };
+    for (var i = 0; i < window.EmptyStarImageCache.length; i++) {
+        var image = window.EmptyStarImageCache[i];
+        PDFSetPage(doc, image[0]);
+        doc.addImage(EmptyStarImage, image[1], image[2], image[3], image[4], image[5]);
+    };
+};
+
+function PDFSave(doc, PositionTitle) {
+    console.log('PDFSave');
+    var date = new Date();
+    doc.save('MadisonAster_'+PositionTitle.replaceAll(' ','')+'_Resume_'+date.yyyymmdd()+'.pdf');
+};
 
 function AddFirstPageStyling(doc){
     doc.setFillColor(231, 221, 222);
@@ -319,7 +374,7 @@ function AddFirstPageStyling(doc){
 
     doc.setFillColor(51, 60, 67);
     doc.rect(50, 0, 176, doc.internal.pageSize.height, 'F');
-}
+};
 
 function AddSubsequentPageStyling(doc){
     doc.setFillColor(231, 221, 222);
@@ -327,7 +382,11 @@ function AddSubsequentPageStyling(doc){
 
     doc.setFillColor(51, 60, 67);
     doc.rect(50, 0, 176, doc.internal.pageSize.height, 'F');
-}
+};
+////////////////////////////////////////////////////
+
+
+///////////////Left Column Content//////////////////
 
 function AddNameAndTitle(doc, PositionTitle, ycursor, headerspace){
     doc.setFont('mesmerize-rg');
@@ -359,7 +418,7 @@ function AddNameAndTitle(doc, PositionTitle, ycursor, headerspace){
     window.PDFImageCache.push(['./About/ResumeImages/IMDB.png', 'PNG', 16, 176, 18, 18, {url:GetIMDBURL()}]);
 
     return ycursor;
-}
+};
 
 function AddAvailability(doc, ycursor, headerspace){
     var Availability = GetAvailability().toLowerCase();
@@ -376,109 +435,6 @@ function AddAvailability(doc, ycursor, headerspace){
     ycursor += headerspace;
 
     return ycursor
-}
-
-function AddProfileDetails(doc, PositionTitle, ycursor, headerspace) {
-    doc.setTextColor(51, 60, 67);
-    doc.setFontSize(12);
-    doc.setFont('mesmerize-el');
-    doc.setFontStyle('normal');
-    doc.textWithLink(GetProfileURL(), 250, ycursor, {align: 'left', url:'https://'+GetProfileURL()});
-    ycursor += 20;
-    doc.text(GetEmail(), 250, ycursor, {align: "left"});
-    ycursor += 20;
-    doc.text(GetPhone(), 250, ycursor, {align: "left"});
-    ycursor += 20;
-    doc.text(GetAddress(), 250, ycursor, {align: "left"});
-    ycursor += 10;
-    ycursor += headerspace;
-
-    return ycursor;
-}
-
-function AddAboutMe(doc, AboutText, ycursor, headerspace){
-    doc.setTextColor(51, 60, 67);
-    doc.setFont('mesmerize-el');
-    doc.setFontStyle('normal');
-    doc.setFontSize(16);
-    doc.text('About Me', 250, ycursor, {align: "left"});
-    ycursor += headerspace;//spacing
-    doc.setFontSize(12);
-    doc.text(AboutText, 260, ycursor, {maxWidth: 345, align: "left"});
-    ycursor += Math.round(Math.ceil(doc.getTextWidth(AboutText) / 345) * 12);//spacing
-    ycursor += headerspace; //spacing
-    return ycursor;
-}
-
-function AddProfessionalExperience(doc, ycursor, headerspace) {
-    var ProfessionalJobs = GetProfessionalJobs();
-    var ProfessionalJobIcons = GetProfessionalJobIcons();
-    var ProfessionalJobURLs = GetProfessionalJobURLs();
-
-    doc.setTextColor(51, 60, 67);
-    doc.setFont('mesmerize-el');
-    doc.setFontStyle('normal');
-    doc.setFontSize(16);
-    doc.text('Experience', 250, ycursor, {align: "left"});
-    ycursor += headerspace;//spacing
-
-    for (var j=0; j < ProfessionalJobs.length; j++){
-        var job = ProfessionalJobs[j];
-
-        window.PDFImageCache.push([ProfessionalJobIcons[j], 'PNG', 245, ycursor-10, 30, 30, {url:ProfessionalJobURLs[j]}]);
-
-        doc.setFont('mesmerize-rg');
-        doc.setFontSize(12);
-        doc.textWithLink(job[0], 280, ycursor, {maxWidth: 320, align: "left", url:ProfessionalJobURLs[j]});
-        ycursor += Math.ceil(doc.getTextWidth(job[0]) / 320) * 15;//spacing
-
-        doc.setFont('mesmerize-el');
-        doc.setFontSize(10);
-        doc.textWithLink(job[1], 280, ycursor, {maxWidth: 320, align: "left", url:ProfessionalJobURLs[j]});
-        ycursor += Math.ceil(doc.getTextWidth(job[1]) / 320) * 15;//spacing
-
-        doc.setFont('mesmerize-ul');
-        doc.textWithLink(job[2], 280, ycursor, {maxWidth: 320, align: "left", url:ProfessionalJobURLs[j]});
-        ycursor += Math.ceil(doc.getTextWidth(job[2]) / 320) * 15;//spacing
-
-        doc.setFont('mesmerize-el');
-        doc.text(job[3], 280, ycursor, {maxWidth: 320, align: "left"});
-        ycursor += Math.ceil(doc.getTextWidth(job[3]) / 320 + 0.1) * 15;//spacing
-        
-        ycursor += 5;//spacing
-    }
-    ycursor += headerspace-15;
-    return ycursor;
-}
-
-function AddEducation(doc, ycursor, headerspace) {
-    var EducationText =  GetEducationText();
-    doc.setTextColor(51, 60, 67);
-    doc.setFont('mesmerize-el');
-    doc.setFontStyle('normal');
-    doc.setFontSize(16);
-    doc.text('Education', 250, ycursor, {align: "left"});
-    ycursor += headerspace;
-
-    doc.setFont('mesmerize-el');
-    doc.setFontSize(10);
-    for (var i=0; i < EducationText.length; i++){
-        doc.text(EducationText[i], 260, ycursor, {maxWidth: 320, align: "left"});
-        ycursor += 12;
-    };
-
-    return ycursor;
-}
-
-function AddGenerationDate(doc) {
-    DateText = 'Resume Generated on '+GetGenerationDate()+'\n This content is updated dynamically. Visit https://'+GetProfileURL()+' to generate a fresh copy.'
-
-    doc.setTextColor(51, 60, 67);
-    doc.setFont('mesmerize-el');
-    doc.setFontStyle('normal');
-    doc.setFontSize(8);
-    PDFSetPage(doc, doc.pagecount);
-    doc.text(DateText, doc.internal.pageSize.width-5, doc.internal.pageSize.height-12, {align: "right", url:GetProfileURL()});
 };
 
 function AddSkills(doc, ActiveSkillSets, ycursor, headerspace){
@@ -535,7 +491,7 @@ function AddSkills(doc, ActiveSkillSets, ycursor, headerspace){
     };
 
     return ycursor;
-}
+};
 
 function AddStars(doc, proficiency, ycursor){
     var percent = parseInt(proficiency);
@@ -549,8 +505,106 @@ function AddStars(doc, proficiency, ycursor){
         };
     };
 };
+////////////////////////////////////////////////////
 
-function AddProjects(doc, ActiveProjectsData, ImageData) {
+
+//////////////Right Column Content//////////////////
+function AddProfileDetails(doc, PositionTitle, ycursor, headerspace) {
+    doc.setTextColor(51, 60, 67);
+    doc.setFontSize(12);
+    doc.setFont('mesmerize-el');
+    doc.setFontStyle('normal');
+    doc.textWithLink(GetProfileURL(), 250, ycursor, {align: 'left', url:'https://'+GetProfileURL()});
+    ycursor += 20;
+    doc.text(GetEmail(), 250, ycursor, {align: "left"});
+    ycursor += 20;
+    doc.text(GetPhone(), 250, ycursor, {align: "left"});
+    ycursor += 20;
+    doc.text(GetAddress(), 250, ycursor, {align: "left"});
+    ycursor += 10;
+    ycursor += headerspace;
+
+    return ycursor;
+};
+
+function AddAboutMe(doc, AboutText, ycursor, headerspace){
+    doc.setTextColor(51, 60, 67);
+    doc.setFont('mesmerize-el');
+    doc.setFontStyle('normal');
+    doc.setFontSize(16);
+    doc.text('About Me', 250, ycursor, {align: "left"});
+    ycursor += headerspace;//spacing
+    doc.setFontSize(12);
+    doc.text(AboutText, 260, ycursor, {maxWidth: 345, align: "left"});
+    ycursor += Math.round(Math.ceil(doc.getTextWidth(AboutText) / 345) * 12);//spacing
+    ycursor += headerspace; //spacing
+    return ycursor;
+};
+
+function AddProfessionalExperience(doc, ycursor, headerspace) {
+    var ProfessionalJobs = GetProfessionalJobs();
+    var ProfessionalJobIcons = GetProfessionalJobIcons();
+    var ProfessionalJobURLs = GetProfessionalJobURLs();
+
+    doc.setTextColor(51, 60, 67);
+    doc.setFont('mesmerize-el');
+    doc.setFontStyle('normal');
+    doc.setFontSize(16);
+    doc.text('Experience', 250, ycursor, {align: "left"});
+    ycursor += headerspace;//spacing
+
+    for (var j=0; j < ProfessionalJobs.length; j++){
+        var job = ProfessionalJobs[j];
+
+        window.PDFImageCache.push([ProfessionalJobIcons[j], 'PNG', 245, ycursor-10, 30, 30, {url:ProfessionalJobURLs[j]}]);
+
+        doc.setFont('mesmerize-rg');
+        doc.setFontSize(12);
+        doc.textWithLink(job[0], 280, ycursor, {maxWidth: 320, align: "left", url:ProfessionalJobURLs[j]});
+        ycursor += Math.ceil(doc.getTextWidth(job[0]) / 320) * 15;//spacing
+
+        doc.setFont('mesmerize-el');
+        doc.setFontSize(10);
+        doc.textWithLink(job[1], 280, ycursor, {maxWidth: 320, align: "left", url:ProfessionalJobURLs[j]});
+        ycursor += Math.ceil(doc.getTextWidth(job[1]) / 320) * 15;//spacing
+
+        doc.setFont('mesmerize-ul');
+        doc.textWithLink(job[2], 280, ycursor, {maxWidth: 320, align: "left", url:ProfessionalJobURLs[j]});
+        ycursor += Math.ceil(doc.getTextWidth(job[2]) / 320) * 15;//spacing
+
+        doc.setFont('mesmerize-el');
+        doc.text(job[3], 280, ycursor, {maxWidth: 320, align: "left"});
+        ycursor += Math.ceil(doc.getTextWidth(job[3]) / 320 + 0.1) * 15;//spacing
+        
+        ycursor += 5;//spacing
+    }
+    ycursor += headerspace-15;
+    return ycursor;
+};
+
+function AddEducation(doc, ycursor, headerspace) {
+    var EducationText =  GetEducationText();
+    doc.setTextColor(51, 60, 67);
+    doc.setFont('mesmerize-el');
+    doc.setFontStyle('normal');
+    doc.setFontSize(16);
+    doc.text('Education', 250, ycursor, {align: "left"});
+    ycursor += headerspace;
+
+    doc.setFont('mesmerize-el');
+    doc.setFontSize(10);
+    for (var i=0; i < EducationText.length; i++){
+        doc.text(EducationText[i], 260, ycursor, {maxWidth: 320, align: "left"});
+        ycursor += 12;
+    };
+
+    return ycursor;
+};
+
+function AddProjects(doc, ActiveProjectsData, ycursor, headerspace) {
+    console.log('AddProjects');
+    console.log(ActiveProjectsData);
+    /*
     var ImageYPosition = 220;
     var ProjectCounter = 1;
     
@@ -588,52 +642,21 @@ function AddProjects(doc, ActiveProjectsData, ImageData) {
         ImageYPosition += 142;
         ProjectCounter += 1;
     };
-}
+    */
 
-function AddImages(doc) {
-    for (var i = 0; i < window.PDFImageCache.length; i++) {
-        var image = window.PDFImageCache[i];
-        image.push(document.createElement('img'));
-        image[7].src = image[0];
-        image[7].style = 'display:none;';
-    };
-    for (var i = 0; i < window.PDFImageCache.length; i++) {
-        var image = window.PDFImageCache[i];
-        doc.addImage(image[7], image[1], image[2], image[3], image[4], image[5]);
-        doc.link(image[2], image[3], image[4], image[5], image[6]);
-    };
+    return ycursor;
+};
 
-    var FullStarImage = document.createElement('img');
-    FullStarImage.src = './About/ResumeImages/FullStar.png';
-    FullStarImage.style = 'display:none;';
-    var HalfStarImage = document.createElement('img');
-    HalfStarImage.src = './About/ResumeImages/HalfStar.png';
-    HalfStarImage.style = 'display:none;';
-    var EmptyStarImage = document.createElement('img');
-    EmptyStarImage.src = './About/ResumeImages/EmptyStar.png';
-    EmptyStarImage.style = 'display:none;';
-    for (var i = 0; i < window.FullStarImageCache.length; i++) {
-        var image = window.FullStarImageCache[i];
-        PDFSetPage(doc, image[0]);
-        doc.addImage(FullStarImage, image[1], image[2], image[3], image[4], image[5]);
-    };
-    for (var i = 0; i < window.HalfStarImageCache.length; i++) {
-        var image = window.HalfStarImageCache[i];
-        PDFSetPage(doc, image[0]);
-        doc.addImage(HalfStarImage, image[1], image[2], image[3], image[4], image[5]);
-    };
-    for (var i = 0; i < window.EmptyStarImageCache.length; i++) {
-        var image = window.EmptyStarImageCache[i];
-        PDFSetPage(doc, image[0]);
-        doc.addImage(EmptyStarImage, image[1], image[2], image[3], image[4], image[5]);
-    };
-}
+function AddGenerationDate(doc) {
+    DateText = 'Resume Generated on '+GetGenerationDate()+'\n This content is updated dynamically. Visit https://'+GetProfileURL()+' to generate a fresh copy.'
 
-function PDFSave(doc, PositionTitle) {
-    console.log('PDFSave');
-    var date = new Date();
-    doc.save('MadisonAster_'+PositionTitle.replaceAll(' ','')+'_Resume_'+date.yyyymmdd()+'.pdf');
-}
+    doc.setTextColor(51, 60, 67);
+    doc.setFont('mesmerize-el');
+    doc.setFontStyle('normal');
+    doc.setFontSize(8);
+    PDFSetPage(doc, doc.pagecount);
+    doc.text(DateText, doc.internal.pageSize.width-5, doc.internal.pageSize.height-12, {align: "right", url:GetProfileURL()});
+};
 ////////////////////////////////////////////////////
 
 
