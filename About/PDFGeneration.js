@@ -492,7 +492,7 @@ function AddProfessionalExperience(doc, ycursor, headerspace) {
         ycursor += Math.ceil(doc.getTextWidth(job[2]) / 320) * 15;//spacing
 
         doc.setFont('mesmerize-el');
-        doc.textWithLink(job[3], 280, ycursor, {maxWidth: 320, align: "left", url:JobURLs[j]});
+        doc.text(job[3], 280, ycursor, {maxWidth: 320, align: "left"});
         ycursor += Math.ceil(doc.getTextWidth(job[3]) / 320 + 0.1) * 15;//spacing
         
         ycursor += 5;//spacing
