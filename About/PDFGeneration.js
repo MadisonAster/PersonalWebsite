@@ -631,9 +631,6 @@ function AddSkills(doc, ActiveSkillSets, ycursor, headerspace){
 
 function AddStars(doc, proficiency, ycursor){
     var percent = parseInt(proficiency);
-    console.log(percent);
-    doc.setFont('helvetica');
-
     for (var i=0; i<5; i++){
         if (percent >= i * 20 - 5){
             window.FullStarImageCache.push([doc.currentpage, 'PNG', 166+10*i, ycursor-10, 10, 10, {}]);
@@ -641,18 +638,8 @@ function AddStars(doc, proficiency, ycursor){
             window.HalfStarImageCache.push([doc.currentpage, 'PNG', 166+10*i, ycursor-10, 10, 10, {}]);
         } else {
             window.EmptyStarImageCache.push([doc.currentpage, 'PNG', 166+10*i, ycursor-10, 10, 10, {}]);
-        }
-    }
-
-    //window.FullStarImageCache.push([doc.currentpage, 'PNG', 166, ycursor-10, 10, 10, {}]);
-    //window.FullStarImageCache.push([doc.currentpage, 'PNG', 176, ycursor-10, 10, 10, {}]);
-    //window.FullStarImageCache.push([doc.currentpage, 'PNG', 186, ycursor-10, 10, 10, {}]);
-    //window.FullStarImageCache.push([doc.currentpage, 'PNG', 196, ycursor-10, 10, 10, {}]);
-    //window.FullStarImageCache.push([doc.currentpage, 'PNG', 206, ycursor-10, 10, 10, {}]);
-    
-    //var startext = '* * * * *';
-    //doc.text(startext, 216, ycursor, {maxWidth: 156, align: "right"});
-    //doc.text(proficiency, 216, ycursor, {maxWidth: 156, align: "right"});
+        };
+    };
 };
 
 function AddProjects(doc, ActiveProjectsData, ImageData) {
