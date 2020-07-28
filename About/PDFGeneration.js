@@ -153,6 +153,7 @@ function GenerateResume(){
     var ActiveSkillSets = GetActiveSkillSets();
     var ActiveProjects = GetActiveProjectsList();
     var ActiveProjectsData = GetActiveProjectsData();
+
     console.log(JobTitle);
     console.log(JobType);
     console.log(ActiveSkills);
@@ -163,15 +164,20 @@ function GenerateResume(){
     var doc = PDFSetup();
     AddSEOData(doc);
     AddPageStyling(doc);
-    AddProfileDetails(doc, JobTitle);
-    AddAboutMe(doc, JobType['Objective']);
-    AddProfessionalExperience(doc);
-    //AddEducation(doc);
-    //AddSkills(doc, ActiveSkillSets);
+
+    var ycursor1 = 225;
+    ycursor1 = AddNameAndTitle(doc, JobTitle, ycursor1);
+    //AddSkills(doc, ActiveSkillSets, ycursor1);
+
+    var ycursor2 = 130;
+    ycursor2 = AddProfileDetails(doc, JobTitle, ycursor2);
+    ycursor2 = AddAboutMe(doc, JobType['Objective'], ycursor2);
+    ycursor2 = AddProfessionalExperience(doc, ycursor2);
+    //ycursor2 = AddEducation(doc, ycursor2);
 
     var ImageData = CacheImages(ActiveProjectsData); //blocks until caching is complete
     AddProfileImages(doc, ImageData);
-    //AddProjects(doc, ActiveProjectsData, ImageData);
+    //ycursor2 = AddProjects(doc, ActiveProjectsData, ImageData, ycursor2);
 
     PDFSave(doc, JobTitle);
 }
@@ -305,6 +311,13 @@ function GetSEOTags(){
 ////////////////////////////////////////////////////
 
 
+//doc.setFont('helvetica');
+//doc.addFont('mesmerize-cd-lt-normal.ttf', 'mesmerize-cd-lt', 'normal');
+//doc.setFont('mesmerize-cd-lt');
+//doc.addFont('mesmerize-cd-sb-normal.ttf', 'mesmerize-cd-sb', 'normal');
+//doc.setFont('mesmerize-cd-sb');
+
+
 //////////////////Resume Content////////////////////
 function PDFSetup(){
     var doc = new jsPDF('p', 'pt', 'letter');
@@ -351,12 +364,7 @@ function AddPageStyling(doc){
     doc.rect(60, 8, 156, 187, 'F');
 }
 
-function AddProfileDetails(doc, PositionTitle) {
-    //doc.setFont('helvetica');
-    //doc.addFont('mesmerize-cd-lt-normal.ttf', 'mesmerize-cd-lt', 'normal');
-    //doc.setFont('mesmerize-cd-lt');
-    //doc.addFont('mesmerize-cd-sb-normal.ttf', 'mesmerize-cd-sb', 'normal');
-    //doc.setFont('mesmerize-cd-sb');
+function AddNameAndTitle(doc, PositionTitle, ycursor){
     doc.addFont('mesmerize-rg-normal.ttf', 'mesmerize-rg', 'normal');
     doc.setFont('mesmerize-rg');
     doc.setCharSpace(0);
@@ -364,60 +372,72 @@ function AddProfileDetails(doc, PositionTitle) {
     doc.setTextColor(255, 255, 255);
     doc.setFontSize(24);
     doc.setFontStyle('normal');
-    doc.text(GetFullName().toUpperCase(), 216, 225, {maxWidth: 156, align: "right"});
-    //doc.text(GetFullName(), 216, 230, {maxWidth: 156, align: "right"});
+    doc.text(GetFullName().toUpperCase(), 216, ycursor, {maxWidth: 156, align: "right"});
+    ycursor += 45;
     
     doc.setTextColor(255, 255, 255);
     doc.setFontSize(18);
     doc.addFont('mesmerize-ul-normal.ttf', 'mesmerize-ul', 'normal');
     doc.setFont('mesmerize-ul');
     doc.setFontStyle('normal');
-    doc.text(PositionTitle.toLowerCase(), 216, 270, {maxWidth: 156, align: "right"});
-    
+    doc.text(PositionTitle.toLowerCase(), 216, ycursor, {maxWidth: 156, align: "right"});
+    ycursor += 40;
+
+    return ycursor;
+}
+
+function AddProfileDetails(doc, PositionTitle, ycursor) {
     doc.setTextColor(51, 60, 67);
     doc.setFontSize(12);
     doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
     doc.setFont('mesmerize-el');
     doc.setFontStyle('normal');
-    doc.text(GetProfileURL(), 250, 130, {align: "left"});
-    doc.text(GetEmail(), 250, 150, {align: "left"});
-    doc.text(GetPhone(), 250, 170, {align: "left"});
-    doc.text(GetAddress(), 250, 190, {align: "left"});
-    }
+    doc.text(GetProfileURL(), 250, ycursor, {align: "left"});
+    ycursor += 20;
+    doc.text(GetEmail(), 250, ycursor, {align: "left"});
+    ycursor += 20;
+    doc.text(GetPhone(), 250, ycursor, {align: "left"});
+    ycursor += 20;
+    doc.text(GetAddress(), 250, ycursor, {align: "left"});
+    ycursor += 50;
+    //ycursor += 40;
 
-function AddAboutMe(doc, AboutText){
+    return ycursor;
+}
+
+function AddAboutMe(doc, AboutText, ycursor){
     doc.setTextColor(51, 60, 67);
     doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
     doc.setFont('mesmerize-el');
     doc.setFontStyle('normal');
     doc.setFontSize(16);
-    doc.text('About Me', 250, 240, {align: "left"});
+    doc.text('About Me', 250, ycursor, {align: "left"});
+    ycursor += 40;//spacing
     doc.setFontSize(12);
-    doc.text(AboutText, 260, 280, {maxWidth: 345, align: "left"});
+    doc.text(AboutText, 260, ycursor, {maxWidth: 345, align: "left"});
+    ycursor += 85; //measure text function?
+    ycursor += 40; //spacing
+    return ycursor;
 }
 
-function AddProfessionalExperience(doc) {
+function AddProfessionalExperience(doc, ycursor) {
     var Jobs = [
         [
         'Senior 3D Pipeline Developer',
-        'Saatchi & Saatchi - 3501 Sepulveda blvd, Torrance CA 90505 (310) 214-6000',
-        'Nov 2017 – May 20202 years 7 months',
+        'Saatchi & Saatchi - 555 Aviation blvd, El Segundo CA (310)214-6000',
+        'Nov 2017 – May 2020, 2 years 7 months',
         'Conceived, built, and maintained a series of projects for processing Engineering data from Toyota Motors for the automotive advertising industry.',
         ],
-        
         [
         'Senior Software Developer',
-        'Cognition LA - 900 Cahuenga blvd ste b, Hollywood CA 90038 (323) 874-4487',
-        'Apr 2015 – Oct 20172 years 7 months',
-        'Los Angeles, California, United States',
+        'Cognition LA - 900 Cahuenga blvd, Hollywood CA (323)874-4487',
+        'Apr 2015 – Oct 2017, 2 years 7 months',
         'Built a series of experimental game projects with a variety of experimental VR hardware.',
         ],
-
         [
         'VFX Pipeline Developer',
-        'Lit Post',
-        'Nov 2011 – 2255 N Ontario st ste 100A, Burbank CA 91504',
-        'Burbank, California, United States',
+        'Lit Post - 2255 N Ontario st ste 100A, Burbank CA',
+        'Nov 2011 – Mar 2015, 3 years 5 months',
         'Architected and Implemented a custom VFX pipeline to connect 3D, Compositing, and Color departments.',
         ],
     ]
@@ -427,10 +447,29 @@ function AddProfessionalExperience(doc) {
     doc.setFont('mesmerize-el');
     doc.setFontStyle('normal');
     doc.setFontSize(16);
-    doc.text('Experience', 250, 410, {align: "left"});
-    doc.setFontSize(12);
+    doc.text('Experience', 250, ycursor, {align: "left"});
+    ycursor += 40;//spacing
 
-}
+    for (var j=0; j < Jobs.length; j++){
+        var job = Jobs[j];
+
+        doc.setFontSize(12);
+        doc.text(job[0], 260, ycursor, {maxWidth: 345, align: "left"});
+        ycursor += 15;//spacing
+
+        doc.setFontSize(11);
+        doc.text(job[1], 260, ycursor, {maxWidth: 345, align: "left"});
+        ycursor += 15;//spacing
+        doc.text(job[2], 260, ycursor, {maxWidth: 345, align: "left"});
+        ycursor += 15;//spacing
+        doc.text(job[3], 260, ycursor, {maxWidth: 345, align: "left"});
+        ycursor += 15;//spacing
+        //doc.text(job[4], 260, ycursor, {align: "left"});
+        ycursor += 45;//spacing
+    }
+
+        return ycursor;
+    }
 
 function AddEducation(doc) {
     var columns6 = [
