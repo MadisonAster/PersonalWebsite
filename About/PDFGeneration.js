@@ -170,10 +170,11 @@ function GenerateResume(){
     //AddSkills(doc, ActiveSkillSets, ycursor1);
 
     var ycursor2 = 130;
-    ycursor2 = AddProfileDetails(doc, JobTitle, ycursor2);
-    ycursor2 = AddAboutMe(doc, JobType['Objective'], ycursor2);
-    ycursor2 = AddProfessionalExperience(doc, ycursor2);
-    //ycursor2 = AddEducation(doc, ycursor2);
+    var headerspace = 30;
+    ycursor2 = AddProfileDetails(doc, JobTitle, ycursor2, headerspace);
+    ycursor2 = AddAboutMe(doc, JobType['Objective'], ycursor2, headerspace);
+    ycursor2 = AddProfessionalExperience(doc, ycursor2, headerspace);
+    ycursor2 = AddEducation(doc, ycursor2, headerspace);
 
     var ImageData = CacheImages(ActiveProjectsData); //blocks until caching is complete
     AddProfileImages(doc, ImageData);
@@ -386,7 +387,7 @@ function AddNameAndTitle(doc, PositionTitle, ycursor){
     return ycursor;
 }
 
-function AddProfileDetails(doc, PositionTitle, ycursor) {
+function AddProfileDetails(doc, PositionTitle, ycursor, headerspace) {
     doc.setTextColor(51, 60, 67);
     doc.setFontSize(12);
     doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
@@ -399,28 +400,35 @@ function AddProfileDetails(doc, PositionTitle, ycursor) {
     doc.text(GetPhone(), 250, ycursor, {align: "left"});
     ycursor += 20;
     doc.text(GetAddress(), 250, ycursor, {align: "left"});
-    ycursor += 50;
-    //ycursor += 40;
+    ycursor += 10;
+    ycursor += headerspace;
 
     return ycursor;
 }
 
-function AddAboutMe(doc, AboutText, ycursor){
+function AddAboutMe(doc, AboutText, ycursor, headerspace){
     doc.setTextColor(51, 60, 67);
     doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
     doc.setFont('mesmerize-el');
     doc.setFontStyle('normal');
     doc.setFontSize(16);
     doc.text('About Me', 250, ycursor, {align: "left"});
-    ycursor += 40;//spacing
+    ycursor += headerspace;//spacing
     doc.setFontSize(12);
     doc.text(AboutText, 260, ycursor, {maxWidth: 345, align: "left"});
-    ycursor += 85; //measure text function?
-    ycursor += 40; //spacing
+    ycursor += Math.round(Math.ceil(doc.getTextWidth(AboutText) / 345) * 12);//spacing
+    console.log('AboutMeasure');
+    console.log(doc.getTextWidth(AboutText));
+    console.log(doc.getTextWidth(AboutText) / 345);
+    console.log(Math.ceil(doc.getTextWidth(AboutText) / 345));
+    console.log(Math.ceil(doc.getTextWidth(AboutText) / 345) * 12.14);
+    console.log(Math.round(Math.ceil(doc.getTextWidth(AboutText) / 345) * 12.14));
+    //ycursor += 85; //measure text function?
+    ycursor += headerspace; //spacing
     return ycursor;
 }
 
-function AddProfessionalExperience(doc, ycursor) {
+function AddProfessionalExperience(doc, ycursor, headerspace) {
     var Jobs = [
         [
         'Senior 3D Pipeline Developer',
@@ -451,59 +459,61 @@ function AddProfessionalExperience(doc, ycursor) {
     doc.setFontStyle('normal');
     doc.setFontSize(16);
     doc.text('Experience', 250, ycursor, {align: "left"});
-    ycursor += 40;//spacing
+    ycursor += headerspace;//spacing
 
     for (var j=0; j < Jobs.length; j++){
         var job = Jobs[j];
 
-
         doc.setFont('mesmerize-rg');
         doc.setFontSize(12);
-        doc.text(job[0], 280, ycursor, {maxWidth: 345, align: "left"});
-        ycursor += 15;//spacing
+        doc.text(job[0], 280, ycursor, {maxWidth: 320, align: "left"});
+        ycursor += Math.ceil(doc.getTextWidth(job[0]) / 320) * 15;//spacing
 
         doc.setFont('mesmerize-el');
         doc.setFontSize(10);
-        doc.text(job[1], 280, ycursor, {maxWidth: 325, align: "left"});
-        ycursor += 15;//spacing
+        doc.text(job[1], 280, ycursor, {maxWidth: 320, align: "left"});
+        ycursor += Math.ceil(doc.getTextWidth(job[1]) / 320) * 15;//spacing
+
         doc.setFont('mesmerize-ul');
-        doc.text(job[2], 280, ycursor, {maxWidth: 325, align: "left"});
-        ycursor += 15;//spacing
+        doc.text(job[2], 280, ycursor, {maxWidth: 320, align: "left"});
+        ycursor += Math.ceil(doc.getTextWidth(job[2]) / 320) * 15;//spacing
+
         doc.setFont('mesmerize-el');
-        doc.text(job[3], 280, ycursor, {maxWidth: 325, align: "left"});
-        ycursor += 15;//spacing
-        //doc.text(job[4], 260, ycursor, {align: "left"});
-        ycursor += 45;//spacing
-    }
-
-        return ycursor;
-    }
-
-function AddEducation(doc) {
-    var columns6 = [
-    {title: "", dataKey: "id"},
-    ];
-    var rows6 = [
-    {"id": "Collins College (Action College of Film & Media Arts) - Tempe, AZ\nBA in Digital Video Effects, 2007 to 2010\n\nCCNA Semesters 1-4, 2006-2007"},
-    ];
-    doc.autoTable(columns6, rows6, {
-        theme: 'grid',
-        startY: doc.autoTable.previous.finalY + 15,
+        doc.text(job[3], 280, ycursor, {maxWidth: 320, align: "left"});
+        ycursor += Math.ceil(doc.getTextWidth(job[3]) / 320 + 0.1) * 15;//spacing
         
-        tableLineColor: [174, 186, 213],
-        tableLineWidth: 1,
-        drawRow: function (row, data) {
-            doc.setFontSize(12);
-            doc.setFontStyle('bold');
-            doc.setTextColor(89, 92, 98);
-            doc.setFont('helvetica');
-            if (row.index === 0) {
-                doc.autoTableText("Education", 44, row.y-10, {
-                    valign: 'middle',
-                });
-            }
-        }
-    });
+        ycursor += 5;//spacing
+    }
+    ycursor += headerspace-15;
+    return ycursor;
+}
+
+function AddEducation(doc, ycursor, headerspace) {
+    var EducationText = [
+        "Collins College - Tempe AZ",
+        "BA in Digital Video Effects, 2007 to 2010",
+        "",    
+        "Hanford West High School - Hanford CA",
+        " + CCNA 1-4, 2006-2007",
+    ];
+
+    doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
+
+    doc.setTextColor(51, 60, 67);
+    doc.setFont('mesmerize-el');
+    doc.setFontStyle('normal');
+    doc.setFontSize(16);
+    doc.text('Education', 250, ycursor, {align: "left"});
+    ycursor += headerspace;
+
+    doc.setFont('mesmerize-el');
+    doc.setFontSize(10);
+    for (var i=0; i < EducationText.length; i++){
+        doc.text(EducationText[i], 260, ycursor, {maxWidth: 320, align: "left"});
+        ycursor += 12;
+    };
+
+    return ycursor;
 }
 
 function AddSkills(doc, ActiveSkillsData){
