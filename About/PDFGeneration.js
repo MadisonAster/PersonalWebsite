@@ -164,11 +164,13 @@ function GenerateResume(){
 
     var doc = PDFSetup();
     AddSEOData(doc);
-    AddPageStyling(doc);
+    AddFirstPageStyling(doc);
 
     var ycursor1 = 225;
     ycursor1 = AddNameAndTitle(doc, JobTitle, ycursor1);
-    //ycursor1 = AddSkills(doc, ActiveSkillSets, ycursor1);
+    ycursor1 = AddSkills(doc, ActiveSkillSets, ycursor1);
+
+    doc.setPage(1);
 
     var ycursor2 = 130;
     var headerspace = 30;
@@ -319,9 +321,12 @@ function PDFSetup(){
     doc.setFontSize(12);
     doc.setTextColor(89, 92, 98);
     doc.setFont('helvetica');
-
-    //doc.addPage();
     return doc;
+}
+
+function PDFAddPage(doc){
+    doc.addPage();
+    AddSubsequentPageStyling(doc);
 }
 
 function AddSEOData(doc, SEOTags){
@@ -338,7 +343,7 @@ function AddSEOData(doc, SEOTags){
     doc.setTextColor(89, 92, 98);
 }
 
-function AddPageStyling(doc){
+function AddFirstPageStyling(doc){
     doc.setFillColor(231, 221, 222);
     doc.rect(0, 0, doc.internal.pageSize.width, 115, 'F');
     doc.rect(0, 0, 50, doc.internal.pageSize.height, 'F');
@@ -354,9 +359,14 @@ function AddPageStyling(doc){
 
     doc.setFillColor(51, 60, 67);
     doc.rect(50, 0, 176, doc.internal.pageSize.height, 'F');
+}
 
-    doc.setFillColor(240, 240, 240);
-    doc.rect(60, 8, 156, 187, 'F');
+function AddSubsequentPageStyling(doc){
+    doc.setFillColor(231, 221, 222);
+    doc.rect(0, 0, 50, doc.internal.pageSize.height, 'F');
+
+    doc.setFillColor(51, 60, 67);
+    doc.rect(50, 0, 176, doc.internal.pageSize.height, 'F');
 }
 
 function AddNameAndTitle(doc, PositionTitle, ycursor){
@@ -378,6 +388,8 @@ function AddNameAndTitle(doc, PositionTitle, ycursor){
     doc.text(PositionTitle.toLowerCase(), 216, ycursor, {maxWidth: 156, align: "right"});
     ycursor += 40;
 
+    doc.setFillColor(240, 240, 240);
+    doc.rect(60, 8, 156, 187, 'F'); //Polaroid outline
     window.PDFImageCache.push(['./_Assets/ProfileImage.jpg', 'JPG', 69, 17, 136, 140, {url:'https://'+GetProfileURL()}]);
     window.PDFImageCache.push(['./About/ResumeImages/GitHub.png', 'PNG', 16, 116, 18, 18, {url:GetGitHubURL()}]);
     window.PDFImageCache.push(['./About/ResumeImages/DockerHub.png', 'PNG', 16, 136, 18, 18, {url:GetDockerHubURL()}]);
@@ -532,7 +544,7 @@ function AddGenerationDates(doc) {
 };
 
 function AddSkills(doc, ActiveSkillsData){
-
+    PDFAddPage(doc);
 }
 
 function AddProjects(doc, ActiveProjectsData, ImageData) {
@@ -587,12 +599,6 @@ function AddImages(doc) {
         doc.addImage(image[7], image[1], image[2], image[3], image[4], image[5]);
         doc.link(image[2], image[3], image[4], image[5], image[6]);
     };
-}
-
-function PDFAddPage(doc) {
-    doc.addPage();
-    doc.setFillColor(0);
-    doc.rect(0, 0, 152, doc.internal.pageSize.height, 'F');
 }
 
 function PDFSave(doc, PositionTitle) {
