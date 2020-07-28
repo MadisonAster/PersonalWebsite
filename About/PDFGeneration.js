@@ -617,9 +617,10 @@ function AddSkills(doc, ActiveSkillSets, ycursor, headerspace){
             };
         };
 
-        doc.setFillColor(240, 240, 240);
-        doc.rect(60, ycursor, 156, 1, 'F'); //DividingLine
-        ycursor += headerspace;
+        //doc.setFillColor(240, 240, 240);
+        //doc.rect(60, ycursor, 156, 1, 'F'); //DividingLine
+
+        ycursor += 10; //margin
         if (ycursor > 762){
             ycursor = 20;
             PDFAddPage(doc);
@@ -632,9 +633,9 @@ function AddSkills(doc, ActiveSkillSets, ycursor, headerspace){
 function AddStars(doc, proficiency, ycursor){
     var percent = parseInt(proficiency);
     for (var i=0; i<5; i++){
-        if (percent >= i * 20 - 5){
+        if (percent >= i * 20 - 5 + 20){
             window.FullStarImageCache.push([doc.currentpage, 'PNG', 166+10*i, ycursor-10, 10, 10, {}]);
-        } else if (percent >= i * 20 - 15){
+        } else if (percent >= i * 20 - 15 + 20){
             window.HalfStarImageCache.push([doc.currentpage, 'PNG', 166+10*i, ycursor-10, 10, 10, {}]);
         } else {
             window.EmptyStarImageCache.push([doc.currentpage, 'PNG', 166+10*i, ycursor-10, 10, 10, {}]);
