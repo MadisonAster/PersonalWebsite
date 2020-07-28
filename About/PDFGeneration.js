@@ -166,24 +166,28 @@ function GenerateResume(){
     AddSEOData(doc);
     AddFirstPageStyling(doc);
 
+    doc.setPage(1);
+
+    var headerspace = 20;
     var ycursor1 = 225;
-    ycursor1 = AddNameAndTitle(doc, JobTitle, ycursor1);
-    ycursor1 = AddSkills(doc, ActiveSkillSets, ycursor1);
+    ycursor1 = AddNameAndTitle(doc, JobTitle, ycursor1, headerspace);
+    ycursor1 = AddAvailability(doc, ycursor1, headerspace);
+    ycursor1 = AddSkills(doc, ActiveSkillSets, ycursor1, headerspace);
 
     doc.setPage(1);
 
-    var ycursor2 = 130;
     var headerspace = 30;
+    var ycursor2 = 130;
     ycursor2 = AddProfileDetails(doc, JobTitle, ycursor2, headerspace);
     ycursor2 = AddAboutMe(doc, JobType['Objective'], ycursor2, headerspace);
     ycursor2 = AddProfessionalExperience(doc, ycursor2, headerspace);
     ycursor2 = AddEducation(doc, ycursor2, headerspace);
     //ycursor2 = AddProjects(doc, ActiveProjectsData, ImageData, ycursor2);
 
+    doc.setPage(1);
+
     AddImages(doc); //blocks until caching is complete
-
     AddGenerationDate(doc);
-
     PDFSave(doc, JobTitle);
 }
 //////////////////////////////////////////////////////
@@ -372,7 +376,7 @@ function AddSubsequentPageStyling(doc){
     doc.rect(50, 0, 176, doc.internal.pageSize.height, 'F');
 }
 
-function AddNameAndTitle(doc, PositionTitle, ycursor){
+function AddNameAndTitle(doc, PositionTitle, ycursor, headerspace){
     doc.addFont('mesmerize-rg-normal.ttf', 'mesmerize-rg', 'normal');
     doc.setFont('mesmerize-rg');
     doc.setCharSpace(0);
@@ -389,7 +393,11 @@ function AddNameAndTitle(doc, PositionTitle, ycursor){
     doc.setFont('mesmerize-ul');
     doc.setFontStyle('normal');
     doc.text(PositionTitle.toLowerCase(), 216, ycursor, {maxWidth: 156, align: "right"});
-    ycursor += 40;
+    ycursor += headerspace;
+
+    doc.setFillColor(240, 240, 240);
+    doc.rect(60, ycursor, 156, 1, 'F'); //DividingLine
+    ycursor += headerspace;
 
     doc.setFillColor(240, 240, 240);
     doc.rect(60, 8, 156, 187, 'F'); //Polaroid outline
@@ -401,6 +409,25 @@ function AddNameAndTitle(doc, PositionTitle, ycursor){
 
     return ycursor;
 }
+
+function AddAvailability(doc, ycursor, headerspace){
+    var Availability = GetAvailability().toLowerCase();
+    doc.setTextColor(255, 255, 255);
+    doc.setFontSize(18);
+    doc.addFont('mesmerize-ul-normal.ttf', 'mesmerize-ul', 'normal');
+    doc.setFont('mesmerize-ul');
+    doc.setFontStyle('normal');
+    doc.text(Availability, 216, ycursor+5, {maxWidth: 156, align: "right"});
+    ycursor += Math.round(Math.ceil(doc.getTextWidth(Availability) / 156) * 18);//spacing
+    ycursor += 5;
+
+    doc.setFillColor(240, 240, 240);
+    doc.rect(60, ycursor, 156, 1, 'F'); //DividingLine
+    ycursor += headerspace;
+
+    return ycursor
+}
+
 
 function AddProfileDetails(doc, PositionTitle, ycursor, headerspace) {
     doc.setTextColor(51, 60, 67);
