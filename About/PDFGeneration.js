@@ -580,14 +580,14 @@ function AddProjects(doc, ActiveProjectsData, ycursor, headerspace) {
         ycursor += Math.ceil(doc.getTextWidth(project['title']) / 320) * 12;//spacing
 
         doc.setFont('mesmerize-ul');
-        doc.setFontSize(9);
+        doc.setFontSize(8);
         doc.text(project['date'], 260, ycursor, {maxWidth: 320, align: "left"});
-        ycursor += Math.ceil(doc.getTextWidth(project['date']) / 320) * 10;//spacing
+        ycursor += Math.ceil(doc.getTextWidth(project['date']) / 320) * 9;//spacing
 
         doc.setFont('mesmerize-el');
         doc.setFontSize(9);
         doc.text(String(project['shortdescription']).replace(/[\r\n]+/gm, ''), 260, ycursor, {maxWidth: 320, align: "left"});
-        ycursor += Math.ceil(doc.getTextWidth(project['shortdescription']) / 320) * 10;//spacing
+        ycursor += Math.ceil(doc.getTextWidth(project['shortdescription']) / 320) * 9;//spacing
 
         ycursor += 12; //margin
         if (ycursor > 780){
