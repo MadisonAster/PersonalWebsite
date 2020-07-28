@@ -54,6 +54,11 @@ function GetPhone() {
     return window.ConfigData['PhoneNumber'];
 }
 
+function GetProfileURL() {
+    GetConfigData();
+    return window.ConfigData['ProfileURL'];
+}
+
 function GetEmail() {
     GetConfigData();
     return window.ConfigData['EmailAddress'];

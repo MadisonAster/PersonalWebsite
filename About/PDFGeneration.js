@@ -9,191 +9,59 @@ function ResumeDialog() {
         window.JobTypes = {
             'Principal Engineer' : {
                 'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "CSS", "Java", "ActionScript", "SQL", "x86 Assembly", "VBA", "Bash", "Vulkan", "WebGL", "OpenGL", "Qt", "Tensorflow", "Django", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "Boujou", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Fusion360", "Alias", "Maya", "ZBrush", "Substance Designer", "Cinema 4D", "LightWave 3D", "Blender", "3D Printing", "Softimage", "Nuke", "Fusion", "Photoshop", "Flame", "Premier", "Avid", "Final Cut Pro", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Patent Authoring", "Excel", "LiveCycle", "Access", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
-                'Objective' : 'Looking .',
-                'SkillsArray' : [
-                    {"id": "Python:", "desc": "5 Years professional experience"},
-                    {"id": "C++/UE4 Blueprint:", "desc": "2 Years development experience. Oculus, Vive, Daydream, Leap Motion, Virtuix Omni"},
-                    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-                    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-                    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-                ],
+                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
             },
             'Lead Engineer' : {
                 'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "CSS", "Java", "ActionScript", "SQL", "x86 Assembly", "VBA", "Bash", "Vulkan", "WebGL", "OpenGL", "Qt", "Tensorflow", "Django", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "Boujou", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Fusion360", "Alias", "Maya", "ZBrush", "Substance Designer", "Cinema 4D", "LightWave 3D", "Blender", "3D Printing", "Softimage", "Nuke", "Fusion", "Photoshop", "Flame", "Premier", "Avid", "Final Cut Pro", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Patent Authoring", "Excel", "LiveCycle", "Access", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
-                'Objective' : 'Looking .',
-                'SkillsArray' : [
-                    {"id": "Python:", "desc": "5 Years professional experience"},
-                    {"id": "C++/UE4 Blueprint:", "desc": "2 Years development experience. Oculus, Vive, Daydream, Leap Motion, Virtuix Omni"},
-                    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-                    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-                    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-                ],
+                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
             },
             'Software Engineer' : {
                 'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "Javascript", "CSS", "Java", "ActionScript", "SQL", "x86 Assembly", "VBA", "Vulkan", "WebGL", "OpenGL", "Qt", "Tensorflow", "Django", "Windows", "Linux", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Terraform", "Unreal", "Unity", "RealityCapture", "Houdini", "Maya", "3D Printing", "Nuke", "Ffmpeg", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Patent Authoring", "Excel", "LiveCycle", "Access", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
-                'Objective' : 'Looking .',
-                'SkillsArray' : [
-                    {"id": "Python:", "desc": "5 Years professional experience"},
-                    {"id": "C++/UE4 Blueprint:", "desc": "2 Years development experience. Oculus, Vive, Daydream, Leap Motion, Virtuix Omni"},
-                    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-                    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-                    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-                ],
+                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
             },
             'Graphics Engineer' : {
                 'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "Javascript", "CSS", "Vulkan", "WebGL", "OpenGL", "Qt", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Maya", "ZBrush", "Cinema 4D", "LightWave 3D", "Softimage", "Nuke", "Photoshop", "Flame", "Premier", "Avid", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Shotgun", "FileMaker Pro", "Smart Sheets"],
-                'Objective' : 'Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.',
-                'SkillsArray' : [
-                    {"id": "Python:", "desc": "5 Years experience"},
-                    {"id": "C++/UE4 Blueprint:", "desc": "2 Years experience"},
-                    {"id": "Nuke Python API", "desc": "3 Years professional experience"},
-                    {"id": "DI Finishing Pipeline", "desc": "1 Year professional experience"},
-                    {"id": "Maya Pipeline", "desc": "1 Year professional experience"},
-                    {"id": "VFX Compositing", "desc": "1 Years professional experience"},
-                    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-                    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-                    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-                ],
+                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
             },
             'Full Stack Engineer' : {
                 'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "Javascript", "CSS", "SQL", "WebGL", "Qt", "Tensorflow", "Django", "Windows", "Linux", "Git", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Maya", "Nuke", "Photoshop", "Ffmpeg", "After Effects", "Illustrator", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Excel", "LiveCycle"],
-                'Objective' : 'Looking for work on highly modular software projects with long evolution curves.',
-                'SkillsArray' : [
-                    {"id": "Python:", "desc": "5 years professional experience"},
-                    {"id": "PySide/PyQt:", "desc": "2 years professional experience"},
-                    {"id": "C++:", "desc": "2 years professional experience"},
-                    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-                    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-                    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-                ],
+                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
             },
             'DevOps Engineer': {
                 'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "SQL", "Qt", "Django", "Windows", "Linux", "Git", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Maya", "Nuke", "Ffmpeg", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Excel", "LiveCycle", "Access", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
-                'Objective' : 'Looking for work on highly modular software projects with long evolution curves.',
-                'SkillsArray' : [
-                    {"id": "Python:", "desc": "5 years professional experience"},
-                    {"id": "PySide/PyQt:", "desc": "2 years professional experience"},
-                    {"id": "C++:", "desc": "2 years professional experience"},
-                    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-                    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-                    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-                ],
+                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
             },
             'Backend Engineer' : {
                 'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "Javascript", "Java", "SQL", "x86 Assembly", "VBA", "WebGL", "Qt", "Tensorflow", "Django", "Windows", "Linux", "Android", "Git", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Maya", "Nuke", "Photoshop", "Ffmpeg", "After Effects", "Illustrator", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Excel", "LiveCycle"],
-                'Objective' : 'Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.',
-                'SkillsArray' : [
-                    {"id": "Python:", "desc": "5 Years experience"},
-                    {"id": "C++/UE4 Blueprint:", "desc": "2 Years experience"},
-                    {"id": "Nuke Python API", "desc": "3 Years professional experience"},
-                    {"id": "DI Finishing Pipeline", "desc": "1 Year professional experience"},
-                    {"id": "Maya Pipeline", "desc": "1 Year professional experience"},
-                    {"id": "VFX Compositing", "desc": "1 Years professional experience"},
-                    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-                    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-                    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-                ],
+                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
             },
             'Frontend Engineer' : {
                 'ActiveSkills' : ["Python", "C++", "HTML", "PHP", "Javascript", "CSS", "Java", "ActionScript", "SQL", "Vulkan", "WebGL", "OpenGL", "Qt", "Tensorflow", "Django", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "VR", "Maya", "Cinema 4D", "Nuke", "Photoshop", "Premier", "Avid", "Final Cut Pro", "Ffmpeg", "Color Science", "After Effects", "Illustrator", "Project Management", "Systems Administration", "Thinstall", "CCNA", "Excel", "LiveCycle", "Shotgun"],
-                'Objective' : 'Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.',
-                'SkillsArray' : [
-                    {"id": "Python:", "desc": "5 Years experience"},
-                    {"id": "C++/UE4 Blueprint:", "desc": "2 Years experience"},
-                    {"id": "Nuke Python API", "desc": "3 Years professional experience"},
-                    {"id": "DI Finishing Pipeline", "desc": "1 Year professional experience"},
-                    {"id": "Maya Pipeline", "desc": "1 Year professional experience"},
-                    {"id": "VFX Compositing", "desc": "1 Years professional experience"},
-                    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-                    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-                    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-                ],
+                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
             },
             'VFX Engineer' : {
                 'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "Javascript", "CSS", "Vulkan", "WebGL", "OpenGL", "Qt", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "Boujou", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Fusion360", "Alias", "Maya", "ZBrush", "Substance Designer", "Cinema 4D", "LightWave 3D", "Blender", "3D Printing", "Softimage", "Nuke", "Fusion", "Photoshop", "Flame", "Premier", "Avid", "Final Cut Pro", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Excel", "Shotgun", "FileMaker Pro", "Smart Sheets", "LiquidPlanner"],
-                'Objective' : 'Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.',
-                'SkillsArray' : [
-                    {"id": "Python:", "desc": "5 Years experience"},
-                    {"id": "C++/UE4 Blueprint:", "desc": "2 Years experience"},
-                    {"id": "Nuke Python API", "desc": "3 Years professional experience"},
-                    {"id": "DI Finishing Pipeline", "desc": "1 Year professional experience"},
-                    {"id": "Maya Pipeline", "desc": "1 Year professional experience"},
-                    {"id": "VFX Compositing", "desc": "1 Years professional experience"},
-                    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-                    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-                    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-                ],
+                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
             },
             'AI Engineer' : {
                 'ActiveSkills' : ["Python", "Bash", "C++", "HTML", "PHP", "Javascript", "CSS", "Java", "SQL", "x86 Assembly", "Vulkan", "WebGL", "OpenGL", "Qt", "Tensorflow", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Agisoft Photoscan", "RealityCapture", "PFTrack", "Maya", "Nuke", "Ffmpeg", "CCNA", "Excel"],
-                'Objective' : 'Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.',
-                'SkillsArray' : [
-                    {"id": "Python:", "desc": "5 Years experience"},
-                    {"id": "C++/UE4 Blueprint:", "desc": "2 Years experience"},
-                    {"id": "Nuke Python API", "desc": "3 Years professional experience"},
-                    {"id": "DI Finishing Pipeline", "desc": "1 Year professional experience"},
-                    {"id": "Maya Pipeline", "desc": "1 Year professional experience"},
-                    {"id": "VFX Compositing", "desc": "1 Years professional experience"},
-                    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-                    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-                    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-                ],
+                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
             },
             'Game Developer' : {
                 'ActiveSkills' : ["Python", "Bash", "C++", "Javascript", "ActionScript", "Vulkan", "WebGL", "OpenGL", "Qt", "Windows", "Linux", "Android", "Git", "Deadline", "Docker", "Kubernetes", "AWS", "Subversion", "Terraform", "Unreal", "Unity", "VR", "Agisoft Photoscan", "RealityCapture", "Syntheyes", "Boujou", "PFTrack", "Arnold", "VRay", "MentalRay", "RealFlow", "Houdini", "Fusion360", "Alias", "Maya", "ZBrush", "Substance Designer", "Cinema 4D", "LightWave 3D", "Blender", "3D Printing", "Softimage", "Nuke", "Photoshop", "Flame", "Ffmpeg", "Color Science", "Nucoda Film Master", "Mistika", "After Effects", "Illustrator", "Project Management", "Systems Administration", "CCNA", "Excel", "Shotgun", "FileMaker Pro", "Smart Sheets"],
-                'Objective' : 'Looking to work on VR Games with challenging coding problems and inspiring designs, with a keen interest in experimental hardware.',
-                'SkillsArray' : [
-                    {"id": "Python:", "desc": "5 Years professional experience"},
-                    {"id": "C++/UE4 Blueprint:", "desc": "2 Years development experience. Oculus, Vive, Daydream, Leap Motion, Virtuix Omni"},
-                    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-                    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-                    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-                ],
+                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
             },
             'Embedded Engineer' : {
                 'ActiveSkills' : ["Python", "Bash", "C++", "Java", "x86 Assembly", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Docker", "Unreal", "Unity", "Fusion360", "Alias", "Maya", "Blender", "3D Printing", "Nuke", "Ffmpeg", "Systems Administration", "CCNA", "Excel"],
-                'Objective' : 'Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.',
-                'SkillsArray' : [
-                    {"id": "Python:", "desc": "5 Years experience"},
-                    {"id": "C++/UE4 Blueprint:", "desc": "2 Years experience"},
-                    {"id": "Nuke Python API", "desc": "3 Years professional experience"},
-                    {"id": "DI Finishing Pipeline", "desc": "1 Year professional experience"},
-                    {"id": "Maya Pipeline", "desc": "1 Year professional experience"},
-                    {"id": "VFX Compositing", "desc": "1 Years professional experience"},
-                    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-                    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-                    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-                ],
+                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
             },
             'Robotics Engineer' : {
                 'ActiveSkills' : ["Python", "Bash", "C++", "Java", "x86 Assembly", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Docker", "Unreal", "Unity", "Fusion360", "Alias", "Maya", "Blender", "3D Printing", "Nuke", "Ffmpeg", "Systems Administration", "CCNA", "Excel"],
-                'Objective' : 'Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.',
-                'SkillsArray' : [
-                    {"id": "Python:", "desc": "5 Years experience"},
-                    {"id": "C++/UE4 Blueprint:", "desc": "2 Years experience"},
-                    {"id": "Nuke Python API", "desc": "3 Years professional experience"},
-                    {"id": "DI Finishing Pipeline", "desc": "1 Year professional experience"},
-                    {"id": "Maya Pipeline", "desc": "1 Year professional experience"},
-                    {"id": "VFX Compositing", "desc": "1 Years professional experience"},
-                    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-                    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-                    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-                ],
+                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
             },
             'Electronics Engineer' : {
                 'ActiveSkills' : ["Python", "Bash", "C++", "Java", "x86 Assembly", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Docker", "Unreal", "Unity", "Fusion360", "Alias", "Maya", "Blender", "3D Printing", "Nuke", "Ffmpeg", "Systems Administration", "CCNA", "Excel"],
-                'Objective' : 'Seeking work for Game and Film VFX pipeline development where I can apply my broad experience with 3D programs and compositing software.',
-                'SkillsArray' : [
-                    {"id": "Python:", "desc": "5 Years experience"},
-                    {"id": "C++/UE4 Blueprint:", "desc": "2 Years experience"},
-                    {"id": "Nuke Python API", "desc": "3 Years professional experience"},
-                    {"id": "DI Finishing Pipeline", "desc": "1 Year professional experience"},
-                    {"id": "Maya Pipeline", "desc": "1 Year professional experience"},
-                    {"id": "VFX Compositing", "desc": "1 Years professional experience"},
-                    {"id": "Recyclable Coding style:", "desc": "I divide every project I work on into high level logic, and low level libraries to allow for as much recycling as possible."},
-                    {"id": "Design Skills:", "desc": "With backgrounds in Graphic Design, CG Modelling, Photogrammetry, VFX Compositing, and color correction, I've absorbed all of the technical skills from these fields as well as developed my own artistic taste and style."},
-                    {"id": "Ultra Fast Adaptability:", "desc": "I practice adapting to new software and concepts as a skill. Over the course of my career I've brought my average learning curve for new software down from several months to under a week. (See Experience Table)"},
-                ],
+                'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
             },
         }
         for (var title in window.JobTypes) {
@@ -285,20 +153,19 @@ function GenerateResume(){
     var ActiveSkillSets = GetActiveSkillSets();
     var ActiveProjects = GetActiveProjectsList();
     var ActiveProjectsData = GetActiveProjectsData();
-    var SEOTags = GetSEOTags();
     console.log(JobTitle);
     console.log(JobType);
     console.log(ActiveSkills);
     console.log(ActiveSkillSets);
     console.log(ActiveProjects);
     console.log(ActiveProjectsData);
-    console.log(SEOTags);
 
     var doc = PDFSetup();
-    AddSEOData(doc, SEOTags);
+    AddSEOData(doc);
     AddPageStyling(doc);
     AddProfileDetails(doc, JobTitle);
-    //AddProfessionalExperience(doc);
+    AddAboutMe(doc, JobType['Objective']);
+    AddProfessionalExperience(doc);
     //AddEducation(doc);
     //AddSkills(doc, ActiveSkillSets);
 
@@ -450,6 +317,7 @@ function PDFSetup(){
 }
 
 function AddSEOData(doc, SEOTags){
+    var SEOTags = GetSEOTags();
     var wordlisturl = window.location.href+'/WordList.csv';
     var wordlistdata = LoadPage(wordlisturl);
     var wordlistlines = wordlistdata.split('\n');
@@ -463,10 +331,6 @@ function AddSEOData(doc, SEOTags){
 }
 
 function AddPageStyling(doc){
-    console.log('doc size!');
-    console.log(doc.internal.pageSize.width);
-    console.log(doc.internal.pageSize.height);
-
     doc.setFillColor(231, 221, 222);
     doc.rect(0, 0, doc.internal.pageSize.width, 115, 'F');
     doc.rect(0, 0, 50, doc.internal.pageSize.height, 'F');
@@ -485,20 +349,10 @@ function AddPageStyling(doc){
 
     doc.setFillColor(240, 240, 240);
     doc.rect(60, 8, 156, 187, 'F');
-
-    //doc.setFillColor(0);
-    //doc.rect(0, 0, 152, doc.internal.pageSize.height, 'F');
 }
 
 function AddProfileDetails(doc, PositionTitle) {
-    //doc.addFont('Candara.ttf', 'Candara', 'normal', 'WinAnsiEncoding');
-    //doc.addFont('Candarai.ttf', 'Candara', 'italic', 'WinAnsiEncoding');
-    //doc.addFont('Candarab.ttf', 'Candara', 'bold', 'WinAnsiEncoding');
-    //doc.setFont('Candara');
-    //doc.setDefaultFonts(0, 'Candara');    //English default
-
     //doc.setFont('helvetica');
-    
     //doc.addFont('mesmerize-cd-lt-normal.ttf', 'mesmerize-cd-lt', 'normal');
     //doc.setFont('mesmerize-cd-lt');
     //doc.addFont('mesmerize-cd-sb-normal.ttf', 'mesmerize-cd-sb', 'normal');
@@ -525,56 +379,57 @@ function AddProfileDetails(doc, PositionTitle) {
     doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
     doc.setFont('mesmerize-el');
     doc.setFontStyle('normal');
-    doc.text('www.MadisonAster.com', 250, 130, {align: "left"});
+    doc.text(GetProfileURL(), 250, 130, {align: "left"});
     doc.text(GetEmail(), 250, 150, {align: "left"});
     doc.text(GetPhone(), 250, 170, {align: "left"});
     doc.text(GetAddress(), 250, 190, {align: "left"});
-    //doc.drawText(201, 100, GetAddress());
-    //doc.drawText(201, 120, GetPhone());
-    //doc.drawText(201, 140, GetEmail());
-    //doc.drawText(201, 160, 'www.MadisonAster.com');
-    
-    //imgData1 = getBase64FromImageUrl("./_Assets/CVThumb.jpg");
-    //doc.addImage(imgData1, 'JPEG', 1, 78, 178, 100);
     }
 
+function AddAboutMe(doc, AboutText){
+    doc.setTextColor(51, 60, 67);
+    doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
+    doc.setFont('mesmerize-el');
+    doc.setFontStyle('normal');
+    doc.setFontSize(16);
+    doc.text('About Me', 250, 240, {align: "left"});
+    doc.setFontSize(12);
+    doc.text(AboutText, 260, 280, {maxWidth: 345, align: "left"});
+}
+
 function AddProfessionalExperience(doc) {
-    var columns7 = [
-    {title: "", dataKey: "id"},
-    {title: "", dataKey: "desc"},
-    ];
-    var rows7 = [
-    {"id": "Saatchi & Saatchi, 3501 Sepulveda blvd, Torrance CA 90505 (310) 214-6000"},
-    {"id": "Senior 3D Pipeline Engineer - Nov 2017 to Current                                                                     - CAD/3D Pipeline Development"},
-    {"id": "Cognition, 900 Cahuenga blvd ste b, Hollywood CA 90038 (323) 874-4487"},
-    {"id": "Senior Software Developer - Apr 2015 to Oct 2017                                                                     - VR Game Development"},
-    {"id": "Lit Post LLC, 2255 N Ontario st ste 100A, Burbank CA 91504"},
-    {"id": "Technical Director/Pipeline Developer - Nov 2011 to Mar 2015                               - Nuke / Maya Pipeline Development"},
-    ];
-    doc.autoTable(columns7, rows7, {
-        theme: 'grid',
-        startY: doc.autoTable.previous.finalY + 15,
+    var Jobs = [
+        [
+        'Senior 3D Pipeline Developer',
+        'Saatchi & Saatchi - 3501 Sepulveda blvd, Torrance CA 90505 (310) 214-6000',
+        'Nov 2017 – May 20202 years 7 months',
+        'Conceived, built, and maintained a series of projects for processing Engineering data from Toyota Motors for the automotive advertising industry.',
+        ],
         
-        tableLineColor: [174, 186, 213],
-        tableLineWidth: 1,
-        styles: {
-        overflow: 'hidden',
-        },
-        columnStyles: {
-        id: {columnWidth: doc.internal.pageSize.width-80},
-        },
-        drawRow: function (row, data) {
-            doc.setTextColor(89, 92, 98);
-            if (row.index % 2 == 1) {
-                doc.setTextColor(0, 0, 0);
-            };
-            if (row.index === 0) {
-                doc.autoTableText("Professional Experience", 44, row.y-10, {
-                    valign: 'middle',
-                });
-            }
-        }
-    });
+        [
+        'Senior Software Developer',
+        'Cognition LA - 900 Cahuenga blvd ste b, Hollywood CA 90038 (323) 874-4487',
+        'Apr 2015 – Oct 20172 years 7 months',
+        'Los Angeles, California, United States',
+        'Built a series of experimental game projects with a variety of experimental VR hardware.',
+        ],
+
+        [
+        'VFX Pipeline Developer',
+        'Lit Post',
+        'Nov 2011 – 2255 N Ontario st ste 100A, Burbank CA 91504',
+        'Burbank, California, United States',
+        'Architected and Implemented a custom VFX pipeline to connect 3D, Compositing, and Color departments.',
+        ],
+    ]
+
+    doc.setTextColor(51, 60, 67);
+    doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
+    doc.setFont('mesmerize-el');
+    doc.setFontStyle('normal');
+    doc.setFontSize(16);
+    doc.text('Experience', 250, 410, {align: "left"});
+    doc.setFontSize(12);
+
 }
 
 function AddEducation(doc) {
@@ -752,6 +607,34 @@ function PDFSave(doc, PositionTitle) {
 
 
 /////////////Keeping for Reference//////////////////
+    /*
+    doc.autoTable(columns7, rows7, {
+        theme: 'grid',
+        startY: doc.autoTable.previous.finalY + 15,
+        
+        tableLineColor: [174, 186, 213],
+        tableLineWidth: 1,
+        styles: {
+        overflow: 'hidden',
+        },
+        columnStyles: {
+        id: {columnWidth: doc.internal.pageSize.width-80},
+        },
+        drawRow: function (row, data) {
+            doc.setTextColor(89, 92, 98);
+            if (row.index % 2 == 1) {
+                doc.setTextColor(0, 0, 0);
+            };
+            if (row.index === 0) {
+                doc.autoTableText("Professional Experience", 44, row.y-10, {
+                    valign: 'middle',
+                });
+            }
+        }
+    });
+    */
+
+
 function GenerateResumePDF(){
     var doc = ResumeSetup();
     ResumeContactDetails(doc, JobTitle);    
