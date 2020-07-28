@@ -424,13 +424,13 @@ function AddProfessionalExperience(doc, ycursor) {
     var Jobs = [
         [
         'Senior 3D Pipeline Developer',
-        'Saatchi & Saatchi - 555 Aviation blvd, El Segundo CA (310)214-6000',
+        'Saatchi & Saatchi - 555 Aviation blvd, El Segundo CA 310-214-6000',
         'Nov 2017 – May 2020, 2 years 7 months',
         'Conceived, built, and maintained a series of projects for processing Engineering data from Toyota Motors for the automotive advertising industry.',
         ],
         [
         'Senior Software Developer',
-        'Cognition LA - 900 Cahuenga blvd, Hollywood CA (323)874-4487',
+        'Cognition LA - 900 Cahuenga blvd, Hollywood CA 323-874-4487',
         'Apr 2015 – Oct 2017, 2 years 7 months',
         'Built a series of experimental game projects with a variety of experimental VR hardware.',
         ],
@@ -442,8 +442,11 @@ function AddProfessionalExperience(doc, ycursor) {
         ],
     ]
 
-    doc.setTextColor(51, 60, 67);
+    doc.addFont('mesmerize-rg-normal.ttf', 'mesmerize-rg', 'normal');
+    doc.addFont('mesmerize-ul-normal.ttf', 'mesmerize-ul', 'normal');
     doc.addFont('mesmerize-el-normal.ttf', 'mesmerize-el', 'normal');
+
+    doc.setTextColor(51, 60, 67);
     doc.setFont('mesmerize-el');
     doc.setFontStyle('normal');
     doc.setFontSize(16);
@@ -453,16 +456,21 @@ function AddProfessionalExperience(doc, ycursor) {
     for (var j=0; j < Jobs.length; j++){
         var job = Jobs[j];
 
+
+        doc.setFont('mesmerize-rg');
         doc.setFontSize(12);
-        doc.text(job[0], 260, ycursor, {maxWidth: 345, align: "left"});
+        doc.text(job[0], 280, ycursor, {maxWidth: 345, align: "left"});
         ycursor += 15;//spacing
 
-        doc.setFontSize(11);
-        doc.text(job[1], 260, ycursor, {maxWidth: 345, align: "left"});
+        doc.setFont('mesmerize-el');
+        doc.setFontSize(10);
+        doc.text(job[1], 280, ycursor, {maxWidth: 325, align: "left"});
         ycursor += 15;//spacing
-        doc.text(job[2], 260, ycursor, {maxWidth: 345, align: "left"});
+        doc.setFont('mesmerize-ul');
+        doc.text(job[2], 280, ycursor, {maxWidth: 325, align: "left"});
         ycursor += 15;//spacing
-        doc.text(job[3], 260, ycursor, {maxWidth: 345, align: "left"});
+        doc.setFont('mesmerize-el');
+        doc.text(job[3], 280, ycursor, {maxWidth: 325, align: "left"});
         ycursor += 15;//spacing
         //doc.text(job[4], 260, ycursor, {align: "left"});
         ycursor += 45;//spacing
