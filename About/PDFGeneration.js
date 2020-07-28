@@ -138,7 +138,7 @@ function GenerateResume(){
 
     PDFSetPage(doc, 1); //Reset to page 1
 
-    //Document Setup////////
+    //Document Export//////
     AddImages(doc); //blocks until caching is complete
     AddGenerationDate(doc);
     PDFSave(doc, JobTitle);
@@ -311,51 +311,6 @@ function AddSEOData(doc, SEOTags){
     doc.setFillColor(255, 255, 255);
     doc.rect(0, 0, doc.internal.pageSize.width, 25, 'F');
     doc.setTextColor(89, 92, 98);
-};
-
-function AddImages(doc) {
-    for (var i = 0; i < window.PDFImageCache.length; i++) {
-        var image = window.PDFImageCache[i];
-        image.push(document.createElement('img'));
-        image[7].src = image[0];
-        image[7].style = 'display:none;';
-    };
-    for (var i = 0; i < window.PDFImageCache.length; i++) {
-        var image = window.PDFImageCache[i];
-        doc.addImage(image[7], image[1], image[2], image[3], image[4], image[5]);
-        doc.link(image[2], image[3], image[4], image[5], image[6]);
-    };
-
-    var FullStarImage = document.createElement('img');
-    FullStarImage.src = './About/ResumeImages/FullStar.png';
-    FullStarImage.style = 'display:none;';
-    var HalfStarImage = document.createElement('img');
-    HalfStarImage.src = './About/ResumeImages/HalfStar.png';
-    HalfStarImage.style = 'display:none;';
-    var EmptyStarImage = document.createElement('img');
-    EmptyStarImage.src = './About/ResumeImages/EmptyStar.png';
-    EmptyStarImage.style = 'display:none;';
-    for (var i = 0; i < window.FullStarImageCache.length; i++) {
-        var image = window.FullStarImageCache[i];
-        PDFSetPage(doc, image[0]);
-        doc.addImage(FullStarImage, image[1], image[2], image[3], image[4], image[5]);
-    };
-    for (var i = 0; i < window.HalfStarImageCache.length; i++) {
-        var image = window.HalfStarImageCache[i];
-        PDFSetPage(doc, image[0]);
-        doc.addImage(HalfStarImage, image[1], image[2], image[3], image[4], image[5]);
-    };
-    for (var i = 0; i < window.EmptyStarImageCache.length; i++) {
-        var image = window.EmptyStarImageCache[i];
-        PDFSetPage(doc, image[0]);
-        doc.addImage(EmptyStarImage, image[1], image[2], image[3], image[4], image[5]);
-    };
-};
-
-function PDFSave(doc, PositionTitle) {
-    console.log('PDFSave');
-    var date = new Date();
-    doc.save('MadisonAster_'+PositionTitle.replaceAll(' ','')+'_Resume_'+date.yyyymmdd()+'.pdf');
 };
 
 function AddFirstPageStyling(doc){
@@ -646,6 +601,48 @@ function AddProjects(doc, ActiveProjectsData, ycursor, headerspace) {
 
     return ycursor;
 };
+////////////////////////////////////////////////////
+
+
+//////////////////Document Export///////////////////
+function AddImages(doc) {
+    for (var i = 0; i < window.PDFImageCache.length; i++) {
+        var image = window.PDFImageCache[i];
+        image.push(document.createElement('img'));
+        image[7].src = image[0];
+        image[7].style = 'display:none;';
+    };
+    for (var i = 0; i < window.PDFImageCache.length; i++) {
+        var image = window.PDFImageCache[i];
+        doc.addImage(image[7], image[1], image[2], image[3], image[4], image[5]);
+        doc.link(image[2], image[3], image[4], image[5], image[6]);
+    };
+
+    var FullStarImage = document.createElement('img');
+    FullStarImage.src = './About/ResumeImages/FullStar.png';
+    FullStarImage.style = 'display:none;';
+    var HalfStarImage = document.createElement('img');
+    HalfStarImage.src = './About/ResumeImages/HalfStar.png';
+    HalfStarImage.style = 'display:none;';
+    var EmptyStarImage = document.createElement('img');
+    EmptyStarImage.src = './About/ResumeImages/EmptyStar.png';
+    EmptyStarImage.style = 'display:none;';
+    for (var i = 0; i < window.FullStarImageCache.length; i++) {
+        var image = window.FullStarImageCache[i];
+        PDFSetPage(doc, image[0]);
+        doc.addImage(FullStarImage, image[1], image[2], image[3], image[4], image[5]);
+    };
+    for (var i = 0; i < window.HalfStarImageCache.length; i++) {
+        var image = window.HalfStarImageCache[i];
+        PDFSetPage(doc, image[0]);
+        doc.addImage(HalfStarImage, image[1], image[2], image[3], image[4], image[5]);
+    };
+    for (var i = 0; i < window.EmptyStarImageCache.length; i++) {
+        var image = window.EmptyStarImageCache[i];
+        PDFSetPage(doc, image[0]);
+        doc.addImage(EmptyStarImage, image[1], image[2], image[3], image[4], image[5]);
+    };
+};
 
 function AddGenerationDate(doc) {
     DateText = 'Resume Generated on '+GetGenerationDate()+'\n This content is updated dynamically. Visit https://'+GetProfileURL()+' to generate a fresh copy.'
@@ -657,13 +654,10 @@ function AddGenerationDate(doc) {
     PDFSetPage(doc, doc.pagecount);
     doc.text(DateText, doc.internal.pageSize.width-5, doc.internal.pageSize.height-12, {align: "right", url:GetProfileURL()});
 };
-////////////////////////////////////////////////////
 
-
-/////////////Keeping for Reference//////////////////
-//doc.setFont('helvetica');
-//doc.addFont('mesmerize-cd-lt-normal.ttf', 'mesmerize-cd-lt', 'normal');
-//doc.setFont('mesmerize-cd-lt');
-//doc.addFont('mesmerize-cd-sb-normal.ttf', 'mesmerize-cd-sb', 'normal');
-//doc.setFont('mesmerize-cd-sb');
+function PDFSave(doc, PositionTitle) {
+    console.log('PDFSave');
+    var date = new Date();
+    doc.save('MadisonAster_'+PositionTitle.replaceAll(' ','')+'_Resume_'+date.yyyymmdd()+'.pdf');
+};
 ////////////////////////////////////////////////////
