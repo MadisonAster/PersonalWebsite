@@ -112,12 +112,21 @@ See [_setup/README.md](_setup/README.md)
 - [x] AWS deployment
 - [x] Add Bookshelf project
 - [x] Add Toyota Project
+- [x] Install firefox on server or gain access to mozilla data endpoint
+- [x] Enable firefox cron job
+- [x] Combine resume/cv
 
+- [ ] Improve project short descriptions
+- [ ] Write list of interview questions
+- [ ] Update seo tags
+
+- [ ] Replace Resume stars with unicode stars
+- [ ] Fix Maze tick speed
+
+- [ ] Fix AWS Load Balancer subfolder urls
 - [ ] Connect Skills tree links to positional Favorites tab links
-- [ ] Fix favorites popup content layout
-- [ ] Install firefox on server or gain access to mozilla data endpoint
-- [ ] Enable firefox cron job
 
+- [ ] Fix favorites popup content layout
 - [ ] Improve loading times 
   - Use php to fill current page.
   - For each queued page, use javascript to make php request for content.php in folder. 
@@ -136,10 +145,12 @@ See [_setup/README.md](_setup/README.md)
     9 Favorites/TV
     10 Favorites/Movies
 
+Ready!
+
 - [ ] Separate Firefox Container
 - [ ] Create Screenshots Container
 - [ ] Create Mailer Daemon Container
-- [ ] Change PHP container to nginx
+
 
 - [ ] Add wall tracing line
 - [ ] Add right wall tracing
@@ -147,20 +158,14 @@ See [_setup/README.md](_setup/README.md)
 - [ ] Add CoolWalls async loading
 - [ ] Debug Maze
 
-- [ ] Write list of interview questions
 
-- [ ] Update seo tags
-- [ ] Combine resume/cv
-
-- [ ] Overhaul video player
-- [ ] Video ScrubBrush
-- [ ] DeepGL
-
+- [ ] HOLD - Change PHP container to nginx
+- [ ] HOLD - Overhaul video player
+- [ ] HOLD - Video ScrubBrush
 - [ ] HOLD - Check Safari animation rates
 - [ ] HOLD - Add LinkedIn
 - [ ] HOLD - Snow Particles
 - [ ] HOLD - Fix Contact form
-
 
 
 
