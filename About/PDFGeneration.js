@@ -180,8 +180,9 @@ function GenerateResume(){
     ycursor2 = AddEducation(doc, ycursor2, headerspace);
     //ycursor2 = AddProjects(doc, ActiveProjectsData, ImageData, ycursor2);
 
-    AddGenerationDates(doc);
     AddImages(doc); //blocks until caching is complete
+
+    AddGenerationDate(doc);
 
     PDFSave(doc, JobTitle);
 }
@@ -321,11 +322,13 @@ function PDFSetup(){
     doc.setFontSize(12);
     doc.setTextColor(89, 92, 98);
     doc.setFont('helvetica');
+    doc.pagecount = 1;
     return doc;
 }
 
 function PDFAddPage(doc){
     doc.addPage();
+    doc.pagecount ++;
     AddSubsequentPageStyling(doc);
 }
 
@@ -533,13 +536,14 @@ function AddEducation(doc, ycursor, headerspace) {
     return ycursor;
 }
 
-function AddGenerationDates(doc) {
+function AddGenerationDate(doc) {
     DateText = 'Resume Generated on '+GetGenerationDate()+'\n This content is updated dynamically. Visit https://'+GetProfileURL()+' to generate a fresh copy.'
 
     doc.setTextColor(51, 60, 67);
     doc.setFont('mesmerize-el');
     doc.setFontStyle('normal');
     doc.setFontSize(8);
+    doc.setPage(doc.pagecount);
     doc.text(DateText, doc.internal.pageSize.width-5, doc.internal.pageSize.height-12, {align: "right", url:GetProfileURL()});
 };
 
