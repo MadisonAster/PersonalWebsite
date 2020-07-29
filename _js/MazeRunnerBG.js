@@ -12,13 +12,15 @@ function getYPosition(){
     return Math.ceil(YOffset + document.body.clientHeight);
 };
 function GetAnimationSpeed(){
+    //return 2;
+
     var parser = new UAParser([navigator.userAgent]);
     e = parser.getEngine().name;
     if (e == 'EdgeHTML') {
-        return 10;
+        return 9;
     } else if(e == 'Gecko') {
         if (IsMobile()){return 10};
-        return 2;
+        return 5;
     } else if(e == 'Blink') {
         if (IsMobile()){return 5};
         return 2;
@@ -27,7 +29,7 @@ function GetAnimationSpeed(){
         return 2; //Check osx safari speed
     } else {
         return 2;
-    }
+    };
 }
 function IsMobile(){
     var parser = new UAParser([navigator.userAgent]);
