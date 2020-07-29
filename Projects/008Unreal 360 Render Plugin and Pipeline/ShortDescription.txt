@@ -1,0 +1,1 @@
+360 Video rendering pipeline with a modified version of Unreal Engine, custom deadline plugin. FeaturingIn-Engine Ambisonic audio production, and 8k distributed deadline renders.

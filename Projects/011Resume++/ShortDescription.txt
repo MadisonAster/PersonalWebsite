@@ -1,0 +1,1 @@
+A live webapp that provides an easily updatable framework for my ongoing projects. It allows me to keep track of my skills through my browser's bookmarks, and generates these resumes.

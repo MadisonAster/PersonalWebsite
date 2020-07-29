@@ -1,4 +1,0 @@
-A python based "pseudo API" that provides near instant 
-access to Mistaka nodes, clips, and timeline effects.
-Creating cross department pipeline tools that sync
-color, edits, versioning, and shot notes.

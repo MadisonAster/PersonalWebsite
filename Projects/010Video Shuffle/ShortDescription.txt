@@ -1,0 +1,1 @@
+A javascript based video player that allows clips to be played from a folder in a random or specified order. A demo is available on my Portfolio where I use it to host my VFX Demo Reel.
