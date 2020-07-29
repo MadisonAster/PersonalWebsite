@@ -116,10 +116,10 @@ See [_setup/README.md](_setup/README.md)
 - [x] Enable firefox cron job
 - [x] Combine resume/cv
 - [x] Replace Resume stars with unicode stars
+- [x] Update seo tags
 
 - [ ] Improve project short descriptions
 - [ ] Write list of interview questions
-- [ ] Update seo tags
 
 - [ ] Fix Maze tick speed
 
