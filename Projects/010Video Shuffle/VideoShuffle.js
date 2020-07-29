@@ -420,9 +420,9 @@ function ShufflePlayer(vSources, aSources, vSourceDurations, aSourceDurations, a
             if (i == 0) {
                 video.src = this.videoSources[i];
             } else {
-                video.src = './Projects/010VFX Demo Reel/PlaceHolderVideo_1920.mp4';
+                video.src = './Projects/010Video Shuffle/PlaceHolderVideo_1920.mp4';
             };
-            video.setAttribute('ysrc', './Projects/010VFX Demo Reel/PlaceHolderVideo_1920.mp4');
+            video.setAttribute('ysrc', './Projects/010Video Shuffle/PlaceHolderVideo_1920.mp4');
             video.setAttribute('zsrc', this.videoSources[i]);
             
             video.crossOrigin = 'anonymous';
