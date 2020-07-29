@@ -115,12 +115,12 @@ See [_setup/README.md](_setup/README.md)
 - [x] Install firefox on server or gain access to mozilla data endpoint
 - [x] Enable firefox cron job
 - [x] Combine resume/cv
+- [x] Replace Resume stars with unicode stars
 
 - [ ] Improve project short descriptions
 - [ ] Write list of interview questions
 - [ ] Update seo tags
 
-- [ ] Replace Resume stars with unicode stars
 - [ ] Fix Maze tick speed
 
 - [ ] Fix AWS Load Balancer subfolder urls
