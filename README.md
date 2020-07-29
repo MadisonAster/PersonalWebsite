@@ -118,9 +118,9 @@ See [_setup/README.md](_setup/README.md)
 - [x] Update seo tags
 - [x] Improve project short descriptions
 
-- [ ] Fix Maze tick speed
-- [ ] Fix favorites popup content layout
 - [ ] Fix AWS Load Balancer subfolder urls
+
+- [ ] Fix favorites popup content layout
 - [ ] Improve loading times 
   - Use php to fill current page.
   - For each queued page, use javascript to make php request for content.php in folder. 
@@ -141,6 +141,8 @@ See [_setup/README.md](_setup/README.md)
 
 - [ ] Connect Skills # urls to positional Favorites tab links
 - [ ] Write list of interview questions
+
+- [ ] Fix Maze tick speed
 
 Ready!
 
