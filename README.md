@@ -7,7 +7,6 @@ See [_setup/README.md](_setup/README.md)
 ## Major Features
 - [x] Declaritive resource provisioning
 - [x] Hands off administration
-- [x] Simple LAMP folder structure
 - [x] Automatic folder scanning
 - [x] Automatic menu creation
 - [x] Stateless pagination
@@ -27,7 +26,7 @@ See [_setup/README.md](_setup/README.md)
 - [x] Customizable Three.js background
 - [x] Automated bookmarks synchronization
 - [x] Automated skills tracking pipeline
-- [ ] Automated PDF resume generation via javascript
+- [x] Automated PDF resume generation via javascript
 
 ## Future Features
 
@@ -117,16 +116,11 @@ See [_setup/README.md](_setup/README.md)
 - [x] Combine resume/cv
 - [x] Replace Resume stars with unicode stars
 - [x] Update seo tags
-
-- [ ] Improve project short descriptions
-- [ ] Write list of interview questions
+- [x] Improve project short descriptions
 
 - [ ] Fix Maze tick speed
-
-- [ ] Fix AWS Load Balancer subfolder urls
-- [ ] Connect Skills tree links to positional Favorites tab links
-
 - [ ] Fix favorites popup content layout
+- [ ] Fix AWS Load Balancer subfolder urls
 - [ ] Improve loading times 
   - Use php to fill current page.
   - For each queued page, use javascript to make php request for content.php in folder. 
@@ -144,6 +138,9 @@ See [_setup/README.md](_setup/README.md)
     8 Favorites/Books
     9 Favorites/TV
     10 Favorites/Movies
+
+- [ ] Connect Skills # urls to positional Favorites tab links
+- [ ] Write list of interview questions
 
 Ready!
 
