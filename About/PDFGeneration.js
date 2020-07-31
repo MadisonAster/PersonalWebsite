@@ -146,17 +146,24 @@ function GenerateResume(){
 
 ///////////////////Data Gathering/////////////////////
 function SetJobTitle(JobTitle){
-    //console.log('SetJobTitle');
+    console.log('SetJobTitle', JobTitle);
     $('#JobTypeDropdownButton').text(JobTitle);
+    $('#JobTypeOverrideForm').val(JobTitle);
+};
+
+function GetJobTypeTitle(){
+    console.log('GetJobTitle');
+    return $('#JobTypeDropdownButton').text();
 };
 
 function GetJobTitle(){
-    //console.log('GetJobTitle');
-    return $('#JobTypeDropdownButton').text();
+    console.log('GetJobTitle');
+    return $('#JobTypeOverrideForm').val();
 };
 
 function SetJobType(JobTypeTitle){
     $('#JobTypeDropdownButton').text(JobTypeTitle);
+    $('#JobTypeOverrideForm').val(JobTypeTitle);
     var JobData = window.JobTypes[JobTypeTitle];
     SetActiveSkillList(JobData['ActiveSkills']);
     SetActiveProjectsList(JobData['ActiveSkills']);
@@ -164,7 +171,7 @@ function SetJobType(JobTypeTitle){
 
 function GetJobType(){
     //console.log('GetJobType');
-    return window.JobTypes[GetJobTitle()];
+    return window.JobTypes[GetJobTypeTitle()];
 };
 
 function GetSkillSets(){
