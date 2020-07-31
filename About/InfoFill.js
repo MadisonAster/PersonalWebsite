@@ -230,7 +230,7 @@ function GetJobTypesInfo(){
         },
         'Electronics Engineer' : {
             'ActiveSkills' : ["Python", "Bash", "C++", "Java", "x86 Assembly", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Docker", "Unreal", "Unity", "Fusion360", "Alias", "Maya", "Blender", "3D Printing", "Nuke", "Ffmpeg", "Systems Administration", "CCNA", "Excel"],
-            'Objective' : "Experimental VR hardware, hydraulic simulation chairs, raspberry pi, arduino. I've used and built embedded systems both large and small. I'm pretty good a soldering, and identifying what should be a circuit and what should be software. I've built my own inverse kinematics systems in the past, and I love bringing new machines to life.",
+            'Objective' : "I love building circuits, and it's a dream of mine to own my own fpga. I'm pretty good a soldering, and identifying what should be a circuit and what should be software. I've also worked with high voltage equipment doing set electric work, and always put safety first.",
         },
     };
 };
