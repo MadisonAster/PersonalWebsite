@@ -26,7 +26,7 @@ def main():
             if santizedword not in ['', '\n', '\r', ' ', '\t']:
                 NewList.append(santizedword)
 
-    CombinedList = list(set(CurrentList + NewList))
+    CombinedList = sorted(list(set(CurrentList + NewList)))
     newcount = len(CombinedList) - len(CurrentList)
     print(newcount, 'new words!')
     with open(WordListPath, 'w') as file:
