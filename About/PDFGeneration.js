@@ -356,7 +356,7 @@ function AddNameAndTitle(doc, PositionTitle, ycursor, headerspace){
     doc.setFont('mesmerize-ul');
     doc.setFontStyle('normal');
     doc.text(PositionTitle.toLowerCase(), 216, ycursor, {maxWidth: 156, align: "right"});
-    ycursor += headerspace;
+    ycursor += Math.round(Math.ceil(doc.getTextWidth(PositionTitle.toLowerCase()) / 156) * 18);//spacing
 
     doc.setFillColor(240, 240, 240);
     doc.rect(60, ycursor, 156, 1, 'F'); //DividingLine
