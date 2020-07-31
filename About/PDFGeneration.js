@@ -363,7 +363,7 @@ function AddNameAndTitle(doc, PositionTitle, ycursor, headerspace){
     doc.setFont('mesmerize-ul');
     doc.setFontStyle('normal');
     doc.text(PositionTitle.toLowerCase(), 216, ycursor, {maxWidth: 156, align: "right"});
-    ycursor += Math.round(Math.ceil(doc.getTextWidth(PositionTitle.toLowerCase()) / 156) * 18);//spacing
+    ycursor += Math.round(doc.splitTextToSize(PositionTitle.toLowerCase(), 156).length * 18);//spacing
 
     doc.setFillColor(240, 240, 240);
     doc.rect(60, ycursor, 156, 1, 'F'); //DividingLine
@@ -502,7 +502,7 @@ function AddAboutMe(doc, AboutText, ycursor, headerspace){
     ycursor += headerspace;//spacing
     doc.setFontSize(12);
     doc.text(AboutText, 260, ycursor, {maxWidth: 345, align: "left"});
-    ycursor += Math.round(Math.ceil(doc.getTextWidth(AboutText) / 345) * 12);//spacing
+    ycursor += Math.round(doc.splitTextToSize(AboutText, 345).length * 12);//spacing
     ycursor += headerspace; //spacing
     return ycursor;
 };
