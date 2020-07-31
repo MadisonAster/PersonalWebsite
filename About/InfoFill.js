@@ -222,15 +222,15 @@ function GetJobTypesInfo(){
         },
         'Embedded Engineer' : {
             'ActiveSkills' : ["Python", "Bash", "C++", "Java", "x86 Assembly", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Docker", "Unreal", "Unity", "Fusion360", "Alias", "Maya", "Blender", "3D Printing", "Nuke", "Ffmpeg", "Systems Administration", "CCNA", "Excel"],
-            'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
+            'Objective' : "Experimental VR hardware, hydraulic simulation chairs, raspberry pi, arduino. I've used and built embedded systems both large and small. I've built linux from scratch before, and I have a passion for containerization. With my python expertise, and unit testing experience I can build solid, reliable systems that will stand the test of time.",
         },
         'Robotics Engineer' : {
             'ActiveSkills' : ["Python", "Bash", "C++", "Java", "x86 Assembly", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Docker", "Unreal", "Unity", "Fusion360", "Alias", "Maya", "Blender", "3D Printing", "Nuke", "Ffmpeg", "Systems Administration", "CCNA", "Excel"],
-            'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
+            'Objective' : "Experimental VR hardware, hydraulic simulation chairs, raspberry pi, arduino. I've used and built embedded systems both large and small. I'm pretty good a soldering, and identifying what should be a circuit and what should be software. I've built my own inverse kinematics systems in the past, and I love bringing new machines to life.",
         },
         'Electronics Engineer' : {
             'ActiveSkills' : ["Python", "Bash", "C++", "Java", "x86 Assembly", "Raspberry Pi", "Windows", "Linux", "Android", "Git", "Docker", "Unreal", "Unity", "Fusion360", "Alias", "Maya", "Blender", "3D Printing", "Nuke", "Ffmpeg", "Systems Administration", "CCNA", "Excel"],
-            'Objective' : "I've built my career targeting the rapidly approaching convergence of the Visual Effects, Video Game, and Cloud Computing industries. I've mastered a broad toolset that allows me to design intricate software pipelines that bridge these industries together. My advanced programming skills, and my nose for business give me a unique ability to identify, engineer, and execute profitable software patterns.",
+            'Objective' : "Experimental VR hardware, hydraulic simulation chairs, raspberry pi, arduino. I've used and built embedded systems both large and small. I'm pretty good a soldering, and identifying what should be a circuit and what should be software. I've built my own inverse kinematics systems in the past, and I love bringing new machines to life.",
         },
     };
 };
