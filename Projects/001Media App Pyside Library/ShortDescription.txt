@@ -1,4 +1,1 @@
-Python based framework for node based, timeline based, 
-and other advanced media applications requiring advanded
-GUIs. Also provides dockable widgets, generic project 
-settings, app settings, and project files.
+Python based framework for node based, timeline based, and other advanced media applications requiring advanded GUIs. Also provides dockable widgets, generic project settings, app settings, and project files.
