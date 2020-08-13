@@ -18,7 +18,7 @@
             'url': '/name/nm2240346/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 16925,
+                      'ratingCount': 17051,
                       'ratingValue': '6.5',
                       'worstRating': '1.0'}],
  'contentRating': 'Not Rated',
@@ -46,8 +46,7 @@
  'duration': 'PT2H2M',
  'genre': ['Animation', 'Drama', 'Sci-Fi'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjE5MTUzNDk3M15BMl5BanBnXkFtZTgwMTUwNTQ5MTE@._V1_.jpg',
- 'keywords': 'satire,dystopia,cinema,tom cruise character,barcode license '
-             'plate',
+ 'keywords': 'female protagonist,satire,dystopia,cinema,tom cruise character',
  'name': 'The Congress',
  'trailer': [{'@type': 'VideoObject',
               'description': 'An aging, out-of-work actress accepts one last '

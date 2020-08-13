@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Fallout-3',
  'EntryURL': 'https://rawg.io/games/fallout-3',
  'Entry_json': 'Favorites/Games/snapshot/Fallout-3/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Fallout-3/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Fallout-3/thumb.jpg',
- 'added': 3727,
+ 'added': 3928,
  'background_image': 'https://media.rawg.io/media/games/5a4/5a4e70bb8a862829dbaa398aa5f66afc.jpg',
  'description': '<p>Fallout 3 is a legendary action RPG, which continues the '
                 'Fallout franchise. Players dive into the events held 36 years '

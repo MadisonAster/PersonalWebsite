@@ -1,11 +1,11 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Super-Smash-Bros-Melee-2001',
  'EntryURL': 'https://rawg.io/games/super-smash-bros-melee-2001',
  'Entry_json': 'Favorites/Games/snapshot/Super-Smash-Bros-Melee-2001/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Super-Smash-Bros-Melee-2001/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Super-Smash-Bros-Melee-2001/thumb.jpg',
- 'added': 351,
- 'background_image': 'https://media.rawg.io/media/screenshots/2d5/2d51296133a91f1e5ef9eec5aa029fd8.jpg',
+ 'added': 386,
+ 'background_image': 'https://media.rawg.io/media/screenshots/aca/aca41ca815f7625e4ae0456727227697.jpg',
  'description': '<p>Super Smash Bros. Melee is a crossover fighting video game '
                 'developed by HAL Laboratory and published by Nintendo for the '
                 'GameCube video game console. It is the second game in the '

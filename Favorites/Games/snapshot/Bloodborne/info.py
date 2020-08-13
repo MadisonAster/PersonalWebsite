@@ -1,11 +1,11 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Bloodborne',
  'EntryURL': 'https://rawg.io/games/bloodborne',
  'Entry_json': 'Favorites/Games/snapshot/Bloodborne/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Bloodborne/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Bloodborne/thumb.jpg',
- 'added': 5203,
- 'background_image': 'https://media.rawg.io/media/games/238/238ff9c62fcc94f152a7d4b612907c43.jpg',
+ 'added': 5463,
+ 'background_image': 'https://media.rawg.io/media/games/214/214b29aeff13a0ae6a70fc4426e85991.jpg',
  'description': '<p>Bloodborne is an action-RPG and another member of '
                 'souls-like title series. The game has no predecessors or '
                 'successors, making it the only entry with one add-on: “The '

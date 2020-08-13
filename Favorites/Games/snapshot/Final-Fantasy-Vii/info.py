@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Final-Fantasy-Vii',
  'EntryURL': 'https://rawg.io/games/final-fantasy-vii',
  'Entry_json': 'Favorites/Games/snapshot/Final-Fantasy-Vii/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Final-Fantasy-Vii/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Final-Fantasy-Vii/thumb.jpg',
- 'added': 2147,
+ 'added': 2274,
  'background_image': 'https://media.rawg.io/media/games/6c0/6c00ee85d1344f58c469e8e47fd8ae7c.jpg',
  'description': '<p>Final Fantasy VII is a Japanese role-playing game, a '
                 'seventh installment in the series, excluding spin-offs. The '

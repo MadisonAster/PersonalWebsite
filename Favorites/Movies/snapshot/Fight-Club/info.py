@@ -16,7 +16,7 @@
             'url': '/name/nm0340260/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 1786841,
+                      'ratingCount': 1800140,
                       'ratingValue': '8.8',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
@@ -42,8 +42,8 @@
  'duration': 'PT2H19M',
  'genre': 'Drama',
  'image': 'https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg',
- 'keywords': 'surprise ending,fighting,anti establishment,insomnia,multiple '
-             'personality disorder',
+ 'keywords': 'surprise ending,fighting,anti establishment,multiple personality '
+             'disorder,insomnia',
  'name': 'Fight Club',
  'trailer': [{'@type': 'VideoObject',
               'description': 'Trailer for Fight Club',

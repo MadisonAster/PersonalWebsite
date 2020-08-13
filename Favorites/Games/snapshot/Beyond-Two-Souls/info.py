@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Beyond-Two-Souls',
  'EntryURL': 'https://rawg.io/games/beyond-two-souls',
  'Entry_json': 'Favorites/Games/snapshot/Beyond-Two-Souls/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Beyond-Two-Souls/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Beyond-Two-Souls/thumb.jpg',
- 'added': 3362,
+ 'added': 3568,
  'background_image': 'https://media.rawg.io/media/games/aec/aecba5e6cf8713b3864a280efa110c0a.jpg',
  'description': '<p>This game is often called an &quot;interactive film&quot; '
                 '- because the proportion between the given story and the '

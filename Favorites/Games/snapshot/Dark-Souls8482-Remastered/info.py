@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Dark-Souls8482-Remastered',
  'EntryURL': 'https://rawg.io/games/dark-souls8482-remastered',
  'Entry_json': 'Favorites/Games/snapshot/Dark-Souls8482-Remastered/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Dark-Souls8482-Remastered/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Dark-Souls8482-Remastered/thumb.jpg',
- 'added': 2225,
+ 'added': 2425,
  'background_image': 'https://media.rawg.io/media/games/29c/29c6c21cc0c78cff6f45d23631cc82f4.jpg',
  'description': '<p>Then, there was fire. Re-experience the critically '
                 'acclaimed, genre-defining game that started it all. '

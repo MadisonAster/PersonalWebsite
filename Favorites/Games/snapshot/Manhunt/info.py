@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Manhunt',
  'EntryURL': 'https://rawg.io/games/manhunt',
  'Entry_json': 'Favorites/Games/snapshot/Manhunt/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Manhunt/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Manhunt/thumb.jpg',
- 'added': 1046,
+ 'added': 1096,
  'background_image': 'https://media.rawg.io/media/games/c23/c23b578d6a9dd1c73ee403157184e793.jpg',
  'description': '<p>Manhunt is a third-person stealth-action game developed by '
                 'Rockstar Games. The game caused a lot of controversy for its '

@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Gran-Turismo',
  'EntryURL': 'https://rawg.io/games/gran-turismo',
  'Entry_json': 'Favorites/Games/snapshot/Gran-Turismo/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Gran-Turismo/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Gran-Turismo/thumb.jpg',
- 'added': 105,
+ 'added': 122,
  'background_image': 'https://media.rawg.io/media/screenshots/bcb/bcb977460712c1ac2c2026d30699130a.jpg',
  'description': '<p>Gran Turismo is a sim racing video game designed by '
                 'Kazunori Yamauchi. Gran Turismo was developed by Polys '

@@ -16,7 +16,7 @@
             'url': '/name/nm1119886/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 42758,
+                      'ratingCount': 42933,
                       'ratingValue': '6.2',
                       'worstRating': '1.0'}],
  'contentRating': 'PG-13',

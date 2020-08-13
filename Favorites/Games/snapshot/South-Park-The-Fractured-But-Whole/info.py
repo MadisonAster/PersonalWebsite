@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/South-Park-The-Fractured-But-Whole',
  'EntryURL': 'https://rawg.io/games/south-park-the-fractured-but-whole',
  'Entry_json': 'Favorites/Games/snapshot/South-Park-The-Fractured-But-Whole/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/South-Park-The-Fractured-But-Whole/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/South-Park-The-Fractured-But-Whole/thumb.jpg',
- 'added': 1900,
+ 'added': 2010,
  'background_image': 'https://media.rawg.io/media/games/63c/63cb04333dea1726e90b38dc3d10258f.jpg',
  'description': '<h3>Worthy ancestor</h3>\n'
                 '<p>The second part in a series of jRPG-like games in the '

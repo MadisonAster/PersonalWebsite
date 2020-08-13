@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Final-Fantasy-X-2',
  'EntryURL': 'https://rawg.io/games/final-fantasy-x-2',
  'Entry_json': 'Favorites/Games/snapshot/Final-Fantasy-X-2/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Final-Fantasy-X-2/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Final-Fantasy-X-2/thumb.jpg',
- 'added': 114,
+ 'added': 132,
  'background_image': 'https://media.rawg.io/media/screenshots/f13/f13d40a85a2e75d8306760f831a8d835.jpg',
  'description': '<p>A role-playing video game developed and published by '
                 'Square for the PlayStation 2, as the direct sequel to Final '

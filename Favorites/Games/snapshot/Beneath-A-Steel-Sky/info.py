@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Beneath-A-Steel-Sky',
  'EntryURL': 'https://rawg.io/games/beneath-a-steel-sky',
  'Entry_json': 'Favorites/Games/snapshot/Beneath-A-Steel-Sky/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Beneath-A-Steel-Sky/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Beneath-A-Steel-Sky/thumb.jpg',
- 'added': 1112,
+ 'added': 1229,
  'background_image': 'https://media.rawg.io/media/screenshots/f6b/f6b3338889ec877c9d3d89fc4f665152.jpg',
  'description': 'Robert Foster is an innocent outsider stranded in a vast city '
                 'where oppressed civilians live and work in soaring tower '

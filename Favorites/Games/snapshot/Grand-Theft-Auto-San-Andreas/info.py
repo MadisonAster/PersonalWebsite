@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Grand-Theft-Auto-San-Andreas',
  'EntryURL': 'https://rawg.io/games/grand-theft-auto-san-andreas',
  'Entry_json': 'Favorites/Games/snapshot/Grand-Theft-Auto-San-Andreas/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Grand-Theft-Auto-San-Andreas/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Grand-Theft-Auto-San-Andreas/thumb.jpg',
- 'added': 5798,
+ 'added': 6134,
  'background_image': 'https://media.rawg.io/media/games/1bb/1bb86c35ffa3eb0d299b01a7c65bf908.jpg',
  'description': '<p>Grand Theft Auto - San Andreas is the seventh entry in the '
                 'series in the GTA franchise, but only second big title after '

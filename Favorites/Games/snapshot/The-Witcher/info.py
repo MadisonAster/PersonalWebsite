@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/The-Witcher',
  'EntryURL': 'https://rawg.io/games/the-witcher',
  'Entry_json': 'Favorites/Games/snapshot/The-Witcher/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/The-Witcher/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/The-Witcher/thumb.jpg',
- 'added': 287,
+ 'added': 317,
  'background_image': 'https://media.rawg.io/media/screenshots/eb2/eb2ada1b5e1701c56b1556071d78bcba.jpg',
  'description': 'The Witcher is the very first instalment of the series that '
                 'follows the story of Geralt from Rivia. Being found '

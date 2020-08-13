@@ -16,7 +16,7 @@
             'url': '/name/nm0663177/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 131880,
+                      'ratingCount': 132926,
                       'ratingValue': '8.6',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
@@ -38,13 +38,12 @@
              'agent,fictional spy agency',
  'name': 'Archer',
  'trailer': [{'@type': 'VideoObject',
-              'description': 'Brace for the thrust. Watch the official trailer '
-                             'for "Archer: 1999," which premieres Wednesday, '
-                             'May 29, on FXX.',
-              'embedUrl': '/video/imdb/vi1934671129',
-              'name': 'Season 10 Official Trailer',
+              'description': 'Archer is awake....and he needs a drink. The new '
+                             'season of "Archer" premieres September 16, 2020.',
+              'embedUrl': '/video/imdb/vi3380264473',
+              'name': 'Season 11 Trailer',
               'thumbnail': {'@type': 'ImageObject',
-                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZDQ0ODQyMmYtYzdkNC00NDNlLWIwNjUtYWI1MTI0NWY2OWM2XkEyXkFqcGdeQWZlZGVyaWdh._V1_.jpg'},
-              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZDQ0ODQyMmYtYzdkNC00NDNlLWIwNjUtYWI1MTI0NWY2OWM2XkEyXkFqcGdeQWZlZGVyaWdh._V1_.jpg',
-              'uploadDate': '2019-04-16T13:53:54Z'}],
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BYTNhMDE0OWYtNzg0YS00ODZjLTljYjktY2NlZmQ3YWIyNjBhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BYTNhMDE0OWYtNzg0YS00ODZjLTljYjktY2NlZmQ3YWIyNjBhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
+              'uploadDate': '2020-07-25T04:12:50Z'}],
  'url': '/title/tt1486217/'}

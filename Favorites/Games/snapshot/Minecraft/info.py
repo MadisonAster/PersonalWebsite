@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Minecraft',
  'EntryURL': 'https://rawg.io/games/minecraft',
  'Entry_json': 'Favorites/Games/snapshot/Minecraft/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Minecraft/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Minecraft/thumb.jpg',
- 'added': 2900,
+ 'added': 3139,
  'background_image': 'https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg',
  'description': '<p>One of the most popular games of the 2010s, Minecraft '
                 'allows you to rebuild the environment around you. The world '

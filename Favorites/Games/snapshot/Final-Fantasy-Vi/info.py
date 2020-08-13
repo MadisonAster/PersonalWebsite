@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Final-Fantasy-Vi',
  'EntryURL': 'https://rawg.io/games/final-fantasy-vi',
  'Entry_json': 'Favorites/Games/snapshot/Final-Fantasy-Vi/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Final-Fantasy-Vi/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Final-Fantasy-Vi/thumb.jpg',
- 'added': 643,
+ 'added': 698,
  'background_image': 'https://media.rawg.io/media/games/98c/98c87b286cd2a2ba942167df384a9bd3.jpg',
  'description': '<p>FINAL FANTASY VI first debuted in 1994 as the sixth '
                 'instalment in the iconic FINAL FANTASY series. Innovations '

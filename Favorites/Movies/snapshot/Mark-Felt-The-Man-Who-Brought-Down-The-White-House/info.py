@@ -18,7 +18,7 @@
             'url': '/name/nm0001282/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 11138,
+                      'ratingCount': 11327,
                       'ratingValue': '6.4',
                       'worstRating': '1.0'}],
  'contentRating': 'PG-13',
@@ -49,8 +49,8 @@
  'duration': 'PT1H43M',
  'genre': ['Biography', 'Drama', 'History', 'Thriller'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjQzMDEwMjMyNF5BMl5BanBnXkFtZTgwNjA1NTA1MzI@._V1_.jpg',
- 'keywords': 'whistleblower,father daughter relationship,mother daughter '
-             'relationship,hippie,commune',
+ 'keywords': 'washington post,whistleblower,father daughter '
+             'relationship,mother daughter relationship,hippie',
  'name': 'Mark Felt: The Man Who Brought Down the White House',
  'trailer': [{'@type': 'VideoObject',
               'description': 'The story of Mark Felt, who under the name "Deep '

@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Doom-Ii',
  'EntryURL': 'https://rawg.io/games/doom-ii',
  'Entry_json': 'Favorites/Games/snapshot/Doom-Ii/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Doom-Ii/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Doom-Ii/thumb.jpg',
- 'added': 1582,
+ 'added': 1679,
  'background_image': 'https://media.rawg.io/media/games/38a/38af969459ad6e5de116ec8a4a84218c.jpg',
  'description': '<p>The game from the legendary programmers John Carmack and '
                 'John Romero, who worked together with American McGee, on the '

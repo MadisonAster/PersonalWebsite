@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/The-Manhole-Masterpiece-Edition',
  'EntryURL': 'https://rawg.io/games/the-manhole-masterpiece-edition',
  'Entry_json': 'Favorites/Games/snapshot/The-Manhole-Masterpiece-Edition/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/The-Manhole-Masterpiece-Edition/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/The-Manhole-Masterpiece-Edition/thumb.jpg',
- 'added': 106,
+ 'added': 112,
  'background_image': 'https://media.rawg.io/media/screenshots/df6/df63d242841ec69d1581efe09c1fb6e0.jpg',
  'description': '<p>In 1988 you met <strong>Mr. Rabbit</strong> and a host of '
                 'his friends in the World of the Manhole. Your friends are '

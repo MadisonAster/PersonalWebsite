@@ -20,7 +20,7 @@
             'url': '/name/nm0829440/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 590,
+                      'ratingCount': 607,
                       'ratingValue': '8.6',
                       'worstRating': '1.0'}],
  'creator': [{'@type': 'Organization', 'url': '/company/co0274645/'},

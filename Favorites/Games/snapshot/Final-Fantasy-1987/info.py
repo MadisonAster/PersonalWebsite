@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Final-Fantasy-1987',
  'EntryURL': 'https://rawg.io/games/final-fantasy-1987',
  'Entry_json': 'Favorites/Games/snapshot/Final-Fantasy-1987/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Final-Fantasy-1987/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Final-Fantasy-1987/thumb.jpg',
- 'added': 139,
+ 'added': 155,
  'background_image': 'https://media.rawg.io/media/screenshots/656/6566c32aebb7b23af0573091132c2f2c.jpg',
  'description': '<p>Final Fantasy is a fantasy role-playing video game '
                 'developed and published by Square in 1987. It is the first '

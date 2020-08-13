@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Colony-Wars-Red-Sun',
  'EntryURL': 'https://rawg.io/games/colony-wars-red-sun',
  'Entry_json': 'Favorites/Games/snapshot/Colony-Wars-Red-Sun/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Colony-Wars-Red-Sun/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Colony-Wars-Red-Sun/thumb.jpg',
- 'added': 6,
+ 'added': 7,
  'background_image': 'https://media.rawg.io/media/screenshots/b72/b7214fbd313f1e70e1ff6fb86b32fb9c.jpg',
  'description': '<p>Colony Wars: Red Sun (called Colony Wars III: Red Sun in '
                 'North America) is a space combat simulator video game for the '

@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Mirrors-Edge-Catalyst',
  'EntryURL': 'https://rawg.io/games/mirrors-edge-catalyst',
  'Entry_json': 'Favorites/Games/snapshot/Mirrors-Edge-Catalyst/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Mirrors-Edge-Catalyst/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Mirrors-Edge-Catalyst/thumb.jpg',
- 'added': 1411,
+ 'added': 1576,
  'background_image': 'https://media.rawg.io/media/games/257/257c497aa4060f4a697ccbf5e99ec230.jpg',
  'description': '<p>Mirror&#39;s Edge Catalyst is the second part in the '
                 'Mirror&#39;s Edge series. Like its predecessor, it is based '
@@ -37,9 +37,9 @@
                 'something important. The game is accompanied by the cold, '
                 'atmospheric electronic soundtrack by Solar Fields.</p>',
  'developers': ['Electronic Arts'],
- 'genres': ['Action'],
+ 'genres': ['Action', 'Platformer'],
  'name': "Mirror's Edge Catalyst",
- 'platforms': ['Xbox One', 'PlayStation 4', 'PC'],
+ 'platforms': ['PlayStation 4', 'PC', 'Xbox One'],
  'publishers': ['Electronic Arts'],
  'released': '2016-06-07',
  'slug': 'mirrors-edge-catalyst'}

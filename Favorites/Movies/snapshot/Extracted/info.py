@@ -18,7 +18,7 @@
             'url': '/name/nm0726223/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 11280,
+                      'ratingCount': 11310,
                       'ratingValue': '6.5',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
@@ -46,7 +46,7 @@
  'duration': 'PT1H25M',
  'genre': ['Drama', 'Sci-Fi'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTQ3MzExNjczOF5BMl5BanBnXkFtZTcwMTE3Mjg4OQ@@._V1_.jpg',
- 'keywords': 'bumming a cigarette,murder,scientist,memory,sousveillance',
+ 'keywords': 'bumming a cigarette,woman wears a bikini,murder,scientist,memory',
  'name': 'Extracted',
  'trailer': [{'@type': 'VideoObject',
               'description': 'A scientist invents a technique to enter '

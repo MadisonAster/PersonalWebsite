@@ -18,7 +18,7 @@
             'url': '/name/nm0625664/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 12979,
+                      'ratingCount': 13144,
                       'ratingValue': '7.9',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-14',
@@ -31,6 +31,6 @@
                 'intentions and prepare to resist.',
  'genre': ['Action', 'Adventure', 'Sci-Fi'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjM1Mzk1NjQyM15BMl5BanBnXkFtZTgwNjY2NDI1MDE@._V1_.jpg',
- 'keywords': '1980s,tv mini series,alien,resistance,reptilian',
+ 'keywords': 'tv mini series,1980s,alien,resistance,reptilian',
  'name': 'V',
  'url': '/title/tt0085106/'}

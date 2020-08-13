@@ -18,7 +18,7 @@
             'url': '/name/nm9716640/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 21444,
+                      'ratingCount': 22230,
                       'ratingValue': '8.2',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',

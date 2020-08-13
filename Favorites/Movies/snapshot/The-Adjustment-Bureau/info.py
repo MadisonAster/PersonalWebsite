@@ -18,7 +18,7 @@
             'url': '/name/nm1505460/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 237113,
+                      'ratingCount': 239188,
                       'ratingValue': '7.0',
                       'worstRating': '1.0'}],
  'contentRating': 'PG-13',
@@ -43,7 +43,8 @@
  'duration': 'PT1H46M',
  'genre': ['Romance', 'Sci-Fi', 'Thriller'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMzc0ZDcwZTYtOWUzZi00NDE4LWI4NjgtMWVjZTUyYTA2ZTNhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg',
- 'keywords': 'fate,teleportation,love at first sight,destiny,alternate history',
+ 'keywords': 'fate,teleportation,love at first sight,free will,political '
+             'superpower',
  'name': 'The Adjustment Bureau',
  'trailer': [{'@type': 'VideoObject',
               'description': 'The Adjustment Bureau -- Super Bowl Spot',

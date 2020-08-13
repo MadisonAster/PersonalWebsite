@@ -11,7 +11,7 @@
             'url': '/name/nm0785227/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 59,
+                      'ratingCount': 61,
                       'ratingValue': '8.5',
                       'worstRating': '1.0'}],
  'datePublished': '2011-08-10',

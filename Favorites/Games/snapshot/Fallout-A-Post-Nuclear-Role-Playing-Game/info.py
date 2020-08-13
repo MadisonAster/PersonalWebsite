@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Fallout-A-Post-Nuclear-Role-Playing-Game',
  'EntryURL': 'https://rawg.io/games/fallout-a-post-nuclear-role-playing-game',
  'Entry_json': 'Favorites/Games/snapshot/Fallout-A-Post-Nuclear-Role-Playing-Game/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Fallout-A-Post-Nuclear-Role-Playing-Game/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Fallout-A-Post-Nuclear-Role-Playing-Game/thumb.jpg',
- 'added': 4804,
+ 'added': 4976,
  'background_image': 'https://media.rawg.io/media/games/14a/14a83c56ff668baaced6e8c8704b6391.jpg',
  'description': '<p>Fallout franchise started in a very different way than we '
                 'all know it by this day. As Bethesda started to develop '

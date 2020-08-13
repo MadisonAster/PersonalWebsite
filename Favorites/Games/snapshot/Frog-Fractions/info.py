@@ -1,4 +1,4 @@
-{'EntryAdded': '06-24-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Frog-Fractions',
  'EntryURL': 'https://rawg.io/games/frog-fractions',
  'Entry_json': 'Favorites/Games/snapshot/Frog-Fractions/entry.json',

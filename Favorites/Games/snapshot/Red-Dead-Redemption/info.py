@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Red-Dead-Redemption',
  'EntryURL': 'https://rawg.io/games/red-dead-redemption',
  'Entry_json': 'Favorites/Games/snapshot/Red-Dead-Redemption/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Red-Dead-Redemption/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Red-Dead-Redemption/thumb.jpg',
- 'added': 4573,
+ 'added': 4780,
  'background_image': 'https://media.rawg.io/media/games/686/686909717c3aa01518bc42ae2bf4259e.jpg',
  'description': '<p>Red Dead Redemption is a third-person open-world adventure '
                 'game which implements the Wild West at its best: it is very '

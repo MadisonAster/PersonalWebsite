@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Grand-Theft-Auto-Vice-City',
  'EntryURL': 'https://rawg.io/games/grand-theft-auto-vice-city',
  'Entry_json': 'Favorites/Games/snapshot/Grand-Theft-Auto-Vice-City/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Grand-Theft-Auto-Vice-City/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Grand-Theft-Auto-Vice-City/thumb.jpg',
- 'added': 5023,
+ 'added': 5278,
  'background_image': 'https://media.rawg.io/media/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg',
  'description': '<p>Grand Theft Auto: Vice City is a third-person shooter with '
                 'an open world. The game is set in a fictional city during the '
@@ -29,7 +29,7 @@
                 'time. The gameplay, however, bears little difference from its '
                 'predecessor, continuing the trend of big guns, explosions, '
                 'and cop chases.</p>',
- 'developers': ['Rockstar North', 'War Drum Studios', 'Rockstar Vienna'],
+ 'developers': ['Rockstar North'],
  'genres': ['Action', 'Adventure'],
  'name': 'Grand Theft Auto: Vice City',
  'platforms': ['Android',

@@ -11,7 +11,7 @@
             'url': '/name/nm4129581/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 243,
+                      'ratingCount': 249,
                       'ratingValue': '7.2',
                       'worstRating': '1.0'}],
  'creator': [{'@type': 'Organization', 'url': '/company/co0035637/'}],

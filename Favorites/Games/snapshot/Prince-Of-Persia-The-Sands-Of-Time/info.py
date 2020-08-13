@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Prince-Of-Persia-The-Sands-Of-Time',
  'EntryURL': 'https://rawg.io/games/prince-of-persia-the-sands-of-time',
  'Entry_json': 'Favorites/Games/snapshot/Prince-Of-Persia-The-Sands-Of-Time/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Prince-Of-Persia-The-Sands-Of-Time/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Prince-Of-Persia-The-Sands-Of-Time/thumb.jpg',
- 'added': 1614,
+ 'added': 1693,
  'background_image': 'https://media.rawg.io/media/games/99b/99b39612e864d6ddfdb2c407fd9010a1.jpg',
  'description': '<p>Prince of Persia: The Sands of Time is an action game with '
                 'platforming and puzzle solving elements. You take on the role '

@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Demons-Souls',
  'EntryURL': 'https://rawg.io/games/demons-souls',
  'Entry_json': 'Favorites/Games/snapshot/Demons-Souls/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Demons-Souls/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Demons-Souls/thumb.jpg',
- 'added': 1404,
+ 'added': 1473,
  'background_image': 'https://media.rawg.io/media/games/ac3/ac3a89bfbda76082402e42b933c5825a.jpg',
  'description': '<p>Demon’s Souls is an action RPG, the first installment in '
                 'the Souls series, known mostly because of the Dark Souls '

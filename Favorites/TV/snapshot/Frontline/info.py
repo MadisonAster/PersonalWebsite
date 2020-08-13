@@ -16,7 +16,7 @@
             'url': '/name/nm6640272/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 1518,
+                      'ratingCount': 1541,
                       'ratingValue': '8.5',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',

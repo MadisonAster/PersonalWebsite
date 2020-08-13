@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/The-Witcher-3-Wild-Hunt',
  'EntryURL': 'https://rawg.io/games/the-witcher-3-wild-hunt',
  'Entry_json': 'Favorites/Games/snapshot/The-Witcher-3-Wild-Hunt/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/The-Witcher-3-Wild-Hunt/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/The-Witcher-3-Wild-Hunt/thumb.jpg',
- 'added': 10199,
+ 'added': 10751,
  'background_image': 'https://media.rawg.io/media/games/088/088b41ca3f9d22163e43be07acf42304.jpg',
  'description': '<p>The third game in a series, it holds nothing back from the '
                 'player. Open world adventures of the renowned monster slayer '

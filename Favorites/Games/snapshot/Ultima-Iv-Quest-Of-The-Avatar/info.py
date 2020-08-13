@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Ultima-Iv-Quest-Of-The-Avatar',
  'EntryURL': 'https://rawg.io/games/ultima-iv-quest-of-the-avatar',
  'Entry_json': 'Favorites/Games/snapshot/Ultima-Iv-Quest-Of-The-Avatar/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Ultima-Iv-Quest-Of-The-Avatar/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Ultima-Iv-Quest-Of-The-Avatar/thumb.jpg',
- 'added': 993,
+ 'added': 1083,
  'background_image': 'https://media.rawg.io/media/screenshots/773/7730495e8fc0fe7e1e747cb9449399ac.jpeg',
  'description': '<p>Ultima IV: Quest of the Avatar, first released in 1985 for '
                 'the Apple II, is the fourth in the series of Ultima '

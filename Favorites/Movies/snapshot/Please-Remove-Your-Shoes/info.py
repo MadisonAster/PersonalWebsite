@@ -18,7 +18,7 @@
             'url': '/name/nm5769124/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 155,
+                      'ratingCount': 154,
                       'ratingValue': '6.6',
                       'worstRating': '1.0'}],
  'creator': [{'@type': 'Person',

@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Super-Mario-Bros',
  'EntryURL': 'https://rawg.io/games/super-mario-bros',
  'Entry_json': 'Favorites/Games/snapshot/Super-Mario-Bros/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Super-Mario-Bros/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Super-Mario-Bros/thumb.jpg',
- 'added': 688,
+ 'added': 755,
  'background_image': 'https://media.rawg.io/media/games/154/154fea9689109f26c49c6a2db6263ef9.jpg',
  'description': '<p>Mario and Luigi star in their first ever Mushroom Kingdom '
                 'adventure! Find out why Super Mario Bros. is instantly '

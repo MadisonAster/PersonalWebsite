@@ -18,7 +18,7 @@
             'url': '/name/nm0551065/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 320070,
+                      'ratingCount': 322035,
                       'ratingValue': '8.7',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
@@ -42,8 +42,8 @@
                 'Park, Colorado.',
  'genre': ['Animation', 'Comedy'],
  'image': 'https://m.media-amazon.com/images/M/MV5BOGE2YWUzMDItNTg2Ny00NTUzLTlmZGYtNWMyNzVjMjQ3MThkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg',
- 'keywords': 'elementary school,colorado,religious humor,political '
-             'humor,profanity',
+ 'keywords': 'elementary school,colorado,profanity,religious '
+             'humor,dysfunctional school',
  'name': 'South Park',
  'trailer': [{'@type': 'VideoObject',
               'description': 'Teaser trailer for Season 19 of South Park on '

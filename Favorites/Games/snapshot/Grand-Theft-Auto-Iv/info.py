@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Grand-Theft-Auto-Iv',
  'EntryURL': 'https://rawg.io/games/grand-theft-auto-iv',
  'Entry_json': 'Favorites/Games/snapshot/Grand-Theft-Auto-Iv/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Grand-Theft-Auto-Iv/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Grand-Theft-Auto-Iv/thumb.jpg',
- 'added': 7234,
+ 'added': 7560,
  'background_image': 'https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg',
  'description': '<p>Every crime story is a story of a search for success. The '
                 'player will become Niko Bellic, immigrant arriving at the '

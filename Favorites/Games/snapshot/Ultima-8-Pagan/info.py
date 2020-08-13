@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Ultima-8-Pagan',
  'EntryURL': 'https://rawg.io/games/ultima-8-pagan',
  'Entry_json': 'Favorites/Games/snapshot/Ultima-8-Pagan/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Ultima-8-Pagan/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Ultima-8-Pagan/thumb.jpg',
- 'added': 53,
+ 'added': 55,
  'background_image': 'https://media.rawg.io/media/screenshots/c78/c7851aa3b3e7c60f56f675684ba11c3e.jpg',
  'description': '<p>Ultima VIII: Pagan is a RPG game developed by Origin '
                 'Systems. It was originally released in 1994. It was published '

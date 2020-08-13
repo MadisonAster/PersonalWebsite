@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Tony-Hawks-Pro-Skater-2',
  'EntryURL': 'https://rawg.io/games/tony-hawks-pro-skater-2',
  'Entry_json': 'Favorites/Games/snapshot/Tony-Hawks-Pro-Skater-2/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Tony-Hawks-Pro-Skater-2/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Tony-Hawks-Pro-Skater-2/thumb.jpg',
- 'added': 333,
+ 'added': 361,
  'background_image': 'https://media.rawg.io/media/screenshots/c21/c2123c3dea40946f705a54772ed6238b.jpg',
  'description': '<p>Tony Hawk&#39;s Pro Skater 2 is the second entry in the '
                 'well known skateboarding game made famous by world skateboard '

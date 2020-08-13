@@ -18,7 +18,7 @@
             'url': '/name/nm1913734/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 514695,
+                      'ratingCount': 520886,
                       'ratingValue': '8.0',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
@@ -38,8 +38,7 @@
  'genre': ['Drama', 'Romance', 'Sci-Fi'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_.jpg',
  'keywords': 'loneliness,romance with artificial '
-             'intelligence,future,artificial intelligence,relationship '
-             'problems',
+             'intelligence,divorce,future,artificial intelligence',
  'name': 'Her',
  'trailer': [{'@type': 'VideoObject',
               'description': 'A lonely writer develops an unlikely '

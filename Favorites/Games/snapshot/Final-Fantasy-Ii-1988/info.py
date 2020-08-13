@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Final-Fantasy-Ii-1988',
  'EntryURL': 'https://rawg.io/games/final-fantasy-ii-1988',
  'Entry_json': 'Favorites/Games/snapshot/Final-Fantasy-Ii-1988/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Final-Fantasy-Ii-1988/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Final-Fantasy-Ii-1988/thumb.jpg',
- 'added': 91,
+ 'added': 103,
  'background_image': 'https://media.rawg.io/media/games/f29/f29af1b9d00800b26af2a6fda55aa3b9.jpg',
  'description': '<p>Final Fantasy II is a fantasy role-playing video game '
                 'developed and published by Square (now Square Enix) in 1988 '

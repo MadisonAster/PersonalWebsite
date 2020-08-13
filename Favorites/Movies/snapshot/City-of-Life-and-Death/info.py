@@ -16,7 +16,7 @@
             'url': '/name/nm0304729/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 10082,
+                      'ratingCount': 10170,
                       'ratingValue': '7.7',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
@@ -37,8 +37,8 @@
  'duration': 'PT2H13M',
  'genre': ['Drama', 'History', 'War'],
  'image': 'https://m.media-amazon.com/images/M/MV5BY2U3YTAwMjQtMmIzNC00MmI0LTliOWEtYTYwMDc1NmU1Mzc3XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg',
- 'keywords': 'chinese history,japanese occupation of '
-             'china,atrocity,battle,chinese',
+ 'keywords': 'chinese history,japanese occupation of china,japanese '
+             'occupation,japanese flag,chinese army',
  'name': 'Nanjing! Nanjing!',
  'trailer': [{'@type': 'VideoObject',
               'description': 'A dramatization of the rape of Nanking in 1937.',

@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Papers-Please',
  'EntryURL': 'https://rawg.io/games/papers-please',
  'Entry_json': 'Favorites/Games/snapshot/Papers-Please/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Papers-Please/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Papers-Please/thumb.jpg',
- 'added': 3666,
+ 'added': 3887,
  'background_image': 'https://media.rawg.io/media/games/6d3/6d33014a4ed48a19c30a77ead5a0f62e.jpg',
  'description': '<p>The creator of the game often travelled through Asia and '
                 'made the observation that the work of an immigration officer '

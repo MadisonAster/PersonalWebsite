@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Ecco-The-Dolphin-1992',
  'EntryURL': 'https://rawg.io/games/ecco-the-dolphin-1992',
  'Entry_json': 'Favorites/Games/snapshot/Ecco-The-Dolphin-1992/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Ecco-The-Dolphin-1992/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Ecco-The-Dolphin-1992/thumb.jpg',
- 'added': 81,
+ 'added': 93,
  'background_image': 'https://media.rawg.io/media/screenshots/64a/64af1ca2f537454750e658de96422e2f.jpg',
  'description': '<p>Ecco the Dolphin is an action-adventure game originally '
                 'developed by Ed Annunziata and Novotrade International for '

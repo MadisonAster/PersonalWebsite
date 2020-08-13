@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Oddworld-Abes-Exoddus',
  'EntryURL': 'https://rawg.io/games/oddworld-abes-exoddus',
  'Entry_json': 'Favorites/Games/snapshot/Oddworld-Abes-Exoddus/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Oddworld-Abes-Exoddus/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Oddworld-Abes-Exoddus/thumb.jpg',
- 'added': 891,
+ 'added': 921,
  'background_image': 'https://media.rawg.io/media/screenshots/ba5/ba5f0dd05f44cc48c918683764e3a125.jpg',
  'description': '<p>Oddworld: Abe&#39;s Exoddus is a spin-off installment of '
                 'the Oddworld game series. It is a direct sequel to the '

@@ -18,7 +18,7 @@
             'url': '/name/nm0005171/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 933568,
+                      'ratingCount': 938967,
                       'ratingValue': '8.3',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
@@ -31,16 +31,16 @@
              {'@type': 'Organization', 'url': '/company/co0073417/'}],
  'datePublished': '1995-05-24',
  'description': 'Braveheart is a movie starring Mel Gibson, Sophie Marceau, '
-                'and Patrick McGoohan. When his secret bride is executed for '
-                'assaulting an English soldier who tried to rape her, William '
-                'Wallace begins a revolt against King Edward I of...',
+                'and Patrick McGoohan. Scottish warrior William Wallace leads '
+                'his countrymen in a rebellion to free his homeland from the '
+                'tyranny of King Edward I of England.',
  'director': [{'@type': 'Person',
                'name': 'Mel Gibson',
                'url': '/name/nm0000154/'}],
  'duration': 'PT2H58M',
  'genre': ['Biography', 'Drama', 'History', 'War'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg',
- 'keywords': 'scotland,revolt,england,legend,idealism',
+ 'keywords': 'scotland,revolt,based on true story,england,legend',
  'name': 'Braveheart',
  'trailer': [{'@type': 'VideoObject',
               'embedUrl': '/video/imdb/vi2874063641',

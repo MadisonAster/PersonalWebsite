@@ -18,7 +18,7 @@
             'url': '/name/nm5747282/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 60000,
+                      'ratingCount': 60483,
                       'ratingValue': '8.1',
                       'worstRating': '1.0'}],
  'contentRating': 'PG-13',
@@ -33,7 +33,7 @@
               'url': '/name/nm6041096/'},
              {'@type': 'Organization', 'url': '/company/co0397226/'},
              {'@type': 'Organization', 'url': '/company/co0436711/'}],
- 'datePublished': '2013-10-18',
+ 'datePublished': '2013-07-26',
  'description': 'Blackfish is a movie starring Tilikum, Dave Duffus, and '
                 'Samantha Berg. A documentary following the controversial '
                 'captivity of killer whales, and its dangers for both humans '

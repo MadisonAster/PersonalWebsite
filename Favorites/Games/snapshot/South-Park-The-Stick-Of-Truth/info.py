@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/South-Park-The-Stick-Of-Truth',
  'EntryURL': 'https://rawg.io/games/south-park-the-stick-of-truth',
  'Entry_json': 'Favorites/Games/snapshot/South-Park-The-Stick-Of-Truth/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/South-Park-The-Stick-Of-Truth/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/South-Park-The-Stick-Of-Truth/thumb.jpg',
- 'added': 3921,
+ 'added': 4100,
  'background_image': 'https://media.rawg.io/media/games/8ca/8ca40b562a755d6a0e30d48e6c74b178.jpg',
  'description': '<p>South Park: The Stick of Truth is an action RPG based on '
                 'the American animated series South Park. Players assume the '

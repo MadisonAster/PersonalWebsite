@@ -20,7 +20,7 @@
             'url': '/name/nm4156901/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 23649,
+                      'ratingCount': 24470,
                       'ratingValue': '6.1',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',

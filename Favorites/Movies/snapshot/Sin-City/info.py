@@ -18,11 +18,17 @@
             'url': '/name/nm0004695/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 730322,
+                      'ratingCount': 732199,
                       'ratingValue': '8.0',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Person',
+              'name': 'Frank Miller',
+              'url': '/name/nm0588340/'},
+             {'@type': 'Person',
+              'name': 'Robert Rodriguez',
+              'url': '/name/nm0001675/'},
+             {'@type': 'Person',
               'name': 'Frank Miller',
               'url': '/name/nm0588340/'},
              {'@type': 'Organization', 'url': '/company/co0019626/'},
@@ -30,8 +36,8 @@
  'datePublished': '2005-04-01',
  'description': 'Sin City is a movie starring Mickey Rourke, Clive Owen, and '
                 'Bruce Willis. A movie that explores the dark and miserable '
-                'town, Basin City, and tells the story of three different '
-                'people, all caught up in violent corruption.',
+                'town, Basin City, tells the story of three different people, '
+                'all caught up in violent corruption.',
  'director': [{'@type': 'Person',
                'name': 'Frank Miller',
                'url': '/name/nm0588340/'},

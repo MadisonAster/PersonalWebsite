@@ -20,7 +20,7 @@
             'url': '/name/nm1924196/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 178093,
+                      'ratingCount': 180136,
                       'ratingValue': '7.7',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-14',
@@ -38,8 +38,8 @@
                 'single men. Although they find her behavior very...',
  'genre': 'Comedy',
  'image': 'https://m.media-amazon.com/images/M/MV5BMjA0MDc1NTk0Ml5BMl5BanBnXkFtZTgwMTk2ODA5NDM@._V1_.jpg',
- 'keywords': 'female protagonist,apartment building,roommate,teacher,woman '
-             'wears eyeglasses',
+ 'keywords': 'apartment building,woman wears eyeglasses,babe,thin attractive '
+             'woman,loft',
  'name': 'New Girl',
  'trailer': [{'@type': 'VideoObject',
               'embedUrl': '/video/imdb/vi1436923417',

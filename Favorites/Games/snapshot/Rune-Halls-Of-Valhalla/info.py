@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Rune-Halls-Of-Valhalla',
  'EntryURL': 'https://rawg.io/games/rune-halls-of-valhalla',
  'Entry_json': 'Favorites/Games/snapshot/Rune-Halls-Of-Valhalla/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Rune-Halls-Of-Valhalla/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Rune-Halls-Of-Valhalla/thumb.jpg',
- 'added': 540,
+ 'added': 558,
  'background_image': 'https://media.rawg.io/media/screenshots/f83/f8324f17a0b08015911d878d881a0b71.jpg',
  'description': '<p>It was foretold that during Ragnarok, the gods would fall '
                 'and the nine realms would be consumed by frost and fire… but '

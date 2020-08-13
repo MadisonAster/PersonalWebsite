@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/The-Lost-Vikings',
  'EntryURL': 'https://rawg.io/games/the-lost-vikings',
  'Entry_json': 'Favorites/Games/snapshot/The-Lost-Vikings/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/The-Lost-Vikings/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/The-Lost-Vikings/thumb.jpg',
- 'added': 138,
+ 'added': 148,
  'background_image': 'https://media.rawg.io/media/screenshots/be7/be7d798ec269ef8cca2e7fea0ef0481d.jpg',
  'description': '<p>The Lost Vikings is a puzzle-platform video game developed '
                 'by Silicon &amp; Synapse (now Blizzard Entertainment) and '

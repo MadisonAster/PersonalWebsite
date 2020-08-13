@@ -18,7 +18,7 @@
             'url': '/name/nm2878323/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 45354,
+                      'ratingCount': 45919,
                       'ratingValue': '6.8',
                       'worstRating': '1.0'}],
  'contentRating': 'PG-13',

@@ -18,7 +18,7 @@
            {'@type': 'Person', 'name': 'Sam Adams', 'url': '/name/nm4291018/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 17534,
+                      'ratingCount': 17675,
                       'ratingValue': '7.8',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-14',

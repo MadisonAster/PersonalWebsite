@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Halo-Combat-Evolved',
  'EntryURL': 'https://rawg.io/games/halo-combat-evolved',
  'Entry_json': 'Favorites/Games/snapshot/Halo-Combat-Evolved/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Halo-Combat-Evolved/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Halo-Combat-Evolved/thumb.jpg',
- 'added': 371,
+ 'added': 413,
  'background_image': 'https://media.rawg.io/media/games/abf/abffd94ed6fe34027c720bee593c06d2.jpg',
  'description': '<p>GAME-PLAY ALERT: This game has been fully tested to '
                 'successfully play on your Xbox 360 console. However, in some '

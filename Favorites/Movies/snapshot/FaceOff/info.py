@@ -18,7 +18,7 @@
             'url': '/name/nm0005273/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 340382,
+                      'ratingCount': 342386,
                       'ratingValue': '7.3',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
@@ -44,8 +44,8 @@
  'duration': 'PT2H18M',
  'genre': ['Action', 'Crime', 'Sci-Fi', 'Thriller'],
  'image': 'https://m.media-amazon.com/images/M/MV5BYzFjNzIxMmEtMzY5NS00YTgzLTkwYWEtN2FjMmY0NmNkZWY3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg',
- 'keywords': 'face transplant,death of child,girl in panties,face ripped '
-             'off,severed face',
+ 'keywords': 'face transplant,child murder,death of child,girl in panties,face '
+             'ripped off',
  'name': 'Face/Off',
  'trailer': [{'@type': 'VideoObject',
               'description': 'Trailer',

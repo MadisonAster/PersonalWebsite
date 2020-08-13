@@ -20,7 +20,7 @@
             'url': '/name/nm0000609/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 79278,
+                      'ratingCount': 79437,
                       'ratingValue': '6.4',
                       'worstRating': '1.0'}],
  'contentRating': 'PG-13',

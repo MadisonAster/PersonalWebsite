@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Kingdom-Hearts',
  'EntryURL': 'https://rawg.io/games/kingdom-hearts',
  'Entry_json': 'Favorites/Games/snapshot/Kingdom-Hearts/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Kingdom-Hearts/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Kingdom-Hearts/thumb.jpg',
- 'added': 313,
+ 'added': 359,
  'background_image': 'https://media.rawg.io/media/games/bc3/bc3c433821089108642a41a3057f92c5.jpg',
  'description': '<p>Kingdom Hearts is the story of Sora, a 14-year-old boy '
                 'whose world is shattered when a violent storm hits his '

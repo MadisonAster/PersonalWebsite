@@ -18,7 +18,7 @@
             'url': '/name/nm10412421/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 33674,
+                      'ratingCount': 34550,
                       'ratingValue': '7.2',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
@@ -35,6 +35,7 @@
  'duration': 'PT1H37M',
  'genre': ['Documentary', 'Music'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjQ2NzE1MjYxMV5BMl5BanBnXkFtZTgwMjM3MDQxNzM@._V1_.jpg',
+ 'keywords': 'behind the scenes',
  'name': 'Fyre',
  'trailer': [{'@type': 'VideoObject',
               'description': 'An exclusive behind the scenes look at the '

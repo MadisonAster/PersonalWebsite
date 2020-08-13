@@ -18,7 +18,7 @@
             'url': '/name/nm0354198/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 225644,
+                      'ratingCount': 226696,
                       'ratingValue': '7.6',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
@@ -47,7 +47,8 @@
  'duration': 'PT2H4M',
  'genre': ['Drama', 'Romance'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTM0NDQxNjA0N15BMl5BanBnXkFtZTcwNDUwMzcwMg@@._V1_.jpg',
- 'keywords': 'war crime,trial,secret,sex with a minor,nazi',
+ 'keywords': 'war crime,trial,secret,older woman younger man relationship,sex '
+             'with a minor',
  'name': 'The Reader',
  'trailer': [{'@type': 'VideoObject',
               'description': 'Post-WWII Germany: Nearly a decade after his '

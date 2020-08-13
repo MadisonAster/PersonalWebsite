@@ -16,7 +16,7 @@
            {'@type': 'Person', 'name': 'Greg Bryk', 'url': '/name/nm0117374/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 15475,
+                      'ratingCount': 15786,
                       'ratingValue': '7.2',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',

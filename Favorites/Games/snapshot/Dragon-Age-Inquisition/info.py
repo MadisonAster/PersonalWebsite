@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Dragon-Age-Inquisition',
  'EntryURL': 'https://rawg.io/games/dragon-age-inquisition',
  'Entry_json': 'Favorites/Games/snapshot/Dragon-Age-Inquisition/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Dragon-Age-Inquisition/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Dragon-Age-Inquisition/thumb.jpg',
- 'added': 2968,
+ 'added': 3109,
  'background_image': 'https://media.rawg.io/media/games/260/26023c855f1769a93411d6a7ea084632.jpeg',
  'description': '<p>You have to revive and lead the Inquisition, which aims to '
                 'eradicate evil in the land of Thedas. War, intrigue, '

@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Red-Dead-Redemption-2',
  'EntryURL': 'https://rawg.io/games/red-dead-redemption-2',
  'Entry_json': 'Favorites/Games/snapshot/Red-Dead-Redemption-2/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Red-Dead-Redemption-2/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Red-Dead-Redemption-2/thumb.jpg',
- 'added': 7466,
+ 'added': 8018,
  'background_image': 'https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg',
  'description': '<p>America, 1899. The end of the wild west era has begun as '
                 'lawmen hunt down the last remaining outlaw gangs. Those who '
@@ -22,7 +22,7 @@
                 'Redemption, Red Dead Redemption 2 is an epic tale of life in '
                 'America at the dawn of the modern age.</p>',
  'developers': ['Rockstar Games'],
- 'genres': ['Action', 'Adventure', 'RPG'],
+ 'genres': ['Action', 'Adventure'],
  'name': 'Red Dead Redemption 2',
  'platforms': ['PC', 'Xbox One', 'PlayStation 4'],
  'publishers': ['Rockstar Games'],

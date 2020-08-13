@@ -20,7 +20,7 @@
             'url': '/name/nm0324658/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 490342,
+                      'ratingCount': 496173,
                       'ratingValue': '7.8',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
@@ -41,7 +41,7 @@
  'duration': 'PT2H48M',
  'genre': ['Crime', 'Drama', 'Mystery', 'Thriller', 'Western'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_.jpg',
- 'keywords': 'murder,bounty hunter,blizzard,blood vomiting,projectile vomiting',
+ 'keywords': 'murder,bounty hunter,blizzard,blood vomiting,stagecoach',
  'name': 'The Hateful Eight',
  'trailer': [{'@type': 'VideoObject',
               'description': 'In post-Civil War Wyoming, bounty hunters try to '

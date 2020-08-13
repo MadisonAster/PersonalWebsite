@@ -18,7 +18,7 @@
             'url': '/name/nm0000285/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 96702,
+                      'ratingCount': 97003,
                       'ratingValue': '6.7',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
@@ -28,7 +28,8 @@
              {'@type': 'Organization', 'url': '/company/co0005073/'},
              {'@type': 'Organization', 'url': '/company/co0033472/'},
              {'@type': 'Organization', 'url': '/company/co0063961/'},
-             {'@type': 'Organization', 'url': '/company/co0020958/'}],
+             {'@type': 'Organization', 'url': '/company/co0020958/'},
+             {'@type': 'Organization', 'url': '/company/co0047476/'}],
  'datePublished': '2006-12-22',
  'description': 'The Good Shepherd is a movie starring Matt Damon, Angelina '
                 'Jolie, and Robert De Niro. The tumultuous early history of '

@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Earthbound',
  'EntryURL': 'https://rawg.io/games/earthbound',
  'Entry_json': 'Favorites/Games/snapshot/Earthbound/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Earthbound/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Earthbound/thumb.jpg',
- 'added': 279,
+ 'added': 302,
  'background_image': 'https://media.rawg.io/media/screenshots/8db/8dbfbaf477c8985e5f19c3e3ced79a65.jpg',
  'description': '<p>Intergalactic terror strikes the small town of Onett as a '
                 'blazing extraterrestrial object crashes in the night! The '
@@ -25,7 +25,7 @@
                 '(including off-TV play) that have been added to this '
                 'title.</p>',
  'developers': ['Ape Inc.', 'HAL Laboratory', 'Nintendo'],
- 'genres': ['RPG'],
+ 'genres': ['RPG', 'Strategy', 'Indie'],
  'name': 'EarthBound',
  'platforms': ['Game Boy Advance', 'Wii U', 'SNES', 'Nintendo 3DS'],
  'publishers': ['Nintendo'],

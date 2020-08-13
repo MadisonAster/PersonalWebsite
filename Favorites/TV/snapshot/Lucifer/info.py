@@ -18,7 +18,7 @@
             'url': '/name/nm2788229/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 195445,
+                      'ratingCount': 200757,
                       'ratingValue': '8.2',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-14',
@@ -30,26 +30,24 @@
              {'@type': 'Organization', 'url': '/company/co0039979/'},
              {'@type': 'Organization', 'url': '/company/co0084207/'},
              {'@type': 'Organization', 'url': '/company/co0005035/'}],
- 'datePublished': '2015-05-08',
+ 'datePublished': '2016-01-25',
  'description': 'Lucifer is a TV series starring Tom Ellis, Lauren German, and '
                 "Kevin Alejandro. Lucifer Morningstar has decided he's had "
                 'enough of being the dutiful servant in Hell and decides to '
                 'spend some time on Earth to better understand...',
  'genre': ['Crime', 'Drama', 'Fantasy'],
- 'image': 'https://m.media-amazon.com/images/M/MV5BZTA2NTBkYWUtMzM4Zi00YzhlLTk4NWItY2U1ODczNDMyNDAzXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg',
+ 'image': 'https://m.media-amazon.com/images/M/MV5BNzY1YjIxOGMtOTAyZC00YTcyLWFhMzQtZTJkYTljYzU0MGRlXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_.jpg',
  'keywords': 'devil,female police detective,fallen angel,the devil,lapd',
  'name': 'Lucifer',
  'trailer': [{'@type': 'VideoObject',
-              'description': 'Reeling from the aftermath of Chloe seeing his '
-                             'devil face, Lucifer faces a new challenge: Eve, '
-                             'the original sinner herself, is back. Does she '
-                             'want revenge for when he tempted her out of Eden '
-                             'oh so many years ago... or something else '
-                             'entirely?',
-              'embedUrl': '/video/imdb/vi160283673',
-              'name': 'Official Trailer',
+              'description': 'Lucifer makes a tumultuous return, Chloe '
+                             'rethinks romance, Ella finally finds a nice guy, '
+                             'and Amenadiel adjusts to the whole fatherhood '
+                             'thing.',
+              'embedUrl': '/video/imdb/vi319602201',
+              'name': 'Season 5 Official Trailer',
               'thumbnail': {'@type': 'ImageObject',
-                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNTdmOWM4NDEtZGM2MS00YTUxLTgyYTEtYzViNjhhODdjY2JjXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg'},
-              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNTdmOWM4NDEtZGM2MS00YTUxLTgyYTEtYzViNjhhODdjY2JjXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg',
-              'uploadDate': '2019-04-25T14:30:35Z'}],
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMzZiNzVhOGItNTgwYS00NjljLWI2NjQtNzVlMjA1OTA5NDI4XkEyXkFqcGdeQWRvb2xpbmhk._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMzZiNzVhOGItNTgwYS00NjljLWI2NjQtNzVlMjA1OTA5NDI4XkEyXkFqcGdeQWRvb2xpbmhk._V1_.jpg',
+              'uploadDate': '2020-07-14T14:56:33Z'}],
  'url': '/title/tt4052886/'}

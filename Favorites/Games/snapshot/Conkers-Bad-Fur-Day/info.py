@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Conkers-Bad-Fur-Day',
  'EntryURL': 'https://rawg.io/games/conkers-bad-fur-day',
  'Entry_json': 'Favorites/Games/snapshot/Conkers-Bad-Fur-Day/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Conkers-Bad-Fur-Day/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Conkers-Bad-Fur-Day/thumb.jpg',
- 'added': 87,
+ 'added': 93,
  'background_image': 'https://media.rawg.io/media/screenshots/621/62111bd8918fb3f55898954171432dc7.jpg',
  'description': "<p>Conker's Bad Fur Day is a platformer video game developed "
                 'by Rare and released for the Nintendo 64 video game console '

@@ -20,7 +20,7 @@
             'url': '/name/nm0117763/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 127552,
+                      'ratingCount': 139940,
                       'ratingValue': '7.0',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
@@ -54,7 +54,7 @@
  'duration': 'PT1H34M',
  'genre': ['Horror', 'Sci-Fi', 'Thriller'],
  'image': 'https://m.media-amazon.com/images/M/MV5BOTMyYTIyM2MtNjQ2ZC00MWFkLThhYjQtMjhjMGZiMjgwYjM2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
- 'keywords': 'hunger,prison,floor,cannibalism,inmate',
+ 'keywords': 'hunger,prison,cannibalism,inmate,platform',
  'name': 'El hoyo',
  'trailer': [{'@type': 'VideoObject',
               'description': 'Inside a vertical prison system, inmates are '

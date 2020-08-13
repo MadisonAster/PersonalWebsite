@@ -16,7 +16,7 @@
            {'@type': 'Person', 'name': 'Ed Harris', 'url': '/name/nm0000438/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 291698,
+                      'ratingCount': 304267,
                       'ratingValue': '7.1',
                       'worstRating': '1.0'}],
  'contentRating': 'R',

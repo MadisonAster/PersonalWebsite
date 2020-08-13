@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Final-Fantasy-11',
  'EntryURL': 'https://rawg.io/games/final-fantasy-11',
  'Entry_json': 'Favorites/Games/snapshot/Final-Fantasy-11/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Final-Fantasy-11/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Final-Fantasy-11/thumb.jpg',
- 'added': 74,
+ 'added': 78,
  'background_image': 'https://media.rawg.io/media/screenshots/2e5/2e51acd434791f54f845fe344d8b9cb1.jpg',
  'description': '<p>Final Fantasy XI is a RPG massively multiplayer game '
                 'developed by Square Product Development Division 3. It was '

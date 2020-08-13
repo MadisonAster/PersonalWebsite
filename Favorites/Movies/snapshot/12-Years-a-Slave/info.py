@@ -18,7 +18,7 @@
            {'@type': 'Person', 'name': 'Brad Pitt', 'url': '/name/nm0000093/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 616160,
+                      'ratingCount': 621971,
                       'ratingValue': '8.1',
                       'worstRating': '1.0'}],
  'contentRating': 'R',

@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Tony-Hawks-Pro-Skater-4',
  'EntryURL': 'https://rawg.io/games/tony-hawks-pro-skater-4',
  'Entry_json': 'Favorites/Games/snapshot/Tony-Hawks-Pro-Skater-4/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Tony-Hawks-Pro-Skater-4/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Tony-Hawks-Pro-Skater-4/thumb.jpg',
- 'added': 152,
+ 'added': 166,
  'background_image': 'https://media.rawg.io/media/screenshots/c39/c391b587cffb4e013d7854e03a03647c.jpg',
  'description': "<p>Tony Hawk's Pro Skater 4 is a sports-arcade game developed "
                 'by Beenox, Neversoft and Vicarious Visions. It was originally '

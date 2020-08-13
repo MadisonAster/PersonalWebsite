@@ -20,7 +20,7 @@
             'url': '/name/nm0001448/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 404774,
+                      'ratingCount': 407031,
                       'ratingValue': '8.0',
                       'worstRating': '1.0'}],
  'contentRating': 'PG-13',
@@ -44,8 +44,8 @@
  'duration': 'PT2H5M',
  'genre': ['Adventure', 'Drama', 'Fantasy', 'Romance'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMmU3NzIyODctYjVhOC00NzBmLTlhNWItMzBlODEwZTlmMjUzXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg',
- 'keywords': 'fish,father son relationship,death of father,flashback,growing '
-             'up',
+ 'keywords': 'storytelling,fish,father son relationship,death of '
+             'father,flashback',
  'name': 'Big Fish',
  'trailer': [{'@type': 'VideoObject',
               'description': 'A son tries to learn more about his dying father '

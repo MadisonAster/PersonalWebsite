@@ -18,7 +18,7 @@
             'url': '/name/nm0628601/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 401074,
+                      'ratingCount': 407634,
                       'ratingValue': '8.7',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
@@ -37,7 +37,8 @@
                 'every human appetite can be indulged without consequence.',
  'genre': ['Drama', 'Mystery', 'Sci-Fi'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTRmYzNmOTctZjMwOS00ODZlLWJiZGQtNDg5NDY5NjE3MTczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg',
- 'keywords': 'artificial intelligence,robot,android,based on film,theme park',
+ 'keywords': 'artificial intelligence,robot,based on film,android,moral '
+             'dilemma',
  'name': 'Westworld',
  'trailer': [{'@type': 'VideoObject',
               'description': 'We all have our role to play. New episodes of '

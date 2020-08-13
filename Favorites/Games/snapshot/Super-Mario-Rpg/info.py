@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Super-Mario-Rpg',
  'EntryURL': 'https://rawg.io/games/super-mario-rpg',
  'Entry_json': 'Favorites/Games/snapshot/Super-Mario-Rpg/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Super-Mario-Rpg/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Super-Mario-Rpg/thumb.jpg',
- 'added': 166,
+ 'added': 186,
  'background_image': 'https://media.rawg.io/media/screenshots/14b/14bfeab218c254d74e801116740e476b.jpg',
  'description': '<p>A mysterious enemy named Smithy has appeared, forcing '
                 'Mario and Bowser<br />\n'

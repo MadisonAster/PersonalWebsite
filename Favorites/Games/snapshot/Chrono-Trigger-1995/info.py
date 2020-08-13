@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Chrono-Trigger-1995',
  'EntryURL': 'https://rawg.io/games/chrono-trigger-1995',
  'Entry_json': 'Favorites/Games/snapshot/Chrono-Trigger-1995/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Chrono-Trigger-1995/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Chrono-Trigger-1995/thumb.jpg',
- 'added': 525,
+ 'added': 579,
  'background_image': 'https://media.rawg.io/media/games/ae4/ae404f4e0f504131199703c09111bb78.jpg',
  'description': '<p>Chrono Trigger is a role-playing video game developed and '
                 'published by Square for the Super Nintendo Entertainment '

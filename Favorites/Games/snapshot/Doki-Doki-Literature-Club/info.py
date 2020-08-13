@@ -1,11 +1,11 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Doki-Doki-Literature-Club',
  'EntryURL': 'https://rawg.io/games/doki-doki-literature-club',
  'Entry_json': 'Favorites/Games/snapshot/Doki-Doki-Literature-Club/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Doki-Doki-Literature-Club/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Doki-Doki-Literature-Club/thumb.jpg',
- 'added': 2498,
- 'background_image': 'https://media.rawg.io/media/games/216/2160ccf104a99fa278e4da0f86bcaf66.png',
+ 'added': 2659,
+ 'background_image': 'https://media.rawg.io/media/games/972/972aea3c9eb253e893947bec2d2cfbb9.jpg',
  'description': '<p>Doki Doki Literature Club puts you into the role of an '
                 'anime character, an average Japanese schoolboy. Your '
                 'protagonist joins a literature club in which he&#39;s the '

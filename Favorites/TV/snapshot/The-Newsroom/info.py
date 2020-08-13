@@ -20,7 +20,7 @@
             'url': '/name/nm0683467/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 100696,
+                      'ratingCount': 101474,
                       'ratingValue': '8.6',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
@@ -34,7 +34,7 @@
                 'changes in its workings and morals as a new team is brought '
                 'in, bringing unexpected results for its existing news...',
  'genre': 'Drama',
- 'image': 'https://m.media-amazon.com/images/M/MV5BZjg5OGU2OGMtNTM3ZC00YTEzLWFmZjMtOWQ3NGI5YjIzODJlXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg',
+ 'image': 'https://m.media-amazon.com/images/M/MV5BZDI0OWIwMTgtZGIyOC00ODRhLWIwNjAtOWViZmMwOWYwOGViXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg',
  'keywords': 'newsroom,ethics,television producer,news reporting,television '
              'news',
  'name': 'The Newsroom',

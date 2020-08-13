@@ -18,7 +18,7 @@
             'url': '/name/nm0005188/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 81972,
+                      'ratingCount': 82460,
                       'ratingValue': '6.5',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
@@ -44,8 +44,8 @@
  'duration': 'PT1H49M',
  'genre': ['Comedy', 'Romance'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjE0MTcyMzg5M15BMl5BanBnXkFtZTcwMDUyOTA4MQ@@._V1_.jpg',
- 'keywords': 'removing panties in public place,sex on couch,pubic hair,female '
-             'pubic hair,breasts',
+ 'keywords': 'removing panties in public place,breasts,anal sex,sex on '
+             'couch,girl in panties',
  'name': 'Sex Drive',
  'trailer': [{'@type': 'VideoObject',
               'description': 'This is the theatrical trailer for Sex Drive, '

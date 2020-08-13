@@ -16,7 +16,7 @@
            {'@type': 'Person', 'name': 'Kal Penn', 'url': '/name/nm0671980/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 101427,
+                      'ratingCount': 101912,
                       'ratingValue': '6.4',
                       'worstRating': '1.0'}],
  'contentRating': 'R',

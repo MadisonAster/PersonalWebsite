@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Gran-Turismo-3-A-Spec',
  'EntryURL': 'https://rawg.io/games/gran-turismo-3-a-spec',
  'Entry_json': 'Favorites/Games/snapshot/Gran-Turismo-3-A-Spec/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Gran-Turismo-3-A-Spec/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Gran-Turismo-3-A-Spec/thumb.jpg',
- 'added': 33,
+ 'added': 38,
  'background_image': 'https://media.rawg.io/media/screenshots/f4a/f4ab18046500fe45c5648ea456b1a5b4.jpg',
  'description': '<p>Gran Turismo 3: A-Spec (グランツーリスモ3: A-spec Guran Tsūrisumo '
                 'Surī A-supekku) is a 2001 racing game, the first in the Gran '

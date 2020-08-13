@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Morrowind',
  'EntryURL': 'https://rawg.io/games/morrowind',
  'Entry_json': 'Favorites/Games/snapshot/Morrowind/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Morrowind/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Morrowind/thumb.jpg',
- 'added': 2201,
+ 'added': 2358,
  'background_image': 'https://media.rawg.io/media/games/ccf/ccf26f6e3d553a04f0033a8107a521b8.jpg',
  'description': '<p>The Elder Scrolls III: Morrowind® Game of the Year Edition '
                 'includes Morrowind plus all of the content from the Bloodmoon '

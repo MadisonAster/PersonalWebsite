@@ -18,7 +18,7 @@
             'url': '/name/nm5219130/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 107210,
+                      'ratingCount': 108824,
                       'ratingValue': '7.2',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',

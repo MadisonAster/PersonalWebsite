@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Dark-Souls-Ii-Scholar-Of-The-First-Sin',
  'EntryURL': 'https://rawg.io/games/dark-souls-ii-scholar-of-the-first-sin',
  'Entry_json': 'Favorites/Games/snapshot/Dark-Souls-Ii-Scholar-Of-The-First-Sin/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Dark-Souls-Ii-Scholar-Of-The-First-Sin/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Dark-Souls-Ii-Scholar-Of-The-First-Sin/thumb.jpg',
- 'added': 2708,
+ 'added': 2854,
  'background_image': 'https://media.rawg.io/media/games/7d9/7d9fd2b2b53a27f1af20b96b8d40c538.jpg',
  'description': '<p>New take in the Souls series. This time players are '
                 'offered to overcome the immense difficulties in the kingdom '

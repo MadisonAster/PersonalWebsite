@@ -20,7 +20,7 @@
             'url': '/name/nm0066244/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 12850,
+                      'ratingCount': 12901,
                       'ratingValue': '7.6',
                       'worstRating': '1.0'}],
  'contentRating': 'Not Rated',
@@ -39,7 +39,7 @@
  'duration': 'PT1H39M',
  'genre': 'Documentary',
  'image': 'https://m.media-amazon.com/images/M/MV5BNjY4MTE5NTE1M15BMl5BanBnXkFtZTcwODA4MzEzOA@@._V1_.jpg',
- 'keywords': 'text based poster,cinematographer,interview,filmmaking,reference '
+ 'keywords': 'cinematographer,filmmaking,text based poster,interview,reference '
              'to star wars',
  'name': 'Side by Side',
  'trailer': [{'@type': 'VideoObject',

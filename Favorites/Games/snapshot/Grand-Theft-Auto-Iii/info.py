@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Grand-Theft-Auto-Iii',
  'EntryURL': 'https://rawg.io/games/grand-theft-auto-iii',
  'Entry_json': 'Favorites/Games/snapshot/Grand-Theft-Auto-Iii/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Grand-Theft-Auto-Iii/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Grand-Theft-Auto-Iii/thumb.jpg',
- 'added': 3931,
+ 'added': 4104,
  'background_image': 'https://media.rawg.io/media/games/5fa/5fae5fec3c943179e09da67a4427d68f.jpg',
  'description': '<p>Grand Theft Auto III is an open-world action game, a part '
                 'of the criminal franchise GTA. As the first in the series 3D '
@@ -27,7 +27,7 @@
                 'making both ends meet in Liberty City after being deceived. '
                 'Therefore, his only wish – also the main idea of the '
                 'storyline – to take the revenge on the former partner.</p>',
- 'developers': ['Rockstar North', 'DMA Design', 'Rockstar Vienna'],
+ 'developers': ['Rockstar North', 'DMA Design'],
  'genres': ['Action', 'Adventure'],
  'name': 'Grand Theft Auto III',
  'platforms': ['PC',

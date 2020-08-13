@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Sonic-Adventure',
  'EntryURL': 'https://rawg.io/games/sonic-adventure',
  'Entry_json': 'Favorites/Games/snapshot/Sonic-Adventure/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Sonic-Adventure/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Sonic-Adventure/thumb.jpg',
- 'added': 422,
+ 'added': 445,
  'background_image': 'https://media.rawg.io/media/screenshots/a64/a64b59aec49d84b4b89001c10eb6325d.jpg',
  'description': 'Join Sonic and friends as they embark on their first truly '
                 'epic quest to stop Dr, Eggman’s most villainous scheme in the '

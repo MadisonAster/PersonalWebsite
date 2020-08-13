@@ -1,11 +1,11 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Gran-Turismo-2',
  'EntryURL': 'https://rawg.io/games/gran-turismo-2',
  'Entry_json': 'Favorites/Games/snapshot/Gran-Turismo-2/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Gran-Turismo-2/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Gran-Turismo-2/thumb.jpg',
- 'added': 101,
- 'background_image': 'https://media.rawg.io/media/screenshots/98d/98dc5f038aa186b48aa16bbb858d276a.jpg',
+ 'added': 116,
+ 'background_image': 'https://media.rawg.io/media/games/64d/64d9b8d00ea0da293f584077ad432aa9.jpg',
  'description': '<p>Gran Turismo 2 (グランツーリスモ2, Guran Tsūrisumo Tsū, commonly '
                 'abbreviated GT2) is a racing game for the Sony PlayStation. '
                 'Gran Turismo 2 was developed by Polyphony Digital and '

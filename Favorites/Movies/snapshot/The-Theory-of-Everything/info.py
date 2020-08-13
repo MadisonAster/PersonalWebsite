@@ -18,7 +18,7 @@
             'url': '/name/nm6240141/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 385576,
+                      'ratingCount': 388714,
                       'ratingValue': '7.7',
                       'worstRating': '1.0'}],
  'contentRating': 'PG-13',

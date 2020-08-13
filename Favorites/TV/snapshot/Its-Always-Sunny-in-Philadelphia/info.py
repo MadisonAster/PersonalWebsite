@@ -20,7 +20,7 @@
             'url': '/name/nm0647698/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 182109,
+                      'ratingCount': 183833,
                       'ratingValue': '8.8',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
@@ -39,8 +39,8 @@
  'datePublished': '2005-08-04',
  'description': "It's Always Sunny in Philadelphia is a TV series starring "
                 'Charlie Day, Glenn Howerton, and Rob McElhenney. Five friends '
-                'with big egos and slightly arrogant attitudes are the '
-                'proprietors of an Irish pub in Philadelphia.',
+                'with big egos and small brains are the proprietors of an '
+                'Irish pub in Philadelphia.',
  'genre': 'Comedy',
  'image': 'https://m.media-amazon.com/images/M/MV5BOTExNGZkMWMtMmIwZC00YjA3LTgwM2ItZjQ2YmZkMzQ1YWZkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg',
  'keywords': 'cringe comedy,crude humor,black comedy,south '

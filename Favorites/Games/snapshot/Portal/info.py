@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Portal',
  'EntryURL': 'https://rawg.io/games/portal',
  'Entry_json': 'Favorites/Games/snapshot/Portal/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Portal/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Portal/thumb.jpg',
- 'added': 8944,
+ 'added': 9363,
  'background_image': 'https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg',
  'description': '<p>Every single time you click your mouse while holding a '
                 'gun, you expect bullets to fly and enemies to fall. But here '

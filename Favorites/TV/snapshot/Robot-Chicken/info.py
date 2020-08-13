@@ -16,7 +16,7 @@
            {'@type': 'Person', 'name': 'Tom Root', 'url': '/name/nm1802814/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 38685,
+                      'ratingCount': 38879,
                       'ratingValue': '7.7',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',

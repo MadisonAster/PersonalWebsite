@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/The-Gallery-Episode-1-Call-Of-The-Starseed',
  'EntryURL': 'https://rawg.io/games/the-gallery-episode-1-call-of-the-starseed',
  'Entry_json': 'Favorites/Games/snapshot/The-Gallery-Episode-1-Call-Of-The-Starseed/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/The-Gallery-Episode-1-Call-Of-The-Starseed/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/The-Gallery-Episode-1-Call-Of-The-Starseed/thumb.jpg',
- 'added': 133,
+ 'added': 141,
  'background_image': 'https://media.rawg.io/media/screenshots/b16/b16628d73a1796b7bcdb2e10be0052da.jpg',
  'description': '<strong>The Gallery is an episodic, fantasy exploration game '
                 'built for virtual reality, inspired by the mystery of dark '

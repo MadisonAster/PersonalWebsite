@@ -20,7 +20,7 @@
             'url': '/name/nm0000323/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 1138253,
+                      'ratingCount': 1149062,
                       'ratingValue': '8.5',
                       'worstRating': '1.0'}],
  'contentRating': 'PG-13',
@@ -57,7 +57,7 @@
               'embedUrl': '/video/imdb/vi2885334553',
               'name': 'Official Trailer',
               'thumbnail': {'@type': 'ImageObject',
-                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMTkzMzMyNzE0NV5BMl5BanBnXkFtZTgwMDU4NDM0MDI@._V1_.jpg'},
-              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMTkzMzMyNzE0NV5BMl5BanBnXkFtZTgwMDU4NDM0MDI@._V1_.jpg',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BMDIwYWJlODQtNTRkNy00YWZjLWI0M2ItMzU5MmVhNzY3OGJhXkEyXkFqcGdeQWpvaG5oYXJ0._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BMDIwYWJlODQtNTRkNy00YWZjLWI0M2ItMzU5MmVhNzY3OGJhXkEyXkFqcGdeQWpvaG5oYXJ0._V1_.jpg',
               'uploadDate': '2016-10-27T01:19:48Z'}],
  'url': '/title/tt0482571/'}

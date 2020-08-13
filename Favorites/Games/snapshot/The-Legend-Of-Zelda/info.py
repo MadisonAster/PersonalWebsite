@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/The-Legend-Of-Zelda',
  'EntryURL': 'https://rawg.io/games/the-legend-of-zelda',
  'Entry_json': 'Favorites/Games/snapshot/The-Legend-Of-Zelda/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/The-Legend-Of-Zelda/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/The-Legend-Of-Zelda/thumb.jpg',
- 'added': 374,
+ 'added': 410,
  'background_image': 'https://media.rawg.io/media/games/e7d/e7d807d4486cb490f21bbc8c3ff35a73.jpg',
  'description': '<p>Ganon, the King of Evil, has broken free of the Dark World '
                 'and has captured Hyrule&#39;s beloved Princess Zelda. But, '

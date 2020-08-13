@@ -14,7 +14,7 @@
             'url': '/name/nm4998470/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 680,
+                      'ratingCount': 684,
                       'ratingValue': '6.9',
                       'worstRating': '1.0'}],
  'creator': [{'@type': 'Person',

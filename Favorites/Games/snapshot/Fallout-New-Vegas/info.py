@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Fallout-New-Vegas',
  'EntryURL': 'https://rawg.io/games/fallout-new-vegas',
  'Entry_json': 'Favorites/Games/snapshot/Fallout-New-Vegas/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Fallout-New-Vegas/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Fallout-New-Vegas/thumb.jpg',
- 'added': 4920,
+ 'added': 5188,
  'background_image': 'https://media.rawg.io/media/games/995/9951d9d55323d08967640f7b9ab3e342.jpg',
  'description': '<p>Fallout: New Vegas is the second instalment after the '
                 'reboot of the Fallout series and a fourth instalment in the '
@@ -27,10 +27,10 @@
                 'for resources. Reputation system was reintroduced in New '
                 'Vegas as old reputation system from Fallout 2, with Karma '
                 'making a serious impact on the game.</p>',
- 'developers': ['Bethesda Softworks', 'Obsidian Entertainment'],
- 'genres': ['Action', 'Shooter', 'RPG'],
+ 'developers': ['Obsidian Entertainment'],
+ 'genres': ['Action', 'Shooter', 'Adventure', 'RPG'],
  'name': 'Fallout: New Vegas',
- 'platforms': ['PlayStation 3', 'PC', 'Xbox 360'],
+ 'platforms': ['Xbox One', 'PlayStation 4', 'PlayStation 3', 'PC', 'Xbox 360'],
  'publishers': ['Bethesda Softworks'],
  'released': '2010-10-19',
  'slug': 'fallout-new-vegas'}

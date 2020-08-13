@@ -20,7 +20,7 @@
             'url': '/name/nm0915989/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 1611891,
+                      'ratingCount': 1625134,
                       'ratingValue': '8.7',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
@@ -53,9 +53,11 @@
              'hacker,post apocalypse',
  'name': 'The Matrix',
  'trailer': [{'@type': 'VideoObject',
-              'description': 'Theatrical Trailer from Warner Home Video',
+              'description': 'A computer hacker learns from mysterious rebels '
+                             'about the true nature of his reality and his '
+                             'role in the war against its controllers.',
               'embedUrl': '/video/imdb/vi1032782617',
-              'name': 'The Matrix',
+              'name': 'Theatrical Trailer',
               'thumbnail': {'@type': 'ImageObject',
                             'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNDQ4NTRmN2ItYjgzMS00MzY3LWEwNmYtYmE2ODllZDdhNGI1XkEyXkFqcGdeQXdvbmtpbQ@@._V1_.jpg'},
               'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNDQ4NTRmN2ItYjgzMS00MzY3LWEwNmYtYmE2ODllZDdhNGI1XkEyXkFqcGdeQXdvbmtpbQ@@._V1_.jpg',

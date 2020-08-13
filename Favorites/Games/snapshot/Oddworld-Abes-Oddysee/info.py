@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Oddworld-Abes-Oddysee',
  'EntryURL': 'https://rawg.io/games/oddworld-abes-oddysee',
  'Entry_json': 'Favorites/Games/snapshot/Oddworld-Abes-Oddysee/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Oddworld-Abes-Oddysee/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Oddworld-Abes-Oddysee/thumb.jpg',
- 'added': 3626,
+ 'added': 3738,
  'background_image': 'https://media.rawg.io/media/screenshots/124/124dd314f9effb6cc153589db7975e9a.jpg',
  'description': '<p>Oddworld: Abe’s Oddysee is the first chapter of the '
                 'Oddworld franchise. The game is set in the fictional Oddworld '

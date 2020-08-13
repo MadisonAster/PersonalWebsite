@@ -14,7 +14,7 @@
            {'@type': 'Person', 'name': 'Peep', 'url': '/name/nm9461155/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 3982,
+                      'ratingCount': 4055,
                       'ratingValue': '9.4',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-G',

@@ -18,7 +18,7 @@
             'url': '/name/nm4064518/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 61289,
+                      'ratingCount': 61957,
                       'ratingValue': '8.1',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-PG',

@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Alone-In-The-Dark-The-New-Nightmare',
  'EntryURL': 'https://rawg.io/games/alone-in-the-dark-the-new-nightmare',
  'Entry_json': 'Favorites/Games/snapshot/Alone-In-The-Dark-The-New-Nightmare/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Alone-In-The-Dark-The-New-Nightmare/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Alone-In-The-Dark-The-New-Nightmare/thumb.jpg',
- 'added': 204,
+ 'added': 219,
  'background_image': 'https://media.rawg.io/media/screenshots/e3b/e3b7053c9ba6467e28c69fe4b798f5aa.jpg',
  'description': 'From the moment Edward Carnby and Aline Cedrac set foot on '
                 'Shadow Island, they are confronted by mysterious, evil '

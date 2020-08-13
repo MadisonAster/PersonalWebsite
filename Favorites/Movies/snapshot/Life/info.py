@@ -20,7 +20,7 @@
             'url': '/name/nm0760796/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 198454,
+                      'ratingCount': 200805,
                       'ratingValue': '6.6',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
@@ -45,8 +45,8 @@
  'duration': 'PT1H44M',
  'genre': ['Horror', 'Sci-Fi', 'Thriller'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMzAwMmQxNTctYjVmYi00MDdlLWEzMWUtOTE5NTRiNDhhNjI2L2ltYWdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
- 'keywords': 'extraterrestrial life,international space '
-             'station,astronaut,space station,outer space',
+ 'keywords': 'extraterrestrial life,space,international space '
+             'station,astronaut,space station',
  'name': 'Life',
  'trailer': [{'@type': 'VideoObject',
               'description': 'An international space crew discovers life on '

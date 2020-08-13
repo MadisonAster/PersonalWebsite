@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Doom-2',
  'EntryURL': 'https://rawg.io/games/doom-2',
  'Entry_json': 'Favorites/Games/snapshot/Doom-2/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Doom-2/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Doom-2/thumb.jpg',
- 'added': 632,
+ 'added': 685,
  'background_image': 'https://media.rawg.io/media/games/47b/47b50d880be8453bf9cda6e5c007bc26.jpg',
  'description': '<p>Doom (typeset as DOOM in official documents) is a 1993 '
                 'science fiction horror-themed first-person shooter (FPS) '

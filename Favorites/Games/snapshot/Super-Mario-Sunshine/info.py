@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Super-Mario-Sunshine',
  'EntryURL': 'https://rawg.io/games/super-mario-sunshine',
  'Entry_json': 'Favorites/Games/snapshot/Super-Mario-Sunshine/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Super-Mario-Sunshine/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Super-Mario-Sunshine/thumb.jpg',
- 'added': 320,
+ 'added': 351,
  'background_image': 'https://media.rawg.io/media/screenshots/04b/04b7fd791867fa25858f6dc7a2cccb9a.jpg',
  'description': "When Mario, Peach, and an entourage of Peach's loyal Toad "
                 'friends set out for a tropical vacation on lovely Isle '

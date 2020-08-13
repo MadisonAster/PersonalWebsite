@@ -20,7 +20,7 @@
             'url': '/name/nm1270009/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 44447,
+                      'ratingCount': 45091,
                       'ratingValue': '5.3',
                       'worstRating': '1.0'}],
  'contentRating': 'R',

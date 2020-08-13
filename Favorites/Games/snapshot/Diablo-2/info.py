@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Diablo-2',
  'EntryURL': 'https://rawg.io/games/diablo-2',
  'Entry_json': 'Favorites/Games/snapshot/Diablo-2/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Diablo-2/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Diablo-2/thumb.jpg',
- 'added': 965,
+ 'added': 1026,
  'background_image': 'https://media.rawg.io/media/games/135/13553828105bbb700a04e7517f12e34e.jpg',
  'description': '<p>Diablo II is an action role-playing hack and slash video '
                 'game developed by Blizzard North and published by Blizzard '

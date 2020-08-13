@@ -16,14 +16,14 @@
             'url': '/name/nm6262807/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 2957,
+                      'ratingCount': 3045,
                       'ratingValue': '8.0',
                       'worstRating': '1.0'}],
  'datePublished': '2014-07-11',
  'description': 'The Battered Bastards of Baseball is a movie starring Todd '
-                'Field, Kurt Russell, and Rob Nelson. The Battered Bastards of '
-                "Baseball is one of baseball's last great, unheralded true "
-                'stories. In 1973, Hollywood veteran Bing Russell...',
+                'Field, Kurt Russell, and Rob Nelson. In 1973, Hollywood actor '
+                'Bing Russell starts an independent minor league baseball team '
+                'in Portland consisting of outcasts and misfits,...',
  'director': [{'@type': 'Person',
                'name': 'Chapman Way',
                'url': '/name/nm1331494/'},
@@ -33,5 +33,6 @@
  'duration': 'PT1H20M',
  'genre': ['Documentary', 'Sport'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjE0NDQwNTU2NF5BMl5BanBnXkFtZTgwNDg1MDUyMjE@._V1_.jpg',
+ 'keywords': 'actor',
  'name': 'The Battered Bastards of Baseball',
  'url': '/title/tt3445270/'}

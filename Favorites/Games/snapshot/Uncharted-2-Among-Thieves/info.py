@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Uncharted-2-Among-Thieves',
  'EntryURL': 'https://rawg.io/games/uncharted-2-among-thieves',
  'Entry_json': 'Favorites/Games/snapshot/Uncharted-2-Among-Thieves/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Uncharted-2-Among-Thieves/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Uncharted-2-Among-Thieves/thumb.jpg',
- 'added': 2643,
+ 'added': 2750,
  'background_image': 'https://media.rawg.io/media/games/74b/74b239f6ef0216a2f66e652d54abb2e6.jpg',
  'description': '<p>In Uncharted 2, as in the other Uncharted games, the hero '
                 'is the adventurer and hidden treasure seeker Nathan Drake. '
@@ -25,7 +25,7 @@
                 'combat modes, they differ in their objectives and in some '
                 'ways.</p>',
  'developers': ['Naughty Dog'],
- 'genres': ['Action', 'Adventure'],
+ 'genres': ['Action', 'Shooter', 'Adventure'],
  'name': 'Uncharted 2: Among Thieves',
  'platforms': ['PlayStation 4', 'PlayStation 3'],
  'publishers': ['Sony Computer Entertainment'],

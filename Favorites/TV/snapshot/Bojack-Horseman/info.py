@@ -20,7 +20,7 @@
             'url': '/name/nm0666739/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 97548,
+                      'ratingCount': 101014,
                       'ratingValue': '8.7',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
@@ -29,7 +29,6 @@
               'url': '/name/nm4369688/'},
              {'@type': 'Organization', 'url': '/company/co0274437/'},
              {'@type': 'Organization', 'url': '/company/co0043801/'},
-             {'@type': 'Organization', 'url': '/company/co0792808/'},
              {'@type': 'Organization', 'url': '/company/co0144901/'}],
  'datePublished': '2014-08-22',
  'description': 'BoJack Horseman is a TV series starring Will Arnett, Amy '

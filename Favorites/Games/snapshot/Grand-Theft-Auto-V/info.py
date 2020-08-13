@@ -1,11 +1,11 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Grand-Theft-Auto-V',
  'EntryURL': 'https://rawg.io/games/grand-theft-auto-v',
  'Entry_json': 'Favorites/Games/snapshot/Grand-Theft-Auto-V/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Grand-Theft-Auto-V/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Grand-Theft-Auto-V/thumb.jpg',
- 'added': 11950,
- 'background_image': 'https://media.rawg.io/media/games/b11/b115b2bc6a5957a917bc7601f4abdda2.jpg',
+ 'added': 12569,
+ 'background_image': 'https://media.rawg.io/media/games/84d/84da2ac3fdfc6507807a1808595afb12.jpg',
  'description': '<p>Rockstar Games went bigger, since their previous '
                 'installment of the series. You get the complicated and '
                 'realistic world-building from Liberty City of GTA4 in the '
@@ -29,7 +29,13 @@
  'developers': ['Rockstar North'],
  'genres': ['Action', 'Adventure'],
  'name': 'Grand Theft Auto V',
- 'platforms': ['PC', 'PlayStation 4', 'PlayStation 3', 'Xbox 360', 'Xbox One'],
+ 'platforms': ['Xbox Series X',
+               'PC',
+               'PlayStation 5',
+               'PlayStation 4',
+               'PlayStation 3',
+               'Xbox 360',
+               'Xbox One'],
  'publishers': ['1C-SoftClub', 'Rockstar Games', 'Take Two Interactive'],
  'released': '2013-09-17',
  'slug': 'grand-theft-auto-v'}

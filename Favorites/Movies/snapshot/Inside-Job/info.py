@@ -18,7 +18,7 @@
             'url': '/name/nm4227570/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 67740,
+                      'ratingCount': 68163,
                       'ratingValue': '8.2',
                       'worstRating': '1.0'}],
  'contentRating': 'PG-13',

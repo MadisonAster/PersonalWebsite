@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Star-Ocean-The-Last-Hope',
  'EntryURL': 'https://rawg.io/games/star-ocean-the-last-hope',
  'Entry_json': 'Favorites/Games/snapshot/Star-Ocean-The-Last-Hope/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Star-Ocean-The-Last-Hope/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Star-Ocean-The-Last-Hope/thumb.jpg',
- 'added': 11,
+ 'added': 13,
  'background_image': 'https://media.rawg.io/media/screenshots/df0/df072bfb44c5b77227c8e91764f5406d.jpg',
  'description': '<p>Star Ocean: The Last Hope is a RPG game developed by '
                 'tri-Ace Corporation. It was originally released in 2009. '

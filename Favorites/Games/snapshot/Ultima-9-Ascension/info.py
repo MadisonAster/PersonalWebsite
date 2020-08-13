@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Ultima-9-Ascension',
  'EntryURL': 'https://rawg.io/games/ultima-9-ascension',
  'Entry_json': 'Favorites/Games/snapshot/Ultima-9-Ascension/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Ultima-9-Ascension/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Ultima-9-Ascension/thumb.jpg',
- 'added': 75,
+ 'added': 78,
  'background_image': 'https://media.rawg.io/media/screenshots/f94/f946c70f60aa0a9f5cc290798be83b84.jpg',
  'description': 'Prepare to embark on the final adventure in Ultima--the best '
                 'selling role-playing saga of all time that has nurtured '

@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/The-Elder-Scrolls-Iv-Oblivion',
  'EntryURL': 'https://rawg.io/games/the-elder-scrolls-iv-oblivion',
  'Entry_json': 'Favorites/Games/snapshot/The-Elder-Scrolls-Iv-Oblivion/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/The-Elder-Scrolls-Iv-Oblivion/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/The-Elder-Scrolls-Iv-Oblivion/thumb.jpg',
- 'added': 1830,
+ 'added': 1928,
  'background_image': 'https://media.rawg.io/media/games/615/61503312a95d451198d80d9bae275f79.jpg',
  'description': '<p>The Elder Scrolls IV: Oblivion is an action RPG, a part of '
                 'The Elder Scrolls series, which follows TES: Morrowind and '

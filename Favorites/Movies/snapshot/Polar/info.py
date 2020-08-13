@@ -18,7 +18,7 @@
            {'@type': 'Person', 'name': 'Fei Ren', 'url': '/name/nm6699375/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 68712,
+                      'ratingCount': 70087,
                       'ratingValue': '6.3',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',

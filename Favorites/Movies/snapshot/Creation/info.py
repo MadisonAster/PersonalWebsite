@@ -16,7 +16,7 @@
            {'@type': 'Person', 'name': 'Guy Henry', 'url': '/name/nm0377844/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 13573,
+                      'ratingCount': 13686,
                       'ratingValue': '6.7',
                       'worstRating': '1.0'}],
  'contentRating': 'PG-13',

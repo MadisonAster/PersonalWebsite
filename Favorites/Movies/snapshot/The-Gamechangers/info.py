@@ -13,12 +13,14 @@
             'name': 'Bill Paxton',
             'url': '/name/nm0000200/'},
            {'@type': 'Person',
+            'name': 'Alex McGregor',
+            'url': '/name/nm2661400/'},
+           {'@type': 'Person',
             'name': 'Joe Dempsie',
-            'url': '/name/nm1478079/'},
-           {'@type': 'Person', 'name': 'Ryan Gage', 'url': '/name/nm2187587/'}],
+            'url': '/name/nm1478079/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 2236,
+                      'ratingCount': 2246,
                       'ratingValue': '6.3',
                       'worstRating': '1.0'}],
  'creator': [{'@type': 'Person',
@@ -27,9 +29,9 @@
              {'@type': 'Organization', 'url': '/company/co0486601/'}],
  'datePublished': '2015-09-15',
  'description': 'The Gamechangers is a TV movie starring Daniel Radcliffe, '
-                "Bill Paxton, and Joe Dempsie. The struggle of Houser's legal "
-                'feud against American lawyer Jack Thompson, over the morality '
-                'of the Grand Theft Auto video game series.',
+                "Bill Paxton, and Alex McGregor. The struggle of Houser's "
+                'legal feud against American lawyer Jack Thompson, over the '
+                'morality of the Grand Theft Auto video game series.',
  'director': [{'@type': 'Person',
                'name': 'Owen Harris',
                'url': '/name/nm2787176/'}],

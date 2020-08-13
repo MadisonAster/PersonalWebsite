@@ -16,7 +16,7 @@
            {'@type': 'Person', 'name': 'Ivo Nandi', 'url': '/name/nm2166477/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 80226,
+                      'ratingCount': 81504,
                       'ratingValue': '6.4',
                       'worstRating': '1.0'}],
  'contentRating': 'R',

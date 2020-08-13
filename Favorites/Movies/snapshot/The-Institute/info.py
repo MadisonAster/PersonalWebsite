@@ -18,7 +18,7 @@
             'url': '/name/nm5061035/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 1111,
+                      'ratingCount': 1144,
                       'ratingValue': '6.2',
                       'worstRating': '1.0'}],
  'contentRating': 'Not Rated',

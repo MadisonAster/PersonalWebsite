@@ -20,7 +20,7 @@
             'url': '/name/nm5634768/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 124188,
+                      'ratingCount': 127791,
                       'ratingValue': '7.8',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
@@ -41,7 +41,7 @@
                 'himself into the lives of those he is transfixed by.',
  'genre': ['Crime', 'Drama', 'Romance', 'Thriller'],
  'image': 'https://m.media-amazon.com/images/M/MV5BZDJjOTg4OWYtYWIyOS00MjQ3LTg5ZDktYzU2N2RkNmYzNjZlXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg',
- 'keywords': 'bookstore,obsessive love,stalker,new york,obsession',
+ 'keywords': 'bookstore,obsessive love,stalker,new york,psychological thriller',
  'name': 'You',
  'trailer': [{'@type': 'VideoObject',
               'description': "Meet Will Bettelheim. He's not your regular Joe. "

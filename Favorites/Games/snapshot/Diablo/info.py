@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Diablo',
  'EntryURL': 'https://rawg.io/games/diablo',
  'Entry_json': 'Favorites/Games/snapshot/Diablo/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Diablo/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Diablo/thumb.jpg',
- 'added': 453,
+ 'added': 483,
  'background_image': 'https://media.rawg.io/media/games/923/923a5dd13b6e79dd23ab2d09934f0e8d.jpg',
  'description': '<p>Le module multijoueur de Battle.net® nécessite de '
                 'configurer votre router et les ports de votre pare-feu ; plus '

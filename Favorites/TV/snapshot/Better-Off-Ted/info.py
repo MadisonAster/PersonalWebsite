@@ -20,7 +20,7 @@
             'url': '/name/nm0805587/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 24128,
+                      'ratingCount': 24248,
                       'ratingValue': '8.2',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-PG',
@@ -39,4 +39,11 @@
  'keywords': 'breaking the fourth wall by talking to the audience,workplace '
              'romance,workplace,offbeat,scientific research',
  'name': 'Better Off Ted',
+ 'trailer': [{'@type': 'VideoObject',
+              'embedUrl': '/video/imdb/vi2356264473',
+              'name': 'Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BNDhkOTcwNmItMjNmMy00YjBiLWJlOTktODNjYWZkNDk2NTk4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BNDhkOTcwNmItMjNmMy00YjBiLWJlOTktODNjYWZkNDk2NTk4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
+              'uploadDate': '2020-07-18T23:00:29Z'}],
  'url': '/title/tt1235547/'}

@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Uncharted-4-A-Thiefs-End',
  'EntryURL': 'https://rawg.io/games/uncharted-4-a-thiefs-end',
  'Entry_json': 'Favorites/Games/snapshot/Uncharted-4-A-Thiefs-End/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Uncharted-4-A-Thiefs-End/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Uncharted-4-A-Thiefs-End/thumb.jpg',
- 'added': 6033,
+ 'added': 6400,
  'background_image': 'https://media.rawg.io/media/games/0ea/0ea05d4703f3af63a570471fbad79d40.jpg',
  'description': '<p>Uncharted 4 is the final instalment in the Uncharted '
                 'series. The story follows Nathan Drake for the last time as '

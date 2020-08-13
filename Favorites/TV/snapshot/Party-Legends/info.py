@@ -16,7 +16,7 @@
             'url': '/name/nm0082266/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 96,
+                      'ratingCount': 98,
                       'ratingValue': '7.0',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',

@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Riven-The-Sequel-To-Myst',
  'EntryURL': 'https://rawg.io/games/riven-the-sequel-to-myst',
  'Entry_json': 'Favorites/Games/snapshot/Riven-The-Sequel-To-Myst/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Riven-The-Sequel-To-Myst/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Riven-The-Sequel-To-Myst/thumb.jpg',
- 'added': 261,
+ 'added': 278,
  'background_image': 'https://media.rawg.io/media/games/369/36925f823ec3e9e28a91729c88bf31ec.jpg',
  'description': '<p>Prepare to enter a world "torn asunder" by timeless, '
                 'unresolved conflicts--a world of incomparable beauty, '

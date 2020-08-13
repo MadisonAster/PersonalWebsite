@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Resident-Evil-2-2019',
  'EntryURL': 'https://rawg.io/games/resident-evil-2-2019',
  'Entry_json': 'Favorites/Games/snapshot/Resident-Evil-2-2019/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Resident-Evil-2-2019/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Resident-Evil-2-2019/thumb.jpg',
- 'added': 2740,
+ 'added': 2894,
  'background_image': 'https://media.rawg.io/media/games/053/053fc543bf488349610f1ae2d0c1b51b.jpg',
  'description': '<p>Resident Evil 2 is the remake of the 1998 game of the same '
                 'name. </p>\n'

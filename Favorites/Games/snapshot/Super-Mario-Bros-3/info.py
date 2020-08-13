@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Super-Mario-Bros-3',
  'EntryURL': 'https://rawg.io/games/super-mario-bros-3',
  'Entry_json': 'Favorites/Games/snapshot/Super-Mario-Bros-3/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Super-Mario-Bros-3/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Super-Mario-Bros-3/thumb.jpg',
- 'added': 562,
+ 'added': 622,
  'background_image': 'https://media.rawg.io/media/screenshots/092/092fc1910f067a95a07c0fbfdbe25f03.jpg',
  'description': '<p>Remember when no one had ever heard of a Tanooki Suit or '
                 'knew that<br />\n'

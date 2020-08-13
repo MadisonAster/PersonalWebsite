@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Halo-2',
  'EntryURL': 'https://rawg.io/games/halo-2',
  'Entry_json': 'Favorites/Games/snapshot/Halo-2/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Halo-2/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Halo-2/thumb.jpg',
- 'added': 353,
+ 'added': 386,
  'background_image': 'https://media.rawg.io/media/games/0c9/0c98889aa28b7c27474be0156961bee2.jpg',
  'description': '<p>The Covenant alien race threatens to destroy all '
                 'humankind, and the only thing standing in its way is Master '

@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Uncharted-Drakes-Fortune',
  'EntryURL': 'https://rawg.io/games/uncharted-drakes-fortune',
  'Entry_json': 'Favorites/Games/snapshot/Uncharted-Drakes-Fortune/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Uncharted-Drakes-Fortune/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Uncharted-Drakes-Fortune/thumb.jpg',
- 'added': 2524,
+ 'added': 2672,
  'background_image': 'https://media.rawg.io/media/games/f2e/f2e6dcf9c27d99ba2551f1094ad41756.jpg',
  'description': '<p>The game that started the popular Uncharted series. It is '
                 'all about a treasure hunt in the jungle and ancient ruins and '

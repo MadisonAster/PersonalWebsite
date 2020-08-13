@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/The-Gallery-Episode-2-Heart-Of-The-Emberstone',
  'EntryURL': 'https://rawg.io/games/the-gallery-episode-2-heart-of-the-emberstone',
  'Entry_json': 'Favorites/Games/snapshot/The-Gallery-Episode-2-Heart-Of-The-Emberstone/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/The-Gallery-Episode-2-Heart-Of-The-Emberstone/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/The-Gallery-Episode-2-Heart-Of-The-Emberstone/thumb.jpg',
- 'added': 45,
+ 'added': 50,
  'background_image': 'https://media.rawg.io/media/screenshots/8eb/8eb83d5c60df11c5f905be48a6c68752.jpg',
  'description': '<strong>The Gallery is a puzzle exploration game series built '
                 "for virtual reality and inspired by the mystery of dark 80's "

@@ -1,11 +1,11 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/The-Elder-Scrolls-V-Skyrim',
  'EntryURL': 'https://rawg.io/games/the-elder-scrolls-v-skyrim',
  'Entry_json': 'Favorites/Games/snapshot/The-Elder-Scrolls-V-Skyrim/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/The-Elder-Scrolls-V-Skyrim/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/The-Elder-Scrolls-V-Skyrim/thumb.jpg',
- 'added': 9421,
- 'background_image': 'https://media.rawg.io/media/games/e9c/e9cbc91e2090638ddab6ae0b3d334f90.jpg',
+ 'added': 9847,
+ 'background_image': 'https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg',
  'description': '<p>The fifth game in the series, Skyrim takes us on a journey '
                 'through the coldest region of Cyrodiil. Once again player can '
                 'traverse the open world RPG armed with various medieval '

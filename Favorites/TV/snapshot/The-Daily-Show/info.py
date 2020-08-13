@@ -10,17 +10,17 @@
             'name': 'Jon Stewart',
             'url': '/name/nm0829537/'},
            {'@type': 'Person',
-            'name': 'Stephen Colbert',
-            'url': '/name/nm0170306/'},
-           {'@type': 'Person',
             'name': 'Trevor Noah',
             'url': '/name/nm3696388/'},
+           {'@type': 'Person',
+            'name': 'Stephen Colbert',
+            'url': '/name/nm0170306/'},
            {'@type': 'Person',
             'name': 'John Oliver',
             'url': '/name/nm1056659/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 43938,
+                      'ratingCount': 44132,
                       'ratingValue': '8.4',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-14',
@@ -33,11 +33,12 @@
              {'@type': 'Organization', 'url': '/company/co0573674/'},
              {'@type': 'Organization', 'url': '/company/co0093766/'},
              {'@type': 'Organization', 'url': '/company/co0029768/'},
+             {'@type': 'Organization', 'url': '/company/co0812163/'},
              {'@type': 'Organization', 'url': '/company/co0074014/'},
              {'@type': 'Organization', 'url': '/company/co0171943/'}],
  'datePublished': '1996-07-22',
- 'description': 'The Daily Show is a TV series starring Jon Stewart, Stephen '
-                'Colbert, and Trevor Noah. Providing comedy/news in the '
+ 'description': 'The Daily Show is a TV series starring Jon Stewart, Trevor '
+                'Noah, and Stephen Colbert. Providing comedy/news in the '
                 "tradition of TV Nation and SNL's Weekend Update, Comedy "
                 "Central's Daily Show reports on the foibles and of the "
                 'real...',

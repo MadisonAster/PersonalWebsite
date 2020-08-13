@@ -15,7 +15,7 @@
             'url': '/name/nm4861860/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 1366,
+                      'ratingCount': 1379,
                       'ratingValue': '6.7',
                       'worstRating': '1.0'}],
  'creator': [{'@type': 'Person',

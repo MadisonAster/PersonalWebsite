@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/The-Last-Of-Us',
  'EntryURL': 'https://rawg.io/games/the-last-of-us',
  'Entry_json': 'Favorites/Games/snapshot/The-Last-Of-Us/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/The-Last-Of-Us/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/The-Last-Of-Us/thumb.jpg',
- 'added': 4017,
+ 'added': 4273,
  'background_image': 'https://media.rawg.io/media/games/a26/a26df52a846d2f5b3e6d5f7bbe58ed28.jpg',
  'description': '<p>The population of the Earth almost disappeared as a result '
                 'of a pandemic caused by a mutated fungus. The disease causes '

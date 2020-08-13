@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Chrono-Cross-1999',
  'EntryURL': 'https://rawg.io/games/chrono-cross-1999',
  'Entry_json': 'Favorites/Games/snapshot/Chrono-Cross-1999/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Chrono-Cross-1999/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Chrono-Cross-1999/thumb.jpg',
- 'added': 146,
+ 'added': 168,
  'background_image': 'https://media.rawg.io/media/screenshots/68a/68a2ff5767595c9abcc1aae3ee293daa.jpg',
  'description': '<p>Chrono Cross (クロノ・クロス, Kurono Kurosu) is a 1999 '
                 'role-playing video game developed and published by Square for '

@@ -18,7 +18,7 @@
             'url': '/name/nm0396812/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 219830,
+                      'ratingCount': 220824,
                       'ratingValue': '7.7',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
@@ -39,7 +39,8 @@
  'duration': 'PT2H4M',
  'genre': ['Crime', 'Drama', 'Thriller'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjA4MjI2OTM5N15BMl5BanBnXkFtZTcwNDA1NjUzMw@@._V1_.jpg',
- 'keywords': 'panties,voyeur,sex in bed,red panties,fondling',
+ 'keywords': 'sex in bed,breasts,unfaithfulness,extramarital affair,female '
+             'nudity',
  'name': '21 Grams',
  'trailer': [{'@type': 'VideoObject',
               'description': 'Trailer',

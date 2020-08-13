@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Dark-Souls',
  'EntryURL': 'https://rawg.io/games/dark-souls',
  'Entry_json': 'Favorites/Games/snapshot/Dark-Souls/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Dark-Souls/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Dark-Souls/thumb.jpg',
- 'added': 2072,
+ 'added': 2161,
  'background_image': 'https://media.rawg.io/media/games/582/582b5518a52f5086d15dde128264b94d.jpg',
  'description': '<p>Bone-rattling because of its complexity adventure in the '
                 'Lordran, land of the ancient lords and endless mysteries. We '

@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Star-Ocean-Till-The-End-Of-Time-2',
  'EntryURL': 'https://rawg.io/games/star-ocean-till-the-end-of-time-2',
  'Entry_json': 'Favorites/Games/snapshot/Star-Ocean-Till-The-End-Of-Time-2/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Star-Ocean-Till-The-End-Of-Time-2/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Star-Ocean-Till-The-End-Of-Time-2/thumb.jpg',
- 'added': 12,
+ 'added': 16,
  'background_image': 'https://media.rawg.io/media/screenshots/984/984217a69d48a938c3c34ecf3986de94.jpg',
  'description': '<p>Star Ocean: Till the End of Time is an action game '
                 'developed by Tri-Ace and tri-Crescendo. It was originally '

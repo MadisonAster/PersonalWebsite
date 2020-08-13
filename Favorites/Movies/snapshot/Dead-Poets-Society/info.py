@@ -20,7 +20,7 @@
             'url': '/name/nm0001038/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 404158,
+                      'ratingCount': 408818,
                       'ratingValue': '8.1',
                       'worstRating': '1.0'}],
  'contentRating': 'PG',
@@ -33,15 +33,15 @@
              {'@type': 'Organization', 'url': '/company/co0067672/'}],
  'datePublished': '1989-06-09',
  'description': 'Dead Poets Society is a movie starring Robin Williams, Robert '
-                'Sean Leonard, and Ethan Hawke. English teacher John Keating '
-                'inspires his students to look at poetry with a different '
-                'perspective of authentic knowledge and feelings....',
+                'Sean Leonard, and Ethan Hawke. Maverick teacher John Keating '
+                'uses poetry to embolden his boarding school students to new '
+                'heights of self-expression.',
  'director': [{'@type': 'Person',
                'name': 'Peter Weir',
                'url': '/name/nm0001837/'}],
  'duration': 'PT2H8M',
  'genre': ['Comedy', 'Drama'],
  'image': 'https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg',
- 'keywords': 'english teacher,professor,education,suicide,poet',
+ 'keywords': 'professor,education,suicide,english teacher,poet',
  'name': 'Dead Poets Society',
  'url': '/title/tt0097165/'}

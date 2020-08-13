@@ -1,5 +1,5 @@
 {'@context': 'http://schema.org',
- '@type': 'Movie',
+ '@type': 'TVEpisode',
  'EntryAdded': '2013-11-30',
  'EntryPath': 'Favorites/Movies/snapshot/The-Battle-of-Chernobyl',
  'EntryURL': 'https://www.imdb.com/title/tt1832484',
@@ -18,21 +18,21 @@
             'url': '/name/nm1360310/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 1298,
+                      'ratingCount': 1299,
                       'ratingValue': '8.3',
                       'worstRating': '1.0'}],
  'creator': [{'@type': 'Organization', 'url': '/company/co0121147/'}],
- 'datePublished': '2007-01-28',
- 'description': 'The Battle of Chernobyl is a movie starring Tim Birkett, Hans '
-                'Blix, and Mikhail Gorbachev. Documentary of the nuclear '
-                'disaster of Chernobyl.',
+ 'datePublished': '2006-04-21',
+ 'description': 'La bataille de Tchernobyl is an episode of Passé sous silence '
+                'starring Tim Birkett, Hans Blix, and Mikhail Gorbachev. '
+                'Documentary of the nuclear disaster of Chernobyl.',
  'director': [{'@type': 'Person',
                'name': 'Thomas Johnson',
                'url': '/name/nm4297891/'}],
- 'duration': 'PT1H34M',
  'genre': 'Documentary',
  'image': 'https://m.media-amazon.com/images/M/MV5BZGI4NjYzYjItZmIwYy00YTMzLWI1ZjctYWQ5MDFlMzRmMjgzXkEyXkFqcGdeQXVyMzkxNjQ1Mw@@._V1_.jpg',
  'keywords': 'nuclear energy,nuclear,nuclear power,nuclear disaster,nuclear '
              'accident',
- 'name': 'The Battle of Chernobyl',
+ 'name': 'La bataille de Tchernobyl',
+ 'timeRequired': 'PT1H34M',
  'url': '/title/tt1832484/'}

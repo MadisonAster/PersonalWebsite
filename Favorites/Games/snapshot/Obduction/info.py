@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Obduction',
  'EntryURL': 'https://rawg.io/games/obduction',
  'Entry_json': 'Favorites/Games/snapshot/Obduction/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Obduction/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Obduction/thumb.jpg',
- 'added': 973,
+ 'added': 1014,
  'background_image': 'https://media.rawg.io/media/games/c01/c0137ea58ab81b909685b5fb78d788cc.jpg',
  'description': '<p>Now also playable on Oculus Rift!<br />\n'
                 'Note: This is a visually lush and detailed game. Playing in '

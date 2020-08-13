@@ -18,7 +18,7 @@
             'url': '/name/nm0005064/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 196426,
+                      'ratingCount': 198594,
                       'ratingValue': '8.6',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-14',
@@ -35,7 +35,7 @@
                 'prestigious ad agencies at the beginning of the 1960s, '
                 "focusing on one of the firm's most mysterious but...",
  'genre': 'Drama',
- 'image': 'https://m.media-amazon.com/images/M/MV5BMjMwNzk5Nzg2OV5BMl5BanBnXkFtZTgwMjg1OTk1NDE@._V1_.jpg',
+ 'image': 'https://m.media-amazon.com/images/M/MV5BNTgxNDZlODQtNDcwOC00NWQ5LTljNWMtMDhjY2U5YTUzMTc4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg',
  'keywords': 'advertising,chain smoking,1960s,new york,drinking',
  'name': 'Mad Men',
  'trailer': [{'@type': 'VideoObject',

@@ -16,7 +16,7 @@
             'url': '/name/nm0001696/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 45372,
+                      'ratingCount': 45850,
                       'ratingValue': '7.1',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
@@ -47,4 +47,11 @@
  'keywords': 'secret agent,lynchian,psychological disintegration,reality vs '
              'fantasy,repressed homosexual',
  'name': 'Naked Lunch',
+ 'trailer': [{'@type': 'VideoObject',
+              'embedUrl': '/video/imdb/vi1534443033',
+              'name': 'Official Trailer',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BOWQyY2M3ZDEtM2M4MS00ZGVlLTg5MTQtNmY4Y2Y2ZDAzZGRiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BOWQyY2M3ZDEtM2M4MS00ZGVlLTg5MTQtNmY4Y2Y2ZDAzZGRiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
+              'uploadDate': '2020-07-22T16:10:37Z'}],
  'url': '/title/tt0102511/'}

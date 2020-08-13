@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Final-Fantasy-Ix',
  'EntryURL': 'https://rawg.io/games/final-fantasy-ix',
  'Entry_json': 'Favorites/Games/snapshot/Final-Fantasy-Ix/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Final-Fantasy-Ix/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Final-Fantasy-Ix/thumb.jpg',
- 'added': 1043,
+ 'added': 1137,
  'background_image': 'https://media.rawg.io/media/screenshots/e55/e55d3dfcd6064e796f4dca79879c2e76.jpg',
  'description': '<p>Final Fantasy IX (ファイナルファンタジーIX, Fainaru Fantajī Nain) is '
                 'a 2000 role-playing video game developed and published by '

@@ -1,11 +1,11 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Satisfactory',
  'EntryURL': 'https://rawg.io/games/satisfactory',
  'Entry_json': 'Favorites/Games/snapshot/Satisfactory/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Satisfactory/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Satisfactory/thumb.jpg',
- 'added': 111,
- 'background_image': 'https://media.rawg.io/media/screenshots/523/523f60abcb2e46376bb0f6963de1797d.jpg',
+ 'added': 301,
+ 'background_image': 'https://media.rawg.io/media/games/ac7/ac7eb85b920f73ea116eca09bea04191.jpg',
  'description': '<p>FICSIT - AN INTRODUCTION<br />\n'
                 'Welcome to FICSIT Incorporated! A company specialised in the '
                 'research, development and application of new technology and '

@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Final-Fantasy-Viii',
  'EntryURL': 'https://rawg.io/games/final-fantasy-viii',
  'Entry_json': 'Favorites/Games/snapshot/Final-Fantasy-Viii/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Final-Fantasy-Viii/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Final-Fantasy-Viii/thumb.jpg',
- 'added': 1040,
+ 'added': 1106,
  'background_image': 'https://media.rawg.io/media/games/f77/f77510051b6a61decc35c5257193fc9e.jpg',
  'description': '<p>Final Fantasy VIII is a Japanese role-playing game, the '
                 'eight main installments in Final Fantasy series.  </p>\n'

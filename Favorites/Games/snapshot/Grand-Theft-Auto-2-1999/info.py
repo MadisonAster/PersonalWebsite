@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Grand-Theft-Auto-2-1999',
  'EntryURL': 'https://rawg.io/games/grand-theft-auto-2-1999',
  'Entry_json': 'Favorites/Games/snapshot/Grand-Theft-Auto-2-1999/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Grand-Theft-Auto-2-1999/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Grand-Theft-Auto-2-1999/thumb.jpg',
- 'added': 1150,
+ 'added': 1202,
  'background_image': 'https://media.rawg.io/media/games/623/623eff489e5fcfd3d684e902d3efad8b.jpg',
  'description': '<h3>Story and the setting</h3>\n'
                 '<p>The second part of the well-known series of games in the '

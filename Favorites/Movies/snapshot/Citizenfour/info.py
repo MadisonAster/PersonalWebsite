@@ -20,14 +20,14 @@
             'url': '/name/nm3335834/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 50744,
+                      'ratingCount': 51138,
                       'ratingValue': '8.0',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
  'creator': [{'@type': 'Organization', 'url': '/company/co0245372/'},
              {'@type': 'Organization', 'url': '/company/co0132772/'},
              {'@type': 'Organization', 'url': '/company/co0139821/'}],
- 'datePublished': '2014-11-06',
+ 'datePublished': '2014-10-17',
  'description': 'Citizenfour is a movie starring Edward Snowden, Glenn '
                 'Greenwald, and William Binney. A documentarian and a reporter '
                 'travel to Hong Kong for the first of many meetings with '

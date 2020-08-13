@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Tomb-Raider-Ii',
  'EntryURL': 'https://rawg.io/games/tomb-raider-ii',
  'Entry_json': 'Favorites/Games/snapshot/Tomb-Raider-Ii/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Tomb-Raider-Ii/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Tomb-Raider-Ii/thumb.jpg',
- 'added': 1743,
+ 'added': 1815,
  'background_image': 'https://media.rawg.io/media/screenshots/c9c/c9c4e6d1792b5e12676819f3b57e5e26.jpeg',
  'description': '<p>Tomb Raider II is an action-adventure video game, part of '
                 'the Tomb Raider series and the sequel to the 1996 video game '

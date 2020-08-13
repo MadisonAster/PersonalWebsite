@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Dead-Space',
  'EntryURL': 'https://rawg.io/games/dead-space',
  'Entry_json': 'Favorites/Games/snapshot/Dead-Space/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Dead-Space/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Dead-Space/thumb.jpg',
- 'added': 5406,
+ 'added': 5656,
  'background_image': 'https://media.rawg.io/media/games/ebd/ebdbb7eb52bd58b0e7fa4538d9757b60.jpg',
  'description': '<p>Dead Space is a third-person shooter with horror elements. '
                 'Playing as Isaac Clarke, the systems engineer, players will '

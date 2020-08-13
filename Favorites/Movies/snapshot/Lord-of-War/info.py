@@ -18,7 +18,7 @@
             'url': '/name/nm0005256/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 287698,
+                      'ratingCount': 289176,
                       'ratingValue': '7.6',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
@@ -44,7 +44,7 @@
  'duration': 'PT2H2M',
  'genre': ['Action', 'Crime', 'Drama'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMTYzZWE3MDAtZjZkMi00MzhlLTlhZDUtNmI2Zjg3OWVlZWI0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg',
- 'keywords': 'arms dealer,prostitution,sex standing up,new york city,ukrainian',
+ 'keywords': 'arms dealer,gunrunner,prostitution,drug addiction,rehab',
  'name': 'Lord of War',
  'trailer': [{'@type': 'VideoObject',
               'description': 'Trailer for this action film starring Nicholas '

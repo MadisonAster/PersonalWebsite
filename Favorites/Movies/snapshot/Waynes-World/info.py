@@ -16,7 +16,7 @@
             'url': '/name/nm0000119/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 139754,
+                      'ratingCount': 140759,
                       'ratingValue': '7.0',
                       'worstRating': '1.0'}],
  'contentRating': 'PG-13',
@@ -46,4 +46,11 @@
  'keywords': 'public access,headbanging,breaking the fourth wall,based on '
              'sketch comedy,reference to blazing saddles',
  'name': "Wayne's World",
+ 'trailer': [{'@type': 'VideoObject',
+              'embedUrl': '/video/imdb/vi3340484121',
+              'name': 'Trailer [OV]',
+              'thumbnail': {'@type': 'ImageObject',
+                            'contentUrl': 'https://m.media-amazon.com/images/M/MV5BZjk2YWQxZjctOWQwNy00YTMyLWI4YjctZjliMTBiNjRjYTRmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg'},
+              'thumbnailUrl': 'https://m.media-amazon.com/images/M/MV5BZjk2YWQxZjctOWQwNy00YTMyLWI4YjctZjliMTBiNjRjYTRmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg',
+              'uploadDate': '2020-07-01T08:49:22Z'}],
  'url': '/title/tt0105793/'}

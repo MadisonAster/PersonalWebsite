@@ -12,7 +12,7 @@
            {'@type': 'Person', 'name': 'Tony Hale', 'url': '/name/nm0355024/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 902,
+                      'ratingCount': 906,
                       'ratingValue': '7.3',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-14',

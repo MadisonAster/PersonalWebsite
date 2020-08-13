@@ -20,8 +20,8 @@
             'url': '/name/nm9537602/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 17809,
-                      'ratingValue': '6.9',
+                      'ratingCount': 36931,
+                      'ratingValue': '6.8',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
  'creator': [{'@type': 'Person',
@@ -30,8 +30,10 @@
              {'@type': 'Person',
               'name': 'Greg Daniels',
               'url': '/name/nm0199948/'},
-             {'@type': 'Organization', 'url': '/company/co0070636/'},
-             {'@type': 'Organization', 'url': '/company/co0144901/'}],
+             {'@type': 'Organization', 'url': '/company/co0144901/'},
+             {'@type': 'Organization', 'url': '/company/co0093771/'},
+             {'@type': 'Organization', 'url': '/company/co0805754/'},
+             {'@type': 'Organization', 'url': '/company/co0070636/'}],
  'datePublished': '2020-05-29',
  'description': 'Space Force is a TV series starring Steve Carell, John '
                 'Malkovich, and Ben Schwartz. The people tasked with creating '

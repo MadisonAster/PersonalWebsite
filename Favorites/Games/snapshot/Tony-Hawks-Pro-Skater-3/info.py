@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Tony-Hawks-Pro-Skater-3',
  'EntryURL': 'https://rawg.io/games/tony-hawks-pro-skater-3',
  'Entry_json': 'Favorites/Games/snapshot/Tony-Hawks-Pro-Skater-3/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Tony-Hawks-Pro-Skater-3/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Tony-Hawks-Pro-Skater-3/thumb.jpg',
- 'added': 133,
+ 'added': 150,
  'background_image': 'https://media.rawg.io/media/screenshots/e6c/e6ca3e0518b3d24562199eb48eb7c52e.jpg',
  'description': "<p>Tony Hawk's Pro Skater 3 is a sports-arcade game developed "
                 'by Edge of Reality, Gearbox Software, Neversoft and Vicarious '

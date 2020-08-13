@@ -18,7 +18,7 @@
             'url': '/name/nm0674782/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 252912,
+                      'ratingCount': 254120,
                       'ratingValue': '7.0',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
@@ -49,7 +49,7 @@
                'name': 'Juan Carlos Fresnadillo',
                'url': '/name/nm0294379/'}],
  'duration': 'PT1H40M',
- 'genre': ['Horror', 'Sci-Fi'],
+ 'genre': ['Action', 'Horror', 'Sci-Fi'],
  'image': 'https://m.media-amazon.com/images/M/MV5BMjA5NjE2NDI0OF5BMl5BanBnXkFtZTgwNzU0NzQyMTI@._V1_.jpg',
  'keywords': 'infection,zombie film,zombie outbreak,zombie apocalypse,tied up '
              'while barefoot',

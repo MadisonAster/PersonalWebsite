@@ -1,10 +1,10 @@
-{'EntryAdded': '06-05-2020',
+{'EntryAdded': '08-01-2020',
  'EntryPath': 'Favorites/Games/snapshot/Final-Fantasy-Xii',
  'EntryURL': 'https://rawg.io/games/final-fantasy-xii',
  'Entry_json': 'Favorites/Games/snapshot/Final-Fantasy-Xii/entry.json',
  'Entry_py': 'Favorites/Games/snapshot/Final-Fantasy-Xii/info.py',
  'Entry_thumb': 'Favorites/Games/snapshot/Final-Fantasy-Xii/thumb.jpg',
- 'added': 112,
+ 'added': 134,
  'background_image': 'https://media.rawg.io/media/games/ced/ced839e45016b23215e1f4e462204d6b.jpg',
  'description': '<p>The story takes place in a world called '
                 '&quot;Ivalice,&quot; in an age when magic was commonplace and '

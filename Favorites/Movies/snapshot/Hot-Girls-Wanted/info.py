@@ -7,20 +7,20 @@
  'Entry_py': 'Favorites/Movies/snapshot/Hot-Girls-Wanted/info.py',
  'Entry_thumb': 'Favorites/Movies/snapshot/Hot-Girls-Wanted/thumb.jpg',
  'actor': [{'@type': 'Person',
-            'name': 'Farrah Laurel Abraham',
-            'url': '/name/nm4766272/'},
+            'name': 'Tressa Silguero',
+            'url': '/name/nm6414139/'},
            {'@type': 'Person',
-            'name': 'John Anthony',
-            'url': '/name/nm7361618/'},
+            'name': 'Riley Reynolds',
+            'url': '/name/nm7139818/'},
            {'@type': 'Person',
             'name': 'Rachel Bernard',
             'url': '/name/nm6367070/'},
            {'@type': 'Person',
-            'name': 'Carrie Brooks',
-            'url': '/name/nm6844809/'}],
+            'name': 'John Anthony',
+            'url': '/name/nm7361618/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 15064,
+                      'ratingCount': 15269,
                       'ratingValue': '6.1',
                       'worstRating': '1.0'}],
  'creator': [{'@type': 'Person',
@@ -28,10 +28,10 @@
               'url': '/name/nm1628158/'},
              {'@type': 'Organization', 'url': '/company/co0376609/'}],
  'datePublished': '2015-05-29',
- 'description': 'Hot Girls Wanted is a movie starring Farrah Laurel Abraham, '
-                'John Anthony, and Rachel Bernard. A documentary about young '
-                'women who have been drawn into the sex trade - and how easy '
-                'it is for a web-savvy generation to end up making...',
+ 'description': 'Hot Girls Wanted is a movie starring Tressa Silguero, Riley '
+                'Reynolds, and Rachel Bernard. A documentary about young women '
+                'who have been drawn into the sex trade - and how easy it is '
+                'for a web-savvy generation to end up making porn.',
  'director': [{'@type': 'Person',
                'name': 'Jill Bauer',
                'url': '/name/nm4991098/'},

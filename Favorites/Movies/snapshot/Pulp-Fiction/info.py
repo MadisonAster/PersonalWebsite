@@ -20,7 +20,7 @@
             'url': '/name/nm0000246/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 1759456,
+                      'ratingCount': 1773087,
                       'ratingValue': '8.9',
                       'worstRating': '1.0'}],
  'contentRating': 'R',
@@ -47,7 +47,7 @@
  'duration': 'PT2H34M',
  'genre': ['Crime', 'Drama'],
  'image': 'https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg',
- 'keywords': 'nonlinear timeline,overdose,drug overdose,black comedy,bondage',
+ 'keywords': 'nonlinear timeline,overdose,drug overdose,bondage,drug use',
  'name': 'Pulp Fiction',
  'trailer': [{'@type': 'VideoObject',
               'description': 'The lives of two mob hit men, a boxer, a '

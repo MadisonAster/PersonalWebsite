@@ -18,7 +18,7 @@
            {'@type': 'Person', 'name': 'Kate Mara', 'url': '/name/nm0544718/'}],
  'aggregateRating': [{'@type': 'AggregateRating',
                       'bestRating': '10.0',
-                      'ratingCount': 451959,
+                      'ratingCount': 454581,
                       'ratingValue': '8.7',
                       'worstRating': '1.0'}],
  'contentRating': 'TV-MA',
