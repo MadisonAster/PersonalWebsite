@@ -32,8 +32,9 @@ function GetDockerHubURL() {
 
 function GetIMDBURL() {
     GetConfigData();
-    return window.ConfigData['IMDB_SnapshotURL'];
+    //return window.ConfigData['IMDB_SnapshotURL'];
     //return window.ConfigData['IMDB_ResumeURL'];
+    return "";
 };
 
 function GetCodeWarsURL(){
