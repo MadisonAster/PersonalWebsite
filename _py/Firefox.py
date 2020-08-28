@@ -72,7 +72,7 @@ def GetFileLines(titles):
     filelines = []
     for title in titles:
         #newline = "<a href='https://www.MadisonAster.com/Favorites#"+title['title']+"'>"+title['title']+"</a>,"+title['year']+",<span style='color:#00FF00"+HexFromPercent(title['level'][0:2])+";'>"+title['level']+"</span>\n"
-        newline = title['title']+","+title['year']+",<span style='color:#00FF00"+HexFromPercent(title['level'][0:2])+";'>"+title['level']+"</span>\n"
+        newline = title['title']+","+title['year']+",<span style='color:#00FF00"+HexFromPercent(title['level'][0:2].replace('%',''))+";'>"+title['level']+"</span>\n"
         filelines.append(newline)
     return filelines
 
