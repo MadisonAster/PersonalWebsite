@@ -352,6 +352,36 @@ def GetIMDB(url, SnapshotFolder):
         html2 = html.split('<nav',1)
         html = html2[0]+html2[1].split('</nav>',1)[-1]
     
+    if 'img_primary' in html:
+        image = '''
+        <div class="image">
+        <a target='_blank' href="https://www.imdb.com/name/nm4807696/mediaviewer/rm3489049601">
+        <img id="name-poster"
+        height="317"
+        width="214"
+        alt="Madison Aster Picture"
+        title="Madison Aster Picture"
+        src="image_000.jpg"
+        style="margin: -11px 0 -4px -1px;"/>
+        </a>
+        </div>
+        '''
+        html2 = html.split('img_primary"',1)
+        html2[1] = '</td>'+html2[1].split('</td>',1)[-1]
+        html = html2[0]+'img_primary" style="padding: 0 14px 0 0;"'+image+html2[1]
+
+    if 'no-pic-wrapper' in html:
+        html2 = html.split('no-pic-wrapper',1)
+        html2[0] = html2[0] + '">'
+        html2[1] = '<div class="' + html2[1].split('no-pic-text-column',1)[-1]
+        html = html2[0]+html2[1]
+
+    if 'view-resume-redesign' in html:
+        html2 = html.split('view-resume-redesign',1)
+        html2[0] = html2[0].rsplit('<a',1)[0]
+        html2[1] = html2[1].split('</a>',1)[-1].replace('&raquo;','<hr/>',1)
+        html = html2[0]+html2[1]
+
     '''
     if 'data-testid="panel"' in html:
         html0 = html.split('data-testid="panel"', 1)[0].rsplit('<div', 1)[0]
@@ -376,7 +406,8 @@ def GetIMDB(url, SnapshotFolder):
     
     #########################Save Images###########################
     for filename in os.listdir(SnapshotFolder):
-        os.remove(SnapshotFolder+'/'+filename)
+        if filename != 'image_000.jpg':
+            os.remove(SnapshotFolder+'/'+filename)
     images = html.split('<img')[1:]
     for i, a in enumerate(images):
         imgURL = a.split('src="',1)[1].split('"',1)[0]
@@ -387,11 +418,12 @@ def GetIMDB(url, SnapshotFolder):
             imgExt = 'jpg'
         if imgURL != '' and imgExt != '': #Do better filename validity check here
             imgName = 'image_'+str(i).zfill(3)+'.'+imgExt
-            imgFile = urllib.urlopen(imgURL)
-            fileObject = open(SnapshotFolder+'/'+imgName, 'wb')
-            fileObject.write(imgFile.read())
-            fileObject.close()
-            html = html.replace(imgURL, imgName)
+            if imgName != 'image_000.jpg':
+                imgFile = urllib.urlopen(imgURL)
+                fileObject = open(SnapshotFolder+'/'+imgName, 'wb')
+                fileObject.write(imgFile.read())
+                fileObject.close()
+                html = html.replace(imgURL, imgName)
     ###############################################################
     
     
