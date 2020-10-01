@@ -1,0 +1,1 @@
+A python package that extends python's import syntax to provide easy and flexible relative imports. 
