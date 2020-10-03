@@ -90,6 +90,7 @@ function CloseResumeDialog() {
 function GenerateResume(){
     //Data Gathering////////
     var JobTitle = GetJobTitle();
+    var JobObjective = GetJobObjective();
     var JobType = GetJobType();
     var ActiveSkills = GetActiveSkillList();
     var ActiveSkillSets = GetActiveSkillSets();
@@ -127,7 +128,7 @@ function GenerateResume(){
     var headerspace = 30;
     var ycursor2 = 130;
     ycursor2 = AddProfileDetails(doc, JobTitle, ycursor2, headerspace);
-    ycursor2 = AddAboutMe(doc, JobType['Objective'], ycursor2, headerspace);
+    ycursor2 = AddAboutMe(doc, JobObjective, ycursor2, headerspace);
     ycursor2 = AddProfessionalExperience(doc, ycursor2, headerspace);
     ycursor2 = AddEducation(doc, ycursor2, headerspace);
     ycursor2 = AddProjects(doc, ActiveProjectsData, ycursor2, headerspace);
@@ -159,6 +160,10 @@ function GetJobTypeTitle(){
 function GetJobTitle(){
     console.log('GetJobTitle');
     return $('#JobTypeOverrideForm').val();
+};
+
+function GetJobObjective(){
+    return $('#JobDescriptionOverrideForm').val();
 };
 
 function SetJobType(JobTypeTitle){
