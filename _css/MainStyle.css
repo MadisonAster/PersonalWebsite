@@ -447,7 +447,8 @@ input[type=checkbox]:checked+.ProjectCheckBox:after {
     vertical-align: top;
     width: 350px;
     position: absolute;
-    padding:0;
+    padding: 0;
+    display: none;
 }
 
 .dropdown button{
