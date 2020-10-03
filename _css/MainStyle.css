@@ -426,7 +426,6 @@ input[type=checkbox]:checked+.ProjectCheckBox:after {
     */
 }
 
-
 #JobTypeOverrideForm{
     color: #666666;
     background-color: #111111;
@@ -437,6 +436,19 @@ input[type=checkbox]:checked+.ProjectCheckBox:after {
     border: 1px solid rgba(0,0,0,.35);
 }
 
+#JobDescriptionOverrideForm{
+    color: #666666;
+    background-color: #111111;
+    font-size: 1rem;
+    border-radius: .25rem;
+    line-height: 1.5;
+    height: 75px;
+    border: 1px solid rgba(0,0,0,.35);
+    vertical-align: top;
+    width: 350px;
+    position: absolute;
+    padding:0;
+}
 
 .dropdown button{
     color: #fff;

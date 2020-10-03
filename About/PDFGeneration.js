@@ -167,6 +167,7 @@ function SetJobType(JobTypeTitle){
     var JobData = window.JobTypes[JobTypeTitle];
     SetActiveSkillList(JobData['ActiveSkills']);
     SetActiveProjectsList(JobData['ActiveSkills']);
+    $('#JobDescriptionOverrideForm').val(JobData['Objective']);
 };
 
 function GetJobType(){
